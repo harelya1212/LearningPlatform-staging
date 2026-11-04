@@ -1,0 +1,2018 @@
+{
+  "packId": "ella-college-english",
+  "version": "1.0",
+  "title": "College Prep English 1 & 2 (12th)",
+  "description": "College prep English - literature, composition, rhetoric",
+  "language": "en",
+  "passingScore": 70,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-03",
+  "tags": [
+    "english",
+    "ela",
+    "grade12",
+    "ella"
+  ],
+  "questions": [
+    {
+      "id": "EENG_001",
+      "question": "Identify the author of 'The Great Gatsby.'",
+      "correctAnswer": "F. Scott Fitzgerald",
+      "distractors": [
+        "Ernest Hemingway",
+        "John Steinbeck",
+        "Mark Twain"
+      ],
+      "explanation": "F. Scott Fitzgerald published The Great Gatsby in 1925, the defining novel of the Jazz Age.",
+      "memoryHook": "T-Rexy says: Gatsby raises a green-light toast, and Fitzgerald picks up the tab!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_002",
+      "question": "Identify the author of 'The Adventures of Huckleberry Finn.'",
+      "correctAnswer": "Mark Twain",
+      "distractors": [
+        "Herman Melville",
+        "Nathaniel Hawthorne",
+        "Edgar Allan Poe"
+      ],
+      "explanation": "Mark Twain, the pen name of Samuel Clemens, wrote Huckleberry Finn, published in 1884.",
+      "memoryHook": "T-Rexy says: Twain steers the raft - follow the Mississippi current to the right answer!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_003",
+      "question": "Which novel features the character Atticus Finch?",
+      "correctAnswer": "To Kill a Mockingbird",
+      "distractors": [
+        "The Catcher in the Rye",
+        "Of Mice and Men",
+        "The Grapes of Wrath"
+      ],
+      "explanation": "Atticus Finch is the principled lawyer father in Harper Lee's To Kill a Mockingbird (1960).",
+      "memoryHook": "T-Rexy says: Atticus stands tall in the courtroom - mockingbirds sing for the innocent!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_004",
+      "question": "Identify the author of the poem 'The Raven.'",
+      "correctAnswer": "Edgar Allan Poe",
+      "distractors": [
+        "Walt Whitman",
+        "Emily Dickinson",
+        "Robert Frost"
+      ],
+      "explanation": "Edgar Allan Poe published 'The Raven' in 1845, famous for its refrain 'Nevermore.'",
+      "memoryHook": "T-Rexy says: Nevermore! Poe's raven croaks the author's name all night!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_005",
+      "question": "Determine the city at the center of the Harlem Renaissance cultural movement.",
+      "correctAnswer": "New York City",
+      "distractors": [
+        "Chicago",
+        "New Orleans",
+        "Atlanta"
+      ],
+      "explanation": "The Harlem Renaissance of the 1920s was centered in the Harlem neighborhood of New York City.",
+      "memoryHook": "T-Rexy says: the Renaissance danced uptown - Harlem is in New York City!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_006",
+      "question": "Identify the author of 'Their Eyes Were Watching God.'",
+      "correctAnswer": "Zora Neale Hurston",
+      "distractors": [
+        "Toni Morrison",
+        "Maya Angelou",
+        "Alice Walker"
+      ],
+      "explanation": "Zora Neale Hurston, a key Harlem Renaissance figure, published Their Eyes Were Watching God in 1937.",
+      "memoryHook": "T-Rexy says: Hurston's eyes watch from Eatonville - Zora saw it all!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_007",
+      "question": "Determine the object of the hunt in 'Moby-Dick.'",
+      "correctAnswer": "A white whale",
+      "distractors": [
+        "A treasure ship",
+        "A sea monster",
+        "A lost island"
+      ],
+      "explanation": "Herman Melville's Moby-Dick follows Captain Ahab's obsessive hunt for the white whale Moby Dick.",
+      "memoryHook": "T-Rexy says: the great white whale splashes - Ahab chases Moby-Dick!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_008",
+      "question": "Which author is most closely associated with Transcendentalism?",
+      "correctAnswer": "Ralph Waldo Emerson",
+      "distractors": [
+        "Edgar Allan Poe",
+        "Washington Irving",
+        "James Fenimore Cooper"
+      ],
+      "explanation": "Ralph Waldo Emerson's essay 'Self-Reliance' is a cornerstone of Transcendentalist thought.",
+      "memoryHook": "T-Rexy says: Emerson transcends - self-reliance lifts the dino above the crowd!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_009",
+      "question": "Identify the colony that serves as the setting of 'The Scarlet Letter.'",
+      "correctAnswer": "Massachusetts Bay Colony",
+      "distractors": [
+        "Virginia Colony",
+        "Pennsylvania Colony",
+        "Maryland Colony"
+      ],
+      "explanation": "Nathaniel Hawthorne set The Scarlet Letter in 17th-century Puritan Boston, Massachusetts Bay Colony.",
+      "memoryHook": "T-Rexy says: the scarlet A burns in Boston - Massachusetts marks the colony!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_010",
+      "question": "Identify the author of 'Beloved.'",
+      "correctAnswer": "Toni Morrison",
+      "distractors": [
+        "Alice Walker",
+        "Gloria Naylor",
+        "Jamaica Kincaid"
+      ],
+      "explanation": "Toni Morrison won the Pulitzer Prize for Beloved (1987); she later won the Nobel Prize in Literature.",
+      "memoryHook": "T-Rexy says: Morrison's Beloved haunts - Toni tells the story that won't stay buried!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_011",
+      "question": "Identify the author of 'Pride and Prejudice.'",
+      "correctAnswer": "Jane Austen",
+      "distractors": [
+        "Charlotte Bronte",
+        "Emily Bronte",
+        "George Eliot"
+      ],
+      "explanation": "Jane Austen published Pride and Prejudice in 1813, featuring Elizabeth Bennet and Mr. Darcy.",
+      "memoryHook": "T-Rexy says: Austen minds the manners - pride meets prejudice at the ball!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_012",
+      "question": "Identify the author of '1984.'",
+      "correctAnswer": "George Orwell",
+      "distractors": [
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "H.G. Wells"
+      ],
+      "explanation": "George Orwell published the dystopian novel 1984 in 1949, introducing Big Brother and Newspeak.",
+      "memoryHook": "T-Rexy says: Big Brother is watching - Orwell's 1984 never blinks!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_013",
+      "question": "Identify the author of 'A Tale of Two Cities.'",
+      "correctAnswer": "Charles Dickens",
+      "distractors": [
+        "William Thackeray",
+        "Thomas Hardy",
+        "Anthony Trollope"
+      ],
+      "explanation": "Charles Dickens wrote A Tale of Two Cities (1859), set during the French Revolution.",
+      "memoryHook": "T-Rexy says: it was the best of times - Dickens doubles the cities!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_014",
+      "question": "Which Romantic poet wrote 'Ode to a Nightingale'?",
+      "correctAnswer": "John Keats",
+      "distractors": [
+        "Lord Byron",
+        "Percy Bysshe Shelley",
+        "Samuel Taylor Coleridge"
+      ],
+      "explanation": "John Keats composed 'Ode to a Nightingale' in 1819, one of his great odes.",
+      "memoryHook": "T-Rexy says: Keats hears the nightingale - the ode sings in the dark!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_015",
+      "question": "Identify the author of 'Frankenstein.'",
+      "correctAnswer": "Mary Shelley",
+      "distractors": [
+        "Bram Stoker",
+        "Mary Wollstonecraft",
+        "Ann Radcliffe"
+      ],
+      "explanation": "Mary Shelley wrote Frankenstein (1818) at age 18, creating the modern science-fiction novel.",
+      "memoryHook": "T-Rexy says: Shelley's monster stomps - Mary built him from spare parts!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_016",
+      "question": "Identify the author of 'Lord of the Flies.'",
+      "correctAnswer": "William Golding",
+      "distractors": [
+        "J.R.R. Tolkien",
+        "C.S. Lewis",
+        "George Orwell"
+      ],
+      "explanation": "William Golding published Lord of the Flies in 1954, about schoolboys stranded on an island.",
+      "memoryHook": "T-Rexy says: the flies buzz on the island - Golding rules the stranded boys!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_017",
+      "question": "Identify the author of 'Wuthering Heights.'",
+      "correctAnswer": "Emily Bronte",
+      "distractors": [
+        "Charlotte Bronte",
+        "Anne Bronte",
+        "Jane Austen"
+      ],
+      "explanation": "Emily Bronte published Wuthering Heights in 1847 under the pen name Ellis Bell.",
+      "memoryHook": "T-Rexy says: the winds howl on the moors - Emily's Heights never calm down!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_018",
+      "question": "Determine the historical event that 'Animal Farm' allegorizes.",
+      "correctAnswer": "The Russian Revolution",
+      "distractors": [
+        "World War I",
+        "The French Revolution",
+        "The Industrial Revolution"
+      ],
+      "explanation": "Orwell's Animal Farm (1945) satirizes the Russian Revolution, with the pigs as Bolshevik leaders.",
+      "memoryHook": "T-Rexy says: the pigs take the farm - Orwell's animals replay the Revolution!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_019",
+      "question": "Identify the author of the Sherlock Holmes stories.",
+      "correctAnswer": "Arthur Conan Doyle",
+      "distractors": [
+        "Agatha Christie",
+        "G.K. Chesterton",
+        "Edgar Allan Poe"
+      ],
+      "explanation": "Sir Arthur Conan Doyle created Sherlock Holmes, debuting in A Study in Scarlet (1887).",
+      "memoryHook": "T-Rexy says: elementary! Doyle's detective deduces every clue!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_020",
+      "question": "Identify the author of 'Brave New World.'",
+      "correctAnswer": "Aldous Huxley",
+      "distractors": [
+        "George Orwell",
+        "Kurt Vonnegut",
+        "Ray Bradbury"
+      ],
+      "explanation": "Aldous Huxley published the dystopian Brave New World in 1932.",
+      "memoryHook": "T-Rexy says: Huxley's brave new world - soma keeps everyone smiling!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_021",
+      "question": "Which term best describes a recurring object that represents an abstract idea?",
+      "correctAnswer": "symbol",
+      "distractors": [
+        "allusion",
+        "euphemism",
+        "paradox"
+      ],
+      "explanation": "A symbol is a concrete object standing for an abstract idea, like a dove for peace.",
+      "memoryHook": "T-Rexy says: a dove means peace - symbols wear costumes as ideas!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_022",
+      "question": "Identify the term for the main character who drives the plot.",
+      "correctAnswer": "protagonist",
+      "distractors": [
+        "antagonist",
+        "foil",
+        "narrator"
+      ],
+      "explanation": "The protagonist is the central character whose goals drive the story forward.",
+      "memoryHook": "T-Rexy says: the protagonist leads the parade - follow the main dino!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_023",
+      "question": "Which term best describes a character who contrasts with another to highlight traits?",
+      "correctAnswer": "foil",
+      "distractors": [
+        "protagonist",
+        "antihero",
+        "stock character"
+      ],
+      "explanation": "A foil's contrasting qualities throw the main character's traits into sharper relief.",
+      "memoryHook": "T-Rexy says: a foil is the shiny opposite - contrast makes characters pop!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_024",
+      "question": "Identify the term for the turning point of a story's plot.",
+      "correctAnswer": "climax",
+      "distractors": [
+        "exposition",
+        "falling action",
+        "denouement"
+      ],
+      "explanation": "The climax is the moment of highest tension where the central conflict turns.",
+      "memoryHook": "T-Rexy says: the climax is the mountain top - the plot can't climb higher!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_025",
+      "question": "Which term best describes a story's time and place?",
+      "correctAnswer": "setting",
+      "distractors": [
+        "theme",
+        "tone",
+        "mood"
+      ],
+      "explanation": "Setting is the when and where of a narrative; mood is the feeling it creates.",
+      "memoryHook": "T-Rexy says: setting sets the stage - time and place paint the backdrop!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_026",
+      "question": "Determine the term for the central message or insight of a work.",
+      "correctAnswer": "theme",
+      "distractors": [
+        "plot",
+        "conflict",
+        "tone"
+      ],
+      "explanation": "Theme is the underlying message about life or human nature, distinct from plot events.",
+      "memoryHook": "T-Rexy says: the theme is the treasure - dig under the plot to find it!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_027",
+      "question": "Identify which pronouns a first-person narrator uses.",
+      "correctAnswer": "I, me, my",
+      "distractors": [
+        "you, your",
+        "he, she, they",
+        "we, us, our"
+      ],
+      "explanation": "First-person narration uses I/me/my; second person uses you; third person uses he/she/they.",
+      "memoryHook": "T-Rexy says: I tell my own tale - first person keeps it personal!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_028",
+      "question": "Which term best describes a comparison using 'like' or 'as'?",
+      "correctAnswer": "simile",
+      "distractors": [
+        "metaphor",
+        "personification",
+        "hyperbole"
+      ],
+      "explanation": "A simile compares two things with like or as; a metaphor states the comparison directly.",
+      "memoryHook": "T-Rexy says: like, as - similes compare with training wheels!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_029",
+      "question": "Identify the term for giving human qualities to nonhuman things.",
+      "correctAnswer": "personification",
+      "distractors": [
+        "hyperbole",
+        "understatement",
+        "irony"
+      ],
+      "explanation": "Personification attributes human traits to objects or ideas, like 'the wind whispered.'",
+      "memoryHook": "T-Rexy says: the wind whispers - personification gives things a voice!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_030",
+      "question": "Which term best describes extreme exaggeration used for effect?",
+      "correctAnswer": "hyperbole",
+      "distractors": [
+        "understatement",
+        "litotes",
+        "euphemism"
+      ],
+      "explanation": "Hyperbole is deliberate overstatement, as in 'I've told you a million times.'",
+      "memoryHook": "T-Rexy says: a million times over - hyperbole never does anything small!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Literature"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_031",
+      "question": "In rhetoric, determine what ethos appeals to in an audience.",
+      "correctAnswer": "the speaker's credibility",
+      "distractors": [
+        "emotion",
+        "logic and reason",
+        "fear"
+      ],
+      "explanation": "Ethos builds trust through the speaker's character, expertise, and credibility.",
+      "memoryHook": "T-Rexy says: trust the badge - ethos flashes credentials!",
+      "imageUrl": "topic:rhetoric",
+      "tags": [
+        "ELA",
+        "Rhetoric"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_032",
+      "question": "In rhetoric, determine what pathos appeals to in an audience.",
+      "correctAnswer": "emotion",
+      "distractors": [
+        "credibility",
+        "logic",
+        "tradition"
+      ],
+      "explanation": "Pathos persuades by stirring feelings such as sympathy, anger, or hope.",
+      "memoryHook": "T-Rexy says: pathos pulls heartstrings - feel the argument!",
+      "imageUrl": "topic:rhetoric",
+      "tags": [
+        "ELA",
+        "Rhetoric"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_033",
+      "question": "In rhetoric, determine what logos appeals to in an audience.",
+      "correctAnswer": "logic and reason",
+      "distractors": [
+        "emotion",
+        "character",
+        "values"
+      ],
+      "explanation": "Logos relies on evidence, facts, and logical reasoning to persuade.",
+      "memoryHook": "T-Rexy says: logos loves logic - numbers and reasons rule!",
+      "imageUrl": "topic:rhetoric",
+      "tags": [
+        "ELA",
+        "Rhetoric"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_034",
+      "question": "Identify the rhetorical device in which a speaker says the opposite of what they mean for effect.",
+      "correctAnswer": "verbal irony",
+      "distractors": [
+        "dramatic irony",
+        "situational irony",
+        "hyperbole"
+      ],
+      "explanation": "Verbal irony is a statement whose intended meaning is the opposite of its literal words.",
+      "memoryHook": "T-Rexy says: say the opposite with a wink - verbal irony talks backwards!",
+      "imageUrl": "topic:rhetoric",
+      "tags": [
+        "ELA",
+        "Rhetoric"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_035",
+      "question": "Which term best describes dramatic irony, when the audience knows something a character does not?",
+      "correctAnswer": "dramatic irony",
+      "distractors": [
+        "verbal irony",
+        "situational irony",
+        "sarcasm"
+      ],
+      "explanation": "Dramatic irony creates tension because viewers know more than the characters on stage.",
+      "memoryHook": "T-Rexy says: you know, they don't - dramatic irony keeps secrets from the stage!",
+      "imageUrl": "topic:rhetoric",
+      "tags": [
+        "ELA",
+        "Rhetoric"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_036",
+      "question": "Identify the rhetorical device of repeating a word or phrase at the start of successive clauses.",
+      "correctAnswer": "anaphora",
+      "distractors": [
+        "epistrophe",
+        "chiasmus",
+        "anadiplosis"
+      ],
+      "explanation": "Anaphora repeats openings, as in 'I have a dream... I have a dream' from Dr. King.",
+      "memoryHook": "T-Rexy says: I have a dream, I have a dream - anaphora repeats the drumbeat!",
+      "imageUrl": "topic:rhetoric",
+      "tags": [
+        "ELA",
+        "Rhetoric"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_037",
+      "question": "Which term best describes a question asked for effect rather than an answer?",
+      "correctAnswer": "rhetorical question",
+      "distractors": [
+        "loaded question",
+        "Socratic question",
+        "hypothetical question"
+      ],
+      "explanation": "A rhetorical question makes a point; the speaker does not expect a reply.",
+      "memoryHook": "T-Rexy says: who needs an answer? Rhetorical questions ask for effect!",
+      "imageUrl": "topic:rhetoric",
+      "tags": [
+        "ELA",
+        "Rhetoric"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_038",
+      "question": "Identify the logical fallacy of misrepresenting an opponent's argument to attack the weaker version.",
+      "correctAnswer": "straw man",
+      "distractors": [
+        "ad hominem",
+        "red herring",
+        "false dilemma"
+      ],
+      "explanation": "A straw man distorts the other side's position into an easier target to knock down.",
+      "memoryHook": "T-Rexy says: don't fight a straw dino - attack the real argument!",
+      "imageUrl": "topic:rhetoric",
+      "tags": [
+        "ELA",
+        "Rhetoric"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_039",
+      "question": "Identify the logical fallacy of attacking the person instead of their argument.",
+      "correctAnswer": "ad hominem",
+      "distractors": [
+        "straw man",
+        "begging the question",
+        "slippery slope"
+      ],
+      "explanation": "Ad hominem means 'to the person' - it dodges the argument by insulting the arguer.",
+      "memoryHook": "T-Rexy says: argue the point, not the person - ad hominem misses the target!",
+      "imageUrl": "topic:rhetoric",
+      "tags": [
+        "ELA",
+        "Rhetoric"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_040",
+      "question": "Determine the rhetorical device used in 'I came, I saw, I conquered.'",
+      "correctAnswer": "parallelism",
+      "distractors": [
+        "antithesis",
+        "chiasmus",
+        "zeugma"
+      ],
+      "explanation": "Parallelism repeats the same grammatical structure across clauses for rhythm and force.",
+      "memoryHook": "T-Rexy says: march in step - parallel structure keeps clauses in formation!",
+      "imageUrl": "topic:rhetoric",
+      "tags": [
+        "ELA",
+        "Rhetoric"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_041",
+      "question": "Determine where a thesis statement usually appears in an essay.",
+      "correctAnswer": "at the end of the introduction",
+      "distractors": [
+        "at the start of the introduction",
+        "in the middle of the body",
+        "in the conclusion"
+      ],
+      "explanation": "Placing the thesis at the end of the introduction lets context build before the main claim lands.",
+      "memoryHook": "T-Rexy says: the thesis lands the intro - last line, main claim!",
+      "imageUrl": "topic:writing",
+      "tags": [
+        "ELA",
+        "Writing"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_042",
+      "question": "Identify the term for an opposing argument addressed in an essay.",
+      "correctAnswer": "an opposing view the writer addresses",
+      "distractors": [
+        "the writer's main claim",
+        "evidence supporting the thesis",
+        "a restatement of the introduction"
+      ],
+      "explanation": "Acknowledging a counterargument shows fairness and lets the writer answer objections.",
+      "memoryHook": "T-Rexy says: hear the other side - counterarguments steel-man the opposition!",
+      "imageUrl": "topic:writing",
+      "tags": [
+        "ELA",
+        "Writing"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_043",
+      "question": "Determine the function of a rebuttal in an essay.",
+      "correctAnswer": "responds to and refutes a counterargument",
+      "distractors": [
+        "introduces a new topic",
+        "summarizes the essay",
+        "quotes an expert"
+      ],
+      "explanation": "After raising a counterargument, the rebuttal explains why it fails or is outweighed.",
+      "memoryHook": "T-Rexy says: rebuttal roars back - answer the objection and move on!",
+      "imageUrl": "topic:writing",
+      "tags": [
+        "ELA",
+        "Writing"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_044",
+      "question": "Which is the strongest thesis statement?",
+      "correctAnswer": "School uniforms limit student self-expression and should be optional.",
+      "distractors": [
+        "School uniforms are interesting.",
+        "This essay will discuss uniforms.",
+        "Many schools have uniforms."
+      ],
+      "explanation": "A strong thesis is specific and arguable; the others are vague, announcing, or factual.",
+      "memoryHook": "T-Rexy says: a thesis takes a stand - arguable and specific wins!",
+      "imageUrl": "topic:writing",
+      "tags": [
+        "ELA",
+        "Writing"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_045",
+      "question": "Determine the function of topic sentences in body paragraphs.",
+      "correctAnswer": "introduce the main idea of a paragraph",
+      "distractors": [
+        "conclude the essay",
+        "cite outside sources",
+        "list counterarguments"
+      ],
+      "explanation": "Each body paragraph opens with a topic sentence that connects its point to the thesis.",
+      "memoryHook": "T-Rexy says: every paragraph needs a captain - the topic sentence leads!",
+      "imageUrl": "topic:writing",
+      "tags": [
+        "ELA",
+        "Writing"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_046",
+      "question": "Determine the primary function of transitions between paragraphs.",
+      "correctAnswer": "show relationships between ideas",
+      "distractors": [
+        "add new evidence",
+        "repeat the thesis word for word",
+        "introduce unrelated topics"
+      ],
+      "explanation": "Transitions signal how ideas connect - contrast, cause, sequence, or addition.",
+      "memoryHook": "T-Rexy says: transitions are bridges - ideas cross without falling!",
+      "imageUrl": "topic:writing",
+      "tags": [
+        "ELA",
+        "Writing"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_047",
+      "question": "Identify what a writer should NOT do in a conclusion.",
+      "correctAnswer": "introduce brand-new evidence",
+      "distractors": [
+        "restate the thesis",
+        "summarize main points",
+        "end with a thought-provoking statement"
+      ],
+      "explanation": "New evidence belongs in the body; the conclusion synthesizes what was already argued.",
+      "memoryHook": "T-Rexy says: the conclusion wraps the gift - no new surprises inside!",
+      "imageUrl": "topic:writing",
+      "tags": [
+        "ELA",
+        "Writing"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_048",
+      "question": "Determine how a writer mainly builds ethos in an essay.",
+      "correctAnswer": "citing credible sources",
+      "distractors": [
+        "using emotional stories only",
+        "repeating the thesis",
+        "using slang"
+      ],
+      "explanation": "Credible sources show the writer is informed and trustworthy, strengthening ethos.",
+      "memoryHook": "T-Rexy says: cite the experts - borrowed credibility boosts your ethos!",
+      "imageUrl": "topic:writing",
+      "tags": [
+        "ELA",
+        "Writing"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_049",
+      "question": "Choose the strongest primary evidence for a literary analysis essay.",
+      "correctAnswer": "quotations from the text",
+      "distractors": [
+        "a classmate's opinion",
+        "a movie adaptation",
+        "the author's biography"
+      ],
+      "explanation": "Direct textual evidence grounds claims about literature better than outside commentary.",
+      "memoryHook": "T-Rexy says: let the text testify - quotes are your star witnesses!",
+      "imageUrl": "topic:writing",
+      "tags": [
+        "ELA",
+        "Writing"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_050",
+      "question": "Determine the defining feature of a synthesis essay.",
+      "correctAnswer": "combines multiple sources into a new argument",
+      "distractors": [
+        "summarizes a single source",
+        "lists quotes without commentary",
+        "retells a story"
+      ],
+      "explanation": "Synthesis weaves sources together so their combination produces an original claim.",
+      "memoryHook": "T-Rexy says: synthesis stirs the pot - blend sources into something new!",
+      "imageUrl": "topic:writing",
+      "tags": [
+        "ELA",
+        "Writing"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_051",
+      "question": "Choose the correct verb: 'If I ___ taller, I would play basketball.'",
+      "correctAnswer": "were",
+      "distractors": [
+        "was",
+        "am",
+        "be"
+      ],
+      "explanation": "The subjunctive mood uses 'were' for wishes and hypotheticals, even with singular subjects.",
+      "memoryHook": "T-Rexy says: wish upon were - the subjunctive dreams in were!",
+      "imageUrl": "topic:grammar",
+      "tags": [
+        "ELA",
+        "Grammar"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_052",
+      "question": "Choose the parallel option: 'She likes hiking, swimming, and ___.'",
+      "correctAnswer": "reading",
+      "distractors": [
+        "to read",
+        "reads",
+        "read"
+      ],
+      "explanation": "Parallel structure keeps all items in the same form - three gerunds here.",
+      "memoryHook": "T-Rexy says: hiking, swimming, reading - keep the -ing parade uniform!",
+      "imageUrl": "topic:grammar",
+      "tags": [
+        "ELA",
+        "Grammar"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_053",
+      "question": "Identify the error in 'Running quickly, the finish line approached.'",
+      "correctAnswer": "The modifier dangles - the finish line was not running.",
+      "distractors": [
+        "Nothing is wrong.",
+        "Quickly should be quick.",
+        "The comma is unnecessary."
+      ],
+      "explanation": "The participial phrase must modify the subject, but the subject here cannot run.",
+      "memoryHook": "T-Rexy says: who is running? Modifiers must cling to the right noun!",
+      "imageUrl": "topic:grammar",
+      "tags": [
+        "ELA",
+        "Grammar"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_054",
+      "question": "Choose the correct verb: 'Neither the teacher nor the students ___ ready.'",
+      "correctAnswer": "were",
+      "distractors": [
+        "was",
+        "is",
+        "are"
+      ],
+      "explanation": "With neither/nor, the verb agrees with the nearer subject - the plural 'students.'",
+      "memoryHook": "T-Rexy says: the verb hugs the nearer subject - students were ready!",
+      "imageUrl": "topic:grammar",
+      "tags": [
+        "ELA",
+        "Grammar"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_055",
+      "question": "Choose the correct pronoun: 'Between you and ___, this test is hard.'",
+      "correctAnswer": "me",
+      "distractors": [
+        "I",
+        "myself",
+        "mine"
+      ],
+      "explanation": "Prepositions take object pronouns - 'between you and me' is correct.",
+      "memoryHook": "T-Rexy says: prepositions love objects - between you and me!",
+      "imageUrl": "topic:grammar",
+      "tags": [
+        "ELA",
+        "Grammar"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_056",
+      "question": "Choose the correct word: 'The storm ended; ___, the streets were flooded.'",
+      "correctAnswer": "however",
+      "distractors": [
+        "and",
+        "but",
+        "so"
+      ],
+      "explanation": "A conjunctive adverb like 'however' follows a semicolon to join two independent clauses.",
+      "memoryHook": "T-Rexy says: semicolon plus however - a fancy pause with manners!",
+      "imageUrl": "topic:grammar",
+      "tags": [
+        "ELA",
+        "Grammar"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_057",
+      "question": "Choose the correct verb: 'The committee ___ reached its decision.'",
+      "correctAnswer": "has",
+      "distractors": [
+        "have",
+        "are",
+        "were"
+      ],
+      "explanation": "A collective noun acting as one unit takes a singular verb.",
+      "memoryHook": "T-Rexy says: the committee acts as one - singular group, singular verb!",
+      "imageUrl": "topic:grammar",
+      "tags": [
+        "ELA",
+        "Grammar"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_058",
+      "question": "Which sentence best demonstrates the subjunctive mood?",
+      "correctAnswer": "I suggest that he study harder.",
+      "distractors": [
+        "He studies every night.",
+        "He studied yesterday.",
+        "He will study tomorrow."
+      ],
+      "explanation": "Verbs like suggest, demand, and insist trigger the subjunctive - base form 'study,' not 'studies.'",
+      "memoryHook": "T-Rexy says: suggest, demand, insist - then drop the s!",
+      "imageUrl": "topic:grammar",
+      "tags": [
+        "ELA",
+        "Grammar"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_059",
+      "question": "Identify the error in 'She served sandwiches to the children on paper plates.'",
+      "correctAnswer": "The modifier is misplaced - the plates could describe the children.",
+      "distractors": [
+        "Nothing is wrong.",
+        "Sandwiches should be singular.",
+        "To should be for."
+      ],
+      "explanation": "The phrase 'on paper plates' sits next to 'children,' creating unintended humor.",
+      "memoryHook": "T-Rexy says: park the modifier next to its noun - no wandering phrases!",
+      "imageUrl": "topic:grammar",
+      "tags": [
+        "ELA",
+        "Grammar"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_060",
+      "question": "Choose the correct word: 'The new policy will ___ test scores.'",
+      "correctAnswer": "affect",
+      "distractors": [
+        "effect",
+        "effected",
+        "affective"
+      ],
+      "explanation": "'Affect' is usually the verb meaning to influence; 'effect' is usually the noun meaning result.",
+      "memoryHook": "T-Rexy says: affect is the action - A for action, E for the noun effect!",
+      "imageUrl": "topic:grammar",
+      "tags": [
+        "ELA",
+        "Grammar"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_061",
+      "question": "Which definition best matches 'cogent' in the sentence: 'The author's argument was cogent.'",
+      "correctAnswer": "convincing and well-reasoned",
+      "distractors": [
+        "confusing",
+        "lengthy",
+        "emotional"
+      ],
+      "explanation": "A cogent argument is clear, logical, and persuasive.",
+      "memoryHook": "T-Rexy says: cogent is convincing - a cogent case clicks shut!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Vocabulary"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_062",
+      "question": "Which definition best matches 'ubiquitous' in the sentence: 'Her phone was ubiquitous.'",
+      "correctAnswer": "present everywhere",
+      "distractors": [
+        "expensive",
+        "broken",
+        "silent"
+      ],
+      "explanation": "Ubiquitous describes something found everywhere at once.",
+      "memoryHook": "T-Rexy says: ubiquitous is everywhere - like dino footprints after rain!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Vocabulary"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_063",
+      "question": "Which definition best matches 'pragmatic' in the sentence: 'They chose a pragmatic solution.'",
+      "correctAnswer": "practical",
+      "distractors": [
+        "theoretical",
+        "expensive",
+        "temporary"
+      ],
+      "explanation": "Pragmatic means guided by practical results rather than theory.",
+      "memoryHook": "T-Rexy says: pragmatic is practical - fix the fence, skip the philosophy!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Vocabulary"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_064",
+      "question": "Which definition best matches 'equivocated' in the sentence: 'He equivocated when asked directly.'",
+      "correctAnswer": "gave vague, evasive answers",
+      "distractors": [
+        "answered directly",
+        "refused to speak",
+        "became angry"
+      ],
+      "explanation": "To equivocate is to speak ambiguously to avoid committing to an answer.",
+      "memoryHook": "T-Rexy says: equivocate equals evade - vague answers dodge the spear!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Vocabulary"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_065",
+      "question": "Which definition best matches 'magnanimous' in the sentence: 'The magnanimous winner praised her opponent.'",
+      "correctAnswer": "generous in spirit",
+      "distractors": [
+        "arrogant",
+        "bitter",
+        "proud"
+      ],
+      "explanation": "Magnanimous means noble and generous, especially toward a rival.",
+      "memoryHook": "T-Rexy says: magnanimous is mega-generous - big heart, big winner!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Vocabulary"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_066",
+      "question": "Which definition best matches 'inscrutable' in the sentence: 'His expression remained inscrutable.'",
+      "correctAnswer": "impossible to interpret",
+      "distractors": [
+        "clearly happy",
+        "obviously angry",
+        "slightly sad"
+      ],
+      "explanation": "Inscrutable means mysterious and unreadable.",
+      "memoryHook": "T-Rexy says: inscrutable is unreadable - a poker face in words!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Vocabulary"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_067",
+      "question": "Which definition best matches 'tenuous' in the sentence: 'The link between the events was tenuous.'",
+      "correctAnswer": "weak and thin",
+      "distractors": [
+        "strong",
+        "obvious",
+        "permanent"
+      ],
+      "explanation": "Tenuous describes something flimsy with little substance.",
+      "memoryHook": "T-Rexy says: tenuous is thin - a spider thread of a link!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Vocabulary"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_068",
+      "question": "Which definition best matches 'ennui' in the sentence: 'She felt a deep ennui.'",
+      "correctAnswer": "boredom and listlessness",
+      "distractors": [
+        "excitement",
+        "fear",
+        "joy"
+      ],
+      "explanation": "Ennui is a French-derived word for weary dissatisfaction and boredom.",
+      "memoryHook": "T-Rexy says: ennui is elegant boredom - a fancy yawn!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Vocabulary"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_069",
+      "question": "Which definition best matches 'lugubrious' in the sentence: 'He spoke in a lugubrious tone.'",
+      "correctAnswer": "mournful and gloomy",
+      "distractors": [
+        "cheerful",
+        "angry",
+        "sarcastic"
+      ],
+      "explanation": "Lugubrious means sorrowful to an exaggerated degree.",
+      "memoryHook": "T-Rexy says: lugubrious is gloomy - a funeral march in an adjective!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Vocabulary"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_070",
+      "question": "Which definition best matches 'dictum' in the sentence: 'The old dictum still holds true.'",
+      "correctAnswer": "an authoritative saying or principle",
+      "distractors": [
+        "a question",
+        "a lie",
+        "a joke"
+      ],
+      "explanation": "A dictum is a formal pronouncement treated as authoritative.",
+      "memoryHook": "T-Rexy says: a dictum dictates - an authority's say-so in a sentence!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Vocabulary"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_071",
+      "question": "Identify the poetic form: a 14-line lyric poem with a set rhyme scheme.",
+      "correctAnswer": "sonnet",
+      "distractors": [
+        "ode",
+        "elegy",
+        "ballad"
+      ],
+      "explanation": "A sonnet has 14 lines, typically in iambic pentameter with a formal rhyme scheme.",
+      "memoryHook": "T-Rexy says: fourteen lines, one sonnet - count to fourteen and rhyme!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Poetry"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_072",
+      "question": "Determine the rhyme scheme of a Shakespearean sonnet.",
+      "correctAnswer": "ABAB CDCD EFEF GG",
+      "distractors": [
+        "ABBA ABBA CDE CDE",
+        "AABBCCDD EEFFGG",
+        "ABAB BCBC CDCD EE"
+      ],
+      "explanation": "The English sonnet uses three quatrains and a closing couplet: ABAB CDCD EFEF GG.",
+      "memoryHook": "T-Rexy says: three quatrains plus a couplet - Shakespeare's recipe!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Poetry"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_073",
+      "question": "Determine how many syllables a line of iambic pentameter contains.",
+      "correctAnswer": "Ten",
+      "distractors": [
+        "Eight",
+        "Twelve",
+        "Fourteen"
+      ],
+      "explanation": "Penta means five - five iambic feet of two syllables each equals ten syllables.",
+      "memoryHook": "T-Rexy says: five heartbeats per line - ten syllables march in pentameter!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Poetry"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_074",
+      "question": "Identify the metrical foot of an unstressed syllable followed by a stressed syllable.",
+      "correctAnswer": "iamb",
+      "distractors": [
+        "trochee",
+        "dactyl",
+        "anapest"
+      ],
+      "explanation": "The iamb (da-DUM) is the most common foot in English verse.",
+      "memoryHook": "T-Rexy says: da-DUM, da-DUM - the iamb hops like a heartbeat!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Poetry"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_075",
+      "question": "Which term best describes a poem mourning the dead?",
+      "correctAnswer": "elegy",
+      "distractors": [
+        "ode",
+        "satire",
+        "pastoral"
+      ],
+      "explanation": "An elegy is a formal lament for someone who has died.",
+      "memoryHook": "T-Rexy says: an elegy weeps in verse - mourning set to meter!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Poetry"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_076",
+      "question": "Determine the meaning of enjambment in poetry.",
+      "correctAnswer": "a sentence running past a line break without punctuation",
+      "distractors": [
+        "a rhyme at the ends of lines",
+        "a repeated refrain",
+        "a pause in the middle of a line"
+      ],
+      "explanation": "Enjambment carries the sense over the line ending, pulling the reader forward.",
+      "memoryHook": "T-Rexy says: enjambment jumps the line - the sentence leaps the break!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Poetry"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_077",
+      "question": "In Carl Sandburg's 'Fog,' determine the figurative device in the line 'comes on little cat feet.'",
+      "correctAnswer": "a metaphor",
+      "distractors": [
+        "a simile",
+        "hyperbole",
+        "an allusion"
+      ],
+      "explanation": "The fog is directly compared to a cat without like or as, making it a metaphor.",
+      "memoryHook": "T-Rexy says: fog on cat feet - Sandburg's metaphor pads in silently!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Poetry"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_078",
+      "question": "In Frost's 'The Road Not Taken,' determine what the two roads most likely symbolize.",
+      "correctAnswer": "life choices",
+      "distractors": [
+        "actual hiking trails",
+        "political divisions",
+        "seasons of the year"
+      ],
+      "explanation": "The forked roads are a classic symbol for decisions that shape a life.",
+      "memoryHook": "T-Rexy says: two roads diverged - Frost's fork is life's choices!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Poetry"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_079",
+      "question": "Determine how many syllables a traditional haiku contains.",
+      "correctAnswer": "17",
+      "distractors": [
+        "14",
+        "12",
+        "21"
+      ],
+      "explanation": "Haiku follow a 5-7-5 syllable pattern across three lines, totaling 17.",
+      "memoryHook": "T-Rexy says: five-seven-five, seventeen - haiku counts on its fingers!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Poetry"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_080",
+      "question": "Which statement best describes the defining feature of free verse?",
+      "correctAnswer": "no regular meter or rhyme",
+      "distractors": [
+        "a strict rhyme scheme",
+        "fourteen lines",
+        "rhyming couplets"
+      ],
+      "explanation": "Free verse abandons fixed patterns, using natural speech rhythms instead.",
+      "memoryHook": "T-Rexy says: free verse runs wild - no rhyme, no meter, no cage!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Poetry"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_081",
+      "question": "Identify the birthplace of William Shakespeare.",
+      "correctAnswer": "Stratford-upon-Avon",
+      "distractors": [
+        "London",
+        "Oxford",
+        "Cambridge"
+      ],
+      "explanation": "William Shakespeare was baptized in Stratford-upon-Avon in 1564.",
+      "memoryHook": "T-Rexy says: Stratford starts the story - Shakespeare's hometown headlines!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Shakespeare"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_082",
+      "question": "Identify the play containing the line 'To be, or not to be.'",
+      "correctAnswer": "Hamlet",
+      "distractors": [
+        "Macbeth",
+        "Othello",
+        "King Lear"
+      ],
+      "explanation": "Hamlet speaks the famous soliloquy in Act 3 while contemplating life and death.",
+      "memoryHook": "T-Rexy says: to be or not to be - Hamlet ponders on the ramparts!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Shakespeare"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_083",
+      "question": "In 'Romeo and Juliet,' determine which house Romeo belongs to.",
+      "correctAnswer": "Montague",
+      "distractors": [
+        "Capulet",
+        "Escalus",
+        "Paris"
+      ],
+      "explanation": "Romeo is a Montague; Juliet is a Capulet - the feuding houses of Verona.",
+      "memoryHook": "T-Rexy says: Montague meets Capulet - feuding families, fatal love!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Shakespeare"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_084",
+      "question": "Identify the play in which 'All the world's a stage' is spoken.",
+      "correctAnswer": "As You Like It",
+      "distractors": [
+        "Hamlet",
+        "The Tempest",
+        "Twelfth Night"
+      ],
+      "explanation": "Jaques delivers the 'Seven Ages of Man' speech in As You Like It, Act 2.",
+      "memoryHook": "T-Rexy says: all the world's a stage - Jaques speaks in As You Like It!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Shakespeare"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_085",
+      "question": "In 'Macbeth,' determine what Lady Macbeth's 'Out, damned spot!' refers to.",
+      "correctAnswer": "an imagined spot of blood",
+      "distractors": [
+        "a crown",
+        "a dagger",
+        "a letter"
+      ],
+      "explanation": "Sleepwalking Lady Macbeth tries to wash invisible blood - guilt made visible.",
+      "memoryHook": "T-Rexy says: out, damned spot - Lady Macbeth scrubs the guilt!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Shakespeare"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_086",
+      "question": "Determine approximately how many plays Shakespeare is credited with writing.",
+      "correctAnswer": "37",
+      "distractors": [
+        "12",
+        "25",
+        "50"
+      ],
+      "explanation": "The traditional canon counts 37 plays, plus 154 sonnets and narrative poems.",
+      "memoryHook": "T-Rexy says: thirty-seven plays strong - the Bard's bookshelf overflows!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Shakespeare"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_087",
+      "question": "Identify the city where the Globe Theatre, home to Shakespeare's company, was located.",
+      "correctAnswer": "London",
+      "distractors": [
+        "Stratford",
+        "Oxford",
+        "Dublin"
+      ],
+      "explanation": "The Globe stood on the south bank of the Thames in London from 1599.",
+      "memoryHook": "T-Rexy says: the Globe glows in London - groundlings stand for the show!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Shakespeare"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_088",
+      "question": "Identify the villain who drives the plot of 'Othello.'",
+      "correctAnswer": "Iago",
+      "distractors": [
+        "Cassio",
+        "Desdemona",
+        "Roderigo"
+      ],
+      "explanation": "Iago's scheming destroys Othello through jealousy and manipulation.",
+      "memoryHook": "T-Rexy says: Iago whispers poison - Othello's villain smiles while he schemes!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Shakespeare"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_089",
+      "question": "Determine how a Shakespearean tragedy typically ends.",
+      "correctAnswer": "the death of the hero",
+      "distractors": [
+        "a wedding",
+        "a coronation",
+        "an exile"
+      ],
+      "explanation": "Tragedy follows the hero's fatal flaw to a catastrophic, usually fatal, close.",
+      "memoryHook": "T-Rexy says: tragedies fall hard - the hero falls with the curtain!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Shakespeare"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_090",
+      "question": "Identify the play in which 'Beware the Ides of March' is spoken.",
+      "correctAnswer": "Julius Caesar",
+      "distractors": [
+        "Coriolanus",
+        "Antony and Cleopatra",
+        "Titus Andronicus"
+      ],
+      "explanation": "The soothsayer warns Caesar in Act 1 of Julius Caesar.",
+      "memoryHook": "T-Rexy says: beware the Ides - Caesar should have checked the calendar!",
+      "imageUrl": "topic:literature",
+      "tags": [
+        "ELA",
+        "Shakespeare"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_091",
+      "question": "In MLA style, determine the correct format of an in-text citation for a book by one author.",
+      "correctAnswer": "(Smith 42)",
+      "distractors": [
+        "(Smith, 2020, p. 42)",
+        "(Smith: 42)",
+        "[Smith 42]"
+      ],
+      "explanation": "MLA uses author last name and page number with no comma: (Smith 42).",
+      "memoryHook": "T-Rexy says: name and page in parentheses - MLA keeps it lean: (Smith 42)!",
+      "imageUrl": "topic:writing",
+      "tags": [
+        "ELA",
+        "Research"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_092",
+      "question": "Determine what an MLA Works Cited page lists.",
+      "correctAnswer": "every source cited in the paper",
+      "distractors": [
+        "every source you read",
+        "only websites",
+        "only books"
+      ],
+      "explanation": "Works Cited includes exactly the sources referenced in-text - no more, no fewer.",
+      "memoryHook": "T-Rexy says: cited means listed - if it's in the paper, it's on the page!",
+      "imageUrl": "topic:writing",
+      "tags": [
+        "ELA",
+        "Research"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_093",
+      "question": "Which of the following best describes plagiarism?",
+      "correctAnswer": "Using someone's ideas without credit",
+      "distractors": [
+        "Quoting a source with citation",
+        "Paraphrasing with citation",
+        "Stating common knowledge"
+      ],
+      "explanation": "Ideas need attribution even when restated; citations and common knowledge are safe.",
+      "memoryHook": "T-Rexy says: credit every borrow - uncredited ideas are stolen snacks!",
+      "imageUrl": "topic:writing",
+      "tags": [
+        "ELA",
+        "Research"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_094",
+      "question": "Choose the best example of a primary source for a history research paper.",
+      "correctAnswer": "A diary written during the time period",
+      "distractors": [
+        "A modern textbook",
+        "An encyclopedia article",
+        "A documentary film"
+      ],
+      "explanation": "Primary sources are firsthand accounts from the era; the others interpret them.",
+      "memoryHook": "T-Rexy says: primary means firsthand - a diary from the day beats a textbook!",
+      "imageUrl": "topic:writing",
+      "tags": [
+        "ELA",
+        "Research"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_095",
+      "question": "Choose the best thesis for a research paper.",
+      "correctAnswer": "specific and arguable",
+      "distractors": [
+        "a simple fact",
+        "a broad question",
+        "an unsupported opinion"
+      ],
+      "explanation": "A research thesis makes a debatable claim narrow enough to prove with evidence.",
+      "memoryHook": "T-Rexy says: a thesis with teeth - specific, arguable, ready to defend!",
+      "imageUrl": "topic:writing",
+      "tags": [
+        "ELA",
+        "Research"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_096",
+      "question": "In MLA Works Cited, determine what a 'hanging indent' means.",
+      "correctAnswer": "first line flush left, remaining lines indented",
+      "distractors": [
+        "all lines indented",
+        "first line indented",
+        "no indentation"
+      ],
+      "explanation": "The hanging indent makes authors' names easy to scan down the left margin.",
+      "memoryHook": "T-Rexy says: first line out, rest in - the hanging indent dangles!",
+      "imageUrl": "topic:writing",
+      "tags": [
+        "ELA",
+        "Research"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_097",
+      "question": "Determine what you must do when you paraphrase a source.",
+      "correctAnswer": "cite the source",
+      "distractors": [
+        "change only one word",
+        "use quotation marks",
+        "do nothing - they are your words now"
+      ],
+      "explanation": "Paraphrases restate ideas, but the ideas still belong to the source - cite them.",
+      "memoryHook": "T-Rexy says: new words, same debt - paraphrases need citations too!",
+      "imageUrl": "topic:writing",
+      "tags": [
+        "ELA",
+        "Research"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_098",
+      "question": "Choose the source most likely credible for academic research.",
+      "correctAnswer": "A peer-reviewed journal",
+      "distractors": [
+        "A personal blog",
+        "A social media post",
+        "An anonymous forum"
+      ],
+      "explanation": "Peer review means experts vetted the work before publication.",
+      "memoryHook": "T-Rexy says: peers check the work - journals earn the trust badge!",
+      "imageUrl": "topic:writing",
+      "tags": [
+        "ELA",
+        "Research"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_099",
+      "question": "Determine the purpose of an annotated bibliography.",
+      "correctAnswer": "summarize and evaluate each source",
+      "distractors": [
+        "list page numbers",
+        "copy abstracts",
+        "avoid citations"
+      ],
+      "explanation": "Each annotation briefly describes the source and judges its usefulness.",
+      "memoryHook": "T-Rexy says: annotate means assess - summarize and judge each source!",
+      "imageUrl": "topic:writing",
+      "tags": [
+        "ELA",
+        "Research"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    },
+    {
+      "id": "EENG_100",
+      "question": "Determine what synthesis means in research writing.",
+      "correctAnswer": "combining sources to form a new insight",
+      "distractors": [
+        "listing sources alphabetically",
+        "quoting one expert repeatedly",
+        "summarizing a single article"
+      ],
+      "explanation": "Synthesis goes beyond summary - sources interact to support an original claim.",
+      "memoryHook": "T-Rexy says: synthesis is alchemy - blend sources into gold!",
+      "imageUrl": "topic:writing",
+      "tags": [
+        "ELA",
+        "Research"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps College English"
+    }
+  ]
+}

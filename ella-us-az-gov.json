@@ -1,0 +1,2021 @@
+{
+  "packId": "ella-us-az-gov",
+  "version": "1.0",
+  "title": "US/AZ Government & Constitution (12th)",
+  "description": "US and Arizona government, Constitution, and civics for 12th grade",
+  "language": "en",
+  "passingScore": 70,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-03",
+  "tags": [
+    "government",
+    "constitution",
+    "grade12",
+    "ella"
+  ],
+  "questions": [
+    {
+      "id": "EUGOV_001",
+      "question": "How many branches of the US government are there?",
+      "correctAnswer": "Three",
+      "distractors": [
+        "Two",
+        "Four",
+        "Five"
+      ],
+      "explanation": "The Constitution creates three branches - legislative, executive, and judicial - so no single group holds all the power.",
+      "memoryHook": "T-Rexy says: three branches like three toes on my foot - legislative, executive, judicial!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Government",
+        "Branches"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_002",
+      "question": "Which branch of government makes the laws?",
+      "correctAnswer": "The legislative branch (Congress)",
+      "distractors": [
+        "The executive branch",
+        "The judicial branch",
+        "The state governors"
+      ],
+      "explanation": "Article I gives Congress the power to make federal laws.",
+      "memoryHook": "T-Rexy says: Congress legislates - legislate starts with L, and so does laws!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Government",
+        "Branches"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_003",
+      "question": "Which branch of government enforces the laws?",
+      "correctAnswer": "The executive branch (the President)",
+      "distractors": [
+        "The legislative branch",
+        "The judicial branch",
+        "The Supreme Court"
+      ],
+      "explanation": "Article II puts the President in charge of carrying out and enforcing federal laws.",
+      "memoryHook": "T-Rexy says: the executive executes - like executing a perfect dino dance move!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Government",
+        "Branches"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_004",
+      "question": "Which branch of government interprets the laws?",
+      "correctAnswer": "The judicial branch (the courts)",
+      "distractors": [
+        "The legislative branch",
+        "The executive branch",
+        "The Senate"
+      ],
+      "explanation": "Article III creates the courts, and judges decide what laws mean when there is a dispute.",
+      "memoryHook": "T-Rexy says: judges judge - the judicial branch is full of judges!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Government",
+        "Branches"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_005",
+      "question": "How many articles does the US Constitution have?",
+      "correctAnswer": "Seven",
+      "distractors": [
+        "Ten",
+        "Thirteen",
+        "Twenty-seven"
+      ],
+      "explanation": "The original Constitution is organized into seven articles covering the branches, the states, amendments, and more.",
+      "memoryHook": "T-Rexy says: seven articles for seven stomps - stomp it out, one article at a time!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Basics"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_006",
+      "question": "What are the first ten amendments to the Constitution called?",
+      "correctAnswer": "The Bill of Rights",
+      "distractors": [
+        "The Articles of Confederation",
+        "The Preamble",
+        "The Federalist Papers"
+      ],
+      "explanation": "The first ten amendments were added in 1791 to protect individual freedoms, and together they are called the Bill of Rights.",
+      "memoryHook": "T-Rexy says: ten amendments, ten tiny dino teeth - the Bill of Rights bites back against unfair government!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Bill of Rights"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_007",
+      "question": "How many total amendments does the US Constitution have?",
+      "correctAnswer": "Twenty-seven",
+      "distractors": [
+        "Ten",
+        "Thirteen",
+        "Thirty-three"
+      ],
+      "explanation": "There are 27 amendments - the first ten are the Bill of Rights and 17 more were added later.",
+      "memoryHook": "T-Rexy says: 27 amendments - that is more claws than I have toes!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Amendments"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_008",
+      "question": "How many members are in the US House of Representatives?",
+      "correctAnswer": "435",
+      "distractors": [
+        "100",
+        "535",
+        "50"
+      ],
+      "explanation": "The House has 435 voting members, with seats divided among the states based on population.",
+      "memoryHook": "T-Rexy says: 435 representatives - imagine 435 dinosaurs trying to fit in one room!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Congress",
+        "House"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_009",
+      "question": "How many senators are in the US Senate?",
+      "correctAnswer": "100",
+      "distractors": [
+        "50",
+        "435",
+        "200"
+      ],
+      "explanation": "Each of the 50 states elects 2 senators, making 100 total.",
+      "memoryHook": "T-Rexy says: 50 states times 2 senators - even a T-Rex can do that math: 100!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Congress",
+        "Senate"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_010",
+      "question": "How long is one term for a US Representative?",
+      "correctAnswer": "Two years",
+      "distractors": [
+        "Four years",
+        "Six years",
+        "One year"
+      ],
+      "explanation": "House members serve two-year terms, so voters get a say about them very often.",
+      "memoryHook": "T-Rexy says: two years - representatives have to run again before I finish a nap!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Congress",
+        "House"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_011",
+      "question": "How long is one term for a US Senator?",
+      "correctAnswer": "Six years",
+      "distractors": [
+        "Two years",
+        "Four years",
+        "Eight years"
+      ],
+      "explanation": "Senators serve six-year terms, longer than House members, so the Senate changes more slowly.",
+      "memoryHook": "T-Rexy says: six years is three times two - senators get three times the nap time!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Congress",
+        "Senate"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_012",
+      "question": "How long is a US presidential term?",
+      "correctAnswer": "Four years",
+      "distractors": [
+        "Two years",
+        "Six years",
+        "Eight years"
+      ],
+      "explanation": "The President serves a four-year term and can be re-elected once.",
+      "memoryHook": "T-Rexy says: four years - one term is a whole presidential dino childhood!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Presidency"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_013",
+      "question": "What is the maximum number of terms a President can serve?",
+      "correctAnswer": "Two",
+      "distractors": [
+        "One",
+        "Three",
+        "There is no limit"
+      ],
+      "explanation": "The 22nd Amendment limits the President to two elected terms.",
+      "memoryHook": "T-Rexy says: two terms max - even the President has to share the toys!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Presidency",
+        "Amendments"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_014",
+      "question": "What is the minimum voting age in US federal elections?",
+      "correctAnswer": "18",
+      "distractors": [
+        "16",
+        "21",
+        "25"
+      ],
+      "explanation": "The 26th Amendment lowered the voting age to 18 nationwide.",
+      "memoryHook": "T-Rexy says: 18 to vote - old enough to drive, old enough to pick the President!",
+      "imageUrl": "topic:elections",
+      "tags": [
+        "Elections",
+        "Voting Rights"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_015",
+      "question": "What is the capital of Arizona?",
+      "correctAnswer": "Phoenix",
+      "distractors": [
+        "Tucson",
+        "Flagstaff",
+        "Mesa"
+      ],
+      "explanation": "Phoenix has been Arizona's capital since before statehood.",
+      "memoryHook": "T-Rexy says: Phoenix - the capital rises in the desert like a dino from a fossil!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Arizona",
+        "State Government"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_016",
+      "question": "The first three words of the Constitution are...?",
+      "correctAnswer": "We the People",
+      "distractors": [
+        "In Congress assembled",
+        "When in the course",
+        "Four score and seven"
+      ],
+      "explanation": "The Preamble begins 'We the People,' showing that government power comes from the citizens.",
+      "memoryHook": "T-Rexy says: We the People - even dinosaurs are part of the people!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Basics"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_017",
+      "question": "Which amendment protects freedom of speech?",
+      "correctAnswer": "The 1st Amendment",
+      "distractors": [
+        "The 2nd Amendment",
+        "The 5th Amendment",
+        "The 10th Amendment"
+      ],
+      "explanation": "The 1st Amendment protects speech, religion, press, assembly, and petition.",
+      "memoryHook": "T-Rexy says: first place for free speech - the 1st Amendment is number one!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Bill of Rights"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_018",
+      "question": "Which amendment protects the right to bear arms?",
+      "correctAnswer": "The 2nd Amendment",
+      "distractors": [
+        "The 1st Amendment",
+        "The 4th Amendment",
+        "The 8th Amendment"
+      ],
+      "explanation": "The 2nd Amendment protects the right of the people to keep and bear arms.",
+      "memoryHook": "T-Rexy says: two arms for the 2nd Amendment - well, I have two tiny ones!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Bill of Rights"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_019",
+      "question": "Who is the head of the executive branch?",
+      "correctAnswer": "The President",
+      "distractors": [
+        "The Chief Justice",
+        "The Speaker of the House",
+        "The Vice President"
+      ],
+      "explanation": "Article II makes the President the chief executive who leads the executive branch.",
+      "memoryHook": "T-Rexy says: the President presides - that is why they call him President!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Presidency",
+        "Branches"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_020",
+      "question": "What is the highest court in the United States?",
+      "correctAnswer": "The Supreme Court",
+      "distractors": [
+        "The Court of Appeals",
+        "The District Court",
+        "The Senate Judiciary Committee"
+      ],
+      "explanation": "The Supreme Court is the top of the federal court system and its decisions are final.",
+      "memoryHook": "T-Rexy says: supreme means top - like the top of the food chain!",
+      "imageUrl": "topic:courts",
+      "tags": [
+        "Courts",
+        "Judicial Branch"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_021",
+      "question": "How many justices sit on the US Supreme Court?",
+      "correctAnswer": "Nine",
+      "distractors": [
+        "Seven",
+        "Twelve",
+        "Five"
+      ],
+      "explanation": "The Supreme Court has one Chief Justice and eight associate justices, nine total.",
+      "memoryHook": "T-Rexy says: nine justices - one Chief plus eight associates, count them on my claws!",
+      "imageUrl": "topic:courts",
+      "tags": [
+        "Courts",
+        "Judicial Branch"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_022",
+      "question": "Which house of Congress has the power to impeach a President?",
+      "correctAnswer": "The House of Representatives",
+      "distractors": [
+        "The Senate",
+        "The Supreme Court",
+        "The Cabinet"
+      ],
+      "explanation": "The House votes on articles of impeachment, which is like an official accusation; the Senate then holds the trial.",
+      "memoryHook": "T-Rexy says: the House impeaches - the House points the finger!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Congress",
+        "Checks and Balances"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_023",
+      "question": "What does the Vice President do in the Senate?",
+      "correctAnswer": "Serves as President of the Senate and breaks tie votes",
+      "distractors": [
+        "Writes all Senate bills",
+        "Commands the army",
+        "Appoints senators"
+      ],
+      "explanation": "The Vice President presides over the Senate and votes only to break a tie.",
+      "memoryHook": "T-Rexy says: the VP is the tie-breaker - like breaking a tie in tug-of-war!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Congress",
+        "Senate"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_024",
+      "question": "Arizona was admitted to the Union as which state?",
+      "correctAnswer": "The 48th state",
+      "distractors": [
+        "The 50th state",
+        "The 47th state",
+        "The 45th state"
+      ],
+      "explanation": "Arizona became the 48th state on February 14, 1912.",
+      "memoryHook": "T-Rexy says: 48th state - Arizona was almost last to the party, but it brought the sunshine!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Arizona",
+        "State Government"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_025",
+      "question": "How long is an Arizona governor's term?",
+      "correctAnswer": "Four years",
+      "distractors": [
+        "Two years",
+        "Six years",
+        "Eight years"
+      ],
+      "explanation": "Arizona's governor is elected to a four-year term.",
+      "memoryHook": "T-Rexy says: four years - same as the President, but with more cacti!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Arizona",
+        "State Government"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_026",
+      "question": "What document is the supreme law of the land?",
+      "correctAnswer": "The US Constitution",
+      "distractors": [
+        "The Declaration of Independence",
+        "State constitutions",
+        "The Bill of Rights alone"
+      ],
+      "explanation": "Article VI says the Constitution is the supreme law, so no state law can override it.",
+      "memoryHook": "T-Rexy says: supreme law - the Constitution wears the crown!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Basics"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_027",
+      "question": "Which amendment abolished slavery?",
+      "correctAnswer": "The 13th Amendment",
+      "distractors": [
+        "The 14th Amendment",
+        "The 15th Amendment",
+        "The 19th Amendment"
+      ],
+      "explanation": "The 13th Amendment, ratified in 1865, ended slavery in the United States.",
+      "memoryHook": "T-Rexy says: 13 ended slavery - unlucky 13 became lucky for freedom!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Amendments"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_028",
+      "question": "Which amendment gave women the right to vote?",
+      "correctAnswer": "The 19th Amendment",
+      "distractors": [
+        "The 15th Amendment",
+        "The 26th Amendment",
+        "The 14th Amendment"
+      ],
+      "explanation": "The 19th Amendment, ratified in 1920, guaranteed women's suffrage.",
+      "memoryHook": "T-Rexy says: 19 for the women's vote - the 19th Amendment opened the ballot box for all!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Amendments"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_029",
+      "question": "What is the introduction to the Constitution called?",
+      "correctAnswer": "The Preamble",
+      "distractors": [
+        "The Appendix",
+        "The Prologue",
+        "The Epilogue"
+      ],
+      "explanation": "The Preamble is the opening statement that begins 'We the People' and states the Constitution's purposes.",
+      "memoryHook": "T-Rexy says: Preamble comes before - pre means before, like prehistoric!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Basics"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_030",
+      "question": "Powers shared by both federal and state governments are called...?",
+      "correctAnswer": "Concurrent powers",
+      "distractors": [
+        "Reserved powers",
+        "Enumerated powers",
+        "Implied powers"
+      ],
+      "explanation": "Concurrent powers, like taxing, are exercised by both levels of government at the same time.",
+      "memoryHook": "T-Rexy says: concurrent means together - like a dino duet!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Federalism"
+      ],
+      "difficulty": 1,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_031",
+      "question": "Which Article of the Constitution establishes the legislative branch?",
+      "correctAnswer": "Article I",
+      "distractors": [
+        "Article II",
+        "Article III",
+        "Article IV"
+      ],
+      "explanation": "Article I creates Congress and lists its powers.",
+      "memoryHook": "T-Rexy says: Article One is number one - the legislature comes first!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Branches"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_032",
+      "question": "Which Article of the Constitution establishes the executive branch?",
+      "correctAnswer": "Article II",
+      "distractors": [
+        "Article I",
+        "Article III",
+        "Article V"
+      ],
+      "explanation": "Article II creates the presidency and describes the President's powers.",
+      "memoryHook": "T-Rexy says: Article Two for the two-term President!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Branches"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_033",
+      "question": "Which Article of the Constitution establishes the judicial branch?",
+      "correctAnswer": "Article III",
+      "distractors": [
+        "Article I",
+        "Article II",
+        "Article VI"
+      ],
+      "explanation": "Article III creates the Supreme Court and the federal court system.",
+      "memoryHook": "T-Rexy says: Article Three for the three levels of courts!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Branches"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_034",
+      "question": "What is the minimum age to serve in the House of Representatives?",
+      "correctAnswer": "25",
+      "distractors": [
+        "21",
+        "30",
+        "35"
+      ],
+      "explanation": "The Constitution requires House members to be at least 25 years old.",
+      "memoryHook": "T-Rexy says: 25 to join the House - you need a quarter-century of wisdom!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Congress",
+        "House"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_035",
+      "question": "What is the minimum age to serve in the Senate?",
+      "correctAnswer": "30",
+      "distractors": [
+        "25",
+        "35",
+        "40"
+      ],
+      "explanation": "Senators must be at least 30 years old under the Constitution.",
+      "memoryHook": "T-Rexy says: 30 for the Senate - the Senate likes them a little older!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Congress",
+        "Senate"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_036",
+      "question": "What is the minimum age to be President?",
+      "correctAnswer": "35",
+      "distractors": [
+        "30",
+        "40",
+        "25"
+      ],
+      "explanation": "The President must be at least 35, a natural-born citizen, and a US resident for 14 years.",
+      "memoryHook": "T-Rexy says: 35 to be President - 35 is 30 plus 5, older than a senator!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Presidency"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_037",
+      "question": "How many years must a House member have been a US citizen?",
+      "correctAnswer": "Seven years",
+      "distractors": [
+        "Nine years",
+        "Fourteen years",
+        "One year"
+      ],
+      "explanation": "The Constitution requires seven years of citizenship for the House.",
+      "memoryHook": "T-Rexy says: seven years - lucky seven for the House!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Congress",
+        "House"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_038",
+      "question": "How many years must a Senator have been a US citizen?",
+      "correctAnswer": "Nine years",
+      "distractors": [
+        "Seven years",
+        "Fourteen years",
+        "Five years"
+      ],
+      "explanation": "Senators need nine years of US citizenship, two more than House members.",
+      "memoryHook": "T-Rexy says: nine years - senators need two more years than House members!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Congress",
+        "Senate"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_039",
+      "question": "Which amendment requires a speedy and public trial?",
+      "correctAnswer": "The 6th Amendment",
+      "distractors": [
+        "The 4th Amendment",
+        "The 5th Amendment",
+        "The 8th Amendment"
+      ],
+      "explanation": "The 6th Amendment guarantees a speedy public trial, an impartial jury, and the right to a lawyer.",
+      "memoryHook": "T-Rexy says: six for speedy - the 6th Amendment does not let trials drag on!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Bill of Rights"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_040",
+      "question": "Which amendment protects against self-incrimination?",
+      "correctAnswer": "The 5th Amendment",
+      "distractors": [
+        "The 1st Amendment",
+        "The 6th Amendment",
+        "The 8th Amendment"
+      ],
+      "explanation": "The 5th Amendment says no one must testify against themselves - this is called 'pleading the Fifth.'",
+      "memoryHook": "T-Rexy says: plead the Fifth - five fingers, five amendments of protection!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Bill of Rights"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_041",
+      "question": "Which amendment protects against unreasonable searches and seizures?",
+      "correctAnswer": "The 4th Amendment",
+      "distractors": [
+        "The 3rd Amendment",
+        "The 5th Amendment",
+        "The 9th Amendment"
+      ],
+      "explanation": "The 4th Amendment requires warrants based on probable cause for searches and seizures.",
+      "memoryHook": "T-Rexy says: four walls of your home - the 4th Amendment keeps them private!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Bill of Rights"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_042",
+      "question": "Which amendment bans cruel and unusual punishment?",
+      "correctAnswer": "The 8th Amendment",
+      "distractors": [
+        "The 5th Amendment",
+        "The 6th Amendment",
+        "The 14th Amendment"
+      ],
+      "explanation": "The 8th Amendment forbids cruel and unusual punishments and excessive bail.",
+      "memoryHook": "T-Rexy says: eight is enough - the 8th Amendment says punishments cannot be cruel!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Bill of Rights"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_043",
+      "question": "What can Congress do if the President vetoes a bill?",
+      "correctAnswer": "Override the veto with a two-thirds vote in both houses",
+      "distractors": [
+        "Ask the Supreme Court to cancel the veto",
+        "Wait for the next President",
+        "Impeach the President automatically"
+      ],
+      "explanation": "Congress can override a veto with a two-thirds majority in the House and Senate, turning the bill into law anyway.",
+      "memoryHook": "T-Rexy says: two-thirds overrides - Congress gets the last stomp!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Checks and Balances"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_044",
+      "question": "Who confirms Supreme Court justices?",
+      "correctAnswer": "The Senate",
+      "distractors": [
+        "The House of Representatives",
+        "The President alone",
+        "State governors"
+      ],
+      "explanation": "The President nominates justices, but the Senate must confirm them by majority vote.",
+      "memoryHook": "T-Rexy says: the Senate says yes - no justice without Senate permission!",
+      "imageUrl": "topic:courts",
+      "tags": [
+        "Courts",
+        "Checks and Balances"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_045",
+      "question": "What is the term length for Arizona state representatives?",
+      "correctAnswer": "Two years",
+      "distractors": [
+        "Four years",
+        "Six years",
+        "One year"
+      ],
+      "explanation": "Arizona House members serve two-year terms.",
+      "memoryHook": "T-Rexy says: two years in Phoenix too - Arizona keeps it short and sunny!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Arizona",
+        "State Government"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_046",
+      "question": "How many members are in the Arizona State Senate?",
+      "correctAnswer": "30",
+      "distractors": [
+        "60",
+        "100",
+        "50"
+      ],
+      "explanation": "Arizona has 30 legislative districts, and each district elects one senator, for 30 total.",
+      "memoryHook": "T-Rexy says: 30 senators for 30 districts - neat and tidy like my fossil collection!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Arizona",
+        "State Government"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_047",
+      "question": "How many members are in the Arizona House of Representatives?",
+      "correctAnswer": "60",
+      "distractors": [
+        "30",
+        "100",
+        "435"
+      ],
+      "explanation": "Arizona has 30 districts, and each district elects two representatives, for 60 total.",
+      "memoryHook": "T-Rexy says: 60 representatives - double the senators, double the fun!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Arizona",
+        "State Government"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_048",
+      "question": "Which Arizona process lets voters propose new laws directly?",
+      "correctAnswer": "The initiative",
+      "distractors": [
+        "The veto",
+        "The filibuster",
+        "The pardon"
+      ],
+      "explanation": "Arizona's initiative process lets citizens gather signatures to put a proposed law on the ballot.",
+      "memoryHook": "T-Rexy says: initiative means you start it - citizens take the initiative!",
+      "imageUrl": "topic:elections",
+      "tags": [
+        "Arizona",
+        "Direct Democracy"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_049",
+      "question": "Which Arizona process lets voters approve or reject laws passed by the legislature?",
+      "correctAnswer": "The referendum",
+      "distractors": [
+        "The initiative",
+        "The recall",
+        "The veto"
+      ],
+      "explanation": "A referendum puts a recently passed law before voters to accept or reject it.",
+      "memoryHook": "T-Rexy says: referendum refers it back - the people get the final roar!",
+      "imageUrl": "topic:elections",
+      "tags": [
+        "Arizona",
+        "Direct Democracy"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_050",
+      "question": "Which Arizona process lets voters remove an elected official before their term ends?",
+      "correctAnswer": "The recall",
+      "distractors": [
+        "The referendum",
+        "The initiative",
+        "Impeachment by voters"
+      ],
+      "explanation": "Arizona voters can petition for a recall election to remove an official early.",
+      "memoryHook": "T-Rexy says: recall means call back - voters call the official back home!",
+      "imageUrl": "topic:elections",
+      "tags": [
+        "Arizona",
+        "Direct Democracy"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_051",
+      "question": "Which statement best describes the Electoral College?",
+      "correctAnswer": "The group of electors who formally elect the President",
+      "distractors": [
+        "A university for politicians",
+        "The committee that writes the Constitution",
+        "A training school for judges"
+      ],
+      "explanation": "Each state has electors equal to its House members plus senators; they cast the official votes for President.",
+      "memoryHook": "T-Rexy says: the Electoral College elects - 538 electors pick the President!",
+      "imageUrl": "topic:elections",
+      "tags": [
+        "Elections",
+        "Presidency"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_052",
+      "question": "How many electoral votes are needed to win the presidency?",
+      "correctAnswer": "270",
+      "distractors": [
+        "538",
+        "269",
+        "300"
+      ],
+      "explanation": "A candidate needs a majority of the 538 electoral votes, which is 270.",
+      "memoryHook": "T-Rexy says: 270 to win - more than half of 538, that is the magic number!",
+      "imageUrl": "topic:elections",
+      "tags": [
+        "Elections",
+        "Presidency"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_053",
+      "question": "Which amendment guarantees equal protection under the law?",
+      "correctAnswer": "The 14th Amendment",
+      "distractors": [
+        "The 13th Amendment",
+        "The 15th Amendment",
+        "The 10th Amendment"
+      ],
+      "explanation": "The 14th Amendment's Equal Protection Clause requires states to treat people equally.",
+      "memoryHook": "T-Rexy says: 14 for fairness - the 14th Amendment makes everyone equal!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Amendments",
+        "Civil Rights"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_054",
+      "question": "Which amendment protects voting rights regardless of race?",
+      "correctAnswer": "The 15th Amendment",
+      "distractors": [
+        "The 13th Amendment",
+        "The 14th Amendment",
+        "The 19th Amendment"
+      ],
+      "explanation": "The 15th Amendment says the right to vote cannot be denied based on race.",
+      "memoryHook": "T-Rexy says: 15 for every race - the 15th Amendment opens the ballot box to all!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Amendments",
+        "Voting Rights"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_055",
+      "question": "Powers not given to the federal government are reserved to the states by which amendment?",
+      "correctAnswer": "The 10th Amendment",
+      "distractors": [
+        "The 9th Amendment",
+        "The 11th Amendment",
+        "The 14th Amendment"
+      ],
+      "explanation": "The 10th Amendment reserves undelegated powers to the states or the people.",
+      "memoryHook": "T-Rexy says: ten keeps the rest - the 10th Amendment saves powers for the states!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Bill of Rights",
+        "Federalism"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_056",
+      "question": "Who is the presiding officer of the House of Representatives?",
+      "correctAnswer": "The Speaker of the House",
+      "distractors": [
+        "The Vice President",
+        "The President pro tempore",
+        "The Majority Leader"
+      ],
+      "explanation": "The Speaker leads the House, presides over sessions, and is second in line for the presidency.",
+      "memoryHook": "T-Rexy says: the Speaker speaks first - loudest voice in the House!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Congress",
+        "House"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_057",
+      "question": "What happens if no presidential candidate wins a majority of electoral votes?",
+      "correctAnswer": "The House of Representatives chooses the President",
+      "distractors": [
+        "The Senate chooses the President",
+        "The Supreme Court chooses the President",
+        "There is a national popular revote"
+      ],
+      "explanation": "The 12th Amendment sends the election to the House, which votes by state delegation.",
+      "memoryHook": "T-Rexy says: the House decides - 50 states, 50 votes, one President!",
+      "imageUrl": "topic:elections",
+      "tags": [
+        "Elections",
+        "Presidency"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_058",
+      "question": "How many justices are on the Arizona Supreme Court?",
+      "correctAnswer": "Seven",
+      "distractors": [
+        "Five",
+        "Nine",
+        "Three"
+      ],
+      "explanation": "Arizona's highest court has seven justices.",
+      "memoryHook": "T-Rexy says: seven justices in the desert - lucky seven under the Arizona sun!",
+      "imageUrl": "topic:courts",
+      "tags": [
+        "Arizona",
+        "Courts"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_059",
+      "question": "Which statement best describes gerrymandering?",
+      "correctAnswer": "Drawing voting district lines to favor one party",
+      "distractors": [
+        "Counting votes twice",
+        "Bribing election officials",
+        "Forcing people to vote"
+      ],
+      "explanation": "Gerrymandering manipulates district boundaries for partisan advantage.",
+      "memoryHook": "T-Rexy says: gerrymander is a sneaky salamander - it twists district shapes!",
+      "imageUrl": "topic:elections",
+      "tags": [
+        "Elections"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_060",
+      "question": "Identify what the 25th Amendment addresses.",
+      "correctAnswer": "Presidential succession and disability",
+      "distractors": [
+        "Voting rights",
+        "Term limits",
+        "Flag burning"
+      ],
+      "explanation": "The 25th Amendment covers what happens if the President dies, resigns, or cannot serve.",
+      "memoryHook": "T-Rexy says: 25 for succession - 25 keeps the presidency running no matter what!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Amendments",
+        "Presidency"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_061",
+      "question": "Which part of Congress must approve treaties?",
+      "correctAnswer": "The Senate, by a two-thirds vote",
+      "distractors": [
+        "The House",
+        "Both houses by majority",
+        "The Supreme Court"
+      ],
+      "explanation": "The President negotiates treaties, but the Senate must approve them with two-thirds support.",
+      "memoryHook": "T-Rexy says: Senate seals the deal - two-thirds of senators must agree!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Congress",
+        "Senate",
+        "Checks and Balances"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_062",
+      "question": "Which statement best describes a filibuster?",
+      "correctAnswer": "Extended debate used to delay or block a Senate vote",
+      "distractors": [
+        "A type of veto",
+        "A House voting procedure",
+        "A presidential speech"
+      ],
+      "explanation": "Senators can speak at length to delay action; ending one requires 60 votes, called cloture.",
+      "memoryHook": "T-Rexy says: filibuster is a talk-a-thon - senators talk until everyone is tired!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Congress",
+        "Senate"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_063",
+      "question": "Which amendment lowered the voting age to 18?",
+      "correctAnswer": "The 26th Amendment",
+      "distractors": [
+        "The 24th Amendment",
+        "The 19th Amendment",
+        "The 15th Amendment"
+      ],
+      "explanation": "Ratified in 1971, the 26th Amendment set the voting age at 18.",
+      "memoryHook": "T-Rexy says: 26 for 18-year-olds - old enough to be drafted, old enough to vote!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Amendments",
+        "Voting Rights"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_064",
+      "question": "Which statement best describes due process?",
+      "correctAnswer": "The government must follow fair legal procedures before depriving someone of life, liberty, or property",
+      "distractors": [
+        "Trials must be fast",
+        "Only federal courts can try cases",
+        "The President can pardon anyone"
+      ],
+      "explanation": "The 5th and 14th Amendments guarantee due process - fair notice and a fair hearing.",
+      "memoryHook": "T-Rexy says: due process is a fair process - the government must play by the rules!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Civil Liberties"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_065",
+      "question": "What is the main job of the Arizona legislature?",
+      "correctAnswer": "To make state laws",
+      "distractors": [
+        "To enforce federal laws",
+        "To appoint the governor",
+        "To run the courts"
+      ],
+      "explanation": "Like Congress at the federal level, Arizona's legislature writes and passes state laws.",
+      "memoryHook": "T-Rexy says: legislatures legislate - whether in D.C. or Phoenix!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Arizona",
+        "State Government"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_066",
+      "question": "How can the US Constitution be amended?",
+      "correctAnswer": "Proposed by two-thirds of Congress or a convention, then ratified by three-fourths of the states",
+      "distractors": [
+        "By presidential executive order",
+        "By Supreme Court decision",
+        "By a simple majority of voters"
+      ],
+      "explanation": "Article V sets a high bar: two-thirds to propose, three-fourths of states to ratify.",
+      "memoryHook": "T-Rexy says: amending is hard - two-thirds to propose, three-fourths to approve!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Amendments"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_067",
+      "question": "Which statement best describes judicial review?",
+      "correctAnswer": "The power of courts to declare laws unconstitutional",
+      "distractors": [
+        "The President reviewing judges",
+        "Congress reviewing court budgets",
+        "Voters reviewing judges"
+      ],
+      "explanation": "Established in Marbury v. Madison (1803), courts can strike down laws that violate the Constitution.",
+      "memoryHook": "T-Rexy says: courts review the rules - if a law breaks the Constitution, courts break the law!",
+      "imageUrl": "topic:courts",
+      "tags": [
+        "Courts",
+        "Checks and Balances"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_068",
+      "question": "Which Supreme Court case established judicial review?",
+      "correctAnswer": "Marbury v. Madison",
+      "distractors": [
+        "Brown v. Board of Education",
+        "Roe v. Wade",
+        "Miranda v. Arizona"
+      ],
+      "explanation": "In 1803, Chief Justice John Marshall's opinion in Marbury v. Madison claimed the power of judicial review.",
+      "memoryHook": "T-Rexy says: Marbury made it - 1803, the year courts got their superpower!",
+      "imageUrl": "topic:courts",
+      "tags": [
+        "Courts",
+        "Checks and Balances"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_069",
+      "question": "Which statement best describes the 'supremacy clause'?",
+      "correctAnswer": "The part of the Constitution saying federal law beats conflicting state law",
+      "distractors": [
+        "A rule about the President's power",
+        "A limit on free speech",
+        "A tax provision"
+      ],
+      "explanation": "Article VI's supremacy clause makes the Constitution and federal laws the supreme law of the land.",
+      "memoryHook": "T-Rexy says: supreme means top dog - federal law wins every fight!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Federalism"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_070",
+      "question": "Which statement best describes a primary election?",
+      "correctAnswer": "An election where parties choose their nominees",
+      "distractors": [
+        "The final election for President",
+        "An election only for independents",
+        "A vote on new laws"
+      ],
+      "explanation": "Primaries narrow the field so each party picks one candidate for the general election.",
+      "memoryHook": "T-Rexy says: primary comes first - parties pick their players before the big game!",
+      "imageUrl": "topic:elections",
+      "tags": [
+        "Elections"
+      ],
+      "difficulty": 2,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_071",
+      "question": "What vote is required in the Senate to convict in an impeachment trial?",
+      "correctAnswer": "Two-thirds",
+      "distractors": [
+        "A simple majority",
+        "Three-fourths",
+        "Unanimous"
+      ],
+      "explanation": "After the House impeaches, the Senate holds a trial and needs two-thirds to convict and remove.",
+      "memoryHook": "T-Rexy says: two-thirds to remove - it takes a supermajority to fire a President!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Checks and Balances",
+        "Congress"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_072",
+      "question": "Which amendment covers rights kept by the people even though they are not listed?",
+      "correctAnswer": "The 9th Amendment",
+      "distractors": [
+        "The 10th Amendment",
+        "The 14th Amendment",
+        "The 1st Amendment"
+      ],
+      "explanation": "The 9th Amendment says listing some rights does not deny others the people still hold.",
+      "memoryHook": "T-Rexy says: nine keeps the rest - rights not listed are still yours!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Bill of Rights"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_073",
+      "question": "What are 'enumerated powers'?",
+      "correctAnswer": "Powers specifically listed for Congress in the Constitution",
+      "distractors": [
+        "Powers of the President",
+        "Powers reserved to states",
+        "Powers of the courts"
+      ],
+      "explanation": "Article I, Section 8 lists Congress's enumerated powers like coining money and declaring war.",
+      "memoryHook": "T-Rexy says: enumerated means numbered - powers listed one by one!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Federalism",
+        "Congress"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_074",
+      "question": "What are 'implied powers'?",
+      "correctAnswer": "Powers Congress has that are not listed but are needed to carry out its listed powers",
+      "distractors": [
+        "Powers the President implies",
+        "Powers states assume",
+        "Powers courts invent"
+      ],
+      "explanation": "The Necessary and Proper Clause lets Congress use means not listed to execute its enumerated powers.",
+      "memoryHook": "T-Rexy says: implied is hinted - not written, but understood!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Federalism",
+        "Congress"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_075",
+      "question": "What is the 'Necessary and Proper Clause' also called?",
+      "correctAnswer": "The Elastic Clause",
+      "distractors": [
+        "The Commerce Clause",
+        "The Supremacy Clause",
+        "The Due Process Clause"
+      ],
+      "explanation": "It lets Congress stretch its powers to carry out its duties, like an elastic band.",
+      "memoryHook": "T-Rexy says: elastic stretches - Congress stretches its powers like dino skin!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Congress"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_076",
+      "question": "What vote is required for Congress to propose a constitutional amendment?",
+      "correctAnswer": "A two-thirds vote in both houses",
+      "distractors": [
+        "A simple majority",
+        "A three-fourths vote",
+        "Presidential approval"
+      ],
+      "explanation": "Article V requires two-thirds of both the House and Senate to propose an amendment.",
+      "memoryHook": "T-Rexy says: two-thirds to propose - proposing is easier than ratifying!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Amendments"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_077",
+      "question": "How many states must ratify a constitutional amendment?",
+      "correctAnswer": "Three-fourths (38 states)",
+      "distractors": [
+        "Two-thirds",
+        "A simple majority",
+        "All 50"
+      ],
+      "explanation": "Three-fourths of the states (38 of 50) must approve an amendment for it to take effect.",
+      "memoryHook": "T-Rexy says: 38 states to ratify - three-fourths says yes!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Amendments"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_078",
+      "question": "Arizona has no lieutenant governor. Who is next in line if the governor cannot serve?",
+      "correctAnswer": "The Secretary of State",
+      "distractors": [
+        "The Attorney General",
+        "The Senate President",
+        "The Chief Justice"
+      ],
+      "explanation": "Arizona has no lieutenant governor; the Secretary of State is first in the line of succession.",
+      "memoryHook": "T-Rexy says: no lieutenant in Arizona - the Secretary of State steps up!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Arizona",
+        "State Government"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_079",
+      "question": "Which statement best describes 'stare decisis'?",
+      "correctAnswer": "The principle of following earlier court decisions as precedent",
+      "distractors": [
+        "A type of appeal",
+        "The Senate's advice on judges",
+        "A presidential pardon power"
+      ],
+      "explanation": "Courts generally follow precedent to keep the law stable and predictable.",
+      "memoryHook": "T-Rexy says: stare decisis means stand by decisions - courts respect their elders!",
+      "imageUrl": "topic:courts",
+      "tags": [
+        "Courts"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_080",
+      "question": "Which statement best describes the difference between civil and criminal law?",
+      "correctAnswer": "Criminal law punishes offenses against society; civil law resolves disputes between people",
+      "distractors": [
+        "Civil law is federal and criminal law is state",
+        "There is no difference",
+        "Criminal law only covers murder"
+      ],
+      "explanation": "Criminal cases are brought by the government and can lead to jail; civil cases seek money or orders between parties.",
+      "memoryHook": "T-Rexy says: criminal means crime time - civil means let us settle this nicely!",
+      "imageUrl": "topic:courts",
+      "tags": [
+        "Courts"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_081",
+      "question": "Which statement best describes double jeopardy?",
+      "correctAnswer": "You cannot be tried twice for the same crime",
+      "distractors": [
+        "Two punishments for one crime",
+        "Two trials in two states",
+        "A jury of twelve"
+      ],
+      "explanation": "The 5th Amendment bars being put in jeopardy twice for the same offense.",
+      "memoryHook": "T-Rexy says: double jeopardy is double trouble - one trial per crime, that is the rule!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Bill of Rights"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_082",
+      "question": "Which statement best describes an 'ex post facto' law?",
+      "correctAnswer": "A law punishing an act that was legal when it was done",
+      "distractors": [
+        "A law about exports",
+        "A law Congress must pass yearly",
+        "A law required for taxes"
+      ],
+      "explanation": "Article I forbids ex post facto laws so people are not punished retroactively for acts that were legal.",
+      "memoryHook": "T-Rexy says: ex post facto is after-the-fact - no punishing yesterday's legal lunch!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Civil Liberties"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_083",
+      "question": "Which statement best describes the 'full faith and credit' clause?",
+      "correctAnswer": "States must honor other states' public acts and court decisions",
+      "distractors": [
+        "Banks must honor checks",
+        "Congress must pay debts",
+        "States must share tax revenue"
+      ],
+      "explanation": "Article IV requires states to respect each other's laws and judgments, like driver's licenses.",
+      "memoryHook": "T-Rexy says: full faith means full trust - states trust each other's paperwork!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Federalism"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_084",
+      "question": "Which statement best describes a 'writ of habeas corpus'?",
+      "correctAnswer": "A court order requiring a prisoner to be brought before a judge",
+      "distractors": [
+        "A presidential pardon",
+        "A type of tax",
+        "A congressional subpoena"
+      ],
+      "explanation": "It protects against unlawful detention by forcing the government to justify holding someone.",
+      "memoryHook": "T-Rexy says: habeas corpus means produce the body - show the prisoner or set them free!",
+      "imageUrl": "topic:courts",
+      "tags": [
+        "Courts",
+        "Civil Liberties"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_085",
+      "question": "Which statement best describes the Arizona Corporation Commission?",
+      "correctAnswer": "The state body that regulates utilities and corporations",
+      "distractors": [
+        "A federal trade agency",
+        "A business lobbying group",
+        "A county tax office"
+      ],
+      "explanation": "Arizona's Corporation Commission oversees public utilities, securities, and corporate filings.",
+      "memoryHook": "T-Rexy says: the Corporation Commission corrals corporations - keeping utilities honest in the desert!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Arizona",
+        "State Government"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_086",
+      "question": "Which statement best describes 'selective incorporation'?",
+      "correctAnswer": "Applying most Bill of Rights protections to the states through the 14th Amendment",
+      "distractors": [
+        "Choosing which states join the Union",
+        "Electing senators selectively",
+        "Picking Supreme Court cases"
+      ],
+      "explanation": "The 14th Amendment's Due Process Clause has been used to apply nearly all Bill of Rights limits to state governments too.",
+      "memoryHook": "T-Rexy says: selective incorporation picks protections - the 14th Amendment shares the Bill of Rights with the states!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Bill of Rights",
+        "Federalism"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_087",
+      "question": "Which statement best describes the 'establishment clause'?",
+      "correctAnswer": "The 1st Amendment ban on government establishing a religion",
+      "distractors": [
+        "A rule for establishing businesses",
+        "The process for admitting states",
+        "A military draft rule"
+      ],
+      "explanation": "The 1st Amendment says Congress shall make no law respecting an establishment of religion.",
+      "memoryHook": "T-Rexy says: establishment is a no-go - government cannot pick a favorite religion!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Bill of Rights",
+        "Civil Liberties"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_088",
+      "question": "Which statement best describes the 'free exercise clause'?",
+      "correctAnswer": "The 1st Amendment protection of practicing religion freely",
+      "distractors": [
+        "Free gym memberships",
+        "Freedom to travel",
+        "Free public exercise programs"
+      ],
+      "explanation": "Alongside the establishment clause, it bars government from blocking religious practice.",
+      "memoryHook": "T-Rexy says: free exercise means practice freely - worship however you wish!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Bill of Rights",
+        "Civil Liberties"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_089",
+      "question": "Which statement best describes 'prior restraint'?",
+      "correctAnswer": "Government censorship blocking publication before it happens",
+      "distractors": [
+        "Arresting someone early",
+        "Restraining a witness",
+        "A pretrial hearing"
+      ],
+      "explanation": "The 1st Amendment strongly disfavors prior restraint, as shown in the Pentagon Papers case.",
+      "memoryHook": "T-Rexy says: prior restraint restrains first - the government cannot gag the press in advance!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Bill of Rights",
+        "Civil Liberties"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_090",
+      "question": "Which statement best describes the 'Miranda' rule?",
+      "correctAnswer": "Police must inform suspects of their rights before questioning",
+      "distractors": [
+        "A voting procedure",
+        "A tax rule",
+        "A military code"
+      ],
+      "explanation": "From Miranda v. Arizona (1966), suspects must be told of the right to remain silent and to have a lawyer.",
+      "memoryHook": "T-Rexy says: Miranda means rights - you have the right to remain silent, even in Arizona!",
+      "imageUrl": "topic:courts",
+      "tags": [
+        "Courts",
+        "Civil Liberties",
+        "Arizona"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_091",
+      "question": "Which statement best describes a 'pocket veto'?",
+      "correctAnswer": "When the President lets a bill die by not signing it after Congress adjourns",
+      "distractors": [
+        "A small veto stamp",
+        "A governor's veto",
+        "A court blocking a law"
+      ],
+      "explanation": "If Congress adjourns within 10 days and the President does not sign, the bill dies without a veto Congress can override.",
+      "memoryHook": "T-Rexy says: pocket veto hides the bill - the President pockets it and walks away!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Presidency",
+        "Checks and Balances"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_092",
+      "question": "Which statement best describes 'cloture'?",
+      "correctAnswer": "The Senate procedure to end debate, requiring 60 votes",
+      "distractors": [
+        "Closing a courtroom",
+        "Ending a presidency",
+        "Shutting down the government"
+      ],
+      "explanation": "Cloture stops a filibuster; 60 senators must agree to move to a vote.",
+      "memoryHook": "T-Rexy says: cloture closes the talk - 60 votes to stop the chatter!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Congress",
+        "Senate"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_093",
+      "question": "Which statement best describes the 'commerce clause' and why does it matter?",
+      "correctAnswer": "It lets Congress regulate interstate commerce, the basis for much federal power",
+      "distractors": [
+        "A state tax rule",
+        "A trade treaty",
+        "A business license requirement"
+      ],
+      "explanation": "Article I's commerce clause has been read broadly to support federal laws on everything from civil rights to the environment.",
+      "memoryHook": "T-Rexy says: commerce crosses borders - Congress regulates trade between states!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Congress",
+        "Federalism"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_094",
+      "question": "Which statement best describes 'federalism'?",
+      "correctAnswer": "The division of power between national and state governments",
+      "distractors": [
+        "The Federal Reserve system",
+        "A political party",
+        "The FBI's authority"
+      ],
+      "explanation": "Federalism splits sovereignty so both levels govern in their own spheres.",
+      "memoryHook": "T-Rexy says: federalism is a power split - like sharing a pizza between D.C. and Phoenix!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Federalism"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_095",
+      "question": "What does Arizona's Voter Protection Act do?",
+      "correctAnswer": "It bars the legislature from repealing voter-approved initiatives",
+      "distractors": [
+        "It requires voter ID",
+        "It redraws districts",
+        "It limits campaign donations"
+      ],
+      "explanation": "Arizona voters protected their initiatives from legislative tampering - a strong direct-democracy shield.",
+      "memoryHook": "T-Rexy says: voters protect their votes - the legislature cannot undo what voters approved!",
+      "imageUrl": "topic:elections",
+      "tags": [
+        "Arizona",
+        "Direct Democracy"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_096",
+      "question": "How are Arizona Supreme Court justices selected?",
+      "correctAnswer": "Merit selection: a commission nominates, the governor appoints, voters decide retention",
+      "distractors": [
+        "Direct popular election",
+        "Legislative appointment",
+        "Presidential nomination"
+      ],
+      "explanation": "Arizona uses merit selection plus retention elections to balance independence and accountability.",
+      "memoryHook": "T-Rexy says: merit picks the best - commission, governor, then voters give a thumbs up!",
+      "imageUrl": "topic:courts",
+      "tags": [
+        "Arizona",
+        "Courts"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_097",
+      "question": "Which statement best describes a 'retention election'?",
+      "correctAnswer": "Voters decide yes or no on keeping a judge in office",
+      "distractors": [
+        "Electing a new governor",
+        "Keeping a lawmaker's seat",
+        "Retaining a veto"
+      ],
+      "explanation": "Arizona judges face retention votes instead of contested elections.",
+      "memoryHook": "T-Rexy says: retention means keep or cut - voters give judges a report card!",
+      "imageUrl": "topic:elections",
+      "tags": [
+        "Arizona",
+        "Courts"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_098",
+      "question": "Which statement best describes the Arizona Independent Redistricting Commission?",
+      "correctAnswer": "The citizen commission that draws congressional and legislative districts",
+      "distractors": [
+        "A voter registration drive",
+        "A campaign finance board",
+        "A polling-place agency"
+      ],
+      "explanation": "Voters created it in 2000 to take map-drawing out of partisan hands.",
+      "memoryHook": "T-Rexy says: independent maps, fair districts - citizens draw the lines, not politicians!",
+      "imageUrl": "topic:elections",
+      "tags": [
+        "Arizona",
+        "Elections"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_099",
+      "question": "What does the 24th Amendment ban?",
+      "correctAnswer": "Poll taxes in federal elections",
+      "distractors": [
+        "Literacy tests",
+        "Property requirements",
+        "All voting restrictions"
+      ],
+      "explanation": "The 24th Amendment outlawed making voters pay to vote in federal elections.",
+      "memoryHook": "T-Rexy says: 24 ends pay-to-vote - voting is free, like sunshine!",
+      "imageUrl": "topic:constitution",
+      "tags": [
+        "Constitution",
+        "Amendments",
+        "Voting Rights"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    },
+    {
+      "id": "EUGOV_100",
+      "question": "Which statement best describes 'civic virtue' and why did the Framers value it?",
+      "correctAnswer": "Citizens putting the common good first; republics depend on it",
+      "distractors": [
+        "A type of tax",
+        "Military service only",
+        "A religious duty"
+      ],
+      "explanation": "The Framers believed self-government only works if citizens participate responsibly and honestly.",
+      "memoryHook": "T-Rexy says: civic virtue is dino-sized responsibility - the republic needs good citizens to survive!",
+      "imageUrl": "topic:government",
+      "tags": [
+        "Civic Participation"
+      ],
+      "difficulty": 3,
+      "dynamic": false,
+      "source": "TReps US/AZ Gov 12"
+    }
+  ]
+}
