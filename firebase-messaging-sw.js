@@ -9,7 +9,7 @@ importScripts(
 );
 
 firebase.initializeApp({
-  apiKey: 'AIzaSyAZKtpIGgxc9qHRdQJJkVyYpSpxo4CUP5U',
+  apiKey: 'FIREBASE_API_KEY_PLACEHOLDER',
   authDomain: 'us-civic-test-beta.firebaseapp.com',
   projectId: 'us-civic-test-beta',
   storageBucket: 'us-civic-test-beta.firebasestorage.app',
