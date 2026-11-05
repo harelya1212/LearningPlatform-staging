@@ -20,14 +20,14 @@
         "Jupiter",
         "Mercury"
       ],
-      "explanation": "Saturn: the planet with the most visible rings. (it is made mostly of gas)",
-      "memoryHook": "T-Rexy says: remember the order: My Very Excellent Mother Just Served Us Nachos.",
+      "explanation": "Saturn's rings are made of billions of chunks of ice and rock, some as small as grains of sand and some as big as houses, all orbiting the planet.",
+      "memoryHook": "T-Rexy says: Saturn's rings are ice and rock.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "solar-system",
         "planets"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -40,14 +40,14 @@
         "A deep ocean trench",
         "A crack that never moves"
       ],
-      "explanation": "A volcano is where melted rock from below Earth's surface erupts.",
+      "explanation": "Magma is melted rock stored underground; when pressure builds, it forces its way up through a crack and erupts as lava, ash, and gas.",
       "memoryHook": "T-Rexy says: volcanoes are Earth's pressure valves.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "volcanoes",
         "earth"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -80,7 +80,7 @@
         "One month",
         "One week"
       ],
-      "explanation": "Earth orbits the Sun once every 365 days, which is one year.",
+      "explanation": "Earth travels all the way around the Sun in 365 days - that trip is what we call a year, and the seasons change along the way.",
       "memoryHook": "T-Rexy says: orbit once, year done.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -107,21 +107,21 @@
         "minerals",
         "hardness"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "EAR7_006",
-      "question": "In the rock cycle, what is erosion?",
-      "correctAnswer": "rock and soil are moved to a new place",
+      "question": "In the rock cycle, what happens during uplift?",
+      "correctAnswer": "Rock buried deep is pushed up to Earth's surface",
       "distractors": [
-        "rock turns into magma from heat",
-        "rock is broken into smaller pieces",
-        "magma or lava hardens into igneous rock"
+        "Rock turns into magma from heat",
+        "Rock is broken into smaller pieces",
+        "Magma or lava hardens into igneous rock"
       ],
-      "explanation": "Erosion is when rock and soil are moved to a new place. (rivers carry sediment away)",
-      "memoryHook": "T-Rexy says: the rock cycle is one big recycling loop.",
+      "explanation": "Uplift pushes buried rock up to the surface, where weathering and erosion can attack it - without uplift, the rock cycle would stall.",
+      "memoryHook": "T-Rexy says: uplift brings buried rock back to the surface.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "rocks",
@@ -147,7 +147,7 @@
         "moon",
         "tides"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -187,7 +187,7 @@
         "water-cycle",
         "groundwater"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -207,20 +207,20 @@
         "moon",
         "eclipses"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "EAR7_011",
       "question": "In the rock cycle, what is deposition?",
-      "correctAnswer": "sediment is dropped in a new place",
+      "correctAnswer": "Sediment is dropped in a new place",
       "distractors": [
         "rock and soil are moved to a new place",
         "sediment layers are squeezed together",
         "rock turns into magma from heat"
       ],
-      "explanation": "Deposition is when sediment is dropped in a new place. (a river delta forms this way)",
+      "explanation": "When a river slows down, it can no longer carry its load, so the sediment drops out and piles up - river deltas are built this way.",
       "memoryHook": "T-Rexy says: the rock cycle is one big recycling loop.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -240,14 +240,14 @@
         "Earthquakes under the ocean",
         "The Sun heating the water"
       ],
-      "explanation": "The Moon's gravity pulls ocean water toward it, making high and low tides.",
+      "explanation": "The Moon's gravity pulls hardest on the ocean water facing it, creating a bulge of high tide; Earth spins through two bulges a day, so most places get two high tides.",
       "memoryHook": "T-Rexy says: the Moon tugs the oceans.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "moon",
         "tides"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -287,27 +287,27 @@
         "climate",
         "greenhouse"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "EAR7_015",
       "question": "What is the mantle of Earth?",
-      "correctAnswer": "the thick middle layer of hot, slowly moving rock",
+      "correctAnswer": "The thick middle layer of hot, slowly moving rock",
       "distractors": [
         "the thin outer layer of Earth where we live",
         "the liquid layer of iron and nickel",
         "the solid center of Earth, very hot and under huge pressure"
       ],
-      "explanation": "The mantle is the thick middle layer of hot, slowly moving rock. (the largest layer by volume)",
+      "explanation": "The mantle is the thickest layer, about 2,900 km deep, and although it is solid rock, it is so hot that it flows very slowly, like warm wax.",
       "memoryHook": "T-Rexy says: Earth is like an onion with four layers.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "earth-layers",
         "structure"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -327,27 +327,27 @@
         "rocks",
         "erosion"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "EAR7_017",
       "question": "How long does it take the Moon to orbit Earth once?",
-      "correctAnswer": "About 27 to 29 days",
+      "correctAnswer": "About 27 days",
       "distractors": [
         "One day",
         "One year",
         "One week"
       ],
       "explanation": "The Moon orbits Earth in about 27 days, and its phases repeat every 29.5 days.",
-      "memoryHook": "T-Rexy says: a moon month is about 29 days.",
+      "memoryHook": "T-Rexy says: the Moon orbits in about 27 days; its phases take about 29.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "moon",
         "orbit"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -367,7 +367,7 @@
         "moon",
         "phases"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -387,7 +387,7 @@
         "rocks",
         "weathering"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -400,8 +400,8 @@
         "Venus",
         "Mars"
       ],
-      "explanation": "Neptune: the farthest planet from the Sun. (it has the strongest winds)",
-      "memoryHook": "T-Rexy says: remember the order: My Very Excellent Mother Just Served Us Nachos.",
+      "explanation": "Neptune is the eighth and farthest planet, about 30 times farther from the Sun than Earth, and its winds are the fastest in the solar system.",
+      "memoryHook": "T-Rexy says: Neptune is the farthest out - number 8.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "solar-system",
@@ -440,8 +440,8 @@
         "Earth",
         "Neptune"
       ],
-      "explanation": "Jupiter: the largest planet. (its Great Red Spot is a giant storm)",
-      "memoryHook": "T-Rexy says: remember the order: My Very Excellent Mother Just Served Us Nachos.",
+      "explanation": "Jupiter is more than twice as massive as all the other planets combined, and its Great Red Spot is a storm wider than Earth that has raged for centuries.",
+      "memoryHook": "T-Rexy says: Jupiter is the biggest - think giant.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "solar-system",
@@ -467,7 +467,7 @@
         "earthquakes",
         "tsunami"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -507,7 +507,7 @@
         "atmosphere",
         "aurora"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -517,10 +517,10 @@
       "correctAnswer": "Granite",
       "distractors": [
         "Sandstone",
-        "Basalt",
+        "Shale",
         "Marble"
       ],
-      "explanation": "Granite is an example of igneous rock.",
+      "explanation": "Granite cools slowly deep underground, so its crystals grow large enough to see - that speckled look is quartz, feldspar, and mica.",
       "memoryHook": "T-Rexy says: learn one example rock for each type.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -547,7 +547,7 @@
         "earthquakes",
         "vocabulary"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -580,34 +580,34 @@
         "460,000 years",
         "46 billion years"
       ],
-      "explanation": "Scientists estimate Earth formed about 4.6 billion years ago.",
+      "explanation": "Scientists date the oldest rocks and Moon rocks, and the oldest meteorites, to about 4.6 billion years - that is how old Earth is.",
       "memoryHook": "T-Rexy says: Earth is billions of years old.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "earth-history",
         "age"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "EAR7_030",
       "question": "How does sedimentary rock form?",
-      "correctAnswer": "forms when layers of sediment are pressed together",
+      "correctAnswer": "Forms when layers of sediment are pressed together",
       "distractors": [
         "forms when rock is changed by heat and pressure",
         "forms when melted rock cools and hardens",
         "It forms from living things only"
       ],
-      "explanation": "Sedimentary rock forms when layers of sediment are pressed together. Examples: sandstone and limestone.",
+      "explanation": "Rivers carry sand and mud to the sea, where layers pile up; over time the weight squeezes them and minerals glue them into rock like sandstone.",
       "memoryHook": "T-Rexy says: igneous is fire, sedimentary is layers, metamorphic is changed.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "rocks",
         "rock-cycle"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -620,8 +620,8 @@
         "Uranus",
         "Earth"
       ],
-      "explanation": "Mercury: the closest planet to the Sun. (it has almost no atmosphere)",
-      "memoryHook": "T-Rexy says: remember the order: My Very Excellent Mother Just Served Us Nachos.",
+      "explanation": "Mercury is the smallest planet and the closest to the Sun, but it has almost no atmosphere, so its days are scorching and its nights freezing.",
+      "memoryHook": "T-Rexy says: Mercury is first, closest to the Sun.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "solar-system",
@@ -640,7 +640,7 @@
         "Basalt",
         "Marble"
       ],
-      "explanation": "Sandstone is an example of sedimentary rock.",
+      "explanation": "Sandstone is made of sand grains cemented together - you can often see and feel the individual grains in it.",
       "memoryHook": "T-Rexy says: learn one example rock for each type.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -694,13 +694,13 @@
     {
       "id": "EAR7_035",
       "question": "In the water cycle, what is evaporation?",
-      "correctAnswer": "water turns from liquid into water vapor",
+      "correctAnswer": "Water turns from liquid into water vapor",
       "distractors": [
         "water vapor cools and turns into liquid droplets",
         "water falls from clouds as rain, snow, or hail",
         "water moves from plants into the air"
       ],
-      "explanation": "Evaporation is when water turns from liquid into water vapor. (the sun powers it)",
+      "explanation": "Heat from the Sun gives water molecules enough energy to escape as invisible vapor; that is how puddles dry up and oceans feed the clouds.",
       "memoryHook": "T-Rexy says: water is always on a trip: up, across, down, repeat.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -727,7 +727,7 @@
         "seasons",
         "earth-sun"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -754,20 +754,20 @@
     {
       "id": "EAR7_038",
       "question": "How does igneous rock form?",
-      "correctAnswer": "forms when melted rock cools and hardens",
+      "correctAnswer": "Forms when melted rock cools and hardens",
       "distractors": [
         "forms when layers of sediment are pressed together",
         "forms when rock is changed by heat and pressure",
         "It forms from living things only"
       ],
-      "explanation": "Igneous rock forms when melted rock cools and hardens. Examples: granite and basalt.",
+      "explanation": "When melted rock cools, its minerals lock into crystals: slow cooling underground makes big crystals (granite), fast cooling on the surface makes tiny ones (basalt).",
       "memoryHook": "T-Rexy says: igneous is fire, sedimentary is layers, metamorphic is changed.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "rocks",
         "rock-cycle"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -800,7 +800,7 @@
         "A small tornado",
         "A dust storm in the desert"
       ],
-      "explanation": "Hurricanes form over warm oceans and bring heavy rain and strong winds.",
+      "explanation": "Warm ocean water evaporates and feeds the storm; as the moist air rises and spins, the storm grows stronger - that is why hurricanes weaken over land.",
       "memoryHook": "T-Rexy says: hurricanes are born over warm seas.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -814,20 +814,20 @@
     {
       "id": "EAR7_041",
       "question": "What happens in the thermosphere?",
-      "correctAnswer": "the layer with the aurora and very thin air",
+      "correctAnswer": "The layer with the aurora and very thin air",
       "distractors": [
         "the layer where most meteors burn up",
         "the lowest layer, where weather happens",
         "the layer with the ozone layer that blocks UV rays"
       ],
-      "explanation": "The thermosphere is the layer with the aurora and very thin air. (the space station orbits here)",
+      "explanation": "The thermosphere starts about 80 km up, where the air is so thin that temperatures swing wildly; the aurora glows here and the space station orbits in it.",
       "memoryHook": "T-Rexy says: weather lives at the bottom, auroras at the top.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "atmosphere",
         "layers"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -847,7 +847,7 @@
         "weather",
         "storms"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -860,27 +860,27 @@
         "Venus",
         "Mercury"
       ],
-      "explanation": "Uranus: the planet that spins on its side. (it looks blue-green from methane)",
-      "memoryHook": "T-Rexy says: remember the order: My Very Excellent Mother Just Served Us Nachos.",
+      "explanation": "Uranus was probably knocked over by a huge collision long ago, so it rolls around the Sun on its side, with its rings tilted almost vertical.",
+      "memoryHook": "T-Rexy says: Uranus rolls on its side.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "solar-system",
         "planets"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "EAR7_044",
       "question": "In the rock cycle, what is cooling?",
-      "correctAnswer": "magma or lava hardens into igneous rock",
+      "correctAnswer": "Magma or lava hardens into igneous rock",
       "distractors": [
         "rock and soil are moved to a new place",
         "rock turns into magma from heat",
         "rock is broken into smaller pieces"
       ],
-      "explanation": "Cooling is when magma or lava hardens into igneous rock. (lava cools into solid rock)",
+      "explanation": "Cooling is the step where melted rock loses heat and its atoms lock into a solid pattern - that solid is igneous rock.",
       "memoryHook": "T-Rexy says: the rock cycle is one big recycling loop.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -894,13 +894,13 @@
     {
       "id": "EAR7_045",
       "question": "In the water cycle, what is collection?",
-      "correctAnswer": "water gathers in oceans, lakes, and rivers",
+      "correctAnswer": "Water gathers in oceans, lakes, and rivers",
       "distractors": [
         "water turns from liquid into water vapor",
         "water moves from plants into the air",
         "water vapor cools and turns into liquid droplets"
       ],
-      "explanation": "Collection is when water gathers in oceans, lakes, and rivers. (gravity pulls water downhill)",
+      "explanation": "Gravity pulls water downhill, so rain and melted snow gather in streams, lakes, and oceans - the lowest places they can reach.",
       "memoryHook": "T-Rexy says: water is always on a trip: up, across, down, repeat.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -967,7 +967,7 @@
         "solar-system",
         "stars"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1013,15 +1013,15 @@
     },
     {
       "id": "EAR7_051",
-      "question": "Which planet is described here: the red planet?",
+      "question": "Which planet has the tallest volcano in the solar system?",
       "correctAnswer": "Mars",
       "distractors": [
-        "Earth",
-        "Uranus",
-        "Saturn"
+        "Venus",
+        "Jupiter",
+        "Mercury"
       ],
-      "explanation": "Mars: the red planet. (it has the tallest volcano in the solar system)",
-      "memoryHook": "T-Rexy says: remember the order: My Very Excellent Mother Just Served Us Nachos.",
+      "explanation": "Olympus Mons on Mars is about 22 km tall, nearly two and a half times the height of Mount Everest.",
+      "memoryHook": "T-Rexy says: Mars holds the tallest volcano.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "solar-system",
@@ -1054,20 +1054,20 @@
     {
       "id": "EAR7_053",
       "question": "At a convergent plate boundary, what happens?",
-      "correctAnswer": "plates push together, forming mountains or volcanoes",
+      "correctAnswer": "Plates push together, forming mountains or volcanoes",
       "distractors": [
         "plates pull apart, forming rift valleys or new ocean floor",
         "plates slide past each other, causing earthquakes",
         "Nothing happens, plates never move"
       ],
-      "explanation": "At a convergent boundary, plates push together, forming mountains or volcanoes. (the Himalayas formed this way)",
+      "explanation": "When two plates collide, one may slide under the other or both may crumple upward - the Himalayas are still rising because India keeps pushing into Asia.",
       "memoryHook": "T-Rexy says: convergent crashes, divergent splits, transform slides.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "plate-tectonics",
         "boundaries"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1080,14 +1080,14 @@
         "Temperature",
         "Rainfall"
       ],
-      "explanation": "An anemometer spins in the wind to measure how fast the wind blows.",
+      "explanation": "An anemometer has cups that catch the wind and spin; the faster they spin, the faster the wind, and a dial turns the spin rate into miles per hour.",
       "memoryHook": "T-Rexy says: anemometer counts the wind's speed.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "weather",
         "tools"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1120,14 +1120,14 @@
         "Only water",
         "Only rocks"
       ],
-      "explanation": "Soil is a mix of minerals, organic matter, water, and air.",
+      "explanation": "Soil is not just crushed rock: it mixes mineral bits with decayed plants and animals (humus), plus water and air in the gaps between particles.",
       "memoryHook": "T-Rexy says: soil is more than just dirt.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "earth-systems",
         "soil"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1147,7 +1147,7 @@
         "fossils",
         "evidence"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1158,9 +1158,9 @@
       "distractors": [
         "Limestone",
         "Granite",
-        "Slate"
+        "Shale"
       ],
-      "explanation": "Marble is an example of metamorphic rock.",
+      "explanation": "Marble starts as limestone, but deep heat and pressure recrystallize it into interlocking crystals - that is why it is smooth and often used for statues.",
       "memoryHook": "T-Rexy says: learn one example rock for each type.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1180,7 +1180,7 @@
         "Clay",
         "Sand"
       ],
-      "explanation": "Topsoil is the dark, rich upper layer where most plants grow.",
+      "explanation": "Topsoil is the darkest layer because it holds the most humus - decayed plants and animals - which is why most roots and garden plants grow there.",
       "memoryHook": "T-Rexy says: topsoil is the good stuff on top.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1194,13 +1194,13 @@
     {
       "id": "EAR7_060",
       "question": "In the water cycle, what is transpiration?",
-      "correctAnswer": "water moves from plants into the air",
+      "correctAnswer": "Water moves from plants into the air",
       "distractors": [
         "water vapor cools and turns into liquid droplets",
         "water falls from clouds as rain, snow, or hail",
         "water gathers in oceans, lakes, and rivers"
       ],
-      "explanation": "Transpiration is when water moves from plants into the air. (plants release water through their leaves)",
+      "explanation": "Leaves have tiny pores that release water vapor into the air; a large tree can release hundreds of liters a day, which is why forests feel humid.",
       "memoryHook": "T-Rexy says: water is always on a trip: up, across, down, repeat.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1240,7 +1240,7 @@
         "Friction",
         "Wind"
       ],
-      "explanation": "The Sun's gravity pulls the planets and keeps them in orbit.",
+      "explanation": "Gravity pulls every mass toward every other mass; the Sun is so massive that its pull holds all eight planets in their orbits.",
       "memoryHook": "T-Rexy says: gravity holds the solar system together.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1254,13 +1254,13 @@
     {
       "id": "EAR7_063",
       "question": "In the rock cycle, what is weathering?",
-      "correctAnswer": "rock is broken into smaller pieces",
+      "correctAnswer": "Rock is broken into smaller pieces",
       "distractors": [
         "sediment is dropped in a new place",
         "magma or lava hardens into igneous rock",
         "rock turns into magma from heat"
       ],
-      "explanation": "Weathering is when rock is broken into smaller pieces. (wind and water wear rock down)",
+      "explanation": "Weathering breaks rock in place - rain and ice crack it, plant roots wedge it apart, and acids slowly dissolve it - while erosion carries the pieces away.",
       "memoryHook": "T-Rexy says: the rock cycle is one big recycling loop.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1274,13 +1274,13 @@
     {
       "id": "EAR7_064",
       "question": "In the rock cycle, what is melting?",
-      "correctAnswer": "rock turns into magma from heat",
+      "correctAnswer": "Rock turns into magma from heat",
       "distractors": [
         "magma or lava hardens into igneous rock",
         "sediment layers are squeezed together",
         "sediment is dropped in a new place"
       ],
-      "explanation": "Melting is when rock turns into magma from heat. (deep underground heat melts rock)",
+      "explanation": "Deep underground, heat and pressure can melt rock into magma; when that magma later cools, it becomes new igneous rock.",
       "memoryHook": "T-Rexy says: the rock cycle is one big recycling loop.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1294,13 +1294,13 @@
     {
       "id": "EAR7_065",
       "question": "In the water cycle, what is condensation?",
-      "correctAnswer": "water vapor cools and turns into liquid droplets",
+      "correctAnswer": "Water vapor cools and turns into liquid droplets",
       "distractors": [
         "water moves from plants into the air",
         "water turns from liquid into water vapor",
         "water falls from clouds as rain, snow, or hail"
       ],
-      "explanation": "Condensation is when water vapor cools and turns into liquid droplets. (this forms clouds)",
+      "explanation": "As water vapor rises, the air gets colder, and the vapor condenses into tiny droplets around dust particles - billions of droplets together make a cloud.",
       "memoryHook": "T-Rexy says: water is always on a trip: up, across, down, repeat.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1327,7 +1327,7 @@
         "moon",
         "surface"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1340,14 +1340,14 @@
         "Limestone",
         "Slate"
       ],
-      "explanation": "Granite is an igneous rock that forms when magma cools slowly deep underground.",
+      "explanation": "Granite forms when magma cools slowly deep underground, giving its minerals time to grow large visible crystals of quartz, feldspar, and mica.",
       "memoryHook": "T-Rexy says: slow cooling makes big crystals.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "rocks",
         "examples"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1360,14 +1360,14 @@
         "Marble",
         "Sandstone"
       ],
-      "explanation": "Basalt is an igneous rock that forms when lava cools fast at the surface.",
+      "explanation": "Basalt forms when lava erupts and cools fast on the surface, so its crystals stay too small to see - most of the ocean floor is basalt.",
       "memoryHook": "T-Rexy says: fast cooling makes small crystals.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "rocks",
         "examples"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1380,14 +1380,14 @@
         "Sirius",
         "Polaris"
       ],
-      "explanation": "The Sun is our star and the closest one to Earth.",
+      "explanation": "The Sun is a star, and it is about 150 million km away - the next nearest star, Proxima Centauri, is more than 250,000 times farther.",
       "memoryHook": "T-Rexy says: the Sun is a star, just a close one.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "solar-system",
         "stars"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1407,7 +1407,7 @@
         "water-cycle",
         "energy"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1447,20 +1447,20 @@
         "climate",
         "carbon"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "EAR7_073",
       "question": "At a divergent plate boundary, what happens?",
-      "correctAnswer": "plates pull apart, forming rift valleys or new ocean floor",
+      "correctAnswer": "Plates pull apart, forming rift valleys or new ocean floor",
       "distractors": [
         "plates slide past each other, causing earthquakes",
         "plates push together, forming mountains or volcanoes",
         "Nothing happens, plates never move"
       ],
-      "explanation": "At a divergent boundary, plates pull apart, forming rift valleys or new ocean floor. (the Mid-Atlantic Ridge is an example)",
+      "explanation": "At a divergent boundary the plates pull apart and magma rises to fill the gap, building new crust - the Mid-Atlantic Ridge is growing the Atlantic Ocean wider.",
       "memoryHook": "T-Rexy says: convergent crashes, divergent splits, transform slides.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1474,20 +1474,20 @@
     {
       "id": "EAR7_074",
       "question": "What happens in the troposphere?",
-      "correctAnswer": "the lowest layer, where weather happens",
+      "correctAnswer": "The lowest layer, where weather happens",
       "distractors": [
         "the layer with the ozone layer that blocks UV rays",
         "the layer with the aurora and very thin air",
         "the layer where most meteors burn up"
       ],
-      "explanation": "The troposphere is the lowest layer, where weather happens. (we live in it)",
+      "explanation": "The troposphere is the lowest layer, only about 12 km thick, and it holds almost all the air and all the weather - clouds, rain, and storms.",
       "memoryHook": "T-Rexy says: weather lives at the bottom, auroras at the top.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "atmosphere",
         "layers"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1500,14 +1500,14 @@
         "To measure temperature",
         "To measure rainfall"
       ],
-      "explanation": "The Richter scale rates how strong an earthquake was.",
+      "explanation": "A seismograph records ground shaking as a wiggly line; the Richter scale turns the size of those wiggles into a number, so bigger shakes get bigger numbers.",
       "memoryHook": "T-Rexy says: Richter measures earthquake strength.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "earthquakes",
         "measurement"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1534,20 +1534,20 @@
     {
       "id": "EAR7_077",
       "question": "What is the outer core of Earth?",
-      "correctAnswer": "the liquid layer of iron and nickel",
+      "correctAnswer": "The liquid layer of iron and nickel",
       "distractors": [
         "the thick middle layer of hot, slowly moving rock",
         "the solid center of Earth, very hot and under huge pressure",
         "the thin outer layer of Earth where we live"
       ],
-      "explanation": "The outer core is the liquid layer of iron and nickel. (it creates Earth's magnetic field)",
+      "explanation": "The outer core is liquid iron and nickel, about 5,000 degrees, and its slow churning flow generates Earth's magnetic field.",
       "memoryHook": "T-Rexy says: Earth is like an onion with four layers.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "earth-layers",
         "structure"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1567,7 +1567,7 @@
         "earth-layers",
         "structure"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1580,8 +1580,8 @@
         "Neptune",
         "Saturn"
       ],
-      "explanation": "Venus: the hottest planet. (it is covered in thick clouds)",
-      "memoryHook": "T-Rexy says: remember the order: My Very Excellent Mother Just Served Us Nachos.",
+      "explanation": "Venus is the hottest planet because its thick carbon dioxide atmosphere traps heat - its surface is about 465 degrees, hot enough to melt lead.",
+      "memoryHook": "T-Rexy says: Venus is hottest - thick clouds trap heat.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "solar-system",
@@ -1620,7 +1620,7 @@
         "A weather pattern",
         "The orbit of carbon atoms"
       ],
-      "explanation": "Carbon moves through plants, animals, the atmosphere, and the ground in a cycle.",
+      "explanation": "Plants pull carbon dioxide from the air to grow, animals eat the plants, and when living things breathe and decay, the carbon returns to the air and soil.",
       "memoryHook": "T-Rexy says: carbon keeps moving through living things and air.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1667,7 +1667,7 @@
         "solar-system",
         "planets"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1687,7 +1687,7 @@
         "solar-system",
         "planets"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1714,20 +1714,20 @@
     {
       "id": "EAR7_086",
       "question": "How does metamorphic rock form?",
-      "correctAnswer": "forms when rock is changed by heat and pressure",
+      "correctAnswer": "Forms when rock is changed by heat and pressure",
       "distractors": [
         "forms when melted rock cools and hardens",
         "forms when layers of sediment are pressed together",
         "It forms from living things only"
       ],
-      "explanation": "Metamorphic rock forms when rock is changed by heat and pressure. Examples: marble and slate.",
+      "explanation": "Heat and pressure deep underground can change a rock without melting it: limestone becomes marble, shale becomes slate - same minerals, new structure.",
       "memoryHook": "T-Rexy says: igneous is fire, sedimentary is layers, metamorphic is changed.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "rocks",
         "rock-cycle"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1747,27 +1747,27 @@
         "moon",
         "eclipses"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "EAR7_088",
       "question": "In the water cycle, what is precipitation?",
-      "correctAnswer": "water falls from clouds as rain, snow, or hail",
+      "correctAnswer": "Water falls from clouds as rain, snow, or hail",
       "distractors": [
         "water gathers in oceans, lakes, and rivers",
         "water moves from plants into the air",
         "water turns from liquid into water vapor"
       ],
-      "explanation": "Precipitation is when water falls from clouds as rain, snow, or hail. (rain is the most common form)",
+      "explanation": "When cloud droplets merge and grow heavy, gravity pulls them down as rain, snow, sleet, or hail - the form depends on the temperature they fall through.",
       "memoryHook": "T-Rexy says: water is always on a trip: up, across, down, repeat.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "water-cycle",
         "earth-systems"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1787,27 +1787,27 @@
         "rocks",
         "rock-cycle"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "EAR7_090",
       "question": "What happens in the mesosphere?",
-      "correctAnswer": "the layer where most meteors burn up",
+      "correctAnswer": "The layer where most meteors burn up",
       "distractors": [
         "the lowest layer, where weather happens",
         "the layer with the ozone layer that blocks UV rays",
         "the layer with the aurora and very thin air"
       ],
-      "explanation": "The mesosphere is the layer where most meteors burn up. (the coldest layer)",
+      "explanation": "The mesosphere is the third layer up, the coldest layer of the atmosphere, and most meteors burn up in it as shooting stars.",
       "memoryHook": "T-Rexy says: weather lives at the bottom, auroras at the top.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "atmosphere",
         "layers"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1820,14 +1820,14 @@
         "Ocean tides",
         "Earthquakes"
       ],
-      "explanation": "Wind is air flowing from areas of high pressure to areas of low pressure.",
+      "explanation": "Air flows from high-pressure areas, where air piles up, toward low-pressure areas, where air is thinner - that flow is wind, and bigger pressure differences mean stronger wind.",
       "memoryHook": "T-Rexy says: wind blows from high to low pressure.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "weather",
         "wind"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1887,7 +1887,7 @@
         "resources",
         "energy"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1900,7 +1900,7 @@
         "A thermometer",
         "An anemometer"
       ],
-      "explanation": "A seismograph records the shaking of the ground during an earthquake.",
+      "explanation": "A seismograph hangs a heavy weight that stays still while the ground shakes beneath it; a pen attached to the weight draws the shaking as a wiggly line.",
       "memoryHook": "T-Rexy says: seismo means shaking, graph means record.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1960,8 +1960,8 @@
         "Neptune",
         "Saturn"
       ],
-      "explanation": "Earth: the only known planet with life. (it is the only planet with liquid water on its surface)",
-      "memoryHook": "T-Rexy says: remember the order: My Very Excellent Mother Just Served Us Nachos.",
+      "explanation": "Earth is the only known planet with liquid water on its surface, a breathable atmosphere, and life - all three together make it unique.",
+      "memoryHook": "T-Rexy says: Earth is the only planet with life.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "solar-system",
@@ -1987,7 +1987,7 @@
         "earth-systems",
         "glaciers"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
