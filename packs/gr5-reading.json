@@ -1,6 +1,8 @@
 {
   "packId": "gr5-reading",
-  "version": 1.0,
+  "title": "Reading (5th Grade)",
+  "description": "Reading (5th Grade) practice - 100 questions",
+  "version": "1.0",
   "language": "en",
   "passingScore": 60,
   "totalQuestions": 100,

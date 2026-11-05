@@ -1,6 +1,8 @@
 {
   "packId": "gr5-math",
-  "version": 1.0,
+  "title": "Math (5th Grade)",
+  "description": "Math (5th Grade) practice - 100 questions",
+  "version": "1.0",
   "language": "en",
   "passingScore": 60,
   "totalQuestions": 100,

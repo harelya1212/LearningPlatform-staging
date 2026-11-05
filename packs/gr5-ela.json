@@ -1,6 +1,8 @@
 {
   "packId": "gr5-ela",
-  "version": 1.0,
+  "title": "English Language Arts (5th Grade)",
+  "description": "English Language Arts (5th Grade) practice - 100 questions",
+  "version": "1.0",
   "language": "en",
   "passingScore": 60,
   "totalQuestions": 100,

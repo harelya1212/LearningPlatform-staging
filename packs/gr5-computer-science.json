@@ -1,6 +1,8 @@
 {
   "packId": "gr5-computer-science",
-  "version": 1.0,
+  "title": "Computer Science (5th Grade)",
+  "description": "Computer Science (5th Grade) practice - 100 questions",
+  "version": "1.0",
   "language": "en",
   "passingScore": 60,
   "totalQuestions": 100,

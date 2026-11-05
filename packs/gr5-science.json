@@ -1,6 +1,8 @@
 {
   "packId": "gr5-science",
-  "version": 1.0,
+  "title": "Science (5th Grade)",
+  "description": "Science (5th Grade) practice - 100 questions",
+  "version": "1.0",
   "language": "en",
   "passingScore": 60,
   "totalQuestions": 100,
