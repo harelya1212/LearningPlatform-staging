@@ -100,7 +100,7 @@
         "To store files",
         "To connect to the internet"
       ],
-      "explanation": "The monitor shows what the computer is doing.",
+      "explanation": "The monitor is an output device: it turns the computer's signals into pictures and words you can see.",
       "memoryHook": "T-Rexy says: the monitor shows you the computer's work!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -120,7 +120,7 @@
         "To print papers",
         "To play sounds"
       ],
-      "explanation": "The keyboard is an input device for typing.",
+      "explanation": "Each key sends a signal to the computer, and the computer turns it into a letter, number, or command on the screen.",
       "memoryHook": "T-Rexy says: the keyboard is for typing in!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -140,7 +140,7 @@
         "To print documents",
         "To charge the computer"
       ],
-      "explanation": "The mouse moves the pointer on the screen.",
+      "explanation": "Moving the mouse moves the pointer, and clicking tells the computer to open or choose what the pointer is on.",
       "memoryHook": "T-Rexy says: the mouse points and clicks!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -160,14 +160,14 @@
         "A printer",
         "A permanent file"
       ],
-      "explanation": "RAM holds data the computer is using right now.",
+      "explanation": "RAM is fast, temporary memory: when you close a program or turn the computer off, what was in RAM is gone.",
       "memoryHook": "T-Rexy says: RAM is the computer's short-term memory!",
       "imageUrl": "topic:computers",
       "tags": [
         "basics",
         "hardware"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -187,7 +187,7 @@
         "basics",
         "hardware"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -200,7 +200,7 @@
         "A device that stores music",
         "A device that types words"
       ],
-      "explanation": "A printer makes paper copies of digital files.",
+      "explanation": "A printer sprays ink or melts toner onto paper to turn a digital file into something you can hold.",
       "memoryHook": "T-Rexy says: a printer turns screen files into paper!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -240,7 +240,7 @@
         "A printer",
         "A storage box"
       ],
-      "explanation": "A tablet is a flat, portable computer you control by touching the screen.",
+      "explanation": "A tablet has no keyboard or mouse: you tap, swipe, and pinch right on the screen to control it.",
       "memoryHook": "T-Rexy says: a tablet is a computer you touch!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -260,14 +260,14 @@
         "It stores files",
         "It plays music"
       ],
-      "explanation": "A webcam lets you take photos and video chat.",
+      "explanation": "A webcam is a small camera that sends live video into the computer, so people can see you during a video call.",
       "memoryHook": "T-Rexy says: a webcam is the computer's eye!",
       "imageUrl": "topic:computers",
       "tags": [
         "basics",
         "hardware"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -320,7 +320,7 @@
         "A website address",
         "A computer virus"
       ],
-      "explanation": "Apps are programs made to do specific tasks.",
+      "explanation": "Each app is built for one kind of job - a drawing app draws, a music app plays songs, a game app plays games.",
       "memoryHook": "T-Rexy says: an app is a program with a job to do!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -340,7 +340,7 @@
         "A computer virus",
         "A type of password"
       ],
-      "explanation": "Files store information like documents, photos, and songs.",
+      "explanation": "Every file has a name and a type, like .docx for a document or .jpg for a photo, so the computer knows how to open it.",
       "memoryHook": "T-Rexy says: a file is saved data with a name!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -380,7 +380,7 @@
         "To print your work",
         "To send your work to a friend"
       ],
-      "explanation": "Saving stores your work on the computer.",
+      "explanation": "Saving writes your work onto the hard drive or SSD, so it is still there after you close the program or turn the computer off.",
       "memoryHook": "T-Rexy says: save your work so you never lose it!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -400,7 +400,7 @@
         "A kind of hardware",
         "A website"
       ],
-      "explanation": "Data is information that computers store and use.",
+      "explanation": "Data can be numbers, words, pictures, sounds, or video - anything a computer can store and work with.",
       "memoryHook": "T-Rexy says: data is information - numbers, words, pictures!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -427,7 +427,7 @@
         "basics",
         "data"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -447,7 +447,7 @@
         "basics",
         "data"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -460,14 +460,14 @@
         "A small photo",
         "A one-page list"
       ],
-      "explanation": "Videos hold far more data than text or photos.",
+      "explanation": "A one-hour video stores millions of pictures, one for each tiny moment, plus sound - far more data than a page of text.",
       "memoryHook": "T-Rexy says: video files are the biggest!",
       "imageUrl": "topic:computers",
       "tags": [
         "basics",
         "data"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -500,7 +500,7 @@
         "Your birthday",
         "The word 'password'"
       ],
-      "explanation": "Strong passwords are long and hard to guess.",
+      "explanation": "A strong password mixes capital and small letters, numbers, and symbols, and it is long - at least 12 characters is a good rule.",
       "memoryHook": "T-Rexy says: long and mixed-up makes a strong password!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -520,7 +520,7 @@
         "Share your account with a friend",
         "Make a new account secretly"
       ],
-      "explanation": "Password resets should be done with a trusted adult.",
+      "explanation": "Only use the real 'forgot password' link on the real site, with an adult beside you - never on a link from a strange message.",
       "memoryHook": "T-Rexy says: forgot your password? Ask an adult for help!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -540,7 +540,7 @@
         "A password",
         "A file name"
       ],
-      "explanation": "A username tells the computer who you are.",
+      "explanation": "Your username is your public name on a site, while your password stays secret - the two together prove it is you.",
       "memoryHook": "T-Rexy says: a username is how the computer knows it is you!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -560,7 +560,7 @@
         "A kind of app for games",
         "A broken keyboard"
       ],
-      "explanation": "Viruses are bad programs that harm computers.",
+      "explanation": "A virus hides inside a file or program you open, then copies itself and can damage files or steal information.",
       "memoryHook": "T-Rexy says: a computer virus is a bad program that causes harm!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -580,7 +580,7 @@
         "It prints documents",
         "It stores photos"
       ],
-      "explanation": "Antivirus software protects your computer from malware.",
+      "explanation": "Antivirus software scans files and blocks known bad programs, and it must be kept up to date to catch new ones.",
       "memoryHook": "T-Rexy says: antivirus is the guard against bad programs!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -600,7 +600,7 @@
         "Turn off the computer",
         "Share your password"
       ],
-      "explanation": "Adults can help you check if an app is safe.",
+      "explanation": "A safe app comes from an official store and has good reviews; a parent can check who made it before you tap download.",
       "memoryHook": "T-Rexy says: ask an adult before downloading anything!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -627,7 +627,7 @@
         "coding",
         "algorithms"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -640,7 +640,7 @@
         "A plate",
         "A kitchen"
       ],
-      "explanation": "A recipe is a step-by-step plan, just like an algorithm.",
+      "explanation": "The sandwich recipe lists steps in order - bread first, then lettuce, then cheese - and a computer follows an algorithm the same way.",
       "memoryHook": "T-Rexy says: a sandwich recipe is an algorithm!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -660,14 +660,14 @@
         "A type of loop",
         "A computer bug"
       ],
-      "explanation": "Computers follow steps in order, so sequence matters.",
+      "explanation": "A program runs step 1, then step 2, then step 3 - if the steps are out of order, the program does the wrong thing.",
       "memoryHook": "T-Rexy says: order matters - that is sequence!",
       "imageUrl": "topic:computers",
       "tags": [
         "coding",
         "sequence"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -687,7 +687,7 @@
         "coding",
         "algorithms"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -707,7 +707,7 @@
         "coding",
         "loops"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -720,14 +720,14 @@
         "A type of game",
         "A new feature"
       ],
-      "explanation": "A bug is an error in the code.",
+      "explanation": "A bug is a mistake in the instructions, like a wrong number or a missing step, that makes the program act in a way you did not want.",
       "memoryHook": "T-Rexy says: a bug is a mistake hiding in the code!",
       "imageUrl": "topic:computers",
       "tags": [
         "coding",
         "debugging"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -740,7 +740,7 @@
         "Deleting all the code",
         "Making the program slower"
       ],
-      "explanation": "Debugging means hunting down bugs and fixing them.",
+      "explanation": "To debug, you test the program, find the step that goes wrong, fix that one step, and test again.",
       "memoryHook": "T-Rexy says: debugging is bug hunting in code!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -767,7 +767,7 @@
         "coding",
         "conditions"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -780,14 +780,14 @@
         "A bug",
         "A sequence only"
       ],
-      "explanation": "It is an if-then choice, which is a condition.",
+      "explanation": "The program checks the condition first - 'is it raining?' - and only then picks the matching action.",
       "memoryHook": "T-Rexy says: if-then is a condition!",
       "imageUrl": "topic:computers",
       "tags": [
         "coding",
         "conditions"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -820,7 +820,7 @@
         "A bug",
         "A condition"
       ],
-      "explanation": "The score is stored in a variable that changes.",
+      "explanation": "Each win adds 1 to the score variable, so the stored number grows from 0 to 1 to 2 as you play.",
       "memoryHook": "T-Rexy says: the score lives in a variable!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -867,7 +867,7 @@
         "coding",
         "binary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -927,7 +927,7 @@
         "coding",
         "robots"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -940,14 +940,14 @@
         "A robot's brain",
         "A robot's arm"
       ],
-      "explanation": "Sensors let robots notice the world around them.",
+      "explanation": "A light sensor can tell bright from dark, a touch sensor feels bumps, and a distance sensor measures how far away a wall is.",
       "memoryHook": "T-Rexy says: sensors are a robot's senses!",
       "imageUrl": "topic:computers",
       "tags": [
         "coding",
         "robots"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -967,7 +967,7 @@
         "coding",
         "ai"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -980,14 +980,14 @@
         "Delete everything",
         "Ask the computer to guess"
       ],
-      "explanation": "Good coders plan before they type.",
+      "explanation": "Planning means breaking the problem into small steps on paper first, so you know what code to write.",
       "memoryHook": "T-Rexy says: plan first, code second!",
       "imageUrl": "topic:computers",
       "tags": [
         "coding",
         "problem-solving"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1000,14 +1000,14 @@
         "Delete it right away",
         "Show it to no one"
       ],
-      "explanation": "Testing means running the program and checking the result.",
+      "explanation": "Run the program with a test case you already know the answer to - if the result matches, the program works.",
       "memoryHook": "T-Rexy says: run it and check - that is testing!",
       "imageUrl": "topic:computers",
       "tags": [
         "coding",
         "testing"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1020,7 +1020,7 @@
         "A type of app",
         "A kind of printer"
       ],
-      "explanation": "The internet links computers all over the world.",
+      "explanation": "The internet is made of cables, satellites, and routers that carry messages between millions of computers in every country.",
       "memoryHook": "T-Rexy says: the internet connects computers everywhere!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -1080,7 +1080,7 @@
         "A type of email",
         "A password manager"
       ],
-      "explanation": "Search engines find web pages that match your words.",
+      "explanation": "A search engine keeps an index - a giant list of words and the pages they appear on - and looks up your words in that list.",
       "memoryHook": "T-Rexy says: a search engine finds answers on the web!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -1100,7 +1100,7 @@
         "A text on paper",
         "A phone call"
       ],
-      "explanation": "Email is electronic mail sent between people.",
+      "explanation": "An email travels from your outbox to a mail server, then to the other person's inbox, usually in a few seconds.",
       "memoryHook": "T-Rexy says: email is a letter sent through the internet!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -1120,7 +1120,7 @@
         "A cable for printers",
         "A kind of app"
       ],
-      "explanation": "Wi-Fi lets devices connect to the internet without wires.",
+      "explanation": "Wi-Fi sends data through the air using radio waves, so your device can reach the router without a cable.",
       "memoryHook": "T-Rexy says: Wi-Fi connects you without wires!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -1140,7 +1140,7 @@
         "A type of virus",
         "A computer game"
       ],
-      "explanation": "A network links computers so they can talk to each other.",
+      "explanation": "On a network, computers share things: one printer can serve a whole classroom, and files can move from one computer to another.",
       "memoryHook": "T-Rexy says: a network is computers talking to each other!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -1160,7 +1160,7 @@
         "A file name",
         "A computer virus"
       ],
-      "explanation": "A URL tells the browser where to find a page.",
+      "explanation": "A URL has parts: the https, the website name, and the page path - together they point to one exact page.",
       "memoryHook": "T-Rexy says: a URL is a web page's address!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -1200,7 +1200,7 @@
         "Printing a file",
         "Sending an email"
       ],
-      "explanation": "Downloading brings a file from the internet to you.",
+      "explanation": "When you download, the file copies from a server on the internet onto your own device, where you can open it offline.",
       "memoryHook": "T-Rexy says: downloading brings a file to your device!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -1220,14 +1220,14 @@
         "Printing a file",
         "Watching a video"
       ],
-      "explanation": "Uploading sends your file up to the internet.",
+      "explanation": "Uploading is the opposite of downloading: the file copies from your device up to a server, like when you post a photo.",
       "memoryHook": "T-Rexy says: uploading sends a file up to the internet!",
       "imageUrl": "topic:computers",
       "tags": [
         "internet",
         "basics"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1240,14 +1240,14 @@
         "The screen is too bright",
         "The keyboard is broken"
       ],
-      "explanation": "Heavy use or a weak signal slows the internet.",
+      "explanation": "Every user shares the same connection, so at busy times each person gets a smaller share, and a weak Wi-Fi signal drops data that must be sent again.",
       "memoryHook": "T-Rexy says: too many users or a weak signal slows the web!",
       "imageUrl": "topic:computers",
       "tags": [
         "internet",
         "networks"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1260,14 +1260,14 @@
         "Printing a document",
         "Sending an email"
       ],
-      "explanation": "Streaming plays video or music as it arrives.",
+      "explanation": "Streaming sends the video in small pieces and plays each piece as it arrives, so you do not wait for the whole file.",
       "memoryHook": "T-Rexy says: streaming plays as it arrives - no waiting for a download!",
       "imageUrl": "topic:computers",
       "tags": [
         "internet",
         "media"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1280,14 +1280,14 @@
         "A kind of mouse",
         "A type of game"
       ],
-      "explanation": "Servers hold websites and files and send them when asked.",
+      "explanation": "A server is a computer that stays on all day and night, waiting for requests and sending back the website or file that was asked for.",
       "memoryHook": "T-Rexy says: a server is a super-computer that shares with others!",
       "imageUrl": "topic:computers",
       "tags": [
         "internet",
         "networks"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1300,14 +1300,14 @@
         "A file is deleted",
         "The internet stops"
       ],
-      "explanation": "Links take you to another page.",
+      "explanation": "A link is a word or picture with a URL hidden behind it - clicking tells the browser to fetch that URL.",
       "memoryHook": "T-Rexy says: a link is a door to another page!",
       "imageUrl": "topic:computers",
       "tags": [
         "internet",
         "basics"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1340,7 +1340,7 @@
         "A famous YouTuber",
         "A pop-up ad"
       ],
-      "explanation": "Trusted adults help you stay safe online.",
+      "explanation": "A trusted adult is someone in real life who cares for you - a parent, teacher, or guardian - and they can help you decide what is safe.",
       "memoryHook": "T-Rexy says: a trusted adult is your online safety helper!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -1360,7 +1360,7 @@
         "Send them a photo",
         "Meet them in person"
       ],
-      "explanation": "Strangers online can be unsafe; tell an adult.",
+      "explanation": "You cannot know who is really behind a screen name, so never answer and show the message to a trusted adult.",
       "memoryHook": "T-Rexy says: stranger message? Do not reply - tell an adult!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -1380,7 +1380,7 @@
         "Sending a nice message",
         "Sharing a funny video"
       ],
-      "explanation": "Cyberbullying is bullying that happens online.",
+      "explanation": "Cyberbullying can be mean texts, embarrassing photos, or leaving someone out on purpose - and it can follow you home on your screen.",
       "memoryHook": "T-Rexy says: cyberbullying is bullying through screens!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -1420,14 +1420,14 @@
         "A kind of password",
         "A computer virus"
       ],
-      "explanation": "Everything you post online can stay there for a long time.",
+      "explanation": "Every post, photo, and comment adds to your footprint, and others can copy or screenshot it even if you delete it.",
       "memoryHook": "T-Rexy says: your digital footprint is your online trail!",
       "imageUrl": "topic:computers",
       "tags": [
         "safety",
         "footprint"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1460,7 +1460,7 @@
         "A new app",
         "A kind of email"
       ],
-      "explanation": "Pop-ups appear on websites and often advertise things.",
+      "explanation": "A pop-up is a small window that opens on top of a page - often an ad - and you should close it with the X, not click inside it.",
       "memoryHook": "T-Rexy says: pop-ups are little ad windows that jump up!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -1487,7 +1487,7 @@
         "safety",
         "phishing"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1500,7 +1500,7 @@
         "A kind of email from a friend",
         "A way to catch fish"
       ],
-      "explanation": "Phishing messages pretend to be real to steal passwords.",
+      "explanation": "A phishing message copies a real company's logo and words to trick you, but its link goes to a fake site that steals what you type.",
       "memoryHook": "T-Rexy says: phishing is a trick to steal your info!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -1520,7 +1520,7 @@
         "It is popular",
         "It loads quickly"
       ],
-      "explanation": "Unsafe sites often ask for private info or look odd.",
+      "explanation": "Warning signs: the address is misspelled, there is no lock icon, or the site promises free prizes to get your information.",
       "memoryHook": "T-Rexy says: strange requests and sloppy spelling mean be careful!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -1540,14 +1540,14 @@
         "Sharing everything online",
         "Ignoring rules online"
       ],
-      "explanation": "Good digital citizens are kind and careful online.",
+      "explanation": "Being a good digital citizen means being kind in comments, respecting other people's work, and following the rules of each site.",
       "memoryHook": "T-Rexy says: be kind, safe, and responsible online!",
       "imageUrl": "topic:computers",
       "tags": [
         "safety",
         "citizenship"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1580,14 +1580,14 @@
         "Use a friend's account",
         "Hide it from your parents"
       ],
-      "explanation": "Real money in games needs a parent's okay.",
+      "explanation": "Games can charge real money for coins or clothes for your character, and those charges go to your parent's card - so always ask first.",
       "memoryHook": "T-Rexy says: real money in games means ask a parent first!",
       "imageUrl": "topic:computers",
       "tags": [
         "safety",
         "money"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1607,7 +1607,7 @@
         "safety",
         "strangers"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1627,7 +1627,7 @@
         "data",
         "patterns"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1687,7 +1687,7 @@
         "data",
         "charts"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1700,7 +1700,7 @@
         "A list of words",
         "A type of computer"
       ],
-      "explanation": "Bar graphs show amounts with bars of different heights.",
+      "explanation": "You read a bar graph by finding the top of a bar and looking across to the number scale on the side.",
       "memoryHook": "T-Rexy says: bars show amounts at a glance!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -1720,14 +1720,14 @@
         "Oranges",
         "They are all equal"
       ],
-      "explanation": "The tallest bar is bananas with 8.",
+      "explanation": "Compare the bar heights: bananas reach 8, apples reach 5, and oranges reach 3, so bananas are the most common.",
       "memoryHook": "T-Rexy says: the tallest bar wins - bananas!",
       "imageUrl": "topic:computers",
       "tags": [
         "data",
         "graphs"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1740,7 +1740,7 @@
         "Deleting things",
         "Hiding things"
       ],
-      "explanation": "Sorting arranges data in order.",
+      "explanation": "Computers sort data to make it easy to search - for example, names in A-to-Z order or scores from highest to lowest.",
       "memoryHook": "T-Rexy says: sorting puts things in order!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -1760,14 +1760,14 @@
         "3, 1, 9, 7",
         "1, 7, 3, 9"
       ],
-      "explanation": "Smallest to largest means start with the smallest number.",
+      "explanation": "Compare the numbers one pair at a time: 1 is smaller than 3, 3 is smaller than 7, and 7 is smaller than 9.",
       "memoryHook": "T-Rexy says: smallest first - 1, 3, 7, 9!",
       "imageUrl": "topic:computers",
       "tags": [
         "data",
         "sorting"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1780,14 +1780,14 @@
         "A mistake in the code",
         "The computer screen"
       ],
-      "explanation": "Inputs go into a program; outputs come out.",
+      "explanation": "An input can be a key press, a mouse click, or a number you type - anything the program reads in order to work.",
       "memoryHook": "T-Rexy says: input goes in, output comes out!",
       "imageUrl": "topic:computers",
       "tags": [
         "coding",
         "input-output"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1800,14 +1800,14 @@
         "A mistake in the code",
         "The keyboard"
       ],
-      "explanation": "Outputs are what the program gives back.",
+      "explanation": "An output can be words on the screen, a sound, or a robot moving - anything the program produces after it runs.",
       "memoryHook": "T-Rexy says: output is what the program gives back!",
       "imageUrl": "topic:computers",
       "tags": [
         "coding",
         "input-output"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1820,7 +1820,7 @@
         "The machine's light",
         "The machine's buttons"
       ],
-      "explanation": "The coins are the input; the snack is the output.",
+      "explanation": "The machine reads the coins you put in, then follows its program: if the money is enough, it gives out the snack.",
       "memoryHook": "T-Rexy says: coins in is the input, snack out is the output!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -1840,14 +1840,14 @@
         "Only a keyboard",
         "Only the internet"
       ],
-      "explanation": "A computer needs its parts, programs, and power.",
+      "explanation": "Without hardware there is nothing to run on, without software there are no instructions, and without electricity nothing can switch on.",
       "memoryHook": "T-Rexy says: parts plus programs plus power!",
       "imageUrl": "topic:computers",
       "tags": [
         "basics",
         "review"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1867,7 +1867,7 @@
         "basics",
         "data"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1887,7 +1887,7 @@
         "basics",
         "data"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1900,7 +1900,7 @@
         "The robot's arm",
         "The robot's wheels"
       ],
-      "explanation": "Programs control what robots do.",
+      "explanation": "The robot's program is a list of steps like 'move forward, stop, pick up the block' that the robot follows exactly.",
       "memoryHook": "T-Rexy says: a program is the robot's instruction list!",
       "imageUrl": "topic:computers",
       "tags": [
@@ -1947,7 +1947,7 @@
         "coding",
         "testing"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1960,14 +1960,14 @@
         "Give up right away",
         "Blame the computer"
       ],
-      "explanation": "Debugging step by step finds the problem.",
+      "explanation": "Check the steps one at a time from the start - the first step that acts wrong is where the bug is hiding.",
       "memoryHook": "T-Rexy says: check step by step to find the bug!",
       "imageUrl": "topic:computers",
       "tags": [
         "coding",
         "debugging"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1987,7 +1987,7 @@
         "coding",
         "events"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
