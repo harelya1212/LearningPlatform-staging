@@ -19,7 +19,7 @@
         "Grains",
         "Dairy"
       ],
-      "explanation": "Apples, bananas, and oranges are fruits.",
+      "explanation": "Fruits grow on plants and trees, and they are full of vitamins and fiber that help your body stay healthy.",
       "memoryHook": "T-Rexy says: fruits are nature's sweet snacks!",
       "imageUrl": "topic:health",
       "tags": [
@@ -39,7 +39,7 @@
         "Protein",
         "Dairy"
       ],
-      "explanation": "Carrots, broccoli, and spinach are vegetables.",
+      "explanation": "Vegetables grow in gardens and fields. They give your body vitamins, minerals, and fiber.",
       "memoryHook": "T-Rexy says: veggies grow in the garden - eat your greens!",
       "imageUrl": "topic:health",
       "tags": [
@@ -59,7 +59,7 @@
         "Vegetables",
         "Protein"
       ],
-      "explanation": "Bread, rice, and pasta are grains.",
+      "explanation": "Grains come from plants like wheat and rice. They give your body energy to run, play, and learn.",
       "memoryHook": "T-Rexy says: grains give you energy to run and play!",
       "imageUrl": "topic:health",
       "tags": [
@@ -79,7 +79,7 @@
         "Grains",
         "Fruits"
       ],
-      "explanation": "Milk, cheese, and yogurt are dairy foods.",
+      "explanation": "Dairy foods come from milk. They are rich in calcium, which builds strong bones and teeth.",
       "memoryHook": "T-Rexy says: dairy builds strong bones!",
       "imageUrl": "topic:health",
       "tags": [
@@ -99,7 +99,7 @@
         "Fruits",
         "Dairy"
       ],
-      "explanation": "Chicken, beans, and eggs give your body protein.",
+      "explanation": "Protein foods help your body build and repair muscles. Chicken, beans, and eggs are all good sources.",
       "memoryHook": "T-Rexy says: protein builds strong muscles!",
       "imageUrl": "topic:health",
       "tags": [
@@ -319,7 +319,7 @@
         "Potato chips",
         "Candy"
       ],
-      "explanation": "Oranges are rich in vitamin C.",
+      "explanation": "Oranges, strawberries, and peppers are packed with vitamin C, which helps your immune system fight germs.",
       "memoryHook": "T-Rexy says: oranges are vitamin C champions!",
       "imageUrl": "topic:health",
       "tags": [
@@ -379,7 +379,7 @@
         "An apple",
         "A carrot"
       ],
-      "explanation": "Soda is full of added sugar.",
+      "explanation": "One can of soda can hold about 10 teaspoons of added sugar, far more than an apple or a carrot, which have only natural sugars.",
       "memoryHook": "T-Rexy says: soda is sugar water in a can!",
       "imageUrl": "topic:health",
       "tags": [
@@ -883,7 +883,7 @@
       "memoryHook": "T-Rexy says: sunscreen is a shield against sunburn!",
       "imageUrl": "topic:health",
       "tags": [
-        "hygiene",
+        "safety",
         "sun-safety"
       ],
       "difficulty": "easy",
@@ -903,7 +903,6 @@
       "memoryHook": "T-Rexy says: a helmet protects your brain - always wear one!",
       "imageUrl": "topic:health",
       "tags": [
-        "hygiene",
         "safety"
       ],
       "difficulty": "easy",
@@ -919,11 +918,10 @@
         "To find your friends",
         "To see the traffic light only"
       ],
-      "explanation": "Looking both ways helps you cross safely.",
+      "explanation": "Cars can come from either direction, and looking both ways - then looking left again - makes sure the road is clear before you step off the curb.",
       "memoryHook": "T-Rexy says: look left, look right, then cross!",
       "imageUrl": "topic:health",
       "tags": [
-        "hygiene",
         "safety"
       ],
       "difficulty": "easy",
@@ -943,7 +941,6 @@
       "memoryHook": "T-Rexy says: strangers offering rides mean say no and tell an adult!",
       "imageUrl": "topic:health",
       "tags": [
-        "hygiene",
         "safety"
       ],
       "difficulty": "medium",
@@ -999,7 +996,7 @@
         "Sleep in their bed",
         "Use their towel"
       ],
-      "explanation": "Handwashing and not touching your face keep germs out.",
+      "explanation": "Germs get in through your eyes, nose, and mouth. Clean hands and keeping hands away from your face block their way in.",
       "memoryHook": "T-Rexy says: wash hands, hands off your face!",
       "imageUrl": "topic:health",
       "tags": [
@@ -1219,7 +1216,7 @@
         "To fill your stomach",
         "To cool your shoes"
       ],
-      "explanation": "Water replaces what you lose in sweat.",
+      "explanation": "Drink before you play so you start hydrated, sip during play to replace sweat, and drink after to help your body recover.",
       "memoryHook": "T-Rexy says: drink water before, during, and after play!",
       "imageUrl": "topic:health",
       "tags": [
@@ -1259,7 +1256,7 @@
         "It makes you tired for class",
         "It does not help at all"
       ],
-      "explanation": "Walking is easy daily exercise.",
+      "explanation": "Walking makes your heart and legs work, and every step counts toward the 60 minutes of activity kids need each day.",
       "memoryHook": "T-Rexy says: walking to school is free exercise!",
       "imageUrl": "topic:health",
       "tags": [
@@ -1619,7 +1616,7 @@
         "Ignore it",
         "Run away"
       ],
-      "explanation": "Clean the cut and press to stop the bleeding.",
+      "explanation": "Pressing slows the bleeding, and washing with soap and water removes dirt and germs. Cover it with a bandage to keep it clean.",
       "memoryHook": "T-Rexy says: clean it, press it, cover it!",
       "imageUrl": "topic:health",
       "tags": [
@@ -1659,7 +1656,7 @@
         "Cover it with ice directly",
         "Rub it hard"
       ],
-      "explanation": "Cool running water eases a small burn.",
+      "explanation": "Cool running water lowers the skin's temperature and eases pain. Never use ice or butter - they can hurt the skin more.",
       "memoryHook": "T-Rexy says: cool water soothes a small burn!",
       "imageUrl": "topic:health",
       "tags": [
@@ -1839,7 +1836,7 @@
         "Take it to be polite",
         "Give it to a friend"
       ],
-      "explanation": "Saying no and telling an adult keeps you safe.",
+      "explanation": "Cigarettes and alcohol can harm a growing body. Saying no and telling an adult keeps you safe from pressure to try them.",
       "memoryHook": "T-Rexy says: just say no and tell an adult!",
       "imageUrl": "topic:health",
       "tags": [
@@ -1899,7 +1896,7 @@
         "Go home alone without telling anyone",
         "Take medicine from a friend"
       ],
-      "explanation": "Telling a teacher gets you help fast.",
+      "explanation": "Your teacher can take you to the nurse and call your parent. Hiding it can let a small problem get worse.",
       "memoryHook": "T-Rexy says: feeling sick means tell your teacher right away!",
       "imageUrl": "topic:health",
       "tags": [
@@ -1999,7 +1996,7 @@
         "Never ask for help",
         "Safety is only for little kids"
       ],
-      "explanation": "Trusted adults are your best safety helpers.",
+      "explanation": "Parents, teachers, and other trusted adults know how to help in danger. Telling them quickly is the safest first step.",
       "memoryHook": "T-Rexy says: when something feels unsafe, tell a trusted adult!",
       "imageUrl": "topic:health",
       "tags": [
