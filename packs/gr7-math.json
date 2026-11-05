@@ -26,7 +26,7 @@
         "percent",
         "ratios"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -59,7 +59,7 @@
         "-6",
         "-35"
       ],
-      "explanation": "-35 divided by 5 is -7.",
+      "explanation": "A negative divided by a positive is negative: 35 ÷ 5 = 7, so -35 ÷ 5 = -7.",
       "memoryHook": "T-Rexy says: division follows the same sign rules as multiplication.",
       "imageUrl": "topic:math",
       "tags": [
@@ -99,14 +99,14 @@
         "-12",
         "9"
       ],
-      "explanation": "Work carefully with the signs: 8 - (-4) = 12.",
-      "memoryHook": "T-Rexy says: same signs give a positive product, different signs give a negative one.",
+      "explanation": "Subtracting a negative is the same as adding: 8 - (-4) = 8 + 4 = 12.",
+      "memoryHook": "T-Rexy says: subtracting a negative is the same as adding.",
       "imageUrl": "topic:math",
       "tags": [
         "integers",
         "operations"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -126,7 +126,7 @@
         "proportions",
         "ratios"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -146,7 +146,7 @@
         "percent",
         "interest"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -159,7 +159,7 @@
         "4/9",
         "3"
       ],
-      "explanation": "Find a common denominator, then add the numerators: the sum is 2.",
+      "explanation": "Same denominator, so add the numerators: 2/3 + 4/3 = 6/3 = 2.",
       "memoryHook": "T-Rexy says: never add denominators, only numerators.",
       "imageUrl": "topic:math",
       "tags": [
@@ -186,7 +186,7 @@
         "unit-rate",
         "compare"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -206,7 +206,7 @@
         "rational-numbers",
         "compare"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -219,7 +219,7 @@
         "-3",
         "-16"
       ],
-      "explanation": "-16 divided by 4 is -4.",
+      "explanation": "A negative divided by a positive is negative: 16 ÷ 4 = 4, so -16 ÷ 4 = -4.",
       "memoryHook": "T-Rexy says: division follows the same sign rules as multiplication.",
       "imageUrl": "topic:math",
       "tags": [
@@ -239,14 +239,14 @@
         "13",
         "20.52"
       ],
-      "explanation": "7.6 x 5.4 = 41.04.",
+      "explanation": "Multiply as whole numbers: 76 × 54 = 4104, then place the point two places from the right (one decimal place in each factor): 41.04.",
       "memoryHook": "T-Rexy says: count the decimal places in the factors to place the point.",
       "imageUrl": "topic:math",
       "tags": [
         "decimals",
         "operations"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -266,7 +266,7 @@
         "percent",
         "markup"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -306,7 +306,7 @@
         "unit-rate",
         "ratios"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -346,7 +346,7 @@
         "percent",
         "ratios"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -366,7 +366,7 @@
         "percent",
         "tax"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -379,7 +379,7 @@
         "8 degrees",
         "-3 degrees"
       ],
-      "explanation": "12 - 20 = -8 degrees.",
+      "explanation": "Start at 12 on the number line and move 20 left: you pass zero and land at -8 degrees.",
       "memoryHook": "T-Rexy says: dropping means subtract, even below zero.",
       "imageUrl": "topic:math",
       "tags": [
@@ -466,7 +466,7 @@
         "percent",
         "increase-decrease"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -479,14 +479,14 @@
         "-1",
         "-2"
       ],
-      "explanation": "Work carefully with the signs: -10 - (-11) = 1.",
-      "memoryHook": "T-Rexy says: same signs give a positive product, different signs give a negative one.",
+      "explanation": "Subtracting a negative is the same as adding: -10 - (-11) = -10 + 11 = 1.",
+      "memoryHook": "T-Rexy says: subtracting a negative is the same as adding.",
       "imageUrl": "topic:math",
       "tags": [
         "integers",
         "operations"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -506,7 +506,7 @@
         "percent",
         "interest"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -519,7 +519,7 @@
         "1/6",
         "2"
       ],
-      "explanation": "Find a common denominator, then add the numerators: the sum is 2/3.",
+      "explanation": "Same denominator, so add the numerators: 1/3 + 1/3 = 2/3.",
       "memoryHook": "T-Rexy says: never add denominators, only numerators.",
       "imageUrl": "topic:math",
       "tags": [
@@ -546,7 +546,7 @@
         "percent",
         "word-problems"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -559,14 +559,14 @@
         "3/4",
         "6/10"
       ],
-      "explanation": "0.666... is two thirds, because 2 divided by 3 = 0.666...",
+      "explanation": "Divide 2 by 3: 3 goes into 2.0 forever, giving 0.666... with the 6 repeating, so 0.666... = 2/3.",
       "memoryHook": "T-Rexy says: 0.666 repeating is the classic two-thirds decimal.",
       "imageUrl": "topic:math",
       "tags": [
         "fractions",
         "decimals"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -586,7 +586,7 @@
         "percent",
         "markup"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -639,7 +639,7 @@
         "2",
         "3"
       ],
-      "explanation": "2 divided by 2 is 1.",
+      "explanation": "A positive divided by a positive is positive: 2 ÷ 2 = 1.",
       "memoryHook": "T-Rexy says: division follows the same sign rules as multiplication.",
       "imageUrl": "topic:math",
       "tags": [
@@ -686,7 +686,7 @@
         "percent",
         "tax"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -699,7 +699,7 @@
         "23 degrees",
         "-18 degrees"
       ],
-      "explanation": "-3 - 20 = -23 degrees.",
+      "explanation": "Start at -3 and move 20 more left on the number line: -3 - 20 = -23 degrees.",
       "memoryHook": "T-Rexy says: dropping means subtract, even below zero.",
       "imageUrl": "topic:math",
       "tags": [
@@ -719,7 +719,7 @@
         "-42",
         "39"
       ],
-      "explanation": "Work carefully with the signs: (-7) x (-6) = 42.",
+      "explanation": "Two negatives make a positive product: 7 × 6 = 42, so (-7) × (-6) = 42.",
       "memoryHook": "T-Rexy says: same signs give a positive product, different signs give a negative one.",
       "imageUrl": "topic:math",
       "tags": [
@@ -746,7 +746,7 @@
         "proportions",
         "constant"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -759,7 +759,7 @@
         "25 degrees",
         "-20 degrees"
       ],
-      "explanation": "-5 - 20 = -25 degrees.",
+      "explanation": "Start at -5 and move 20 more left on the number line: -5 - 20 = -25 degrees.",
       "memoryHook": "T-Rexy says: dropping means subtract, even below zero.",
       "imageUrl": "topic:math",
       "tags": [
@@ -826,7 +826,7 @@
         "percent",
         "increase-decrease"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -846,7 +846,7 @@
         "unit-rate",
         "ratios"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -866,7 +866,7 @@
         "percent",
         "interest"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -879,14 +879,14 @@
         "4/7",
         "3"
       ],
-      "explanation": "Find a common denominator, then add the numerators: the sum is 14/5.",
+      "explanation": "Write 2 as 10/5, then add: 4/5 + 10/5 = 14/5.",
       "memoryHook": "T-Rexy says: never add denominators, only numerators.",
       "imageUrl": "topic:math",
       "tags": [
         "fractions",
         "rational-numbers"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -899,7 +899,7 @@
         "0",
         "20"
       ],
-      "explanation": "The opposite of 19 is -19.",
+      "explanation": "Opposites sit the same distance from zero on opposite sides, so the opposite of 19 is -19.",
       "memoryHook": "T-Rexy says: opposites are the same distance from zero on different sides.",
       "imageUrl": "topic:math",
       "tags": [
@@ -926,7 +926,7 @@
         "unit-rate",
         "compare"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -946,7 +946,7 @@
         "fractions",
         "decimals"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -966,7 +966,7 @@
         "percent",
         "interest"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1026,7 +1026,7 @@
         "percent",
         "tip"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1059,14 +1059,14 @@
         "9.9",
         "12.04"
       ],
-      "explanation": "4.3 x 5.6 = 24.08.",
+      "explanation": "Multiply as whole numbers: 43 × 56 = 2408, then place the point two places from the right: 24.08.",
       "memoryHook": "T-Rexy says: count the decimal places in the factors to place the point.",
       "imageUrl": "topic:math",
       "tags": [
         "decimals",
         "operations"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1099,14 +1099,14 @@
         "1/4 liter",
         "1/2 liter"
       ],
-      "explanation": "Subtract: 5/8 - 1/4 = 3/8 liter.",
+      "explanation": "Give 1/4 the denominator 8: 1/4 = 2/8, then 5/8 - 2/8 = 3/8 liter.",
       "memoryHook": "T-Rexy says: find a common denominator before subtracting fractions.",
       "imageUrl": "topic:math",
       "tags": [
         "fractions",
         "word-problems"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1119,14 +1119,14 @@
         "1.5",
         "0.9"
       ],
-      "explanation": "1 divided by 2 = 0.5.",
+      "explanation": "A fraction is a division: 1 ÷ 2 = 0.5, because 2 goes into 1.0 exactly once with 0.5.",
       "memoryHook": "T-Rexy says: a fraction is just a division problem.",
       "imageUrl": "topic:math",
       "tags": [
         "fractions",
         "decimals"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1146,7 +1146,7 @@
         "proportions",
         "ratios"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1166,7 +1166,7 @@
         "proportions",
         "constant"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1179,14 +1179,14 @@
         "325",
         "35"
       ],
-      "explanation": "35% of 500 = 175.",
+      "explanation": "35% means 35 out of 100: 500 ÷ 100 = 5 students per percent, and 35 × 5 = 175.",
       "memoryHook": "T-Rexy says: of means multiply when you see a percent.",
       "imageUrl": "topic:math",
       "tags": [
         "percent",
         "word-problems"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1199,7 +1199,7 @@
         "1.5",
         "0.9"
       ],
-      "explanation": "2 divided by 5 = 0.4.",
+      "explanation": "A fraction is a division: 2 ÷ 5 = 0.4, because 5 goes into 2.0 exactly 0.4 times.",
       "memoryHook": "T-Rexy says: a fraction is just a division problem.",
       "imageUrl": "topic:math",
       "tags": [
@@ -1226,7 +1226,7 @@
         "unit-rate",
         "ratios"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1246,7 +1246,7 @@
         "percent",
         "tip"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1259,7 +1259,7 @@
         "4.1",
         "2.09"
       ],
-      "explanation": "2.2 x 1.9 = 4.18.",
+      "explanation": "Multiply as whole numbers: 22 × 19 = 418, then place the point two places from the right: 4.18.",
       "memoryHook": "T-Rexy says: count the decimal places in the factors to place the point.",
       "imageUrl": "topic:math",
       "tags": [
@@ -1286,7 +1286,7 @@
         "percent",
         "discount"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1299,14 +1299,14 @@
         "340",
         "15"
       ],
-      "explanation": "15% of 400 = 60.",
+      "explanation": "15% means 15 out of 100: 400 ÷ 100 = 4 students per percent, and 15 × 4 = 60.",
       "memoryHook": "T-Rexy says: of means multiply when you see a percent.",
       "imageUrl": "topic:math",
       "tags": [
         "percent",
         "word-problems"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1319,14 +1319,14 @@
         "11.4",
         "13.37"
       ],
-      "explanation": "3.3 x 8.1 = 26.73.",
+      "explanation": "Multiply as whole numbers: 33 × 81 = 2673, then place the point two places from the right: 26.73.",
       "memoryHook": "T-Rexy says: count the decimal places in the factors to place the point.",
       "imageUrl": "topic:math",
       "tags": [
         "decimals",
         "operations"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1346,7 +1346,7 @@
         "percent",
         "increase-decrease"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1366,7 +1366,7 @@
         "percent",
         "increase-decrease"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1386,7 +1386,7 @@
         "unit-rate",
         "ratios"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1406,7 +1406,7 @@
         "integers",
         "absolute-value"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1419,14 +1419,14 @@
         "-9",
         "6"
       ],
-      "explanation": "Work carefully with the signs: -1 + (10) = 9.",
-      "memoryHook": "T-Rexy says: same signs give a positive product, different signs give a negative one.",
+      "explanation": "Move 10 to the right from -1 on the number line: -1 + 10 = 9.",
+      "memoryHook": "T-Rexy says: on the number line, adding a positive moves you right.",
       "imageUrl": "topic:math",
       "tags": [
         "integers",
         "operations"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1446,7 +1446,7 @@
         "percent",
         "commission"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1466,7 +1466,7 @@
         "percent",
         "ratios"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1486,7 +1486,7 @@
         "proportions",
         "equations"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1539,14 +1539,14 @@
         "0",
         "18"
       ],
-      "explanation": "The opposite of 17 is -17.",
+      "explanation": "Opposites sit the same distance from zero on opposite sides, so the opposite of 17 is -17.",
       "memoryHook": "T-Rexy says: opposites are the same distance from zero on different sides.",
       "imageUrl": "topic:math",
       "tags": [
         "integers",
         "opposites"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1579,14 +1579,14 @@
         "-9",
         "6"
       ],
-      "explanation": "Work carefully with the signs: 7 - (-2) = 9.",
-      "memoryHook": "T-Rexy says: same signs give a positive product, different signs give a negative one.",
+      "explanation": "Subtracting a negative is the same as adding: 7 - (-2) = 7 + 2 = 9.",
+      "memoryHook": "T-Rexy says: subtracting a negative is the same as adding.",
       "imageUrl": "topic:math",
       "tags": [
         "integers",
         "operations"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1639,7 +1639,7 @@
         "-56",
         "53"
       ],
-      "explanation": "Work carefully with the signs: (8) x (7) = 56.",
+      "explanation": "Two positives make a positive product: 8 × 7 = 56.",
       "memoryHook": "T-Rexy says: same signs give a positive product, different signs give a negative one.",
       "imageUrl": "topic:math",
       "tags": [
@@ -1659,14 +1659,14 @@
         "1/2",
         "3"
       ],
-      "explanation": "Find a common denominator, then add the numerators: the sum is 7/4.",
+      "explanation": "Give 1/2 the denominator 4: 1/2 = 2/4, then 5/4 + 2/4 = 7/4.",
       "memoryHook": "T-Rexy says: never add denominators, only numerators.",
       "imageUrl": "topic:math",
       "tags": [
         "fractions",
         "rational-numbers"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1686,27 +1686,27 @@
         "proportions",
         "ratios"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "MAT7_085",
       "question": "A hiker walks 3 miles in 3 hours at a steady pace. What is the unit rate in miles per hour?",
-      "correctAnswer": "1 miles per hour",
+      "correctAnswer": "1 mile per hour",
       "distractors": [
         "9 miles per hour",
         "2 miles per hour",
         "6 miles per hour"
       ],
-      "explanation": "Divide miles by hours: 3 / 3 = 1 miles per hour.",
+      "explanation": "Divide miles by hours: 3 / 3 = 1 mile per hour.",
       "memoryHook": "T-Rexy says: a unit rate always has 1 in the second spot.",
       "imageUrl": "topic:math",
       "tags": [
         "unit-rate",
         "ratios"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1719,14 +1719,14 @@
         "4",
         "-7"
       ],
-      "explanation": "Work carefully with the signs: 0 - (4) = -4.",
+      "explanation": "Start at 0 and move 4 left on the number line: 0 - 4 = -4.",
       "memoryHook": "T-Rexy says: same signs give a positive product, different signs give a negative one.",
       "imageUrl": "topic:math",
       "tags": [
         "integers",
         "operations"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1746,7 +1746,7 @@
         "proportions",
         "ratios"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1766,7 +1766,7 @@
         "proportions",
         "word-problems"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1786,7 +1786,7 @@
         "percent",
         "commission"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1806,7 +1806,7 @@
         "fractions",
         "rational-numbers"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1839,7 +1839,7 @@
         "1.5",
         "0.9"
       ],
-      "explanation": "1 divided by 10 = 0.1.",
+      "explanation": "A fraction is a division: 1 ÷ 10 = 0.1, because 10 goes into 1.0 exactly 0.1 times.",
       "memoryHook": "T-Rexy says: a fraction is just a division problem.",
       "imageUrl": "topic:math",
       "tags": [
@@ -1880,13 +1880,13 @@
         "$38"
       ],
       "explanation": "You pay 70% of the price: $40 x 70% = $28.",
-      "memoryHook": "T-Rexy says: a 25 percent discount means you pay 75 percent.",
+      "memoryHook": "T-Rexy says: a 30 percent discount means you pay 70 percent.",
       "imageUrl": "topic:math",
       "tags": [
         "percent",
         "discount"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1899,14 +1899,14 @@
         "4",
         "-7"
       ],
-      "explanation": "Work carefully with the signs: -6 + (2) = -4.",
-      "memoryHook": "T-Rexy says: same signs give a positive product, different signs give a negative one.",
+      "explanation": "Move 2 to the right from -6 on the number line: -6 + 2 = -4.",
+      "memoryHook": "T-Rexy says: on the number line, adding a positive moves you right.",
       "imageUrl": "topic:math",
       "tags": [
         "integers",
         "operations"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1946,7 +1946,7 @@
         "unit-rate",
         "compare"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1960,13 +1960,13 @@
         "$15"
       ],
       "explanation": "Tip = $80 x 15% = $12.",
-      "memoryHook": "T-Rexy says: a 20 percent tip is one fifth of the bill.",
+      "memoryHook": "T-Rexy says: a 15 percent tip is 15 cents on every dollar of the bill.",
       "imageUrl": "topic:math",
       "tags": [
         "percent",
         "tip"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1986,13 +1986,13 @@
         "proportions",
         "constant"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "MAT7_100",
-      "question": "A salesperson earns a 8% commission on $1000 in sales. How much commission does she earn?",
+      "question": "A salesperson earns an 8% commission on $1000 in sales. How much commission does she earn?",
       "correctAnswer": "$80",
       "distractors": [
         "$130",
@@ -2006,7 +2006,7 @@
         "percent",
         "commission"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     }
