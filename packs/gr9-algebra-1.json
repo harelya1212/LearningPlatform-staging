@@ -1,6 +1,8 @@
 {
   "packId": "gr9-algebra-1",
-  "version": 1.0,
+  "title": "Algebra 1 (9th Grade)",
+  "description": "Algebra 1 (9th Grade) practice - 100 questions",
+  "version": "1.0",
   "language": "en",
   "passingScore": 60,
   "totalQuestions": 100,

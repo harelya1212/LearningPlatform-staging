@@ -1,6 +1,8 @@
 {
   "packId": "gr9-world-geography",
-  "version": 1.0,
+  "title": "World Geography (9th Grade)",
+  "description": "World Geography (9th Grade) practice - 100 questions",
+  "version": "1.0",
   "language": "en",
   "passingScore": 60,
   "totalQuestions": 100,

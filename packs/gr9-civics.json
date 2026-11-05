@@ -1,6 +1,8 @@
 {
   "packId": "gr9-civics",
-  "version": 1.0,
+  "title": "Civics (9th Grade)",
+  "description": "Civics (9th Grade) practice - 100 questions",
+  "version": "1.0",
   "language": "en",
   "passingScore": 60,
   "totalQuestions": 100,
