@@ -106,7 +106,7 @@
         "spelling",
         "common"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -686,7 +686,7 @@
         "spelling",
         "tion-sion"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -806,7 +806,7 @@
         "spelling",
         "tion-sion"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1026,7 +1026,7 @@
         "spelling",
         "prefixes"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1206,7 +1206,7 @@
         "spelling",
         "prefixes"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1399,7 +1399,7 @@
         "too",
         "tow"
       ],
-      "explanation": "Two is the number 2.",
+      "explanation": "Two is the number 2 - 'tw' like twin and twice!",
       "memoryHook": "T-Rexy says: two is the number!",
       "imageUrl": "topic:spelling",
       "tags": [
@@ -1432,7 +1432,7 @@
     },
     {
       "id": "SPL5_072",
-      "question": "Which word correctly completes the sentence: 'I want to come ___! '?",
+      "question": "Which word correctly completes the sentence: 'I want to come ___!'?",
       "correctAnswer": "too",
       "distractors": [
         "to",
@@ -1459,7 +1459,7 @@
         "here",
         "herro"
       ],
-      "explanation": "Hero is the main character of the story.",
+      "explanation": "A hero is the brave main character - the one who saves the day.",
       "memoryHook": "T-Rexy says: the hero is the brave one!",
       "imageUrl": "topic:spelling",
       "tags": [
@@ -1484,7 +1484,7 @@
       "imageUrl": "topic:spelling",
       "tags": [
         "spelling",
-        "homophones"
+        "verb-endings"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1504,7 +1504,7 @@
       "imageUrl": "topic:spelling",
       "tags": [
         "spelling",
-        "homophones"
+        "verb-endings"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1526,25 +1526,25 @@
         "spelling",
         "homophones"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "SPL5_077",
-      "question": "Which word is spelled correctly: 'He won the race ___ he trained hard.'?",
-      "correctAnswer": "because",
+      "question": "Which word correctly completes the sentence: 'He won the race ___ all odds.'?",
+      "correctAnswer": "against",
       "distractors": [
-        "becuase",
-        "becaus",
-        "becouse"
+        "agenst",
+        "aginst",
+        "aganst"
       ],
-      "explanation": "Because is spelled b-e-c-a-u-s-e.",
-      "memoryHook": "T-Rexy says: because - big elephants can always understand small elephants!",
+      "explanation": "Against is spelled a-g-a-i-n-s-t.",
+      "memoryHook": "T-Rexy says: against - a-g-a-i-n-s-t!",
       "imageUrl": "topic:spelling",
       "tags": [
         "spelling",
-        "homophones"
+        "common"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1566,7 +1566,7 @@
         "spelling",
         "homophones"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1586,7 +1586,7 @@
         "spelling",
         "homophones"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1604,7 +1604,7 @@
       "imageUrl": "topic:spelling",
       "tags": [
         "spelling",
-        "homophones"
+        "verb-endings"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1856,7 +1856,7 @@
       "correctAnswer": "stories",
       "distractors": [
         "storys",
-        "storeys",
+        "storyes",
         "storie"
       ],
       "explanation": "The correct spelling is stories. Story changes y to i and adds -es: stories!",
@@ -1935,7 +1935,7 @@
       "question": "Which word is spelled correctly?",
       "correctAnswer": "buses",
       "distractors": [
-        "busses",
+        "busess",
         "buse",
         "bus"
       ],
