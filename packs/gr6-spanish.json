@@ -14,14 +14,14 @@
     {
       "id": "SPA6_001",
       "question": "How do you say 'goodbye' in Spanish?",
-      "correctAnswer": "Adios",
+      "correctAnswer": "Adiós",
       "distractors": [
         "Hola",
         "Gracias",
-        "Buenos dias"
+        "Buenos días"
       ],
-      "explanation": "Adios means goodbye.",
-      "memoryHook": "T-Rexy says: Adios is goodbye.",
+      "explanation": "Adiós comes from 'a Dios' (to God) - like saying 'go with God' when you leave. Note the accent on the o.",
+      "memoryHook": "T-Rexy says: Adiós is goodbye.",
       "imageUrl": "topic:spanish",
       "tags": [
         "greetings",
@@ -40,7 +40,7 @@
         "Azul",
         "Rojo"
       ],
-      "explanation": "Amarillo means yellow.",
+      "explanation": "Amarillo means yellow - picture a ripe yellow banana; the word also names the ají amarillo pepper.",
       "memoryHook": "T-Rexy says: Amarillo is yellow.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -58,16 +58,16 @@
       "distractors": [
         "Negro",
         "Blanco",
-        "Marron"
+        "Marrón"
       ],
-      "explanation": "Gris means gray.",
+      "explanation": "Gris means gray - it sounds like 'grease', which is often gray.",
       "memoryHook": "T-Rexy says: Gris is gray.",
       "imageUrl": "topic:spanish",
       "tags": [
         "colors",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -80,14 +80,14 @@
         "Queso",
         "Pollo"
       ],
-      "explanation": "Pan means bread.",
+      "explanation": "Pan means bread - it is also the English word for a cooking pan, but in Spanish it is the bread on your table.",
       "memoryHook": "T-Rexy says: Pan is bread.",
       "imageUrl": "topic:spanish",
       "tags": [
         "food",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -100,14 +100,14 @@
         "Arroz",
         "Carne"
       ],
-      "explanation": "Queso means cheese.",
+      "explanation": "Queso means cheese - say 'KAY-so'; quesadillas are made with queso.",
       "memoryHook": "T-Rexy says: Queso is cheese.",
       "imageUrl": "topic:spanish",
       "tags": [
         "food",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -116,18 +116,18 @@
       "question": "How do you say 'book' in Spanish?",
       "correctAnswer": "Libro",
       "distractors": [
-        "Lapiz",
+        "Lápiz",
         "Papel",
         "Mesa"
       ],
-      "explanation": "Libro means book.",
+      "explanation": "Libro means book - it looks like 'library', and a library is full of libros.",
       "memoryHook": "T-Rexy says: Libro is book.",
       "imageUrl": "topic:spanish",
       "tags": [
         "school",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -140,28 +140,28 @@
         "Pescado",
         "Queso"
       ],
-      "explanation": "Pollo means chicken.",
+      "explanation": "Pollo means chicken - 'pollo asado' is roast chicken, a common dish.",
       "memoryHook": "T-Rexy says: Pollo is chicken.",
       "imageUrl": "topic:spanish",
       "tags": [
         "food",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "SPA6_008",
       "question": "What is the correct form of 'estar' for 'ellos'?",
-      "correctAnswer": "Estan",
+      "correctAnswer": "Están",
       "distractors": [
-        "Esta",
-        "Estamos",
+        "Está",
+        "Estámos",
         "Soy"
       ],
-      "explanation": "Ellos estan means they are.",
-      "memoryHook": "T-Rexy says: Ellos goes with estan.",
+      "explanation": "Estar changes with the subject: ellos (they) takes están - the -n ending marks 'they', just like hablan.",
+      "memoryHook": "T-Rexy says: Ellos goes with están.",
       "imageUrl": "topic:spanish",
       "tags": [
         "verbs",
@@ -180,7 +180,7 @@
         "Pajaro",
         "Pez"
       ],
-      "explanation": "Perro means dog.",
+      "explanation": "Perro means dog - roll the double r: 'PEH-rro'. A puppy is un perrito.",
       "memoryHook": "T-Rexy says: Perro is dog.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -200,27 +200,27 @@
         "Sesenta",
         "Treinta"
       ],
-      "explanation": "Cincuenta is fifty.",
+      "explanation": "Cincuenta is fifty - it starts with 'cinc-' like cinco (five): five tens make fifty.",
       "memoryHook": "T-Rexy says: Cincuenta is fifty.",
       "imageUrl": "topic:spanish",
       "tags": [
         "numbers",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "SPA6_011",
-      "question": "What does 'Tengo doce anos' mean?",
+      "question": "What does 'Tengo doce años' mean?",
       "correctAnswer": "I am twelve years old.",
       "distractors": [
         "I have twelve books.",
         "I am twelve feet tall.",
         "I like twelve things."
       ],
-      "explanation": "In Spanish, age is said with tener: tengo doce anos means I am twelve.",
+      "explanation": "In Spanish, age is said with tener: tengo doce años means I am twelve.",
       "memoryHook": "T-Rexy says: Age uses tener in Spanish.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -234,20 +234,20 @@
     {
       "id": "SPA6_012",
       "question": "How do you say 'good morning' in Spanish?",
-      "correctAnswer": "Buenos dias",
+      "correctAnswer": "Buenos días",
       "distractors": [
         "Buenas noches",
         "Buenas tardes",
         "Hola"
       ],
-      "explanation": "Buenos dias means good morning.",
-      "memoryHook": "T-Rexy says: Buenos dias is good morning.",
+      "explanation": "Buenos días means good morning - literally 'good days'. The accent falls on días.",
+      "memoryHook": "T-Rexy says: Buenos días is good morning.",
       "imageUrl": "topic:spanish",
       "tags": [
         "greetings",
         "vocabulary"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -260,7 +260,7 @@
         "Gris",
         "Azul"
       ],
-      "explanation": "Blanco means white.",
+      "explanation": "Blanco means white - 'blanco' gives us the English word 'blank'.",
       "memoryHook": "T-Rexy says: Blanco is white.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -280,7 +280,7 @@
         "Gris",
         "Rojo"
       ],
-      "explanation": "Negro means black.",
+      "explanation": "Negro means black - it is the root of the color word in many languages.",
       "memoryHook": "T-Rexy says: Negro is black.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -300,34 +300,34 @@
         "Jugo",
         "Cafe"
       ],
-      "explanation": "Leche means milk.",
+      "explanation": "Leche means milk - 'café con leche' is coffee with milk.",
       "memoryHook": "T-Rexy says: Leche is milk.",
       "imageUrl": "topic:spanish",
       "tags": [
         "food",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "SPA6_016",
       "question": "How do you say 'Wednesday' in Spanish?",
-      "correctAnswer": "Miercoles",
+      "correctAnswer": "Miércoles",
       "distractors": [
         "Martes",
         "Jueves",
         "Viernes"
       ],
-      "explanation": "Miercoles is Wednesday.",
-      "memoryHook": "T-Rexy says: Miercoles is Wednesday.",
+      "explanation": "Miércoles is Wednesday - the accent on the first e tells you where to stress it: MEE-air-co-les.",
+      "memoryHook": "T-Rexy says: Miércoles is Wednesday.",
       "imageUrl": "topic:spanish",
       "tags": [
         "days",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -340,14 +340,14 @@
         "Hola",
         "De nada"
       ],
-      "explanation": "Por favor means please.",
+      "explanation": "Por favor means please - literally 'for favor'. Use it whenever you ask for something.",
       "memoryHook": "T-Rexy says: Por favor is please.",
       "imageUrl": "topic:spanish",
       "tags": [
         "greetings",
         "vocabulary"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -360,7 +360,7 @@
         "Marzo",
         "Mayo"
       ],
-      "explanation": "Febrero is February.",
+      "explanation": "Febrero is February - it starts like the English word, but the b is soft, almost like a v.",
       "memoryHook": "T-Rexy says: Febrero is February.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -380,34 +380,34 @@
         "Es",
         "Son"
       ],
-      "explanation": "Yo soy means I am.",
+      "explanation": "Ser changes with the subject: yo (I) takes soy - the only form that starts with s-o-y, so it is easy to spot.",
       "memoryHook": "T-Rexy says: Yo goes with soy.",
       "imageUrl": "topic:spanish",
       "tags": [
         "verbs",
         "ser"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "SPA6_020",
-      "question": "What is the correct form of 'ser' for 'tu'?",
+      "question": "What is the correct form of 'ser' for 'tú'?",
       "correctAnswer": "Eres",
       "distractors": [
         "Soy",
         "Es",
         "Son"
       ],
-      "explanation": "Tu eres means you are.",
-      "memoryHook": "T-Rexy says: Tu goes with eres.",
+      "explanation": "Ser changes with the subject: tú (you) takes eres - the -es ending is the clue for 'you'.",
+      "memoryHook": "T-Rexy says: Tú goes with eres.",
       "imageUrl": "topic:spanish",
       "tags": [
         "verbs",
         "ser"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -420,7 +420,7 @@
         "Hermana",
         "Abuela"
       ],
-      "explanation": "Madre means mother.",
+      "explanation": "Madre means mother - it looks like 'maternal'; 'mi madre' is my mother.",
       "memoryHook": "T-Rexy says: Madre is mother.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -456,18 +456,18 @@
       "question": "How do you say 'Sunday' in Spanish?",
       "correctAnswer": "Domingo",
       "distractors": [
-        "Sabado",
+        "Sábado",
         "Lunes",
         "Martes"
       ],
-      "explanation": "Domingo is Sunday.",
+      "explanation": "Domingo is Sunday - it comes from the Latin word for the Lord's day, like 'dominion'.",
       "memoryHook": "T-Rexy says: Domingo is Sunday.",
       "imageUrl": "topic:spanish",
       "tags": [
         "days",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -500,7 +500,7 @@
         "Sevilla",
         "Valencia"
       ],
-      "explanation": "Madrid is the capital of Spain.",
+      "explanation": "Madrid is the capital of Spain - it sits in the center of the country, and the royal palace is there.",
       "memoryHook": "T-Rexy says: Madrid is Spain's capital.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -520,7 +520,7 @@
         "Verde",
         "Amarillo"
       ],
-      "explanation": "Rojo means red.",
+      "explanation": "Rojo means red - 'rojo' sounds a bit like 'rose', which is often red.",
       "memoryHook": "T-Rexy says: Rojo is red.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -560,7 +560,7 @@
         "Tres",
         "Cero"
       ],
-      "explanation": "Uno is one.",
+      "explanation": "Uno is one - it is also the name of the card game, and 'un' is the short form before a masculine noun.",
       "memoryHook": "T-Rexy says: Uno is one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -574,13 +574,13 @@
     {
       "id": "SPA6_029",
       "question": "How do you say 'I like soccer' in Spanish?",
-      "correctAnswer": "Me gusta el futbol.",
+      "correctAnswer": "Me gusta el fútbol.",
       "distractors": [
-        "Me gusto el futbol.",
-        "Me gustan el futbol.",
-        "Yo gusto el futbol."
+        "Me gusto el fútbol.",
+        "Me gustan el fútbol.",
+        "Yo gusto el fútbol."
       ],
-      "explanation": "Me gusta is used with a singular thing: me gusta el futbol.",
+      "explanation": "Me gusta is used with a singular thing: me gusta el fútbol.",
       "memoryHook": "T-Rexy says: Me gusta goes with one thing.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -600,7 +600,7 @@
         "Ocho",
         "Once"
       ],
-      "explanation": "Diez is ten.",
+      "explanation": "Diez is ten - 'diez' sounds like 'de-ETH'; ten fingers are diez dedos.",
       "memoryHook": "T-Rexy says: Diez is ten.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -613,15 +613,15 @@
     },
     {
       "id": "SPA6_031",
-      "question": "How do you conjugate 'hablar' for 'tu'?",
+      "question": "How do you conjugate 'hablar' for 'tú'?",
       "correctAnswer": "Hablas",
       "distractors": [
         "Hablo",
         "Habla",
         "Hablamos"
       ],
-      "explanation": "For -ar verbs, tu takes -as: hablas.",
-      "memoryHook": "T-Rexy says: Tu -ar verbs end in -as.",
+      "explanation": "For -ar verbs, tú takes -as: hablas.",
+      "memoryHook": "T-Rexy says: Tú -ar verbs end in -as.",
       "imageUrl": "topic:spanish",
       "tags": [
         "verbs",
@@ -653,21 +653,21 @@
     },
     {
       "id": "SPA6_033",
-      "question": "What does 'Como te llamas?' mean?",
+      "question": "What does '¿Cómo te llamas?' mean?",
       "correctAnswer": "What is your name?",
       "distractors": [
         "How old are you?",
         "Where are you from?",
         "How are you?"
       ],
-      "explanation": "Como te llamas asks what your name is.",
-      "memoryHook": "T-Rexy says: Como te llamas asks your name.",
+      "explanation": "¿Cómo te llamas? asks 'What is your name?' - literally 'How do you call yourself?' The accent on cómo marks the question word.",
+      "memoryHook": "T-Rexy says: ¿Cómo te llamas? asks your name.",
       "imageUrl": "topic:spanish",
       "tags": [
         "greetings",
         "questions"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -680,28 +680,28 @@
         "Siete",
         "Ocho"
       ],
-      "explanation": "Seis is six.",
+      "explanation": "Seis is six - it sounds like 'says' with an s at the end: seis.",
       "memoryHook": "T-Rexy says: Seis is six.",
       "imageUrl": "topic:spanish",
       "tags": [
         "numbers",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "SPA6_035",
       "question": "How do you say 'uncle' in Spanish?",
-      "correctAnswer": "Tio",
+      "correctAnswer": "Tío",
       "distractors": [
-        "Tia",
+        "Tía",
         "Primo",
         "Padre"
       ],
-      "explanation": "Tio means uncle.",
-      "memoryHook": "T-Rexy says: Tio is uncle.",
+      "explanation": "Tío means uncle - the accent on the i tells you to stress it: TEE-oh. Your aunt is tía.",
+      "memoryHook": "T-Rexy says: Tío is uncle.",
       "imageUrl": "topic:spanish",
       "tags": [
         "family",
@@ -716,11 +716,11 @@
       "question": "How do you say 'hello' in Spanish?",
       "correctAnswer": "Hola",
       "distractors": [
-        "Adios",
+        "Adiós",
         "Gracias",
         "Por favor"
       ],
-      "explanation": "Hola means hello in Spanish.",
+      "explanation": "Hola means hello - the h is silent, so it sounds like 'OH-lah'.",
       "memoryHook": "T-Rexy says: Hola is hello.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -740,7 +740,7 @@
         "Jugo",
         "Pan"
       ],
-      "explanation": "Agua means water.",
+      "explanation": "Agua means water - 'agua' is also in 'aquarium', where water lives.",
       "memoryHook": "T-Rexy says: Agua is water.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -760,7 +760,7 @@
         "Trece",
         "Catorce"
       ],
-      "explanation": "Doce is twelve.",
+      "explanation": "Doce is twelve - it starts with 'do-' like 'dos' (two): twelve is ten plus two.",
       "memoryHook": "T-Rexy says: Doce is twelve.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -777,10 +777,10 @@
       "correctAnswer": "Abuelo",
       "distractors": [
         "Padre",
-        "Tio",
+        "Tío",
         "Hermano"
       ],
-      "explanation": "Abuelo means grandfather.",
+      "explanation": "Abuelo means grandfather - 'abuelo' shares its root with 'abuelita' (grandma).",
       "memoryHook": "T-Rexy says: Abuelo is grandfather.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -800,7 +800,7 @@
         "Ocho",
         "Nueve"
       ],
-      "explanation": "Siete is seven.",
+      "explanation": "Siete is seven - it sounds like 'see-ET-eh'; seven days are siete días.",
       "memoryHook": "T-Rexy says: Siete is seven.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -833,21 +833,21 @@
     },
     {
       "id": "SPA6_042",
-      "question": "How do you answer 'Como te llamas?'",
+      "question": "How do you answer '¿Cómo te llamas?'",
       "correctAnswer": "Me llamo...",
       "distractors": [
-        "Tengo... anos.",
+        "Tengo... años.",
         "Soy de...",
         "Estoy bien."
       ],
-      "explanation": "Me llamo means my name is.",
+      "explanation": "Me llamo means 'my name is' - literally 'I call myself'. Answer with 'Me llamo' plus your name.",
       "memoryHook": "T-Rexy says: Me llamo introduces your name.",
       "imageUrl": "topic:spanish",
       "tags": [
         "greetings",
         "questions"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -860,7 +860,7 @@
         "Platano",
         "Uva"
       ],
-      "explanation": "Manzana means apple.",
+      "explanation": "Manzana means apple - 'manzana' also means a city block in Spanish, but for fruit it is the apple.",
       "memoryHook": "T-Rexy says: Manzana is apple.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -880,7 +880,7 @@
         "Hermano",
         "Abuelo"
       ],
-      "explanation": "Padre means father.",
+      "explanation": "Padre means father - it looks like 'paternal'; 'mi padre' is my father.",
       "memoryHook": "T-Rexy says: Padre is father.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -916,32 +916,32 @@
       "question": "How do you say 'good afternoon' in Spanish?",
       "correctAnswer": "Buenas tardes",
       "distractors": [
-        "Buenos dias",
+        "Buenos días",
         "Buenas noches",
         "Hola"
       ],
-      "explanation": "Buenas tardes means good afternoon.",
+      "explanation": "Buenas tardes means good afternoon - use it from about noon until sunset; after dark switch to buenas noches.",
       "memoryHook": "T-Rexy says: Buenas tardes is good afternoon.",
       "imageUrl": "topic:spanish",
       "tags": [
         "greetings",
         "vocabulary"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "SPA6_047",
       "question": "How do you say 'aunt' in Spanish?",
-      "correctAnswer": "Tia",
+      "correctAnswer": "Tía",
       "distractors": [
-        "Tio",
+        "Tío",
         "Prima",
         "Madre"
       ],
-      "explanation": "Tia means aunt.",
-      "memoryHook": "T-Rexy says: Tia is aunt.",
+      "explanation": "Tía means aunt - the accent on the i tells you to stress it: TEE-ah. Your uncle is tío.",
+      "memoryHook": "T-Rexy says: Tía is aunt.",
       "imageUrl": "topic:spanish",
       "tags": [
         "family",
@@ -960,7 +960,7 @@
         "Marzo",
         "Abril"
       ],
-      "explanation": "Enero is January.",
+      "explanation": "Enero is January - the first month of the year; the j in English becomes a soft sound in Spanish.",
       "memoryHook": "T-Rexy says: Enero is January.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1020,7 +1020,7 @@
         "Madre",
         "Prima"
       ],
-      "explanation": "Hermana means sister.",
+      "explanation": "Hermana means sister - 'hermana' shares its root with 'hermano' (brother); change the -o to -a for a girl.",
       "memoryHook": "T-Rexy says: Hermana is sister.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1040,7 +1040,7 @@
         "Rojo",
         "Rosa"
       ],
-      "explanation": "Anaranjado means orange.",
+      "explanation": "Anaranjado means orange (the color) - it comes from 'naranja' (the fruit): the color is named after the fruit.",
       "memoryHook": "T-Rexy says: Anaranjado is orange.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1080,14 +1080,14 @@
         "Tengo hambre.",
         "Soy de Mexico."
       ],
-      "explanation": "Estoy bien means I am fine.",
+      "explanation": "Estoy bien means 'I am fine' - estar is used because how you feel can change; 'bien' means well.",
       "memoryHook": "T-Rexy says: Estoy bien is I am fine.",
       "imageUrl": "topic:spanish",
       "tags": [
         "greetings",
         "questions"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1120,7 +1120,7 @@
         "Nueve",
         "Diez"
       ],
-      "explanation": "Ocho is eight.",
+      "explanation": "Ocho is eight - it sounds like 'OH-cho'; a spider has ocho patas (eight legs).",
       "memoryHook": "T-Rexy says: Ocho is eight.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1140,14 +1140,14 @@
         "Treinta",
         "Cincuenta"
       ],
-      "explanation": "Veinte is twenty.",
+      "explanation": "Veinte is twenty - it sounds like 'BAYN-teh'; twenty is two tens.",
       "memoryHook": "T-Rexy says: Veinte is twenty.",
       "imageUrl": "topic:spanish",
       "tags": [
         "numbers",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1160,7 +1160,7 @@
         "Rojo",
         "Blanco"
       ],
-      "explanation": "Verde means green.",
+      "explanation": "Verde means green - 'verde' looks like 'verdant', the English word for green and leafy.",
       "memoryHook": "T-Rexy says: Verde is green.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1180,7 +1180,7 @@
         "Morado",
         "Blanco"
       ],
-      "explanation": "Rosa means pink.",
+      "explanation": "Rosa means pink - it is also the word for a rose flower, which is often pink.",
       "memoryHook": "T-Rexy says: Rosa is pink.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1200,7 +1200,7 @@
         "Pajaro",
         "Caballo"
       ],
-      "explanation": "Gato means cat.",
+      "explanation": "Gato means cat - 'gato' sounds like 'GAH-toh'; a kitten is un gatito.",
       "memoryHook": "T-Rexy says: Gato is cat.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1220,14 +1220,14 @@
         "Es",
         "Soy"
       ],
-      "explanation": "Nosotros somos means we are.",
+      "explanation": "Ser changes with the subject: nosotros (we) takes somos - the -mos ending marks 'we', just like hablamos.",
       "memoryHook": "T-Rexy says: Nosotros goes with somos.",
       "imageUrl": "topic:spanish",
       "tags": [
         "verbs",
         "ser"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1240,7 +1240,7 @@
         "Queso",
         "Pollo"
       ],
-      "explanation": "Arroz means rice.",
+      "explanation": "Arroz means rice - 'arroz con pollo' is rice with chicken, a classic dish.",
       "memoryHook": "T-Rexy says: Arroz is rice.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1258,9 +1258,9 @@
       "distractors": [
         "Prima",
         "Hermano",
-        "Tio"
+        "Tío"
       ],
-      "explanation": "Primo means male cousin.",
+      "explanation": "Primo means male cousin - change the -o to -a for a female cousin: prima.",
       "memoryHook": "T-Rexy says: Primo is a male cousin.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1274,20 +1274,20 @@
     {
       "id": "SPA6_064",
       "question": "How do you say 'Saturday' in Spanish?",
-      "correctAnswer": "Sabado",
+      "correctAnswer": "Sábado",
       "distractors": [
         "Viernes",
         "Domingo",
         "Lunes"
       ],
-      "explanation": "Sabado is Saturday.",
-      "memoryHook": "T-Rexy says: Sabado is Saturday.",
+      "explanation": "Sábado is Saturday - the accent on the first a tells you where to stress it: SAH-bah-doh.",
+      "memoryHook": "T-Rexy says: Sábado is Saturday.",
       "imageUrl": "topic:spanish",
       "tags": [
         "days",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1314,20 +1314,20 @@
     {
       "id": "SPA6_066",
       "question": "What is the correct form of 'estar' for 'ella'?",
-      "correctAnswer": "Esta",
+      "correctAnswer": "Está",
       "distractors": [
         "Estoy",
-        "Estas",
-        "Estan"
+        "Estás",
+        "Están"
       ],
-      "explanation": "Ella esta means she is.",
-      "memoryHook": "T-Rexy says: Ella goes with esta.",
+      "explanation": "Estar changes with the subject: ella (she) takes está - the accent marks the stress on the a.",
+      "memoryHook": "T-Rexy says: Ella goes with está.",
       "imageUrl": "topic:spanish",
       "tags": [
         "verbs",
         "estar"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1337,10 +1337,10 @@
       "correctAnswer": "Viernes",
       "distractors": [
         "Jueves",
-        "Sabado",
+        "Sábado",
         "Domingo"
       ],
-      "explanation": "Viernes is Friday.",
+      "explanation": "Viernes is Friday - it comes from Venus, like the English 'Friday' comes from a goddess too.",
       "memoryHook": "T-Rexy says: Viernes is Friday.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1360,7 +1360,7 @@
         "Tres",
         "Cuatro"
       ],
-      "explanation": "Dos is two.",
+      "explanation": "Dos is two - it sounds like 'dose'; two eyes are dos ojos.",
       "memoryHook": "T-Rexy says: Dos is two.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1397,10 +1397,10 @@
       "correctAnswer": "Lunes",
       "distractors": [
         "Martes",
-        "Miercoles",
+        "Miércoles",
         "Domingo"
       ],
-      "explanation": "Lunes is Monday.",
+      "explanation": "Lunes is Monday - it comes from the moon (luna), like 'Monday' comes from 'moon day'.",
       "memoryHook": "T-Rexy says: Lunes is Monday.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1420,7 +1420,7 @@
         "Abril",
         "Mayo"
       ],
-      "explanation": "Marzo is March.",
+      "explanation": "Marzo is March - it is named for Mars, the Roman god of war.",
       "memoryHook": "T-Rexy says: Marzo is March.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1434,20 +1434,20 @@
     {
       "id": "SPA6_072",
       "question": "How do you say 'pencil' in Spanish?",
-      "correctAnswer": "Lapiz",
+      "correctAnswer": "Lápiz",
       "distractors": [
         "Libro",
         "Papel",
         "Pluma"
       ],
-      "explanation": "Lapiz means pencil.",
-      "memoryHook": "T-Rexy says: Lapiz is pencil.",
+      "explanation": "Lápiz means pencil - the accent on the a tells you to stress it: LAH-pees. The plural is lápices.",
+      "memoryHook": "T-Rexy says: Lápiz is pencil.",
       "imageUrl": "topic:spanish",
       "tags": [
         "school",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1460,7 +1460,7 @@
         "Cinco",
         "Seis"
       ],
-      "explanation": "Cuatro is four.",
+      "explanation": "Cuatro is four - it sounds like 'KWAH-troh'; four wheels are cuatro ruedas.",
       "memoryHook": "T-Rexy says: Cuatro is four.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1476,9 +1476,9 @@
       "question": "What is the correct form of 'estar' for 'yo'?",
       "correctAnswer": "Estoy",
       "distractors": [
-        "Estas",
-        "Esta",
-        "Estan"
+        "Estás",
+        "Está",
+        "Están"
       ],
       "explanation": "Yo estoy means I am (location or feeling).",
       "memoryHook": "T-Rexy says: Yo goes with estoy.",
@@ -1487,41 +1487,41 @@
         "verbs",
         "estar"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "SPA6_075",
-      "question": "What does 'Como estas?' mean?",
+      "question": "What does '¿Cómo estás?' mean?",
       "correctAnswer": "How are you?",
       "distractors": [
         "What is your name?",
         "How old are you?",
         "Where do you live?"
       ],
-      "explanation": "Como estas asks how you are doing.",
-      "memoryHook": "T-Rexy says: Como estas asks how you are.",
+      "explanation": "¿Cómo estás? asks 'How are you?' - answer with 'Estoy bien' (I am fine) or 'Estoy mal' (I am not well).",
+      "memoryHook": "T-Rexy says: ¿Cómo estás? asks how you are.",
       "imageUrl": "topic:spanish",
       "tags": [
         "greetings",
         "questions"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "SPA6_076",
-      "question": "How do you make 'lapiz' plural in Spanish?",
-      "correctAnswer": "Lapices",
+      "question": "How do you make 'lápiz' plural in Spanish?",
+      "correctAnswer": "Lápices",
       "distractors": [
-        "Lapizs",
-        "Lapizes",
-        "Lapiz"
+        "Lápizs",
+        "Lápizes",
+        "Lápiz"
       ],
-      "explanation": "Words ending in -z change to -ces: lapices.",
-      "memoryHook": "T-Rexy says: Lapiz becomes lapices.",
+      "explanation": "Words ending in -z change to -ces: lápices.",
+      "memoryHook": "T-Rexy says: Lápiz becomes lápices.",
       "imageUrl": "topic:spanish",
       "tags": [
         "grammar",
@@ -1533,21 +1533,21 @@
     },
     {
       "id": "SPA6_077",
-      "question": "What is the correct form of 'ser' for 'el' or 'ella'?",
+      "question": "What is the correct form of 'ser' for 'él' or 'ella'?",
       "correctAnswer": "Es",
       "distractors": [
         "Soy",
         "Eres",
         "Son"
       ],
-      "explanation": "El es and ella es mean he is and she is.",
-      "memoryHook": "T-Rexy says: El and ella go with es.",
+      "explanation": "Ser changes with the subject: él and ella (he and she) take es - the shortest form of ser.",
+      "memoryHook": "T-Rexy says: Él and ella go with es.",
       "imageUrl": "topic:spanish",
       "tags": [
         "verbs",
         "ser"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1560,7 +1560,7 @@
         "Hola",
         "Lo siento"
       ],
-      "explanation": "Gracias means thank you.",
+      "explanation": "Gracias means thank you - it comes from the Latin word for grace; always pair it with 'por favor'.",
       "memoryHook": "T-Rexy says: Gracias is thank you.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1580,14 +1580,14 @@
         "Diez",
         "Cincuenta"
       ],
-      "explanation": "Cien is one hundred.",
+      "explanation": "Cien is one hundred - use 'cien' for exactly 100; for 101 and up it becomes 'ciento'.",
       "memoryHook": "T-Rexy says: Cien is one hundred.",
       "imageUrl": "topic:spanish",
       "tags": [
         "numbers",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1640,14 +1640,14 @@
         "Doce",
         "Trece"
       ],
-      "explanation": "Once is eleven.",
+      "explanation": "Once is eleven - careful: it looks like the English word 'once' but it means eleven, not one time.",
       "memoryHook": "T-Rexy says: Once is eleven.",
       "imageUrl": "topic:spanish",
       "tags": [
         "numbers",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1660,7 +1660,7 @@
         "Azul",
         "Gris"
       ],
-      "explanation": "Morado means purple.",
+      "explanation": "Morado means purple - it comes from 'mora' (blackberry), a purple fruit.",
       "memoryHook": "T-Rexy says: Morado is purple.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1676,11 +1676,11 @@
       "question": "How do you say 'Thursday' in Spanish?",
       "correctAnswer": "Jueves",
       "distractors": [
-        "Miercoles",
+        "Miércoles",
         "Viernes",
-        "Sabado"
+        "Sábado"
       ],
-      "explanation": "Jueves is Thursday.",
+      "explanation": "Jueves is Thursday - it is named for Jupiter (Jove), the king of the Roman gods.",
       "memoryHook": "T-Rexy says: Jueves is Thursday.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1700,7 +1700,7 @@
         "Cancun",
         "Monterrey"
       ],
-      "explanation": "Mexico City is the capital of Mexico.",
+      "explanation": "Mexico City is the capital of Mexico - it is one of the largest cities in the world, built where the Aztec capital stood.",
       "memoryHook": "T-Rexy says: Mexico City is Mexico's capital.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1720,7 +1720,7 @@
         "Cuatro",
         "Cinco"
       ],
-      "explanation": "Tres is three.",
+      "explanation": "Tres is three - it sounds like 'trace'; three is 'tres' in Spanish and 'trois' in French.",
       "memoryHook": "T-Rexy says: Tres is three.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1740,7 +1740,7 @@
         "Diez",
         "Once"
       ],
-      "explanation": "Nueve is nine.",
+      "explanation": "Nueve is nine - it sounds like 'NWAY-veh'; nine months are nueve meses.",
       "memoryHook": "T-Rexy says: Nueve is nine.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1753,21 +1753,21 @@
     },
     {
       "id": "SPA6_088",
-      "question": "What is the correct form of 'estar' for 'tu'?",
-      "correctAnswer": "Estas",
+      "question": "What is the correct form of 'estar' for 'tú'?",
+      "correctAnswer": "Estás",
       "distractors": [
         "Estoy",
-        "Esta",
-        "Estan"
+        "Está",
+        "Están"
       ],
-      "explanation": "Tu estas means you are.",
-      "memoryHook": "T-Rexy says: Tu goes with estas.",
+      "explanation": "Estar changes with the subject: tú (you) takes estás - the -as ending marks 'you', just like hablas.",
+      "memoryHook": "T-Rexy says: Tú goes with estás.",
       "imageUrl": "topic:spanish",
       "tags": [
         "verbs",
         "estar"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1780,7 +1780,7 @@
         "Verde",
         "Negro"
       ],
-      "explanation": "Azul means blue.",
+      "explanation": "Azul means blue - 'azul' sounds like 'azure', the English word for sky blue.",
       "memoryHook": "T-Rexy says: Azul is blue.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1800,14 +1800,14 @@
         "Somos",
         "Soy"
       ],
-      "explanation": "Ellos son means they are.",
+      "explanation": "Ser changes with the subject: ellos (they) take son - the -n ending marks 'they', just like hablan.",
       "memoryHook": "T-Rexy says: Ellos goes with son.",
       "imageUrl": "topic:spanish",
       "tags": [
         "verbs",
         "ser"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1820,14 +1820,14 @@
         "Cuarenta",
         "Cincuenta"
       ],
-      "explanation": "Treinta is thirty.",
+      "explanation": "Treinta is thirty - it starts with 'tre-' like 'tres' (three): three tens make thirty.",
       "memoryHook": "T-Rexy says: Treinta is thirty.",
       "imageUrl": "topic:spanish",
       "tags": [
         "numbers",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1840,7 +1840,7 @@
         "Coche",
         "Puerta"
       ],
-      "explanation": "Casa means house.",
+      "explanation": "Casa means house - 'casa' is also in 'casita', a little house; 'en casa' means at home.",
       "memoryHook": "T-Rexy says: Casa is house.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1857,10 +1857,10 @@
       "correctAnswer": "Abuela",
       "distractors": [
         "Madre",
-        "Tia",
+        "Tía",
         "Hermana"
       ],
-      "explanation": "Abuela means grandmother.",
+      "explanation": "Abuela means grandmother - 'abuela' shares its root with 'abuelo' (grandfather); change the -o to -a.",
       "memoryHook": "T-Rexy says: Abuela is grandmother.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1877,10 +1877,10 @@
       "correctAnswer": "Martes",
       "distractors": [
         "Lunes",
-        "Miercoles",
+        "Miércoles",
         "Jueves"
       ],
-      "explanation": "Martes is Tuesday.",
+      "explanation": "Martes is Tuesday - it is named for Mars, like March (marzo).",
       "memoryHook": "T-Rexy says: Martes is Tuesday.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1900,7 +1900,7 @@
         "Padre",
         "Primo"
       ],
-      "explanation": "Hermano means brother.",
+      "explanation": "Hermano means brother - 'hermano' shares its root with 'hermana' (sister); change the -a to -o for a boy.",
       "memoryHook": "T-Rexy says: Hermano is brother.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1920,7 +1920,7 @@
         "Platano",
         "Limon"
       ],
-      "explanation": "Naranja means orange.",
+      "explanation": "Naranja means orange (the fruit) - the color anaranjado is named after this fruit.",
       "memoryHook": "T-Rexy says: Naranja is orange.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1940,7 +1940,7 @@
         "Seis",
         "Siete"
       ],
-      "explanation": "Cinco is five.",
+      "explanation": "Cinco is five - it sounds like 'SINK-oh'; five fingers are cinco dedos.",
       "memoryHook": "T-Rexy says: Cinco is five.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1960,7 +1960,7 @@
         "Biblioteca",
         "Tienda"
       ],
-      "explanation": "Escuela means school.",
+      "explanation": "Escuela means school - it looks like 'school' with an e in front; 'la escuela' is the school.",
       "memoryHook": "T-Rexy says: Escuela is school.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1976,32 +1976,32 @@
       "question": "How do you say 'good night' in Spanish?",
       "correctAnswer": "Buenas noches",
       "distractors": [
-        "Buenos dias",
+        "Buenos días",
         "Buenas tardes",
         "Hola"
       ],
-      "explanation": "Buenas noches means good night.",
+      "explanation": "Buenas noches means good night - use it in the evening and when saying goodbye at night.",
       "memoryHook": "T-Rexy says: Buenas noches is good night.",
       "imageUrl": "topic:spanish",
       "tags": [
         "greetings",
         "vocabulary"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "SPA6_100",
       "question": "How do you say 'I speak Spanish' in Spanish?",
-      "correctAnswer": "Yo hablo espanol.",
+      "correctAnswer": "Yo hablo español.",
       "distractors": [
-        "Yo hablas espanol.",
-        "Yo habla espanol.",
-        "Yo hablan espanol."
+        "Yo hablas español.",
+        "Yo habla español.",
+        "Yo hablan español."
       ],
-      "explanation": "Yo hablo is the correct yo form of hablar.",
-      "memoryHook": "T-Rexy says: Yo hablo espanol.",
+      "explanation": "For -ar verbs, yo takes -o: hablo. The -o ending is the clue for 'I'.",
+      "memoryHook": "T-Rexy says: Yo hablo español.",
       "imageUrl": "topic:spanish",
       "tags": [
         "verbs",
