@@ -27,7 +27,7 @@
         "angles",
         "triangles"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -67,7 +67,7 @@
         "angles",
         "straight-line"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -80,7 +80,7 @@
         "Chord",
         "Circumference"
       ],
-      "explanation": "The radius connects the center to the edge of the circle.",
+      "explanation": "The radius runs from the center to any point on the circle; the diameter is twice as long and the chord joins two edge points.",
       "memoryHook": "T-Rexy says: radius is half the diameter.",
       "imageUrl": "topic:geometry",
       "tags": [
@@ -107,7 +107,7 @@
         "volume",
         "cubes"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -147,7 +147,7 @@
         "surface-area",
         "prisms"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -167,7 +167,7 @@
         "similar-figures",
         "proportions"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -187,7 +187,7 @@
         "surface-area",
         "prisms"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -207,7 +207,7 @@
         "volume",
         "prisms"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -227,7 +227,7 @@
         "statistics",
         "median"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -247,7 +247,7 @@
         "circles",
         "area"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -267,7 +267,7 @@
         "area",
         "trapezoids"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -307,7 +307,7 @@
         "coordinate-plane",
         "quadrants"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -347,7 +347,7 @@
         "volume",
         "prisms"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -367,7 +367,7 @@
         "perimeter",
         "rectangles"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -467,7 +467,7 @@
         "angles",
         "straight-line"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -480,7 +480,7 @@
         "A quadrilateral",
         "A decagon"
       ],
-      "explanation": "A polygon with 5 sides is a pentagon.",
+      "explanation": "Penta- means five, so a 5-sided polygon is a pentagon.",
       "memoryHook": "T-Rexy says: count the sides to name the polygon.",
       "imageUrl": "topic:geometry",
       "tags": [
@@ -507,7 +507,7 @@
         "statistics",
         "predictions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -547,7 +547,7 @@
         "surface-area",
         "prisms"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -567,7 +567,7 @@
         "similar-figures",
         "proportions"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -647,7 +647,7 @@
         "circles",
         "circumference"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -667,7 +667,7 @@
         "area",
         "triangles"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -727,7 +727,7 @@
         "circles",
         "area"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -747,7 +747,7 @@
         "circles",
         "area"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -787,7 +787,7 @@
         "volume",
         "prisms"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -827,7 +827,7 @@
         "angles",
         "quadrilaterals"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -847,7 +847,7 @@
         "area",
         "composite"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -867,7 +867,7 @@
         "polygons",
         "angles"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -887,7 +887,7 @@
         "surface-area",
         "cubes"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -927,7 +927,7 @@
         "volume",
         "prisms"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -947,7 +947,7 @@
         "angles",
         "quadrilaterals"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -967,27 +967,27 @@
         "area",
         "trapezoids"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "GEO7_049",
-      "question": "a spinner with 4 equal sections: red, blue, green, yellow. What is the probability of landing on green?",
+      "question": "A spinner with 4 equal sections: red, blue, green, yellow. What is the probability of landing on green?",
       "correctAnswer": "1/4",
       "distractors": [
         "1/2",
         "3/4",
         "1/3"
       ],
-      "explanation": "Probability = favorable outcomes divided by total outcomes.",
+      "explanation": "There is 1 green section out of 4 equal sections, so the probability is 1/4.",
       "memoryHook": "T-Rexy says: probability is what you want over everything possible.",
       "imageUrl": "topic:geometry",
       "tags": [
         "probability",
         "chance"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1007,7 +1007,7 @@
         "probability",
         "compound"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1047,7 +1047,7 @@
         "circles",
         "circumference"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1067,7 +1067,7 @@
         "angles",
         "straight-line"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1087,7 +1087,7 @@
         "area",
         "triangles"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1107,27 +1107,27 @@
         "scale-drawings",
         "proportions"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "GEO7_056",
       "question": "What is a polygon with 8 sides called?",
-      "correctAnswer": "A octagon",
+      "correctAnswer": "An octagon",
       "distractors": [
         "A triangle",
         "A quadrilateral",
         "A decagon"
       ],
-      "explanation": "A polygon with 8 sides is a octagon.",
+      "explanation": "A polygon with 8 sides is an octagon.",
       "memoryHook": "T-Rexy says: count the sides to name the polygon.",
       "imageUrl": "topic:geometry",
       "tags": [
         "polygons",
         "vocabulary"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1160,7 +1160,7 @@
         "Isosceles",
         "Obtuse"
       ],
-      "explanation": "A triangle with all three sides the same length is equilateral.",
+      "explanation": "Equi- means equal, so a triangle with all three sides equal is equilateral.",
       "memoryHook": "T-Rexy says: equi means equal, iso means same, scalene means uneven.",
       "imageUrl": "topic:geometry",
       "tags": [
@@ -1200,8 +1200,8 @@
         "Isosceles",
         "Obtuse"
       ],
-      "explanation": "A triangle with one angle of 90 degrees is right.",
-      "memoryHook": "T-Rexy says: equi means equal, iso means same, scalene means uneven.",
+      "explanation": "A triangle with one 90-degree angle is a right triangle - the right angle is the corner where two sides meet at 90 degrees.",
+      "memoryHook": "T-Rexy says: a right angle makes a right triangle - look for the little square corner.",
       "imageUrl": "topic:geometry",
       "tags": [
         "triangles",
@@ -1227,7 +1227,7 @@
         "area",
         "trapezoids"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1287,7 +1287,7 @@
         "transformations",
         "reflections"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1327,7 +1327,7 @@
         "area",
         "rectangles"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1367,7 +1367,7 @@
         "statistics",
         "median"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1387,7 +1387,7 @@
         "surface-area",
         "prisms"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1407,7 +1407,7 @@
         "statistics",
         "predictions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1427,7 +1427,7 @@
         "volume",
         "prisms"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1447,7 +1447,7 @@
         "probability",
         "experimental"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1460,14 +1460,14 @@
         "Isosceles",
         "Obtuse"
       ],
-      "explanation": "A triangle with no sides the same length is scalene.",
+      "explanation": "Scalene comes from a Greek word for uneven - no sides match, so the triangle is scalene.",
       "memoryHook": "T-Rexy says: equi means equal, iso means same, scalene means uneven.",
       "imageUrl": "topic:geometry",
       "tags": [
         "triangles",
         "classification"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1487,7 +1487,7 @@
         "statistics",
         "median"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1527,7 +1527,7 @@
         "area",
         "composite"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1567,7 +1567,7 @@
         "similar-figures",
         "proportions"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1607,7 +1607,7 @@
         "probability",
         "compound"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1627,7 +1627,7 @@
         "volume",
         "cylinders"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1660,14 +1660,14 @@
         "Right",
         "Reflex"
       ],
-      "explanation": "An angle that is exactly 180 degrees is a straight angle.",
-      "memoryHook": "T-Rexy says: acute is sharp and small, obtuse is wide.",
+      "explanation": "A straight angle opens all the way to a straight line, which is exactly 180 degrees.",
+      "memoryHook": "T-Rexy says: a straight angle is a flat line - 180 degrees.",
       "imageUrl": "topic:geometry",
       "tags": [
         "angles",
         "classification"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1707,7 +1707,7 @@
         "area",
         "composite"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1727,7 +1727,7 @@
         "statistics",
         "predictions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1767,7 +1767,7 @@
         "polygons",
         "angles"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1787,7 +1787,7 @@
         "area",
         "triangles"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1807,7 +1807,7 @@
         "similar-figures",
         "proportions"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1827,40 +1827,40 @@
         "transformations",
         "reflections"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "GEO7_092",
-      "question": "a standard number cube is rolled. What is the probability of rolling a 5?",
+      "question": "A standard number cube is rolled. What is the probability of rolling a 5?",
       "correctAnswer": "1/6",
       "distractors": [
         "1/5",
         "5/6",
         "1/3"
       ],
-      "explanation": "Probability = favorable outcomes divided by total outcomes.",
+      "explanation": "A number cube has 6 faces and only one shows a 5, so the probability is 1/6.",
       "memoryHook": "T-Rexy says: probability is what you want over everything possible.",
       "imageUrl": "topic:geometry",
       "tags": [
         "probability",
         "chance"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "GEO7_093",
-      "question": "a bag with 3 red marbles and 5 blue marbles. What is the probability of picking a red marble?",
+      "question": "A bag with 3 red marbles and 5 blue marbles. What is the probability of picking a red marble?",
       "correctAnswer": "3/8",
       "distractors": [
         "3/5",
         "5/8",
         "1/3"
       ],
-      "explanation": "Probability = favorable outcomes divided by total outcomes.",
+      "explanation": "There are 3 red marbles out of 8 total, so the probability is 3/8.",
       "memoryHook": "T-Rexy says: probability is what you want over everything possible.",
       "imageUrl": "topic:geometry",
       "tags": [
@@ -1887,7 +1887,7 @@
         "angles",
         "straight-line"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1900,7 +1900,7 @@
         "Right",
         "Reflex"
       ],
-      "explanation": "An angle that is more than 90 degrees but less than 180 degrees is a obtuse angle.",
+      "explanation": "An angle bigger than 90 degrees but smaller than 180 degrees is an obtuse angle - wider than a right angle, not yet a straight line.",
       "memoryHook": "T-Rexy says: acute is sharp and small, obtuse is wide.",
       "imageUrl": "topic:geometry",
       "tags": [
@@ -1947,7 +1947,7 @@
         "volume",
         "cylinders"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1987,7 +1987,7 @@
         "angles",
         "quadrilaterals"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -2007,7 +2007,7 @@
         "scale-drawings",
         "proportions"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     }
