@@ -1,6 +1,8 @@
 {
   "packId": "gr10-personal-finance",
-  "version": 1.0,
+  "title": "Personal Finance (10th Grade)",
+  "description": "Personal Finance (10th Grade) practice - 100 questions",
+  "version": "1.0",
   "language": "en",
   "passingScore": 60,
   "totalQuestions": 100,

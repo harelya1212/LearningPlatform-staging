@@ -1,6 +1,8 @@
 {
   "packId": "gr10-geometry",
-  "version": 1.0,
+  "title": "Geometry (10th Grade)",
+  "description": "Geometry (10th Grade) practice - 100 questions",
+  "version": "1.0",
   "language": "en",
   "passingScore": 60,
   "totalQuestions": 100,

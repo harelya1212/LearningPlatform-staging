@@ -1,6 +1,8 @@
 {
   "packId": "gr10-health",
-  "version": 1.0,
+  "title": "Health (10th Grade)",
+  "description": "Health (10th Grade) practice - 100 questions",
+  "version": "1.0",
   "language": "en",
   "passingScore": 60,
   "totalQuestions": 100,

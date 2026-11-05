@@ -1,6 +1,8 @@
 {
   "packId": "gr10-spanish-2",
-  "version": 1.0,
+  "title": "Spanish 2 (10th Grade)",
+  "description": "Spanish 2 (10th Grade) practice - 100 questions",
+  "version": "1.0",
   "language": "en",
   "passingScore": 60,
   "totalQuestions": 100,
@@ -473,7 +475,7 @@
     },
     {
       "id": "SPA10_024",
-      "question": "What does 'r\u00e1pido' mean?",
+      "question": "What does 'rápido' mean?",
       "correctAnswer": "Fast",
       "distractors": [
         "Slow",
