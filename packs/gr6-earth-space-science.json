@@ -40,7 +40,7 @@
         "All the air on Earth",
         "All living things"
       ],
-      "explanation": "The geosphere is Earth's solid rocky part.",
+      "explanation": "The geosphere is the solid Earth under your feet: the crust, mantle, and core, plus all the rocks and soil.",
       "memoryHook": "T-Rexy says: The geosphere is Earth's solid ground.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -147,7 +147,7 @@
         "rocks",
         "rock-cycle"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -160,7 +160,7 @@
         "A single storm",
         "The temperature at noon"
       ],
-      "explanation": "Climate is the pattern of weather in a place over many years.",
+      "explanation": "Climate looks at decades of weather records, so one rainy day does not change a desert's climate.",
       "memoryHook": "T-Rexy says: Climate is what you expect; weather is what you get.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -187,7 +187,7 @@
         "earth-motion",
         "seasons"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -247,7 +247,7 @@
         "stars",
         "universe"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -287,7 +287,7 @@
         "weather",
         "fronts"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -360,7 +360,7 @@
         "All the water on Earth",
         "All living things"
       ],
-      "explanation": "The atmosphere is the blanket of gases surrounding Earth.",
+      "explanation": "The atmosphere's gases - mostly nitrogen and oxygen - let us breathe, carry weather, and shield Earth from space.",
       "memoryHook": "T-Rexy says: The atmosphere is the air around Earth.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -400,7 +400,7 @@
         "A liquid that cooled",
         "A plant fossil"
       ],
-      "explanation": "Rocks are natural solids made of minerals.",
+      "explanation": "Most rocks are a mix: granite, for example, is made of quartz, feldspar, and mica minerals stuck together.",
       "memoryHook": "T-Rexy says: Rocks are built from minerals.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -467,7 +467,7 @@
         "atmosphere",
         "climate"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -487,7 +487,7 @@
         "weather",
         "fronts"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -527,7 +527,7 @@
         "earth-motion",
         "revolution"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -567,7 +567,7 @@
         "weather",
         "wind"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -580,7 +580,7 @@
         "They are the same thing",
         "Transform boundaries make new crust"
       ],
-      "explanation": "At transform boundaries plates grind past each other, while at convergent boundaries they push together.",
+      "explanation": "Transform boundaries cause earthquakes as plates grind past - the San Andreas Fault is a famous one - while convergent boundaries can build mountains or cause subduction.",
       "memoryHook": "T-Rexy says: Slide past versus crash together.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -647,7 +647,7 @@
         "moon",
         "orbits"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -787,14 +787,14 @@
         "weather",
         "fronts"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "ESC6_040",
       "question": "What does a seismograph measure?",
-      "correctAnswer": "The strength and timing of earthquake waves",
+      "correctAnswer": "The motion of the ground during an earthquake",
       "distractors": [
         "Wind speed",
         "Air pressure",
@@ -807,7 +807,7 @@
         "plate-tectonics",
         "earthquakes"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -867,7 +867,7 @@
         "rocks",
         "rock-cycle"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -880,7 +880,7 @@
         "About 30 days",
         "About 12 hours"
       ],
-      "explanation": "One revolution around the Sun takes about 365 days, which is one year.",
+      "explanation": "Earth travels all the way around the Sun once a year; that trip is what we call a year.",
       "memoryHook": "T-Rexy says: One trip around the Sun equals one year.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -907,7 +907,7 @@
         "plate-tectonics",
         "earthquakes"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -927,7 +927,7 @@
         "moon",
         "phases"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -960,7 +960,7 @@
         "The cooling of lava",
         "The growth of plants on rock"
       ],
-      "explanation": "Erosion carries weathered rock and soil to new places.",
+      "explanation": "A river can carry sand for miles and drop it far away - that moving, not the breaking, is erosion.",
       "memoryHook": "T-Rexy says: Erosion moves what weathering broke.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1000,7 +1000,7 @@
         "Earth",
         "Mars"
       ],
-      "explanation": "Mercury is the first planet from the Sun.",
+      "explanation": "Mercury orbits closest to the Sun, so it has the shortest year of any planet - just 88 Earth days.",
       "memoryHook": "T-Rexy says: Mercury is the Sun's nearest neighbor.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1027,7 +1027,7 @@
         "moon",
         "phases"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1040,7 +1040,7 @@
         "Metamorphic rock",
         "Fossil rock"
       ],
-      "explanation": "Igneous rocks form when molten rock cools and hardens.",
+      "explanation": "Lava cooling on the surface makes fine-grained rock like basalt, while magma cooling slowly underground makes coarse-grained rock like granite.",
       "memoryHook": "T-Rexy says: Igneous means born from fire.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1067,7 +1067,7 @@
         "rocks",
         "rock-cycle"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1080,14 +1080,14 @@
         "The Whirlpool",
         "The Sombrero"
       ],
-      "explanation": "Our solar system is in the Milky Way galaxy.",
+      "explanation": "On a dark night you can see the Milky Way as a pale band of light - that is our galaxy seen from the inside.",
       "memoryHook": "T-Rexy says: We live in the Milky Way.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "stars",
         "universe"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1107,7 +1107,7 @@
         "weathering",
         "erosion"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1127,7 +1127,7 @@
         "weathering",
         "erosion"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1140,14 +1140,14 @@
         "A type of ocean wave",
         "A cloud that holds rain"
       ],
-      "explanation": "A watershed is all the land that drains water into one stream, river, or lake.",
+      "explanation": "Every drop of rain that falls in a watershed flows downhill into the same river - your school and home may share one.",
       "memoryHook": "T-Rexy says: A watershed is a drainage neighborhood.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "water-cycle",
         "earth-systems"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1220,7 +1220,7 @@
         "A rain gauge",
         "An anemometer"
       ],
-      "explanation": "A thermometer measures how hot or cold something is.",
+      "explanation": "A thermometer works because liquids like alcohol expand as they warm, rising up the tube.",
       "memoryHook": "T-Rexy says: Thermometers measure temperature.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1307,7 +1307,7 @@
         "plate-tectonics",
         "volcanoes"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1327,7 +1327,7 @@
         "moon",
         "phases"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1347,7 +1347,7 @@
         "solar-system",
         "small-bodies"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1360,7 +1360,7 @@
         "The speed of the wind",
         "The pressure of the air"
       ],
-      "explanation": "Humidity measures how much water vapor the air holds.",
+      "explanation": "On a humid day the air is already full of water vapor, so your sweat cannot evaporate - that is why it feels sticky.",
       "memoryHook": "T-Rexy says: Humid air feels sticky because it holds water vapor.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1380,14 +1380,14 @@
         "The lowest layer of air",
         "A gas that causes rain"
       ],
-      "explanation": "Ozone in the stratosphere blocks most of the Sun's ultraviolet rays.",
+      "explanation": "Without the ozone layer, far more ultraviolet rays would reach the ground and damage skin and crops.",
       "memoryHook": "T-Rexy says: Ozone is Earth's sunscreen layer.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "atmosphere",
         "layers"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1407,7 +1407,7 @@
         "moon",
         "tides"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1427,7 +1427,7 @@
         "plate-tectonics",
         "boundaries"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1467,7 +1467,7 @@
         "weathering",
         "erosion"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1487,7 +1487,7 @@
         "atmosphere",
         "climate"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1500,14 +1500,14 @@
         "Water running off a hill",
         "Water freezing"
       ],
-      "explanation": "Infiltration is when water moves down through soil and rock.",
+      "explanation": "Rain soaks through soil and cracks in rock until it reaches groundwater - paved streets block infiltration, so water runs off instead.",
       "memoryHook": "T-Rexy says: Infiltration is water sinking into the ground.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "water-cycle",
         "earth-systems"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1520,7 +1520,7 @@
         "About 365 days",
         "About 30 days"
       ],
-      "explanation": "One full rotation takes about 24 hours, which is one day.",
+      "explanation": "Earth spins like a top, turning once every 24 hours - one full spin is one day.",
       "memoryHook": "T-Rexy says: One spin equals one day.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1547,7 +1547,7 @@
         "stars",
         "universe"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1567,7 +1567,7 @@
         "plate-tectonics",
         "earthquakes"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1607,7 +1607,7 @@
         "rocks",
         "rock-cycle"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1627,7 +1627,7 @@
         "weather",
         "storms"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1647,7 +1647,7 @@
         "solar-system",
         "small-bodies"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1660,7 +1660,7 @@
         "Friction",
         "Inertia"
       ],
-      "explanation": "Gravity is the force that pulls objects toward Earth's center.",
+      "explanation": "Gravity pulls the Moon toward Earth too, which is why the Moon stays in orbit instead of flying away.",
       "memoryHook": "T-Rexy says: Gravity keeps your feet on the ground.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1687,7 +1687,7 @@
         "water-cycle",
         "earth-systems"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1707,7 +1707,7 @@
         "earth-motion",
         "seasons"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1720,14 +1720,14 @@
         "All the water on Earth",
         "The air around Earth"
       ],
-      "explanation": "The biosphere is the part of Earth where life exists.",
+      "explanation": "The biosphere stretches from deep ocean vents to the tops of mountains - wherever living things can survive.",
       "memoryHook": "T-Rexy says: The biosphere is Earth's living zone.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "earth-systems",
         "spheres"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1787,7 +1787,7 @@
         "weather",
         "storms"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1807,7 +1807,7 @@
         "weathering",
         "erosion"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1827,7 +1827,7 @@
         "eclipses",
         "moon"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1860,14 +1860,14 @@
         "The day with equal day and night",
         "The first day of spring"
       ],
-      "explanation": "On the summer solstice, a hemisphere gets its most daylight.",
+      "explanation": "In the Northern Hemisphere the summer solstice falls around June 21, when the North Pole tilts most toward the Sun.",
       "memoryHook": "T-Rexy says: The summer solstice is the longest day.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "earth-motion",
         "seasons"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1887,7 +1887,7 @@
         "eclipses",
         "moon"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1907,7 +1907,7 @@
         "weathering",
         "erosion"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1921,7 +1921,7 @@
         "A rain gauge"
       ],
       "explanation": "An anemometer has spinning cups that measure how fast the wind blows.",
-      "memoryHook": "T-Rexy says: An anemometers cups spin faster in stronger wind.",
+      "memoryHook": "T-Rexy says: An anemometer's cups spin faster in stronger wind.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "weather",
@@ -1987,7 +1987,7 @@
         "volcanoes",
         "rocks"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -2007,7 +2007,7 @@
         "plate-tectonics",
         "boundaries"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     }
