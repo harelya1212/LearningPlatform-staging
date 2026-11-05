@@ -28,7 +28,7 @@
         "roots",
         "vocabulary"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -68,7 +68,7 @@
         "confused-words",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -128,7 +128,7 @@
         "confused-words",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -148,7 +148,7 @@
         "vocabulary",
         "definitions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -161,7 +161,7 @@
         "transport",
         "predict"
       ],
-      "explanation": "Audience uses the root aud, so it relates to hear.",
+      "explanation": "An audience listens: the root aud (hear) sits at the start of audience, and an audience is the group of people who hear a performance.",
       "memoryHook": "T-Rexy says: spot the root inside the word.",
       "imageUrl": "topic:grammar-vocab",
       "tags": [
@@ -188,7 +188,7 @@
         "vocabulary",
         "definitions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -208,7 +208,7 @@
         "confused-words",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -228,7 +228,7 @@
         "confused-words",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -248,7 +248,7 @@
         "confused-words",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -281,7 +281,7 @@
         "telephone",
         "microscope"
       ],
-      "explanation": "Autograph uses the root graph, so it relates to write.",
+      "explanation": "An autograph is written by hand: graph means write, and auto means self, so an autograph is a person's own written signature.",
       "memoryHook": "T-Rexy says: spot the root inside the word.",
       "imageUrl": "topic:grammar-vocab",
       "tags": [
@@ -308,7 +308,7 @@
         "roots",
         "vocabulary"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -328,7 +328,7 @@
         "vocabulary",
         "definitions"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -348,7 +348,7 @@
         "roots",
         "vocabulary"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -368,7 +368,7 @@
         "roots",
         "vocabulary"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -428,7 +428,7 @@
         "confused-words",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -461,7 +461,7 @@
         "microscope",
         "autograph"
       ],
-      "explanation": "Transport uses the root port, so it relates to carry.",
+      "explanation": "Transport means to carry across: port means carry and trans means across, so a truck transports goods from one place to another.",
       "memoryHook": "T-Rexy says: spot the root inside the word.",
       "imageUrl": "topic:grammar-vocab",
       "tags": [
@@ -488,7 +488,7 @@
         "vocabulary",
         "definitions"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -508,7 +508,7 @@
         "vocabulary",
         "definitions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -528,7 +528,7 @@
         "confused-words",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -548,7 +548,7 @@
         "vocabulary",
         "definitions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -561,7 +561,7 @@
         "thermometer",
         "chronology"
       ],
-      "explanation": "Telephone uses the root phon, so it relates to sound.",
+      "explanation": "A telephone carries sound: phon means sound and tele means far away, so a telephone lets you hear someone far away.",
       "memoryHook": "T-Rexy says: spot the root inside the word.",
       "imageUrl": "topic:grammar-vocab",
       "tags": [
@@ -608,7 +608,7 @@
         "vocabulary",
         "definitions"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -628,7 +628,7 @@
         "vocabulary",
         "definitions"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -641,7 +641,7 @@
         "predict",
         "chronology"
       ],
-      "explanation": "Photograph uses the root photo, so it relates to light.",
+      "explanation": "A photograph is made with light: photo means light and graph means write, so a photograph is a picture written by light.",
       "memoryHook": "T-Rexy says: spot the root inside the word.",
       "imageUrl": "topic:grammar-vocab",
       "tags": [
@@ -688,7 +688,7 @@
         "confused-words",
         "grammar"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -708,7 +708,7 @@
         "vocabulary",
         "definitions"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -721,7 +721,7 @@
         "telescope",
         "microscope"
       ],
-      "explanation": "Autobiography uses the root auto, so it relates to self.",
+      "explanation": "An autobiography is written by the person it is about: auto means self, bio means life, and graph means write - a self-written life story.",
       "memoryHook": "T-Rexy says: spot the root inside the word.",
       "imageUrl": "topic:grammar-vocab",
       "tags": [
@@ -748,7 +748,7 @@
         "confused-words",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -821,7 +821,7 @@
         "microscope",
         "telescope"
       ],
-      "explanation": "Thermometer uses the root meter, so it relates to measure.",
+      "explanation": "A thermometer measures heat: therm means heat and meter means measure, so it measures temperature.",
       "memoryHook": "T-Rexy says: spot the root inside the word.",
       "imageUrl": "topic:grammar-vocab",
       "tags": [
@@ -848,7 +848,7 @@
         "vocabulary",
         "definitions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -868,7 +868,7 @@
         "parts-of-speech",
         "grammar"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -888,7 +888,7 @@
         "confused-words",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -908,7 +908,7 @@
         "vocabulary",
         "definitions"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -941,7 +941,7 @@
         "biology",
         "photograph"
       ],
-      "explanation": "Predict uses the root dict, so it relates to say or speak.",
+      "explanation": "To predict is to say beforehand: pre means before and dict means say, so a prediction says what will happen before it happens.",
       "memoryHook": "T-Rexy says: spot the root inside the word.",
       "imageUrl": "topic:grammar-vocab",
       "tags": [
@@ -1048,7 +1048,7 @@
         "confused-words",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1068,7 +1068,7 @@
         "confused-words",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1108,7 +1108,7 @@
         "sentences",
         "fragments"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1128,7 +1128,7 @@
         "vocabulary",
         "definitions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1148,7 +1148,7 @@
         "confused-words",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1161,7 +1161,7 @@
         "microscope",
         "hydrant"
       ],
-      "explanation": "Telephone uses the root tele, so it relates to far away.",
+      "explanation": "A telephone connects people far apart: tele means far away and phon means sound, so it carries your voice across a distance.",
       "memoryHook": "T-Rexy says: spot the root inside the word.",
       "imageUrl": "topic:grammar-vocab",
       "tags": [
@@ -1228,7 +1228,7 @@
         "roots",
         "vocabulary"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1261,7 +1261,7 @@
         "photograph",
         "predict"
       ],
-      "explanation": "Biology uses the root bio, so it relates to life.",
+      "explanation": "Biology is the study of living things: bio means life and -logy means study, so a biologist studies plants and animals.",
       "memoryHook": "T-Rexy says: spot the root inside the word.",
       "imageUrl": "topic:grammar-vocab",
       "tags": [
@@ -1281,7 +1281,7 @@
         "transport",
         "audience"
       ],
-      "explanation": "Hydrant uses the root hydro, so it relates to water.",
+      "explanation": "A fire hydrant gives water: hydro means water, so a hydrant is a pipe that firefighters connect to for water.",
       "memoryHook": "T-Rexy says: spot the root inside the word.",
       "imageUrl": "topic:grammar-vocab",
       "tags": [
@@ -1328,7 +1328,7 @@
         "roots",
         "vocabulary"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1348,7 +1348,7 @@
         "subject-predicate",
         "grammar"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1361,7 +1361,7 @@
         "audience",
         "biology"
       ],
-      "explanation": "Telescope uses the root scope, so it relates to see.",
+      "explanation": "A telescope lets you see far away: tele means far away and scope means see, so it is a tool for seeing distant stars.",
       "memoryHook": "T-Rexy says: spot the root inside the word.",
       "imageUrl": "topic:grammar-vocab",
       "tags": [
@@ -1388,7 +1388,7 @@
         "vocabulary",
         "definitions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1408,7 +1408,7 @@
         "verb-tense",
         "grammar"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1448,7 +1448,7 @@
         "subject-predicate",
         "grammar"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1468,7 +1468,7 @@
         "vocabulary",
         "definitions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1488,7 +1488,7 @@
         "confused-words",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1528,7 +1528,7 @@
         "vocabulary",
         "definitions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1548,7 +1548,7 @@
         "roots",
         "vocabulary"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1561,7 +1561,7 @@
         "biology",
         "audience"
       ],
-      "explanation": "Geography uses the root geo, so it relates to earth.",
+      "explanation": "Geography is the study of Earth: geo means earth and -graphy means writing or describing, so geographers describe Earth's lands and places.",
       "memoryHook": "T-Rexy says: spot the root inside the word.",
       "imageUrl": "topic:grammar-vocab",
       "tags": [
@@ -1628,7 +1628,7 @@
         "vocabulary",
         "definitions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1641,7 +1641,7 @@
         "microscope",
         "autobiography"
       ],
-      "explanation": "Chronology uses the root chron, so it relates to time.",
+      "explanation": "A chronology lists events in time order: chron means time and -logy means study, so a chronology is the order events happened.",
       "memoryHook": "T-Rexy says: spot the root inside the word.",
       "imageUrl": "topic:grammar-vocab",
       "tags": [
@@ -1668,7 +1668,7 @@
         "vocabulary",
         "definitions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1688,7 +1688,7 @@
         "confused-words",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1708,7 +1708,7 @@
         "sentences",
         "grammar"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1728,7 +1728,7 @@
         "capitalization",
         "punctuation"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1741,7 +1741,7 @@
         "telescope",
         "microscope"
       ],
-      "explanation": "Thermometer uses the root therm, so it relates to heat.",
+      "explanation": "A thermometer measures how hot something is: therm means heat, so the red line rises when the temperature rises.",
       "memoryHook": "T-Rexy says: spot the root inside the word.",
       "imageUrl": "topic:grammar-vocab",
       "tags": [
@@ -1768,7 +1768,7 @@
         "plurals",
         "grammar"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1788,7 +1788,7 @@
         "sentences",
         "run-ons"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1801,7 +1801,7 @@
         "geography",
         "audience"
       ],
-      "explanation": "Microscope uses the root micro, so it relates to small.",
+      "explanation": "A microscope lets you see tiny things: micro means small and scope means see, so it magnifies things too small for the eye alone.",
       "memoryHook": "T-Rexy says: spot the root inside the word.",
       "imageUrl": "topic:grammar-vocab",
       "tags": [
@@ -1828,7 +1828,7 @@
         "sentences",
         "grammar"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1848,7 +1848,7 @@
         "vocabulary",
         "definitions"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1888,7 +1888,7 @@
         "punctuation",
         "quotations"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1937,7 +1937,7 @@
       "question": "Which pronoun agrees with its antecedent? Each student must bring ___ book.",
       "correctAnswer": "his or her",
       "distractors": [
-        "their",
+        "theirs",
         "they",
         "them"
       ],
@@ -1988,7 +1988,7 @@
         "confused-words",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -2008,7 +2008,7 @@
         "confused-words",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     }
