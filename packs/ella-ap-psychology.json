@@ -1,0 +1,2115 @@
+{
+  "packId": "ella-ap-psychology",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-04",
+  "tags": [
+    "psychology",
+    "ap",
+    "12th"
+  ],
+  "questions": [
+    {
+      "id": "EPSY_001",
+      "question": "In an experiment, the variable that the researcher manipulates is called the...",
+      "correctAnswer": "independent variable",
+      "distractors": [
+        "dependent variable",
+        "confounding variable",
+        "control variable"
+      ],
+      "explanation": "The independent variable is manipulated to observe its effect on the dependent variable.",
+      "memoryHook": "T-Rexy says: I change it, so it's INDEPENDENT - I depend on no one!",
+      "imageUrl": "topic:research-methods",
+      "tags": [
+        "psychology",
+        "ap",
+        "research-methods"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_002",
+      "question": "A correlation coefficient of -0.85 indicates...",
+      "correctAnswer": "a strong negative relationship",
+      "distractors": [
+        "a weak positive relationship",
+        "no relationship",
+        "a perfect positive relationship"
+      ],
+      "explanation": "Values near -1 or +1 are strong; the sign shows the direction of the relationship.",
+      "memoryHook": "T-Rexy says: Minus means they move opposite, and .85 is STRONG - like my roar!",
+      "imageUrl": "topic:research-methods",
+      "tags": [
+        "psychology",
+        "ap",
+        "research-methods"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_003",
+      "question": "Which research method allows researchers to determine cause and effect?",
+      "correctAnswer": "The experimental method",
+      "distractors": [
+        "Naturalistic observation",
+        "Case study",
+        "Survey"
+      ],
+      "explanation": "Only experiments manipulate an independent variable while controlling extraneous variables, allowing causal claims.",
+      "memoryHook": "T-Rexy says: Experiment = cause and effect, because I CONTROL the variables!",
+      "imageUrl": "topic:research-methods",
+      "tags": [
+        "psychology",
+        "ap",
+        "research-methods"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_004",
+      "question": "Random assignment is used to...",
+      "correctAnswer": "control for participant differences across groups",
+      "distractors": [
+        "select a representative sample",
+        "ensure informed consent",
+        "eliminate the placebo effect"
+      ],
+      "explanation": "Random assignment distributes individual differences evenly across experimental groups.",
+      "memoryHook": "T-Rexy says: Random assignment shuffles people so groups start EQUAL!",
+      "imageUrl": "topic:research-methods",
+      "tags": [
+        "psychology",
+        "ap",
+        "research-methods"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_005",
+      "question": "The placebo effect occurs when...",
+      "correctAnswer": "participants improve because they expect a treatment to work",
+      "distractors": [
+        "researchers unconsciously influence results",
+        "a drug has no active ingredients",
+        "participants drop out of a study"
+      ],
+      "explanation": "Expectation alone can produce real psychological and physical changes.",
+      "memoryHook": "T-Rexy says: Sugar pill plus belief equals real improvement. Mind over matter!",
+      "imageUrl": "topic:research-methods",
+      "tags": [
+        "psychology",
+        "ap",
+        "research-methods"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_006",
+      "question": "A double-blind procedure controls for...",
+      "correctAnswer": "both researcher and participant expectations",
+      "distractors": [
+        "sampling bias",
+        "the third-variable problem",
+        "maturation effects"
+      ],
+      "explanation": "Neither the researcher nor the participant knows who received the treatment.",
+      "memoryHook": "T-Rexy says: Double blind equals NOBODY knows. Two blindfolds beat one!",
+      "imageUrl": "topic:research-methods",
+      "tags": [
+        "psychology",
+        "ap",
+        "research-methods"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_007",
+      "question": "Which of the following is an ethical requirement in human research?",
+      "correctAnswer": "Obtaining informed consent",
+      "distractors": [
+        "Using deception in all studies",
+        "Paying participants large sums",
+        "Publishing names of participants"
+      ],
+      "explanation": "Participants must agree knowingly; deception is limited and debriefing is required.",
+      "memoryHook": "T-Rexy says: Informed consent means they KNOW what they're signing up for!",
+      "imageUrl": "topic:research-methods",
+      "tags": [
+        "psychology",
+        "ap",
+        "research-methods"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_008",
+      "question": "A researcher finds that ice cream sales and drowning deaths are positively correlated. The most likely explanation is...",
+      "correctAnswer": "a third variable (warm weather) influences both",
+      "distractors": [
+        "ice cream causes drowning",
+        "drowning causes ice cream sales",
+        "the correlation is actually negative"
+      ],
+      "explanation": "Correlation does not imply causation; a third variable often explains the link.",
+      "memoryHook": "T-Rexy says: Correlation is NOT causation - look for the sneaky third variable!",
+      "imageUrl": "topic:research-methods",
+      "tags": [
+        "psychology",
+        "ap",
+        "research-methods"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_009",
+      "question": "The dependent variable is...",
+      "correctAnswer": "measured to see the effect of the manipulation",
+      "distractors": [
+        "manipulated by the researcher",
+        "kept constant across conditions",
+        "selected by random sampling"
+      ],
+      "explanation": "The dependent variable 'depends' on the independent variable.",
+      "memoryHook": "T-Rexy says: Dependent equals DEPENDS on what I changed!",
+      "imageUrl": "topic:research-methods",
+      "tags": [
+        "psychology",
+        "ap",
+        "research-methods"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_010",
+      "question": "Operational definitions are important because they...",
+      "correctAnswer": "specify exactly how variables are measured",
+      "distractors": [
+        "guarantee representative samples",
+        "eliminate all confounds",
+        "prove a hypothesis true"
+      ],
+      "explanation": "Clear operational definitions allow other researchers to replicate a study.",
+      "memoryHook": "T-Rexy says: Define it so clearly that ANYONE could measure it the same way!",
+      "imageUrl": "topic:research-methods",
+      "tags": [
+        "psychology",
+        "ap",
+        "research-methods"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_011",
+      "question": "In a study of a new study technique, the control group...",
+      "correctAnswer": "does not receive the new technique",
+      "distractors": [
+        "receives a stronger version of the technique",
+        "is not measured at the end",
+        "knows which group they are in"
+      ],
+      "explanation": "The control group provides a baseline for comparison with the experimental group.",
+      "memoryHook": "T-Rexy says: Control group equals the comparison crew, no special treatment!",
+      "imageUrl": "topic:research-methods",
+      "tags": [
+        "psychology",
+        "ap",
+        "research-methods"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_012",
+      "question": "A case study is most useful for...",
+      "correctAnswer": "studying rare phenomena in depth",
+      "distractors": [
+        "establishing cause and effect",
+        "generalizing to large populations",
+        "testing drug effectiveness"
+      ],
+      "explanation": "Case studies give rich detail but cannot be generalized broadly.",
+      "memoryHook": "T-Rexy says: Case study equals deep dive into ONE rare case, like studying a unicorn!",
+      "imageUrl": "topic:research-methods",
+      "tags": [
+        "psychology",
+        "ap",
+        "research-methods"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_013",
+      "question": "The part of the neuron that receives signals is the...",
+      "correctAnswer": "dendrite",
+      "distractors": [
+        "axon",
+        "myelin sheath",
+        "terminal button"
+      ],
+      "explanation": "Dendrites receive incoming signals; axons carry signals away from the cell body.",
+      "memoryHook": "T-Rexy says: Dendrites are receivers, like my ears catching your voice!",
+      "imageUrl": "topic:biological-bases",
+      "tags": [
+        "psychology",
+        "ap",
+        "biological-bases"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_014",
+      "question": "The myelin sheath...",
+      "correctAnswer": "speeds up neural transmission",
+      "distractors": [
+        "stores neurotransmitters",
+        "receives incoming signals",
+        "produces action potentials"
+      ],
+      "explanation": "Myelin insulates the axon, allowing the signal to travel faster.",
+      "memoryHook": "T-Rexy says: Myelin equals insulation on a wire, makes signals ZOOM!",
+      "imageUrl": "topic:biological-bases",
+      "tags": [
+        "psychology",
+        "ap",
+        "biological-bases"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_015",
+      "question": "An action potential is...",
+      "correctAnswer": "an all-or-none electrical signal traveling down the axon",
+      "distractors": [
+        "a chemical released into the synapse",
+        "a graded signal that varies in strength",
+        "the resting state of a neuron"
+      ],
+      "explanation": "An action potential fires fully or not at all; it does not vary in strength.",
+      "memoryHook": "T-Rexy says: Action potential equals ALL or NOTHING, like my roar - full blast or silence!",
+      "imageUrl": "topic:biological-bases",
+      "tags": [
+        "psychology",
+        "ap",
+        "biological-bases"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_016",
+      "question": "Serotonin is most closely associated with...",
+      "correctAnswer": "mood regulation",
+      "distractors": [
+        "muscle movement",
+        "memory formation",
+        "pain relief"
+      ],
+      "explanation": "Low serotonin levels are linked to depression and anxiety.",
+      "memoryHook": "T-Rexy says: Serotonin equals the sunshine chemical for your MOOD!",
+      "imageUrl": "topic:biological-bases",
+      "tags": [
+        "psychology",
+        "ap",
+        "biological-bases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_017",
+      "question": "Dopamine is primarily involved in...",
+      "correctAnswer": "reward and movement",
+      "distractors": [
+        "sleep regulation",
+        "hunger signals",
+        "immune response"
+      ],
+      "explanation": "Dopamine drives reward pathways; its loss causes Parkinson's symptoms.",
+      "memoryHook": "T-Rexy says: Dopamine equals the REWARD chemical, your brain's high-five!",
+      "imageUrl": "topic:biological-bases",
+      "tags": [
+        "psychology",
+        "ap",
+        "biological-bases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_018",
+      "question": "The synapse is...",
+      "correctAnswer": "the gap between neurons where communication occurs",
+      "distractors": [
+        "the cell body of a neuron",
+        "the fatty insulation on axons",
+        "the bundle of axons in the spinal cord"
+      ],
+      "explanation": "Neurotransmitters are released into the synaptic gap to signal the next neuron.",
+      "memoryHook": "T-Rexy says: Synapse equals the tiny GAP where neurons whisper to each other!",
+      "imageUrl": "topic:biological-bases",
+      "tags": [
+        "psychology",
+        "ap",
+        "biological-bases"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_019",
+      "question": "The frontal lobe is primarily responsible for...",
+      "correctAnswer": "planning and decision-making",
+      "distractors": [
+        "visual processing",
+        "auditory processing",
+        "balance and coordination"
+      ],
+      "explanation": "The frontal lobe handles executive functions like planning and judgment.",
+      "memoryHook": "T-Rexy says: Frontal lobe equals the BOSS, plans and decides!",
+      "imageUrl": "topic:biological-bases",
+      "tags": [
+        "psychology",
+        "ap",
+        "biological-bases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_020",
+      "question": "The occipital lobe processes...",
+      "correctAnswer": "vision",
+      "distractors": [
+        "hearing",
+        "touch",
+        "smell"
+      ],
+      "explanation": "The visual cortex is located in the occipital lobe at the back of the brain.",
+      "memoryHook": "T-Rexy says: Occipital equals OPTICAL, it's all about vision!",
+      "imageUrl": "topic:biological-bases",
+      "tags": [
+        "psychology",
+        "ap",
+        "biological-bases"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_021",
+      "question": "Damage to Broca's area would most likely cause difficulty with...",
+      "correctAnswer": "producing speech",
+      "distractors": [
+        "understanding speech",
+        "seeing colors",
+        "forming new memories"
+      ],
+      "explanation": "Broca's area controls speech production; Wernicke's area controls comprehension.",
+      "memoryHook": "T-Rexy says: Broca's BROKE your speech - you can't TALK smoothly!",
+      "imageUrl": "topic:biological-bases",
+      "tags": [
+        "psychology",
+        "ap",
+        "biological-bases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_022",
+      "question": "The hippocampus is critical for...",
+      "correctAnswer": "forming new long-term memories",
+      "distractors": [
+        "regulating hunger",
+        "controlling heart rate",
+        "producing language"
+      ],
+      "explanation": "Patient H.M. could not form new memories after hippocampus damage.",
+      "memoryHook": "T-Rexy says: Hippocampus equals the memory PRINTER, saves new memories!",
+      "imageUrl": "topic:biological-bases",
+      "tags": [
+        "psychology",
+        "ap",
+        "biological-bases"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_023",
+      "question": "The amygdala is most associated with...",
+      "correctAnswer": "fear and emotion",
+      "distractors": [
+        "logic and reasoning",
+        "fine motor control",
+        "long-term planning"
+      ],
+      "explanation": "The amygdala processes emotions, especially fear responses.",
+      "memoryHook": "T-Rexy says: Amygdala equals the ALARM, screams when there's danger!",
+      "imageUrl": "topic:biological-bases",
+      "tags": [
+        "psychology",
+        "ap",
+        "biological-bases"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_024",
+      "question": "The sympathetic nervous system...",
+      "correctAnswer": "activates the fight-or-flight response",
+      "distractors": [
+        "calms the body after stress",
+        "controls digestion during rest",
+        "regulates sleep cycles"
+      ],
+      "explanation": "The sympathetic branch arouses the body; the parasympathetic branch calms it.",
+      "memoryHook": "T-Rexy says: Sympathetic equals STRESS mode, ready to FIGHT or FLIGHT!",
+      "imageUrl": "topic:biological-bases",
+      "tags": [
+        "psychology",
+        "ap",
+        "biological-bases"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_025",
+      "question": "Endorphins are...",
+      "correctAnswer": "natural painkillers released during exercise or stress",
+      "distractors": [
+        "hormones that regulate sleep",
+        "neurotransmitters that cause depression",
+        "chemicals that speed digestion"
+      ],
+      "explanation": "Endorphins reduce pain and produce the 'runner's high.'",
+      "memoryHook": "T-Rexy says: Endorphins equal your body's NATURAL painkillers, the runner's high!",
+      "imageUrl": "topic:biological-bases",
+      "tags": [
+        "psychology",
+        "ap",
+        "biological-bases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_026",
+      "question": "Split-brain patients (corpus callosum severed) demonstrate that...",
+      "correctAnswer": "the hemispheres can process information independently",
+      "distractors": [
+        "language is in the right hemisphere",
+        "the brain cannot function when divided",
+        "memories are stored only on the left"
+      ],
+      "explanation": "Sperry and Gazzaniga showed each hemisphere can work on its own.",
+      "memoryHook": "T-Rexy says: Split brain equals two SEPARATE thinkers in one head!",
+      "imageUrl": "topic:biological-bases",
+      "tags": [
+        "psychology",
+        "ap",
+        "biological-bases"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_027",
+      "question": "The cerebral cortex is...",
+      "correctAnswer": "the outer layer responsible for higher mental functions",
+      "distractors": [
+        "the fluid-filled cavities of the brain",
+        "the bundle connecting hemispheres",
+        "the oldest part of the brain"
+      ],
+      "explanation": "The wrinkled cortex handles thinking, perception, and voluntary movement.",
+      "memoryHook": "T-Rexy says: Cortex equals the WRINKLY thinking cap of your brain!",
+      "imageUrl": "topic:biological-bases",
+      "tags": [
+        "psychology",
+        "ap",
+        "biological-bases"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_028",
+      "question": "The absolute threshold is...",
+      "correctAnswer": "the minimum stimulus needed for detection 50 percent of the time",
+      "distractors": [
+        "the maximum pain a person can tolerate",
+        "the smallest noticeable difference",
+        "the point where senses adapt"
+      ],
+      "explanation": "The 50 percent detection criterion defines the absolute threshold.",
+      "memoryHook": "T-Rexy says: Absolute threshold equals the QUIETEST whisper you can hear half the time!",
+      "imageUrl": "topic:sensation-perception",
+      "tags": [
+        "psychology",
+        "ap",
+        "sensation-perception"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_029",
+      "question": "Weber's law states that the just noticeable difference is...",
+      "correctAnswer": "proportional to the original stimulus intensity",
+      "distractors": [
+        "constant regardless of intensity",
+        "larger for weaker stimuli",
+        "unrelated to perception"
+      ],
+      "explanation": "The JND is a constant proportion of the original stimulus.",
+      "memoryHook": "T-Rexy says: Weber's law: the BIGGER the stimulus, the BIGGER the change needed to notice!",
+      "imageUrl": "topic:sensation-perception",
+      "tags": [
+        "psychology",
+        "ap",
+        "sensation-perception"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_030",
+      "question": "Sensory adaptation refers to...",
+      "correctAnswer": "decreased sensitivity after prolonged exposure",
+      "distractors": [
+        "increased sensitivity over time",
+        "the inability to detect any stimulus",
+        "phantom sensations in missing limbs"
+      ],
+      "explanation": "For example, you stop noticing a smell after being in a room a while.",
+      "memoryHook": "T-Rexy says: Sensory adaptation: your nose gets BORED and stops noticing!",
+      "imageUrl": "topic:sensation-perception",
+      "tags": [
+        "psychology",
+        "ap",
+        "sensation-perception"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_031",
+      "question": "The trichromatic theory of color vision proposes...",
+      "correctAnswer": "three types of cones for red, green, and blue",
+      "distractors": [
+        "one receptor for each color",
+        "opponent pairs of colors",
+        "rods detect color in dim light"
+      ],
+      "explanation": "The Young-Helmholtz theory says color vision starts with three cone types.",
+      "memoryHook": "T-Rexy says: Trichromatic equals THREE cones, like RGB on your screen!",
+      "imageUrl": "topic:sensation-perception",
+      "tags": [
+        "psychology",
+        "ap",
+        "sensation-perception"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_032",
+      "question": "Gestalt psychologists emphasized that...",
+      "correctAnswer": "the whole is different from the sum of its parts",
+      "distractors": [
+        "perception is built from tiny sensations",
+        "learning explains all perception",
+        "the brain processes serially"
+      ],
+      "explanation": "Gestalt principles include proximity, similarity, and closure.",
+      "memoryHook": "T-Rexy says: Gestalt: the WHOLE picture matters more than the pieces!",
+      "imageUrl": "topic:sensation-perception",
+      "tags": [
+        "psychology",
+        "ap",
+        "sensation-perception"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_033",
+      "question": "Depth perception using both eyes is called...",
+      "correctAnswer": "binocular depth cues",
+      "distractors": [
+        "monocular depth cues",
+        "retinal disparity alone",
+        "linear perspective"
+      ],
+      "explanation": "Binocular cues include retinal disparity and convergence.",
+      "memoryHook": "T-Rexy says: Binocular equals TWO eyes teaming up for depth!",
+      "imageUrl": "topic:sensation-perception",
+      "tags": [
+        "psychology",
+        "ap",
+        "sensation-perception"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_034",
+      "question": "An example of a monocular depth cue is...",
+      "correctAnswer": "linear perspective",
+      "distractors": [
+        "retinal disparity",
+        "convergence",
+        "binocular disparity"
+      ],
+      "explanation": "Monocular cues like linear perspective work with just one eye.",
+      "memoryHook": "T-Rexy says: Monocular: ONE eye is enough, like railroad tracks converging!",
+      "imageUrl": "topic:sensation-perception",
+      "tags": [
+        "psychology",
+        "ap",
+        "sensation-perception"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_035",
+      "question": "The opponent-process theory best explains...",
+      "correctAnswer": "color afterimages",
+      "distractors": [
+        "color blindness in one eye",
+        "night vision adaptation",
+        "the cocktail party effect"
+      ],
+      "explanation": "Staring at red then looking away produces a green afterimage, supporting opponent pairs.",
+      "memoryHook": "T-Rexy says: Opponent process: colors FIGHT in pairs, stare then look away!",
+      "imageUrl": "topic:sensation-perception",
+      "tags": [
+        "psychology",
+        "ap",
+        "sensation-perception"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_036",
+      "question": "The cocktail party effect demonstrates...",
+      "correctAnswer": "selective attention",
+      "distractors": [
+        "absolute thresholds",
+        "sensory adaptation",
+        "divided consciousness"
+      ],
+      "explanation": "You can focus on one conversation in a noisy room and still hear your name.",
+      "memoryHook": "T-Rexy says: Cocktail party effect: your name POPS OUT of the noise!",
+      "imageUrl": "topic:sensation-perception",
+      "tags": [
+        "psychology",
+        "ap",
+        "sensation-perception"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_037",
+      "question": "REM sleep is characterized by...",
+      "correctAnswer": "rapid eye movements and vivid dreaming",
+      "distractors": [
+        "deep slow-wave brain activity",
+        "complete muscle relaxation without dreams",
+        "brief naps under 10 minutes"
+      ],
+      "explanation": "REM is called paradoxical sleep because the brain is active while the body is still.",
+      "memoryHook": "T-Rexy says: REM equals Rapid Eye Movement, the DREAM stage!",
+      "imageUrl": "topic:consciousness",
+      "tags": [
+        "psychology",
+        "ap",
+        "consciousness"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_038",
+      "question": "According to Freud, the manifest content of a dream is...",
+      "correctAnswer": "the literal storyline",
+      "distractors": [
+        "the hidden symbolic meaning",
+        "the emotional tone",
+        "the random neural activity"
+      ],
+      "explanation": "Manifest content is the surface plot; latent content is the hidden meaning.",
+      "memoryHook": "T-Rexy says: Manifest equals what's MANIFESTED on the surface, the obvious plot!",
+      "imageUrl": "topic:consciousness",
+      "tags": [
+        "psychology",
+        "ap",
+        "consciousness"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_039",
+      "question": "Sleep deprivation most directly impairs...",
+      "correctAnswer": "attention and cognitive performance",
+      "distractors": [
+        "physical strength permanently",
+        "long-term memory of childhood",
+        "the ability to dream at all"
+      ],
+      "explanation": "Tired people suffer microsleeps and poor concentration.",
+      "memoryHook": "T-Rexy says: No sleep means your brain runs on EMPTY, can't focus!",
+      "imageUrl": "topic:consciousness",
+      "tags": [
+        "psychology",
+        "ap",
+        "consciousness"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_040",
+      "question": "Hypnosis is best described as...",
+      "correctAnswer": "a state of heightened suggestibility",
+      "distractors": [
+        "a deep sleep state",
+        "mind control by the hypnotist",
+        "a treatment for all disorders"
+      ],
+      "explanation": "Hypnotized people are suggestible but not under mind control.",
+      "memoryHook": "T-Rexy says: Hypnosis equals super SUGGESTIBLE, not mind control!",
+      "imageUrl": "topic:consciousness",
+      "tags": [
+        "psychology",
+        "ap",
+        "consciousness"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_041",
+      "question": "Tolerance to a drug means...",
+      "correctAnswer": "needing larger doses for the same effect",
+      "distractors": [
+        "experiencing withdrawal when stopping",
+        "having an allergic reaction",
+        "becoming addicted immediately"
+      ],
+      "explanation": "The body adapts to the drug, so more is needed for the same result.",
+      "memoryHook": "T-Rexy says: Tolerance: your body gets USED to it, needs MORE!",
+      "imageUrl": "topic:consciousness",
+      "tags": [
+        "psychology",
+        "ap",
+        "consciousness"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_042",
+      "question": "In classical conditioning, the unconditioned stimulus...",
+      "correctAnswer": "naturally triggers a response without learning",
+      "distractors": [
+        "is learned through association",
+        "appears after conditioning",
+        "replaces the conditioned stimulus"
+      ],
+      "explanation": "For example, food naturally causes salivation with no training needed.",
+      "memoryHook": "T-Rexy says: Unconditioned equals UN-learned, automatic like food making you drool!",
+      "imageUrl": "topic:learning",
+      "tags": [
+        "psychology",
+        "ap",
+        "learning"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_043",
+      "question": "In Pavlov's experiment, the bell became the...",
+      "correctAnswer": "conditioned stimulus",
+      "distractors": [
+        "unconditioned stimulus",
+        "conditioned response",
+        "unconditioned response"
+      ],
+      "explanation": "The neutral bell was paired with food until it triggered salivation alone.",
+      "memoryHook": "T-Rexy says: The bell LEARNED to mean food - that's conditioning!",
+      "imageUrl": "topic:learning",
+      "tags": [
+        "psychology",
+        "ap",
+        "learning"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_044",
+      "question": "Positive reinforcement...",
+      "correctAnswer": "adds a pleasant stimulus to increase behavior",
+      "distractors": [
+        "removes an unpleasant stimulus",
+        "adds an unpleasant stimulus",
+        "removes a pleasant stimulus"
+      ],
+      "explanation": "For example, praise for good grades makes studying more likely.",
+      "memoryHook": "T-Rexy says: Positive reinforcement: ADD something GOOD, behavior grows!",
+      "imageUrl": "topic:learning",
+      "tags": [
+        "psychology",
+        "ap",
+        "learning"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_045",
+      "question": "Negative reinforcement...",
+      "correctAnswer": "removes an unpleasant stimulus to increase behavior",
+      "distractors": [
+        "adds pain to decrease behavior",
+        "removes a reward to decrease behavior",
+        "adds a reward after a delay"
+      ],
+      "explanation": "Taking aspirin removes a headache, so you take it again. This is NOT punishment.",
+      "memoryHook": "T-Rexy says: Negative reinforcement: TAKE AWAY the bad, behavior grows! (Not punishment!)",
+      "imageUrl": "topic:learning",
+      "tags": [
+        "psychology",
+        "ap",
+        "learning"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_046",
+      "question": "A continuous reinforcement schedule...",
+      "correctAnswer": "rewards every correct response",
+      "distractors": [
+        "rewards unpredictably",
+        "rewards after a fixed time",
+        "rewards the first response only"
+      ],
+      "explanation": "Continuous reinforcement produces the fastest learning but also the fastest extinction.",
+      "memoryHook": "T-Rexy says: Continuous: EVERY time gets a treat, like training a puppy!",
+      "imageUrl": "topic:learning",
+      "tags": [
+        "psychology",
+        "ap",
+        "learning"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_047",
+      "question": "A variable-ratio schedule produces...",
+      "correctAnswer": "high, steady response rates resistant to extinction",
+      "distractors": [
+        "low response rates with pauses",
+        "fast learning but quick extinction",
+        "responses only at set times"
+      ],
+      "explanation": "Slot machines use variable-ratio schedules, keeping gamblers playing.",
+      "memoryHook": "T-Rexy says: Variable ratio equals slot machine, UNPREDICTABLE wins keep you pulling!",
+      "imageUrl": "topic:learning",
+      "tags": [
+        "psychology",
+        "ap",
+        "learning"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_048",
+      "question": "Punishment...",
+      "correctAnswer": "decreases the likelihood of a behavior",
+      "distractors": [
+        "increases desired behavior",
+        "is the same as negative reinforcement",
+        "always involves physical pain"
+      ],
+      "explanation": "Punishment adds something aversive or removes something pleasant.",
+      "memoryHook": "T-Rexy says: Punishment makes behavior GO DOWN, like a penalty!",
+      "imageUrl": "topic:learning",
+      "tags": [
+        "psychology",
+        "ap",
+        "learning"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_049",
+      "question": "Observational learning occurs when...",
+      "correctAnswer": "behavior is acquired by watching others",
+      "distractors": [
+        "animals learn through trial and error",
+        "responses are reinforced directly",
+        "stimuli are paired repeatedly"
+      ],
+      "explanation": "Bandura's Bobo doll experiment demonstrated learning by observation.",
+      "memoryHook": "T-Rexy says: Observational learning: MONKEY SEE, monkey do!",
+      "imageUrl": "topic:learning",
+      "tags": [
+        "psychology",
+        "ap",
+        "learning"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_050",
+      "question": "Latent learning is...",
+      "correctAnswer": "learning that occurs without obvious reinforcement and is not immediately demonstrated",
+      "distractors": [
+        "learning that requires constant rewards",
+        "forgetting due to interference",
+        "learning only through punishment"
+      ],
+      "explanation": "Tolman's rats formed cognitive maps without rewards.",
+      "memoryHook": "T-Rexy says: Latent learning equals HIDDEN learning, you know it but don't show it yet!",
+      "imageUrl": "topic:learning",
+      "tags": [
+        "psychology",
+        "ap",
+        "learning"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_051",
+      "question": "Extinction in operant conditioning occurs when...",
+      "correctAnswer": "reinforcement is stopped and the behavior decreases",
+      "distractors": [
+        "punishment is applied too harshly",
+        "a new behavior is shaped",
+        "the subject is removed from the situation"
+      ],
+      "explanation": "Without rewards, the learned behavior gradually fades away.",
+      "memoryHook": "T-Rexy says: Extinction: no more treats, the trick FADES away!",
+      "imageUrl": "topic:learning",
+      "tags": [
+        "psychology",
+        "ap",
+        "learning"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_052",
+      "question": "Short-term memory has a capacity of about...",
+      "correctAnswer": "7 (plus or minus 2) items",
+      "distractors": [
+        "unlimited items",
+        "2 to 3 items",
+        "50 items"
+      ],
+      "explanation": "Miller's magic number describes short-term memory limits.",
+      "memoryHook": "T-Rexy says: Short-term memory: about SEVEN chunks, like a phone number!",
+      "imageUrl": "topic:cognition",
+      "tags": [
+        "psychology",
+        "ap",
+        "cognition"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_053",
+      "question": "Chunking improves memory by...",
+      "correctAnswer": "grouping items into meaningful units",
+      "distractors": [
+        "repeating items loudly",
+        "visualizing each item separately",
+        "writing items down"
+      ],
+      "explanation": "Chunking expands the effective capacity of short-term memory.",
+      "memoryHook": "T-Rexy says: Chunking: bundle it up, like packing a suitcase neatly!",
+      "imageUrl": "topic:cognition",
+      "tags": [
+        "psychology",
+        "ap",
+        "cognition"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_054",
+      "question": "The serial position effect shows...",
+      "correctAnswer": "better recall for first and last items in a list",
+      "distractors": [
+        "equal recall for all positions",
+        "better recall for middle items",
+        "worse recall with repetition"
+      ],
+      "explanation": "The primacy and recency effects explain this pattern.",
+      "memoryHook": "T-Rexy says: Serial position: remember the START and END, forget the middle!",
+      "imageUrl": "topic:cognition",
+      "tags": [
+        "psychology",
+        "ap",
+        "cognition"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_055",
+      "question": "Proactive interference occurs when...",
+      "correctAnswer": "old information disrupts recall of new information",
+      "distractors": [
+        "new information disrupts old memories",
+        "memories fade over time",
+        "retrieval cues are missing"
+      ],
+      "explanation": "Previously learned material blocks newer learning.",
+      "memoryHook": "T-Rexy says: Proactive: the PAST bullies the present, old info blocks new!",
+      "imageUrl": "topic:cognition",
+      "tags": [
+        "psychology",
+        "ap",
+        "cognition"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_056",
+      "question": "An algorithm is...",
+      "correctAnswer": "a step-by-step procedure guaranteeing a solution",
+      "distractors": [
+        "a shortcut that may fail",
+        "a guess based on intuition",
+        "a memory aid"
+      ],
+      "explanation": "Algorithms are systematic and reliable but often slow.",
+      "memoryHook": "T-Rexy says: Algorithm: follow EVERY step, guaranteed answer (eventually)!",
+      "imageUrl": "topic:cognition",
+      "tags": [
+        "psychology",
+        "ap",
+        "cognition"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_057",
+      "question": "A heuristic is...",
+      "correctAnswer": "a mental shortcut that is fast but can err",
+      "distractors": [
+        "a guaranteed solution method",
+        "a type of long-term memory",
+        "a formal logic rule"
+      ],
+      "explanation": "Heuristics like availability speed up thinking but cause biases.",
+      "memoryHook": "T-Rexy says: Heuristic: quick THINKING shortcut, fast but sometimes wrong!",
+      "imageUrl": "topic:cognition",
+      "tags": [
+        "psychology",
+        "ap",
+        "cognition"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_058",
+      "question": "Functional fixedness is...",
+      "correctAnswer": "thinking of objects only in their usual functions",
+      "distractors": [
+        "being unable to form concepts",
+        "rigid moral reasoning",
+        "fixating on one memory"
+      ],
+      "explanation": "It blocks creative problem solving with familiar objects.",
+      "memoryHook": "T-Rexy says: Functional fixedness: stuck seeing a spoon ONLY as a spoon!",
+      "imageUrl": "topic:cognition",
+      "tags": [
+        "psychology",
+        "ap",
+        "cognition"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_059",
+      "question": "The availability heuristic leads people to...",
+      "correctAnswer": "overestimate events that are memorable or recent",
+      "distractors": [
+        "underestimate all risks",
+        "ignore base rates correctly",
+        "make perfectly rational choices"
+      ],
+      "explanation": "Vivid news coverage makes rare events seem common.",
+      "memoryHook": "T-Rexy says: Availability: if it's EASY to remember, you think it's COMMON!",
+      "imageUrl": "topic:cognition",
+      "tags": [
+        "psychology",
+        "ap",
+        "cognition"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_060",
+      "question": "Divergent thinking is associated with...",
+      "correctAnswer": "creativity",
+      "distractors": [
+        "convergent problem solving",
+        "rote memorization",
+        "logical deduction"
+      ],
+      "explanation": "Divergent thinking generates many possible solutions.",
+      "memoryHook": "T-Rexy says: Divergent: DIVERGE into many creative ideas!",
+      "imageUrl": "topic:cognition",
+      "tags": [
+        "psychology",
+        "ap",
+        "cognition"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_061",
+      "question": "Language acquisition is easiest during...",
+      "correctAnswer": "a critical period in early childhood",
+      "distractors": [
+        "adolescence",
+        "adulthood",
+        "old age"
+      ],
+      "explanation": "Children acquire language effortlessly during a sensitive period.",
+      "memoryHook": "T-Rexy says: Critical period: little kids soak up language like SPONGES!",
+      "imageUrl": "topic:cognition",
+      "tags": [
+        "psychology",
+        "ap",
+        "cognition"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_062",
+      "question": "Maslow's hierarchy places... at the base.",
+      "correctAnswer": "physiological needs",
+      "distractors": [
+        "self-actualization",
+        "esteem needs",
+        "safety needs"
+      ],
+      "explanation": "Basic needs like food and water must be met before higher needs.",
+      "memoryHook": "T-Rexy says: Maslow's pyramid: FOOD and water FIRST, dreams later!",
+      "imageUrl": "topic:motivation-emotion",
+      "tags": [
+        "psychology",
+        "ap",
+        "motivation-emotion"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_063",
+      "question": "According to drive-reduction theory, motivation arises from...",
+      "correctAnswer": "the need to restore homeostasis",
+      "distractors": [
+        "external rewards only",
+        "unconscious conflicts",
+        "cognitive expectations"
+      ],
+      "explanation": "Hunger creates a drive that eating reduces.",
+      "memoryHook": "T-Rexy says: Drive reduction: fix the IMBALANCE, like eating when hungry!",
+      "imageUrl": "topic:motivation-emotion",
+      "tags": [
+        "psychology",
+        "ap",
+        "motivation-emotion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_064",
+      "question": "The James-Lange theory states that...",
+      "correctAnswer": "physiological arousal comes before the emotion",
+      "distractors": [
+        "emotion comes before arousal",
+        "cognition determines emotion",
+        "arousal and emotion are simultaneous"
+      ],
+      "explanation": "'I am trembling, therefore I am afraid' summarizes this theory.",
+      "memoryHook": "T-Rexy says: James-Lange: body FIRST, then feeling - 'I'm shaking so I must be scared!'",
+      "imageUrl": "topic:motivation-emotion",
+      "tags": [
+        "psychology",
+        "ap",
+        "motivation-emotion"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_065",
+      "question": "The Schachter-Singer two-factor theory says emotion requires...",
+      "correctAnswer": "arousal plus a cognitive label",
+      "distractors": [
+        "arousal alone",
+        "cognition alone",
+        "unconscious processing"
+      ],
+      "explanation": "The same arousal can be labeled as different emotions depending on context.",
+      "memoryHook": "T-Rexy says: Two-factor: racing heart plus LABEL equals emotion. Context decides!",
+      "imageUrl": "topic:motivation-emotion",
+      "tags": [
+        "psychology",
+        "ap",
+        "motivation-emotion"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_066",
+      "question": "Intrinsic motivation comes from...",
+      "correctAnswer": "internal satisfaction in the activity itself",
+      "distractors": [
+        "money or prizes",
+        "avoiding punishment",
+        "social approval"
+      ],
+      "explanation": "Doing something for its own sake is intrinsically motivating.",
+      "memoryHook": "T-Rexy says: Intrinsic: INSIDE joy, you do it because you LOVE it!",
+      "imageUrl": "topic:motivation-emotion",
+      "tags": [
+        "psychology",
+        "ap",
+        "motivation-emotion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_067",
+      "question": "The general adaptation syndrome (GAS) describes...",
+      "correctAnswer": "the body's three-stage response to stress",
+      "distractors": [
+        "the stages of sleep",
+        "the phases of memory",
+        "the levels of moral reasoning"
+      ],
+      "explanation": "Selye identified alarm, resistance, and exhaustion stages.",
+      "memoryHook": "T-Rexy says: GAS: Alarm! Resist! Exhausted! Your body's stress story!",
+      "imageUrl": "topic:motivation-emotion",
+      "tags": [
+        "psychology",
+        "ap",
+        "motivation-emotion"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_068",
+      "question": "An approach-avoidance conflict involves...",
+      "correctAnswer": "one goal with both positive and negative aspects",
+      "distractors": [
+        "two equally attractive goals",
+        "two equally unattractive goals",
+        "no possible resolution"
+      ],
+      "explanation": "For example, wanting cake but fearing weight gain.",
+      "memoryHook": "T-Rexy says: Approach-avoidance: WANT it but FEAR it, like cake on a diet!",
+      "imageUrl": "topic:motivation-emotion",
+      "tags": [
+        "psychology",
+        "ap",
+        "motivation-emotion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_069",
+      "question": "Piaget's sensorimotor stage is characterized by...",
+      "correctAnswer": "object permanence development",
+      "distractors": [
+        "abstract reasoning",
+        "conservation mastery",
+        "hypothetical thinking"
+      ],
+      "explanation": "From birth to about age 2, infants learn objects exist when hidden.",
+      "memoryHook": "T-Rexy says: Sensorimotor: peek-a-boo! Learning things EXIST when hidden!",
+      "imageUrl": "topic:development",
+      "tags": [
+        "psychology",
+        "ap",
+        "development"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_070",
+      "question": "According to Piaget, egocentrism is most prominent in the...",
+      "correctAnswer": "preoperational stage",
+      "distractors": [
+        "sensorimotor stage",
+        "concrete operational stage",
+        "formal operational stage"
+      ],
+      "explanation": "Children ages 2 to 7 struggle to take others' perspectives.",
+      "memoryHook": "T-Rexy says: Preoperational: it's ALL about ME, egocentrism rules!",
+      "imageUrl": "topic:development",
+      "tags": [
+        "psychology",
+        "ap",
+        "development"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_071",
+      "question": "Erikson's first psychosocial crisis is...",
+      "correctAnswer": "trust vs. mistrust",
+      "distractors": [
+        "identity vs. role confusion",
+        "industry vs. inferiority",
+        "integrity vs. despair"
+      ],
+      "explanation": "In infancy, babies learn whether the world is safe and reliable.",
+      "memoryHook": "T-Rexy says: Trust vs mistrust: can baby TRUST the world? First crisis!",
+      "imageUrl": "topic:development",
+      "tags": [
+        "psychology",
+        "ap",
+        "development"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_072",
+      "question": "Erikson's stage for adolescence is...",
+      "correctAnswer": "identity vs. role confusion",
+      "distractors": [
+        "intimacy vs. isolation",
+        "generativity vs. stagnation",
+        "autonomy vs. shame"
+      ],
+      "explanation": "Teenagers wrestle with the question 'Who am I?'",
+      "memoryHook": "T-Rexy says: Identity vs role confusion: WHO AM I? The teen question!",
+      "imageUrl": "topic:development",
+      "tags": [
+        "psychology",
+        "ap",
+        "development"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_073",
+      "question": "Kohlberg's preconventional morality is based on...",
+      "correctAnswer": "rewards and punishments",
+      "distractors": [
+        "social approval",
+        "universal principles",
+        "maintaining social order"
+      ],
+      "explanation": "At this level, right and wrong depend on consequences.",
+      "memoryHook": "T-Rexy says: Preconventional: what's in it for ME? Avoid punishment!",
+      "imageUrl": "topic:development",
+      "tags": [
+        "psychology",
+        "ap",
+        "development"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_074",
+      "question": "Secure attachment is associated with...",
+      "correctAnswer": "responsive caregiving",
+      "distractors": [
+        "inconsistent caregiving",
+        "neglectful parenting",
+        "overprotective parenting"
+      ],
+      "explanation": "Ainsworth's strange situation research showed this link.",
+      "memoryHook": "T-Rexy says: Secure attachment: reliable caregiver, baby feels SAFE to explore!",
+      "imageUrl": "topic:development",
+      "tags": [
+        "psychology",
+        "ap",
+        "development"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_075",
+      "question": "The zone of proximal development (Vygotsky) refers to...",
+      "correctAnswer": "tasks a child can do with guidance but not alone",
+      "distractors": [
+        "tasks mastered independently",
+        "skills that will never develop",
+        "the difference between IQ scores"
+      ],
+      "explanation": "Scaffolding from others helps children reach this zone.",
+      "memoryHook": "T-Rexy says: Zone of proximal development: ALMOST can do it, just needs a boost!",
+      "imageUrl": "topic:development",
+      "tags": [
+        "psychology",
+        "ap",
+        "development"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_076",
+      "question": "Fluid intelligence...",
+      "correctAnswer": "involves reasoning and peaks in young adulthood, then declines",
+      "distractors": [
+        "increases throughout life",
+        "is the same as crystallized intelligence",
+        "depends only on education"
+      ],
+      "explanation": "Crystallized intelligence (knowledge) keeps growing with age.",
+      "memoryHook": "T-Rexy says: Fluid: FLEXIBLE thinking, peaks young then slowly fades!",
+      "imageUrl": "topic:development",
+      "tags": [
+        "psychology",
+        "ap",
+        "development"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_077",
+      "question": "Freud's id operates on the...",
+      "correctAnswer": "pleasure principle",
+      "distractors": [
+        "reality principle",
+        "morality principle",
+        "logic principle"
+      ],
+      "explanation": "The id seeks immediate gratification of desires.",
+      "memoryHook": "T-Rexy says: Id: the PLEASURE-seeking baby inside, wants it NOW!",
+      "imageUrl": "topic:personality",
+      "tags": [
+        "psychology",
+        "ap",
+        "personality"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_078",
+      "question": "The superego represents...",
+      "correctAnswer": "internalized moral standards",
+      "distractors": [
+        "rational decision-making",
+        "primitive desires",
+        "defense mechanisms"
+      ],
+      "explanation": "The superego acts as the conscience.",
+      "memoryHook": "T-Rexy says: Superego: your inner JUDGE, the moral voice!",
+      "imageUrl": "topic:personality",
+      "tags": [
+        "psychology",
+        "ap",
+        "personality"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_079",
+      "question": "Projection as a defense mechanism involves...",
+      "correctAnswer": "attributing your own feelings to others",
+      "distractors": [
+        "refusing to acknowledge reality",
+        "returning to childlike behavior",
+        "channeling impulses into work"
+      ],
+      "explanation": "For example, an angry person accuses others of being hostile.",
+      "memoryHook": "T-Rexy says: Projection: PROJECT your feelings onto others, like a movie!",
+      "imageUrl": "topic:personality",
+      "tags": [
+        "psychology",
+        "ap",
+        "personality"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_080",
+      "question": "The Big Five trait of conscientiousness describes someone who is...",
+      "correctAnswer": "organized and disciplined",
+      "distractors": [
+        "outgoing and sociable",
+        "anxious and moody",
+        "curious and creative"
+      ],
+      "explanation": "The OCEAN model includes openness, conscientiousness, extraversion, agreeableness, neuroticism.",
+      "memoryHook": "T-Rexy says: Conscientiousness: CONSCIENTIOUS planner, organized and reliable!",
+      "imageUrl": "topic:personality",
+      "tags": [
+        "psychology",
+        "ap",
+        "personality"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_081",
+      "question": "Humanistic psychologists like Rogers emphasized...",
+      "correctAnswer": "self-actualization and unconditional positive regard",
+      "distractors": [
+        "unconscious conflicts",
+        "genetic determinants",
+        "conditioned responses"
+      ],
+      "explanation": "Rogers believed people have an innate drive to grow.",
+      "memoryHook": "T-Rexy says: Humanistic: HUMANS can grow! Unconditional acceptance helps!",
+      "imageUrl": "topic:personality",
+      "tags": [
+        "psychology",
+        "ap",
+        "personality"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_082",
+      "question": "A projective test like the Rorschach...",
+      "correctAnswer": "presents ambiguous stimuli to reveal unconscious processes",
+      "distractors": [
+        "has clear right answers",
+        "measures IQ directly",
+        "is highly reliable"
+      ],
+      "explanation": "Inkblot responses are interpreted, but reliability is debated.",
+      "memoryHook": "T-Rexy says: Projective: PROJECT your mind onto inkblots, ambiguous by design!",
+      "imageUrl": "topic:personality",
+      "tags": [
+        "psychology",
+        "ap",
+        "personality"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_083",
+      "question": "Self-efficacy (Bandura) refers to...",
+      "correctAnswer": "belief in one's ability to succeed",
+      "distractors": [
+        "overall self-esteem",
+        "unconscious self-image",
+        "social popularity"
+      ],
+      "explanation": "Strong self-efficacy predicts persistence after setbacks.",
+      "memoryHook": "T-Rexy says: Self-efficacy: 'I CAN do this!' belief powers success!",
+      "imageUrl": "topic:personality",
+      "tags": [
+        "psychology",
+        "ap",
+        "personality"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_084",
+      "question": "Generalized anxiety disorder is characterized by...",
+      "correctAnswer": "persistent, excessive worry",
+      "distractors": [
+        "sudden panic attacks only",
+        "specific phobias",
+        "obsessive rituals"
+      ],
+      "explanation": "The worry is free-floating and hard to control.",
+      "memoryHook": "T-Rexy says: Generalized anxiety: worry about EVERYTHING, all the time!",
+      "imageUrl": "topic:abnormal",
+      "tags": [
+        "psychology",
+        "ap",
+        "abnormal"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_085",
+      "question": "Major depressive disorder must include...",
+      "correctAnswer": "depressed mood or loss of interest for at least two weeks",
+      "distractors": [
+        "hallucinations",
+        "manic episodes",
+        "dissociative episodes"
+      ],
+      "explanation": "DSM criteria require a two-week minimum duration.",
+      "memoryHook": "T-Rexy says: Depression: TWO WEEKS of deep sadness or emptiness!",
+      "imageUrl": "topic:abnormal",
+      "tags": [
+        "psychology",
+        "ap",
+        "abnormal"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_086",
+      "question": "Schizophrenia's positive symptoms include...",
+      "correctAnswer": "hallucinations and delusions",
+      "distractors": [
+        "flat affect only",
+        "social withdrawal only",
+        "lack of motivation"
+      ],
+      "explanation": "Positive symptoms add abnormal experiences; negative symptoms remove normal ones.",
+      "memoryHook": "T-Rexy says: Positive symptoms: ADDED weirdness, like hearing voices!",
+      "imageUrl": "topic:abnormal",
+      "tags": [
+        "psychology",
+        "ap",
+        "abnormal"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_087",
+      "question": "The diathesis-stress model proposes that disorders result from...",
+      "correctAnswer": "genetic vulnerability plus environmental stress",
+      "distractors": [
+        "stress alone",
+        "genes alone",
+        "poor parenting alone"
+      ],
+      "explanation": "Both a predisposition and a trigger are needed.",
+      "memoryHook": "T-Rexy says: Diathesis-stress: loaded GUN (genes) plus trigger (stress)!",
+      "imageUrl": "topic:abnormal",
+      "tags": [
+        "psychology",
+        "ap",
+        "abnormal"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_088",
+      "question": "Systematic desensitization is used to treat...",
+      "correctAnswer": "phobias",
+      "distractors": [
+        "schizophrenia",
+        "bipolar disorder",
+        "dissociative disorders"
+      ],
+      "explanation": "It pairs gradual exposure with relaxation techniques.",
+      "memoryHook": "T-Rexy says: Systematic desensitization: baby STEPS facing your fear!",
+      "imageUrl": "topic:abnormal",
+      "tags": [
+        "psychology",
+        "ap",
+        "abnormal"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_089",
+      "question": "Cognitive-behavioral therapy focuses on...",
+      "correctAnswer": "changing maladaptive thoughts and behaviors",
+      "distractors": [
+        "exploring childhood memories",
+        "prescribing medication",
+        "interpreting dreams"
+      ],
+      "explanation": "CBT is present-focused and evidence-based.",
+      "memoryHook": "T-Rexy says: CBT: fix your THOUGHTS, fix your life!",
+      "imageUrl": "topic:abnormal",
+      "tags": [
+        "psychology",
+        "ap",
+        "abnormal"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_090",
+      "question": "Antidepressant medications primarily affect...",
+      "correctAnswer": "serotonin and norepinephrine levels",
+      "distractors": [
+        "dopamine only",
+        "GABA only",
+        "acetylcholine only"
+      ],
+      "explanation": "SSRIs increase serotonin availability in the synapse.",
+      "memoryHook": "T-Rexy says: Antidepressants: boost the MOOD chemicals!",
+      "imageUrl": "topic:abnormal",
+      "tags": [
+        "psychology",
+        "ap",
+        "abnormal"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_091",
+      "question": "The Rosenhan study ('On Being Sane in Insane Places') demonstrated...",
+      "correctAnswer": "the unreliability of psychiatric diagnosis",
+      "distractors": [
+        "the effectiveness of therapy",
+        "genetic causes of schizophrenia",
+        "brain differences in patients"
+      ],
+      "explanation": "Healthy pseudopatients were admitted with schizophrenia diagnoses.",
+      "memoryHook": "T-Rexy says: Rosenhan: fakers got LABELED crazy, diagnoses can be WRONG!",
+      "imageUrl": "topic:abnormal",
+      "tags": [
+        "psychology",
+        "ap",
+        "abnormal"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_092",
+      "question": "Conformity is...",
+      "correctAnswer": "adjusting behavior to match a group",
+      "distractors": [
+        "obeying an authority figure",
+        "helping without reward",
+        "disliking outgroups"
+      ],
+      "explanation": "Asch's line studies showed people conform to wrong answers.",
+      "memoryHook": "T-Rexy says: Conformity: go along with the GROUP, like Asch's lines!",
+      "imageUrl": "topic:social",
+      "tags": [
+        "psychology",
+        "ap",
+        "social"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_093",
+      "question": "Milgram's obedience study showed...",
+      "correctAnswer": "most people obeyed authority even when harming others",
+      "distractors": [
+        "people rarely obey orders",
+        "conformity is stronger than obedience",
+        "authority has little influence"
+      ],
+      "explanation": "About 65 percent delivered the maximum shock.",
+      "memoryHook": "T-Rexy says: Milgram: SHOCKING obedience, people followed orders!",
+      "imageUrl": "topic:social",
+      "tags": [
+        "psychology",
+        "ap",
+        "social"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_094",
+      "question": "The fundamental attribution error is...",
+      "correctAnswer": "overemphasizing personality and underemphasizing situations",
+      "distractors": [
+        "blaming situations for others' behavior",
+        "accurately judging personality",
+        "attributing success to luck"
+      ],
+      "explanation": "We blame others' character but excuse our own behavior situationally.",
+      "memoryHook": "T-Rexy says: Fundamental attribution error: blame THEIR character, ignore the SITUATION!",
+      "imageUrl": "topic:social",
+      "tags": [
+        "psychology",
+        "ap",
+        "social"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_095",
+      "question": "The bystander effect states that...",
+      "correctAnswer": "people are less likely to help when others are present",
+      "distractors": [
+        "crowds always help quickly",
+        "individuals never help strangers",
+        "help increases with crowd size"
+      ],
+      "explanation": "Diffusion of responsibility explains this pattern.",
+      "memoryHook": "T-Rexy says: Bystander effect: everyone WAITS, nobody helps!",
+      "imageUrl": "topic:social",
+      "tags": [
+        "psychology",
+        "ap",
+        "social"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_096",
+      "question": "Cognitive dissonance is...",
+      "correctAnswer": "discomfort from holding conflicting beliefs",
+      "distractors": [
+        "agreement within a group",
+        "memory loss under stress",
+        "inability to make decisions"
+      ],
+      "explanation": "Festinger showed people change attitudes to reduce dissonance.",
+      "memoryHook": "T-Rexy says: Cognitive dissonance: mental CLASH, your brain hates contradiction!",
+      "imageUrl": "topic:social",
+      "tags": [
+        "psychology",
+        "ap",
+        "social"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_097",
+      "question": "The foot-in-the-door technique...",
+      "correctAnswer": "starts with a small request, then a larger one",
+      "distractors": [
+        "starts with a large then smaller request",
+        "uses threats to gain compliance",
+        "relies on authority figures"
+      ],
+      "explanation": "Agreeing to a small request increases commitment to a bigger one.",
+      "memoryHook": "T-Rexy says: Foot in the door: small YES leads to BIG yes!",
+      "imageUrl": "topic:social",
+      "tags": [
+        "psychology",
+        "ap",
+        "social"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_098",
+      "question": "Prejudice is...",
+      "correctAnswer": "a negative attitude toward a group",
+      "distractors": [
+        "negative behavior toward a group",
+        "positive stereotyping",
+        "accurate generalization"
+      ],
+      "explanation": "Prejudice is the attitude; discrimination is the behavior.",
+      "memoryHook": "T-Rexy says: Prejudice: PRE-JUDGE with a bad attitude!",
+      "imageUrl": "topic:social",
+      "tags": [
+        "psychology",
+        "ap",
+        "social"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_099",
+      "question": "Groupthink occurs when...",
+      "correctAnswer": "desire for harmony overrides critical thinking",
+      "distractors": [
+        "groups make better decisions",
+        "leaders encourage dissent",
+        "members vote anonymously"
+      ],
+      "explanation": "Janis studied groupthink in the Bay of Pigs decision.",
+      "memoryHook": "T-Rexy says: Groupthink: harmony KILLS good thinking, nobody disagrees!",
+      "imageUrl": "topic:social",
+      "tags": [
+        "psychology",
+        "ap",
+        "social"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "EPSY_100",
+      "question": "The mere exposure effect shows...",
+      "correctAnswer": "repeated exposure increases liking",
+      "distractors": [
+        "novelty is always preferred",
+        "familiarity breeds contempt",
+        "first impressions never change"
+      ],
+      "explanation": "Zajonc demonstrated this with repeated stimuli.",
+      "memoryHook": "T-Rexy says: Mere exposure: see it ENOUGH, you start to LIKE it!",
+      "imageUrl": "topic:social",
+      "tags": [
+        "psychology",
+        "ap",
+        "social"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

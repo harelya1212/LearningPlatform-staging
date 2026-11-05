@@ -1,0 +1,1969 @@
+{
+  "packId": "ella-ap-english-lit",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-04",
+  "tags": [
+    "english",
+    "literature",
+    "ap",
+    "12th"
+  ],
+  "questions": [
+    {
+      "id": "ELIT_001",
+      "question": "What is a simile?",
+      "correctAnswer": "A comparison using like or as",
+      "distractors": [
+        "A comparison without like or as",
+        "Giving human traits to objects",
+        "An extreme exaggeration"
+      ],
+      "explanation": "A simile compares two unlike things using the words like or as, for example her smile was like sunshine.",
+      "memoryHook": "T-Rexy says: like or as is the simile clue - spot those words and you have got it.",
+      "imageUrl": "topic:simile",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_002",
+      "question": "What is a metaphor?",
+      "correctAnswer": "A direct comparison without using like or as",
+      "distractors": [
+        "A comparison using like or as",
+        "A word that imitates a sound",
+        "Repeating consonant sounds"
+      ],
+      "explanation": "A metaphor states that one thing IS another, for example he is a rock, without using like or as.",
+      "memoryHook": "T-Rexy says: no like, no as - the metaphor just says it IS.",
+      "imageUrl": "topic:metaphor",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_003",
+      "question": "Who wrote the play Romeo and Juliet?",
+      "correctAnswer": "William Shakespeare",
+      "distractors": [
+        "Christopher Marlowe",
+        "Ben Jonson",
+        "John Milton"
+      ],
+      "explanation": "William Shakespeare wrote Romeo and Juliet around 1595, one of his most famous tragedies.",
+      "memoryHook": "T-Rexy says: Shakespeare equals star-crossed lovers - lock it in.",
+      "imageUrl": "topic:shakespeare",
+      "tags": [
+        "drama",
+        "authors"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_004",
+      "question": "What is the protagonist of a story?",
+      "correctAnswer": "The main character",
+      "distractors": [
+        "The character who opposes the hero",
+        "The narrator of the story",
+        "A minor supporting character"
+      ],
+      "explanation": "The protagonist is the central character around whom the story revolves.",
+      "memoryHook": "T-Rexy says: the protagonist is the star of the show.",
+      "imageUrl": "topic:protagonist",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_005",
+      "question": "In poetry, what is a stanza?",
+      "correctAnswer": "A grouped set of lines, like a paragraph in prose",
+      "distractors": [
+        "A single line of poetry",
+        "The rhyme at the end of lines",
+        "The rhythm pattern of a poem"
+      ],
+      "explanation": "A stanza is a grouped set of lines in a poem, separated by blank lines, similar to a paragraph in prose.",
+      "memoryHook": "T-Rexy says: stanza equals poetry paragraph.",
+      "imageUrl": "topic:stanza",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_006",
+      "question": "Who wrote The Great Gatsby?",
+      "correctAnswer": "F. Scott Fitzgerald",
+      "distractors": [
+        "Ernest Hemingway",
+        "John Steinbeck",
+        "William Faulkner"
+      ],
+      "explanation": "F. Scott Fitzgerald published The Great Gatsby in 1925, a defining novel of the Jazz Age.",
+      "memoryHook": "T-Rexy says: Fitzgerald plus Gatsby - Jazz Age pair.",
+      "imageUrl": "topic:gatsby",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_007",
+      "question": "What is personification?",
+      "correctAnswer": "Giving human qualities to non-human things",
+      "distractors": [
+        "Comparing with like or as",
+        "An extreme exaggeration",
+        "A reference to another work"
+      ],
+      "explanation": "Personification gives human traits, feelings, or actions to animals, objects, or ideas, like the wind whispered.",
+      "memoryHook": "T-Rexy says: if it cannot be human but acts human, that is personification.",
+      "imageUrl": "topic:personification",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_008",
+      "question": "What is alliteration?",
+      "correctAnswer": "The repetition of initial consonant sounds in nearby words",
+      "distractors": [
+        "The repetition of vowel sounds",
+        "Words that imitate sounds",
+        "A contrast of opposites"
+      ],
+      "explanation": "Alliteration repeats the beginning consonant sounds of nearby words, like Peter Piper picked.",
+      "memoryHook": "T-Rexy says: same starting sound, side by side - alliteration.",
+      "imageUrl": "topic:alliteration",
+      "tags": [
+        "literary-devices",
+        "poetry"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_009",
+      "question": "Who wrote To Kill a Mockingbird?",
+      "correctAnswer": "Harper Lee",
+      "distractors": [
+        "Flannery OConnor",
+        "Toni Morrison",
+        "Eudora Welty"
+      ],
+      "explanation": "Harper Lee wrote To Kill a Mockingbird, published in 1960, winning the Pulitzer Prize.",
+      "memoryHook": "T-Rexy says: Harper Lee plus mockingbird - Southern classic.",
+      "imageUrl": "topic:mockingbird",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_010",
+      "question": "What is the theme of a literary work?",
+      "correctAnswer": "Its central message or underlying meaning",
+      "distractors": [
+        "The time and place of the story",
+        "The main character",
+        "The sequence of events"
+      ],
+      "explanation": "The theme is the central idea or message the author explores, such as the corrupting power of greed.",
+      "memoryHook": "T-Rexy says: theme equals the big message hiding inside the story.",
+      "imageUrl": "topic:theme",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_011",
+      "question": "What is hyperbole?",
+      "correctAnswer": "Extreme exaggeration for emphasis or humor",
+      "distractors": [
+        "A subtle understatement",
+        "A comparison using like",
+        "A serious moral lesson"
+      ],
+      "explanation": "Hyperbole is deliberate overstatement, like I have told you a million times, used for emphasis or comic effect.",
+      "memoryHook": "T-Rexy says: a million times equals hyperbole - the exaggeration gives it away.",
+      "imageUrl": "topic:hyperbole",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_012",
+      "question": "Who wrote the novel 1984?",
+      "correctAnswer": "George Orwell",
+      "distractors": [
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "Kurt Vonnegut"
+      ],
+      "explanation": "George Orwell wrote 1984, published in 1949, depicting a totalitarian surveillance state.",
+      "memoryHook": "T-Rexy says: Orwell plus Big Brother - 1984 is his.",
+      "imageUrl": "topic:1984",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_013",
+      "question": "What is a narrator?",
+      "correctAnswer": "The voice or character who tells the story",
+      "distractors": [
+        "The main villain",
+        "The author in real life",
+        "The person who edits the book"
+      ],
+      "explanation": "The narrator is the voice telling the story, which may be a character inside it or an outside observer.",
+      "memoryHook": "T-Rexy says: find who is talking - that is your narrator.",
+      "imageUrl": "topic:narrator",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_014",
+      "question": "What is imagery in literature?",
+      "correctAnswer": "Descriptive language that appeals to the senses",
+      "distractors": [
+        "A type of rhyme scheme",
+        "A chart showing the plot",
+        "The moral of the story"
+      ],
+      "explanation": "Imagery uses vivid sensory details - sight, sound, smell, taste, touch - to create pictures in the readers mind.",
+      "memoryHook": "T-Rexy says: if you can see it, hear it, or smell it in words, that is imagery.",
+      "imageUrl": "topic:imagery",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_015",
+      "question": "Who wrote Pride and Prejudice?",
+      "correctAnswer": "Jane Austen",
+      "distractors": [
+        "Charlotte Bronte",
+        "Emily Bronte",
+        "George Eliot"
+      ],
+      "explanation": "Jane Austen wrote Pride and Prejudice, published in 1813, her famous novel of manners.",
+      "memoryHook": "T-Rexy says: Austen plus Elizabeth Bennet - match made.",
+      "imageUrl": "topic:austen",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_016",
+      "question": "What is foreshadowing?",
+      "correctAnswer": "Hints or clues about what will happen later",
+      "distractors": [
+        "A flashback to earlier events",
+        "The final resolution",
+        "A characters backstory"
+      ],
+      "explanation": "Foreshadowing plants subtle hints early in a story that suggest later developments.",
+      "memoryHook": "T-Rexy says: a shadow cast forward - foreshadowing warns of what is coming.",
+      "imageUrl": "topic:foreshadowing",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_017",
+      "question": "What is the climax of a plot?",
+      "correctAnswer": "The turning point of greatest tension",
+      "distractors": [
+        "The opening scene",
+        "The background exposition",
+        "The final sentence"
+      ],
+      "explanation": "The climax is the peak of action and tension, the turning point after which the outcome becomes clear.",
+      "memoryHook": "T-Rexy says: climax equals the peak - everything climbs to it.",
+      "imageUrl": "topic:climax",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_018",
+      "question": "Who wrote Moby-Dick?",
+      "correctAnswer": "Herman Melville",
+      "distractors": [
+        "Nathaniel Hawthorne",
+        "Edgar Allan Poe",
+        "Mark Twain"
+      ],
+      "explanation": "Herman Melville wrote Moby-Dick in 1851, the epic tale of Captain Ahab and the white whale.",
+      "memoryHook": "T-Rexy says: Melville plus white whale - that is Moby-Dick.",
+      "imageUrl": "topic:moby-dick",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_019",
+      "question": "What is onomatopoeia?",
+      "correctAnswer": "A word that imitates the sound it names",
+      "distractors": [
+        "A word with opposite meanings",
+        "A repeated vowel sound",
+        "A hidden symbolic meaning"
+      ],
+      "explanation": "Onomatopoeia forms words from associated sounds, like buzz, hiss, or crash.",
+      "memoryHook": "T-Rexy says: hear the word and you hear the sound - onomatopoeia.",
+      "imageUrl": "topic:onomatopoeia",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_020",
+      "question": "What is a tragedy in drama?",
+      "correctAnswer": "A serious play ending in catastrophe for the protagonist",
+      "distractors": [
+        "A funny play with a happy ending",
+        "A short comic sketch",
+        "A musical performance"
+      ],
+      "explanation": "A tragedy is a serious drama in which the protagonist suffers a downfall, often ending in death.",
+      "memoryHook": "T-Rexy says: tragedy ends in tears, comedy ends in cheers.",
+      "imageUrl": "topic:tragedy",
+      "tags": [
+        "drama"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_021",
+      "question": "Who wrote The Catcher in the Rye?",
+      "correctAnswer": "J.D. Salinger",
+      "distractors": [
+        "Jack Kerouac",
+        "Ken Kesey",
+        "Joseph Heller"
+      ],
+      "explanation": "J.D. Salinger wrote The Catcher in the Rye in 1951, narrated by Holden Caulfield.",
+      "memoryHook": "T-Rexy says: Salinger plus Holden - catcher pair.",
+      "imageUrl": "topic:catcher-in-the-rye",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_022",
+      "question": "What is dialogue in a literary work?",
+      "correctAnswer": "Conversation between characters",
+      "distractors": [
+        "The authors personal diary",
+        "A description of scenery",
+        "The chapter titles"
+      ],
+      "explanation": "Dialogue is the written conversation between two or more characters in a story or play.",
+      "memoryHook": "T-Rexy says: quotation marks talking - that is dialogue.",
+      "imageUrl": "topic:dialogue",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_023",
+      "question": "What is the setting of a story?",
+      "correctAnswer": "Its time and place",
+      "distractors": [
+        "Its main conflict",
+        "Its moral lesson",
+        "Its chapter divisions"
+      ],
+      "explanation": "The setting establishes when and where the story takes place, shaping mood and context.",
+      "memoryHook": "T-Rexy says: setting equals when plus where.",
+      "imageUrl": "topic:setting",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_024",
+      "question": "Who wrote Frankenstein?",
+      "correctAnswer": "Mary Shelley",
+      "distractors": [
+        "Percy Shelley",
+        "Lord Byron",
+        "Bram Stoker"
+      ],
+      "explanation": "Mary Shelley wrote Frankenstein in 1818, the landmark Gothic novel of a created monster.",
+      "memoryHook": "T-Rexy says: Mary Shelley built the monster - remember her name.",
+      "imageUrl": "topic:frankenstein",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_025",
+      "question": "What is a symbol in literature?",
+      "correctAnswer": "An object or image that represents an idea",
+      "distractors": [
+        "A characters full name",
+        "The page number",
+        "A spelling error"
+      ],
+      "explanation": "A symbol is a concrete object, character, or image that stands for an abstract idea, like a dove for peace.",
+      "memoryHook": "T-Rexy says: the thing you see stands for something you cannot - that is a symbol.",
+      "imageUrl": "topic:symbol",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_026",
+      "question": "What is rhyme in poetry?",
+      "correctAnswer": "Repetition of similar sounds, usually at line ends",
+      "distractors": [
+        "Counting syllables per line",
+        "Writing without punctuation",
+        "Using only short words"
+      ],
+      "explanation": "Rhyme is the repetition of similar sounds in words, most often at the ends of poetic lines.",
+      "memoryHook": "T-Rexy says: cat plus hat - rhyme is that.",
+      "imageUrl": "topic:rhyme",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_027",
+      "question": "Who wrote Lord of the Flies?",
+      "correctAnswer": "William Golding",
+      "distractors": [
+        "George Orwell",
+        "Anthony Burgess",
+        "Aldous Huxley"
+      ],
+      "explanation": "William Golding wrote Lord of the Flies in 1954, about boys stranded on an island.",
+      "memoryHook": "T-Rexy says: Golding plus stranded boys - Lord of the Flies.",
+      "imageUrl": "topic:lord-of-the-flies",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_028",
+      "question": "What is an antagonist?",
+      "correctAnswer": "A character who opposes the protagonist",
+      "distractors": [
+        "The hero of the story",
+        "The narrator",
+        "A comic relief figure"
+      ],
+      "explanation": "The antagonist creates conflict by opposing the protagonist, though not always a villain.",
+      "memoryHook": "T-Rexy says: anti means against - the antagonist pushes against the hero.",
+      "imageUrl": "topic:antagonist",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_029",
+      "question": "What is irony?",
+      "correctAnswer": "A contrast between what is expected and what actually happens",
+      "distractors": [
+        "A type of metal",
+        "A happy coincidence",
+        "A long speech"
+      ],
+      "explanation": "Irony involves a gap between expectation and reality, such as a fire station burning down.",
+      "memoryHook": "T-Rexy says: expect one thing, get the opposite - that is irony.",
+      "imageUrl": "topic:irony",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_030",
+      "question": "Who wrote Jane Eyre?",
+      "correctAnswer": "Charlotte Bronte",
+      "distractors": [
+        "Emily Bronte",
+        "Anne Bronte",
+        "Jane Austen"
+      ],
+      "explanation": "Charlotte Bronte wrote Jane Eyre in 1847 under the pen name Currer Bell.",
+      "memoryHook": "T-Rexy says: Charlotte plus Jane Eyre - the eldest Bronte sister.",
+      "imageUrl": "topic:jane-eyre",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_031",
+      "question": "What is iambic pentameter?",
+      "correctAnswer": "A line of five iambs, each an unstressed then stressed syllable",
+      "distractors": [
+        "Five stressed syllables in a row",
+        "Ten lines per stanza",
+        "A poem with five rhymes"
+      ],
+      "explanation": "Iambic pentameter is a metrical line of five iambic feet, ten syllables alternating unstressed-stressed, as in Shakespeare.",
+      "memoryHook": "T-Rexy says: five iambs, da-DUM times five - iambic pentameter.",
+      "imageUrl": "topic:iambic-pentameter",
+      "tags": [
+        "poetry",
+        "meter"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_032",
+      "question": "What is the rhyme scheme of a Shakespearean sonnet?",
+      "correctAnswer": "ABAB CDCD EFEF GG",
+      "distractors": [
+        "ABBA ABBA CDE CDE",
+        "AABB CCDD EEFF GG",
+        "ABAB BCBC CDCD EE"
+      ],
+      "explanation": "A Shakespearean sonnet has three quatrains and a couplet rhyming ABAB CDCD EFEF GG.",
+      "memoryHook": "T-Rexy says: three fours plus a pair - ABAB CDCD EFEF GG.",
+      "imageUrl": "topic:sonnet",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_033",
+      "question": "What is dramatic irony?",
+      "correctAnswer": "When the audience knows something the characters do not",
+      "distractors": [
+        "A funny coincidence",
+        "An actor forgetting lines",
+        "A play with no dialogue"
+      ],
+      "explanation": "Dramatic irony occurs when readers or viewers know more than the characters, creating tension.",
+      "memoryHook": "T-Rexy says: you know it, they do not - dramatic irony.",
+      "imageUrl": "topic:dramatic-irony",
+      "tags": [
+        "literary-devices",
+        "drama"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_034",
+      "question": "Who wrote The Scarlet Letter?",
+      "correctAnswer": "Nathaniel Hawthorne",
+      "distractors": [
+        "Herman Melville",
+        "Edgar Allan Poe",
+        "Henry James"
+      ],
+      "explanation": "Nathaniel Hawthorne wrote The Scarlet Letter in 1850, set in Puritan New England.",
+      "memoryHook": "T-Rexy says: Hawthorne plus scarlet A - Puritan tale.",
+      "imageUrl": "topic:scarlet-letter",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_035",
+      "question": "What is stream of consciousness narration?",
+      "correctAnswer": "Writing that follows a characters uninterrupted flow of thoughts",
+      "distractors": [
+        "A narrator who shouts",
+        "Dialogue only, no description",
+        "A story told backwards"
+      ],
+      "explanation": "Stream of consciousness presents a characters thoughts as a continuous inner flow, used by Woolf and Joyce.",
+      "memoryHook": "T-Rexy says: thoughts flowing like a stream - stream of consciousness.",
+      "imageUrl": "topic:stream-of-consciousness",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_036",
+      "question": "Who wrote the novel Beloved?",
+      "correctAnswer": "Toni Morrison",
+      "distractors": [
+        "Alice Walker",
+        "Maya Angelou",
+        "Zora Neale Hurston"
+      ],
+      "explanation": "Toni Morrison wrote Beloved in 1987, winning the Pulitzer Prize for its story of slavery and memory.",
+      "memoryHook": "T-Rexy says: Morrison plus Beloved - Pulitzer pair.",
+      "imageUrl": "topic:beloved",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_037",
+      "question": "What is an unreliable narrator?",
+      "correctAnswer": "A narrator whose credibility is compromised",
+      "distractors": [
+        "A narrator who never speaks",
+        "A story with no narrator",
+        "A narrator who is always correct"
+      ],
+      "explanation": "An unreliable narrator misleads readers through bias, ignorance, or deceit, forcing active interpretation.",
+      "memoryHook": "T-Rexy says: do not trust every I - unreliable narrators deceive.",
+      "imageUrl": "topic:unreliable-narrator",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_038",
+      "question": "In Hamlet, the famous To be or not to be speech is an example of what?",
+      "correctAnswer": "A soliloquy",
+      "distractors": [
+        "An aside",
+        "A chorus",
+        "A prologue"
+      ],
+      "explanation": "Hamlets To be or not to be is a soliloquy, a speech revealing inner thoughts to the audience alone.",
+      "memoryHook": "T-Rexy says: alone on stage thinking aloud - soliloquy.",
+      "imageUrl": "topic:hamlet",
+      "tags": [
+        "drama",
+        "shakespeare"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_039",
+      "question": "What is a foil character?",
+      "correctAnswer": "A character who contrasts with another to highlight traits",
+      "distractors": [
+        "A metal sword",
+        "The main villain",
+        "A narrator"
+      ],
+      "explanation": "A foil is a character whose contrasting qualities emphasize another characters traits.",
+      "memoryHook": "T-Rexy says: foil reflects by contrast - opposites highlight.",
+      "imageUrl": "topic:foil",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_040",
+      "question": "Who wrote Their Eyes Were Watching God?",
+      "correctAnswer": "Zora Neale Hurston",
+      "distractors": [
+        "Langston Hughes",
+        "Richard Wright",
+        "James Baldwin"
+      ],
+      "explanation": "Zora Neale Hurston wrote Their Eyes Were Watching God in 1937, a Harlem Renaissance landmark.",
+      "memoryHook": "T-Rexy says: Hurston plus Janie - eyes watching.",
+      "imageUrl": "topic:hurston",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_041",
+      "question": "What is an allegory?",
+      "correctAnswer": "A story where characters and events symbolize deeper meanings",
+      "distractors": [
+        "A funny anecdote",
+        "A list of characters",
+        "A type of rhyme"
+      ],
+      "explanation": "An allegory is a narrative in which every element systematically represents abstract ideas, like Animal Farm.",
+      "memoryHook": "T-Rexy says: every piece means something bigger - allegory.",
+      "imageUrl": "topic:allegory",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_042",
+      "question": "Who wrote Wuthering Heights?",
+      "correctAnswer": "Emily Bronte",
+      "distractors": [
+        "Charlotte Bronte",
+        "Anne Bronte",
+        "Jane Austen"
+      ],
+      "explanation": "Emily Bronte wrote Wuthering Heights in 1847, her only novel, set on the Yorkshire moors.",
+      "memoryHook": "T-Rexy says: Emily plus Heathcliff - windswept moors.",
+      "imageUrl": "topic:wuthering-heights",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_043",
+      "question": "What is free verse poetry?",
+      "correctAnswer": "Poetry without regular meter or rhyme scheme",
+      "distractors": [
+        "Poetry that is free of charge",
+        "Poems about freedom",
+        "Verse with exactly ten syllables"
+      ],
+      "explanation": "Free verse has no set meter or rhyme, relying on natural rhythms, as in Whitmans work.",
+      "memoryHook": "T-Rexy says: free from rules - free verse.",
+      "imageUrl": "topic:free-verse",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_044",
+      "question": "Who is credited with writing The Odyssey?",
+      "correctAnswer": "Homer",
+      "distractors": [
+        "Virgil",
+        "Sophocles",
+        "Plato"
+      ],
+      "explanation": "Homer is traditionally credited with The Odyssey, the ancient Greek epic of Odysseuss journey home.",
+      "memoryHook": "T-Rexy says: Homer plus Odyssey - epic pair.",
+      "imageUrl": "topic:odyssey",
+      "tags": [
+        "epic",
+        "authors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_045",
+      "question": "What is satire?",
+      "correctAnswer": "Writing that uses humor and irony to criticize folly",
+      "distractors": [
+        "A serious tragedy",
+        "A love poem",
+        "A historical chronicle"
+      ],
+      "explanation": "Satire exposes human vice and folly through wit, irony, and exaggeration to provoke reform.",
+      "memoryHook": "T-Rexy says: laughing to criticize - satire stings with a smile.",
+      "imageUrl": "topic:satire",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_046",
+      "question": "Who wrote Heart of Darkness?",
+      "correctAnswer": "Joseph Conrad",
+      "distractors": [
+        "Rudyard Kipling",
+        "E.M. Forster",
+        "Graham Greene"
+      ],
+      "explanation": "Joseph Conrad wrote Heart of Darkness in 1899, a novella of colonialism in the Congo.",
+      "memoryHook": "T-Rexy says: Conrad plus Congo - heart of darkness.",
+      "imageUrl": "topic:heart-of-darkness",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_047",
+      "question": "What is a motif in literature?",
+      "correctAnswer": "A recurring image, idea, or symbol",
+      "distractors": [
+        "A characters motive",
+        "The books cover design",
+        "A printing error"
+      ],
+      "explanation": "A motif is a repeated element - image, phrase, or idea - that reinforces theme.",
+      "memoryHook": "T-Rexy says: it keeps coming back - motif means recurring.",
+      "imageUrl": "topic:motif",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_048",
+      "question": "Who wrote A Raisin in the Sun?",
+      "correctAnswer": "Lorraine Hansberry",
+      "distractors": [
+        "August Wilson",
+        "Tennessee Williams",
+        "Arthur Miller"
+      ],
+      "explanation": "Lorraine Hansberry wrote A Raisin in the Sun in 1959, the first Broadway play by a Black woman.",
+      "memoryHook": "T-Rexy says: Hansberry plus raisin - Broadway first.",
+      "imageUrl": "topic:raisin-in-the-sun",
+      "tags": [
+        "drama",
+        "authors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_049",
+      "question": "What is enjambment in poetry?",
+      "correctAnswer": "A line that continues without pause into the next",
+      "distractors": [
+        "A line that rhymes",
+        "The final line",
+        "A poem with no lines"
+      ],
+      "explanation": "Enjambment carries a sentence past the line break without terminal punctuation, creating momentum.",
+      "memoryHook": "T-Rexy says: the thought jumps the line - enjambment.",
+      "imageUrl": "topic:enjambment",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_050",
+      "question": "Who wrote The Crucible?",
+      "correctAnswer": "Arthur Miller",
+      "distractors": [
+        "Tennessee Williams",
+        "Eugene ONeill",
+        "Thornton Wilder"
+      ],
+      "explanation": "Arthur Miller wrote The Crucible in 1953, an allegory of McCarthyism set in Salem.",
+      "memoryHook": "T-Rexy says: Miller plus Salem - witch trials as allegory.",
+      "imageUrl": "topic:crucible",
+      "tags": [
+        "drama",
+        "authors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_051",
+      "question": "What is a soliloquy?",
+      "correctAnswer": "A speech by a character alone on stage revealing inner thoughts",
+      "distractors": [
+        "Two characters arguing",
+        "The audience singing",
+        "A narrators introduction"
+      ],
+      "explanation": "A soliloquy is delivered by a character alone, speaking thoughts aloud for the audience.",
+      "memoryHook": "T-Rexy says: solo plus speech - soliloquy is thinking out loud.",
+      "imageUrl": "topic:soliloquy",
+      "tags": [
+        "drama"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_052",
+      "question": "Who wrote Invisible Man?",
+      "correctAnswer": "Ralph Ellison",
+      "distractors": [
+        "Richard Wright",
+        "James Baldwin",
+        "Langston Hughes"
+      ],
+      "explanation": "Ralph Ellison wrote Invisible Man in 1952, a landmark of African American literature.",
+      "memoryHook": "T-Rexy says: Ellison plus invisible - unseen man.",
+      "imageUrl": "topic:invisible-man",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_053",
+      "question": "What is third-person omniscient point of view?",
+      "correctAnswer": "A narrator who knows all characters thoughts and feelings",
+      "distractors": [
+        "A narrator who is a character",
+        "Only dialogue, no narration",
+        "A narrator who knows nothing"
+      ],
+      "explanation": "Third-person omniscient uses he/she/they while the narrator knows every characters inner life.",
+      "memoryHook": "T-Rexy says: all-knowing outsider - omniscient sees all.",
+      "imageUrl": "topic:point-of-view",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_054",
+      "question": "Who wrote One Hundred Years of Solitude?",
+      "correctAnswer": "Gabriel Garcia Marquez",
+      "distractors": [
+        "Mario Vargas Llosa",
+        "Isabel Allende",
+        "Jorge Luis Borges"
+      ],
+      "explanation": "Gabriel Garcia Marquez wrote One Hundred Years of Solitude in 1967, a masterpiece of magical realism.",
+      "memoryHook": "T-Rexy says: Marquez plus Macondo - magical realism.",
+      "imageUrl": "topic:solitude",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_055",
+      "question": "What is a caesura in poetry?",
+      "correctAnswer": "A pause or break within a line of verse",
+      "distractors": [
+        "The final stanza",
+        "A rhyming couplet",
+        "A poem about Caesar"
+      ],
+      "explanation": "A caesura is a deliberate pause inside a poetic line, often marked by punctuation.",
+      "memoryHook": "T-Rexy says: a breath mid-line - caesura cuts the verse.",
+      "imageUrl": "topic:caesura",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_056",
+      "question": "Who wrote The Color Purple?",
+      "correctAnswer": "Alice Walker",
+      "distractors": [
+        "Toni Morrison",
+        "Maya Angelou",
+        "Gloria Naylor"
+      ],
+      "explanation": "Alice Walker wrote The Color Purple in 1982, winning the Pulitzer Prize.",
+      "memoryHook": "T-Rexy says: Walker plus Celie - purple prose prize.",
+      "imageUrl": "topic:color-purple",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_057",
+      "question": "What is synecdoche?",
+      "correctAnswer": "A part representing the whole, like sails for ships",
+      "distractors": [
+        "A whole representing a part",
+        "A comparison with like",
+        "A repeated sound"
+      ],
+      "explanation": "Synecdoche uses a part to stand for the whole, such as hands for workers.",
+      "memoryHook": "T-Rexy says: a piece stands for all - synecdoche.",
+      "imageUrl": "topic:synecdoche",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_058",
+      "question": "Who wrote Death of a Salesman?",
+      "correctAnswer": "Arthur Miller",
+      "distractors": [
+        "Tennessee Williams",
+        "Eugene ONeill",
+        "David Mamet"
+      ],
+      "explanation": "Arthur Miller wrote Death of a Salesman in 1949, the tragedy of Willy Loman.",
+      "memoryHook": "T-Rexy says: Miller plus Loman - salesman tragedy.",
+      "imageUrl": "topic:death-of-a-salesman",
+      "tags": [
+        "drama",
+        "authors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_059",
+      "question": "What is an elegy?",
+      "correctAnswer": "A mournful poem lamenting the dead",
+      "distractors": [
+        "A joyful wedding song",
+        "A funny limerick",
+        "A political speech"
+      ],
+      "explanation": "An elegy is a serious, reflective poem mourning someones death or a lost past.",
+      "memoryHook": "T-Rexy says: elegy equals eulogy in verse - mournful poem.",
+      "imageUrl": "topic:elegy",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_060",
+      "question": "Who wrote Brave New World?",
+      "correctAnswer": "Aldous Huxley",
+      "distractors": [
+        "George Orwell",
+        "H.G. Wells",
+        "Ray Bradbury"
+      ],
+      "explanation": "Aldous Huxley wrote Brave New World in 1932, a dystopia of engineered happiness.",
+      "memoryHook": "T-Rexy says: Huxley plus soma - brave new world.",
+      "imageUrl": "topic:brave-new-world",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_061",
+      "question": "What is juxtaposition?",
+      "correctAnswer": "Placing contrasting elements side by side for effect",
+      "distractors": [
+        "Putting similar things together",
+        "A type of rhyme",
+        "A narrators aside"
+      ],
+      "explanation": "Juxtaposition sets contrasting images or ideas together to sharpen both.",
+      "memoryHook": "T-Rexy says: side-by-side opposites - juxtaposition.",
+      "imageUrl": "topic:juxtaposition",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_062",
+      "question": "Who wrote The Metamorphosis?",
+      "correctAnswer": "Franz Kafka",
+      "distractors": [
+        "Thomas Mann",
+        "Hermann Hesse",
+        "Bertolt Brecht"
+      ],
+      "explanation": "Franz Kafka wrote The Metamorphosis in 1915, in which Gregor Samsa becomes an insect.",
+      "memoryHook": "T-Rexy says: Kafka plus insect - metamorphosis.",
+      "imageUrl": "topic:metamorphosis",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_063",
+      "question": "What is an ode?",
+      "correctAnswer": "A lyric poem of praise, formal and elevated",
+      "distractors": [
+        "A short funny poem",
+        "A poem about death",
+        "A dialogue in verse"
+      ],
+      "explanation": "An ode is a formal lyric poem addressing and praising a person, object, or idea.",
+      "memoryHook": "T-Rexy says: ode equals praise song - lofty tribute.",
+      "imageUrl": "topic:ode",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_064",
+      "question": "Who wrote Song of Solomon?",
+      "correctAnswer": "Toni Morrison",
+      "distractors": [
+        "Alice Walker",
+        "Gloria Naylor",
+        "Paule Marshall"
+      ],
+      "explanation": "Toni Morrison wrote Song of Solomon in 1977, following Milkman Deads journey.",
+      "memoryHook": "T-Rexy says: Morrison plus Milkman - song of Solomon.",
+      "imageUrl": "topic:song-of-solomon",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_065",
+      "question": "What is apostrophe in literature?",
+      "correctAnswer": "Addressing an absent person or abstract idea directly",
+      "distractors": [
+        "A punctuation mark only",
+        "A farewell speech",
+        "A type of stanza"
+      ],
+      "explanation": "Literary apostrophe addresses someone absent or something nonhuman, as in O Death.",
+      "memoryHook": "T-Rexy says: talking to the absent - apostrophe calls out.",
+      "imageUrl": "topic:apostrophe",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_066",
+      "question": "Who wrote A Streetcar Named Desire?",
+      "correctAnswer": "Tennessee Williams",
+      "distractors": [
+        "Arthur Miller",
+        "Eugene ONeill",
+        "William Inge"
+      ],
+      "explanation": "Tennessee Williams wrote A Streetcar Named Desire in 1947, introducing Blanche DuBois.",
+      "memoryHook": "T-Rexy says: Williams plus Blanche - streetcar desire.",
+      "imageUrl": "topic:streetcar",
+      "tags": [
+        "drama",
+        "authors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_067",
+      "question": "What is bathos?",
+      "correctAnswer": "An abrupt shift from the serious to the trivial for comic effect",
+      "distractors": [
+        "Deep emotional sincerity",
+        "A type of meter",
+        "A heroic epic"
+      ],
+      "explanation": "Bathos is an anticlimactic drop from elevated to commonplace, often unintentionally comic.",
+      "memoryHook": "T-Rexy says: from lofty to lowly in one step - bathos.",
+      "imageUrl": "topic:bathos",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_068",
+      "question": "Who wrote The Stranger?",
+      "correctAnswer": "Albert Camus",
+      "distractors": [
+        "Jean-Paul Sartre",
+        "Simone de Beauvoir",
+        "Andre Gide"
+      ],
+      "explanation": "Albert Camus wrote The Stranger in 1942, a key existentialist novel.",
+      "memoryHook": "T-Rexy says: Camus plus Meursault - stranger existentialism.",
+      "imageUrl": "topic:stranger",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_069",
+      "question": "What is a villanelle?",
+      "correctAnswer": "A 19-line poem with two refrains and two repeating rhymes",
+      "distractors": [
+        "A 14-line sonnet",
+        "A poem with no rules",
+        "A Japanese haiku"
+      ],
+      "explanation": "A villanelle has five tercets and a quatrain, with two refrains, like Dylan Thomass Do not go gentle.",
+      "memoryHook": "T-Rexy says: nineteen lines, two refrains - villanelle.",
+      "imageUrl": "topic:villanelle",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_070",
+      "question": "Who wrote Waiting for Godot?",
+      "correctAnswer": "Samuel Beckett",
+      "distractors": [
+        "Eugene Ionesco",
+        "Harold Pinter",
+        "Tom Stoppard"
+      ],
+      "explanation": "Samuel Beckett wrote Waiting for Godot in 1953, the landmark of absurdist theater.",
+      "memoryHook": "T-Rexy says: Beckett plus waiting - Godot never comes.",
+      "imageUrl": "topic:godot",
+      "tags": [
+        "drama",
+        "authors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_071",
+      "question": "How is a Petrarchan sonnet structured?",
+      "correctAnswer": "An octave rhyming ABBAABBA plus a sestet with varied rhyme",
+      "distractors": [
+        "Three quatrains plus a couplet",
+        "Seven couplets in a row",
+        "One stanza of fourteen lines"
+      ],
+      "explanation": "The Petrarchan sonnet divides into an eight-line octave and a six-line sestet, with a turn between them.",
+      "memoryHook": "T-Rexy says: eight plus six with a turn - Petrarchan form.",
+      "imageUrl": "topic:petrarchan-sonnet",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_072",
+      "question": "Who wrote the poem The Waste Land?",
+      "correctAnswer": "T.S. Eliot",
+      "distractors": [
+        "W.B. Yeats",
+        "Ezra Pound",
+        "W.H. Auden"
+      ],
+      "explanation": "T.S. Eliot wrote The Waste Land in 1922, the defining modernist long poem.",
+      "memoryHook": "T-Rexy says: Eliot plus April is the cruellest month - waste land.",
+      "imageUrl": "topic:waste-land",
+      "tags": [
+        "poetry",
+        "authors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_073",
+      "question": "How does metonymy differ from synecdoche?",
+      "correctAnswer": "Metonymy substitutes an associated thing; synecdoche uses part for whole",
+      "distractors": [
+        "They are identical terms",
+        "Metonymy is only for poetry",
+        "Synecdoche is only for prose"
+      ],
+      "explanation": "Metonymy replaces with something closely associated, like the crown for monarchy, while synecdoche uses a part for the whole.",
+      "memoryHook": "T-Rexy says: associated thing versus part of thing - metonymy versus synecdoche.",
+      "imageUrl": "topic:metonymy",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_074",
+      "question": "Who wrote the novel Ulysses?",
+      "correctAnswer": "James Joyce",
+      "distractors": [
+        "Virginia Woolf",
+        "D.H. Lawrence",
+        "E.M. Forster"
+      ],
+      "explanation": "James Joyce wrote Ulysses in 1922, the modernist epic of one Dublin day.",
+      "memoryHook": "T-Rexy says: Joyce plus Bloom - Ulysses Dublin day.",
+      "imageUrl": "topic:ulysses",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_075",
+      "question": "What is the pathetic fallacy?",
+      "correctAnswer": "Attributing human emotions to nature or inanimate things",
+      "distractors": [
+        "A logical error",
+        "A sad ending",
+        "A boring description"
+      ],
+      "explanation": "The pathetic fallacy projects human feelings onto nature, like angry storm clouds.",
+      "memoryHook": "T-Rexy says: nature feeling human feelings - pathetic fallacy.",
+      "imageUrl": "topic:pathetic-fallacy",
+      "tags": [
+        "literary-devices"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_076",
+      "question": "Who wrote Mrs. Dalloway?",
+      "correctAnswer": "Virginia Woolf",
+      "distractors": [
+        "Katherine Mansfield",
+        "Dorothy Richardson",
+        "Iris Murdoch"
+      ],
+      "explanation": "Virginia Woolf wrote Mrs. Dalloway in 1925, a stream-of-consciousness modernist novel.",
+      "memoryHook": "T-Rexy says: Woolf plus Clarissa - Dalloway day.",
+      "imageUrl": "topic:mrs-dalloway",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_077",
+      "question": "What is defamiliarization in literary theory?",
+      "correctAnswer": "Making the familiar seem strange to renew perception",
+      "distractors": [
+        "Removing family from stories",
+        "Writing in a foreign language",
+        "Avoiding description"
+      ],
+      "explanation": "Defamiliarization presents ordinary things in unfamiliar ways so readers truly see them again.",
+      "memoryHook": "T-Rexy says: make the normal weird - defamiliarization refreshes sight.",
+      "imageUrl": "topic:defamiliarization",
+      "tags": [
+        "literary-theory"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_078",
+      "question": "Who wrote The Sound and the Fury?",
+      "correctAnswer": "William Faulkner",
+      "distractors": [
+        "Ernest Hemingway",
+        "F. Scott Fitzgerald",
+        "John Steinbeck"
+      ],
+      "explanation": "William Faulkner wrote The Sound and the Fury in 1929, narrated in shifting voices.",
+      "memoryHook": "T-Rexy says: Faulkner plus Compsons - sound and fury.",
+      "imageUrl": "topic:sound-and-fury",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_079",
+      "question": "What are Aristotles three unities of drama?",
+      "correctAnswer": "Unity of action, time, and place",
+      "distractors": [
+        "Unity of rhyme, meter, stanza",
+        "Unity of author, actor, audience",
+        "Unity of past, present, future"
+      ],
+      "explanation": "Aristotle held that tragedy should have one action, occur within a day, and in one place.",
+      "memoryHook": "T-Rexy says: one action, one day, one place - the three unities.",
+      "imageUrl": "topic:unities",
+      "tags": [
+        "drama",
+        "literary-theory"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_080",
+      "question": "Who wrote Middlemarch?",
+      "correctAnswer": "George Eliot",
+      "distractors": [
+        "Charles Dickens",
+        "Anthony Trollope",
+        "Thomas Hardy"
+      ],
+      "explanation": "George Eliot, pen name of Mary Ann Evans, wrote Middlemarch in 1871.",
+      "memoryHook": "T-Rexy says: Eliot plus provincial life - Middlemarch.",
+      "imageUrl": "topic:middlemarch",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_081",
+      "question": "What is chiasmus?",
+      "correctAnswer": "A reversal of grammatical structure in successive phrases, ABBA pattern",
+      "distractors": [
+        "A type of rhyme",
+        "A long list",
+        "A question with no answer"
+      ],
+      "explanation": "Chiasmus reverses word order across clauses, as in ask not what your country can do for you.",
+      "memoryHook": "T-Rexy says: mirror structure ABBA - chiasmus crosses over.",
+      "imageUrl": "topic:chiasmus",
+      "tags": [
+        "literary-devices",
+        "rhetoric"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_082",
+      "question": "Who wrote Infinite Jest?",
+      "correctAnswer": "David Foster Wallace",
+      "distractors": [
+        "Thomas Pynchon",
+        "Don DeLillo",
+        "Jonathan Franzen"
+      ],
+      "explanation": "David Foster Wallace wrote Infinite Jest in 1996, the encyclopedic postmodern novel.",
+      "memoryHook": "T-Rexy says: Wallace plus footnotes - infinite jest.",
+      "imageUrl": "topic:infinite-jest",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_083",
+      "question": "What is T.S. Eliots objective correlative?",
+      "correctAnswer": "A set of objects or events that evokes a specific emotion",
+      "distractors": [
+        "An unbiased narrator",
+        "A scientific measurement",
+        "A type of metaphor only"
+      ],
+      "explanation": "Eliot argued that emotion in art needs an objective correlative, external facts that produce the feeling.",
+      "memoryHook": "T-Rexy says: objects that carry the feeling - objective correlative.",
+      "imageUrl": "topic:objective-correlative",
+      "tags": [
+        "literary-theory"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_084",
+      "question": "Who wrote The Brothers Karamazov?",
+      "correctAnswer": "Fyodor Dostoevsky",
+      "distractors": [
+        "Leo Tolstoy",
+        "Ivan Turgenev",
+        "Nikolai Gogol"
+      ],
+      "explanation": "Fyodor Dostoevsky wrote The Brothers Karamazov in 1880, his final great novel.",
+      "memoryHook": "T-Rexy says: Dostoevsky plus Karamazov brothers - Russian epic.",
+      "imageUrl": "topic:karamazov",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_085",
+      "question": "What is a sestina?",
+      "correctAnswer": "A 39-line poem of six sestets plus a tercet with rotating end-words",
+      "distractors": [
+        "A six-line stanza",
+        "A poem of sixteen lines",
+        "A song with six verses"
+      ],
+      "explanation": "A sestina uses six stanzas of six lines plus a three-line envoi, rotating the same six end-words.",
+      "memoryHook": "T-Rexy says: six words dancing through six stanzas - sestina.",
+      "imageUrl": "topic:sestina",
+      "tags": [
+        "poetry"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_086",
+      "question": "Who wrote To the Lighthouse?",
+      "correctAnswer": "Virginia Woolf",
+      "distractors": [
+        "Vita Sackville-West",
+        "Rebecca West",
+        "Elizabeth Bowen"
+      ],
+      "explanation": "Virginia Woolf wrote To the Lighthouse in 1927, her experimental modernist novel.",
+      "memoryHook": "T-Rexy says: Woolf plus Ramsays - lighthouse beam.",
+      "imageUrl": "topic:to-the-lighthouse",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_087",
+      "question": "How do tone and mood differ in literature?",
+      "correctAnswer": "Tone is the authors attitude; mood is the readers feeling",
+      "distractors": [
+        "They are synonyms",
+        "Tone is for poetry only",
+        "Mood is the authors attitude"
+      ],
+      "explanation": "Tone reflects the authors attitude toward the subject, while mood is the emotional atmosphere the reader experiences.",
+      "memoryHook": "T-Rexy says: author feels tone, reader feels mood.",
+      "imageUrl": "topic:tone-mood",
+      "tags": [
+        "literary-terms"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_088",
+      "question": "Who wrote Don Quixote?",
+      "correctAnswer": "Miguel de Cervantes",
+      "distractors": [
+        "Lope de Vega",
+        "Calderon de la Barca",
+        "Francisco de Quevedo"
+      ],
+      "explanation": "Miguel de Cervantes wrote Don Quixote in 1605 and 1615, the first modern novel.",
+      "memoryHook": "T-Rexy says: Cervantes plus windmills - Quixote tilts.",
+      "imageUrl": "topic:don-quixote",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_089",
+      "question": "What is anaphora?",
+      "correctAnswer": "Repetition of a word or phrase at the start of successive clauses",
+      "distractors": [
+        "Repetition at the end of lines",
+        "A type of metaphor",
+        "A silent letter"
+      ],
+      "explanation": "Anaphora repeats opening words for rhetorical force, as in I have a dream.",
+      "memoryHook": "T-Rexy says: same start, again and again - anaphora.",
+      "imageUrl": "topic:anaphora",
+      "tags": [
+        "literary-devices",
+        "rhetoric"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_090",
+      "question": "Who wrote The Trial?",
+      "correctAnswer": "Franz Kafka",
+      "distractors": [
+        "Robert Musil",
+        "Elias Canetti",
+        "Hermann Broch"
+      ],
+      "explanation": "Franz Kafka wrote The Trial, published after his death, about Josef Ks arrest.",
+      "memoryHook": "T-Rexy says: Kafka plus trial - bureaucratic nightmare.",
+      "imageUrl": "topic:trial",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_091",
+      "question": "What is catharsis in Aristotles theory of tragedy?",
+      "correctAnswer": "The purging of pity and fear in the audience",
+      "distractors": [
+        "A cleaning product",
+        "The heroes victory",
+        "A comic interlude"
+      ],
+      "explanation": "Aristotle claimed tragedy produces catharsis, cleansing spectators emotions of pity and terror.",
+      "memoryHook": "T-Rexy says: purged feelings - catharsis cleanses.",
+      "imageUrl": "topic:catharsis",
+      "tags": [
+        "drama",
+        "literary-theory"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_092",
+      "question": "Who wrote Anna Karenina?",
+      "correctAnswer": "Leo Tolstoy",
+      "distractors": [
+        "Fyodor Dostoevsky",
+        "Anton Chekhov",
+        "Alexander Pushkin"
+      ],
+      "explanation": "Leo Tolstoy wrote Anna Karenina in 1878, opening with happy families are all alike.",
+      "memoryHook": "T-Rexy says: Tolstoy plus Anna - Russian tragedy.",
+      "imageUrl": "topic:anna-karenina",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_093",
+      "question": "On the AP Literature exam, what does the third free-response question ask?",
+      "correctAnswer": "An analysis of a work of literary merit chosen by the student",
+      "distractors": [
+        "A multiple-choice grammar test",
+        "A memorized poem recitation",
+        "A vocabulary quiz"
+      ],
+      "explanation": "AP Lit Q3 is the open question, asking students to apply a theme to a novel or play of their choice.",
+      "memoryHook": "T-Rexy says: Q3 equals your choice - bring your own book.",
+      "imageUrl": "topic:ap-exam",
+      "tags": [
+        "ap-exam"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_094",
+      "question": "Who wrote Paradise Lost?",
+      "correctAnswer": "John Milton",
+      "distractors": [
+        "John Donne",
+        "Andrew Marvell",
+        "Alexander Pope"
+      ],
+      "explanation": "John Milton wrote Paradise Lost in 1667, the epic of Adams fall.",
+      "memoryHook": "T-Rexy says: Milton plus Satan - paradise lost.",
+      "imageUrl": "topic:paradise-lost",
+      "tags": [
+        "epic",
+        "authors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_095",
+      "question": "What is zeugma?",
+      "correctAnswer": "One word governing two others in different senses",
+      "distractors": [
+        "A type of animal",
+        "A repeated chorus",
+        "A foreign phrase"
+      ],
+      "explanation": "Zeugma yokes two meanings to one verb, as in he took his hat and his leave.",
+      "memoryHook": "T-Rexy says: one word, two jobs - zeugma.",
+      "imageUrl": "topic:zeugma",
+      "tags": [
+        "literary-devices",
+        "rhetoric"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_096",
+      "question": "Who wrote Madame Bovary?",
+      "correctAnswer": "Gustave Flaubert",
+      "distractors": [
+        "Emile Zola",
+        "Honore de Balzac",
+        "Stendhal"
+      ],
+      "explanation": "Gustave Flaubert wrote Madame Bovary in 1857, the realist novel of Emma Bovary.",
+      "memoryHook": "T-Rexy says: Flaubert plus Emma - Bovary realism.",
+      "imageUrl": "topic:madame-bovary",
+      "tags": [
+        "novels",
+        "authors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_097",
+      "question": "What is litotes?",
+      "correctAnswer": "Deliberate understatement using a negative, like not bad",
+      "distractors": [
+        "Extreme exaggeration",
+        "A type of rhyme",
+        "A long epic"
+      ],
+      "explanation": "Litotes affirms by negating the opposite, as in not unkind for kind.",
+      "memoryHook": "T-Rexy says: saying less to mean more - litotes understates.",
+      "imageUrl": "topic:litotes",
+      "tags": [
+        "literary-devices",
+        "rhetoric"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_098",
+      "question": "Who wrote The Aeneid?",
+      "correctAnswer": "Virgil",
+      "distractors": [
+        "Ovid",
+        "Horace",
+        "Cicero"
+      ],
+      "explanation": "Virgil wrote The Aeneid, the Roman epic of Aeneas founding a new Troy.",
+      "memoryHook": "T-Rexy says: Virgil plus Aeneas - Roman epic.",
+      "imageUrl": "topic:aeneid",
+      "tags": [
+        "epic",
+        "authors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_099",
+      "question": "What is a dramatic monologue?",
+      "correctAnswer": "A poem in which a single speaker addresses a silent listener",
+      "distractors": [
+        "A play with one actor",
+        "A dialogue between two poets",
+        "A speech in prose"
+      ],
+      "explanation": "A dramatic monologue is a lyric poem spoken by a persona to an implied listener, like Brownings My Last Duchess.",
+      "memoryHook": "T-Rexy says: one voice, silent listener - dramatic monologue.",
+      "imageUrl": "topic:dramatic-monologue",
+      "tags": [
+        "poetry",
+        "drama"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELIT_100",
+      "question": "How many free-response questions are on the AP English Literature exam?",
+      "correctAnswer": "Three",
+      "distractors": [
+        "One",
+        "Two",
+        "Five"
+      ],
+      "explanation": "The AP Literature exam has three free-response questions: two prose/poetry analyses and one open question.",
+      "memoryHook": "T-Rexy says: three essays - AP Lit free response.",
+      "imageUrl": "topic:ap-exam",
+      "tags": [
+        "ap-exam"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}
