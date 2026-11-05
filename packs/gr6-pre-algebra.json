@@ -67,7 +67,7 @@
         "exponents",
         "powers"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -187,7 +187,7 @@
         "integers",
         "subtraction"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -220,14 +220,14 @@
         "Speed",
         "Cost"
       ],
-      "explanation": "The equation says distance equals 50 times time, so t is time.",
+      "explanation": "In d = 50t, d is the distance traveled at 50 miles per hour, so t must be the time in hours: distance = speed x time.",
       "memoryHook": "T-Rexy says: Read what the equation is built from.",
       "imageUrl": "topic:prealgebra",
       "tags": [
         "patterns",
         "functions"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -347,7 +347,7 @@
         "order-of-operations",
         "expressions"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -467,7 +467,7 @@
         "inequalities",
         "writing"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -518,7 +518,7 @@
       "distractors": [
         "(0, 4)",
         "(4, 4)",
-        "(0, 0) only"
+        "(0, 5)"
       ],
       "explanation": "Points on the x-axis have a y-coordinate of 0.",
       "memoryHook": "T-Rexy says: On the x-axis, y is always zero.",
@@ -627,7 +627,7 @@
         "equations",
         "two-step"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -667,7 +667,7 @@
         "order-of-operations",
         "expressions"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -707,7 +707,7 @@
         "equations",
         "one-step"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -747,7 +747,7 @@
         "equations",
         "two-step"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -767,7 +767,7 @@
         "integers",
         "multiplication"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -787,7 +787,7 @@
         "equations",
         "one-step"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -847,7 +847,7 @@
         "expressions",
         "like-terms"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -907,7 +907,7 @@
         "equations",
         "two-step"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -967,7 +967,7 @@
         "order-of-operations",
         "expressions"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -987,7 +987,7 @@
         "equations",
         "two-step"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1060,14 +1060,14 @@
         "Speed",
         "The graph"
       ],
-      "explanation": "Distance depends on time, so distance is the dependent variable.",
+      "explanation": "The dependent variable is the one whose value changes because of the other variable: time passes on its own, and distance grows as time passes, so distance is dependent.",
       "memoryHook": "T-Rexy says: The dependent variable is the one that changes because of the other.",
       "imageUrl": "topic:prealgebra",
       "tags": [
         "patterns",
         "variables"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1207,7 +1207,7 @@
         "equations",
         "two-step"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1220,7 +1220,7 @@
         "x = 7",
         "x <= 7"
       ],
-      "explanation": "The symbol > means greater than, so x > 7.",
+      "explanation": "The > symbol opens toward the larger value, so 'x is greater than 7' is written x > 7, with the open side facing x.",
       "memoryHook": "T-Rexy says: The open mouth faces the bigger side.",
       "imageUrl": "topic:prealgebra",
       "tags": [
@@ -1340,7 +1340,7 @@
         "y",
         "4y"
       ],
-      "explanation": "The constant is the term without a variable, which is 7.",
+      "explanation": "In 4y + 7, the 4y term changes when y changes, but 7 stands alone with no variable attached, so 7 is the constant term.",
       "memoryHook": "T-Rexy says: A constant has no letter attached.",
       "imageUrl": "topic:prealgebra",
       "tags": [
@@ -1407,7 +1407,7 @@
         "expressions",
         "substitution"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1427,7 +1427,7 @@
         "inequalities",
         "solutions"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1520,7 +1520,7 @@
         "0",
         "1/12"
       ],
-      "explanation": "The opposite of -12 is 12.",
+      "explanation": "Opposites sit the same distance from zero on opposite sides of the number line, so the opposite of -12 is 12.",
       "memoryHook": "T-Rexy says: Opposites are the same distance from zero on the other side.",
       "imageUrl": "topic:prealgebra",
       "tags": [
@@ -1587,7 +1587,7 @@
         "expressions",
         "substitution"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1767,7 +1767,7 @@
         "inequalities",
         "writing"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1840,7 +1840,7 @@
         "x",
         "8"
       ],
-      "explanation": "The coefficient is the number multiplied by the variable, which is 5.",
+      "explanation": "In 5x + 3, the 5 is multiplied by x, so 5 is the coefficient; the 3, with no variable, is the constant.",
       "memoryHook": "T-Rexy says: The coefficient is the number stuck to the letter.",
       "imageUrl": "topic:prealgebra",
       "tags": [
@@ -1947,7 +1947,7 @@
         "order-of-operations",
         "expressions"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
