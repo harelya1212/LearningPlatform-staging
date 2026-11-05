@@ -27,7 +27,7 @@
         "main-idea",
         "animals"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -60,14 +60,14 @@
         "In the morning",
         "All day long"
       ],
-      "explanation": "The passage says the fox hunts at night and rests during the hot day.",
+      "explanation": "Fennec foxes are nocturnal: they hunt in the cool night and hide from the daytime heat in their burrows.",
       "memoryHook": "T-Rexy says: the fox hunts at night and naps by day!",
       "imageUrl": "topic:reading",
       "tags": [
         "details",
         "animals"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -87,7 +87,7 @@
         "inference",
         "animals"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -127,7 +127,7 @@
         "main-idea",
         "jobs"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -140,7 +140,7 @@
         "100 steps",
         "12 steps"
       ],
-      "explanation": "The passage says he climbed the 120 steps to the top.",
+      "explanation": "The passage gives the exact number: 120 steps up to the lamp, climbed every evening.",
       "memoryHook": "T-Rexy says: 120 steps every single evening!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -167,7 +167,7 @@
         "details",
         "jobs"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -187,7 +187,7 @@
         "inference",
         "character"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -207,7 +207,7 @@
         "vocabulary",
         "jobs"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -240,7 +240,7 @@
         "She moved the garden inside",
         "She stopped planting"
       ],
-      "explanation": "The passage says she made a chart so she would never forget again.",
+      "explanation": "Maya fixed the problem with a system: a watering chart she checks every morning before school.",
       "memoryHook": "T-Rexy says: a chart kept her watering on track!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -287,7 +287,7 @@
         "sequence",
         "plants"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -307,7 +307,7 @@
         "vocabulary",
         "plants"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -327,7 +327,7 @@
         "main-idea",
         "history"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -340,7 +340,7 @@
         "12 hours",
         "1 second"
       ],
-      "explanation": "The flyer stayed in the air for 12 seconds.",
+      "explanation": "The first flight lasted only 12 seconds - short, but long enough to prove a powered airplane could fly.",
       "memoryHook": "T-Rexy says: just 12 seconds - but it changed the world!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -360,14 +360,14 @@
         "New York City",
         "Chicago, Illinois"
       ],
-      "explanation": "The flight happened at Kitty Hawk, North Carolina.",
+      "explanation": "The brothers were from Ohio, but they flew at Kitty Hawk, North Carolina, where the soft sand and steady wind helped.",
       "memoryHook": "T-Rexy says: Kitty Hawk is where it happened!",
       "imageUrl": "topic:reading",
       "tags": [
         "details",
         "history"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -387,7 +387,7 @@
         "inference",
         "history"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -407,7 +407,7 @@
         "vocabulary",
         "history"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -444,7 +444,7 @@
       "memoryHook": "T-Rexy says: the spare key under the flowerpot saved the day!",
       "imageUrl": "topic:reading",
       "tags": [
-        "problem-solution",
+        "solution",
         "narrative"
       ],
       "difficulty": "medium",
@@ -460,14 +460,14 @@
         "He was going to the store",
         "He was catching a bus"
       ],
-      "explanation": "The passage says he was in a hurry to get to soccer practice.",
+      "explanation": "Jamal rushed because soccer practice was starting - and rushing is why he forgot his key.",
       "memoryHook": "T-Rexy says: soccer practice made him rush!",
       "imageUrl": "topic:reading",
       "tags": [
         "details",
         "narrative"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -527,7 +527,7 @@
         "main-idea",
         "animals"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -540,7 +540,7 @@
         "There is no food",
         "The hive is in danger"
       ],
-      "explanation": "A circle dance means the flowers are close.",
+      "explanation": "A circle dance is the bees' code for nearby food: round and round means close by.",
       "memoryHook": "T-Rexy says: a circle dance means food is near!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -560,14 +560,14 @@
         "The bee is tired",
         "The bee is lost"
       ],
-      "explanation": "The waggle dance, with the bee shaking in a line, means farther food.",
+      "explanation": "A waggle dance is the bees' code for faraway food: the shaking line points the way and shows the distance.",
       "memoryHook": "T-Rexy says: a waggle dance means food is far!",
       "imageUrl": "topic:reading",
       "tags": [
         "details",
         "animals"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -587,7 +587,7 @@
         "inference",
         "animals"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -607,7 +607,7 @@
         "vocabulary",
         "animals"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -627,7 +627,7 @@
         "main-idea",
         "animals"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -667,7 +667,7 @@
         "compare",
         "animals"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -680,7 +680,7 @@
         "Berries",
         "Insects"
       ],
-      "explanation": "The owl eats lemmings, small mouse-like animals.",
+      "explanation": "Lemmings are small mouse-like animals that live under the snow - the owl's main prey.",
       "memoryHook": "T-Rexy says: lemmings are the owl's dinner!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -707,7 +707,7 @@
         "inference",
         "animals"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -767,7 +767,7 @@
         "math-in-reading",
         "money"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -787,7 +787,7 @@
         "math-in-reading",
         "money"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -840,7 +840,7 @@
         "About 100 miles",
         "Exactly 13 miles"
       ],
-      "explanation": "The wall stretches for more than 13,000 miles.",
+      "explanation": "At more than 13,000 miles, the Great Wall is the longest wall ever built - longer than the whole United States is wide.",
       "memoryHook": "T-Rexy says: over 13,000 miles of wall!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -860,7 +860,7 @@
         "They sold food",
         "They guided visitors"
       ],
-      "explanation": "Soldiers stood on tall towers and watched for enemies.",
+      "explanation": "The towers were watch posts: soldiers stood high so they could spot enemies coming from far away.",
       "memoryHook": "T-Rexy says: soldiers on towers watched for enemies!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -880,7 +880,7 @@
         "Gold and silver",
         "Ice and snow"
       ],
-      "explanation": "The wall was built of stone and earth across mountains and deserts.",
+      "explanation": "Builders used stone and packed earth - strong materials they could find along the mountains and deserts.",
       "memoryHook": "T-Rexy says: stone and earth built the great wall!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -947,7 +947,7 @@
         "details",
         "animals"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1027,7 +1027,7 @@
         "main-idea",
         "history"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1040,7 +1040,7 @@
         "Wood",
         "Metal wire"
       ],
-      "explanation": "A thin piece of carbonized bamboo burned for over 1,200 hours.",
+      "explanation": "Of all the materials Edison tried - cotton, wood, bamboo - only carbonized bamboo glowed without burning out.",
       "memoryHook": "T-Rexy says: carbonized bamboo was the winner!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -1060,7 +1060,7 @@
         "About 100 hours",
         "One hour"
       ],
-      "explanation": "The bamboo burned brightly for over 1,200 hours.",
+      "explanation": "Over 1,200 hours is more than 50 days of light from one thin piece of bamboo.",
       "memoryHook": "T-Rexy says: over 1,200 hours of light!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -1087,7 +1087,7 @@
         "inference",
         "character"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1127,7 +1127,7 @@
         "main-idea",
         "adventure"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1167,7 +1167,7 @@
         "details",
         "adventure"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1180,7 +1180,7 @@
         "On the rafts",
         "In caves"
       ],
-      "explanation": "At night, the rafters camp on sandy beaches.",
+      "explanation": "After a day on the river, rafters sleep on the sandy beaches along the canyon.",
       "memoryHook": "T-Rexy says: sandy beaches are the rafters' campsites!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -1240,7 +1240,7 @@
         "She set a trap",
         "She called the police"
       ],
-      "explanation": "She watched from behind the shelves and saw the boy.",
+      "explanation": "Mrs. Patel solved the mystery by watching: she hid behind the bookshelves until the rose-leaver appeared.",
       "memoryHook": "T-Rexy says: she hid behind the shelves and watched!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -1267,7 +1267,7 @@
         "details",
         "mystery"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1287,7 +1287,7 @@
         "inference",
         "mystery"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1307,7 +1307,7 @@
         "vocabulary",
         "mystery"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1340,7 +1340,7 @@
         "The height of the mountain",
         "The speed of the wind"
       ],
-      "explanation": "They measure the ground to see if it is swelling, which can mean lava is rising.",
+      "explanation": "Swelling ground is a warning sign: rising lava pushes the ground up before an eruption.",
       "memoryHook": "T-Rexy says: swelling ground can mean rising lava!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -1360,7 +1360,7 @@
         "Soil",
         "Seeds"
       ],
-      "explanation": "They test gases coming from cracks in the rock.",
+      "explanation": "Gases escaping from cracks tell scientists what is happening deep inside the volcano.",
       "memoryHook": "T-Rexy says: gases from cracks tell scientists what is happening!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -1540,7 +1540,7 @@
         "Marigolds",
         "Roses"
       ],
-      "explanation": "The milkweed attracted monarch butterflies.",
+      "explanation": "Monarchs need milkweed: it is the only plant they lay their eggs on.",
       "memoryHook": "T-Rexy says: milkweed brings the monarchs!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -1587,7 +1587,7 @@
         "sequence",
         "science"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1607,7 +1607,7 @@
         "vocabulary",
         "science"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1640,7 +1640,7 @@
         "They built a snowman",
         "They skated on a pond"
       ],
-      "explanation": "They built a snow fort and had a snowball fight.",
+      "explanation": "With school canceled, the children played outside: a snow fort first, then a snowball fight.",
       "memoryHook": "T-Rexy says: a snow fort and a snowball fight!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -1660,7 +1660,7 @@
         "Snow boots",
         "A sled"
       ],
-      "explanation": "Their mother brought hot cocoa with marshmallows.",
+      "explanation": "Hot cocoa with marshmallows warmed the children up after playing in the snow.",
       "memoryHook": "T-Rexy says: hot cocoa with marshmallows - yum!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -1680,7 +1680,7 @@
         "On Sunday night",
         "On Monday morning"
       ],
-      "explanation": "The snow began falling on Friday night.",
+      "explanation": "The snow started Friday night and fell all night, so by breakfast the town was covered.",
       "memoryHook": "T-Rexy says: Friday night brought the snow!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -1740,7 +1740,7 @@
         "About ten years old",
         "Exactly one hundred years old"
       ],
-      "explanation": "The tree was over two hundred years old.",
+      "explanation": "Over two hundred years old means the oak was already growing before cars or telephones existed.",
       "memoryHook": "T-Rexy says: over two hundred years old!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -1760,7 +1760,7 @@
         "Orange and purple",
         "Brown and gray"
       ],
-      "explanation": "In autumn, its leaves turned gold and crimson.",
+      "explanation": "Gold and crimson are the oak's autumn colors - the leaves change before they fall.",
       "memoryHook": "T-Rexy says: gold and crimson leaves in autumn!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -1840,7 +1840,7 @@
         "About 2,500 miles",
         "About 100 miles"
       ],
-      "explanation": "The station orbits about 250 miles above us.",
+      "explanation": "250 miles up is high above the clouds - much higher than any airplane flies.",
       "memoryHook": "T-Rexy says: 250 miles above Earth!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -1867,7 +1867,7 @@
         "details",
         "space"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1907,7 +1907,7 @@
         "details",
         "space"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1940,7 +1940,7 @@
         "They ate lunch",
         "They read books"
       ],
-      "explanation": "Passengers pressed their faces to the windows to see the valley below.",
+      "explanation": "The passengers crowded to the windows because the valley view below was the best part of the climb.",
       "memoryHook": "T-Rexy says: faces to the windows for the valley view!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -1960,7 +1960,7 @@
         "Mountain Station",
         "Top Station"
       ],
-      "explanation": "The conductor called out, 'Summit Station!'",
+      "explanation": "The conductor's call told everyone they had reached the top: Summit Station.",
       "memoryHook": "T-Rexy says: Summit Station is the top!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -1980,14 +1980,14 @@
         "All day",
         "Two hours"
       ],
-      "explanation": "After an hour, the train began its ride back down.",
+      "explanation": "The passengers had one hour at the top to breathe the mountain air and take photos before riding down.",
       "memoryHook": "T-Rexy says: one hour at the top!",
       "imageUrl": "topic:reading",
       "tags": [
         "details",
         "travel"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -2007,7 +2007,7 @@
         "vocabulary",
         "travel"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     }
