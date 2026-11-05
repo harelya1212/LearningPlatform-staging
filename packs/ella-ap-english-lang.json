@@ -1,0 +1,1992 @@
+{
+  "packId": "ella-ap-english-lang",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-04",
+  "tags": [
+    "english",
+    "language",
+    "ap",
+    "11th"
+  ],
+  "questions": [
+    {
+      "id": "ELAN_001",
+      "question": "What is ethos in rhetoric?",
+      "correctAnswer": "An appeal to the speaker's credibility or character",
+      "distractors": [
+        "An appeal to the audience's emotions",
+        "An appeal to logic and facts",
+        "An appeal to the timing of an argument"
+      ],
+      "explanation": "Ethos persuades by making the speaker seem trustworthy, knowledgeable, or morally upright.",
+      "memoryHook": "T-Rexy says: Trust the speaker first, then the speech.",
+      "imageUrl": "topic:ethos-appeal",
+      "tags": [
+        "rhetoric",
+        "appeals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_002",
+      "question": "What is pathos in rhetoric?",
+      "correctAnswer": "An appeal to the audience's emotions",
+      "distractors": [
+        "An appeal to the speaker's credibility",
+        "An appeal to logic and evidence",
+        "An appeal to historical facts"
+      ],
+      "explanation": "Pathos persuades by stirring feelings such as sympathy, anger, hope, or fear.",
+      "memoryHook": "T-Rexy says: Feelings move people faster than facts.",
+      "imageUrl": "topic:pathos-appeal",
+      "tags": [
+        "rhetoric",
+        "appeals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_003",
+      "question": "What is logos in rhetoric?",
+      "correctAnswer": "An appeal to logic, reason, and evidence",
+      "distractors": [
+        "An appeal to the speaker's reputation",
+        "An appeal to the audience's fears",
+        "An appeal to tradition"
+      ],
+      "explanation": "Logos persuades through facts, statistics, examples, and sound reasoning.",
+      "memoryHook": "T-Rexy says: Logic is the backbone of any strong argument.",
+      "imageUrl": "topic:logos-appeal",
+      "tags": [
+        "rhetoric",
+        "appeals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_004",
+      "question": "What is the purpose of a thesis statement?",
+      "correctAnswer": "To state the writer's main claim clearly",
+      "distractors": [
+        "To summarize every detail of the essay",
+        "To ask the reader a question",
+        "To list the sources used"
+      ],
+      "explanation": "A thesis gives the reader the central argument the essay will defend.",
+      "memoryHook": "T-Rexy says: One sentence, one clear claim.",
+      "imageUrl": "topic:thesis-statement",
+      "tags": [
+        "argument",
+        "writing"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_005",
+      "question": "What is a rhetorical question?",
+      "correctAnswer": "A question asked for effect, not expecting an answer",
+      "distractors": [
+        "A question the writer cannot answer",
+        "A question from the audience",
+        "A question with no correct answer"
+      ],
+      "explanation": "Rhetorical questions make readers think and emphasize a point.",
+      "memoryHook": "T-Rexy says: Ask it, then let the silence argue for you.",
+      "imageUrl": "topic:rhetorical-question",
+      "tags": [
+        "rhetoric",
+        "devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_006",
+      "question": "What is parallelism?",
+      "correctAnswer": "Using the same grammatical structure for related ideas",
+      "distractors": [
+        "Repeating the same word at the start of clauses",
+        "Using opposite ideas in one sentence",
+        "Leaving out conjunctions"
+      ],
+      "explanation": "Parallelism creates rhythm and makes ideas feel balanced and equal.",
+      "memoryHook": "T-Rexy says: Same shape, same weight, stronger punch.",
+      "imageUrl": "topic:parallelism",
+      "tags": [
+        "rhetoric",
+        "devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_007",
+      "question": "What is anaphora?",
+      "correctAnswer": "Repeating a word or phrase at the beginning of successive clauses",
+      "distractors": [
+        "Repeating a word at the end of clauses",
+        "Using a metaphor repeatedly",
+        "Reversing word order"
+      ],
+      "explanation": "Anaphora builds rhythm and emphasis, as in famous speeches that repeat a key phrase.",
+      "memoryHook": "T-Rexy says: Repeat the start, and the crowd remembers.",
+      "imageUrl": "topic:anaphora",
+      "tags": [
+        "rhetoric",
+        "devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_008",
+      "question": "What is a claim in an argument?",
+      "correctAnswer": "A statement the writer argues is true",
+      "distractors": [
+        "A piece of evidence from a source",
+        "A quote from an expert",
+        "A summary of the opposing view"
+      ],
+      "explanation": "A claim is the debatable position an argument tries to prove.",
+      "memoryHook": "T-Rexy says: No claim, no argument.",
+      "imageUrl": "topic:claim",
+      "tags": [
+        "argument"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_009",
+      "question": "What is evidence in an argument?",
+      "correctAnswer": "Facts, examples, or testimony that support a claim",
+      "distractors": [
+        "The writer's opinion restated",
+        "A rhetorical question",
+        "The conclusion of an essay"
+      ],
+      "explanation": "Evidence gives a claim its support and credibility.",
+      "memoryHook": "T-Rexy says: Claims need backup, or they fall flat.",
+      "imageUrl": "topic:evidence",
+      "tags": [
+        "argument"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_010",
+      "question": "What is tone in writing?",
+      "correctAnswer": "The author's attitude toward the subject",
+      "distractors": [
+        "The reader's feeling after reading",
+        "The setting of a text",
+        "The length of the sentences"
+      ],
+      "explanation": "Tone is conveyed through word choice, syntax, and style.",
+      "memoryHook": "T-Rexy says: Tone is the author's voice in the room.",
+      "imageUrl": "topic:tone",
+      "tags": [
+        "rhetoric",
+        "analysis"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_011",
+      "question": "What is diction?",
+      "correctAnswer": "The writer's choice of words",
+      "distractors": [
+        "The structure of sentences",
+        "The rhythm of a speech",
+        "The main idea of a paragraph"
+      ],
+      "explanation": "Diction shapes tone: formal words sound serious, casual words sound friendly.",
+      "memoryHook": "T-Rexy says: Words are the writer's wardrobe.",
+      "imageUrl": "topic:diction",
+      "tags": [
+        "rhetoric",
+        "analysis"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_012",
+      "question": "What is syntax?",
+      "correctAnswer": "The arrangement of words into sentences",
+      "distractors": [
+        "The choice of vocabulary",
+        "The theme of a text",
+        "The speaker's credibility"
+      ],
+      "explanation": "Syntax includes sentence length, structure, and punctuation patterns.",
+      "memoryHook": "T-Rexy says: Sentence shape changes how a point lands.",
+      "imageUrl": "topic:syntax",
+      "tags": [
+        "rhetoric",
+        "analysis"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_013",
+      "question": "What is a counterargument?",
+      "correctAnswer": "An opposing viewpoint the writer acknowledges",
+      "distractors": [
+        "The writer's main claim",
+        "A piece of supporting evidence",
+        "The conclusion of an essay"
+      ],
+      "explanation": "Acknowledging a counterargument shows fairness and strengthens credibility.",
+      "memoryHook": "T-Rexy says: Face the other side, then answer it.",
+      "imageUrl": "topic:counterargument",
+      "tags": [
+        "argument"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_014",
+      "question": "What is a rebuttal?",
+      "correctAnswer": "A response that answers or refutes a counterargument",
+      "distractors": [
+        "A restatement of the thesis",
+        "An introduction to a new topic",
+        "A quote from a source"
+      ],
+      "explanation": "A rebuttal explains why the opposing view is weaker or wrong.",
+      "memoryHook": "T-Rexy says: Answer back, and your argument grows stronger.",
+      "imageUrl": "topic:rebuttal",
+      "tags": [
+        "argument"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_015",
+      "question": "What is a logical fallacy?",
+      "correctAnswer": "An error in reasoning that weakens an argument",
+      "distractors": [
+        "A type of rhetorical question",
+        "A persuasive technique that always works",
+        "A grammatical error"
+      ],
+      "explanation": "Fallacies look persuasive but rest on faulty logic.",
+      "memoryHook": "T-Rexy says: Pretty logic can still be broken logic.",
+      "imageUrl": "topic:fallacy",
+      "tags": [
+        "argument",
+        "fallacies"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_016",
+      "question": "What is an ad hominem fallacy?",
+      "correctAnswer": "Attacking the person instead of their argument",
+      "distractors": [
+        "Attacking a weak version of an argument",
+        "Appealing to popular opinion",
+        "Using too many statistics"
+      ],
+      "explanation": "Ad hominem dodges the issue by targeting character rather than ideas.",
+      "memoryHook": "T-Rexy says: Attack the idea, not the person.",
+      "imageUrl": "topic:ad-hominem",
+      "tags": [
+        "argument",
+        "fallacies"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_017",
+      "question": "What is a straw man fallacy?",
+      "correctAnswer": "Misrepresenting an opponent's argument to make it easier to attack",
+      "distractors": [
+        "Attacking the speaker's character",
+        "Appealing to fear",
+        "Using circular reasoning"
+      ],
+      "explanation": "A straw man replaces the real argument with a weaker, fake version.",
+      "memoryHook": "T-Rexy says: Fight the real argument, not a scarecrow.",
+      "imageUrl": "topic:straw-man",
+      "tags": [
+        "argument",
+        "fallacies"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_018",
+      "question": "What is a slippery slope fallacy?",
+      "correctAnswer": "Claiming one small step will inevitably lead to extreme consequences",
+      "distractors": [
+        "Attacking a person's background",
+        "Repeating the same point",
+        "Appealing to tradition"
+      ],
+      "explanation": "Slippery slope arguments skip the steps that would prove the chain of events.",
+      "memoryHook": "T-Rexy says: One step is not a landslide.",
+      "imageUrl": "topic:slippery-slope",
+      "tags": [
+        "argument",
+        "fallacies"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_019",
+      "question": "What is the purpose of an introduction in an argumentative essay?",
+      "correctAnswer": "To present the issue and state the thesis",
+      "distractors": [
+        "To list all evidence in detail",
+        "To refute the counterargument",
+        "To summarize the conclusion"
+      ],
+      "explanation": "The introduction hooks the reader, gives context, and states the claim.",
+      "memoryHook": "T-Rexy says: Hook them, then tell them your claim.",
+      "imageUrl": "topic:introduction",
+      "tags": [
+        "argument",
+        "writing"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_020",
+      "question": "What is a concession?",
+      "correctAnswer": "Admitting a point from the opposing side is partly valid",
+      "distractors": [
+        "Giving up your entire argument",
+        "Refusing to consider other views",
+        "Repeating your thesis"
+      ],
+      "explanation": "A concession shows fairness and makes the writer seem reasonable.",
+      "memoryHook": "T-Rexy says: Give a little ground to gain a lot of trust.",
+      "imageUrl": "topic:concession",
+      "tags": [
+        "argument"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_021",
+      "question": "What is a synthesis essay?",
+      "correctAnswer": "An essay that combines ideas from multiple sources to support a claim",
+      "distractors": [
+        "An essay that summarizes one source",
+        "An essay with no sources",
+        "An essay that only analyzes style"
+      ],
+      "explanation": "Synthesis weaves sources together into a new, original argument.",
+      "memoryHook": "T-Rexy says: Sources are ingredients, not the whole meal.",
+      "imageUrl": "topic:synthesis-essay",
+      "tags": [
+        "exam",
+        "writing"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_022",
+      "question": "What is the rhetorical triangle?",
+      "correctAnswer": "The relationship between speaker, audience, and subject",
+      "distractors": [
+        "A diagram of essay structure",
+        "Three types of fallacies",
+        "Three parts of a thesis"
+      ],
+      "explanation": "The triangle reminds writers that speaker, audience, and subject shape every message.",
+      "memoryHook": "T-Rexy says: Speaker, audience, subject: always connected.",
+      "imageUrl": "topic:rhetorical-triangle",
+      "tags": [
+        "rhetoric"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_023",
+      "question": "What is kairos?",
+      "correctAnswer": "The right or opportune moment to make an argument",
+      "distractors": [
+        "The speaker's credibility",
+        "The emotional appeal",
+        "The logical structure"
+      ],
+      "explanation": "Kairos is about timing: saying the right thing at the right moment.",
+      "memoryHook": "T-Rexy says: Timing turns a good point into a great one.",
+      "imageUrl": "topic:kairos",
+      "tags": [
+        "rhetoric"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_024",
+      "question": "What is an allusion?",
+      "correctAnswer": "A brief reference to another work, person, or event",
+      "distractors": [
+        "A long quotation from a source",
+        "A type of metaphor",
+        "A grammatical error"
+      ],
+      "explanation": "Allusions borrow meaning from something the audience already knows.",
+      "memoryHook": "T-Rexy says: One reference can carry a whole story.",
+      "imageUrl": "topic:allusion",
+      "tags": [
+        "rhetoric",
+        "devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_025",
+      "question": "What is hyperbole?",
+      "correctAnswer": "Deliberate exaggeration for emphasis",
+      "distractors": [
+        "Understating a point",
+        "A literal statement",
+        "A comparison using like or as"
+      ],
+      "explanation": "Hyperbole is not meant literally; it stresses a feeling or idea.",
+      "memoryHook": "T-Rexy says: Exaggerate to make the point unforgettable.",
+      "imageUrl": "topic:hyperbole",
+      "tags": [
+        "rhetoric",
+        "devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_026",
+      "question": "What is understatement?",
+      "correctAnswer": "Deliberately presenting something as less important than it is",
+      "distractors": [
+        "Exaggerating for effect",
+        "Repeating a phrase",
+        "Using complex vocabulary"
+      ],
+      "explanation": "Understatement creates irony or dry humor by downplaying significance.",
+      "memoryHook": "T-Rexy says: Say less, mean more.",
+      "imageUrl": "topic:understatement",
+      "tags": [
+        "rhetoric",
+        "devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_027",
+      "question": "What is a metaphor?",
+      "correctAnswer": "A direct comparison between two unlike things",
+      "distractors": [
+        "A comparison using like or as",
+        "An exaggeration",
+        "A reference to history"
+      ],
+      "explanation": "Metaphors say one thing IS another to reveal a shared quality.",
+      "memoryHook": "T-Rexy says: Say it IS, and the image sticks.",
+      "imageUrl": "topic:metaphor",
+      "tags": [
+        "rhetoric",
+        "devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_028",
+      "question": "What is a simile?",
+      "correctAnswer": "A comparison using like or as",
+      "distractors": [
+        "A direct comparison without like or as",
+        "An appeal to emotion",
+        "A repeated phrase"
+      ],
+      "explanation": "Similes compare two things explicitly with like, as, or than.",
+      "memoryHook": "T-Rexy says: Like or as makes the comparison clear.",
+      "imageUrl": "topic:simile",
+      "tags": [
+        "rhetoric",
+        "devices"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_029",
+      "question": "What is the purpose of SOAPSTone analysis?",
+      "correctAnswer": "To identify Speaker, Occasion, Audience, Purpose, Subject, and Tone",
+      "distractors": [
+        "To count the paragraphs in a text",
+        "To find grammatical errors",
+        "To summarize the plot"
+      ],
+      "explanation": "SOAPSTone helps readers understand the rhetorical situation of a text.",
+      "memoryHook": "T-Rexy says: Six letters unlock any text's situation.",
+      "imageUrl": "topic:soapstone",
+      "tags": [
+        "rhetoric",
+        "analysis"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_030",
+      "question": "In SOAPSTone, what does 'Occasion' mean?",
+      "correctAnswer": "The time, place, and context that prompted the text",
+      "distractors": [
+        "The speaker's job",
+        "The reader's age",
+        "The length of the text"
+      ],
+      "explanation": "Occasion covers what event or situation led the speaker to write or speak.",
+      "memoryHook": "T-Rexy says: Every text answers a moment.",
+      "imageUrl": "topic:soapstone-occasion",
+      "tags": [
+        "rhetoric",
+        "analysis"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_031",
+      "question": "A speaker cites her 20 years as a doctor before giving health advice. Which appeal is she using?",
+      "correctAnswer": "Ethos",
+      "distractors": [
+        "Pathos",
+        "Logos",
+        "Kairos"
+      ],
+      "explanation": "Citing credentials builds credibility, which is the core of ethos.",
+      "memoryHook": "T-Rexy says: Credentials are ethos in action.",
+      "imageUrl": "topic:ethos-example",
+      "tags": [
+        "rhetoric",
+        "appeals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_032",
+      "question": "A charity ad shows a hungry child to move viewers to donate. Which appeal dominates?",
+      "correctAnswer": "Pathos",
+      "distractors": [
+        "Ethos",
+        "Logos",
+        "Kairos"
+      ],
+      "explanation": "The image targets emotion, which is pathos.",
+      "memoryHook": "T-Rexy says: A single image can carry the whole appeal.",
+      "imageUrl": "topic:pathos-example",
+      "tags": [
+        "rhetoric",
+        "appeals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_033",
+      "question": "A writer uses statistics showing a 40 percent drop in accidents after a new law. Which appeal is this?",
+      "correctAnswer": "Logos",
+      "distractors": [
+        "Ethos",
+        "Pathos",
+        "Kairos"
+      ],
+      "explanation": "Statistics and data are appeals to logic and reason.",
+      "memoryHook": "T-Rexy says: Numbers argue with logic.",
+      "imageUrl": "topic:logos-example",
+      "tags": [
+        "rhetoric",
+        "appeals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_034",
+      "question": "What does anaphora accomplish in a speech?",
+      "correctAnswer": "It creates rhythm and emphasizes a central idea",
+      "distractors": [
+        "It hides the speaker's opinion",
+        "It shortens the speech",
+        "It confuses the audience"
+      ],
+      "explanation": "Repeating a phrase at the start of clauses makes the idea memorable and powerful.",
+      "memoryHook": "T-Rexy says: Repetition is rhythm, and rhythm is memory.",
+      "imageUrl": "topic:anaphora-effect",
+      "tags": [
+        "rhetoric",
+        "devices"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_035",
+      "question": "How does parallelism strengthen an argument?",
+      "correctAnswer": "It makes related ideas feel balanced and equal in importance",
+      "distractors": [
+        "It makes sentences longer",
+        "It hides weak evidence",
+        "It removes the need for a thesis"
+      ],
+      "explanation": "Parallel structure signals that ideas belong together and carry equal weight.",
+      "memoryHook": "T-Rexy says: Balance in form signals balance in thought.",
+      "imageUrl": "topic:parallelism-effect",
+      "tags": [
+        "rhetoric",
+        "devices"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_036",
+      "question": "What is the function of a rhetorical question in a speech?",
+      "correctAnswer": "To make the audience think and emphasize a point",
+      "distractors": [
+        "To gather information from listeners",
+        "To end the speech",
+        "To introduce a new speaker"
+      ],
+      "explanation": "The question is not answered; it forces the audience to consider the implied answer.",
+      "memoryHook": "T-Rexy says: A question no one answers still argues.",
+      "imageUrl": "topic:rhetorical-question-function",
+      "tags": [
+        "rhetoric",
+        "devices"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_037",
+      "question": "What is antithesis?",
+      "correctAnswer": "Placing contrasting ideas side by side in balanced structure",
+      "distractors": [
+        "Repeating the same idea twice",
+        "Using a metaphor",
+        "Asking a question"
+      ],
+      "explanation": "Antithesis highlights contrast, as in 'not what your country can do for you, but what you can do for your country.'",
+      "memoryHook": "T-Rexy says: Opposites side by side make both sharper.",
+      "imageUrl": "topic:antithesis",
+      "tags": [
+        "rhetoric",
+        "devices"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_038",
+      "question": "What is chiasmus?",
+      "correctAnswer": "A reversal of grammatical structure in two parallel phrases",
+      "distractors": [
+        "A type of metaphor",
+        "A repeated question",
+        "An appeal to emotion"
+      ],
+      "explanation": "Chiasmus flips the order, as in 'Ask not what your country can do for you; ask what you can do for your country.'",
+      "memoryHook": "T-Rexy says: Flip the phrase and it flips the thought.",
+      "imageUrl": "topic:chiasmus",
+      "tags": [
+        "rhetoric",
+        "devices"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_039",
+      "question": "What is the difference between deductive and inductive reasoning?",
+      "correctAnswer": "Deductive starts from a general principle; inductive builds from specific examples",
+      "distractors": [
+        "Deductive uses emotion; inductive uses logic",
+        "Deductive is always wrong; inductive is always right",
+        "There is no difference"
+      ],
+      "explanation": "Deductive reasoning applies a rule to a case; inductive reasoning infers a rule from cases.",
+      "memoryHook": "T-Rexy says: General to specific, or specific to general.",
+      "imageUrl": "topic:deductive-inductive",
+      "tags": [
+        "argument",
+        "reasoning"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_040",
+      "question": "What is a syllogism?",
+      "correctAnswer": "A three-part deductive argument: major premise, minor premise, conclusion",
+      "distractors": [
+        "A type of metaphor",
+        "A rhetorical question",
+        "A list of evidence"
+      ],
+      "explanation": "A syllogism moves logically from two premises to a conclusion.",
+      "memoryHook": "T-Rexy says: Two premises, one conclusion, no escape.",
+      "imageUrl": "topic:syllogism",
+      "tags": [
+        "argument",
+        "reasoning"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_041",
+      "question": "What is the Toulmin model of argument?",
+      "correctAnswer": "A structure of claim, grounds, warrant, backing, qualifier, and rebuttal",
+      "distractors": [
+        "A way to organize paragraphs",
+        "A type of fallacy",
+        "A method of citing sources"
+      ],
+      "explanation": "Toulmin's model breaks arguments into parts so writers can check each link.",
+      "memoryHook": "T-Rexy says: Name the parts, and the argument becomes testable.",
+      "imageUrl": "topic:toulmin-model",
+      "tags": [
+        "argument",
+        "reasoning"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_042",
+      "question": "In Toulmin's model, what is a warrant?",
+      "correctAnswer": "The assumption that connects evidence to a claim",
+      "distractors": [
+        "The main claim itself",
+        "A piece of statistical evidence",
+        "The conclusion"
+      ],
+      "explanation": "The warrant is the often unstated bridge between grounds and claim.",
+      "memoryHook": "T-Rexy says: The warrant is the hidden bridge.",
+      "imageUrl": "topic:toulmin-warrant",
+      "tags": [
+        "argument",
+        "reasoning"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_043",
+      "question": "In Toulmin's model, what is a qualifier?",
+      "correctAnswer": "A word or phrase that limits how strongly a claim is made",
+      "distractors": [
+        "A type of evidence",
+        "A counterargument",
+        "A rhetorical device"
+      ],
+      "explanation": "Qualifiers like 'usually' or 'probably' make claims more precise and honest.",
+      "memoryHook": "T-Rexy says: Qualify the claim, and it gets harder to knock down.",
+      "imageUrl": "topic:toulmin-qualifier",
+      "tags": [
+        "argument",
+        "reasoning"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_044",
+      "question": "What is the purpose of addressing a counterargument?",
+      "correctAnswer": "To show fairness and strengthen credibility",
+      "distractors": [
+        "To weaken your own claim",
+        "To confuse the reader",
+        "To fill space in the essay"
+      ],
+      "explanation": "Answering objections proves the writer has considered other views.",
+      "memoryHook": "T-Rexy says: Answer the objection before it is raised.",
+      "imageUrl": "topic:counterargument-purpose",
+      "tags": [
+        "argument"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_045",
+      "question": "How does a speaker establish credibility with an audience?",
+      "correctAnswer": "By showing expertise, honesty, and shared values",
+      "distractors": [
+        "By speaking loudly",
+        "By avoiding evidence",
+        "By using only emotional appeals"
+      ],
+      "explanation": "Credibility grows from demonstrated knowledge, sincerity, and connection to the audience.",
+      "memoryHook": "T-Rexy says: Trust is earned before it is used.",
+      "imageUrl": "topic:credibility",
+      "tags": [
+        "rhetoric",
+        "appeals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_046",
+      "question": "What is the effect of short sentences in rhetoric?",
+      "correctAnswer": "They create emphasis, urgency, or punch",
+      "distractors": [
+        "They make ideas seem unimportant",
+        "They confuse the reader",
+        "They slow the pace"
+      ],
+      "explanation": "Short sentences hit hard and draw attention to a key point.",
+      "memoryHook": "T-Rexy says: Short. Sharp. Unforgettable.",
+      "imageUrl": "topic:short-sentences",
+      "tags": [
+        "rhetoric",
+        "syntax"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_047",
+      "question": "What is the effect of long, complex sentences?",
+      "correctAnswer": "They build detail, rhythm, and a sense of flow",
+      "distractors": [
+        "They always weaken an argument",
+        "They hide the main point",
+        "They are never used in speeches"
+      ],
+      "explanation": "Long sentences can layer ideas and create a sweeping, thoughtful tone.",
+      "memoryHook": "T-Rexy says: Long sentences carry the reader along.",
+      "imageUrl": "topic:long-sentences",
+      "tags": [
+        "rhetoric",
+        "syntax"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_048",
+      "question": "What is a periodic sentence?",
+      "correctAnswer": "A sentence that delays its main idea until the end",
+      "distractors": [
+        "A sentence that starts with the main idea",
+        "A very short sentence",
+        "A sentence with no verb"
+      ],
+      "explanation": "Periodic sentences build suspense by holding the key point until the end.",
+      "memoryHook": "T-Rexy says: Hold the punchline until the last word.",
+      "imageUrl": "topic:periodic-sentence",
+      "tags": [
+        "rhetoric",
+        "syntax"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_049",
+      "question": "What is a loose sentence?",
+      "correctAnswer": "A sentence that states its main idea first, then adds details",
+      "distractors": [
+        "A sentence with no punctuation",
+        "A sentence that delays its main idea",
+        "A run-on sentence"
+      ],
+      "explanation": "Loose sentences give the point early and then expand on it.",
+      "memoryHook": "T-Rexy says: Point first, details after.",
+      "imageUrl": "topic:loose-sentence",
+      "tags": [
+        "rhetoric",
+        "syntax"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_050",
+      "question": "What is the purpose of repetition in rhetoric?",
+      "correctAnswer": "To emphasize a key idea and make it memorable",
+      "distractors": [
+        "To fill time in a speech",
+        "To confuse the audience",
+        "To avoid using evidence"
+      ],
+      "explanation": "Repetition hammers a point home and creates rhythm.",
+      "memoryHook": "T-Rexy says: Say it again, and it sticks.",
+      "imageUrl": "topic:repetition",
+      "tags": [
+        "rhetoric",
+        "devices"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_051",
+      "question": "What is the difference between denotation and connotation?",
+      "correctAnswer": "Denotation is literal meaning; connotation is the feeling or association a word carries",
+      "distractors": [
+        "Denotation is emotional; connotation is literal",
+        "They mean the same thing",
+        "Denotation applies only to verbs"
+      ],
+      "explanation": "Writers choose words for both their dictionary meaning and their emotional charge.",
+      "memoryHook": "T-Rexy says: The dictionary gives one meaning; feeling gives another.",
+      "imageUrl": "topic:denotation-connotation",
+      "tags": [
+        "rhetoric",
+        "analysis"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_052",
+      "question": "How does connotation affect tone?",
+      "correctAnswer": "Words with strong associations color the writer's attitude",
+      "distractors": [
+        "It has no effect on tone",
+        "It only affects grammar",
+        "It makes sentences longer"
+      ],
+      "explanation": "Choosing 'thrifty' over 'cheap' changes the tone from positive to negative.",
+      "memoryHook": "T-Rexy says: Pick the word, pick the feeling.",
+      "imageUrl": "topic:connotation-tone",
+      "tags": [
+        "rhetoric",
+        "analysis"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_053",
+      "question": "What is a rhetorical shift?",
+      "correctAnswer": "A change in tone, perspective, or focus within a text",
+      "distractors": [
+        "A change in font",
+        "A new paragraph",
+        "A grammatical error"
+      ],
+      "explanation": "Shifts signal that the writer is moving to a new idea or mood.",
+      "memoryHook": "T-Rexy says: When the tone turns, pay attention.",
+      "imageUrl": "topic:rhetorical-shift",
+      "tags": [
+        "rhetoric",
+        "analysis"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_054",
+      "question": "What is the purpose of sources in a synthesis essay?",
+      "correctAnswer": "To provide evidence that supports the writer's own argument",
+      "distractors": [
+        "To be summarized one by one",
+        "To replace the writer's voice",
+        "To fill the word count"
+      ],
+      "explanation": "Sources support the writer's claim; the writer's voice leads.",
+      "memoryHook": "T-Rexy says: Sources serve your argument, not the other way around.",
+      "imageUrl": "topic:synthesis-sources",
+      "tags": [
+        "exam",
+        "writing"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_055",
+      "question": "What is the difference between summarizing and synthesizing?",
+      "correctAnswer": "Summarizing restates one source; synthesizing combines sources into a new argument",
+      "distractors": [
+        "They are the same thing",
+        "Summarizing uses quotes; synthesizing does not",
+        "Synthesizing is shorter"
+      ],
+      "explanation": "Synthesis creates something new from the conversation between sources.",
+      "memoryHook": "T-Rexy says: Summary reports; synthesis builds.",
+      "imageUrl": "topic:summarize-synthesize",
+      "tags": [
+        "exam",
+        "writing"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_056",
+      "question": "What is a rhetorical analysis essay?",
+      "correctAnswer": "An essay that explains how a writer uses rhetorical choices to achieve a purpose",
+      "distractors": [
+        "An essay that argues a position",
+        "An essay that summarizes a text",
+        "An essay that tells a story"
+      ],
+      "explanation": "Rhetorical analysis focuses on HOW the text persuades, not just WHAT it says.",
+      "memoryHook": "T-Rexy says: Analyze the how, not just the what.",
+      "imageUrl": "topic:rhetorical-analysis-essay",
+      "tags": [
+        "exam",
+        "writing"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_057",
+      "question": "What is the argument essay (Question 3) on the AP Lang exam?",
+      "correctAnswer": "An essay that defends a position on an issue using evidence and reasoning",
+      "distractors": [
+        "An essay that analyzes a speech",
+        "An essay that uses seven sources",
+        "An essay that summarizes a novel"
+      ],
+      "explanation": "Question 3 asks students to build their own argument on a given topic.",
+      "memoryHook": "T-Rexy says: Q3 is your argument, your evidence.",
+      "imageUrl": "topic:ap-lang-q3",
+      "tags": [
+        "exam"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_058",
+      "question": "What is the rhetorical analysis essay (Question 2) on the AP Lang exam?",
+      "correctAnswer": "An essay analyzing how a writer's choices create meaning or persuade",
+      "distractors": [
+        "An essay using multiple sources",
+        "An essay arguing a personal opinion",
+        "An essay summarizing a book"
+      ],
+      "explanation": "Question 2 gives a passage and asks how its rhetorical strategies work.",
+      "memoryHook": "T-Rexy says: Q2 is about how the passage works.",
+      "imageUrl": "topic:ap-lang-q2",
+      "tags": [
+        "exam"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_059",
+      "question": "What is the synthesis essay (Question 1) on the AP Lang exam?",
+      "correctAnswer": "An essay that uses at least three sources to support an argument",
+      "distractors": [
+        "An essay with no sources",
+        "An essay analyzing one speech",
+        "An essay about literature"
+      ],
+      "explanation": "Question 1 provides sources and asks students to build an argument from them.",
+      "memoryHook": "T-Rexy says: Q1 weaves sources into your argument.",
+      "imageUrl": "topic:ap-lang-q1",
+      "tags": [
+        "exam"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_060",
+      "question": "How many free-response essays are on the AP English Language exam?",
+      "correctAnswer": "Three",
+      "distractors": [
+        "One",
+        "Two",
+        "Five"
+      ],
+      "explanation": "The exam has three essays: synthesis, rhetorical analysis, and argument.",
+      "memoryHook": "T-Rexy says: Three essays, three different skills.",
+      "imageUrl": "topic:ap-lang-essays",
+      "tags": [
+        "exam"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_061",
+      "question": "What does the multiple-choice section of the AP Lang exam test?",
+      "correctAnswer": "Reading and analyzing nonfiction texts",
+      "distractors": [
+        "Creative writing",
+        "Poetry memorization",
+        "Grammar drills only"
+      ],
+      "explanation": "Multiple-choice questions ask students to analyze rhetoric in nonfiction passages.",
+      "memoryHook": "T-Rexy says: Read closely, analyze the rhetoric.",
+      "imageUrl": "topic:ap-lang-multiple-choice",
+      "tags": [
+        "exam"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_062",
+      "question": "In SOAPSTone, what does 'Speaker' mean?",
+      "correctAnswer": "The person or persona delivering the message",
+      "distractors": [
+        "The audience",
+        "The topic",
+        "The tone"
+      ],
+      "explanation": "The speaker may be the author or a persona the author adopts.",
+      "memoryHook": "T-Rexy says: Who is talking matters as much as what is said.",
+      "imageUrl": "topic:soapstone-speaker",
+      "tags": [
+        "rhetoric",
+        "analysis"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_063",
+      "question": "In SOAPSTone, what does 'Audience' mean?",
+      "correctAnswer": "The people the speaker is addressing",
+      "distractors": [
+        "The topic of the text",
+        "The author's purpose",
+        "The historical period"
+      ],
+      "explanation": "Writers shape their message for the specific people they address.",
+      "memoryHook": "T-Rexy says: Know your listeners, and your words land.",
+      "imageUrl": "topic:soapstone-audience",
+      "tags": [
+        "rhetoric",
+        "analysis"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_064",
+      "question": "In SOAPSTone, what does 'Purpose' mean?",
+      "correctAnswer": "What the speaker wants the audience to think, feel, or do",
+      "distractors": [
+        "The subject of the text",
+        "The speaker's job",
+        "The tone of voice"
+      ],
+      "explanation": "Purpose is the goal behind the message.",
+      "memoryHook": "T-Rexy says: Every message wants something from its audience.",
+      "imageUrl": "topic:soapstone-purpose",
+      "tags": [
+        "rhetoric",
+        "analysis"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_065",
+      "question": "What is an exigence?",
+      "correctAnswer": "The issue or problem that prompts a text",
+      "distractors": [
+        "The conclusion of an essay",
+        "A type of fallacy",
+        "The speaker's tone"
+      ],
+      "explanation": "Exigence is the urgency or need that calls a text into being.",
+      "memoryHook": "T-Rexy says: Something demanded a response, and this text is it.",
+      "imageUrl": "topic:exigence",
+      "tags": [
+        "rhetoric"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_066",
+      "question": "What is a rhetorical situation?",
+      "correctAnswer": "The context of speaker, audience, purpose, and occasion",
+      "distractors": [
+        "A type of essay",
+        "A grammatical structure",
+        "A fallacy"
+      ],
+      "explanation": "The rhetorical situation shapes every choice a writer makes.",
+      "memoryHook": "T-Rexy says: Context shapes every word.",
+      "imageUrl": "topic:rhetorical-situation",
+      "tags": [
+        "rhetoric"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_067",
+      "question": "What is the effect of first-person point of view in nonfiction?",
+      "correctAnswer": "It creates intimacy and personal authority",
+      "distractors": [
+        "It makes the text objective",
+        "It hides the author's opinion",
+        "It confuses the reader"
+      ],
+      "explanation": "First person lets the writer speak directly from experience.",
+      "memoryHook": "T-Rexy says: 'I' brings the reader close.",
+      "imageUrl": "topic:first-person",
+      "tags": [
+        "rhetoric",
+        "analysis"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_068",
+      "question": "What is the effect of second-person point of view?",
+      "correctAnswer": "It addresses the reader directly and involves them",
+      "distractors": [
+        "It makes the text formal",
+        "It removes the audience",
+        "It tells a story about others"
+      ],
+      "explanation": "Second person ('you') pulls the reader into the argument.",
+      "memoryHook": "T-Rexy says: 'You' makes the reader part of the argument.",
+      "imageUrl": "topic:second-person",
+      "tags": [
+        "rhetoric",
+        "analysis"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_069",
+      "question": "What is the effect of third-person point of view in nonfiction?",
+      "correctAnswer": "It creates distance and an objective, authoritative tone",
+      "distractors": [
+        "It makes the text personal",
+        "It addresses the reader",
+        "It shows the author's feelings"
+      ],
+      "explanation": "Third person sounds neutral and lets evidence speak.",
+      "memoryHook": "T-Rexy says: 'He,' 'she,' and 'they' keep the writer at a distance.",
+      "imageUrl": "topic:third-person",
+      "tags": [
+        "rhetoric",
+        "analysis"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_070",
+      "question": "What is an appeal to authority?",
+      "correctAnswer": "Using a credible expert or source to support a claim",
+      "distractors": [
+        "Appealing to the audience's fears",
+        "Using statistics",
+        "Attacking an opponent"
+      ],
+      "explanation": "Citing an expert borrows their credibility for the argument.",
+      "memoryHook": "T-Rexy says: Borrow an expert's trust, but use it honestly.",
+      "imageUrl": "topic:appeal-to-authority",
+      "tags": [
+        "rhetoric",
+        "appeals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_071",
+      "question": "A writer argues: 'If we allow students to retake one test, soon they will demand to retake every test, and grades will mean nothing.' What fallacy is this?",
+      "correctAnswer": "Slippery slope",
+      "distractors": [
+        "Ad hominem",
+        "Straw man",
+        "Appeal to authority"
+      ],
+      "explanation": "The argument leaps from one step to an extreme outcome without proving the chain.",
+      "memoryHook": "T-Rexy says: One retake does not erase all grades.",
+      "imageUrl": "topic:slippery-slope-example",
+      "tags": [
+        "argument",
+        "fallacies"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_072",
+      "question": "What is a false dilemma fallacy?",
+      "correctAnswer": "Presenting only two options when more exist",
+      "distractors": [
+        "Attacking a person's character",
+        "Using circular reasoning",
+        "Appealing to popularity"
+      ],
+      "explanation": "False dilemmas force a choice between extremes and hide middle ground.",
+      "memoryHook": "T-Rexy says: Life rarely offers only two doors.",
+      "imageUrl": "topic:false-dilemma",
+      "tags": [
+        "argument",
+        "fallacies"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_073",
+      "question": "What is a red herring fallacy?",
+      "correctAnswer": "Introducing an irrelevant topic to distract from the real issue",
+      "distractors": [
+        "Attacking the speaker",
+        "Repeating a claim",
+        "Using too much evidence"
+      ],
+      "explanation": "A red herring drags attention away from the argument that matters.",
+      "memoryHook": "T-Rexy says: Follow the argument, not the distraction.",
+      "imageUrl": "topic:red-herring",
+      "tags": [
+        "argument",
+        "fallacies"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_074",
+      "question": "What is a bandwagon fallacy?",
+      "correctAnswer": "Arguing something is true because many people believe it",
+      "distractors": [
+        "Arguing from a single example",
+        "Attacking a straw man",
+        "Using a false analogy"
+      ],
+      "explanation": "Popularity does not make a claim true.",
+      "memoryHook": "T-Rexy says: Everyone believing it does not make it true.",
+      "imageUrl": "topic:bandwagon",
+      "tags": [
+        "argument",
+        "fallacies"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_075",
+      "question": "What is a hasty generalization?",
+      "correctAnswer": "Drawing a broad conclusion from too little evidence",
+      "distractors": [
+        "Attacking a person's character",
+        "Using circular logic",
+        "Appealing to fear"
+      ],
+      "explanation": "One example is rarely enough to prove a general rule.",
+      "memoryHook": "T-Rexy says: One swallow does not make a summer.",
+      "imageUrl": "topic:hasty-generalization",
+      "tags": [
+        "argument",
+        "fallacies"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_076",
+      "question": "What is a post hoc fallacy?",
+      "correctAnswer": "Assuming that because one event followed another, the first caused the second",
+      "distractors": [
+        "Attacking the speaker's motives",
+        "Using a weak analogy",
+        "Appealing to tradition"
+      ],
+      "explanation": "Sequence alone does not prove causation.",
+      "memoryHook": "T-Rexy says: After is not the same as because.",
+      "imageUrl": "topic:post-hoc",
+      "tags": [
+        "argument",
+        "fallacies"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_077",
+      "question": "What is an appeal to ignorance?",
+      "correctAnswer": "Claiming something is true because it has not been proven false",
+      "distractors": [
+        "Claiming something is false because it is unpopular",
+        "Attacking the opponent",
+        "Using emotional language"
+      ],
+      "explanation": "Lack of proof is not proof of the opposite.",
+      "memoryHook": "T-Rexy says: Not disproven is not proven.",
+      "imageUrl": "topic:appeal-to-ignorance",
+      "tags": [
+        "argument",
+        "fallacies"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_078",
+      "question": "What is circular reasoning?",
+      "correctAnswer": "Restating the claim as its own evidence",
+      "distractors": [
+        "Using a metaphor",
+        "Citing an expert",
+        "Asking a rhetorical question"
+      ],
+      "explanation": "Circular arguments assume the conclusion instead of proving it.",
+      "memoryHook": "T-Rexy says: A claim cannot prove itself.",
+      "imageUrl": "topic:circular-reasoning",
+      "tags": [
+        "argument",
+        "fallacies"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_079",
+      "question": "What is a non sequitur?",
+      "correctAnswer": "A conclusion that does not follow from its premises",
+      "distractors": [
+        "A conclusion supported by strong evidence",
+        "A type of metaphor",
+        "A rhetorical question"
+      ],
+      "explanation": "Non sequitur means 'it does not follow' in Latin.",
+      "memoryHook": "T-Rexy says: If it does not follow, it does not prove.",
+      "imageUrl": "topic:non-sequitur",
+      "tags": [
+        "argument",
+        "fallacies"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_080",
+      "question": "How does a speaker use concession to strengthen an argument?",
+      "correctAnswer": "By admitting a valid opposing point, then showing the main claim still holds",
+      "distractors": [
+        "By giving up the argument entirely",
+        "By ignoring the opposition",
+        "By attacking the opponent"
+      ],
+      "explanation": "A concession followed by a rebuttal shows confidence and fairness.",
+      "memoryHook": "T-Rexy says: Concede the small point, win the big one.",
+      "imageUrl": "topic:concession-strength",
+      "tags": [
+        "argument"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_081",
+      "question": "What is the difference between claims of fact, value, and policy?",
+      "correctAnswer": "Fact claims state what is true; value claims judge worth; policy claims propose action",
+      "distractors": [
+        "They are identical",
+        "Fact claims use emotion; value claims use logic",
+        "Policy claims are always false"
+      ],
+      "explanation": "Each claim type needs different evidence: facts need data, values need criteria, policies need plans.",
+      "memoryHook": "T-Rexy says: Fact, value, policy: three claims, three kinds of proof.",
+      "imageUrl": "topic:claim-types",
+      "tags": [
+        "argument"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_082",
+      "question": "What is a claim of policy?",
+      "correctAnswer": "A claim that proposes a course of action or change",
+      "distractors": [
+        "A claim about what is true",
+        "A claim about what is good or bad",
+        "A claim with no evidence"
+      ],
+      "explanation": "Policy claims argue that something should be done.",
+      "memoryHook": "T-Rexy says: Policy claims answer 'what should we do?'",
+      "imageUrl": "topic:claim-of-policy",
+      "tags": [
+        "argument"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_083",
+      "question": "What is a claim of value?",
+      "correctAnswer": "A claim that judges something as good, bad, right, or wrong",
+      "distractors": [
+        "A claim about a fact",
+        "A claim proposing a law",
+        "A claim with statistics"
+      ],
+      "explanation": "Value claims rest on criteria for what counts as good or bad.",
+      "memoryHook": "T-Rexy says: Value claims judge, so they need standards.",
+      "imageUrl": "topic:claim-of-value",
+      "tags": [
+        "argument"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_084",
+      "question": "What is a claim of fact?",
+      "correctAnswer": "A claim that asserts something is true or false",
+      "distractors": [
+        "A claim about what should be done",
+        "A claim about what is beautiful",
+        "A claim with no support"
+      ],
+      "explanation": "Fact claims are settled by evidence and verification.",
+      "memoryHook": "T-Rexy says: Fact claims live or die by evidence.",
+      "imageUrl": "topic:claim-of-fact",
+      "tags": [
+        "argument"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_085",
+      "question": "How does syntax create emphasis in a sentence?",
+      "correctAnswer": "By placing key words in prominent positions or using unusual structures",
+      "distractors": [
+        "By using long words",
+        "By adding more paragraphs",
+        "By removing punctuation"
+      ],
+      "explanation": "Writers put important ideas at the start or end of sentences, where readers notice them.",
+      "memoryHook": "T-Rexy says: Where you put the word is where the eye goes.",
+      "imageUrl": "topic:syntax-emphasis",
+      "tags": [
+        "rhetoric",
+        "syntax"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_086",
+      "question": "What is asyndeton?",
+      "correctAnswer": "Omitting conjunctions between words or clauses",
+      "distractors": [
+        "Adding extra conjunctions",
+        "Repeating a word",
+        "Using a metaphor"
+      ],
+      "explanation": "Asyndeton speeds up a sentence and creates punch, as in 'I came, I saw, I conquered.'",
+      "memoryHook": "T-Rexy says: Drop the 'and' and the pace quickens.",
+      "imageUrl": "topic:asyndeton",
+      "tags": [
+        "rhetoric",
+        "devices"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_087",
+      "question": "What is polysyndeton?",
+      "correctAnswer": "Using many conjunctions between words or clauses",
+      "distractors": [
+        "Omitting conjunctions",
+        "Repeating a phrase",
+        "Using short sentences"
+      ],
+      "explanation": "Polysyndeton slows a sentence and adds weight to each item.",
+      "memoryHook": "T-Rexy says: Add the 'ands' and every item gains weight.",
+      "imageUrl": "topic:polysyndeton",
+      "tags": [
+        "rhetoric",
+        "devices"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_088",
+      "question": "What is the effect of asyndeton?",
+      "correctAnswer": "It creates speed, urgency, and a sense of accumulation",
+      "distractors": [
+        "It slows the reader down",
+        "It confuses the meaning",
+        "It makes sentences formal"
+      ],
+      "explanation": "Lists without conjunctions feel rapid and forceful.",
+      "memoryHook": "T-Rexy says: No conjunctions, no brakes.",
+      "imageUrl": "topic:asyndeton-effect",
+      "tags": [
+        "rhetoric",
+        "devices"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_089",
+      "question": "What is the effect of polysyndeton?",
+      "correctAnswer": "It slows the pace and gives each element equal weight",
+      "distractors": [
+        "It speeds up the sentence",
+        "It removes emphasis",
+        "It shortens the text"
+      ],
+      "explanation": "Repeated conjunctions make each item feel deliberate and important.",
+      "memoryHook": "T-Rexy says: Every 'and' adds another beat.",
+      "imageUrl": "topic:polysyndeton-effect",
+      "tags": [
+        "rhetoric",
+        "devices"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_090",
+      "question": "How is a rhetorical question different from a genuine question?",
+      "correctAnswer": "A rhetorical question expects no answer; a genuine question seeks information",
+      "distractors": [
+        "They are the same",
+        "Rhetorical questions are always longer",
+        "Genuine questions are never answered"
+      ],
+      "explanation": "The speaker of a rhetorical question already implies the answer.",
+      "memoryHook": "T-Rexy says: If the answer is implied, it is rhetorical.",
+      "imageUrl": "topic:rhetorical-vs-genuine",
+      "tags": [
+        "rhetoric",
+        "devices"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_091",
+      "question": "How does a speaker adapt to a specific audience?",
+      "correctAnswer": "By adjusting tone, evidence, and examples to fit the audience's values and knowledge",
+      "distractors": [
+        "By using the same approach for everyone",
+        "By ignoring the audience",
+        "By speaking as loudly as possible"
+      ],
+      "explanation": "Effective rhetoric meets the audience where they are.",
+      "memoryHook": "T-Rexy says: Speak to your listeners, not past them.",
+      "imageUrl": "topic:audience-adaptation",
+      "tags": [
+        "rhetoric"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_092",
+      "question": "What is the purpose of an anecdote in an argument?",
+      "correctAnswer": "To illustrate a point with a brief story that engages the audience",
+      "distractors": [
+        "To replace all evidence",
+        "To confuse the reader",
+        "To end the essay"
+      ],
+      "explanation": "Anecdotes make abstract claims concrete and memorable.",
+      "memoryHook": "T-Rexy says: A short story can carry a big point.",
+      "imageUrl": "topic:anecdote",
+      "tags": [
+        "rhetoric",
+        "argument"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_093",
+      "question": "What is the difference between a rhetorical device and a rhetorical strategy?",
+      "correctAnswer": "A device is a specific technique; a strategy is the overall plan for achieving a purpose",
+      "distractors": [
+        "They are the same thing",
+        "Devices are for speeches; strategies are for essays",
+        "Strategies are always fallacies"
+      ],
+      "explanation": "Devices serve strategies: a writer chooses devices to carry out a larger plan.",
+      "memoryHook": "T-Rexy says: Devices are tools; strategy is the plan.",
+      "imageUrl": "topic:device-vs-strategy",
+      "tags": [
+        "rhetoric"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_094",
+      "question": "What is the difference between the rhetorical triangle and the rhetorical situation?",
+      "correctAnswer": "The triangle names speaker, audience, and subject; the situation adds context, purpose, and exigence",
+      "distractors": [
+        "They are identical",
+        "The triangle is for essays only",
+        "The situation ignores the audience"
+      ],
+      "explanation": "The situation is the fuller picture: the triangle plus the circumstances that call for the text.",
+      "memoryHook": "T-Rexy says: Triangle plus context equals situation.",
+      "imageUrl": "topic:triangle-vs-situation",
+      "tags": [
+        "rhetoric"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_095",
+      "question": "What is the effect of a rhetorical shift in tone?",
+      "correctAnswer": "It signals a change in the writer's attitude or a turn in the argument",
+      "distractors": [
+        "It has no effect",
+        "It always weakens the argument",
+        "It marks a new essay"
+      ],
+      "explanation": "Shifts can move from serious to ironic, or from personal to analytical, changing how readers respond.",
+      "memoryHook": "T-Rexy says: A shift in tone is a turn in the road.",
+      "imageUrl": "topic:tone-shift",
+      "tags": [
+        "rhetoric",
+        "analysis"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_096",
+      "question": "How does a writer use evidence to support a claim?",
+      "correctAnswer": "By selecting relevant, credible evidence and explaining how it proves the claim",
+      "distractors": [
+        "By listing as many facts as possible",
+        "By quoting without comment",
+        "By using only personal opinions"
+      ],
+      "explanation": "Evidence works only when the writer connects it clearly to the claim.",
+      "memoryHook": "T-Rexy says: Evidence without explanation is just decoration.",
+      "imageUrl": "topic:evidence-use",
+      "tags": [
+        "argument"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_097",
+      "question": "What is the difference between primary and secondary sources in synthesis?",
+      "correctAnswer": "Primary sources are original materials; secondary sources analyze or discuss them",
+      "distractors": [
+        "Primary sources are always better",
+        "Secondary sources are always unreliable",
+        "There is no difference"
+      ],
+      "explanation": "A speech is a primary source; an article about the speech is secondary.",
+      "memoryHook": "T-Rexy says: Original versus about the original.",
+      "imageUrl": "topic:primary-secondary",
+      "tags": [
+        "exam",
+        "writing"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_098",
+      "question": "What is the role of a counterargument in a synthesis essay?",
+      "correctAnswer": "To acknowledge an opposing view and show why the writer's position still holds",
+      "distractors": [
+        "To take up space",
+        "To replace the writer's claim",
+        "To summarize a source"
+      ],
+      "explanation": "A synthesis essay that answers objections is more persuasive than one that ignores them.",
+      "memoryHook": "T-Rexy says: Answer the other side, even in synthesis.",
+      "imageUrl": "topic:synthesis-counterargument",
+      "tags": [
+        "exam",
+        "writing"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_099",
+      "question": "What is the purpose of the conclusion in a rhetorical analysis essay?",
+      "correctAnswer": "To restate how the writer's choices achieve the purpose and leave a final impression",
+      "distractors": [
+        "To introduce new evidence",
+        "To summarize the passage",
+        "To ask a new question"
+      ],
+      "explanation": "The conclusion ties the analysis together and reinforces the overall argument.",
+      "memoryHook": "T-Rexy says: End by showing how it all worked.",
+      "imageUrl": "topic:conclusion-rhetorical-analysis",
+      "tags": [
+        "exam",
+        "writing"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "ELAN_100",
+      "question": "A passage uses short, punchy sentences, repetition, and direct address to urge action. Which rhetorical strategy best describes this?",
+      "correctAnswer": "A call to action built on urgency and direct engagement",
+      "distractors": [
+        "A detached, academic analysis",
+        "A neutral summary of facts",
+        "A fictional narrative"
+      ],
+      "explanation": "The combination of short sentences, repetition, and 'you' language is designed to move readers to act.",
+      "memoryHook": "T-Rexy says: Short sentences plus 'you' equals urgency.",
+      "imageUrl": "topic:call-to-action",
+      "tags": [
+        "rhetoric",
+        "analysis"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}
