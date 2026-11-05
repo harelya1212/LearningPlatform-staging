@@ -1,6 +1,8 @@
 {
   "packId": "gr8-spanish-1",
-  "version": 1.0,
+  "title": "Spanish 1 (8th Grade)",
+  "description": "Spanish 1 (8th Grade) practice - 100 questions",
+  "version": "1.0",
   "language": "en",
   "passingScore": 60,
   "totalQuestions": 100,

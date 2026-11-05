@@ -1,6 +1,8 @@
 {
   "packId": "gr8-us-history",
-  "version": 1.0,
+  "title": "US History (8th Grade)",
+  "description": "US History (8th Grade) practice - 100 questions",
+  "version": "1.0",
   "language": "en",
   "passingScore": 60,
   "totalQuestions": 100,

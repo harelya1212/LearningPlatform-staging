@@ -1,6 +1,8 @@
 {
   "packId": "gr8-english-grammar",
-  "version": 1.0,
+  "title": "English Grammar (8th Grade)",
+  "description": "English Grammar (8th Grade) practice - 100 questions",
+  "version": "1.0",
   "language": "en",
   "passingScore": 60,
   "totalQuestions": 100,

@@ -1,6 +1,8 @@
 {
   "packId": "gr8-digital-literacy",
-  "version": 1.0,
+  "title": "Digital Literacy (8th Grade)",
+  "description": "Digital Literacy (8th Grade) practice - 100 questions",
+  "version": "1.0",
   "language": "en",
   "passingScore": 60,
   "totalQuestions": 100,
