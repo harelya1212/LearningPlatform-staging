@@ -1,5 +1,7 @@
 {
   "packId": "ella-ap-statistics",
+  "title": "AP Statistics (12th)",
+  "description": "AP Statistics (12th) practice - 100 questions",
   "version": "1.0",
   "language": "en",
   "passingScore": 60,

@@ -1,5 +1,7 @@
 {
   "packId": "ella-ap-biology",
+  "title": "AP Biology (12th)",
+  "description": "AP Biology (12th) practice - 100 questions",
   "version": "1.0",
   "language": "en",
   "passingScore": 60,

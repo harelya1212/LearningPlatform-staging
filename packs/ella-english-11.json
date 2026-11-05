@@ -1,5 +1,7 @@
 {
   "packId": "ella-english-11",
+  "title": "English 11 (11th)",
+  "description": "English 11 (11th) practice - 100 questions",
   "version": "1.0",
   "language": "en",
   "passingScore": 60,

@@ -1,5 +1,7 @@
 {
   "packId": "ella-ap-cs-principles",
+  "title": "AP Computer Science Principles (11th)",
+  "description": "AP Computer Science Principles (11th) practice - 100 questions",
   "version": "1.0",
   "language": "en",
   "passingScore": 60,

@@ -1,5 +1,7 @@
 {
   "packId": "ella-ap-physics-1",
+  "title": "AP Physics 1 (11th)",
+  "description": "AP Physics 1 (11th) practice - 100 questions",
   "version": "1.0",
   "language": "en",
   "passingScore": 60,

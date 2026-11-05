@@ -1,21 +1,35 @@
 {
   "packId": "ella-ap-studio-art-3d",
+  "title": "AP Studio Art 3-D (12th)",
+  "description": "AP Studio Art 3-D (12th) practice - 100 questions",
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
   "totalQuestions": 100,
   "addedAt": "2026-11-04",
-  "tags": ["art", "3d", "ap", "12th"],
+  "tags": [
+    "art",
+    "3d",
+    "ap",
+    "12th"
+  ],
   "questions": [
     {
       "id": "EART3D_001",
       "question": "Which term describes a sculpture meant to be viewed from all sides?",
       "correctAnswer": "Sculpture in the round",
-      "distractors": ["Bas-relief", "Sunken relief", "Fresco"],
+      "distractors": [
+        "Bas-relief",
+        "Sunken relief",
+        "Fresco"
+      ],
       "explanation": "Sculpture in the round is freestanding and finished on every side, unlike relief sculpture which is attached to a background.",
       "memoryHook": "T-Rexy says: Walk all the way around me - I look good from every angle, and so does sculpture in the round!",
       "imageUrl": "topic:sculpture-in-the-round",
-      "tags": ["sculpture", "technique"],
+      "tags": [
+        "sculpture",
+        "technique"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -24,11 +38,18 @@
       "id": "EART3D_002",
       "question": "Carving is an example of which sculptural process?",
       "correctAnswer": "Subtractive",
-      "distractors": ["Additive", "Casting", "Assemblage"],
+      "distractors": [
+        "Additive",
+        "Casting",
+        "Assemblage"
+      ],
       "explanation": "Carving removes material from a block, so it is subtractive. Modeling and assembling add material, so they are additive.",
       "memoryHook": "T-Rexy says: Carving is like erasing - you take away until the shape appears!",
       "imageUrl": "topic:carving-subtractive",
-      "tags": ["sculpture", "technique"],
+      "tags": [
+        "sculpture",
+        "technique"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -37,11 +58,18 @@
       "id": "EART3D_003",
       "question": "Which material is most commonly associated with modeling, an additive process?",
       "correctAnswer": "Clay",
-      "distractors": ["Marble", "Granite", "Steel"],
+      "distractors": [
+        "Marble",
+        "Granite",
+        "Steel"
+      ],
       "explanation": "Clay is soft and buildable, making it ideal for the additive process of modeling. Marble and granite are carved, and steel is welded or cast.",
       "memoryHook": "T-Rexy says: Squish it, stack it, shape it - clay loves to be added together!",
       "imageUrl": "topic:modeling-clay",
-      "tags": ["sculpture", "materials"],
+      "tags": [
+        "sculpture",
+        "materials"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -50,11 +78,18 @@
       "id": "EART3D_004",
       "question": "A sculpture that projects only slightly from a flat background is called",
       "correctAnswer": "Low relief (bas-relief)",
-      "distractors": ["High relief", "In the round", "Mobile"],
+      "distractors": [
+        "High relief",
+        "In the round",
+        "Mobile"
+      ],
       "explanation": "Bas-relief (low relief) barely rises from its background, like images on coins. High relief projects dramatically outward.",
       "memoryHook": "T-Rexy says: Bas-relief is shy - it only peeks out a little from the wall!",
       "imageUrl": "topic:bas-relief",
-      "tags": ["sculpture", "technique"],
+      "tags": [
+        "sculpture",
+        "technique"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -63,11 +98,18 @@
       "id": "EART3D_005",
       "question": "In lost-wax casting, what replaces the wax model inside the mold?",
       "correctAnswer": "Molten bronze",
-      "distractors": ["Plaster", "Clay slip", "Molten glass"],
+      "distractors": [
+        "Plaster",
+        "Clay slip",
+        "Molten glass"
+      ],
       "explanation": "The wax is melted out (lost), leaving a cavity that is filled with molten bronze, which hardens into the final sculpture.",
       "memoryHook": "T-Rexy says: The wax runs away and bronze rushes in to take its place - sneaky swap!",
       "imageUrl": "topic:lost-wax-casting",
-      "tags": ["sculpture", "technique"],
+      "tags": [
+        "sculpture",
+        "technique"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -76,11 +118,18 @@
       "id": "EART3D_006",
       "question": "An armature is used in sculpture to",
       "correctAnswer": "Support the structure of a modeled form",
-      "distractors": ["Apply glaze to ceramics", "Polish marble surfaces", "Mix plaster"],
+      "distractors": [
+        "Apply glaze to ceramics",
+        "Polish marble surfaces",
+        "Mix plaster"
+      ],
       "explanation": "An armature is an inner skeleton, usually wire or wood, that holds up soft modeled materials like clay.",
       "memoryHook": "T-Rexy says: Even sculptures need bones - the armature is the skeleton inside!",
       "imageUrl": "topic:armature-support",
-      "tags": ["sculpture", "technique"],
+      "tags": [
+        "sculpture",
+        "technique"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -89,11 +138,18 @@
       "id": "EART3D_007",
       "question": "Which of these describes an assemblage technique?",
       "correctAnswer": "Joining found objects into a sculpture",
-      "distractors": ["Carving a block of wood", "Pouring bronze into a mold", "Throwing a pot on a wheel"],
+      "distractors": [
+        "Carving a block of wood",
+        "Pouring bronze into a mold",
+        "Throwing a pot on a wheel"
+      ],
       "explanation": "Assemblage is an additive process that builds sculpture by combining found or manufactured objects.",
       "memoryHook": "T-Rexy says: One dino's trash is another dino's sculpture - assemblage!",
       "imageUrl": "topic:assemblage-found-objects",
-      "tags": ["sculpture", "technique"],
+      "tags": [
+        "sculpture",
+        "technique"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -102,11 +158,18 @@
       "id": "EART3D_008",
       "question": "Michelangelo's David was created using which process?",
       "correctAnswer": "Carving marble",
-      "distractors": ["Casting bronze", "Welding steel", "Modeling clay"],
+      "distractors": [
+        "Casting bronze",
+        "Welding steel",
+        "Modeling clay"
+      ],
       "explanation": "Michelangelo subtractively carved the David from a single block of Carrara marble between 1501 and 1504.",
       "memoryHook": "T-Rexy says: Michelangelo freed David from the marble - he just removed everything that was not David!",
       "imageUrl": "topic:michelangelo-david",
-      "tags": ["art-history", "sculptor"],
+      "tags": [
+        "art-history",
+        "sculptor"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -115,11 +178,18 @@
       "id": "EART3D_009",
       "question": "The term maquette refers to",
       "correctAnswer": "A small preliminary model for a larger sculpture",
-      "distractors": ["A type of kiln", "A chisel for stone carving", "A glaze recipe"],
+      "distractors": [
+        "A type of kiln",
+        "A chisel for stone carving",
+        "A glaze recipe"
+      ],
       "explanation": "Artists build maquettes to test composition and solve structural problems before committing to full scale.",
       "memoryHook": "T-Rexy says: A maquette is a sculpture's baby photo - small now, huge later!",
       "imageUrl": "topic:maquette-model",
-      "tags": ["sculpture", "technique"],
+      "tags": [
+        "sculpture",
+        "technique"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -128,11 +198,18 @@
       "id": "EART3D_010",
       "question": "Pinch, coil, and slab are methods of",
       "correctAnswer": "Hand-building with clay",
-      "distractors": ["Welding metal", "Carving stone", "Casting glass"],
+      "distractors": [
+        "Welding metal",
+        "Carving stone",
+        "Casting glass"
+      ],
       "explanation": "These are the three fundamental hand-building techniques: pinching, coiling ropes of clay, and joining flat slabs.",
       "memoryHook": "T-Rexy says: Pinch it, coil it, slab it - three ways to build without a wheel!",
       "imageUrl": "topic:hand-building-clay",
-      "tags": ["ceramics", "hand-building"],
+      "tags": [
+        "ceramics",
+        "hand-building"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -141,11 +218,18 @@
       "id": "EART3D_011",
       "question": "Before its first firing, unfired clay is called",
       "correctAnswer": "Greenware",
-      "distractors": ["Bisqueware", "Stoneware", "Terra cotta"],
+      "distractors": [
+        "Bisqueware",
+        "Stoneware",
+        "Terra cotta"
+      ],
       "explanation": "Greenware is dry but unfired clay. After the first (bisque) firing it becomes bisqueware.",
       "memoryHook": "T-Rexy says: Greenware is not green - it is just not baked yet!",
       "imageUrl": "topic:greenware-clay",
-      "tags": ["ceramics", "firing"],
+      "tags": [
+        "ceramics",
+        "firing"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -154,11 +238,18 @@
       "id": "EART3D_012",
       "question": "Clay that is firm but still damp enough to carve or attach handles is at what stage?",
       "correctAnswer": "Leather-hard",
-      "distractors": ["Bone dry", "Bisque-fired", "Glaze-fired"],
+      "distractors": [
+        "Bone dry",
+        "Bisque-fired",
+        "Glaze-fired"
+      ],
       "explanation": "Leather-hard clay holds its shape but can still be carved, trimmed, and joined - the ideal working stage for refinement.",
       "memoryHook": "T-Rexy says: Leather-hard feels like a chocolate bar - firm but you can still carve it!",
       "imageUrl": "topic:leather-hard-clay",
-      "tags": ["ceramics", "technique"],
+      "tags": [
+        "ceramics",
+        "technique"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -167,11 +258,18 @@
       "id": "EART3D_013",
       "question": "What is the purpose of bisque firing?",
       "correctAnswer": "To harden the clay so it can be glazed safely",
-      "distractors": ["To melt the glaze onto the surface", "To add color to the clay", "To make the clay waterproof"],
+      "distractors": [
+        "To melt the glaze onto the surface",
+        "To add color to the clay",
+        "To make the clay waterproof"
+      ],
       "explanation": "The bisque (first) firing makes greenware durable enough to handle during glazing, though it remains porous enough to absorb glaze.",
       "memoryHook": "T-Rexy says: Bisque firing is the clay's first bake - it gets tough enough for its glaze coat!",
       "imageUrl": "topic:bisque-firing",
-      "tags": ["ceramics", "firing"],
+      "tags": [
+        "ceramics",
+        "firing"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -180,11 +278,18 @@
       "id": "EART3D_014",
       "question": "Centering is the first step in which ceramic technique?",
       "correctAnswer": "Wheel-throwing",
-      "distractors": ["Coil building", "Slab construction", "Raku firing"],
+      "distractors": [
+        "Coil building",
+        "Slab construction",
+        "Raku firing"
+      ],
       "explanation": "On the potter's wheel, the clay must be centered - spinning perfectly true - before it can be opened and pulled into a vessel.",
       "memoryHook": "T-Rexy says: Center first, or your pot will wobble like a dizzy dinosaur!",
       "imageUrl": "topic:wheel-centering",
-      "tags": ["ceramics", "wheel-throwing"],
+      "tags": [
+        "ceramics",
+        "wheel-throwing"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -193,11 +298,18 @@
       "id": "EART3D_015",
       "question": "Earthenware, stoneware, and porcelain differ mainly in",
       "correctAnswer": "Firing temperature and vitrification",
-      "distractors": ["Color of the raw clay", "Country of origin", "The tools used to shape them"],
+      "distractors": [
+        "Color of the raw clay",
+        "Country of origin",
+        "The tools used to shape them"
+      ],
       "explanation": "Earthenware fires lowest and stays porous; stoneware vitrifies at mid-range temperatures; porcelain fires highest to a glassy, translucent body.",
       "memoryHook": "T-Rexy says: Hotter kiln, tougher clay - earthenware, stoneware, porcelain climb the temperature ladder!",
       "imageUrl": "topic:clay-types-temperature",
-      "tags": ["ceramics", "materials"],
+      "tags": [
+        "ceramics",
+        "materials"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -206,11 +318,18 @@
       "id": "EART3D_016",
       "question": "In reduction firing, the kiln atmosphere",
       "correctAnswer": "Is starved of oxygen, affecting glaze color",
-      "distractors": ["Is flooded with oxygen for brighter colors", "Stays at room temperature", "Removes all glaze from the work"],
+      "distractors": [
+        "Is flooded with oxygen for brighter colors",
+        "Stays at room temperature",
+        "Removes all glaze from the work"
+      ],
       "explanation": "Reduction limits oxygen so flames pull oxygen from the glazes themselves, producing distinctive effects like copper reds and celadons.",
       "memoryHook": "T-Rexy says: No air for the flames? The glaze pays the price - and looks amazing!",
       "imageUrl": "topic:reduction-firing",
-      "tags": ["ceramics", "firing"],
+      "tags": [
+        "ceramics",
+        "firing"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -219,11 +338,18 @@
       "id": "EART3D_017",
       "question": "Glaze is applied to ceramics to",
       "correctAnswer": "Create a glassy, often waterproof surface",
-      "distractors": ["Make the clay softer", "Prevent the kiln from overheating", "Speed up drying time"],
+      "distractors": [
+        "Make the clay softer",
+        "Prevent the kiln from overheating",
+        "Speed up drying time"
+      ],
       "explanation": "Glaze melts in the kiln into a glass coating that seals the surface and adds color and texture.",
       "memoryHook": "T-Rexy says: Glaze is the shiny raincoat that ceramics wear!",
       "imageUrl": "topic:ceramic-glaze",
-      "tags": ["ceramics", "glazing"],
+      "tags": [
+        "ceramics",
+        "glazing"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -232,11 +358,18 @@
       "id": "EART3D_018",
       "question": "What is a common cause of clay exploding in the kiln?",
       "correctAnswer": "Trapped air or moisture in the clay",
-      "distractors": ["Using too much glaze", "Firing at too low a temperature", "Opening the kiln too slowly"],
+      "distractors": [
+        "Using too much glaze",
+        "Firing at too low a temperature",
+        "Opening the kiln too slowly"
+      ],
       "explanation": "Air pockets or water turn to steam and expand violently at high heat, so clay must be wedged and fully dry before firing.",
       "memoryHook": "T-Rexy says: Bubbles in clay go BOOM in the kiln - wedge them out first!",
       "imageUrl": "topic:kiln-explosion-cause",
-      "tags": ["ceramics", "firing"],
+      "tags": [
+        "ceramics",
+        "firing"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -245,11 +378,18 @@
       "id": "EART3D_019",
       "question": "Raku firing is distinctive because",
       "correctAnswer": "Hot pieces are removed from the kiln and placed in combustible materials",
-      "distractors": ["It uses only electric kilns", "Pieces are never glazed", "It fires at the highest cone temperatures"],
+      "distractors": [
+        "It uses only electric kilns",
+        "Pieces are never glazed",
+        "It fires at the highest cone temperatures"
+      ],
       "explanation": "In raku, glowing-hot work goes into sawdust or newspaper, creating smoky crackled surfaces through rapid cooling and reduction.",
       "memoryHook": "T-Rexy says: Raku is the daredevil firing - grab it hot and bury it in sawdust!",
       "imageUrl": "topic:raku-firing",
-      "tags": ["ceramics", "firing"],
+      "tags": [
+        "ceramics",
+        "firing"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -258,11 +398,18 @@
       "id": "EART3D_020",
       "question": "Trimming a wheel-thrown pot is best done when the clay is",
       "correctAnswer": "Leather-hard",
-      "distractors": ["Wet and freshly thrown", "Bone dry", "Bisque-fired"],
+      "distractors": [
+        "Wet and freshly thrown",
+        "Bone dry",
+        "Bisque-fired"
+      ],
       "explanation": "At leather-hard the walls are firm enough to cut cleanly with a loop tool without collapsing.",
       "memoryHook": "T-Rexy says: Trim when it feels like firm cheese - leather-hard is the sweet spot!",
       "imageUrl": "topic:trimming-pot",
-      "tags": ["ceramics", "wheel-throwing"],
+      "tags": [
+        "ceramics",
+        "wheel-throwing"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -271,11 +418,18 @@
       "id": "EART3D_021",
       "question": "Which tool is used to slice a block of clay off the bag?",
       "correctAnswer": "Wire cutter",
-      "distractors": ["Wooden rib", "Loop trim tool", "Sponge"],
+      "distractors": [
+        "Wooden rib",
+        "Loop trim tool",
+        "Sponge"
+      ],
       "explanation": "A wire cutter (wire clay cutter) slices cleanly through a block of clay to portion out workable pieces.",
       "memoryHook": "T-Rexy says: The wire cutter is the cheese slicer of the clay world!",
       "imageUrl": "topic:wire-cutter-clay",
-      "tags": ["ceramics", "tools"],
+      "tags": [
+        "ceramics",
+        "tools"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -284,11 +438,18 @@
       "id": "EART3D_022",
       "question": "Scoring and slipping is done to",
       "correctAnswer": "Join two pieces of clay securely",
-      "distractors": ["Smooth the surface", "Apply underglaze", "Test glaze colors"],
+      "distractors": [
+        "Smooth the surface",
+        "Apply underglaze",
+        "Test glaze colors"
+      ],
       "explanation": "Scratching crosshatches (scoring) and adding liquid clay (slip) lets two pieces bond so the joint survives drying and firing.",
       "memoryHook": "T-Rexy says: Scratch it, slip it, stick it - clay pieces hold hands forever!",
       "imageUrl": "topic:scoring-slipping",
-      "tags": ["ceramics", "technique"],
+      "tags": [
+        "ceramics",
+        "technique"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -297,11 +458,18 @@
       "id": "EART3D_023",
       "question": "Vitrification in ceramics means",
       "correctAnswer": "The clay body becomes glass-like and nonporous",
-      "distractors": ["The glaze turns matte", "The clay stays porous", "Colors fade in the kiln"],
+      "distractors": [
+        "The glaze turns matte",
+        "The clay stays porous",
+        "Colors fade in the kiln"
+      ],
       "explanation": "At high temperatures silica in the clay melts into glass, making stoneware and porcelain watertight even without glaze.",
       "memoryHook": "T-Rexy says: Vitrified clay turned into glass armor - water cannot get through!",
       "imageUrl": "topic:vitrification",
-      "tags": ["ceramics", "materials"],
+      "tags": [
+        "ceramics",
+        "materials"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -310,11 +478,18 @@
       "id": "EART3D_024",
       "question": "A kiln is",
       "correctAnswer": "An oven for firing clay",
-      "distractors": ["A type of clay", "A sculpting tool", "A glaze ingredient"],
+      "distractors": [
+        "A type of clay",
+        "A sculpting tool",
+        "A glaze ingredient"
+      ],
       "explanation": "Kilns reach temperatures far beyond home ovens, hardening clay and melting glazes.",
       "memoryHook": "T-Rexy says: The kiln is clay's volcano - it goes in soft and comes out rock-hard!",
       "imageUrl": "topic:kiln",
-      "tags": ["ceramics", "firing"],
+      "tags": [
+        "ceramics",
+        "firing"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -323,11 +498,18 @@
       "id": "EART3D_025",
       "question": "Cone numbers in ceramics indicate",
       "correctAnswer": "The heat work (temperature over time) in a firing",
-      "distractors": ["The size of the kiln", "The thickness of the glaze", "The weight of the clay"],
+      "distractors": [
+        "The size of the kiln",
+        "The thickness of the glaze",
+        "The weight of the clay"
+      ],
       "explanation": "Pyrometric cones bend at specific heat-work levels, telling the potter the firing reached maturity, not just a peak temperature.",
       "memoryHook": "T-Rexy says: Cones are the kiln's thermometers - when they bow, the firing is done!",
       "imageUrl": "topic:pyrometric-cones",
-      "tags": ["ceramics", "firing"],
+      "tags": [
+        "ceramics",
+        "firing"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -336,11 +518,18 @@
       "id": "EART3D_026",
       "question": "In 3D design, form refers to",
       "correctAnswer": "A three-dimensional shape with volume",
-      "distractors": ["A flat two-dimensional shape", "The color of a surface", "The title of an artwork"],
+      "distractors": [
+        "A flat two-dimensional shape",
+        "The color of a surface",
+        "The title of an artwork"
+      ],
       "explanation": "Form is the 3D counterpart of 2D shape - it has height, width, and depth, like a sphere or cube.",
       "memoryHook": "T-Rexy says: Shape is flat like a pancake, form is puffy like a meatball!",
       "imageUrl": "topic:form-volume-3d",
-      "tags": ["design", "form"],
+      "tags": [
+        "design",
+        "form"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -349,11 +538,18 @@
       "id": "EART3D_027",
       "question": "Actual texture in sculpture means",
       "correctAnswer": "The surface can be felt physically",
-      "distractors": ["Texture painted to look real", "A photograph of texture", "Texture shown on a screen"],
+      "distractors": [
+        "Texture painted to look real",
+        "A photograph of texture",
+        "Texture shown on a screen"
+      ],
       "explanation": "Actual (tactile) texture is real surface variation you can touch; implied texture only looks textured, as in a painting.",
       "memoryHook": "T-Rexy says: Do not just look - touch! Real texture tickles your fingers!",
       "imageUrl": "topic:actual-texture",
-      "tags": ["design", "texture"],
+      "tags": [
+        "design",
+        "texture"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -362,11 +558,18 @@
       "id": "EART3D_028",
       "question": "Negative space in sculpture is",
       "correctAnswer": "The empty areas around and through a form",
-      "distractors": ["The shadow cast by the work", "Space painted black", "The back side of the sculpture"],
+      "distractors": [
+        "The shadow cast by the work",
+        "Space painted black",
+        "The back side of the sculpture"
+      ],
       "explanation": "Negative space is the void that shapes our reading of the solid form - the holes in a Henry Moore sculpture are as important as the bronze.",
       "memoryHook": "T-Rexy says: The holes are heroes too - negative space shapes the sculpture!",
       "imageUrl": "topic:negative-space",
-      "tags": ["design", "space"],
+      "tags": [
+        "design",
+        "space"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -375,11 +578,18 @@
       "id": "EART3D_029",
       "question": "Which principle describes visual weight distributed evenly in a sculpture?",
       "correctAnswer": "Balance",
-      "distractors": ["Rhythm", "Contrast", "Movement"],
+      "distractors": [
+        "Rhythm",
+        "Contrast",
+        "Movement"
+      ],
       "explanation": "Balance is the sense of equilibrium - a sculpture should feel stable, whether symmetrically or asymmetrically arranged.",
       "memoryHook": "T-Rexy says: A balanced sculpture never tips over - not even a wobbly dino could knock it!",
       "imageUrl": "topic:balance-sculpture",
-      "tags": ["design", "principles"],
+      "tags": [
+        "design",
+        "principles"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -388,11 +598,18 @@
       "id": "EART3D_030",
       "question": "A sculpture with one large element balanced by several small ones uses",
       "correctAnswer": "Asymmetrical balance",
-      "distractors": ["Symmetrical balance", "Radial balance", "No balance at all"],
+      "distractors": [
+        "Symmetrical balance",
+        "Radial balance",
+        "No balance at all"
+      ],
       "explanation": "Asymmetrical balance achieves equilibrium through visual weight rather than mirroring - a big mass on one side balances smaller masses on the other.",
       "memoryHook": "T-Rexy says: One big dino balances three tiny dinos - that is asymmetrical balance!",
       "imageUrl": "topic:asymmetrical-balance",
-      "tags": ["design", "principles"],
+      "tags": [
+        "design",
+        "principles"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -401,11 +618,18 @@
       "id": "EART3D_031",
       "question": "Proportion in 3D art refers to",
       "correctAnswer": "The size relationships between parts of a work",
-      "distractors": ["The weight of the materials", "The price of the artwork", "The age of the artist"],
+      "distractors": [
+        "The weight of the materials",
+        "The price of the artwork",
+        "The age of the artist"
+      ],
       "explanation": "Proportion concerns how parts relate to each other and to the whole - a head too large for its body breaks natural proportion.",
       "memoryHook": "T-Rexy says: A dino head on a mouse body? Wrong proportions - hilarious but wrong!",
       "imageUrl": "topic:proportion",
-      "tags": ["design", "principles"],
+      "tags": [
+        "design",
+        "principles"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -414,11 +638,18 @@
       "id": "EART3D_032",
       "question": "Contrapposto, seen in classical sculpture, is",
       "correctAnswer": "A pose with weight shifted onto one leg",
-      "distractors": ["A type of marble", "A Greek firing technique", "A bronze patina"],
+      "distractors": [
+        "A type of marble",
+        "A Greek firing technique",
+        "A bronze patina"
+      ],
       "explanation": "Contrapposto (counterpose) creates a naturalistic S-curve in the body, first perfected in ancient Greek sculpture.",
       "memoryHook": "T-Rexy says: Stand like a cool Greek statue - lean on one leg, look effortless!",
       "imageUrl": "topic:contrapposto",
-      "tags": ["art-history", "technique"],
+      "tags": [
+        "art-history",
+        "technique"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -427,11 +658,18 @@
       "id": "EART3D_033",
       "question": "Scale in sculpture refers to",
       "correctAnswer": "The size of a work relative to the human body or surroundings",
-      "distractors": ["The musical notes in a title", "The price per pound of bronze", "The number of tools used"],
+      "distractors": [
+        "The musical notes in a title",
+        "The price per pound of bronze",
+        "The number of tools used"
+      ],
       "explanation": "Scale shapes meaning - a monumental sculpture overwhelms while a miniature invites intimate inspection.",
       "memoryHook": "T-Rexy says: Tiny dino or giant dino? Scale changes everything!",
       "imageUrl": "topic:scale-sculpture",
-      "tags": ["design", "principles"],
+      "tags": [
+        "design",
+        "principles"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -440,11 +678,18 @@
       "id": "EART3D_034",
       "question": "An artist who enlarges an everyday object to monumental size is playing with",
       "correctAnswer": "Scale",
-      "distractors": ["Texture", "Glaze", "Patina"],
+      "distractors": [
+        "Texture",
+        "Glaze",
+        "Patina"
+      ],
       "explanation": "Claes Oldenburg's giant clothespins and spoons derive their surprise from unexpected monumental scale.",
       "memoryHook": "T-Rexy says: A toothbrush the size of a bus? That is scale messing with your brain!",
       "imageUrl": "topic:monumental-scale",
-      "tags": ["design", "principles"],
+      "tags": [
+        "design",
+        "principles"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -453,11 +698,18 @@
       "id": "EART3D_035",
       "question": "Rhythm in three-dimensional art is created by",
       "correctAnswer": "Repeating forms or elements",
-      "distractors": ["Using only one material", "Painting the surface", "Signing the base"],
+      "distractors": [
+        "Using only one material",
+        "Painting the surface",
+        "Signing the base"
+      ],
       "explanation": "Repeated shapes, intervals, or motifs create visual rhythm that leads the eye through a sculpture, like beats in music.",
       "memoryHook": "T-Rexy says: Bump, bump, bump - repeated shapes make the sculpture dance!",
       "imageUrl": "topic:rhythm-3d",
-      "tags": ["design", "principles"],
+      "tags": [
+        "design",
+        "principles"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -466,11 +718,18 @@
       "id": "EART3D_036",
       "question": "A kinetic sculpture is one that",
       "correctAnswer": "Moves, often powered by wind or motors",
-      "distractors": ["Is carved from kinetic sand", "Changes color in sunlight", "Can only be viewed once"],
+      "distractors": [
+        "Is carved from kinetic sand",
+        "Changes color in sunlight",
+        "Can only be viewed once"
+      ],
       "explanation": "Kinetic art incorporates real movement - Calder's mobiles drift in air currents, a classic example.",
       "memoryHook": "T-Rexy says: If the sculpture wiggles, it is kinetic - wind is its dance partner!",
       "imageUrl": "topic:kinetic-sculpture",
-      "tags": ["sculpture", "technique"],
+      "tags": [
+        "sculpture",
+        "technique"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -479,11 +738,18 @@
       "id": "EART3D_037",
       "question": "A patina on bronze is",
       "correctAnswer": "A surface coloration from oxidation or chemicals",
-      "distractors": ["A type of clay", "The artist's signature", "A wooden base"],
+      "distractors": [
+        "A type of clay",
+        "The artist's signature",
+        "A wooden base"
+      ],
       "explanation": "Patinas range from natural green oxidation to chemically induced browns and blacks, protecting and coloring the bronze.",
       "memoryHook": "T-Rexy says: Bronze gets a suntan called patina - green, brown, or black!",
       "imageUrl": "topic:bronze-patina",
-      "tags": ["materials", "metal"],
+      "tags": [
+        "materials",
+        "metal"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -492,11 +758,18 @@
       "id": "EART3D_038",
       "question": "Welding is a process most associated with which sculptural material?",
       "correctAnswer": "Steel",
-      "distractors": ["Marble", "Clay", "Plaster"],
+      "distractors": [
+        "Marble",
+        "Clay",
+        "Plaster"
+      ],
       "explanation": "Welding fuses metal parts with heat - David Smith pioneered welded steel sculpture in the 20th century.",
       "memoryHook": "T-Rexy says: Sparks fly when steel meets welder - that is how metal sculptures are born!",
       "imageUrl": "topic:welding-steel",
-      "tags": ["materials", "metal"],
+      "tags": [
+        "materials",
+        "metal"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -505,11 +778,18 @@
       "id": "EART3D_039",
       "question": "Papier-mache is made from",
       "correctAnswer": "Paper and paste built up in layers",
-      "distractors": ["Melted plastic", "Ground marble dust", "Molten bronze"],
+      "distractors": [
+        "Melted plastic",
+        "Ground marble dust",
+        "Molten bronze"
+      ],
       "explanation": "Strips of paper soaked in paste harden into a lightweight sculptural shell when dry.",
       "memoryHook": "T-Rexy says: Newspaper plus glue equals sculpture - papier-mache is glorified paper!",
       "imageUrl": "topic:papier-mache",
-      "tags": ["materials", "technique"],
+      "tags": [
+        "materials",
+        "technique"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -518,11 +798,18 @@
       "id": "EART3D_040",
       "question": "An advantage of carving wood over carving stone is that wood",
       "correctAnswer": "Is softer and has a visible grain",
-      "distractors": ["Never cracks or splits", "Is harder than granite", "Cannot be painted"],
+      "distractors": [
+        "Never cracks or splits",
+        "Is harder than granite",
+        "Cannot be painted"
+      ],
       "explanation": "Wood carves faster than stone and its grain becomes part of the design, though it can split along the grain.",
       "memoryHook": "T-Rexy says: Wood shows its stripes - the grain is nature's decoration!",
       "imageUrl": "topic:wood-carving",
-      "tags": ["materials", "wood"],
+      "tags": [
+        "materials",
+        "wood"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -531,11 +818,18 @@
       "id": "EART3D_041",
       "question": "Direct carving (taille directe) means the artist",
       "correctAnswer": "Carves without a prior detailed model",
-      "distractors": ["Uses only power tools", "Casts directly in bronze", "Hires assistants to carve"],
+      "distractors": [
+        "Uses only power tools",
+        "Casts directly in bronze",
+        "Hires assistants to carve"
+      ],
       "explanation": "Direct carvers like Brancusi responded to the material itself rather than copying a maquette, letting the stone guide the form.",
       "memoryHook": "T-Rexy says: No map, just chisel - direct carvers let the stone speak!",
       "imageUrl": "topic:direct-carving",
-      "tags": ["sculpture", "technique"],
+      "tags": [
+        "sculpture",
+        "technique"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -544,11 +838,18 @@
       "id": "EART3D_042",
       "question": "A readymade is",
       "correctAnswer": "An ordinary manufactured object presented as art",
-      "distractors": ["A pre-mixed glaze", "A ready-to-fire kiln", "A type of armature wire"],
+      "distractors": [
+        "A pre-mixed glaze",
+        "A ready-to-fire kiln",
+        "A type of armature wire"
+      ],
       "explanation": "Duchamp's readymades, like Fountain (a urinal), argued that the artist's choice alone can make something art.",
       "memoryHook": "T-Rexy says: Point at a urinal, call it art - Duchamp broke the rules with readymades!",
       "imageUrl": "topic:readymade-duchamp",
-      "tags": ["art-history", "concept"],
+      "tags": [
+        "art-history",
+        "concept"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -557,11 +858,18 @@
       "id": "EART3D_043",
       "question": "Mixed-media sculpture combines",
       "correctAnswer": "Two or more different materials in one work",
-      "distractors": ["Two artists working together", "Painting and drawing only", "Digital and analog tools"],
+      "distractors": [
+        "Two artists working together",
+        "Painting and drawing only",
+        "Digital and analog tools"
+      ],
       "explanation": "Mixing media - wood with metal, clay with glass - lets artists exploit contrasting textures and meanings.",
       "memoryHook": "T-Rexy says: Why pick one material when you can have a whole buffet?",
       "imageUrl": "topic:mixed-media",
-      "tags": ["materials", "technique"],
+      "tags": [
+        "materials",
+        "technique"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -570,11 +878,18 @@
       "id": "EART3D_044",
       "question": "The lost-wax process is also called",
       "correctAnswer": "Cire perdue",
-      "distractors": ["Terra cotta", "Bas-relief", "Trompe l'oeil"],
+      "distractors": [
+        "Terra cotta",
+        "Bas-relief",
+        "Trompe l'oeil"
+      ],
       "explanation": "Cire perdue is French for lost wax - the traditional name for this ancient bronze-casting method.",
       "memoryHook": "T-Rexy says: Cire perdue sounds fancy - it is just French for lost wax!",
       "imageUrl": "topic:cire-perdue",
-      "tags": ["sculpture", "technique"],
+      "tags": [
+        "sculpture",
+        "technique"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -583,11 +898,18 @@
       "id": "EART3D_045",
       "question": "Which material is best for capturing fine detail in a cast sculpture?",
       "correctAnswer": "Bronze",
-      "distractors": ["Concrete block", "Plywood", "Sand"],
+      "distractors": [
+        "Concrete block",
+        "Plywood",
+        "Sand"
+      ],
       "explanation": "Molten bronze flows into the finest crevices of a mold, preserving fingerprints and tool marks.",
       "memoryHook": "T-Rexy says: Bronze remembers everything - even your fingerprints!",
       "imageUrl": "topic:bronze-detail",
-      "tags": ["materials", "metal"],
+      "tags": [
+        "materials",
+        "metal"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -596,11 +918,18 @@
       "id": "EART3D_046",
       "question": "Plaster is often used in sculpture for",
       "correctAnswer": "Making molds and preliminary models",
-      "distractors": ["Final outdoor monuments", "High-temperature firing", "Food-safe vessels"],
+      "distractors": [
+        "Final outdoor monuments",
+        "High-temperature firing",
+        "Food-safe vessels"
+      ],
       "explanation": "Plaster is cheap, fast-setting, and carvable - perfect for molds and studies, though too fragile for most finished outdoor work.",
       "memoryHook": "T-Rexy says: Plaster is the rough draft of sculpture - quick, cheap, and fixable!",
       "imageUrl": "topic:plaster-mold",
-      "tags": ["materials", "technique"],
+      "tags": [
+        "materials",
+        "technique"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -609,11 +938,18 @@
       "id": "EART3D_047",
       "question": "Chasing in metalwork refers to",
       "correctAnswer": "Refining and detailing the surface of a cast metal piece",
-      "distractors": ["Melting scrap metal", "Chasing buyers at auction", "Painting metal with enamel"],
+      "distractors": [
+        "Melting scrap metal",
+        "Chasing buyers at auction",
+        "Painting metal with enamel"
+      ],
       "explanation": "After casting, the metalworker chases the surface with punches and chisels to sharpen details and remove casting seams.",
       "memoryHook": "T-Rexy says: Chasing is the bronze's spa day - polish, refine, shine!",
       "imageUrl": "topic:chasing-metal",
-      "tags": ["materials", "metal"],
+      "tags": [
+        "materials",
+        "metal"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -622,11 +958,18 @@
       "id": "EART3D_048",
       "question": "A found object used in art is sometimes called",
       "correctAnswer": "Objet trouve",
-      "distractors": ["Terra cotta", "Maquette", "Grog"],
+      "distractors": [
+        "Terra cotta",
+        "Maquette",
+        "Grog"
+      ],
       "explanation": "Objet trouve is French for found object - the basis of assemblage and readymade art.",
       "memoryHook": "T-Rexy says: Objet trouve - fancy French for cool junk you found!",
       "imageUrl": "topic:objet-trouve",
-      "tags": ["sculpture", "concept"],
+      "tags": [
+        "sculpture",
+        "concept"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -635,11 +978,18 @@
       "id": "EART3D_049",
       "question": "Grog added to clay",
       "correctAnswer": "Reduces shrinkage and adds strength",
-      "distractors": ["Makes clay waterproof", "Adds bright color", "Lowers the firing temperature"],
+      "distractors": [
+        "Makes clay waterproof",
+        "Adds bright color",
+        "Lowers the firing temperature"
+      ],
       "explanation": "Grog is pre-fired ground clay that opens the clay body, preventing cracks and warping in large sculptural forms.",
       "memoryHook": "T-Rexy says: Grog is crunchy clay confetti that keeps big sculptures from cracking!",
       "imageUrl": "topic:grog-clay",
-      "tags": ["ceramics", "materials"],
+      "tags": [
+        "ceramics",
+        "materials"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -648,11 +998,18 @@
       "id": "EART3D_050",
       "question": "Annealing glass involves",
       "correctAnswer": "Cooling it slowly to relieve internal stress",
-      "distractors": ["Heating it until it melts", "Painting it with enamel", "Cutting it with a saw"],
+      "distractors": [
+        "Heating it until it melts",
+        "Painting it with enamel",
+        "Cutting it with a saw"
+      ],
       "explanation": "Glass must cool gradually in an annealer or it will shatter from internal tension - the same idea as cooling ceramics slowly.",
       "memoryHook": "T-Rexy says: Glass needs a slow cooldown nap or it throws a shattering tantrum!",
       "imageUrl": "topic:annealing-glass",
-      "tags": ["materials", "glass"],
+      "tags": [
+        "materials",
+        "glass"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -661,11 +1018,18 @@
       "id": "EART3D_051",
       "question": "Auguste Rodin's most famous sculpture is",
       "correctAnswer": "The Thinker",
-      "distractors": ["David", "Venus de Milo", "The Discus Thrower"],
+      "distractors": [
+        "David",
+        "Venus de Milo",
+        "The Discus Thrower"
+      ],
       "explanation": "The Thinker (1904) depicts a man lost in thought and became the universal symbol of philosophy and contemplation.",
       "memoryHook": "T-Rexy says: The Thinker is thinking so hard his brain might be doing push-ups!",
       "imageUrl": "topic:rodin-thinker",
-      "tags": ["art-history", "sculptor"],
+      "tags": [
+        "art-history",
+        "sculptor"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -674,11 +1038,18 @@
       "id": "EART3D_052",
       "question": "Michelangelo's Pieta depicts",
       "correctAnswer": "Mary holding the body of Jesus",
-      "distractors": ["David fighting Goliath", "Moses with the tablets", "The creation of Adam"],
+      "distractors": [
+        "David fighting Goliath",
+        "Moses with the tablets",
+        "The creation of Adam"
+      ],
       "explanation": "The Pieta (1499) shows the Virgin Mary cradling Christ after the crucifixion, carved when Michelangelo was only 24.",
       "memoryHook": "T-Rexy says: Michelangelo was 24 when he carved the Pieta - what were you doing at 24?",
       "imageUrl": "topic:michelangelo-pieta",
-      "tags": ["art-history", "sculptor"],
+      "tags": [
+        "art-history",
+        "sculptor"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -687,11 +1058,18 @@
       "id": "EART3D_053",
       "question": "Alexander Calder is best known for",
       "correctAnswer": "Mobiles - balanced moving sculptures",
-      "distractors": ["Marble portraits", "Ceramic vessels", "Gothic cathedrals"],
+      "distractors": [
+        "Marble portraits",
+        "Ceramic vessels",
+        "Gothic cathedrals"
+      ],
       "explanation": "Calder invented the mobile - delicately balanced abstract forms that drift in air currents - plus large stationary stabiles.",
       "memoryHook": "T-Rexy says: Calder's mobiles are sculptures that dance with the wind!",
       "imageUrl": "topic:calder-mobile",
-      "tags": ["art-history", "sculptor"],
+      "tags": [
+        "art-history",
+        "sculptor"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -700,11 +1078,18 @@
       "id": "EART3D_054",
       "question": "Louise Bourgeois's giant spider sculpture Maman explores themes of",
       "correctAnswer": "Motherhood and protection",
-      "distractors": ["Industrial machinery", "Sports and athletics", "Space exploration"],
+      "distractors": [
+        "Industrial machinery",
+        "Sports and athletics",
+        "Space exploration"
+      ],
       "explanation": "Maman (1999), a 30-foot spider, honors Bourgeois's mother - spiders as protectors and weavers, both nurturing and fearsome.",
       "memoryHook": "T-Rexy says: A 30-foot spider mom - scary and protective at the same time!",
       "imageUrl": "topic:bourgeois-maman",
-      "tags": ["art-history", "sculptor"],
+      "tags": [
+        "art-history",
+        "sculptor"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -713,11 +1098,18 @@
       "id": "EART3D_055",
       "question": "Constantin Brancusi's Bird in Space is an example of",
       "correctAnswer": "Abstracted, streamlined modernist sculpture",
-      "distractors": ["Realist portraiture", "Gothic religious carving", "Pop art assemblage"],
+      "distractors": [
+        "Realist portraiture",
+        "Gothic religious carving",
+        "Pop art assemblage"
+      ],
       "explanation": "Brancusi reduced the bird to pure essence - an elongated bronze form suggesting flight rather than depicting feathers.",
       "memoryHook": "T-Rexy says: Brancusi's bird has no wings, no beak - just pure flying feeling!",
       "imageUrl": "topic:brancusi-bird",
-      "tags": ["art-history", "sculptor"],
+      "tags": [
+        "art-history",
+        "sculptor"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -726,11 +1118,18 @@
       "id": "EART3D_056",
       "question": "The Statue of Liberty was a gift from which country?",
       "correctAnswer": "France",
-      "distractors": ["England", "Spain", "Italy"],
+      "distractors": [
+        "England",
+        "Spain",
+        "Italy"
+      ],
       "explanation": "France gave the statue to the United States in 1886 to celebrate American independence and friendship between the nations.",
       "memoryHook": "T-Rexy says: Merci, France - the biggest gift receipt in history!",
       "imageUrl": "topic:statue-of-liberty",
-      "tags": ["art-history", "sculpture"],
+      "tags": [
+        "art-history",
+        "sculpture"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -739,11 +1138,18 @@
       "id": "EART3D_057",
       "question": "Henry Moore is famous for",
       "correctAnswer": "Large reclining abstracted human figures",
-      "distractors": ["Tiny detailed miniatures", "Neon light installations", "Video projections"],
+      "distractors": [
+        "Tiny detailed miniatures",
+        "Neon light installations",
+        "Video projections"
+      ],
       "explanation": "Moore's monumental bronze reclining figures, often pierced with holes, redefined modern public sculpture.",
       "memoryHook": "T-Rexy says: Moore's figures are always lounging - the most relaxed sculptures ever!",
       "imageUrl": "topic:henry-moore",
-      "tags": ["art-history", "sculptor"],
+      "tags": [
+        "art-history",
+        "sculptor"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -752,11 +1158,18 @@
       "id": "EART3D_058",
       "question": "Gian Lorenzo Bernini's Ecstasy of Saint Teresa is a masterpiece of which period?",
       "correctAnswer": "Baroque",
-      "distractors": ["Renaissance", "Impressionism", "Cubism"],
+      "distractors": [
+        "Renaissance",
+        "Impressionism",
+        "Cubism"
+      ],
       "explanation": "Bernini's theatrical marble group (1652) with its swirling drapery and dramatic lighting is the height of Baroque sculpture.",
       "memoryHook": "T-Rexy says: Baroque means DRAMA - Bernini carved marble that looks like it is moving!",
       "imageUrl": "topic:bernini-baroque",
-      "tags": ["art-history", "sculptor"],
+      "tags": [
+        "art-history",
+        "sculptor"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -765,11 +1178,18 @@
       "id": "EART3D_059",
       "question": "Marcel Duchamp's Fountain (1917) was",
       "correctAnswer": "A urinal presented as art, challenging definitions of art",
-      "distractors": ["A marble water fountain", "A bronze horse statue", "A ceramic vase"],
+      "distractors": [
+        "A marble water fountain",
+        "A bronze horse statue",
+        "A ceramic vase"
+      ],
       "explanation": "By submitting a factory-made urinal to an exhibition, Duchamp asked whether the artist's idea matters more than craft.",
       "memoryHook": "T-Rexy says: A urinal in an art show? Duchamp trolled the art world before trolling existed!",
       "imageUrl": "topic:duchamp-fountain",
-      "tags": ["art-history", "concept"],
+      "tags": [
+        "art-history",
+        "concept"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -778,11 +1198,18 @@
       "id": "EART3D_060",
       "question": "Mount Rushmore depicts",
       "correctAnswer": "Four U.S. presidents",
-      "distractors": ["Native American chiefs", "Civil War generals", "American inventors"],
+      "distractors": [
+        "Native American chiefs",
+        "Civil War generals",
+        "American inventors"
+      ],
       "explanation": "Gutzon Borglum carved Washington, Jefferson, Roosevelt, and Lincoln into the Black Hills of South Dakota.",
       "memoryHook": "T-Rexy says: Four giant presidential faces staring at you - Mount Rushmore never blinks!",
       "imageUrl": "topic:mount-rushmore",
-      "tags": ["art-history", "sculpture"],
+      "tags": [
+        "art-history",
+        "sculpture"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -791,11 +1218,18 @@
       "id": "EART3D_061",
       "question": "Claes Oldenburg is known for sculptures that",
       "correctAnswer": "Enlarge everyday objects to monumental scale",
-      "distractors": ["Are invisible to the eye", "Dissolve in water", "Play music"],
+      "distractors": [
+        "Are invisible to the eye",
+        "Dissolve in water",
+        "Play music"
+      ],
       "explanation": "Oldenburg's giant clothespins, spoons, and hamburgers turn the ordinary into public landmarks through Pop scale.",
       "memoryHook": "T-Rexy says: A clothespin taller than a house? Oldenburg supersized your junk drawer!",
       "imageUrl": "topic:oldenburg-scale",
-      "tags": ["art-history", "sculptor"],
+      "tags": [
+        "art-history",
+        "sculptor"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -804,11 +1238,18 @@
       "id": "EART3D_062",
       "question": "The Parthenon sculptures were created under the direction of",
       "correctAnswer": "Phidias",
-      "distractors": ["Praxiteles", "Myron", "Lysippos"],
+      "distractors": [
+        "Praxiteles",
+        "Myron",
+        "Lysippos"
+      ],
       "explanation": "Phidias supervised the sculptural program of the Parthenon in 5th-century BCE Athens, the peak of Classical Greek art.",
       "memoryHook": "T-Rexy says: Phidias was the art director of ancient Athens - the Parthenon was his masterpiece!",
       "imageUrl": "topic:phidias-parthenon",
-      "tags": ["art-history", "sculptor"],
+      "tags": [
+        "art-history",
+        "sculptor"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -817,11 +1258,18 @@
       "id": "EART3D_063",
       "question": "Isamu Noguchi is celebrated for",
       "correctAnswer": "Blending sculpture with landscape and design",
-      "distractors": ["Oil painting portraits", "Gothic architecture", "Stained glass windows"],
+      "distractors": [
+        "Oil painting portraits",
+        "Gothic architecture",
+        "Stained glass windows"
+      ],
       "explanation": "Noguchi moved fluidly between sculpture, gardens, playgrounds, and furniture, erasing boundaries between art and life.",
       "memoryHook": "T-Rexy says: Noguchi made playgrounds into sculptures - recess just got artistic!",
       "imageUrl": "topic:noguchi",
-      "tags": ["art-history", "sculptor"],
+      "tags": [
+        "art-history",
+        "sculptor"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -830,11 +1278,18 @@
       "id": "EART3D_064",
       "question": "Anish Kapoor's Cloud Gate is located in",
       "correctAnswer": "Chicago",
-      "distractors": ["New York", "Los Angeles", "Paris"],
+      "distractors": [
+        "New York",
+        "Los Angeles",
+        "Paris"
+      ],
       "explanation": "The mirrored bean in Millennium Park, Chicago, reflects the skyline and has become one of the world's most photographed sculptures.",
       "memoryHook": "T-Rexy says: The Bean! Chicago's giant mirror where everyone takes selfies!",
       "imageUrl": "topic:cloud-gate-chicago",
-      "tags": ["art-history", "sculptor"],
+      "tags": [
+        "art-history",
+        "sculptor"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -843,11 +1298,18 @@
       "id": "EART3D_065",
       "question": "Barbara Hepworth's sculptures often feature",
       "correctAnswer": "Pierced forms with holes through solid mass",
-      "distractors": ["Bright neon colors", "Moving parts", "Edible materials"],
+      "distractors": [
+        "Bright neon colors",
+        "Moving parts",
+        "Edible materials"
+      ],
       "explanation": "Hepworth carved direct into stone and wood, her signature pierced ovoids uniting interior void with outer form.",
       "memoryHook": "T-Rexy says: Hepworth poked holes in stone on purpose - the emptiness is the art!",
       "imageUrl": "topic:hepworth-pierced",
-      "tags": ["art-history", "sculptor"],
+      "tags": [
+        "art-history",
+        "sculptor"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -856,11 +1318,18 @@
       "id": "EART3D_066",
       "question": "Richard Serra works primarily in",
       "correctAnswer": "Massive curved steel plates",
-      "distractors": ["Delicate porcelain", "Ice and snow", "Feathers and wax"],
+      "distractors": [
+        "Delicate porcelain",
+        "Ice and snow",
+        "Feathers and wax"
+      ],
       "explanation": "Serra's towering weathering-steel arcs and torqued ellipses make viewers feel weight, balance, and space physically.",
       "memoryHook": "T-Rexy says: Serra's steel walls lean over you - try not to feel tiny!",
       "imageUrl": "topic:serra-steel",
-      "tags": ["art-history", "sculptor"],
+      "tags": [
+        "art-history",
+        "sculptor"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -869,11 +1338,18 @@
       "id": "EART3D_067",
       "question": "Donatello's David was revolutionary because it was",
       "correctAnswer": "One of the first freestanding nude statues of the Renaissance",
-      "distractors": ["Made of solid gold", "Over 50 feet tall", "Painted bright pink"],
+      "distractors": [
+        "Made of solid gold",
+        "Over 50 feet tall",
+        "Painted bright pink"
+      ],
       "explanation": "Donatello's bronze David (1440s) revived the classical nude after a thousand years, launching Renaissance sculpture.",
       "memoryHook": "T-Rexy says: Donatello brought the nude statue back - after 1000 years of no naked statues!",
       "imageUrl": "topic:donatello-david",
-      "tags": ["art-history", "sculptor"],
+      "tags": [
+        "art-history",
+        "sculptor"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -882,11 +1358,18 @@
       "id": "EART3D_068",
       "question": "Jeff Koons's Balloon Dog is made of",
       "correctAnswer": "Mirror-polished stainless steel",
-      "distractors": ["Actual inflated balloons", "Carved marble", "Blown glass"],
+      "distractors": [
+        "Actual inflated balloons",
+        "Carved marble",
+        "Blown glass"
+      ],
       "explanation": "Koons's 10-foot Balloon Dog looks like a party balloon but is precision-engineered polished steel.",
       "memoryHook": "T-Rexy says: It looks like a balloon animal but it weighs a ton - Koons fooled everyone!",
       "imageUrl": "topic:koons-balloon-dog",
-      "tags": ["art-history", "sculptor"],
+      "tags": [
+        "art-history",
+        "sculptor"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -895,11 +1378,18 @@
       "id": "EART3D_069",
       "question": "The Terracotta Army was created to",
       "correctAnswer": "Guard the tomb of China's first emperor",
-      "distractors": ["Decorate a palace garden", "Serve as cooking vessels", "Mark trade routes"],
+      "distractors": [
+        "Decorate a palace garden",
+        "Serve as cooking vessels",
+        "Mark trade routes"
+      ],
       "explanation": "Over 8,000 life-size clay soldiers were buried with Emperor Qin Shi Huang around 210 BCE to protect him in the afterlife.",
       "memoryHook": "T-Rexy says: 8000 clay soldiers standing guard for 2000 years - the ultimate security team!",
       "imageUrl": "topic:terracotta-army",
-      "tags": ["art-history", "sculpture"],
+      "tags": [
+        "art-history",
+        "sculpture"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -908,11 +1398,18 @@
       "id": "EART3D_070",
       "question": "The Venus de Milo is famously missing",
       "correctAnswer": "Its arms",
-      "distractors": ["Its head", "Its legs", "Its base"],
+      "distractors": [
+        "Its head",
+        "Its legs",
+        "Its base"
+      ],
       "explanation": "The ancient Greek statue's arms were lost before its 1820 discovery on the island of Milos - their pose remains a mystery.",
       "memoryHook": "T-Rexy says: The Venus de Milo lost her arms but kept her fame - beauty needs no arms!",
       "imageUrl": "topic:venus-de-milo",
-      "tags": ["art-history", "sculpture"],
+      "tags": [
+        "art-history",
+        "sculpture"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -921,11 +1418,18 @@
       "id": "EART3D_071",
       "question": "David Smith pioneered",
       "correctAnswer": "Welded steel abstract sculpture",
-      "distractors": ["Marble quarrying", "Sand casting", "Ice sculpting"],
+      "distractors": [
+        "Marble quarrying",
+        "Sand casting",
+        "Ice sculpting"
+      ],
       "explanation": "Smith applied industrial welding to fine art in the 1930s-60s, creating geometric steel constructions that defined American abstraction.",
       "memoryHook": "T-Rexy says: David Smith welded like a factory worker and sculpted like a poet!",
       "imageUrl": "topic:david-smith-steel",
-      "tags": ["art-history", "sculptor"],
+      "tags": [
+        "art-history",
+        "sculptor"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -934,11 +1438,18 @@
       "id": "EART3D_072",
       "question": "The Winged Victory of Samothrace is displayed",
       "correctAnswer": "At the top of a grand staircase in the Louvre",
-      "distractors": ["In the Vatican gardens", "At the British Museum entrance", "In New York's Central Park"],
+      "distractors": [
+        "In the Vatican gardens",
+        "At the British Museum entrance",
+        "In New York's Central Park"
+      ],
       "explanation": "The headless Hellenistic Nike crowns the Daru staircase in Paris, dramatically lit as if just landing on a ship's prow.",
       "memoryHook": "T-Rexy says: No head, no arms, still the coolest staircase guardian in Paris!",
       "imageUrl": "topic:winged-victory",
-      "tags": ["art-history", "sculpture"],
+      "tags": [
+        "art-history",
+        "sculpture"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -947,11 +1458,18 @@
       "id": "EART3D_073",
       "question": "Eva Hesse's sculptures are associated with",
       "correctAnswer": "Postminimalism and unconventional materials",
-      "distractors": ["Ancient Greek temples", "Medieval armor", "Renaissance frescoes"],
+      "distractors": [
+        "Ancient Greek temples",
+        "Medieval armor",
+        "Renaissance frescoes"
+      ],
       "explanation": "Hesse used latex, fiberglass, and rope in the 1960s to make organic, bodily abstract sculptures that broke minimalist rules.",
       "memoryHook": "T-Rexy says: Eva Hesse sculpted with latex and rope - the rule-breaker of materials!",
       "imageUrl": "topic:eva-hesse",
-      "tags": ["art-history", "sculptor"],
+      "tags": [
+        "art-history",
+        "sculptor"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -960,11 +1478,18 @@
       "id": "EART3D_074",
       "question": "A totem pole originates from",
       "correctAnswer": "Indigenous peoples of the Pacific Northwest",
-      "distractors": ["Ancient Egypt", "Medieval France", "Colonial Brazil"],
+      "distractors": [
+        "Ancient Egypt",
+        "Medieval France",
+        "Colonial Brazil"
+      ],
       "explanation": "Haida, Tlingit, and other Northwest Coast nations carve cedar poles telling clan stories and honoring ancestors.",
       "memoryHook": "T-Rexy says: Totem poles are family trees you can see from a mile away!",
       "imageUrl": "topic:totem-pole",
-      "tags": ["art-history", "sculpture"],
+      "tags": [
+        "art-history",
+        "sculpture"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -973,11 +1498,18 @@
       "id": "EART3D_075",
       "question": "The Olmec colossal heads were carved from",
       "correctAnswer": "Basalt",
-      "distractors": ["Sandstone", "Limestone", "Wood"],
+      "distractors": [
+        "Sandstone",
+        "Limestone",
+        "Wood"
+      ],
       "explanation": "The Olmec transported massive basalt boulders miles through the jungle to carve 10-foot ruler portraits around 1200 BCE.",
       "memoryHook": "T-Rexy says: Ten-foot stone heads dragged through the jungle - the Olmec did not skip workout day!",
       "imageUrl": "topic:olmec-heads",
-      "tags": ["art-history", "sculpture"],
+      "tags": [
+        "art-history",
+        "sculpture"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -986,11 +1518,17 @@
       "id": "EART3D_076",
       "question": "The AP 3-D Art and Design portfolio has how many sections?",
       "correctAnswer": "Two: Sustained Investigation and Selected Works",
-      "distractors": ["One: Final Exam", "Three: Drawing, Painting, Sculpture", "Five: one per art period"],
+      "distractors": [
+        "One: Final Exam",
+        "Three: Drawing, Painting, Sculpture",
+        "Five: one per art period"
+      ],
       "explanation": "Every AP Art and Design portfolio is judged on the Sustained Investigation (15 images) and Selected Works (5 works).",
       "memoryHook": "T-Rexy says: Two sections, one awesome portfolio - investigate deeply, then show your best!",
       "imageUrl": "topic:ap-portfolio-sections",
-      "tags": ["ap-portfolio"],
+      "tags": [
+        "ap-portfolio"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -999,11 +1537,17 @@
       "id": "EART3D_077",
       "question": "The Sustained Investigation section asks students to",
       "correctAnswer": "Explore a single inquiry through multiple related works",
-      "distractors": ["Copy famous masterpieces", "Work in only one medium", "Finish 50 unrelated pieces"],
+      "distractors": [
+        "Copy famous masterpieces",
+        "Work in only one medium",
+        "Finish 50 unrelated pieces"
+      ],
       "explanation": "The Sustained Investigation documents an evolving visual inquiry - asking a question and pursuing it across 15 images of process and product.",
       "memoryHook": "T-Rexy says: Pick one big question and chase it through 15 artworks - that is sustained investigation!",
       "imageUrl": "topic:sustained-investigation",
-      "tags": ["ap-portfolio"],
+      "tags": [
+        "ap-portfolio"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -1012,11 +1556,17 @@
       "id": "EART3D_078",
       "question": "For AP 3-D Selected Works, students submit",
       "correctAnswer": "5 works shown from multiple angles",
-      "distractors": ["50 sketches", "One large installation only", "A written exam"],
+      "distractors": [
+        "50 sketches",
+        "One large installation only",
+        "A written exam"
+      ],
       "explanation": "Selected Works presents 5 finished pieces in 10 images (two views each) to show quality of 3-D thinking from every side.",
       "memoryHook": "T-Rexy says: Five stars of your portfolio, each photographed twice - front and fabulous!",
       "imageUrl": "topic:selected-works",
-      "tags": ["ap-portfolio"],
+      "tags": [
+        "ap-portfolio"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -1025,11 +1575,18 @@
       "id": "EART3D_079",
       "question": "Which is most important in documenting 3-D work for the AP portfolio?",
       "correctAnswer": "Photographing the work from multiple viewpoints",
-      "distractors": ["Using only black-and-white photos", "Including the artist in every photo", "Photographing only the front"],
+      "distractors": [
+        "Using only black-and-white photos",
+        "Including the artist in every photo",
+        "Photographing only the front"
+      ],
       "explanation": "3-D work exists in space, so reviewers need multiple angles plus detail shots to judge form, surface, and construction.",
       "memoryHook": "T-Rexy says: One photo of a sculpture is like one frame of a movie - show every angle!",
       "imageUrl": "topic:documenting-3d",
-      "tags": ["ap-portfolio", "technique"],
+      "tags": [
+        "ap-portfolio",
+        "technique"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -1038,11 +1595,17 @@
       "id": "EART3D_080",
       "question": "Synthesis in the AP rubric means",
       "correctAnswer": "Combining materials, processes, or ideas in original ways",
-      "distractors": ["Copying another artist", "Using expensive materials", "Working very quickly"],
+      "distractors": [
+        "Copying another artist",
+        "Using expensive materials",
+        "Working very quickly"
+      ],
       "explanation": "Top AP scores reward synthesis - fusing disparate materials or concepts into something new rather than repeating exercises.",
       "memoryHook": "T-Rexy says: Mix it up! Synthesis is the art of the unexpected combo!",
       "imageUrl": "topic:synthesis-ap",
-      "tags": ["ap-portfolio"],
+      "tags": [
+        "ap-portfolio"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -1051,11 +1614,18 @@
       "id": "EART3D_081",
       "question": "When joining clay slabs, the edges should be",
       "correctAnswer": "Scored, slipped, and firmly pressed together",
-      "distractors": ["Left dry and dusty", "Glued with hot glue", "Welded with a torch"],
+      "distractors": [
+        "Left dry and dusty",
+        "Glued with hot glue",
+        "Welded with a torch"
+      ],
       "explanation": "Beveled, scored, and slipped slab joints bond into one strong form that survives drying and firing.",
       "memoryHook": "T-Rexy says: Scratch, slip, squish - the three S's of strong slab joints!",
       "imageUrl": "topic:slab-joining",
-      "tags": ["ceramics", "hand-building"],
+      "tags": [
+        "ceramics",
+        "hand-building"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -1064,11 +1634,18 @@
       "id": "EART3D_082",
       "question": "A slump mold is used to",
       "correctAnswer": "Shape a clay slab over or into a form",
-      "distractors": ["Fire the kiln", "Mix glaze", "Carve stone"],
+      "distractors": [
+        "Fire the kiln",
+        "Mix glaze",
+        "Carve stone"
+      ],
       "explanation": "A slab draped over (hump mold) or pressed into (slump mold) a form takes its curve - an easy route to consistent vessels.",
       "memoryHook": "T-Rexy says: Slump the slab into the mold - let gravity do the sculpting!",
       "imageUrl": "topic:slump-mold",
-      "tags": ["ceramics", "technique"],
+      "tags": [
+        "ceramics",
+        "technique"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -1077,11 +1654,18 @@
       "id": "EART3D_083",
       "question": "Underglaze is applied",
       "correctAnswer": "To greenware or bisqueware before the glaze firing",
-      "distractors": ["After the final glaze firing", "Only to metal sculpture", "To the kiln shelves"],
+      "distractors": [
+        "After the final glaze firing",
+        "Only to metal sculpture",
+        "To the kiln shelves"
+      ],
       "explanation": "Underglazes are colored slips painted on unfired or bisque-fired clay, then sealed under a clear glaze in the final firing.",
       "memoryHook": "T-Rexy says: Underglaze goes UNDER the glaze - the name is the instruction manual!",
       "imageUrl": "topic:underglaze",
-      "tags": ["ceramics", "glazing"],
+      "tags": [
+        "ceramics",
+        "glazing"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -1090,11 +1674,18 @@
       "id": "EART3D_084",
       "question": "Sgraffito is a technique where",
       "correctAnswer": "A surface layer is scratched through to reveal the layer beneath",
-      "distractors": ["Clay is thrown on a wheel", "Bronze is poured into sand", "Glass is blown into a mold"],
+      "distractors": [
+        "Clay is thrown on a wheel",
+        "Bronze is poured into sand",
+        "Glass is blown into a mold"
+      ],
       "explanation": "In sgraffito, the artist scratches through slip or underglaze to expose the clay body, creating crisp linear designs.",
       "memoryHook": "T-Rexy says: Scratch art for grown-ups - sgraffito reveals the hidden layer!",
       "imageUrl": "topic:sgraffito",
-      "tags": ["ceramics", "technique"],
+      "tags": [
+        "ceramics",
+        "technique"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -1103,11 +1694,18 @@
       "id": "EART3D_085",
       "question": "The foot of a ceramic vessel is",
       "correctAnswer": "The base that it stands on",
-      "distractors": ["The handle", "The lid", "The glaze"],
+      "distractors": [
+        "The handle",
+        "The lid",
+        "The glaze"
+      ],
       "explanation": "The foot (or foot ring) is trimmed into the base so the pot sits level and the glaze does not fuse it to the kiln shelf.",
       "memoryHook": "T-Rexy says: Every pot needs happy feet - the foot ring keeps it standing tall!",
       "imageUrl": "topic:ceramic-foot",
-      "tags": ["ceramics", "wheel-throwing"],
+      "tags": [
+        "ceramics",
+        "wheel-throwing"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -1116,11 +1714,18 @@
       "id": "EART3D_086",
       "question": "Terra cotta literally means",
       "correctAnswer": "Baked earth",
-      "distractors": ["White clay", "Glazed stone", "Molten bronze"],
+      "distractors": [
+        "White clay",
+        "Glazed stone",
+        "Molten bronze"
+      ],
       "explanation": "From Italian, terra cotta describes low-fired earthenware - from flowerpots to the Terracotta Army.",
       "memoryHook": "T-Rexy says: Terra cotta = baked earth. Your flowerpot speaks Italian!",
       "imageUrl": "topic:terra-cotta",
-      "tags": ["ceramics", "materials"],
+      "tags": [
+        "ceramics",
+        "materials"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -1129,11 +1734,18 @@
       "id": "EART3D_087",
       "question": "A pyrometer in ceramics is used to",
       "correctAnswer": "Measure kiln temperature",
-      "distractors": ["Weigh clay", "Mix glaze", "Center clay on the wheel"],
+      "distractors": [
+        "Weigh clay",
+        "Mix glaze",
+        "Center clay on the wheel"
+      ],
       "explanation": "Pyrometers (and pyrometric cones) tell the potter exactly how hot the kiln is getting during a firing.",
       "memoryHook": "T-Rexy says: The pyrometer is the kiln's thermometer - no guessing the heat!",
       "imageUrl": "topic:pyrometer",
-      "tags": ["ceramics", "firing"],
+      "tags": [
+        "ceramics",
+        "firing"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -1142,11 +1754,17 @@
       "id": "EART3D_088",
       "question": "An artist's statement for the AP portfolio should",
       "correctAnswer": "Explain the ideas and processes behind the work",
-      "distractors": ["List the prices of materials", "Be written as a poem", "Criticize other artists"],
+      "distractors": [
+        "List the prices of materials",
+        "Be written as a poem",
+        "Criticize other artists"
+      ],
       "explanation": "The written evidence in the Sustained Investigation clarifies your inquiry, guiding reviewers through your visual thinking.",
       "memoryHook": "T-Rexy says: Tell the story behind the sculpture - words make the art louder!",
       "imageUrl": "topic:artist-statement",
-      "tags": ["ap-portfolio"],
+      "tags": [
+        "ap-portfolio"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -1155,11 +1773,18 @@
       "id": "EART3D_089",
       "question": "Basalt, granite, and marble are all",
       "correctAnswer": "Stone used for carving",
-      "distractors": ["Types of clay", "Glaze ingredients", "Kiln fuels"],
+      "distractors": [
+        "Types of clay",
+        "Glaze ingredients",
+        "Kiln fuels"
+      ],
       "explanation": "These dense stones - volcanic basalt, speckled granite, luminous marble - have been carved for millennia.",
       "memoryHook": "T-Rexy says: Basalt, granite, marble - the rock-solid trio of carving!",
       "imageUrl": "topic:carving-stone",
-      "tags": ["materials", "stone"],
+      "tags": [
+        "materials",
+        "stone"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -1168,11 +1793,18 @@
       "id": "EART3D_090",
       "question": "A cold connection in jewelry-scale 3-D work means",
       "correctAnswer": "Joining without heat, such as rivets or wire wrapping",
-      "distractors": ["Working in a cold studio", "Using ice as a material", "Freezing metal before welding"],
+      "distractors": [
+        "Working in a cold studio",
+        "Using ice as a material",
+        "Freezing metal before welding"
+      ],
       "explanation": "Cold connections - rivets, tabs, screws, wire - join metal without a torch, useful for mixed materials.",
       "memoryHook": "T-Rexy says: No torch? No problem - rivets hold metal together the cool way!",
       "imageUrl": "topic:cold-connection",
-      "tags": ["materials", "metal"],
+      "tags": [
+        "materials",
+        "metal"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -1181,11 +1813,18 @@
       "id": "EART3D_091",
       "question": "Repousse is a metalworking technique in which",
       "correctAnswer": "The metal is hammered from the reverse side to create relief",
-      "distractors": ["Metal is melted and poured", "Wire is wrapped around stones", "Sheets are glued together"],
+      "distractors": [
+        "Metal is melted and poured",
+        "Wire is wrapped around stones",
+        "Sheets are glued together"
+      ],
       "explanation": "Repousse (pushed up) shapes sheet metal from behind; chasing refines it from the front - often used together.",
       "memoryHook": "T-Rexy says: Hammer from behind, art pops out front - repousse is metal magic!",
       "imageUrl": "topic:repousse",
-      "tags": ["materials", "metal"],
+      "tags": [
+        "materials",
+        "metal"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -1194,11 +1833,18 @@
       "id": "EART3D_092",
       "question": "Symmetry in 3-D design means",
       "correctAnswer": "Both sides mirror each other",
-      "distractors": ["All sides are different", "The work is very small", "The work has no base"],
+      "distractors": [
+        "All sides are different",
+        "The work is very small",
+        "The work has no base"
+      ],
       "explanation": "Bilateral symmetry - mirror-image halves - conveys order and formality, from temples to the human face.",
       "memoryHook": "T-Rexy says: Fold it in half - if both sides match, that is symmetry!",
       "imageUrl": "topic:symmetry",
-      "tags": ["design", "principles"],
+      "tags": [
+        "design",
+        "principles"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -1207,11 +1853,18 @@
       "id": "EART3D_093",
       "question": "Emphasis in a sculpture can be created by",
       "correctAnswer": "Contrast in size, color, or texture",
-      "distractors": ["Making everything identical", "Hiding the work", "Removing the base"],
+      "distractors": [
+        "Making everything identical",
+        "Hiding the work",
+        "Removing the base"
+      ],
       "explanation": "A focal point grabs attention through contrast - the one gold element among gray ones becomes the star.",
       "memoryHook": "T-Rexy says: Make one part shout while the rest whisper - that is emphasis!",
       "imageUrl": "topic:emphasis",
-      "tags": ["design", "principles"],
+      "tags": [
+        "design",
+        "principles"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -1220,11 +1873,17 @@
       "id": "EART3D_094",
       "question": "In AP scoring, evidence of practice, experimentation, and revision is found in",
       "correctAnswer": "The Sustained Investigation",
-      "distractors": ["The multiple-choice exam", "The artist's birth certificate", "The frame of the work"],
+      "distractors": [
+        "The multiple-choice exam",
+        "The artist's birth certificate",
+        "The frame of the work"
+      ],
       "explanation": "The 15-image Sustained Investigation must show process - sketches, tests, failures, and revisions - not just finished pieces.",
       "memoryHook": "T-Rexy says: Show your messy middle steps - AP loves to see you experiment!",
       "imageUrl": "topic:experimentation-ap",
-      "tags": ["ap-portfolio"],
+      "tags": [
+        "ap-portfolio"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -1233,11 +1892,18 @@
       "id": "EART3D_095",
       "question": "A sketchbook helps a 3-D artist by",
       "correctAnswer": "Recording ideas, plans, and experiments",
-      "distractors": ["Replacing the need for tools", "Firing the kiln", "Selling the artwork"],
+      "distractors": [
+        "Replacing the need for tools",
+        "Firing the kiln",
+        "Selling the artwork"
+      ],
       "explanation": "Thumbnails, measurements, and material tests in a sketchbook turn vague ideas into buildable plans.",
       "memoryHook": "T-Rexy says: The sketchbook is the sculpture's diary - every great work starts as a doodle!",
       "imageUrl": "topic:sketchbook",
-      "tags": ["design", "process"],
+      "tags": [
+        "design",
+        "process"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -1246,11 +1912,18 @@
       "id": "EART3D_096",
       "question": "When photographing a sculpture, a neutral background helps",
       "correctAnswer": "Keep focus on the form without distraction",
-      "distractors": ["Make the work look smaller", "Hide any flaws completely", "Change the color of the work"],
+      "distractors": [
+        "Make the work look smaller",
+        "Hide any flaws completely",
+        "Change the color of the work"
+      ],
       "explanation": "A seamless gray or white backdrop isolates the form so reviewers judge the sculpture, not the cluttered studio.",
       "memoryHook": "T-Rexy says: Plain background, star sculpture - no photobombers allowed!",
       "imageUrl": "topic:photographing-sculpture",
-      "tags": ["ap-portfolio", "technique"],
+      "tags": [
+        "ap-portfolio",
+        "technique"
+      ],
       "difficulty": "medium",
       "dynamic": false,
       "source": "original"
@@ -1259,11 +1932,18 @@
       "id": "EART3D_097",
       "question": "Undercutting in carving creates",
       "correctAnswer": "Areas of deep shadow that emphasize form",
-      "distractors": ["A flat polished surface", "A waterproof seal", "A way to join two stones"],
+      "distractors": [
+        "A flat polished surface",
+        "A waterproof seal",
+        "A way to join two stones"
+      ],
       "explanation": "Cutting back beneath an edge traps shadow, making forms pop - a favorite trick of Gothic and Baroque carvers.",
       "memoryHook": "T-Rexy says: Carve underneath and let the shadows do the talking!",
       "imageUrl": "topic:undercutting",
-      "tags": ["sculpture", "technique"],
+      "tags": [
+        "sculpture",
+        "technique"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -1272,11 +1952,18 @@
       "id": "EART3D_098",
       "question": "Unity in a 3-D composition means",
       "correctAnswer": "All parts feel connected as a whole",
-      "distractors": ["Using one material only", "Making tiny sculptures", "Working alone"],
+      "distractors": [
+        "Using one material only",
+        "Making tiny sculptures",
+        "Working alone"
+      ],
       "explanation": "Unity is the sense that every element belongs - achieved through repetition, proximity, or a unifying idea.",
       "memoryHook": "T-Rexy says: All the parts holding hands - that is unity in sculpture!",
       "imageUrl": "topic:unity-composition",
-      "tags": ["design", "principles"],
+      "tags": [
+        "design",
+        "principles"
+      ],
       "difficulty": "easy",
       "dynamic": false,
       "source": "original"
@@ -1285,11 +1972,18 @@
       "id": "EART3D_099",
       "question": "An installation differs from a single sculpture because it",
       "correctAnswer": "Transforms an entire space the viewer enters",
-      "distractors": ["Is always made of bronze", "Cannot be photographed", "Is never documented"],
+      "distractors": [
+        "Is always made of bronze",
+        "Cannot be photographed",
+        "Is never documented"
+      ],
       "explanation": "Installation art is site-specific and immersive - the room itself becomes the artwork you walk through.",
       "memoryHook": "T-Rexy says: Step inside the artwork - installations are sculptures you can walk through!",
       "imageUrl": "topic:installation-art",
-      "tags": ["sculpture", "concept"],
+      "tags": [
+        "sculpture",
+        "concept"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"
@@ -1298,11 +1992,17 @@
       "id": "EART3D_100",
       "question": "The AP 3-D portfolio encourages investigation of",
       "correctAnswer": "Materials, processes, and ideas together",
-      "distractors": ["Only traditional materials", "Only art history facts", "Only drawing skills"],
+      "distractors": [
+        "Only traditional materials",
+        "Only art history facts",
+        "Only drawing skills"
+      ],
       "explanation": "The College Board rewards inquiry that weaves together what you make with, how you make it, and what it means.",
       "memoryHook": "T-Rexy says: Materials plus process plus ideas - the AP triple threat!",
       "imageUrl": "topic:ap-investigation",
-      "tags": ["ap-portfolio"],
+      "tags": [
+        "ap-portfolio"
+      ],
       "difficulty": "hard",
       "dynamic": false,
       "source": "original"

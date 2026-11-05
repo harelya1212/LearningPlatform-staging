@@ -2,6 +2,8 @@
   "addedAt": "2026-11-04",
   "language": "en",
   "packId": "ella-ap-us-history",
+  "title": "AP US History (12th)",
+  "description": "AP US History (12th) practice - 100 questions",
   "passingScore": 60,
   "questions": [
     {
@@ -509,7 +511,7 @@
       ]
     },
     {
-      "correctAnswer": "Admitting Missouri as a slave state and Maine as a free state, and banning slavery north of 36\u00b030' in the Louisiana Territory",
+      "correctAnswer": "Admitting Missouri as a slave state and Maine as a free state, and banning slavery north of 36°30' in the Louisiana Territory",
       "difficulty": "hard",
       "distractors": [
         "Gradually emancipating all enslaved people in Missouri over twenty years",
@@ -517,7 +519,7 @@
         "Prohibiting slavery in all new states admitted after 1820"
       ],
       "dynamic": false,
-      "explanation": "Henry Clay's compromise preserved the Senate balance (11-11) and drew a geographic line for slavery's expansion. It held for 34 years until the Kansas-Nebraska Act repealed the 36\u00b030' line.",
+      "explanation": "Henry Clay's compromise preserved the Senate balance (11-11) and drew a geographic line for slavery's expansion. It held for 34 years until the Kansas-Nebraska Act repealed the 36°30' line.",
       "id": "EUSH_025",
       "imageUrl": "topic:missouri-compromise",
       "memoryHook": "T-Rexy says: Clay drew a line across the map - slavery south of it, freedom north. Lines on maps don't hold forever.",
@@ -601,7 +603,7 @@
         "It granted citizenship to all enslaved people in the territories"
       ],
       "dynamic": false,
-      "explanation": "Douglas wanted a transcontinental railroad through Chicago, so he organized Kansas and Nebraska with popular sovereignty. This repealed the 36\u00b030' line, outraged the North, and led to 'Bleeding Kansas' and the birth of the Republican Party.",
+      "explanation": "Douglas wanted a transcontinental railroad through Chicago, so he organized Kansas and Nebraska with popular sovereignty. This repealed the 36°30' line, outraged the North, and led to 'Bleeding Kansas' and the birth of the Republican Party.",
       "id": "EUSH_029",
       "imageUrl": "topic:kansas-nebraska",
       "memoryHook": "T-Rexy says: Douglas traded a railroad for a repeal - Kansas bled for it.",
