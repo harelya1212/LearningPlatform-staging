@@ -13,15 +13,15 @@
   "questions": [
     {
       "id": "WGE7_001",
-      "question": "Ancient the Inca developed near the Andes Mountains. What is it best known for?",
+      "question": "The ancient Inca developed in the Andes Mountains. What is it best known for?",
       "correctAnswer": "roads and terraced farms",
       "distractors": [
         "the printing press",
         "steam engines",
-        "skyscrapers"
+        "the first coins"
       ],
-      "explanation": "Ancient the Inca is known for roads and terraced farms.",
-      "memoryHook": "T-Rexy says: rivers gave the first civilizations water and food.",
+      "explanation": "The Inca built thousands of miles of stone roads across the Andes and carved flat terraces into steep mountainsides to grow food.",
+      "memoryHook": "T-Rexy says: the Inca carved farms into steep mountainsides.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "ancient-civilizations",
@@ -80,14 +80,14 @@
         "Athens",
         "Santiago"
       ],
-      "explanation": "The capital of Sweden is Stockholm.",
+      "explanation": "Stockholm is the capital of Sweden, a city built across 14 islands where Lake Malaren meets the Baltic Sea.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -118,9 +118,9 @@
       "distractors": [
         "The Sahara Desert",
         "The Amazon rainforest",
-        "The Arctic tundra"
+        "The Andes Mountains"
       ],
-      "explanation": "Ancient Rome developed near the Italian Peninsula.",
+      "explanation": "Rome grew on the Italian Peninsula, on the banks of the Tiber River.",
       "memoryHook": "T-Rexy says: civilizations grew up near water.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -133,21 +133,21 @@
     },
     {
       "id": "WGE7_007",
-      "question": "What is the capital of Netherlands?",
+      "question": "What is the capital of the Netherlands?",
       "correctAnswer": "Amsterdam",
       "distractors": [
         "Rome",
         "Hanoi",
         "Lima"
       ],
-      "explanation": "The capital of Netherlands is Amsterdam.",
+      "explanation": "Amsterdam is the capital of the Netherlands; the government sits in The Hague.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -156,12 +156,12 @@
       "question": "Ancient Rome developed near the Italian Peninsula. What is it best known for?",
       "correctAnswer": "aqueducts and the Colosseum",
       "distractors": [
-        "the printing press",
-        "steam engines",
+        "pyramids",
+        "the Great Wall",
         "skyscrapers"
       ],
-      "explanation": "Ancient Rome is known for aqueducts and the Colosseum.",
-      "memoryHook": "T-Rexy says: rivers gave the first civilizations water and food.",
+      "explanation": "Roman engineers built aqueducts to carry water into cities, and the Colosseum hosted gladiator fights for up to 50,000 spectators.",
+      "memoryHook": "T-Rexy says: aqueducts carried water into Roman cities.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "ancient-civilizations",
@@ -180,14 +180,14 @@
         "Baghdad",
         "Ottawa"
       ],
-      "explanation": "The capital of Greece is Athens.",
+      "explanation": "Athens is the capital of Greece and one of the oldest cities in the world, home to the Parthenon.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -200,28 +200,28 @@
         "Borneo",
         "Sumatra"
       ],
-      "explanation": "Greenland is the largest island in the world.",
+      "explanation": "Greenland, in the North Atlantic, is about three times the size of Texas and mostly covered in ice.",
       "memoryHook": "T-Rexy says: Greenland is the biggest island.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "landforms",
         "islands"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "WGE7_011",
-      "question": "Where did ancient the Inca develop?",
+      "question": "Where did the ancient Inca develop?",
       "correctAnswer": "the Andes Mountains",
       "distractors": [
         "The Sahara Desert",
-        "The Amazon rainforest",
+        "The Nile River",
         "The Arctic tundra"
       ],
-      "explanation": "Ancient the Inca developed near the Andes Mountains.",
-      "memoryHook": "T-Rexy says: civilizations grew up near water.",
+      "explanation": "The Inca built their empire high in the Andes Mountains of South America.",
+      "memoryHook": "T-Rexy says: the Inca built their empire high in the Andes.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "ancient-civilizations",
@@ -233,15 +233,15 @@
     },
     {
       "id": "WGE7_012",
-      "question": "Ancient the Maya developed near Central America. What is it best known for?",
+      "question": "The ancient Maya developed in Central America. What is it best known for?",
       "correctAnswer": "pyramids and a calendar system",
       "distractors": [
-        "the printing press",
-        "steam engines",
-        "skyscrapers"
+        "the steam engine",
+        "gunpowder",
+        "the telephone"
       ],
-      "explanation": "Ancient the Maya is known for pyramids and a calendar system.",
-      "memoryHook": "T-Rexy says: rivers gave the first civilizations water and food.",
+      "explanation": "The Maya built tall step pyramids and tracked time with a calendar so accurate it could predict eclipses.",
+      "memoryHook": "T-Rexy says: the Maya tracked the stars and built tall pyramids.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "ancient-civilizations",
@@ -267,7 +267,7 @@
         "plate-tectonics",
         "earth"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -287,7 +287,7 @@
         "ancient-civilizations",
         "greece"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -307,7 +307,7 @@
         "ancient-civilizations",
         "india"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -347,27 +347,27 @@
         "ancient-civilizations",
         "egypt"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "WGE7_018",
-      "question": "Where did ancient the Aztec develop?",
+      "question": "Where did the ancient Aztec develop?",
       "correctAnswer": "central Mexico",
       "distractors": [
         "The Sahara Desert",
-        "The Amazon rainforest",
+        "The Andes Mountains",
         "The Arctic tundra"
       ],
-      "explanation": "Ancient the Aztec developed near central Mexico.",
+      "explanation": "The Aztec built their empire in central Mexico, around the great lake city of Tenochtitlan.",
       "memoryHook": "T-Rexy says: civilizations grew up near water.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "ancient-civilizations",
         "history"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -380,7 +380,7 @@
         "Santiago",
         "Beijing"
       ],
-      "explanation": "The capital of Russia is Moscow.",
+      "explanation": "Moscow is the capital of Russia, the largest country in the world, and home to the Kremlin and Red Square.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -400,14 +400,14 @@
         "Brasilia",
         "Berlin"
       ],
-      "explanation": "The capital of Peru is Lima.",
+      "explanation": "Lima is the capital of Peru, a coastal city on the Pacific Ocean founded in 1535.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -440,7 +440,7 @@
         "Moscow",
         "Mexico City"
       ],
-      "explanation": "The capital of Canada is Ottawa.",
+      "explanation": "Ottawa is the capital of Canada, located in Ontario along the Ottawa River.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -457,10 +457,10 @@
       "correctAnswer": "pyramids and pharaohs",
       "distractors": [
         "the printing press",
-        "steam engines",
-        "skyscrapers"
+        "gunpowder",
+        "steam engines"
       ],
-      "explanation": "Ancient Egypt is known for pyramids and pharaohs.",
+      "explanation": "Egypt's pharaohs built huge stone pyramids as tombs, including the Great Pyramid of Giza, the tallest human-made structure for over 3,800 years.",
       "memoryHook": "T-Rexy says: rivers gave the first civilizations water and food.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -480,7 +480,7 @@
         "Antarctica",
         "Europe"
       ],
-      "explanation": "Australia is both a continent and a country.",
+      "explanation": "Australia is the only continent that is also a single country.",
       "memoryHook": "T-Rexy says: Australia is the only continent that is one country.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -507,7 +507,7 @@
         "oceans",
         "earth"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -517,10 +517,10 @@
       "correctAnswer": "the Great Wall and silk",
       "distractors": [
         "the printing press",
-        "steam engines",
-        "skyscrapers"
+        "the steam engine",
+        "the airplane"
       ],
-      "explanation": "Ancient China is known for the Great Wall and silk.",
+      "explanation": "China's Great Wall was built to keep invaders out, and silk made in China was so valuable it was traded all the way to Europe.",
       "memoryHook": "T-Rexy says: rivers gave the first civilizations water and food.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -533,7 +533,7 @@
     },
     {
       "id": "WGE7_027",
-      "question": "Which country is home to the Amazon rainforest?",
+      "question": "Which country has most of the Amazon rainforest?",
       "correctAnswer": "Brazil",
       "distractors": [
         "Egypt",
@@ -547,7 +547,7 @@
         "countries",
         "rainforest"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -556,11 +556,11 @@
       "question": "Where did ancient Mesopotamia develop?",
       "correctAnswer": "the Tigris and Euphrates rivers",
       "distractors": [
-        "The Sahara Desert",
+        "The Nile River",
         "The Amazon rainforest",
         "The Arctic tundra"
       ],
-      "explanation": "Ancient Mesopotamia developed near the Tigris and Euphrates rivers.",
+      "explanation": "Mesopotamia means 'land between rivers' — the Tigris and Euphrates watered its farms in what is now Iraq.",
       "memoryHook": "T-Rexy says: civilizations grew up near water.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -580,14 +580,14 @@
         "Cairo",
         "Bangkok"
       ],
-      "explanation": "The capital of Turkey is Ankara.",
+      "explanation": "Ankara is the capital of Turkey; Istanbul is the largest city, but Ankara is the seat of government.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -600,7 +600,7 @@
         "Amsterdam",
         "Hanoi"
       ],
-      "explanation": "The capital of South Korea is Seoul.",
+      "explanation": "Seoul is the capital of South Korea, a city of about 10 million people on the Han River.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -620,7 +620,7 @@
         "Stockholm",
         "Buenos Aires"
       ],
-      "explanation": "The capital of Mexico is Mexico City.",
+      "explanation": "Mexico City is the capital of Mexico, one of the largest cities in the world, built on the site of the Aztec capital Tenochtitlan.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -647,7 +647,7 @@
         "longitude",
         "maps"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -677,11 +677,11 @@
       "correctAnswer": "democracy and the Olympic Games",
       "distractors": [
         "the printing press",
-        "steam engines",
+        "gunpowder",
         "skyscrapers"
       ],
-      "explanation": "Ancient Greece is known for democracy and the Olympic Games.",
-      "memoryHook": "T-Rexy says: rivers gave the first civilizations water and food.",
+      "explanation": "In Greece, citizens of Athens voted on laws themselves, and athletes competed in the Olympic Games in honor of Zeus.",
+      "memoryHook": "T-Rexy says: Athens gave the world democracy and the Olympics.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "ancient-civilizations",
@@ -720,14 +720,14 @@
         "North America",
         "Africa"
       ],
-      "explanation": "The Yangtze River is in Asia. The longest river in asia.",
+      "explanation": "The Yangtze is the longest river in Asia, flowing across China to the Pacific Ocean.",
       "memoryHook": "T-Rexy says: rivers shape the continents they cross.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "rivers",
         "continents"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -747,25 +747,25 @@
         "time-zones",
         "earth"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "WGE7_038",
-      "question": "Which country is both a continent and a country?",
+      "question": "Which is the smallest continent?",
       "correctAnswer": "Australia",
       "distractors": [
-        "Brazil",
-        "Canada",
-        "Russia"
+        "Europe",
+        "Africa",
+        "Antarctica"
       ],
-      "explanation": "Australia is the only country that is also a whole continent.",
-      "memoryHook": "T-Rexy says: Australia is a country and a continent.",
+      "explanation": "Australia is the smallest continent, about the size of the United States.",
+      "memoryHook": "T-Rexy says: Australia is the smallest continent.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "continents",
-        "countries"
+        "earth"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -800,14 +800,14 @@
         "Abuja",
         "Hanoi"
       ],
-      "explanation": "The capital of Colombia is Bogota.",
+      "explanation": "Bogota is the capital of Colombia, a high city in the Andes at about 2,640 meters above sea level.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -820,7 +820,7 @@
         "Europe",
         "South America"
       ],
-      "explanation": "The Mississippi River is in North America. It flows into the gulf of mexico.",
+      "explanation": "The Mississippi flows across North America and empties into the Gulf of Mexico.",
       "memoryHook": "T-Rexy says: rivers shape the continents they cross.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -840,14 +840,14 @@
         "Stockholm",
         "Abuja"
       ],
-      "explanation": "The capital of Spain is Madrid.",
+      "explanation": "Madrid is the capital of Spain, located in the center of the country on a high plateau.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -860,14 +860,14 @@
         "Brasilia",
         "Santiago"
       ],
-      "explanation": "The capital of Poland is Warsaw.",
+      "explanation": "Warsaw is the capital of Poland, a city on the Vistula River that was rebuilt after World War II.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -877,10 +877,10 @@
       "correctAnswer": "the Yellow River",
       "distractors": [
         "The Sahara Desert",
-        "The Amazon rainforest",
+        "The Indus River",
         "The Arctic tundra"
       ],
-      "explanation": "Ancient China developed near the Yellow River.",
+      "explanation": "China's first cities grew along the Yellow River, whose yellow silt gave the river its name.",
       "memoryHook": "T-Rexy says: civilizations grew up near water.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -927,7 +927,7 @@
         "continents",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -947,7 +947,7 @@
         "rivers",
         "landforms"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -967,7 +967,7 @@
         "rivers",
         "earth"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -980,14 +980,14 @@
         "Rome",
         "Athens"
       ],
-      "explanation": "The capital of Thailand is Bangkok.",
+      "explanation": "Bangkok is the capital of Thailand, a city on the Chao Phraya River known for its temples and markets.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1020,7 +1020,7 @@
         "The Arabian Desert",
         "The Mojave Desert"
       ],
-      "explanation": "The Sahara stretches across northern Africa.",
+      "explanation": "The Sahara covers about 3.6 million square miles, almost the size of the United States.",
       "memoryHook": "T-Rexy says: the Sahara is Africa's great desert.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -1057,10 +1057,10 @@
       "correctAnswer": "the Indus River",
       "distractors": [
         "The Sahara Desert",
-        "The Amazon rainforest",
+        "The Yellow River",
         "The Arctic tundra"
       ],
-      "explanation": "Ancient India developed near the Indus River.",
+      "explanation": "India's first cities, like Mohenjo-daro, grew along the Indus River in what is now Pakistan.",
       "memoryHook": "T-Rexy says: civilizations grew up near water.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -1080,7 +1080,7 @@
         "Ankara",
         "Rome"
       ],
-      "explanation": "The capital of Japan is Tokyo.",
+      "explanation": "Tokyo is the capital of Japan, the largest city in the world with about 37 million people in its metro area.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -1107,7 +1107,7 @@
         "culture",
         "language"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1127,7 +1127,7 @@
         "latitude",
         "maps"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1147,7 +1147,7 @@
         "ancient-civilizations",
         "mesopotamia"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1157,10 +1157,10 @@
       "correctAnswer": "the Nile River",
       "distractors": [
         "The Sahara Desert",
-        "The Amazon rainforest",
+        "The Indus River",
         "The Arctic tundra"
       ],
-      "explanation": "Ancient Egypt developed near the Nile River.",
+      "explanation": "Egypt grew along the Nile, whose yearly floods left rich soil for farming in the desert.",
       "memoryHook": "T-Rexy says: civilizations grew up near water.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -1180,7 +1180,7 @@
         "Abuja",
         "Lima"
       ],
-      "explanation": "The capital of France is Paris.",
+      "explanation": "Paris is the capital of France, a city on the Seine River known for the Eiffel Tower.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -1200,14 +1200,14 @@
         "Mexico City",
         "Baghdad"
       ],
-      "explanation": "The capital of Kenya is Nairobi.",
+      "explanation": "Nairobi is the capital of Kenya, a city in the highlands of East Africa near the equator.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1220,7 +1220,7 @@
         "Brasilia",
         "Hanoi"
       ],
-      "explanation": "The capital of Nigeria is Abuja.",
+      "explanation": "Abuja is the capital of Nigeria; it replaced Lagos as the capital in 1991.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -1240,27 +1240,27 @@
         "New Delhi",
         "Abuja"
       ],
-      "explanation": "The capital of Vietnam is Hanoi.",
+      "explanation": "Hanoi is the capital of Vietnam, a city on the Red River that is over 1,000 years old.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "WGE7_063",
-      "question": "Where did ancient the Maya develop?",
+      "question": "Where did the ancient Maya develop?",
       "correctAnswer": "Central America",
       "distractors": [
         "The Sahara Desert",
-        "The Amazon rainforest",
+        "The Andes Mountains",
         "The Arctic tundra"
       ],
-      "explanation": "Ancient the Maya developed near Central America.",
+      "explanation": "The Maya built their cities in the rainforests and lowlands of Central America.",
       "memoryHook": "T-Rexy says: civilizations grew up near water.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -1273,12 +1273,12 @@
     },
     {
       "id": "WGE7_064",
-      "question": "What is the main religion of ancient Egypt's rulers?",
-      "correctAnswer": "The pharaohs were seen as god-kings",
+      "question": "What did ancient Egyptians believe about the pharaoh?",
+      "correctAnswer": "He was both a king and a god",
       "distractors": [
-        "Democracy",
-        "Buddhism",
-        "Christianity"
+        "He was only a priest",
+        "He was chosen by the people",
+        "He was a foreign conqueror"
       ],
       "explanation": "Egyptians believed the pharaoh was both a king and a god.",
       "memoryHook": "T-Rexy says: the pharaoh was king and god in one.",
@@ -1287,7 +1287,7 @@
         "ancient-civilizations",
         "egypt"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1300,14 +1300,14 @@
         "Athens",
         "Ottawa"
       ],
-      "explanation": "The capital of Iran is Tehran.",
+      "explanation": "Tehran is the capital of Iran, a city at the foot of the Alborz Mountains.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1320,7 +1320,7 @@
         "Europe",
         "South America"
       ],
-      "explanation": "The Nile River is in Africa. The longest river in the world.",
+      "explanation": "The Nile flows north through Africa to the Mediterranean Sea, and it is the longest river in the world.",
       "memoryHook": "T-Rexy says: rivers shape the continents they cross.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -1337,17 +1337,17 @@
       "correctAnswer": "cuneiform writing and the Code of Hammurabi",
       "distractors": [
         "the printing press",
-        "steam engines",
-        "skyscrapers"
+        "the steam engine",
+        "the telescope"
       ],
-      "explanation": "Ancient Mesopotamia is known for cuneiform writing and the Code of Hammurabi.",
+      "explanation": "Mesopotamians pressed wedge-shaped cuneiform marks into clay tablets, and Hammurabi's code set down 282 laws.",
       "memoryHook": "T-Rexy says: rivers gave the first civilizations water and food.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "ancient-civilizations",
         "history"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1360,7 +1360,7 @@
         "Africa",
         "Europe"
       ],
-      "explanation": "The Ganges River is in Asia. It is sacred in hinduism.",
+      "explanation": "The Ganges flows across northern India, and it is sacred in Hinduism.",
       "memoryHook": "T-Rexy says: rivers shape the continents they cross.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -1380,14 +1380,14 @@
         "Santiago",
         "Hanoi"
       ],
-      "explanation": "The capital of Germany is Berlin.",
+      "explanation": "Berlin is the capital of Germany, a city on the Spree River that was divided by a wall until 1989.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1400,14 +1400,14 @@
         "Hanoi",
         "Athens"
       ],
-      "explanation": "The capital of India is New Delhi.",
+      "explanation": "New Delhi is the capital of India, the seat of its government inside the larger city of Delhi.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1447,7 +1447,7 @@
         "longitude",
         "maps"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1457,10 +1457,10 @@
       "correctAnswer": "Hinduism and Buddhism",
       "distractors": [
         "the printing press",
-        "steam engines",
-        "skyscrapers"
+        "the compass",
+        "gunpowder"
       ],
-      "explanation": "Ancient India is known for Hinduism and Buddhism.",
+      "explanation": "Hinduism grew in India around the Indus River, and Buddhism began there too, founded by Siddhartha Gautama.",
       "memoryHook": "T-Rexy says: rivers gave the first civilizations water and food.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -1473,15 +1473,15 @@
     },
     {
       "id": "WGE7_074",
-      "question": "Ancient the Aztec developed near central Mexico. What is it best known for?",
+      "question": "The ancient Aztec developed in central Mexico. What is it best known for?",
       "correctAnswer": "the city of Tenochtitlan",
       "distractors": [
         "the printing press",
-        "steam engines",
-        "skyscrapers"
+        "the steam engine",
+        "the Great Wall"
       ],
-      "explanation": "Ancient the Aztec is known for the city of Tenochtitlan.",
-      "memoryHook": "T-Rexy says: rivers gave the first civilizations water and food.",
+      "explanation": "Tenochtitlan, the Aztec capital, was a city of canals and floating gardens built on a lake, bigger than most European cities of its time.",
+      "memoryHook": "T-Rexy says: Tenochtitlan was a city built on a lake.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "ancient-civilizations",
@@ -1540,14 +1540,14 @@
         "Santiago",
         "Athens"
       ],
-      "explanation": "The capital of Egypt is Cairo.",
+      "explanation": "Cairo is the capital of Egypt, the largest city in the Arab world, near the pyramids of Giza.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1567,7 +1567,7 @@
         "rivers",
         "continents"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1600,14 +1600,14 @@
         "Cairo",
         "Baghdad"
       ],
-      "explanation": "The capital of Italy is Rome.",
+      "explanation": "Rome is the capital of Italy, a city on the Tiber River and the center of the ancient Roman Empire.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1620,7 +1620,7 @@
         "Seoul",
         "Ottawa"
       ],
-      "explanation": "The capital of Australia is Canberra.",
+      "explanation": "Canberra is the capital of Australia, a planned city built between Sydney and Melbourne.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -1640,14 +1640,14 @@
         "The Rocky Mountains",
         "The Alps"
       ],
-      "explanation": "Mount Everest is part of the Himalayas in Asia.",
+      "explanation": "Everest rises in the Himalayas on the border of Nepal and China, where the Indian plate pushes into Asia.",
       "memoryHook": "T-Rexy says: the Himalayas hold the tallest peaks.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "mountains",
         "landforms"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1667,7 +1667,7 @@
         "landforms",
         "vocabulary"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1687,7 +1687,7 @@
         "ancient-civilizations",
         "mesopotamia"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1707,7 +1707,7 @@
         "population",
         "society"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1720,7 +1720,7 @@
         "Buenos Aires",
         "Cairo"
       ],
-      "explanation": "The capital of Chile is Santiago.",
+      "explanation": "Santiago is the capital of Chile, a city in a valley between the Andes and the coastal mountains.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -1747,7 +1747,7 @@
         "population",
         "geography"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1760,7 +1760,7 @@
         "Warsaw",
         "Ottawa"
       ],
-      "explanation": "The capital of Portugal is Lisbon.",
+      "explanation": "Lisbon is the capital of Portugal, a port city on the Atlantic coast at the mouth of the Tagus River.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -1787,7 +1787,7 @@
         "landforms",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1827,7 +1827,7 @@
         "ancient-civilizations",
         "china"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1840,7 +1840,7 @@
         "New Delhi",
         "Rome"
       ],
-      "explanation": "The capital of Brazil is Brasilia.",
+      "explanation": "Brasilia is the capital of Brazil, a planned city built in the 1950s to replace Rio de Janeiro as capital.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -1887,7 +1887,7 @@
         "ancient-civilizations",
         "rome"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1900,7 +1900,7 @@
         "Stockholm",
         "Berlin"
       ],
-      "explanation": "The capital of Argentina is Buenos Aires.",
+      "explanation": "Buenos Aires is the capital of Argentina, a port city on the Rio de la Plata.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -1920,7 +1920,7 @@
         "Nairobi",
         "Hanoi"
       ],
-      "explanation": "The capital of China is Beijing.",
+      "explanation": "Beijing is the capital of China, a city with over 3,000 years of history and home to the Forbidden City.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
@@ -1940,8 +1940,8 @@
         "Edinburgh",
         "Cardiff"
       ],
-      "explanation": "London is the capital of the United Kingdom.",
-      "memoryHook": "T-Rexy says: London is the capital of the UK.",
+      "explanation": "London is the capital of the United Kingdom, a city on the River Thames.",
+      "memoryHook": "T-Rexy says: London sits on the River Thames.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "capitals",
@@ -1960,20 +1960,20 @@
         "Paris",
         "Nairobi"
       ],
-      "explanation": "The capital of Iraq is Baghdad.",
+      "explanation": "Baghdad is the capital of Iraq, a city on the Tigris River founded in the 8th century.",
       "memoryHook": "T-Rexy says: capitals are the seats of government.",
       "imageUrl": "topic:world-geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "WGE7_099",
-      "question": "What is the largest desert in the world?",
+      "question": "What is the largest hot desert in the world?",
       "correctAnswer": "The Sahara Desert",
       "distractors": [
         "The Gobi Desert",
@@ -1987,7 +1987,7 @@
         "deserts",
         "landforms"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -2007,7 +2007,7 @@
         "time-zones",
         "earth"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     }
