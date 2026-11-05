@@ -1,6 +1,8 @@
 {
   "packId": "gr6-life-science",
-  "version": 1.0,
+  "title": "Life Science (6th Grade)",
+  "description": "Life Science (6th Grade) practice - 100 questions",
+  "version": "1.0",
   "language": "en",
   "passingScore": 60,
   "totalQuestions": 100,

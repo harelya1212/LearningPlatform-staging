@@ -1,6 +1,8 @@
 {
   "packId": "gr6-english-language-arts",
-  "version": 1.0,
+  "title": "English Language Arts (6th Grade)",
+  "description": "English Language Arts (6th Grade) practice - 100 questions",
+  "version": "1.0",
   "language": "en",
   "passingScore": 60,
   "totalQuestions": 100,
