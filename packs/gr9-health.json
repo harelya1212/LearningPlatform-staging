@@ -1,0 +1,2015 @@
+{
+  "packId": "gr9-health",
+  "version": 1.0,
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "health",
+    "wellness",
+    "9th"
+  ],
+  "questions": [
+    {
+      "id": "HEA9_001",
+      "question": "What is the main function of the heart?",
+      "correctAnswer": "To pump blood through the body",
+      "distractors": [
+        "To filter blood",
+        "To digest food",
+        "To make hormones"
+      ],
+      "explanation": "The heart pumps blood around the body.",
+      "memoryHook": "T-Rexy says: The heart pumps blood.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body",
+        "heart"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_002",
+      "question": "How many chambers does the human heart have?",
+      "correctAnswer": "4",
+      "distractors": [
+        "2",
+        "3",
+        "5"
+      ],
+      "explanation": "The heart has four chambers.",
+      "memoryHook": "T-Rexy says: The heart has four chambers.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body",
+        "heart"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_003",
+      "question": "What is the normal resting heart rate for a healthy teenager?",
+      "correctAnswer": "About 60 to 100 beats per minute",
+      "distractors": [
+        "About 20 to 30 beats per minute",
+        "About 150 to 200 beats per minute",
+        "About 200 to 250 beats per minute"
+      ],
+      "explanation": "A healthy resting rate is about 60 to 100 beats per minute.",
+      "memoryHook": "T-Rexy says: Resting heart rate is 60 to 100.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body",
+        "heart"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_004",
+      "question": "What is blood pressure?",
+      "correctAnswer": "The force of blood against artery walls",
+      "distractors": [
+        "The speed of blood cells",
+        "The amount of blood in the body",
+        "The temperature of blood"
+      ],
+      "explanation": "Blood pressure is the force of blood on artery walls.",
+      "memoryHook": "T-Rexy says: Blood pressure is force on artery walls.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body",
+        "blood"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_005",
+      "question": "What is the main function of the lungs?",
+      "correctAnswer": "To exchange oxygen and carbon dioxide",
+      "distractors": [
+        "To pump blood",
+        "To filter waste",
+        "To digest food"
+      ],
+      "explanation": "The lungs exchange gases with the blood.",
+      "memoryHook": "T-Rexy says: Lungs swap gases.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body",
+        "lungs"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_006",
+      "question": "How many minutes of physical activity do teens need most days?",
+      "correctAnswer": "At least 60 minutes",
+      "distractors": [
+        "At least 10 minutes",
+        "At least 5 minutes",
+        "At least 120 minutes"
+      ],
+      "explanation": "Teens need at least 60 minutes of activity most days.",
+      "memoryHook": "T-Rexy says: Teens need 60 minutes a day.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "activity"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_007",
+      "question": "What type of exercise strengthens the heart?",
+      "correctAnswer": "Aerobic exercise",
+      "distractors": [
+        "Stretching only",
+        "Sleeping",
+        "Sitting"
+      ],
+      "explanation": "Aerobic exercise, like running, strengthens the heart.",
+      "memoryHook": "T-Rexy says: Aerobic exercise helps the heart.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "exercise"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_008",
+      "question": "What is the benefit of warming up before exercise?",
+      "correctAnswer": "It prepares muscles and reduces injury risk",
+      "distractors": [
+        "It makes exercise harder",
+        "It replaces cooling down",
+        "It stops sweating"
+      ],
+      "explanation": "Warming up prepares muscles and lowers injury risk.",
+      "memoryHook": "T-Rexy says: Warm up first.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "exercise"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_009",
+      "question": "What is the benefit of cooling down after exercise?",
+      "correctAnswer": "It helps the heart rate return to normal gradually",
+      "distractors": [
+        "It makes muscles weaker",
+        "It replaces stretching",
+        "It stops hydration"
+      ],
+      "explanation": "Cooling down lets the heart rate fall gradually.",
+      "memoryHook": "T-Rexy says: Cool down slowly.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "exercise"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_010",
+      "question": "How many hours of sleep do teenagers need each night?",
+      "correctAnswer": "8 to 10 hours",
+      "distractors": [
+        "4 to 5 hours",
+        "5 to 6 hours",
+        "12 to 14 hours"
+      ],
+      "explanation": "Teenagers need 8 to 10 hours of sleep.",
+      "memoryHook": "T-Rexy says: Teens need 8 to 10 hours.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "sleep",
+        "health"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_011",
+      "question": "What is a nutrient?",
+      "correctAnswer": "A substance in food that the body needs to grow and stay healthy",
+      "distractors": [
+        "A type of germ",
+        "A medicine",
+        "A vitamin only"
+      ],
+      "explanation": "Nutrients are substances in food the body needs.",
+      "memoryHook": "T-Rexy says: Nutrients feed the body.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_012",
+      "question": "What are the six main nutrients?",
+      "correctAnswer": "Carbohydrates, proteins, fats, vitamins, minerals, and water",
+      "distractors": [
+        "Carbohydrates, proteins, fats, sugar, salt, and caffeine",
+        "Vitamins, minerals, water, sugar, salt, and fat",
+        "Proteins, fats, vitamins, sugar, salt, and water"
+      ],
+      "explanation": "The six nutrients are carbs, proteins, fats, vitamins, minerals, and water.",
+      "memoryHook": "T-Rexy says: Six nutrients keep you healthy.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_013",
+      "question": "What is the main function of carbohydrates?",
+      "correctAnswer": "To provide quick energy",
+      "distractors": [
+        "To build muscle only",
+        "To carry oxygen",
+        "To make bones"
+      ],
+      "explanation": "Carbohydrates are the body's main quick energy source.",
+      "memoryHook": "T-Rexy says: Carbs give quick energy.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "carbohydrates"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_014",
+      "question": "What is the main function of protein?",
+      "correctAnswer": "To build and repair body tissues",
+      "distractors": [
+        "To provide quick energy only",
+        "To store fat",
+        "To make bones only"
+      ],
+      "explanation": "Protein builds and repairs tissues.",
+      "memoryHook": "T-Rexy says: Protein builds and repairs.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "protein"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_015",
+      "question": "What is the main function of fats?",
+      "correctAnswer": "To store energy and protect organs",
+      "distractors": [
+        "To provide quick energy only",
+        "To carry oxygen",
+        "To make blood"
+      ],
+      "explanation": "Fats store energy and cushion organs.",
+      "memoryHook": "T-Rexy says: Fats store energy.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "fats"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_016",
+      "question": "What is the main function of vitamins?",
+      "correctAnswer": "To help the body work properly in small amounts",
+      "distractors": [
+        "To provide energy",
+        "To build muscle",
+        "To make blood only"
+      ],
+      "explanation": "Vitamins help body processes work.",
+      "memoryHook": "T-Rexy says: Vitamins help the body work.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "vitamins"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_017",
+      "question": "Which vitamin does sunlight help the body make?",
+      "correctAnswer": "Vitamin D",
+      "distractors": [
+        "Vitamin C",
+        "Vitamin B12",
+        "Vitamin A"
+      ],
+      "explanation": "Sunlight helps skin make vitamin D.",
+      "memoryHook": "T-Rexy says: Sunlight makes vitamin D.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "vitamins"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_018",
+      "question": "Which vitamin helps prevent scurvy and is found in citrus fruit?",
+      "correctAnswer": "Vitamin C",
+      "distractors": [
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B12"
+      ],
+      "explanation": "Vitamin C in citrus prevents scurvy.",
+      "memoryHook": "T-Rexy says: Citrus has vitamin C.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "vitamins"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_019",
+      "question": "What mineral is important for strong bones and teeth?",
+      "correctAnswer": "Calcium",
+      "distractors": [
+        "Iron",
+        "Sodium",
+        "Potassium"
+      ],
+      "explanation": "Calcium builds strong bones and teeth.",
+      "memoryHook": "T-Rexy says: Calcium builds bones.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "minerals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_020",
+      "question": "What mineral helps carry oxygen in the blood?",
+      "correctAnswer": "Iron",
+      "distractors": [
+        "Calcium",
+        "Sodium",
+        "Zinc"
+      ],
+      "explanation": "Iron in hemoglobin carries oxygen.",
+      "memoryHook": "T-Rexy says: Iron carries oxygen.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "minerals"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_021",
+      "question": "Why is water important for the body?",
+      "correctAnswer": "It carries nutrients, regulates temperature, and removes waste",
+      "distractors": [
+        "It provides calories",
+        "It replaces food",
+        "It makes bones"
+      ],
+      "explanation": "Water carries nutrients, controls temperature, and removes waste.",
+      "memoryHook": "T-Rexy says: Water does many jobs.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "water"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_022",
+      "question": "How much water should a teenager drink each day?",
+      "correctAnswer": "About 8 cups, or as thirst and activity require",
+      "distractors": [
+        "About 1 cup",
+        "About 20 cups",
+        "No water is needed"
+      ],
+      "explanation": "About 8 cups a day is a common guide, more when active.",
+      "memoryHook": "T-Rexy says: Drink about 8 cups.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "water"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_023",
+      "question": "What is a balanced diet?",
+      "correctAnswer": "Eating a variety of foods from all food groups in the right amounts",
+      "distractors": [
+        "Eating only vegetables",
+        "Eating only protein",
+        "Eating as much as possible"
+      ],
+      "explanation": "A balanced diet includes variety from all food groups.",
+      "memoryHook": "T-Rexy says: Balance means variety.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "diet"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_024",
+      "question": "What food group do bread, rice, and pasta belong to?",
+      "correctAnswer": "Grains",
+      "distractors": [
+        "Vegetables",
+        "Protein",
+        "Dairy"
+      ],
+      "explanation": "Bread, rice, and pasta are grains.",
+      "memoryHook": "T-Rexy says: Bread is a grain.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "food-groups"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_025",
+      "question": "What food group do milk, cheese, and yogurt belong to?",
+      "correctAnswer": "Dairy",
+      "distractors": [
+        "Grains",
+        "Vegetables",
+        "Protein"
+      ],
+      "explanation": "Milk, cheese, and yogurt are dairy foods.",
+      "memoryHook": "T-Rexy says: Milk is dairy.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "food-groups"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_026",
+      "question": "What is the difference between whole grains and refined grains?",
+      "correctAnswer": "Whole grains keep the bran and germ; refined grains remove them",
+      "distractors": [
+        "Whole grains have no fiber",
+        "Refined grains are healthier",
+        "There is no difference"
+      ],
+      "explanation": "Whole grains keep bran and germ, refined grains lose them.",
+      "memoryHook": "T-Rexy says: Whole grains keep it all.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "food-groups"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_027",
+      "question": "What is fiber?",
+      "correctAnswer": "Plant material that helps digestion",
+      "distractors": [
+        "A type of fat",
+        "A type of protein",
+        "A vitamin"
+      ],
+      "explanation": "Fiber is plant material that aids digestion.",
+      "memoryHook": "T-Rexy says: Fiber helps digestion.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "fiber"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_028",
+      "question": "What is a calorie?",
+      "correctAnswer": "A unit of energy in food",
+      "distractors": [
+        "A type of vitamin",
+        "A mineral",
+        "A germ"
+      ],
+      "explanation": "A calorie measures energy in food.",
+      "memoryHook": "T-Rexy says: Calories measure energy.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "energy"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_029",
+      "question": "What is the best first step if someone is choking and cannot breathe?",
+      "correctAnswer": "Perform abdominal thrusts (the Heimlich maneuver)",
+      "distractors": [
+        "Give them water",
+        "Pat their back only and wait",
+        "Lay them down"
+      ],
+      "explanation": "Abdominal thrusts can dislodge a blocked airway.",
+      "memoryHook": "T-Rexy says: Heimlich helps choking.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "choking"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_030",
+      "question": "What should you do first for a minor cut?",
+      "correctAnswer": "Clean it with water and cover it with a bandage",
+      "distractors": [
+        "Apply a tourniquet",
+        "Ignore it",
+        "Rub dirt into it"
+      ],
+      "explanation": "Clean a minor cut and cover it.",
+      "memoryHook": "T-Rexy says: Clean and cover a cut.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "cuts"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_031",
+      "question": "What should you do for a nosebleed?",
+      "correctAnswer": "Lean forward and pinch the soft part of the nose",
+      "distractors": [
+        "Lean back and tilt the head up",
+        "Blow the nose hard",
+        "Lie flat"
+      ],
+      "explanation": "Lean forward and pinch the nose to stop a nosebleed.",
+      "memoryHook": "T-Rexy says: Lean forward for a nosebleed.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "nosebleed"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_032",
+      "question": "What is the first step in treating a burn?",
+      "correctAnswer": "Cool it with cool running water",
+      "distractors": [
+        "Apply ice directly",
+        "Cover it with butter",
+        "Rub it"
+      ],
+      "explanation": "Cool a burn with cool running water.",
+      "memoryHook": "T-Rexy says: Cool a burn with water.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "burns"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_033",
+      "question": "What number should you call in the United States for an emergency?",
+      "correctAnswer": "911",
+      "distractors": [
+        "411",
+        "311",
+        "611"
+      ],
+      "explanation": "Call 911 for emergencies in the United States.",
+      "memoryHook": "T-Rexy says: Call 911 in an emergency.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "emergency"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_034",
+      "question": "What is CPR?",
+      "correctAnswer": "Chest compressions and rescue breaths to keep blood flowing",
+      "distractors": [
+        "A type of bandage",
+        "A medicine",
+        "A test for broken bones"
+      ],
+      "explanation": "CPR uses compressions and breaths to keep blood moving.",
+      "memoryHook": "T-Rexy says: CPR keeps blood flowing.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "cpr"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_035",
+      "question": "What is a fracture?",
+      "correctAnswer": "A broken bone",
+      "distractors": [
+        "A sprained ankle",
+        "A bruise",
+        "A cut"
+      ],
+      "explanation": "A fracture is a broken bone.",
+      "memoryHook": "T-Rexy says: Fracture means broken bone.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "injuries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_036",
+      "question": "What is a sprain?",
+      "correctAnswer": "An injury to a ligament",
+      "distractors": [
+        "A broken bone",
+        "A cut",
+        "A burn"
+      ],
+      "explanation": "A sprain injures a ligament.",
+      "memoryHook": "T-Rexy says: A sprain hurts a ligament.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "injuries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_037",
+      "question": "What does RICE stand for in first aid?",
+      "correctAnswer": "Rest, Ice, Compression, Elevation",
+      "distractors": [
+        "Run, Ice, Cold, Exercise",
+        "Rest, Ice, Cut, Elevate",
+        "Run, Jump, Climb, Exercise"
+      ],
+      "explanation": "RICE is Rest, Ice, Compression, Elevation.",
+      "memoryHook": "T-Rexy says: RICE is rest, ice, compression, elevation.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "injuries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_038",
+      "question": "What is a vaccine?",
+      "correctAnswer": "A substance that helps the body build immunity to a disease",
+      "distractors": [
+        "A medicine that cures all diseases",
+        "A type of germ",
+        "A vitamin"
+      ],
+      "explanation": "A vaccine trains the immune system against a disease.",
+      "memoryHook": "T-Rexy says: Vaccines build immunity.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "disease",
+        "prevention"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_039",
+      "question": "What is the immune system?",
+      "correctAnswer": "The body's defense against germs and disease",
+      "distractors": [
+        "The digestive system",
+        "The nervous system",
+        "The skeletal system"
+      ],
+      "explanation": "The immune system defends against germs.",
+      "memoryHook": "T-Rexy says: The immune system defends you.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "disease",
+        "immune"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_040",
+      "question": "What is a virus?",
+      "correctAnswer": "A tiny particle that needs a host cell to reproduce",
+      "distractors": [
+        "A living cell",
+        "A type of bacteria",
+        "A fungus"
+      ],
+      "explanation": "Viruses need a host cell to copy themselves.",
+      "memoryHook": "T-Rexy says: Viruses need a host.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "disease",
+        "germs"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_041",
+      "question": "What is a bacterium?",
+      "correctAnswer": "A single-celled organism that can live on its own",
+      "distractors": [
+        "A virus",
+        "A fungus",
+        "A plant cell"
+      ],
+      "explanation": "Bacteria are single-celled organisms.",
+      "memoryHook": "T-Rexy says: Bacteria are single cells.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "disease",
+        "germs"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_042",
+      "question": "What is the best way to prevent the spread of germs?",
+      "correctAnswer": "Wash hands often with soap and water",
+      "distractors": [
+        "Share drinks",
+        "Cough without covering",
+        "Touch your face often"
+      ],
+      "explanation": "Handwashing is the best way to stop germs spreading.",
+      "memoryHook": "T-Rexy says: Wash your hands.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "disease",
+        "prevention"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_043",
+      "question": "How long should you wash your hands?",
+      "correctAnswer": "At least 20 seconds",
+      "distractors": [
+        "At least 2 seconds",
+        "At least 5 seconds",
+        "At least 60 seconds"
+      ],
+      "explanation": "Wash hands for at least 20 seconds.",
+      "memoryHook": "T-Rexy says: Wash for 20 seconds.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "disease",
+        "prevention"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_044",
+      "question": "What is a communicable disease?",
+      "correctAnswer": "A disease that can spread from person to person",
+      "distractors": [
+        "A disease that cannot spread",
+        "A broken bone",
+        "A genetic condition"
+      ],
+      "explanation": "Communicable diseases spread between people.",
+      "memoryHook": "T-Rexy says: Communicable means it spreads.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "disease",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_045",
+      "question": "What is a noncommunicable disease?",
+      "correctAnswer": "A disease that cannot spread from person to person, such as diabetes",
+      "distractors": [
+        "A cold",
+        "The flu",
+        "A contagious rash"
+      ],
+      "explanation": "Noncommunicable diseases do not spread person to person.",
+      "memoryHook": "T-Rexy says: Noncommunicable does not spread.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "disease",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_046",
+      "question": "What is diabetes?",
+      "correctAnswer": "A condition where the body cannot control blood sugar properly",
+      "distractors": [
+        "A broken bone",
+        "A cold",
+        "A skin rash"
+      ],
+      "explanation": "Diabetes is a problem controlling blood sugar.",
+      "memoryHook": "T-Rexy says: Diabetes affects blood sugar.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "disease",
+        "chronic"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_047",
+      "question": "What is asthma?",
+      "correctAnswer": "A condition where airways narrow and make breathing hard",
+      "distractors": [
+        "A broken bone",
+        "A stomach illness",
+        "A skin condition"
+      ],
+      "explanation": "Asthma narrows airways and makes breathing hard.",
+      "memoryHook": "T-Rexy says: Asthma makes breathing hard.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "disease",
+        "chronic"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_048",
+      "question": "What is an allergy?",
+      "correctAnswer": "An immune reaction to a harmless substance",
+      "distractors": [
+        "A broken bone",
+        "A virus",
+        "A type of food"
+      ],
+      "explanation": "An allergy is an immune reaction to something harmless.",
+      "memoryHook": "T-Rexy says: Allergies are immune reactions.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "disease",
+        "immune"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_049",
+      "question": "What is stress?",
+      "correctAnswer": "The body's response to a challenge or demand",
+      "distractors": [
+        "A type of germ",
+        "A broken bone",
+        "A vitamin deficiency"
+      ],
+      "explanation": "Stress is the body's response to demands.",
+      "memoryHook": "T-Rexy says: Stress is a response to pressure.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "stress"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_050",
+      "question": "What is a healthy way to manage stress?",
+      "correctAnswer": "Exercise, sleep, and talking to someone you trust",
+      "distractors": [
+        "Ignoring it completely",
+        "Skipping meals",
+        "Staying up all night"
+      ],
+      "explanation": "Exercise, sleep, and talking help manage stress.",
+      "memoryHook": "T-Rexy says: Move, sleep, and talk.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "stress"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_051",
+      "question": "What is depression?",
+      "correctAnswer": "A mood disorder with lasting sadness and loss of interest",
+      "distractors": [
+        "Feeling sad for one hour",
+        "Being tired after exercise",
+        "A cold"
+      ],
+      "explanation": "Depression is lasting sadness and loss of interest.",
+      "memoryHook": "T-Rexy says: Depression lasts and needs help.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "wellbeing"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_052",
+      "question": "What should you do if a friend talks about harming themselves?",
+      "correctAnswer": "Tell a trusted adult right away",
+      "distractors": [
+        "Keep it a secret",
+        "Ignore it",
+        "Laugh it off"
+      ],
+      "explanation": "Tell a trusted adult immediately if someone may harm themselves.",
+      "memoryHook": "T-Rexy says: Tell an adult right away.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "safety"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_053",
+      "question": "What is empathy?",
+      "correctAnswer": "Understanding and sharing another person's feelings",
+      "distractors": [
+        "Ignoring others",
+        "Agreeing with everyone",
+        "Telling others what to do"
+      ],
+      "explanation": "Empathy is understanding another's feelings.",
+      "memoryHook": "T-Rexy says: Empathy is feeling with others.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "relationships"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_054",
+      "question": "What is peer pressure?",
+      "correctAnswer": "Pressure from friends to act a certain way",
+      "distractors": [
+        "Pressure from teachers only",
+        "A type of exercise",
+        "A medical condition"
+      ],
+      "explanation": "Peer pressure is influence from peers to act a certain way.",
+      "memoryHook": "T-Rexy says: Peers can pressure you.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "relationships"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_055",
+      "question": "What is a healthy friendship?",
+      "correctAnswer": "One with respect, trust, and support",
+      "distractors": [
+        "One where one person controls the other",
+        "One with no communication",
+        "One with constant fighting"
+      ],
+      "explanation": "Healthy friendships have respect, trust, and support.",
+      "memoryHook": "T-Rexy says: Healthy friends respect you.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "relationships"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_056",
+      "question": "What is bullying?",
+      "correctAnswer": "Repeated hurtful behavior meant to harm someone",
+      "distractors": [
+        "A single friendly joke",
+        "A disagreement",
+        "A compliment"
+      ],
+      "explanation": "Bullying is repeated behavior meant to hurt.",
+      "memoryHook": "T-Rexy says: Bullying is repeated hurt.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "safety"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_057",
+      "question": "What should you do if you are bullied?",
+      "correctAnswer": "Tell a trusted adult and do not keep it secret",
+      "distractors": [
+        "Keep it secret",
+        "Fight back physically",
+        "Blame yourself"
+      ],
+      "explanation": "Tell a trusted adult if you are bullied.",
+      "memoryHook": "T-Rexy says: Tell an adult about bullying.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "safety"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_058",
+      "question": "What is the legal drinking age in the United States?",
+      "correctAnswer": "21",
+      "distractors": [
+        "18",
+        "16",
+        "25"
+      ],
+      "explanation": "The legal drinking age in the United States is 21.",
+      "memoryHook": "T-Rexy says: Drinking age is 21.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "alcohol"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_059",
+      "question": "What does alcohol do to the body?",
+      "correctAnswer": "It slows the brain and impairs judgment and coordination",
+      "distractors": [
+        "It improves judgment",
+        "It makes you stronger",
+        "It has no effect"
+      ],
+      "explanation": "Alcohol slows the brain and harms judgment.",
+      "memoryHook": "T-Rexy says: Alcohol slows the brain.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "alcohol"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_060",
+      "question": "What is the main addictive substance in cigarettes?",
+      "correctAnswer": "Nicotine",
+      "distractors": [
+        "Tar",
+        "Carbon monoxide",
+        "Caffeine"
+      ],
+      "explanation": "Nicotine is the addictive drug in cigarettes.",
+      "memoryHook": "T-Rexy says: Nicotine is addictive.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "tobacco"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_061",
+      "question": "What is a major health risk of smoking?",
+      "correctAnswer": "Lung cancer and heart disease",
+      "distractors": [
+        "Stronger lungs",
+        "Better health",
+        "Longer life"
+      ],
+      "explanation": "Smoking raises the risk of lung cancer and heart disease.",
+      "memoryHook": "T-Rexy says: Smoking harms lungs and heart.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "tobacco"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_062",
+      "question": "What is vaping?",
+      "correctAnswer": "Inhaling vapor from an electronic cigarette",
+      "distractors": [
+        "Drinking water",
+        "Eating candy",
+        "Breathing fresh air"
+      ],
+      "explanation": "Vaping is inhaling vapor from an e-cigarette.",
+      "memoryHook": "T-Rexy says: Vaping is not safe.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "tobacco"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_063",
+      "question": "What is a drug?",
+      "correctAnswer": "A substance that changes how the body or mind works",
+      "distractors": [
+        "A vitamin only",
+        "A food only",
+        "Water"
+      ],
+      "explanation": "A drug changes how the body or mind works.",
+      "memoryHook": "T-Rexy says: Drugs change the body.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "drugs"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_064",
+      "question": "What is addiction?",
+      "correctAnswer": "A strong need to keep using a substance despite harm",
+      "distractors": [
+        "Enjoying a hobby",
+        "Eating healthy food",
+        "Exercising daily"
+      ],
+      "explanation": "Addiction is continued use despite harm.",
+      "memoryHook": "T-Rexy says: Addiction is use despite harm.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "addiction"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_065",
+      "question": "What is the best way to refuse drugs or alcohol?",
+      "correctAnswer": "Say no clearly and walk away",
+      "distractors": [
+        "Accept to fit in",
+        "Try it once",
+        "Ignore the offer silently and stay"
+      ],
+      "explanation": "Say no clearly and leave.",
+      "memoryHook": "T-Rexy says: Say no and walk away.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "refusal"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_066",
+      "question": "What is the main function of the skeletal system?",
+      "correctAnswer": "To support the body and protect organs",
+      "distractors": [
+        "To pump blood",
+        "To digest food",
+        "To carry oxygen"
+      ],
+      "explanation": "The skeleton supports the body and protects organs.",
+      "memoryHook": "T-Rexy says: Bones support and protect.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body",
+        "skeleton"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_067",
+      "question": "How many bones are in the adult human body?",
+      "correctAnswer": "206",
+      "distractors": [
+        "106",
+        "306",
+        "156"
+      ],
+      "explanation": "Adults have 206 bones.",
+      "memoryHook": "T-Rexy says: Adults have 206 bones.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body",
+        "skeleton"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_068",
+      "question": "What is the main function of muscles?",
+      "correctAnswer": "To move the body",
+      "distractors": [
+        "To pump blood only",
+        "To digest food",
+        "To make hormones"
+      ],
+      "explanation": "Muscles move the body.",
+      "memoryHook": "T-Rexy says: Muscles move you.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body",
+        "muscles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_069",
+      "question": "What is the largest organ of the human body?",
+      "correctAnswer": "Skin",
+      "distractors": [
+        "Liver",
+        "Heart",
+        "Lung"
+      ],
+      "explanation": "Skin is the largest organ.",
+      "memoryHook": "T-Rexy says: Skin is the biggest organ.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body",
+        "skin"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_070",
+      "question": "What is the main function of the digestive system?",
+      "correctAnswer": "To break down food and absorb nutrients",
+      "distractors": [
+        "To pump blood",
+        "To filter waste",
+        "To send signals"
+      ],
+      "explanation": "Digestion breaks down food and absorbs nutrients.",
+      "memoryHook": "T-Rexy says: Digestion breaks food down.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body",
+        "digestive"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_071",
+      "question": "What is the main function of the nervous system?",
+      "correctAnswer": "To send signals and control the body",
+      "distractors": [
+        "To pump blood",
+        "To digest food",
+        "To filter waste"
+      ],
+      "explanation": "The nervous system sends signals to control the body.",
+      "memoryHook": "T-Rexy says: Nerves send signals.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body",
+        "nervous"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_072",
+      "question": "What is the main function of the kidneys?",
+      "correctAnswer": "To filter waste from the blood",
+      "distractors": [
+        "To pump blood",
+        "To make insulin only",
+        "To produce red blood cells only"
+      ],
+      "explanation": "Kidneys filter waste from blood.",
+      "memoryHook": "T-Rexy says: Kidneys filter blood.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body",
+        "kidneys"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_073",
+      "question": "What is the main function of the liver?",
+      "correctAnswer": "To filter blood and help digestion",
+      "distractors": [
+        "To pump blood",
+        "To breathe",
+        "To make bones"
+      ],
+      "explanation": "The liver filters blood and aids digestion.",
+      "memoryHook": "T-Rexy says: The liver filters blood.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body",
+        "liver"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_074",
+      "question": "What is hygiene?",
+      "correctAnswer": "Practices that keep the body clean and healthy",
+      "distractors": [
+        "A type of exercise",
+        "A diet",
+        "A medicine"
+      ],
+      "explanation": "Hygiene is keeping clean to stay healthy.",
+      "memoryHook": "T-Rexy says: Hygiene keeps you clean.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "hygiene"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_075",
+      "question": "Why is brushing teeth important?",
+      "correctAnswer": "It removes plaque and prevents cavities",
+      "distractors": [
+        "It makes teeth yellow",
+        "It replaces flossing",
+        "It cures colds"
+      ],
+      "explanation": "Brushing removes plaque and prevents cavities.",
+      "memoryHook": "T-Rexy says: Brush to prevent cavities.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "hygiene"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_076",
+      "question": "How often should you brush your teeth?",
+      "correctAnswer": "At least twice a day",
+      "distractors": [
+        "Once a week",
+        "Once a month",
+        "Never"
+      ],
+      "explanation": "Brush at least twice a day.",
+      "memoryHook": "T-Rexy says: Brush twice a day.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "hygiene"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_077",
+      "question": "What is sunscreen for?",
+      "correctAnswer": "Protecting skin from harmful ultraviolet rays",
+      "distractors": [
+        "Making skin darker safely",
+        "Preventing colds",
+        "Healing cuts"
+      ],
+      "explanation": "Sunscreen protects skin from UV rays.",
+      "memoryHook": "T-Rexy says: Sunscreen blocks UV.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "safety"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_078",
+      "question": "What is the best way to stay safe in the sun?",
+      "correctAnswer": "Wear sunscreen, a hat, and protective clothing",
+      "distractors": [
+        "Stay in the sun all day without protection",
+        "Use no sunscreen",
+        "Sunbathe at noon only"
+      ],
+      "explanation": "Use sunscreen, a hat, and clothing for sun safety.",
+      "memoryHook": "T-Rexy says: Cover up in the sun.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "safety"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_079",
+      "question": "What is a seat belt for?",
+      "correctAnswer": "Keeping you safe in a car crash",
+      "distractors": [
+        "Making the car faster",
+        "Holding groceries",
+        "Decorating the car"
+      ],
+      "explanation": "Seat belts keep you safe in a crash.",
+      "memoryHook": "T-Rexy says: Wear a seat belt.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "safety"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_080",
+      "question": "Why should you not text while driving?",
+      "correctAnswer": "It distracts you and greatly raises crash risk",
+      "distractors": [
+        "It makes driving safer",
+        "It is required by law",
+        "It improves focus"
+      ],
+      "explanation": "Texting while driving distracts and raises crash risk.",
+      "memoryHook": "T-Rexy says: Never text and drive.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "safety"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_081",
+      "question": "What is the purpose of a helmet when biking?",
+      "correctAnswer": "To protect the head from injury",
+      "distractors": [
+        "To keep hair neat",
+        "To make biking faster",
+        "To block the sun only"
+      ],
+      "explanation": "A helmet protects the head in a fall.",
+      "memoryHook": "T-Rexy says: Helmets protect heads.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "safety"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_082",
+      "question": "What is a healthy body image?",
+      "correctAnswer": "Feeling good about your body as it is",
+      "distractors": [
+        "Comparing yourself to models constantly",
+        "Skipping meals to look thin",
+        "Hating your body"
+      ],
+      "explanation": "A healthy body image means accepting your body.",
+      "memoryHook": "T-Rexy says: Accept your body.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "wellbeing"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_083",
+      "question": "What is an eating disorder?",
+      "correctAnswer": "An unhealthy pattern of eating that harms health",
+      "distractors": [
+        "Eating vegetables",
+        "Eating three meals a day",
+        "Enjoying food"
+      ],
+      "explanation": "Eating disorders are unhealthy eating patterns.",
+      "memoryHook": "T-Rexy says: Eating disorders harm health.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "wellbeing"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_084",
+      "question": "What is the best snack choice after exercise?",
+      "correctAnswer": "Water and a snack with protein and carbohydrates",
+      "distractors": [
+        "Soda and candy only",
+        "Nothing at all",
+        "Chips only"
+      ],
+      "explanation": "After exercise, drink water and eat protein plus carbs.",
+      "memoryHook": "T-Rexy says: Water plus protein and carbs.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "snacks"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_085",
+      "question": "What is the difference between a food allergy and a food intolerance?",
+      "correctAnswer": "An allergy involves the immune system; intolerance does not",
+      "distractors": [
+        "They are the same",
+        "Intolerance is worse",
+        "Allergy is milder"
+      ],
+      "explanation": "Allergy is immune-based, intolerance is not.",
+      "memoryHook": "T-Rexy says: Allergy is immune.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "disease",
+        "immune"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_086",
+      "question": "What should you do if someone has a severe allergic reaction?",
+      "correctAnswer": "Call 911 and use an epinephrine auto-injector if available",
+      "distractors": [
+        "Wait and see",
+        "Give them water only",
+        "Ignore it"
+      ],
+      "explanation": "Call 911 and use epinephrine if available for severe allergy.",
+      "memoryHook": "T-Rexy says: Call 911 for severe allergy.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "allergy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_087",
+      "question": "What is the Heimlich maneuver for?",
+      "correctAnswer": "Dislodging food stuck in the airway",
+      "distractors": [
+        "Stopping bleeding",
+        "Treating a burn",
+        "Fixing a broken bone"
+      ],
+      "explanation": "The Heimlich maneuver clears a blocked airway.",
+      "memoryHook": "T-Rexy says: Heimlich clears airways.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "choking"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_088",
+      "question": "What is the first thing to check if someone is unconscious?",
+      "correctAnswer": "If they are breathing and have a pulse",
+      "distractors": [
+        "If they are hungry",
+        "If they are cold",
+        "If they are dreaming"
+      ],
+      "explanation": "Check breathing and pulse first.",
+      "memoryHook": "T-Rexy says: Check breathing first.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "emergency"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_089",
+      "question": "What is the best way to prevent cavities?",
+      "correctAnswer": "Brush, floss, and limit sugary foods",
+      "distractors": [
+        "Eat more candy",
+        "Never brush",
+        "Drink soda"
+      ],
+      "explanation": "Brush, floss, and limit sugar to prevent cavities.",
+      "memoryHook": "T-Rexy says: Brush and floss.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "hygiene"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_090",
+      "question": "What is the role of a school counselor?",
+      "correctAnswer": "To help students with school, personal, and career concerns",
+      "distractors": [
+        "To punish students",
+        "To teach math only",
+        "To grade tests"
+      ],
+      "explanation": "Counselors help students with school and personal concerns.",
+      "memoryHook": "T-Rexy says: Counselors help students.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "support"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_091",
+      "question": "What is consent?",
+      "correctAnswer": "Clear agreement to do something, given freely",
+      "distractors": [
+        "Doing something without asking",
+        "Assuming agreement",
+        "Forcing someone"
+      ],
+      "explanation": "Consent is clear, freely given agreement.",
+      "memoryHook": "T-Rexy says: Consent means clear yes.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "relationships"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_092",
+      "question": "What is a boundary in a relationship?",
+      "correctAnswer": "A limit that protects your comfort and safety",
+      "distractors": [
+        "A wall between friends",
+        "A rule to ignore others",
+        "A punishment"
+      ],
+      "explanation": "Boundaries are limits that protect you.",
+      "memoryHook": "T-Rexy says: Boundaries protect you.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "relationships"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_093",
+      "question": "What is the best way to handle a disagreement with a friend?",
+      "correctAnswer": "Talk calmly and listen to each other",
+      "distractors": [
+        "Shout and walk away",
+        "Spread rumors",
+        "Ignore the friend forever"
+      ],
+      "explanation": "Talk calmly and listen to resolve disagreements.",
+      "memoryHook": "T-Rexy says: Talk and listen.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "relationships"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_094",
+      "question": "What is mindfulness?",
+      "correctAnswer": "Paying attention to the present moment without judgment",
+      "distractors": [
+        "Ignoring feelings",
+        "Sleeping all day",
+        "Worrying about the past"
+      ],
+      "explanation": "Mindfulness is present-moment attention.",
+      "memoryHook": "T-Rexy says: Mindfulness is being present.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "wellbeing"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_095",
+      "question": "What is the effect of regular exercise on mood?",
+      "correctAnswer": "It can improve mood and reduce stress",
+      "distractors": [
+        "It always worsens mood",
+        "It has no effect",
+        "It causes depression"
+      ],
+      "explanation": "Regular exercise can improve mood and lower stress.",
+      "memoryHook": "T-Rexy says: Exercise lifts mood.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "mood"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_096",
+      "question": "What is the best way to prevent the flu?",
+      "correctAnswer": "Get a flu vaccine and wash hands often",
+      "distractors": [
+        "Share drinks",
+        "Skip sleep",
+        "Avoid water"
+      ],
+      "explanation": "Flu vaccine and handwashing prevent the flu.",
+      "memoryHook": "T-Rexy says: Vaccine and handwashing prevent flu.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "disease",
+        "prevention"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_097",
+      "question": "What is the main function of the excretory system?",
+      "correctAnswer": "To remove waste from the body",
+      "distractors": [
+        "To pump blood",
+        "To digest food",
+        "To send signals"
+      ],
+      "explanation": "The excretory system removes waste.",
+      "memoryHook": "T-Rexy says: Excretion removes waste.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "body",
+        "systems"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_098",
+      "question": "What is a balanced meal?",
+      "correctAnswer": "A meal with foods from several food groups",
+      "distractors": [
+        "A meal with only meat",
+        "A meal with only candy",
+        "A meal with only drinks"
+      ],
+      "explanation": "A balanced meal includes several food groups.",
+      "memoryHook": "T-Rexy says: Balance means several groups.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "diet"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_099",
+      "question": "Why is breakfast important?",
+      "correctAnswer": "It gives energy after the night fast",
+      "distractors": [
+        "It replaces lunch",
+        "It makes you sleepy",
+        "It is not important"
+      ],
+      "explanation": "Breakfast gives energy to start the day.",
+      "memoryHook": "T-Rexy says: Breakfast starts the day.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "diet"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA9_100",
+      "question": "What is the best drink for hydration during exercise?",
+      "correctAnswer": "Water",
+      "distractors": [
+        "Soda",
+        "Energy drinks",
+        "Coffee"
+      ],
+      "explanation": "Water is the best drink for hydration.",
+      "memoryHook": "T-Rexy says: Water hydrates best.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "water"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

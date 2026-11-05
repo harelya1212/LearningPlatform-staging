@@ -1,0 +1,2015 @@
+{
+  "packId": "gr10-ap-human-geography",
+  "version": 1.0,
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "social-studies",
+    "human-geography",
+    "10th"
+  ],
+  "questions": [
+    {
+      "id": "HUG10_001",
+      "question": "What is the difference between absolute and relative location?",
+      "correctAnswer": "Absolute location is exact coordinates; relative location is a place's position compared to other places",
+      "distractors": [
+        "They are the same",
+        "Absolute is a description; relative is coordinates",
+        "Relative location never changes"
+      ],
+      "explanation": "Absolute location uses latitude and longitude; relative location describes where a place is in relation to others.",
+      "memoryHook": "T-Rexy says: Absolute is coordinates, relative is compared to neighbors.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "location"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_002",
+      "question": "What is the latitude of the equator?",
+      "correctAnswer": "0 degrees",
+      "distractors": [
+        "90 degrees north",
+        "23.5 degrees south",
+        "180 degrees"
+      ],
+      "explanation": "The equator is at 0 degrees latitude.",
+      "memoryHook": "T-Rexy says: The equator is zero degrees.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "latitude"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_003",
+      "question": "What is the longitude of the Prime Meridian?",
+      "correctAnswer": "0 degrees",
+      "distractors": [
+        "90 degrees east",
+        "180 degrees",
+        "23.5 degrees"
+      ],
+      "explanation": "The Prime Meridian runs through Greenwich, England at 0 degrees longitude.",
+      "memoryHook": "T-Rexy says: The Prime Meridian is zero degrees.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "longitude"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_004",
+      "question": "What does a map projection do?",
+      "correctAnswer": "It shows Earth's curved surface on a flat map",
+      "distractors": [
+        "It makes maps perfectly accurate",
+        "It shows only physical features",
+        "It measures distance exactly"
+      ],
+      "explanation": "A projection transfers the round Earth onto a flat surface, always with some distortion.",
+      "memoryHook": "T-Rexy says: Every flat map distorts something.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "maps"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_005",
+      "question": "What is the main distortion of the Mercator projection?",
+      "correctAnswer": "It exaggerates the size of land near the poles",
+      "distractors": [
+        "It shrinks land near the equator",
+        "It distorts shapes near the equator",
+        "It changes the Prime Meridian"
+      ],
+      "explanation": "Mercator preserves shape and direction but makes high-latitude areas look much larger.",
+      "memoryHook": "T-Rexy says: Mercator makes Greenland look huge.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "maps"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_006",
+      "question": "What is a choropleth map?",
+      "correctAnswer": "A map that uses shading to show data by area",
+      "distractors": [
+        "A map that shows roads",
+        "A map that uses dots for data",
+        "A map that shows elevation only"
+      ],
+      "explanation": "Choropleth maps shade regions by a data value, like population density.",
+      "memoryHook": "T-Rexy says: Choropleth maps shade areas by value.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "maps"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_007",
+      "question": "What is a dot density map?",
+      "correctAnswer": "A map that uses dots to show the distribution of a phenomenon",
+      "distractors": [
+        "A map that shows elevation",
+        "A map that uses colors for categories",
+        "A map that shows only borders"
+      ],
+      "explanation": "Dot density maps place dots where a feature occurs, showing patterns.",
+      "memoryHook": "T-Rexy says: One dot can stand for many people.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "maps"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_008",
+      "question": "What is scale in geography?",
+      "correctAnswer": "The relationship between distance on a map and distance on the ground",
+      "distractors": [
+        "The size of a country",
+        "The population of a place",
+        "The elevation of a mountain"
+      ],
+      "explanation": "Map scale tells how much real distance a map distance represents.",
+      "memoryHook": "T-Rexy says: Scale links map distance to real distance.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "maps"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_009",
+      "question": "What is a region?",
+      "correctAnswer": "An area defined by one or more shared characteristics",
+      "distractors": [
+        "A country only",
+        "A city only",
+        "A physical feature only"
+      ],
+      "explanation": "A region is an area with common traits, like language, climate, or economy.",
+      "memoryHook": "T-Rexy says: A region is an area with something in common.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "regions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_010",
+      "question": "What is a formal region?",
+      "correctAnswer": "A region defined by a shared trait, like a language or climate",
+      "distractors": [
+        "A region defined by connections",
+        "A region defined by a center",
+        "A region with no boundaries"
+      ],
+      "explanation": "Formal regions have a uniform characteristic, such as the Corn Belt.",
+      "memoryHook": "T-Rexy says: A formal region shares one trait.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "regions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_011",
+      "question": "What is a functional region?",
+      "correctAnswer": "A region defined by connections around a center, like a city's commuter zone",
+      "distractors": [
+        "A region defined by a shared language",
+        "A region defined by climate",
+        "A region with no center"
+      ],
+      "explanation": "Functional regions are organized around a node, such as a metropolitan area.",
+      "memoryHook": "T-Rexy says: A functional region works around a center.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "regions"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_012",
+      "question": "What is a perceptual region?",
+      "correctAnswer": "A region defined by people's beliefs and feelings, like 'the South'",
+      "distractors": [
+        "A region defined by government",
+        "A region defined by climate",
+        "A region defined by trade"
+      ],
+      "explanation": "Perceptual regions exist in people's minds, like the Midwest.",
+      "memoryHook": "T-Rexy says: The South is a perceptual region.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "regions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_013",
+      "question": "What is GIS?",
+      "correctAnswer": "Geographic Information Systems, software for mapping and analyzing spatial data",
+      "distractors": [
+        "A type of map projection",
+        "A satellite system only",
+        "A government agency"
+      ],
+      "explanation": "GIS stores, maps, and analyzes geographic data in layers.",
+      "memoryHook": "T-Rexy says: GIS layers data on maps.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "gis"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_014",
+      "question": "What is remote sensing?",
+      "correctAnswer": "Collecting information about Earth from satellites or aircraft",
+      "distractors": [
+        "Surveying land on foot",
+        "Drawing maps by hand",
+        "Using GPS only"
+      ],
+      "explanation": "Remote sensing gathers data from a distance, such as satellite images.",
+      "memoryHook": "T-Rexy says: Satellites sense Earth from above.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "remote-sensing"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_015",
+      "question": "What is site?",
+      "correctAnswer": "The physical characteristics of a place",
+      "distractors": [
+        "The relative location of a place",
+        "The population of a place",
+        "The culture of a place"
+      ],
+      "explanation": "Site describes a place's physical features, like its soil and rivers.",
+      "memoryHook": "T-Rexy says: Site is what a place is like physically.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "geography",
+        "place"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_016",
+      "question": "What is population density?",
+      "correctAnswer": "The number of people per unit of land area",
+      "distractors": [
+        "The total population of a country",
+        "The birth rate",
+        "The number of cities"
+      ],
+      "explanation": "Population density is people divided by area.",
+      "memoryHook": "T-Rexy says: Density is people per square mile.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "density"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_017",
+      "question": "What is arithmetic population density?",
+      "correctAnswer": "Total population divided by total land area",
+      "distractors": [
+        "Population divided by farmland only",
+        "Population per city",
+        "Total population only"
+      ],
+      "explanation": "Arithmetic density is total population over total land area.",
+      "memoryHook": "T-Rexy says: Arithmetic density is total people over total land.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "density"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_018",
+      "question": "What is physiological density?",
+      "correctAnswer": "Population divided by arable (farmable) land",
+      "distractors": [
+        "Population divided by total land",
+        "Population per city",
+        "Population per household"
+      ],
+      "explanation": "Physiological density shows pressure on farmland.",
+      "memoryHook": "T-Rexy says: Physiological density is people per farmland.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "density"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_019",
+      "question": "What is the crude birth rate?",
+      "correctAnswer": "The number of births per 1,000 people per year",
+      "distractors": [
+        "The number of births per family",
+        "The total births in a country",
+        "The birth rate of women only"
+      ],
+      "explanation": "The crude birth rate is births per 1,000 people in a year.",
+      "memoryHook": "T-Rexy says: Crude birth rate is births per thousand.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "rates"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_020",
+      "question": "What is the crude death rate?",
+      "correctAnswer": "The number of deaths per 1,000 people per year",
+      "distractors": [
+        "The number of deaths per family",
+        "The total deaths in a country",
+        "The death rate of children only"
+      ],
+      "explanation": "The crude death rate is deaths per 1,000 people in a year.",
+      "memoryHook": "T-Rexy says: Crude death rate is deaths per thousand.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "rates"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_021",
+      "question": "What is the rate of natural increase?",
+      "correctAnswer": "Birth rate minus death rate",
+      "distractors": [
+        "Birth rate plus death rate",
+        "Death rate minus birth rate",
+        "Migration rate only"
+      ],
+      "explanation": "Natural increase is births minus deaths, ignoring migration.",
+      "memoryHook": "T-Rexy says: Natural increase is births minus deaths.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "rates"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_022",
+      "question": "What is the total fertility rate?",
+      "correctAnswer": "The average number of children a woman will have in her lifetime",
+      "distractors": [
+        "The number of children per family",
+        "The birth rate per 1,000",
+        "The number of women in a country"
+      ],
+      "explanation": "The total fertility rate is the average children per woman over her lifetime.",
+      "memoryHook": "T-Rexy says: Total fertility rate is children per woman.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "fertility"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_023",
+      "question": "What is the replacement fertility rate?",
+      "correctAnswer": "About 2.1 children per woman, the level that keeps population stable",
+      "distractors": [
+        "1.0 children per woman",
+        "3.0 children per woman",
+        "0 children per woman"
+      ],
+      "explanation": "Replacement level is about 2.1, accounting for children who do not reach adulthood.",
+      "memoryHook": "T-Rexy says: 2.1 children replaces the parents.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "fertility"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_024",
+      "question": "What is the demographic transition model?",
+      "correctAnswer": "A model showing how birth and death rates change as countries develop",
+      "distractors": [
+        "A model of migration only",
+        "A model of urban growth",
+        "A model of farming change"
+      ],
+      "explanation": "The demographic transition model traces population change through stages of development.",
+      "memoryHook": "T-Rexy says: The demographic transition model tracks births and deaths over time.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "dtm"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_025",
+      "question": "In which stage of the demographic transition are birth and death rates both high?",
+      "correctAnswer": "Stage 1",
+      "distractors": [
+        "Stage 2",
+        "Stage 3",
+        "Stage 4"
+      ],
+      "explanation": "Stage 1 has high birth and death rates, so population grows slowly.",
+      "memoryHook": "T-Rexy says: Stage 1 is high births and high deaths.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "dtm"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_026",
+      "question": "What happens in stage 2 of the demographic transition?",
+      "correctAnswer": "Death rates fall while birth rates stay high, so population grows rapidly",
+      "distractors": [
+        "Birth rates fall",
+        "Death rates rise",
+        "Population declines"
+      ],
+      "explanation": "Stage 2 brings falling death rates from better medicine and food, while births stay high.",
+      "memoryHook": "T-Rexy says: Stage 2 is deaths down, births still high.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "dtm"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_027",
+      "question": "What is a population pyramid?",
+      "correctAnswer": "A graph showing the age and sex structure of a population",
+      "distractors": [
+        "A map of population density",
+        "A chart of birth rates only",
+        "A graph of migration"
+      ],
+      "explanation": "A population pyramid shows how many people are in each age group, by sex.",
+      "memoryHook": "T-Rexy says: A population pyramid shows who is young and who is old.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "pyramids"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_028",
+      "question": "What does a wide base on a population pyramid mean?",
+      "correctAnswer": "A large share of young people and high birth rates",
+      "distractors": [
+        "An aging population",
+        "Low birth rates",
+        "A declining population"
+      ],
+      "explanation": "A wide base means many children, indicating high fertility.",
+      "memoryHook": "T-Rexy says: A wide base means lots of children.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "pyramids"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_029",
+      "question": "What is the dependency ratio?",
+      "correctAnswer": "The number of dependents (young and old) compared to working-age people",
+      "distractors": [
+        "The number of workers only",
+        "The birth rate",
+        "The migration rate"
+      ],
+      "explanation": "The dependency ratio compares non-working age groups to the working-age population.",
+      "memoryHook": "T-Rexy says: The dependency ratio is dependents per worker.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "demographics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_030",
+      "question": "What is an aging population?",
+      "correctAnswer": "A population with a growing share of elderly people",
+      "distractors": [
+        "A population with many children",
+        "A population that is shrinking fast",
+        "A population with high birth rates"
+      ],
+      "explanation": "Aging populations, like Japan's, have more older people as fertility falls and life expectancy rises.",
+      "memoryHook": "T-Rexy says: Japan's population is aging.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "aging"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_031",
+      "question": "What is the most populous country in the world as of 2023?",
+      "correctAnswer": "India",
+      "distractors": [
+        "China",
+        "The United States",
+        "Indonesia"
+      ],
+      "explanation": "India passed China as the world's most populous country in 2023.",
+      "memoryHook": "T-Rexy says: India is now the most populous country.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_032",
+      "question": "What is the doubling time of a population?",
+      "correctAnswer": "The time it takes for a population to double in size",
+      "distractors": [
+        "The time it takes to halve",
+        "The average lifespan",
+        "The time between censuses"
+      ],
+      "explanation": "Doubling time is how long a population takes to double at its current growth rate.",
+      "memoryHook": "T-Rexy says: Doubling time is how fast a population doubles.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "growth"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_033",
+      "question": "What is the rule of 70?",
+      "correctAnswer": "Dividing 70 by the growth rate gives the doubling time in years",
+      "distractors": [
+        "Multiplying 70 by the growth rate",
+        "Adding 70 to the population",
+        "Dividing the population by 70"
+      ],
+      "explanation": "The rule of 70 estimates doubling time: 70 divided by the annual growth rate.",
+      "memoryHook": "T-Rexy says: 70 divided by growth rate is doubling time.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "growth"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_034",
+      "question": "What is carrying capacity?",
+      "correctAnswer": "The largest population an environment can support",
+      "distractors": [
+        "The number of people in a city",
+        "The birth rate",
+        "The amount of farmland"
+      ],
+      "explanation": "Carrying capacity is the maximum population an environment can sustain.",
+      "memoryHook": "T-Rexy says: Carrying capacity is the environment's limit.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "carrying-capacity"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_035",
+      "question": "What is Malthus's theory about population?",
+      "correctAnswer": "Population grows faster than food supply, leading to checks like famine",
+      "distractors": [
+        "Population always declines",
+        "Food supply grows faster than population",
+        "Population growth is always good"
+      ],
+      "explanation": "Malthus argued population grows geometrically while food grows arithmetically.",
+      "memoryHook": "T-Rexy says: Malthus said people outgrow their food.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "population",
+        "malthus"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_036",
+      "question": "What is migration?",
+      "correctAnswer": "The movement of people from one place to another",
+      "distractors": [
+        "The movement of goods",
+        "The movement of ideas",
+        "The movement of animals only"
+      ],
+      "explanation": "Migration is people moving to live in a new place.",
+      "memoryHook": "T-Rexy says: Migration is people moving.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_037",
+      "question": "What is the difference between immigration and emigration?",
+      "correctAnswer": "Immigration is moving into a place; emigration is moving out of a place",
+      "distractors": [
+        "They are the same",
+        "Immigration is internal; emigration is international",
+        "Emigration is moving into a place"
+      ],
+      "explanation": "Immigration is entering a new country; emigration is leaving your home country.",
+      "memoryHook": "T-Rexy says: Immigration is in, emigration is out.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_038",
+      "question": "What are push factors?",
+      "correctAnswer": "Conditions that drive people away from a place",
+      "distractors": [
+        "Conditions that attract people",
+        "Government policies only",
+        "Natural disasters only"
+      ],
+      "explanation": "Push factors, like war or unemployment, push people to leave.",
+      "memoryHook": "T-Rexy says: Push factors drive people away.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "push-pull"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_039",
+      "question": "What are pull factors?",
+      "correctAnswer": "Conditions that attract people to a place",
+      "distractors": [
+        "Conditions that drive people away",
+        "Government restrictions",
+        "Natural disasters"
+      ],
+      "explanation": "Pull factors, like jobs or safety, draw people to a new place.",
+      "memoryHook": "T-Rexy says: Pull factors draw people in.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "push-pull"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_040",
+      "question": "What is a refugee?",
+      "correctAnswer": "A person forced to flee their country because of persecution or war",
+      "distractors": [
+        "A person who moves for a job",
+        "A person who moves within a country",
+        "A tourist"
+      ],
+      "explanation": "A refugee flees across borders due to danger, and international law protects them.",
+      "memoryHook": "T-Rexy says: Refugees flee danger across borders.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "refugees"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_041",
+      "question": "What is an internally displaced person?",
+      "correctAnswer": "A person forced to move within their own country",
+      "distractors": [
+        "A refugee in another country",
+        "A voluntary migrant",
+        "A tourist"
+      ],
+      "explanation": "Internally displaced persons flee danger but stay inside their own country.",
+      "memoryHook": "T-Rexy says: IDPs flee but stay inside their country.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "refugees"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_042",
+      "question": "What is Ravenstein's law about migration distance?",
+      "correctAnswer": "Most migrants move only a short distance",
+      "distractors": [
+        "Most migrants move very far",
+        "Distance does not matter",
+        "Migrants always move to cities"
+      ],
+      "explanation": "Ravenstein found most migration is short-distance, with fewer people moving farther.",
+      "memoryHook": "T-Rexy says: Most migrants move a short distance.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "laws"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_043",
+      "question": "What is chain migration?",
+      "correctAnswer": "Migration where earlier migrants help later ones from the same place",
+      "distractors": [
+        "Migration in a line",
+        "Migration of families only",
+        "Forced migration"
+      ],
+      "explanation": "Chain migration happens when settled migrants help friends and family follow.",
+      "memoryHook": "T-Rexy says: Chain migration is migrants helping the next ones.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "chain"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_044",
+      "question": "What is a remittance?",
+      "correctAnswer": "Money sent home by migrants to family in their country of origin",
+      "distractors": [
+        "A tax on migration",
+        "A visa fee",
+        "A type of passport"
+      ],
+      "explanation": "Remittances are money migrants send back to their families.",
+      "memoryHook": "T-Rexy says: Remittances are money sent home.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "remittances"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_045",
+      "question": "What is the largest migration flow in the world today?",
+      "correctAnswer": "Mexico to the United States",
+      "distractors": [
+        "Syria to Turkey",
+        "India to the UAE",
+        "China to the US"
+      ],
+      "explanation": "The Mexico to US corridor is the largest international migration flow.",
+      "memoryHook": "T-Rexy says: Mexico to the US is the largest migration flow.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "flows"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_046",
+      "question": "What is brain drain?",
+      "correctAnswer": "The loss of skilled workers when they emigrate",
+      "distractors": [
+        "The loss of unskilled workers",
+        "A type of education",
+        "A government policy"
+      ],
+      "explanation": "Brain drain is when educated professionals leave a country, weakening it.",
+      "memoryHook": "T-Rexy says: Brain drain is skilled workers leaving.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "brain-drain"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_047",
+      "question": "What is forced migration?",
+      "correctAnswer": "Migration caused by war, persecution, or disaster, not by choice",
+      "distractors": [
+        "Migration for a better job",
+        "Migration for education",
+        "Migration for retirement"
+      ],
+      "explanation": "Forced migration happens when people must flee danger.",
+      "memoryHook": "T-Rexy says: Forced migration is fleeing, not choosing.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "forced"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_048",
+      "question": "What is a guest worker?",
+      "correctAnswer": "A foreign worker allowed in temporarily to fill labor shortages",
+      "distractors": [
+        "A permanent immigrant",
+        "A refugee",
+        "A tourist"
+      ],
+      "explanation": "Guest workers are admitted for a limited time to work, often in agriculture or construction.",
+      "memoryHook": "T-Rexy says: Guest workers come to work for a while.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "guest-workers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_049",
+      "question": "What is the main reason for the Syrian refugee crisis?",
+      "correctAnswer": "Civil war in Syria that began in 2011",
+      "distractors": [
+        "An earthquake",
+        "A drought only",
+        "Economic opportunity"
+      ],
+      "explanation": "Syria's civil war displaced millions, creating one of the largest refugee crises.",
+      "memoryHook": "T-Rexy says: Syria's war displaced millions.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "refugees"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_050",
+      "question": "What is step migration?",
+      "correctAnswer": "Moving in stages, from a village to a town to a city",
+      "distractors": [
+        "Moving directly to a far city",
+        "Moving back home",
+        "Moving across a border"
+      ],
+      "explanation": "Step migration is a series of short moves toward a final destination.",
+      "memoryHook": "T-Rexy says: Step migration is moving in stages.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "migration",
+        "step"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_051",
+      "question": "What is culture?",
+      "correctAnswer": "The shared beliefs, practices, and objects of a group of people",
+      "distractors": [
+        "The language only",
+        "The government only",
+        "The climate of a place"
+      ],
+      "explanation": "Culture includes customs, language, religion, food, and values.",
+      "memoryHook": "T-Rexy says: Culture is a group's shared way of life.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_052",
+      "question": "What is a cultural hearth?",
+      "correctAnswer": "A place where a culture or idea originates and spreads from",
+      "distractors": [
+        "A place where culture dies",
+        "A type of religion",
+        "A cultural region"
+      ],
+      "explanation": "A cultural hearth is the origin point of cultural traits, like the Fertile Crescent.",
+      "memoryHook": "T-Rexy says: A cultural hearth is where culture is born.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "hearths"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_053",
+      "question": "What is cultural diffusion?",
+      "correctAnswer": "The spread of cultural traits from one place to another",
+      "distractors": [
+        "The loss of culture",
+        "The creation of new culture",
+        "The isolation of culture"
+      ],
+      "explanation": "Cultural diffusion spreads ideas, foods, and practices between places.",
+      "memoryHook": "T-Rexy says: Diffusion spreads culture.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "diffusion"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_054",
+      "question": "What is relocation diffusion?",
+      "correctAnswer": "Diffusion through the physical movement of people",
+      "distractors": [
+        "Diffusion through media",
+        "Diffusion through trade only",
+        "Diffusion that spreads outward"
+      ],
+      "explanation": "Relocation diffusion happens when people carry culture with them as they move.",
+      "memoryHook": "T-Rexy says: Relocation diffusion moves with people.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "diffusion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_055",
+      "question": "What is hierarchical diffusion?",
+      "correctAnswer": "Diffusion from powerful or famous people down to others",
+      "distractors": [
+        "Diffusion from the poor to the rich",
+        "Diffusion through migration",
+        "Diffusion that spreads evenly"
+      ],
+      "explanation": "Hierarchical diffusion spreads from elites or major cities to others.",
+      "memoryHook": "T-Rexy says: Hierarchical diffusion trickles down from the top.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "diffusion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_056",
+      "question": "What is contagious diffusion?",
+      "correctAnswer": "Diffusion that spreads from person to person like a wave",
+      "distractors": [
+        "Diffusion through migration",
+        "Diffusion from elites",
+        "Diffusion that stops at borders"
+      ],
+      "explanation": "Contagious diffusion spreads outward through contact, like a fad or disease.",
+      "memoryHook": "T-Rexy says: Contagious diffusion spreads like a wave.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "diffusion"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_057",
+      "question": "What is stimulus diffusion?",
+      "correctAnswer": "Diffusion where an idea spreads but is changed in the new place",
+      "distractors": [
+        "Diffusion that copies exactly",
+        "Diffusion through migration",
+        "Diffusion that fails"
+      ],
+      "explanation": "In stimulus diffusion, the underlying idea spreads but is adapted, like fast food menus changing abroad.",
+      "memoryHook": "T-Rexy says: Stimulus diffusion adapts the idea.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "diffusion"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_058",
+      "question": "What is a lingua franca?",
+      "correctAnswer": "A common language used for communication between different groups",
+      "distractors": [
+        "A dead language",
+        "A language spoken by one group only",
+        "A written language only"
+      ],
+      "explanation": "A lingua franca, like English in business, lets different language groups communicate.",
+      "memoryHook": "T-Rexy says: A lingua franca is a shared bridge language.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "language"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_059",
+      "question": "What is the most widely spoken language in the world by total speakers?",
+      "correctAnswer": "English",
+      "distractors": [
+        "Mandarin Chinese",
+        "Spanish",
+        "Hindi"
+      ],
+      "explanation": "English has the most total speakers, including second-language speakers.",
+      "memoryHook": "T-Rexy says: English has the most speakers overall.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "language"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_060",
+      "question": "What is the most widely spoken native language in the world?",
+      "correctAnswer": "Mandarin Chinese",
+      "distractors": [
+        "English",
+        "Spanish",
+        "Arabic"
+      ],
+      "explanation": "Mandarin Chinese has the most native speakers.",
+      "memoryHook": "T-Rexy says: Mandarin has the most native speakers.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "language"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_061",
+      "question": "What is a dialect?",
+      "correctAnswer": "A regional variety of a language",
+      "distractors": [
+        "A separate language",
+        "A written language",
+        "A dead language"
+      ],
+      "explanation": "A dialect is a regional form of a language with its own accent and words.",
+      "memoryHook": "T-Rexy says: A dialect is a regional flavor of a language.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "language"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_062",
+      "question": "What is a pidgin language?",
+      "correctAnswer": "A simplified language that develops for trade between groups",
+      "distractors": [
+        "A formal language",
+        "A dead language",
+        "A language with no grammar"
+      ],
+      "explanation": "A pidgin is a simplified mix used for communication between groups with different languages.",
+      "memoryHook": "T-Rexy says: A pidgin is a simple trade language.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "language"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_063",
+      "question": "What is cultural appropriation?",
+      "correctAnswer": "Taking elements of another culture without understanding or respect",
+      "distractors": [
+        "Sharing culture respectfully",
+        "Learning a new language",
+        "Adopting a new religion"
+      ],
+      "explanation": "Cultural appropriation is using another culture's elements in a disrespectful or exploitative way.",
+      "memoryHook": "T-Rexy says: Appropriation takes without respect.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "appropriation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_064",
+      "question": "What is folk culture?",
+      "correctAnswer": "Culture practiced by small, traditional, often rural groups",
+      "distractors": [
+        "Culture spread by mass media",
+        "Culture in big cities",
+        "Culture of the elite"
+      ],
+      "explanation": "Folk culture is local, traditional, and passed down within small communities.",
+      "memoryHook": "T-Rexy says: Folk culture is local and traditional.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "folk-popular"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_065",
+      "question": "What is popular culture?",
+      "correctAnswer": "Culture spread widely through mass media and commercialization",
+      "distractors": [
+        "Culture of small villages",
+        "Culture that never changes",
+        "Culture of the past"
+      ],
+      "explanation": "Popular culture is mass-produced and widely shared, like pop music and fast food.",
+      "memoryHook": "T-Rexy says: Popular culture is mass culture.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "culture",
+        "folk-popular"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_066",
+      "question": "What is a state in political geography?",
+      "correctAnswer": "A political unit with defined territory, a permanent population, and a government",
+      "distractors": [
+        "A city",
+        "A province",
+        "A region with no government"
+      ],
+      "explanation": "A state is a sovereign political entity with territory, people, and government.",
+      "memoryHook": "T-Rexy says: A state has land, people, and a government.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "state"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_067",
+      "question": "What is sovereignty?",
+      "correctAnswer": "A state's authority to govern itself without outside interference",
+      "distractors": [
+        "A type of government",
+        "A border dispute",
+        "A trade agreement"
+      ],
+      "explanation": "Sovereignty is the right of a state to rule itself.",
+      "memoryHook": "T-Rexy says: Sovereignty is self-rule.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "sovereignty"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_068",
+      "question": "What is a nation?",
+      "correctAnswer": "A group of people with a shared culture, history, and identity",
+      "distractors": [
+        "A country with a government",
+        "A city",
+        "A province"
+      ],
+      "explanation": "A nation is a people united by culture and identity, not necessarily a state.",
+      "memoryHook": "T-Rexy says: A nation is a people, not a government.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "nation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_069",
+      "question": "What is a nation-state?",
+      "correctAnswer": "A state whose territory matches the homeland of one nation",
+      "distractors": [
+        "A state with many nations",
+        "A state with no government",
+        "A city-state"
+      ],
+      "explanation": "A nation-state, like Japan, has borders that match one national group.",
+      "memoryHook": "T-Rexy says: Japan is a nation-state.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "nation-state"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_070",
+      "question": "What is a multinational state?",
+      "correctAnswer": "A state containing several nations or ethnic groups",
+      "distractors": [
+        "A state with one nation",
+        "A state with no nations",
+        "A small island state"
+      ],
+      "explanation": "A multinational state, like Canada, includes multiple national groups.",
+      "memoryHook": "T-Rexy says: Canada is a multinational state.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "multinational"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_071",
+      "question": "What is a stateless nation?",
+      "correctAnswer": "A nation without its own state, like the Kurds",
+      "distractors": [
+        "A nation with many states",
+        "A state with no people",
+        "A country with no borders"
+      ],
+      "explanation": "Stateless nations, like the Kurds, have a shared identity but no sovereign state.",
+      "memoryHook": "T-Rexy says: The Kurds are a stateless nation.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "stateless"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_072",
+      "question": "What is a border?",
+      "correctAnswer": "The line marking the edge of a state's territory",
+      "distractors": [
+        "A river only",
+        "A wall only",
+        "A trade route"
+      ],
+      "explanation": "A border is the boundary line between states.",
+      "memoryHook": "T-Rexy says: A border is where one state ends.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "borders"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_073",
+      "question": "What is a frontier?",
+      "correctAnswer": "A zone where no state has clear control",
+      "distractors": [
+        "A border wall",
+        "A capital city",
+        "A trade zone"
+      ],
+      "explanation": "A frontier is a sparsely settled zone beyond firm state control.",
+      "memoryHook": "T-Rexy says: A frontier is an uncontrolled zone.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "borders"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_074",
+      "question": "What is the difference between a unitary and a federal state?",
+      "correctAnswer": "A unitary state concentrates power centrally; a federal state shares power with regions",
+      "distractors": [
+        "They are the same",
+        "A federal state has no regions",
+        "A unitary state has no government"
+      ],
+      "explanation": "Unitary states, like France, centralize power; federal states, like the US, divide it.",
+      "memoryHook": "T-Rexy says: Unitary is centralized, federal is shared.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "government"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_075",
+      "question": "What is gerrymandering?",
+      "correctAnswer": "Drawing voting districts to favor one party or group",
+      "distractors": [
+        "Drawing fair districts",
+        "Counting votes",
+        "Holding elections"
+      ],
+      "explanation": "Gerrymandering manipulates district boundaries for political advantage.",
+      "memoryHook": "T-Rexy says: Gerrymandering rigs the map.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "gerrymandering"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_076",
+      "question": "What is the European Union?",
+      "correctAnswer": "A political and economic union of European countries",
+      "distractors": [
+        "A military alliance only",
+        "A single country",
+        "A trade deal with the US"
+      ],
+      "explanation": "The EU is a union of European states sharing laws, trade, and some policies.",
+      "memoryHook": "T-Rexy says: The EU unites European countries.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "eu"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_077",
+      "question": "What is NATO?",
+      "correctAnswer": "A military alliance of North American and European countries",
+      "distractors": [
+        "A trade union",
+        "A European-only alliance",
+        "A UN agency"
+      ],
+      "explanation": "NATO is a defensive military alliance founded in 1949.",
+      "memoryHook": "T-Rexy says: NATO is a defensive alliance.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "nato"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_078",
+      "question": "What is the United Nations?",
+      "correctAnswer": "An international organization for peace, security, and cooperation",
+      "distractors": [
+        "A military alliance",
+        "A trade union",
+        "A single country's government"
+      ],
+      "explanation": "The UN, founded in 1945, promotes peace and cooperation among states.",
+      "memoryHook": "T-Rexy says: The UN works for world peace.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "un"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_079",
+      "question": "What is a supranational organization?",
+      "correctAnswer": "An organization where states give up some power to a higher authority, like the EU",
+      "distractors": [
+        "A single country's government",
+        "A local government",
+        "A military alliance only"
+      ],
+      "explanation": "Supranational organizations, like the EU, have authority over member states in some areas.",
+      "memoryHook": "T-Rexy says: Supranational means above the nation.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "supranational"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_080",
+      "question": "What is devolution?",
+      "correctAnswer": "The transfer of power from a central government to regional governments",
+      "distractors": [
+        "The centralization of power",
+        "The end of a state",
+        "The creation of a new state"
+      ],
+      "explanation": "Devolution gives regions more self-rule, as in the UK's devolution to Scotland.",
+      "memoryHook": "T-Rexy says: Devolution moves power downward.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "political",
+        "devolution"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_081",
+      "question": "What is the Green Revolution?",
+      "correctAnswer": "The spread of high-yield crops, fertilizers, and irrigation that raised farm output",
+      "distractors": [
+        "A movement to ban pesticides",
+        "A return to traditional farming",
+        "A revolution in France"
+      ],
+      "explanation": "The Green Revolution used new seeds and technology to greatly increase food production.",
+      "memoryHook": "T-Rexy says: The Green Revolution grew more food with new seeds.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "agriculture",
+        "green-revolution"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_082",
+      "question": "What is subsistence agriculture?",
+      "correctAnswer": "Farming mainly to feed the farmer's own family",
+      "distractors": [
+        "Farming for sale in markets",
+        "Farming with machines only",
+        "Farming in cities"
+      ],
+      "explanation": "Subsistence farmers grow food for their own use, not for sale.",
+      "memoryHook": "T-Rexy says: Subsistence farming feeds the family.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "agriculture",
+        "subsistence"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_083",
+      "question": "What is commercial agriculture?",
+      "correctAnswer": "Farming to sell products for profit",
+      "distractors": [
+        "Farming for family use",
+        "Farming without machines",
+        "Farming in the past"
+      ],
+      "explanation": "Commercial agriculture produces food and goods for sale in markets.",
+      "memoryHook": "T-Rexy says: Commercial farming sells for profit.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "agriculture",
+        "commercial"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_084",
+      "question": "What is agribusiness?",
+      "correctAnswer": "Large-scale commercial farming run like a business",
+      "distractors": [
+        "Small family farming",
+        "Organic farming only",
+        "Urban farming"
+      ],
+      "explanation": "Agribusiness is industrial-scale farming with corporate organization.",
+      "memoryHook": "T-Rexy says: Agribusiness is farming as big business.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "agriculture",
+        "agribusiness"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_085",
+      "question": "What is von Thunen's model?",
+      "correctAnswer": "A model showing land use rings around a city based on transport cost",
+      "distractors": [
+        "A model of population growth",
+        "A model of migration",
+        "A model of urban sprawl"
+      ],
+      "explanation": "Von Thunen's model predicts farming zones around a market town by transport cost.",
+      "memoryHook": "T-Rexy says: Von Thunen drew rings of farming around a city.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "agriculture",
+        "von-thunen"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_086",
+      "question": "What is a food desert?",
+      "correctAnswer": "An area with limited access to fresh, affordable food",
+      "distractors": [
+        "A desert with no farms",
+        "A place with no food at all",
+        "A farming region"
+      ],
+      "explanation": "Food deserts are areas, often poor urban neighborhoods, without nearby grocery stores.",
+      "memoryHook": "T-Rexy says: Food deserts lack fresh food nearby.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "agriculture",
+        "food-deserts"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_087",
+      "question": "What is urbanization?",
+      "correctAnswer": "The growth of cities and the share of people living in them",
+      "distractors": [
+        "The decline of cities",
+        "The growth of farms",
+        "The movement to rural areas"
+      ],
+      "explanation": "Urbanization is the increasing proportion of people living in urban areas.",
+      "memoryHook": "T-Rexy says: Urbanization is the shift to cities.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "urbanization"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_088",
+      "question": "What is a megacity?",
+      "correctAnswer": "A city with more than 10 million people",
+      "distractors": [
+        "A city with more than 1 million people",
+        "The capital of a country",
+        "A city with a subway"
+      ],
+      "explanation": "A megacity has over 10 million residents.",
+      "memoryHook": "T-Rexy says: A megacity has over 10 million people.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "megacities"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_089",
+      "question": "What is the largest city in the world by population?",
+      "correctAnswer": "Tokyo",
+      "distractors": [
+        "Delhi",
+        "Shanghai",
+        "Sao Paulo"
+      ],
+      "explanation": "Tokyo is the world's largest metropolitan area, with about 37 million people.",
+      "memoryHook": "T-Rexy says: Tokyo is the world's largest city.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "cities"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_090",
+      "question": "What is suburbanization?",
+      "correctAnswer": "The movement of people and jobs from cities to suburbs",
+      "distractors": [
+        "The movement to city centers",
+        "The growth of farms",
+        "The decline of suburbs"
+      ],
+      "explanation": "Suburbanization is growth in the suburbs around cities.",
+      "memoryHook": "T-Rexy says: Suburbanization is the move to the suburbs.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "suburbs"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_091",
+      "question": "What is gentrification?",
+      "correctAnswer": "Wealthier people moving into a poor area, raising prices and displacing residents",
+      "distractors": [
+        "The decline of a neighborhood",
+        "The building of suburbs",
+        "The creation of slums"
+      ],
+      "explanation": "Gentrification renovates poor areas, often pushing out longtime residents.",
+      "memoryHook": "T-Rexy says: Gentrification raises prices and pushes people out.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "gentrification"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_092",
+      "question": "What is urban sprawl?",
+      "correctAnswer": "Unplanned, low-density growth spreading outward from a city",
+      "distractors": [
+        "Planned compact growth",
+        "Growth in the city center",
+        "A decline in city size"
+      ],
+      "explanation": "Urban sprawl is spread-out, car-dependent growth at a city's edge.",
+      "memoryHook": "T-Rexy says: Sprawl is cities spreading outward.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "sprawl"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_093",
+      "question": "What is the concentric zone model?",
+      "correctAnswer": "A model of a city as rings, with the center as the business district",
+      "distractors": [
+        "A model of farming",
+        "A model of migration",
+        "A model of trade"
+      ],
+      "explanation": "The concentric zone model pictures a city in rings around a central business district.",
+      "memoryHook": "T-Rexy says: The concentric zone model draws rings around downtown.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "models"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_094",
+      "question": "What is the sector model of cities?",
+      "correctAnswer": "A model where a city grows in wedges along transport routes",
+      "distractors": [
+        "A model of rings",
+        "A model of farming",
+        "A model of population"
+      ],
+      "explanation": "The sector model shows city growth in sectors radiating from the center.",
+      "memoryHook": "T-Rexy says: The sector model grows in wedges.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "models"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_095",
+      "question": "What is a primate city?",
+      "correctAnswer": "A city much larger than any other in its country",
+      "distractors": [
+        "The capital of a country",
+        "A city with a port",
+        "A city with a university"
+      ],
+      "explanation": "A primate city, like Bangkok, dominates its country's urban system.",
+      "memoryHook": "T-Rexy says: Bangkok is Thailand's primate city.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "urban",
+        "primate-city"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_096",
+      "question": "What is the Human Development Index (HDI)?",
+      "correctAnswer": "A measure of health, education, and income in a country",
+      "distractors": [
+        "A measure of GDP only",
+        "A measure of population only",
+        "A measure of military power"
+      ],
+      "explanation": "The HDI combines life expectancy, schooling, and income into one score.",
+      "memoryHook": "T-Rexy says: HDI measures health, schooling, and income.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "development",
+        "hdi"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_097",
+      "question": "What is GDP per capita?",
+      "correctAnswer": "The total economic output divided by the population",
+      "distractors": [
+        "Total GDP only",
+        "Income of the richest people",
+        "Government spending only"
+      ],
+      "explanation": "GDP per capita is average economic output per person.",
+      "memoryHook": "T-Rexy says: GDP per capita is output per person.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "development",
+        "gdp"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_098",
+      "question": "What is the difference between developed and developing countries?",
+      "correctAnswer": "Developed countries have higher incomes, education, and health; developing countries have lower levels",
+      "distractors": [
+        "There is no difference",
+        "Developing countries are always poor",
+        "Developed countries have no industry"
+      ],
+      "explanation": "Development is measured by income, health, and education.",
+      "memoryHook": "T-Rexy says: Development is about income, health, and school.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "development",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_099",
+      "question": "What is a maquiladora?",
+      "correctAnswer": "A factory in Mexico near the US border that assembles goods for export",
+      "distractors": [
+        "A farm in Mexico",
+        "A mine in Mexico",
+        "A tourist resort"
+      ],
+      "explanation": "Maquiladoras are export factories in northern Mexico.",
+      "memoryHook": "T-Rexy says: Maquiladoras assemble goods for export.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "development",
+        "maquiladoras"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HUG10_100",
+      "question": "What is fair trade?",
+      "correctAnswer": "Trade that pays producers in developing countries a fair price",
+      "distractors": [
+        "Free trade with no rules",
+        "Trade with no tariffs",
+        "Trade between rich countries only"
+      ],
+      "explanation": "Fair trade certifies that producers receive fair prices and decent conditions.",
+      "memoryHook": "T-Rexy says: Fair trade pays producers fairly.",
+      "imageUrl": "topic:ap-human-geography",
+      "tags": [
+        "development",
+        "fair-trade"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

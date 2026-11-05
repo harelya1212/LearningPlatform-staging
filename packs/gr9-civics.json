@@ -1,0 +1,2015 @@
+{
+  "packId": "gr9-civics",
+  "version": 1.0,
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "civics",
+    "government",
+    "9th"
+  ],
+  "questions": [
+    {
+      "id": "CIV9_001",
+      "question": "What is the supreme law of the land in the United States?",
+      "correctAnswer": "The Constitution",
+      "distractors": [
+        "The Declaration of Independence",
+        "The Bill of Rights only",
+        "State laws"
+      ],
+      "explanation": "The Constitution is the supreme law of the land.",
+      "memoryHook": "T-Rexy says: The Constitution is supreme.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "constitution"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_002",
+      "question": "When was the United States Constitution written?",
+      "correctAnswer": "1787",
+      "distractors": [
+        "1776",
+        "1800",
+        "1865"
+      ],
+      "explanation": "The Constitution was written in 1787.",
+      "memoryHook": "T-Rexy says: The Constitution was written in 1787.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "constitution"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_003",
+      "question": "What is the first ten amendments to the Constitution called?",
+      "correctAnswer": "The Bill of Rights",
+      "distractors": [
+        "The Preamble",
+        "The Articles",
+        "The Federalist Papers"
+      ],
+      "explanation": "The first ten amendments are the Bill of Rights.",
+      "memoryHook": "T-Rexy says: The Bill of Rights is the first ten.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "constitution"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_004",
+      "question": "What does the First Amendment protect?",
+      "correctAnswer": "Freedom of speech, religion, press, assembly, and petition",
+      "distractors": [
+        "The right to bear arms",
+        "The right to a fair trial",
+        "The right to vote only"
+      ],
+      "explanation": "The First Amendment protects speech, religion, press, assembly, and petition.",
+      "memoryHook": "T-Rexy says: The First Amendment protects freedoms.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "rights"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_005",
+      "question": "What does the Second Amendment protect?",
+      "correctAnswer": "The right to bear arms",
+      "distractors": [
+        "Freedom of speech",
+        "The right to vote",
+        "Freedom of religion"
+      ],
+      "explanation": "The Second Amendment protects the right to bear arms.",
+      "memoryHook": "T-Rexy says: The Second Amendment is about arms.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "rights"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_006",
+      "question": "What does the Fourth Amendment protect?",
+      "correctAnswer": "Protection against unreasonable searches and seizures",
+      "distractors": [
+        "Freedom of speech",
+        "The right to vote",
+        "The right to bear arms"
+      ],
+      "explanation": "The Fourth Amendment guards against unreasonable searches.",
+      "memoryHook": "T-Rexy says: The Fourth Amendment protects privacy.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "rights"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_007",
+      "question": "What does the Fifth Amendment protect?",
+      "correctAnswer": "The right to due process and against self-incrimination",
+      "distractors": [
+        "Freedom of speech",
+        "The right to vote",
+        "The right to bear arms"
+      ],
+      "explanation": "The Fifth Amendment protects due process and silence.",
+      "memoryHook": "T-Rexy says: The Fifth Amendment protects due process.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "rights"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_008",
+      "question": "What does the Sixth Amendment guarantee?",
+      "correctAnswer": "The right to a speedy and public trial",
+      "distractors": [
+        "Freedom of speech",
+        "The right to vote",
+        "The right to bear arms"
+      ],
+      "explanation": "The Sixth Amendment guarantees a speedy public trial.",
+      "memoryHook": "T-Rexy says: The Sixth Amendment is about trials.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "rights"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_009",
+      "question": "What does the Eighth Amendment prohibit?",
+      "correctAnswer": "Cruel and unusual punishment",
+      "distractors": [
+        "Freedom of speech",
+        "Unreasonable taxes",
+        "The right to vote"
+      ],
+      "explanation": "The Eighth Amendment bans cruel and unusual punishment.",
+      "memoryHook": "T-Rexy says: The Eighth Amendment bans cruel punishment.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "rights"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_010",
+      "question": "What are the three branches of the United States government?",
+      "correctAnswer": "Legislative, executive, and judicial",
+      "distractors": [
+        "Federal, state, and local",
+        "Senate, House, and Court",
+        "President, governor, and mayor"
+      ],
+      "explanation": "The three branches are legislative, executive, and judicial.",
+      "memoryHook": "T-Rexy says: Three branches: legislative, executive, judicial.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "branches"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_011",
+      "question": "Which branch makes laws?",
+      "correctAnswer": "Legislative",
+      "distractors": [
+        "Executive",
+        "Judicial",
+        "Military"
+      ],
+      "explanation": "The legislative branch makes laws.",
+      "memoryHook": "T-Rexy says: Congress makes laws.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "branches"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_012",
+      "question": "Which branch enforces laws?",
+      "correctAnswer": "Executive",
+      "distractors": [
+        "Legislative",
+        "Judicial",
+        "Military"
+      ],
+      "explanation": "The executive branch enforces laws.",
+      "memoryHook": "T-Rexy says: The president enforces laws.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "branches"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_013",
+      "question": "Which branch interprets laws?",
+      "correctAnswer": "Judicial",
+      "distractors": [
+        "Legislative",
+        "Executive",
+        "Military"
+      ],
+      "explanation": "The judicial branch interprets laws.",
+      "memoryHook": "T-Rexy says: Courts interpret laws.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "branches"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_014",
+      "question": "What is the legislative branch called?",
+      "correctAnswer": "Congress",
+      "distractors": [
+        "The Cabinet",
+        "The Supreme Court",
+        "The White House"
+      ],
+      "explanation": "Congress is the legislative branch.",
+      "memoryHook": "T-Rexy says: Congress is legislative.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "congress"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_015",
+      "question": "What are the two parts of Congress?",
+      "correctAnswer": "The Senate and the House of Representatives",
+      "distractors": [
+        "The Senate and the Supreme Court",
+        "The House and the Cabinet",
+        "The Senate and the Cabinet"
+      ],
+      "explanation": "Congress has the Senate and the House.",
+      "memoryHook": "T-Rexy says: Congress has two houses.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "congress"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_016",
+      "question": "How many senators are there in total?",
+      "correctAnswer": "100",
+      "distractors": [
+        "50",
+        "435",
+        "200"
+      ],
+      "explanation": "There are 100 senators, two from each state.",
+      "memoryHook": "T-Rexy says: 100 senators total.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "congress"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_017",
+      "question": "How many senators does each state have?",
+      "correctAnswer": "2",
+      "distractors": [
+        "1",
+        "3",
+        "4"
+      ],
+      "explanation": "Each state has two senators.",
+      "memoryHook": "T-Rexy says: Two senators per state.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "congress"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_018",
+      "question": "How long is a senator's term?",
+      "correctAnswer": "6 years",
+      "distractors": [
+        "2 years",
+        "4 years",
+        "8 years"
+      ],
+      "explanation": "Senators serve six-year terms.",
+      "memoryHook": "T-Rexy says: Senators serve six years.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "congress"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_019",
+      "question": "How many members are in the House of Representatives?",
+      "correctAnswer": "435",
+      "distractors": [
+        "100",
+        "50",
+        "535"
+      ],
+      "explanation": "The House has 435 members.",
+      "memoryHook": "T-Rexy says: The House has 435.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "congress"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_020",
+      "question": "How long is a representative's term?",
+      "correctAnswer": "2 years",
+      "distractors": [
+        "4 years",
+        "6 years",
+        "8 years"
+      ],
+      "explanation": "Representatives serve two-year terms.",
+      "memoryHook": "T-Rexy says: Representatives serve two years.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "congress"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_021",
+      "question": "Who is the head of the executive branch?",
+      "correctAnswer": "The President",
+      "distractors": [
+        "The Chief Justice",
+        "The Speaker of the House",
+        "The Secretary of State"
+      ],
+      "explanation": "The President heads the executive branch.",
+      "memoryHook": "T-Rexy says: The president leads the executive.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "president"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_022",
+      "question": "How long is a president's term?",
+      "correctAnswer": "4 years",
+      "distractors": [
+        "2 years",
+        "6 years",
+        "8 years"
+      ],
+      "explanation": "A president serves a four-year term.",
+      "memoryHook": "T-Rexy says: Presidents serve four years.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "president"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_023",
+      "question": "How many terms can a president serve?",
+      "correctAnswer": "Two",
+      "distractors": [
+        "One",
+        "Three",
+        "Unlimited"
+      ],
+      "explanation": "The 22nd Amendment limits presidents to two terms.",
+      "memoryHook": "T-Rexy says: Two terms max.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "president"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_024",
+      "question": "Who becomes president if the president dies or resigns?",
+      "correctAnswer": "The Vice President",
+      "distractors": [
+        "The Speaker of the House",
+        "The Chief Justice",
+        "The Secretary of State"
+      ],
+      "explanation": "The Vice President succeeds the President.",
+      "memoryHook": "T-Rexy says: The vice president is next.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "president"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_025",
+      "question": "What is the minimum age to be president?",
+      "correctAnswer": "35",
+      "distractors": [
+        "25",
+        "30",
+        "40"
+      ],
+      "explanation": "A president must be at least 35 years old.",
+      "memoryHook": "T-Rexy says: Presidents must be 35.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "president"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_026",
+      "question": "What is the highest court in the United States?",
+      "correctAnswer": "The Supreme Court",
+      "distractors": [
+        "The Court of Appeals",
+        "The District Court",
+        "The State Supreme Court"
+      ],
+      "explanation": "The Supreme Court is the highest court.",
+      "memoryHook": "T-Rexy says: The Supreme Court is highest.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "courts"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_027",
+      "question": "How many justices are on the Supreme Court?",
+      "correctAnswer": "9",
+      "distractors": [
+        "5",
+        "7",
+        "11"
+      ],
+      "explanation": "The Supreme Court has nine justices.",
+      "memoryHook": "T-Rexy says: Nine justices.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "courts"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_028",
+      "question": "How long do Supreme Court justices serve?",
+      "correctAnswer": "For life, unless they retire or are removed",
+      "distractors": [
+        "4 years",
+        "6 years",
+        "8 years"
+      ],
+      "explanation": "Justices serve for life.",
+      "memoryHook": "T-Rexy says: Justices serve for life.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "courts"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_029",
+      "question": "Who appoints Supreme Court justices?",
+      "correctAnswer": "The President, with Senate approval",
+      "distractors": [
+        "The House of Representatives",
+        "The voters directly",
+        "The Chief Justice"
+      ],
+      "explanation": "The President nominates justices, and the Senate confirms them.",
+      "memoryHook": "T-Rexy says: The president nominates, the Senate confirms.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "courts"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_030",
+      "question": "What is checks and balances?",
+      "correctAnswer": "Each branch limits the power of the other branches",
+      "distractors": [
+        "One branch controls all",
+        "The states control the federal government",
+        "The people control the courts only"
+      ],
+      "explanation": "Checks and balances let each branch limit the others.",
+      "memoryHook": "T-Rexy says: Branches check each other.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "principles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_031",
+      "question": "What is separation of powers?",
+      "correctAnswer": "Dividing government power among three branches",
+      "distractors": [
+        "Giving all power to the president",
+        "Giving all power to Congress",
+        "Dividing power between states only"
+      ],
+      "explanation": "Separation of powers divides power among branches.",
+      "memoryHook": "T-Rexy says: Power is divided.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "principles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_032",
+      "question": "What is federalism?",
+      "correctAnswer": "Power shared between the national and state governments",
+      "distractors": [
+        "Power held only by the national government",
+        "Power held only by the states",
+        "Power held by the courts"
+      ],
+      "explanation": "Federalism shares power between national and state governments.",
+      "memoryHook": "T-Rexy says: Federalism shares power.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "principles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_033",
+      "question": "What is the Preamble?",
+      "correctAnswer": "The introduction to the Constitution",
+      "distractors": [
+        "The first amendment",
+        "The last article",
+        "A state law"
+      ],
+      "explanation": "The Preamble introduces the Constitution.",
+      "memoryHook": "T-Rexy says: The Preamble introduces.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "constitution"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_034",
+      "question": "What words begin the Preamble?",
+      "correctAnswer": "We the People",
+      "distractors": [
+        "In order to form",
+        "The United States",
+        "All men are created"
+      ],
+      "explanation": "The Preamble begins 'We the People'.",
+      "memoryHook": "T-Rexy says: We the People begins it.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "constitution"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_035",
+      "question": "What document declared American independence from Britain?",
+      "correctAnswer": "The Declaration of Independence",
+      "distractors": [
+        "The Constitution",
+        "The Bill of Rights",
+        "The Articles of Confederation"
+      ],
+      "explanation": "The Declaration of Independence declared independence.",
+      "memoryHook": "T-Rexy says: The Declaration declared independence.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "history"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_036",
+      "question": "When was the Declaration of Independence adopted?",
+      "correctAnswer": "July 4, 1776",
+      "distractors": [
+        "July 4, 1787",
+        "December 25, 1776",
+        "July 4, 1789"
+      ],
+      "explanation": "The Declaration was adopted on July 4, 1776.",
+      "memoryHook": "T-Rexy says: July 4, 1776.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "history"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_037",
+      "question": "Who wrote the Declaration of Independence?",
+      "correctAnswer": "Thomas Jefferson",
+      "distractors": [
+        "George Washington",
+        "Benjamin Franklin",
+        "John Adams"
+      ],
+      "explanation": "Thomas Jefferson wrote the Declaration.",
+      "memoryHook": "T-Rexy says: Jefferson wrote it.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "history"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_038",
+      "question": "What is the voting age in the United States?",
+      "correctAnswer": "18",
+      "distractors": [
+        "16",
+        "21",
+        "25"
+      ],
+      "explanation": "Citizens can vote at 18.",
+      "memoryHook": "T-Rexy says: Voting age is 18.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "voting"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_039",
+      "question": "What amendment gave women the right to vote?",
+      "correctAnswer": "The 19th Amendment",
+      "distractors": [
+        "The 15th Amendment",
+        "The 26th Amendment",
+        "The 13th Amendment"
+      ],
+      "explanation": "The 19th Amendment gave women the vote.",
+      "memoryHook": "T-Rexy says: The 19th gave women the vote.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "amendments"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_040",
+      "question": "What amendment lowered the voting age to 18?",
+      "correctAnswer": "The 26th Amendment",
+      "distractors": [
+        "The 19th Amendment",
+        "The 15th Amendment",
+        "The 24th Amendment"
+      ],
+      "explanation": "The 26th Amendment lowered the voting age to 18.",
+      "memoryHook": "T-Rexy says: The 26th lowered voting age.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "amendments"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_041",
+      "question": "What amendment abolished slavery?",
+      "correctAnswer": "The 13th Amendment",
+      "distractors": [
+        "The 14th Amendment",
+        "The 15th Amendment",
+        "The 19th Amendment"
+      ],
+      "explanation": "The 13th Amendment abolished slavery.",
+      "memoryHook": "T-Rexy says: The 13th ended slavery.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "amendments"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_042",
+      "question": "What amendment gave citizenship to people born in the United States?",
+      "correctAnswer": "The 14th Amendment",
+      "distractors": [
+        "The 13th Amendment",
+        "The 15th Amendment",
+        "The 19th Amendment"
+      ],
+      "explanation": "The 14th Amendment defines citizenship.",
+      "memoryHook": "T-Rexy says: The 14th defines citizenship.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "amendments"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_043",
+      "question": "What amendment gave African American men the right to vote?",
+      "correctAnswer": "The 15th Amendment",
+      "distractors": [
+        "The 13th Amendment",
+        "The 14th Amendment",
+        "The 19th Amendment"
+      ],
+      "explanation": "The 15th Amendment protected voting rights regardless of race.",
+      "memoryHook": "T-Rexy says: The 15th protected voting.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "amendments"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_044",
+      "question": "What is due process?",
+      "correctAnswer": "Fair treatment through the legal system",
+      "distractors": [
+        "Freedom of speech",
+        "The right to vote",
+        "The right to bear arms"
+      ],
+      "explanation": "Due process is fair legal treatment.",
+      "memoryHook": "T-Rexy says: Due process is fair treatment.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "rights"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_045",
+      "question": "What is the rule of law?",
+      "correctAnswer": "Everyone, including leaders, must follow the law",
+      "distractors": [
+        "Only citizens must follow the law",
+        "Leaders are above the law",
+        "Laws do not apply to the government"
+      ],
+      "explanation": "The rule of law means everyone follows the law.",
+      "memoryHook": "T-Rexy says: Everyone follows the law.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "principles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_046",
+      "question": "What is a democracy?",
+      "correctAnswer": "Government by the people, through voting",
+      "distractors": [
+        "Government by a king",
+        "Government by a small group only",
+        "Government with no voting"
+      ],
+      "explanation": "Democracy is government by the people.",
+      "memoryHook": "T-Rexy says: Democracy is rule by the people.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "principles"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_047",
+      "question": "What is a republic?",
+      "correctAnswer": "A government where citizens elect representatives",
+      "distractors": [
+        "A government by a king",
+        "A government with no elections",
+        "A government by judges only"
+      ],
+      "explanation": "A republic elects representatives.",
+      "memoryHook": "T-Rexy says: A republic elects representatives.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "principles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_048",
+      "question": "What is the difference between a democracy and a republic?",
+      "correctAnswer": "The United States is a democratic republic: citizens vote for representatives",
+      "distractors": [
+        "They are exactly the same",
+        "A republic has no voting",
+        "A democracy has no representatives"
+      ],
+      "explanation": "The United States is a democratic republic.",
+      "memoryHook": "T-Rexy says: The US is a democratic republic.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "principles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_049",
+      "question": "What is the capital of the United States?",
+      "correctAnswer": "Washington, D.C.",
+      "distractors": [
+        "New York City",
+        "Philadelphia",
+        "Boston"
+      ],
+      "explanation": "The capital is Washington, D.C.",
+      "memoryHook": "T-Rexy says: The capital is Washington, D.C.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "geography"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_050",
+      "question": "What is the national anthem of the United States?",
+      "correctAnswer": "The Star-Spangled Banner",
+      "distractors": [
+        "America the Beautiful",
+        "God Bless America",
+        "My Country, Tis of Thee"
+      ],
+      "explanation": "The national anthem is The Star-Spangled Banner.",
+      "memoryHook": "T-Rexy says: The anthem is The Star-Spangled Banner.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "symbols"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_051",
+      "question": "What do the stars on the American flag represent?",
+      "correctAnswer": "The 50 states",
+      "distractors": [
+        "The original colonies",
+        "The branches of government",
+        "The amendments"
+      ],
+      "explanation": "The stars stand for the 50 states.",
+      "memoryHook": "T-Rexy says: Stars are states.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "symbols"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_052",
+      "question": "What do the stripes on the American flag represent?",
+      "correctAnswer": "The 13 original colonies",
+      "distractors": [
+        "The 50 states",
+        "The branches of government",
+        "The amendments"
+      ],
+      "explanation": "The stripes stand for the 13 original colonies.",
+      "memoryHook": "T-Rexy says: Stripes are the 13 colonies.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "symbols"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_053",
+      "question": "How many stripes are on the American flag?",
+      "correctAnswer": "13",
+      "distractors": [
+        "50",
+        "15",
+        "10"
+      ],
+      "explanation": "The flag has 13 stripes.",
+      "memoryHook": "T-Rexy says: 13 stripes.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "symbols"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_054",
+      "question": "What is the role of a governor?",
+      "correctAnswer": "To lead the executive branch of a state",
+      "distractors": [
+        "To make federal laws",
+        "To lead the Supreme Court",
+        "To command the national army"
+      ],
+      "explanation": "A governor leads a state's executive branch.",
+      "memoryHook": "T-Rexy says: Governors lead states.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "state-government"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_055",
+      "question": "What is the role of a mayor?",
+      "correctAnswer": "To lead a city government",
+      "distractors": [
+        "To lead a state",
+        "To make federal laws",
+        "To lead the Supreme Court"
+      ],
+      "explanation": "A mayor leads a city.",
+      "memoryHook": "T-Rexy says: Mayors lead cities.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "local-government"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_056",
+      "question": "What is a citizen?",
+      "correctAnswer": "A person who is a legal member of a country",
+      "distractors": [
+        "A person who lives anywhere",
+        "A visitor",
+        "A person without rights"
+      ],
+      "explanation": "A citizen is a legal member of a country.",
+      "memoryHook": "T-Rexy says: Citizens are legal members.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "citizenship"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_057",
+      "question": "How does a person become a United States citizen by birth?",
+      "correctAnswer": "By being born in the United States",
+      "distractors": [
+        "By living here for one year",
+        "By voting",
+        "By working here"
+      ],
+      "explanation": "Birth in the United States grants citizenship.",
+      "memoryHook": "T-Rexy says: Born here means citizen.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "citizenship"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_058",
+      "question": "What is naturalization?",
+      "correctAnswer": "The process by which a noncitizen becomes a citizen",
+      "distractors": [
+        "Being born a citizen",
+        "Voting in an election",
+        "Moving to another state"
+      ],
+      "explanation": "Naturalization is the process of becoming a citizen.",
+      "memoryHook": "T-Rexy says: Naturalization makes citizens.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "citizenship"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_059",
+      "question": "What is a duty of a citizen?",
+      "correctAnswer": "Obeying the law and serving on a jury when called",
+      "distractors": [
+        "Voting only",
+        "Paying taxes only",
+        "Going to school only"
+      ],
+      "explanation": "Citizen duties include obeying laws and jury service.",
+      "memoryHook": "T-Rexy says: Citizens obey laws and serve juries.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "citizenship"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_060",
+      "question": "What is a responsibility of a citizen?",
+      "correctAnswer": "Voting in elections",
+      "distractors": [
+        "Breaking the law",
+        "Ignoring elections",
+        "Avoiding jury duty"
+      ],
+      "explanation": "Voting is a key citizen responsibility.",
+      "memoryHook": "T-Rexy says: Voting is a responsibility.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "citizenship"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_061",
+      "question": "What is the Electoral College?",
+      "correctAnswer": "The body that formally elects the President",
+      "distractors": [
+        "A university",
+        "A court",
+        "A state legislature"
+      ],
+      "explanation": "The Electoral College formally elects the President.",
+      "memoryHook": "T-Rexy says: The Electoral College elects the president.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "elections"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_062",
+      "question": "How often are presidential elections held?",
+      "correctAnswer": "Every 4 years",
+      "distractors": [
+        "Every 2 years",
+        "Every 6 years",
+        "Every year"
+      ],
+      "explanation": "Presidential elections happen every four years.",
+      "memoryHook": "T-Rexy says: Presidential elections are every four years.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "elections"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_063",
+      "question": "What is a political party?",
+      "correctAnswer": "A group of people with shared political ideas",
+      "distractors": [
+        "A celebration",
+        "A court",
+        "A state"
+      ],
+      "explanation": "A political party shares political ideas.",
+      "memoryHook": "T-Rexy says: Parties share ideas.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "elections"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_064",
+      "question": "What are the two major political parties in the United States?",
+      "correctAnswer": "Democratic and Republican",
+      "distractors": [
+        "Democratic and Green",
+        "Republican and Libertarian",
+        "Green and Libertarian"
+      ],
+      "explanation": "The two major parties are Democratic and Republican.",
+      "memoryHook": "T-Rexy says: Democratic and Republican are the major parties.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "elections"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_065",
+      "question": "What is the Cabinet?",
+      "correctAnswer": "Advisors to the President who lead executive departments",
+      "distractors": [
+        "The Supreme Court",
+        "Congress",
+        "A state legislature"
+      ],
+      "explanation": "The Cabinet advises the President.",
+      "memoryHook": "T-Rexy says: The Cabinet advises the president.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "president"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_066",
+      "question": "Who is the Speaker of the House?",
+      "correctAnswer": "The leader of the House of Representatives",
+      "distractors": [
+        "The leader of the Senate",
+        "The Chief Justice",
+        "The Vice President"
+      ],
+      "explanation": "The Speaker leads the House.",
+      "memoryHook": "T-Rexy says: The Speaker leads the House.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "congress"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_067",
+      "question": "Who presides over the Senate?",
+      "correctAnswer": "The Vice President",
+      "distractors": [
+        "The Speaker of the House",
+        "The Chief Justice",
+        "The President"
+      ],
+      "explanation": "The Vice President presides over the Senate.",
+      "memoryHook": "T-Rexy says: The vice president presides over the Senate.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "congress"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_068",
+      "question": "What is a bill?",
+      "correctAnswer": "A proposed law",
+      "distractors": [
+        "A law already passed",
+        "A court decision",
+        "A tax only"
+      ],
+      "explanation": "A bill is a proposed law.",
+      "memoryHook": "T-Rexy says: A bill is a proposed law.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "lawmaking"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_069",
+      "question": "How does a bill become a law?",
+      "correctAnswer": "It passes both houses of Congress and is signed by the President",
+      "distractors": [
+        "It is signed by the Supreme Court",
+        "It is voted on by the states only",
+        "It is announced by the President only"
+      ],
+      "explanation": "A bill passes Congress and is signed by the President.",
+      "memoryHook": "T-Rexy says: Pass Congress, sign by president.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "lawmaking"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_070",
+      "question": "What is a veto?",
+      "correctAnswer": "The President's rejection of a bill",
+      "distractors": [
+        "Congress approving a bill",
+        "A court decision",
+        "A state law"
+      ],
+      "explanation": "A veto is the President rejecting a bill.",
+      "memoryHook": "T-Rexy says: A veto rejects a bill.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "lawmaking"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_071",
+      "question": "What can Congress do if the President vetoes a bill?",
+      "correctAnswer": "Override the veto with a two-thirds vote in both houses",
+      "distractors": [
+        "Nothing",
+        "Ask the Supreme Court to sign it",
+        "Pass it with a simple majority"
+      ],
+      "explanation": "Congress can override a veto with two-thirds votes.",
+      "memoryHook": "T-Rexy says: Two-thirds overrides a veto.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "lawmaking"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_072",
+      "question": "What is the main job of the Supreme Court?",
+      "correctAnswer": "To decide if laws follow the Constitution",
+      "distractors": [
+        "To make laws",
+        "To enforce laws",
+        "To elect the President"
+      ],
+      "explanation": "The Supreme Court checks laws against the Constitution.",
+      "memoryHook": "T-Rexy says: The Court checks the Constitution.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "courts"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_073",
+      "question": "What is judicial review?",
+      "correctAnswer": "The power of courts to declare laws unconstitutional",
+      "distractors": [
+        "The power to make laws",
+        "The power to veto bills",
+        "The power to elect judges"
+      ],
+      "explanation": "Judicial review lets courts strike down unconstitutional laws.",
+      "memoryHook": "T-Rexy says: Judicial review checks laws.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "courts"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_074",
+      "question": "What is the Bill of Rights?",
+      "correctAnswer": "The first ten amendments, protecting individual freedoms",
+      "distractors": [
+        "The Preamble",
+        "The Articles of Confederation",
+        "A state constitution"
+      ],
+      "explanation": "The Bill of Rights is the first ten amendments.",
+      "memoryHook": "T-Rexy says: The Bill of Rights is the first ten.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "rights"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_075",
+      "question": "What is freedom of religion?",
+      "correctAnswer": "The right to practice any religion or none",
+      "distractors": [
+        "The right to vote",
+        "The right to bear arms",
+        "The right to a trial"
+      ],
+      "explanation": "Freedom of religion is the right to practice any faith or none.",
+      "memoryHook": "T-Rexy says: Freedom of religion is a choice.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "rights"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_076",
+      "question": "What is freedom of assembly?",
+      "correctAnswer": "The right to gather peacefully",
+      "distractors": [
+        "The right to bear arms",
+        "The right to vote",
+        "The right to a trial"
+      ],
+      "explanation": "Freedom of assembly is the right to gather peacefully.",
+      "memoryHook": "T-Rexy says: Assembly means gathering.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "rights"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_077",
+      "question": "What is freedom of petition?",
+      "correctAnswer": "The right to ask the government to fix a problem",
+      "distractors": [
+        "The right to vote",
+        "The right to bear arms",
+        "The right to a trial"
+      ],
+      "explanation": "Freedom of petition is asking government to act.",
+      "memoryHook": "T-Rexy says: Petition means asking government.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "rights"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_078",
+      "question": "What is the 10th Amendment about?",
+      "correctAnswer": "Powers not given to the federal government belong to the states or the people",
+      "distractors": [
+        "Freedom of speech",
+        "The right to vote",
+        "The right to bear arms"
+      ],
+      "explanation": "The 10th Amendment reserves powers to states and people.",
+      "memoryHook": "T-Rexy says: The 10th reserves powers.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "amendments"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_079",
+      "question": "What is the 22nd Amendment about?",
+      "correctAnswer": "Limiting the President to two terms",
+      "distractors": [
+        "Women's voting rights",
+        "Voting age",
+        "Abolishing slavery"
+      ],
+      "explanation": "The 22nd Amendment limits presidents to two terms.",
+      "memoryHook": "T-Rexy says: The 22nd limits terms.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "amendments"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_080",
+      "question": "What is the 24th Amendment about?",
+      "correctAnswer": "Banning poll taxes in federal elections",
+      "distractors": [
+        "Women's voting rights",
+        "Voting age",
+        "Abolishing slavery"
+      ],
+      "explanation": "The 24th Amendment banned poll taxes.",
+      "memoryHook": "T-Rexy says: The 24th banned poll taxes.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "amendments"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_081",
+      "question": "What is the capital of Arizona?",
+      "correctAnswer": "Phoenix",
+      "distractors": [
+        "Tucson",
+        "Flagstaff",
+        "Mesa"
+      ],
+      "explanation": "Phoenix is the capital of Arizona.",
+      "memoryHook": "T-Rexy says: Phoenix is Arizona's capital.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "arizona"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_082",
+      "question": "How many states are in the United States?",
+      "correctAnswer": "50",
+      "distractors": [
+        "48",
+        "52",
+        "51"
+      ],
+      "explanation": "There are 50 states.",
+      "memoryHook": "T-Rexy says: 50 states.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "geography"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_083",
+      "question": "What is the largest state by area?",
+      "correctAnswer": "Alaska",
+      "distractors": [
+        "Texas",
+        "California",
+        "Montana"
+      ],
+      "explanation": "Alaska is the largest state.",
+      "memoryHook": "T-Rexy says: Alaska is biggest.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "geography"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_084",
+      "question": "What is the smallest state by area?",
+      "correctAnswer": "Rhode Island",
+      "distractors": [
+        "Delaware",
+        "Connecticut",
+        "Hawaii"
+      ],
+      "explanation": "Rhode Island is the smallest state.",
+      "memoryHook": "T-Rexy says: Rhode Island is smallest.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "geography"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_085",
+      "question": "What ocean is on the west coast of the United States?",
+      "correctAnswer": "Pacific Ocean",
+      "distractors": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "explanation": "The Pacific is on the west coast.",
+      "memoryHook": "T-Rexy says: The Pacific is west.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "geography"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_086",
+      "question": "What ocean is on the east coast of the United States?",
+      "correctAnswer": "Atlantic Ocean",
+      "distractors": [
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "explanation": "The Atlantic is on the east coast.",
+      "memoryHook": "T-Rexy says: The Atlantic is east.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "geography"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_087",
+      "question": "What river forms part of the border between the United States and Mexico?",
+      "correctAnswer": "Rio Grande",
+      "distractors": [
+        "Mississippi River",
+        "Colorado River",
+        "Columbia River"
+      ],
+      "explanation": "The Rio Grande forms part of the southern border.",
+      "memoryHook": "T-Rexy says: The Rio Grande is the border.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "geography"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_088",
+      "question": "What is the longest river in the United States?",
+      "correctAnswer": "Missouri River",
+      "distractors": [
+        "Mississippi River",
+        "Colorado River",
+        "Rio Grande"
+      ],
+      "explanation": "The Missouri River is the longest in the United States.",
+      "memoryHook": "T-Rexy says: The Missouri is longest.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "geography"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_089",
+      "question": "Who was the first President of the United States?",
+      "correctAnswer": "George Washington",
+      "distractors": [
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "explanation": "George Washington was the first President.",
+      "memoryHook": "T-Rexy says: Washington was first.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "history"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_090",
+      "question": "Who wrote the Gettysburg Address?",
+      "correctAnswer": "Abraham Lincoln",
+      "distractors": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Ulysses S. Grant"
+      ],
+      "explanation": "Abraham Lincoln gave the Gettysburg Address.",
+      "memoryHook": "T-Rexy says: Lincoln gave it.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "history"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_091",
+      "question": "What war ended slavery in the United States?",
+      "correctAnswer": "The Civil War",
+      "distractors": [
+        "The Revolutionary War",
+        "World War I",
+        "The War of 1812"
+      ],
+      "explanation": "The Civil War ended slavery.",
+      "memoryHook": "T-Rexy says: The Civil War ended slavery.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "history"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_092",
+      "question": "What is the purpose of the census?",
+      "correctAnswer": "To count the population every 10 years",
+      "distractors": [
+        "To elect the President",
+        "To collect taxes",
+        "To make laws"
+      ],
+      "explanation": "The census counts the population every ten years.",
+      "memoryHook": "T-Rexy says: The census counts people.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "government"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_093",
+      "question": "What is a tax?",
+      "correctAnswer": "Money the government collects to pay for services",
+      "distractors": [
+        "A type of vote",
+        "A court fee only",
+        "A fine only"
+      ],
+      "explanation": "Taxes fund government services.",
+      "memoryHook": "T-Rexy says: Taxes fund services.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "government"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_094",
+      "question": "What is the main purpose of government?",
+      "correctAnswer": "To protect rights and provide order and services",
+      "distractors": [
+        "To control all businesses",
+        "To make everyone equal in wealth",
+        "To rule without laws"
+      ],
+      "explanation": "Government protects rights and provides order.",
+      "memoryHook": "T-Rexy says: Government protects and serves.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "principles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_095",
+      "question": "What is a jury?",
+      "correctAnswer": "A group of citizens who decide a court case",
+      "distractors": [
+        "A group of judges",
+        "A group of lawyers",
+        "A group of police officers"
+      ],
+      "explanation": "A jury is citizens who decide a case.",
+      "memoryHook": "T-Rexy says: Juries decide cases.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "courts"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_096",
+      "question": "What is the difference between a civil case and a criminal case?",
+      "correctAnswer": "A criminal case is brought by the government for breaking a law; a civil case is a dispute between people",
+      "distractors": [
+        "They are the same",
+        "A civil case is always about murder",
+        "A criminal case is about money only"
+      ],
+      "explanation": "Criminal cases are government prosecutions; civil cases are disputes.",
+      "memoryHook": "T-Rexy says: Criminal is government, civil is dispute.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "courts"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_097",
+      "question": "What is the Miranda warning?",
+      "correctAnswer": "Police must tell a person their rights when arrested",
+      "distractors": [
+        "A type of law",
+        "A court decision only",
+        "A voting rule"
+      ],
+      "explanation": "Miranda warnings tell arrested people their rights.",
+      "memoryHook": "T-Rexy says: Miranda tells rights.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "rights"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_098",
+      "question": "What is the right to remain silent?",
+      "correctAnswer": "The right not to answer police questions",
+      "distractors": [
+        "The right to vote",
+        "The right to bear arms",
+        "The right to a trial"
+      ],
+      "explanation": "The right to remain silent is in the Fifth Amendment.",
+      "memoryHook": "T-Rexy says: Silence is a right.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "rights"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_099",
+      "question": "What is a primary election?",
+      "correctAnswer": "An election to choose a party's candidate",
+      "distractors": [
+        "The final election",
+        "A court hearing",
+        "A census"
+      ],
+      "explanation": "A primary picks a party's candidate.",
+      "memoryHook": "T-Rexy says: Primaries pick candidates.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "elections"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "CIV9_100",
+      "question": "What is a general election?",
+      "correctAnswer": "The election where voters choose officeholders",
+      "distractors": [
+        "A primary election",
+        "A court hearing",
+        "A census"
+      ],
+      "explanation": "A general election chooses who holds office.",
+      "memoryHook": "T-Rexy says: General elections choose leaders.",
+      "imageUrl": "topic:civics",
+      "tags": [
+        "civics",
+        "elections"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

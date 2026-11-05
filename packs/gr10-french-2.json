@@ -1,0 +1,2015 @@
+{
+  "packId": "gr10-french-2",
+  "version": 1.0,
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "language",
+    "french",
+    "10th"
+  ],
+  "questions": [
+    {
+      "id": "FRE10_001",
+      "question": "How do you say 'hello' in French?",
+      "correctAnswer": "Bonjour",
+      "distractors": [
+        "Au revoir",
+        "Merci",
+        "S'il vous plait"
+      ],
+      "explanation": "Bonjour is the standard French greeting.",
+      "memoryHook": "T-Rexy says: Bonjour means hello.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "greetings"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_002",
+      "question": "What does 'merci' mean in English?",
+      "correctAnswer": "Thank you",
+      "distractors": [
+        "Please",
+        "Hello",
+        "Goodbye"
+      ],
+      "explanation": "Merci means thank you.",
+      "memoryHook": "T-Rexy says: Merci means thank you.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "common"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_003",
+      "question": "How do you say 'goodbye' in French?",
+      "correctAnswer": "Au revoir",
+      "distractors": [
+        "Bonjour",
+        "Merci",
+        "Bonsoir"
+      ],
+      "explanation": "Au revoir is the common way to say goodbye.",
+      "memoryHook": "T-Rexy says: Au revoir means goodbye.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "greetings"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_004",
+      "question": "What does 'la maison' mean?",
+      "correctAnswer": "The house",
+      "distractors": [
+        "The car",
+        "The school",
+        "The dog"
+      ],
+      "explanation": "La maison means the house.",
+      "memoryHook": "T-Rexy says: La maison is the house.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "home"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_005",
+      "question": "What does 'le chien' mean?",
+      "correctAnswer": "The dog",
+      "distractors": [
+        "The cat",
+        "The bird",
+        "The horse"
+      ],
+      "explanation": "Le chien means the dog.",
+      "memoryHook": "T-Rexy says: Le chien is the dog.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "animals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_006",
+      "question": "What does 'l'ecole' mean?",
+      "correctAnswer": "The school",
+      "distractors": [
+        "The library",
+        "The hospital",
+        "The store"
+      ],
+      "explanation": "L'ecole means the school.",
+      "memoryHook": "T-Rexy says: L'ecole is the school.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "places"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_007",
+      "question": "How do you say 'water' in French?",
+      "correctAnswer": "L'eau",
+      "distractors": [
+        "Le lait",
+        "Le pain",
+        "Le riz"
+      ],
+      "explanation": "L'eau means water.",
+      "memoryHook": "T-Rexy says: L'eau is water.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "food"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_008",
+      "question": "What does 'rouge' mean?",
+      "correctAnswer": "Red",
+      "distractors": [
+        "Blue",
+        "Green",
+        "Yellow"
+      ],
+      "explanation": "Rouge means red.",
+      "memoryHook": "T-Rexy says: Rouge is red.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "colors"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_009",
+      "question": "What does 'grand' mean?",
+      "correctAnswer": "Big",
+      "distractors": [
+        "Small",
+        "Tall",
+        "Fast"
+      ],
+      "explanation": "Grand means big or tall.",
+      "memoryHook": "T-Rexy says: Grand means big.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "adjectives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_010",
+      "question": "How do you say 'friend' in French?",
+      "correctAnswer": "Ami (masculine) / amie (feminine)",
+      "distractors": [
+        "Frere",
+        "Cousin",
+        "Voisin"
+      ],
+      "explanation": "Ami means friend; amie is the feminine form.",
+      "memoryHook": "T-Rexy says: Ami is friend.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "people"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_011",
+      "question": "What does 'la famille' mean?",
+      "correctAnswer": "The family",
+      "distractors": [
+        "The friend",
+        "The teacher",
+        "The student"
+      ],
+      "explanation": "La famille means the family.",
+      "memoryHook": "T-Rexy says: La famille is the family.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "people"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_012",
+      "question": "What does 'aujourd'hui' mean?",
+      "correctAnswer": "Today",
+      "distractors": [
+        "Yesterday",
+        "Tomorrow",
+        "Now"
+      ],
+      "explanation": "Aujourd'hui means today.",
+      "memoryHook": "T-Rexy says: Aujourd'hui is today.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "time"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_013",
+      "question": "How do you say 'Monday' in French?",
+      "correctAnswer": "Lundi",
+      "distractors": [
+        "Mardi",
+        "Dimanche",
+        "Vendredi"
+      ],
+      "explanation": "Lundi is Monday.",
+      "memoryHook": "T-Rexy says: Lundi is Monday.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "time"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_014",
+      "question": "What does 'le livre' mean?",
+      "correctAnswer": "The book",
+      "distractors": [
+        "The pencil",
+        "The desk",
+        "The paper"
+      ],
+      "explanation": "Le livre means the book.",
+      "memoryHook": "T-Rexy says: Le livre is the book.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "school"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_015",
+      "question": "What does 'manger' mean?",
+      "correctAnswer": "To eat",
+      "distractors": [
+        "To drink",
+        "To sleep",
+        "To run"
+      ],
+      "explanation": "Manger means to eat.",
+      "memoryHook": "T-Rexy says: Manger is to eat.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "verbs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_016",
+      "question": "What does 'boire' mean?",
+      "correctAnswer": "To drink",
+      "distractors": [
+        "To eat",
+        "To read",
+        "To write"
+      ],
+      "explanation": "Boire means to drink.",
+      "memoryHook": "T-Rexy says: Boire is to drink.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "verbs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_017",
+      "question": "How do you say 'thank you very much' in French?",
+      "correctAnswer": "Merci beaucoup",
+      "distractors": [
+        "De rien",
+        "S'il vous plait",
+        "Je suis desole"
+      ],
+      "explanation": "Merci beaucoup means thank you very much.",
+      "memoryHook": "T-Rexy says: Merci beaucoup means thanks a lot.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "common"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_018",
+      "question": "What does 'la table' mean?",
+      "correctAnswer": "The table",
+      "distractors": [
+        "The chair",
+        "The bed",
+        "The door"
+      ],
+      "explanation": "La table means the table.",
+      "memoryHook": "T-Rexy says: La table is the table.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "home"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_019",
+      "question": "What does 'heureux' mean?",
+      "correctAnswer": "Happy",
+      "distractors": [
+        "Sad",
+        "Angry",
+        "Tired"
+      ],
+      "explanation": "Heureux means happy.",
+      "memoryHook": "T-Rexy says: Heureux is happy.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "adjectives"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_020",
+      "question": "How do you say 'I love you' in French?",
+      "correctAnswer": "Je t'aime",
+      "distractors": [
+        "Je te deteste",
+        "Je te connais",
+        "Je te vois"
+      ],
+      "explanation": "Je t'aime is how to say I love you.",
+      "memoryHook": "T-Rexy says: Je t'aime means I love you.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "common"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_021",
+      "question": "What does 'la ville' mean?",
+      "correctAnswer": "The city",
+      "distractors": [
+        "The town",
+        "The village",
+        "The country"
+      ],
+      "explanation": "La ville means the city.",
+      "memoryHook": "T-Rexy says: La ville is the city.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "places"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_022",
+      "question": "What does 'le train' mean?",
+      "correctAnswer": "The train",
+      "distractors": [
+        "The bus",
+        "The car",
+        "The plane"
+      ],
+      "explanation": "Le train means the train.",
+      "memoryHook": "T-Rexy says: Le train is the train.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "travel"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_023",
+      "question": "What does 'la fenetre' mean?",
+      "correctAnswer": "The window",
+      "distractors": [
+        "The door",
+        "The wall",
+        "The roof"
+      ],
+      "explanation": "La fenetre means the window.",
+      "memoryHook": "T-Rexy says: La fenetre is the window.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "home"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_024",
+      "question": "What does 'vite' mean?",
+      "correctAnswer": "Fast",
+      "distractors": [
+        "Slow",
+        "Strong",
+        "Quiet"
+      ],
+      "explanation": "Vite means fast or quickly.",
+      "memoryHook": "T-Rexy says: Vite means fast.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "adjectives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_025",
+      "question": "What does 'les devoirs' mean?",
+      "correctAnswer": "The homework",
+      "distractors": [
+        "The test",
+        "The lesson",
+        "The grade"
+      ],
+      "explanation": "Les devoirs means homework.",
+      "memoryHook": "T-Rexy says: Les devoirs is homework.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "school"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_026",
+      "question": "What is the correct present tense form of 'parler' for 'je'?",
+      "correctAnswer": "je parle",
+      "distractors": [
+        "je parles",
+        "je parlons",
+        "je parlent"
+      ],
+      "explanation": "For -er verbs, the je form ends in -e: je parle.",
+      "memoryHook": "T-Rexy says: Je parle, I speak.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "present"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_027",
+      "question": "What is the correct present tense form of 'manger' for 'tu'?",
+      "correctAnswer": "tu manges",
+      "distractors": [
+        "tu mange",
+        "tu mangeons",
+        "tu mangent"
+      ],
+      "explanation": "For -er verbs, the tu form ends in -es: tu manges.",
+      "memoryHook": "T-Rexy says: Tu manges, you eat.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "present"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_028",
+      "question": "What is the correct present tense form of 'finir' for 'il'?",
+      "correctAnswer": "il finit",
+      "distractors": [
+        "il finis",
+        "il finissons",
+        "il finissent"
+      ],
+      "explanation": "For -ir verbs, the il form ends in -it: il finit.",
+      "memoryHook": "T-Rexy says: Il finit, he finishes.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "present"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_029",
+      "question": "What is the correct present tense form of 'parler' for 'nous'?",
+      "correctAnswer": "nous parlons",
+      "distractors": [
+        "nous parlez",
+        "nous parlent",
+        "nous parle"
+      ],
+      "explanation": "For -er verbs, the nous form ends in -ons: nous parlons.",
+      "memoryHook": "T-Rexy says: Nous parlons, we speak.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "present"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_030",
+      "question": "What is the correct present tense form of 'finir' for 'ils'?",
+      "correctAnswer": "ils finissent",
+      "distractors": [
+        "ils finit",
+        "ils finis",
+        "ils finissons"
+      ],
+      "explanation": "For -ir verbs, the ils form ends in -issent: ils finissent.",
+      "memoryHook": "T-Rexy says: Ils finissent, they finish.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "present"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_031",
+      "question": "What is the correct present tense form of 'etre' for 'je'?",
+      "correctAnswer": "je suis",
+      "distractors": [
+        "je es",
+        "je est",
+        "je sont"
+      ],
+      "explanation": "Etre is irregular: je suis.",
+      "memoryHook": "T-Rexy says: Je suis, I am.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "etre"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_032",
+      "question": "What is the correct present tense form of 'aller' for 'nous'?",
+      "correctAnswer": "nous allons",
+      "distractors": [
+        "nous allez",
+        "nous vont",
+        "nous vas"
+      ],
+      "explanation": "Aller is irregular: nous allons.",
+      "memoryHook": "T-Rexy says: Nous allons, we go.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "aller"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_033",
+      "question": "What is the correct present tense form of 'avoir' for 'tu'?",
+      "correctAnswer": "tu as",
+      "distractors": [
+        "tu ai",
+        "tu a",
+        "tu avons"
+      ],
+      "explanation": "Avoir is irregular: tu as.",
+      "memoryHook": "T-Rexy says: Tu as, you have.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "avoir"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_034",
+      "question": "What does 'etre' mean, and when is it used?",
+      "correctAnswer": "To be, for identity, traits, and origin",
+      "distractors": [
+        "To be, for temporary feelings only",
+        "To have",
+        "To go"
+      ],
+      "explanation": "Etre is used for identity, characteristics, and origin.",
+      "memoryHook": "T-Rexy says: Etre is for what something is.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "etre"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_035",
+      "question": "What is the correct present tense form of 'faire' for 'il'?",
+      "correctAnswer": "il fait",
+      "distractors": [
+        "il fais",
+        "il font",
+        "il faisons"
+      ],
+      "explanation": "Faire is irregular: il fait.",
+      "memoryHook": "T-Rexy says: Il fait, he does or makes.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "faire"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_036",
+      "question": "Choose the correct sentence: 'Marie ___ a l'ecole.'",
+      "correctAnswer": "est",
+      "distractors": [
+        "a",
+        "sont",
+        "etes"
+      ],
+      "explanation": "Location uses etre: Marie est a l'ecole.",
+      "memoryHook": "T-Rexy says: Etre is used for location.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "etre"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_037",
+      "question": "Choose the correct sentence: 'Ils ___ etudiants.'",
+      "correctAnswer": "sont",
+      "distractors": [
+        "est",
+        "suis",
+        "etes"
+      ],
+      "explanation": "Ils sont etudiants: they are students.",
+      "memoryHook": "T-Rexy says: Ils sont means they are.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "etre"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_038",
+      "question": "What is the correct present tense form of 'vouloir' for 'je'?",
+      "correctAnswer": "je veux",
+      "distractors": [
+        "je veut",
+        "je voulons",
+        "je voulez"
+      ],
+      "explanation": "Vouloir is irregular: je veux.",
+      "memoryHook": "T-Rexy says: Je veux, I want.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "irregular"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_039",
+      "question": "What is the correct present tense form of 'pouvoir' for 'il'?",
+      "correctAnswer": "il peut",
+      "distractors": [
+        "il peux",
+        "il pouvons",
+        "il peuvent"
+      ],
+      "explanation": "Pouvoir is irregular: il peut.",
+      "memoryHook": "T-Rexy says: Il peut, he can.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "irregular"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_040",
+      "question": "What is the correct present tense form of 'dormir' for 'nous'?",
+      "correctAnswer": "nous dormons",
+      "distractors": [
+        "nous dorment",
+        "nous dors",
+        "nous dormez"
+      ],
+      "explanation": "Dormir: nous dormons.",
+      "memoryHook": "T-Rexy says: Nous dormons, we sleep.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "irregular"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_041",
+      "question": "What is the correct present tense form of 'venir' for 'je'?",
+      "correctAnswer": "je viens",
+      "distractors": [
+        "je vient",
+        "je venons",
+        "je venez"
+      ],
+      "explanation": "Venir is irregular: je viens.",
+      "memoryHook": "T-Rexy says: Je viens, I come.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "irregular"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_042",
+      "question": "What is the correct present tense form of 'savoir' for 'je'?",
+      "correctAnswer": "je sais",
+      "distractors": [
+        "je savons",
+        "je sait",
+        "je savez"
+      ],
+      "explanation": "Savoir is irregular: je sais.",
+      "memoryHook": "T-Rexy says: Je sais, I know.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "irregular"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_043",
+      "question": "What is the correct present tense form of 'dire' for 'il'?",
+      "correctAnswer": "il dit",
+      "distractors": [
+        "il dis",
+        "il disent",
+        "il disons"
+      ],
+      "explanation": "Dire: il dit.",
+      "memoryHook": "T-Rexy says: Il dit, he says.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "irregular"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_044",
+      "question": "What is the correct present tense form of 'voir' for 'tu'?",
+      "correctAnswer": "tu vois",
+      "distractors": [
+        "tu voit",
+        "tu voyons",
+        "tu voient"
+      ],
+      "explanation": "Voir: tu vois.",
+      "memoryHook": "T-Rexy says: Tu vois, you see.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "irregular"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_045",
+      "question": "What is the correct present tense form of 'prendre' for 'je'?",
+      "correctAnswer": "je prends",
+      "distractors": [
+        "je prend",
+        "je prenons",
+        "je prennent"
+      ],
+      "explanation": "Prendre is irregular: je prends.",
+      "memoryHook": "T-Rexy says: Je prends, I take.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "irregular"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_046",
+      "question": "What does 'j'aime' mean?",
+      "correctAnswer": "I like or I love",
+      "distractors": [
+        "I want",
+        "I need",
+        "I hate"
+      ],
+      "explanation": "J'aime means I like or I love.",
+      "memoryHook": "T-Rexy says: J'aime means I like.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "aimer"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_047",
+      "question": "How do you say 'I like the books' in French?",
+      "correctAnswer": "J'aime les livres",
+      "distractors": [
+        "J'aime le livres",
+        "J'aimes les livres",
+        "J'aime les livre"
+      ],
+      "explanation": "J'aime les livres: les livres is plural, so use les.",
+      "memoryHook": "T-Rexy says: J'aime les livres means I like the books.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "aimer"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_048",
+      "question": "What is the correct form: 'Tu ___ le football.'",
+      "correctAnswer": "aimes",
+      "distractors": [
+        "aime",
+        "aimons",
+        "aiment"
+      ],
+      "explanation": "Tu aimes: the tu form of aimer is aimes.",
+      "memoryHook": "T-Rexy says: Tu aimes means you like.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "aimer"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_049",
+      "question": "What is the present tense form of 'etre' for 'vous'?",
+      "correctAnswer": "vous etes",
+      "distractors": [
+        "vous est",
+        "vous sommes",
+        "vous sont"
+      ],
+      "explanation": "Etre: vous etes.",
+      "memoryHook": "T-Rexy says: Vous etes, you are.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "etre"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_050",
+      "question": "What is the present tense form of 'avoir' for 'ils'?",
+      "correctAnswer": "ils ont",
+      "distractors": [
+        "ils a",
+        "ils as",
+        "ils avons"
+      ],
+      "explanation": "Avoir: ils ont.",
+      "memoryHook": "T-Rexy says: Ils ont, they have.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "avoir"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_051",
+      "question": "What is the passe compose used for?",
+      "correctAnswer": "Completed actions in the past",
+      "distractors": [
+        "Ongoing past actions",
+        "Future plans",
+        "Commands"
+      ],
+      "explanation": "The passe compose tells what happened at a specific completed moment.",
+      "memoryHook": "T-Rexy says: Passe compose is for what happened, done.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "passe-compose"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_052",
+      "question": "What is the passe compose of 'parler' for 'je'?",
+      "correctAnswer": "j'ai parle",
+      "distractors": [
+        "je parle",
+        "je parlais",
+        "je parlerai"
+      ],
+      "explanation": "Passe compose uses avoir plus the past participle: j'ai parle.",
+      "memoryHook": "T-Rexy says: J'ai parle means I spoke.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "passe-compose"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_053",
+      "question": "What is the passe compose of 'manger' for 'elle'?",
+      "correctAnswer": "elle a mange",
+      "distractors": [
+        "elle mange",
+        "elle mangeait",
+        "elle mangera"
+      ],
+      "explanation": "Elle a mange: she ate.",
+      "memoryHook": "T-Rexy says: Elle a mange means she ate.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "passe-compose"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_054",
+      "question": "What is the passe compose of 'aller' for 'je'?",
+      "correctAnswer": "je suis alle(e)",
+      "distractors": [
+        "j'ai alle",
+        "je vais",
+        "j'allais"
+      ],
+      "explanation": "Aller uses etre in the passe compose: je suis alle.",
+      "memoryHook": "T-Rexy says: Je suis alle means I went.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "passe-compose"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_055",
+      "question": "What is the passe compose of 'venir' for 'ils'?",
+      "correctAnswer": "ils sont venus",
+      "distractors": [
+        "ils ont venu",
+        "ils viennent",
+        "ils venaient"
+      ],
+      "explanation": "Venir uses etre: ils sont venus.",
+      "memoryHook": "T-Rexy says: Ils sont venus means they came.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "passe-compose"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_056",
+      "question": "What is the past participle of 'finir'?",
+      "correctAnswer": "fini",
+      "distractors": [
+        "finis",
+        "finissant",
+        "finir"
+      ],
+      "explanation": "The past participle of -ir verbs ends in -i: fini.",
+      "memoryHook": "T-Rexy says: Fini is the past participle of finir.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "participles"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_057",
+      "question": "What is the past participle of 'prendre'?",
+      "correctAnswer": "pris",
+      "distractors": [
+        "prendu",
+        "prenne",
+        "prend"
+      ],
+      "explanation": "Prendre has the irregular past participle pris.",
+      "memoryHook": "T-Rexy says: Pris is the past participle of prendre.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "participles"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_058",
+      "question": "What is the imparfait used for?",
+      "correctAnswer": "Ongoing or repeated past actions and descriptions",
+      "distractors": [
+        "Completed past actions",
+        "Future plans",
+        "Commands"
+      ],
+      "explanation": "The imparfait describes what was happening or used to happen.",
+      "memoryHook": "T-Rexy says: Imparfait is for what was going on.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "imparfait"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_059",
+      "question": "What is the imparfait of 'parler' for 'tu'?",
+      "correctAnswer": "tu parlais",
+      "distractors": [
+        "tu as parle",
+        "tu parles",
+        "tu parleras"
+      ],
+      "explanation": "The imparfait tu form of -er verbs ends in -ais: tu parlais.",
+      "memoryHook": "T-Rexy says: Tu parlais means you were speaking.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "imparfait"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_060",
+      "question": "What is the imparfait of 'etre' for 'nous'?",
+      "correctAnswer": "nous etions",
+      "distractors": [
+        "nous sommes",
+        "nous avons ete",
+        "nous serons"
+      ],
+      "explanation": "Etre in the imparfait: nous etions.",
+      "memoryHook": "T-Rexy says: Nous etions means we were.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "imparfait"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_061",
+      "question": "Choose the correct form: 'Hier, je ___ a l'ecole.'",
+      "correctAnswer": "suis alle(e)",
+      "distractors": [
+        "vais",
+        "allais",
+        "irai"
+      ],
+      "explanation": "Hier (yesterday) with a completed action takes the passe compose: je suis alle.",
+      "memoryHook": "T-Rexy says: Hier plus a finished action is passe compose.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "passe-compose"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_062",
+      "question": "Choose the correct form: 'Quand j'etais petit, je ___ beaucoup.'",
+      "correctAnswer": "jouais",
+      "distractors": [
+        "ai joue",
+        "joue",
+        "jouerai"
+      ],
+      "explanation": "Quand j'etais petit describes a repeated past habit, so use the imparfait: jouais.",
+      "memoryHook": "T-Rexy says: Used to play is imparfait.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "imparfait"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_063",
+      "question": "What is the passe compose of 'faire' for 'il'?",
+      "correctAnswer": "il a fait",
+      "distractors": [
+        "il fait",
+        "il faisait",
+        "il fera"
+      ],
+      "explanation": "Faire: il a fait.",
+      "memoryHook": "T-Rexy says: Il a fait means he did or made.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "passe-compose"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_064",
+      "question": "What is the passe compose of 'dire' for 'elles'?",
+      "correctAnswer": "elles ont dit",
+      "distractors": [
+        "elles disent",
+        "elles disaient",
+        "elles diront"
+      ],
+      "explanation": "Dire: elles ont dit.",
+      "memoryHook": "T-Rexy says: Elles ont dit means they said.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "passe-compose"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_065",
+      "question": "What is the imparfait of 'aller' for 'je'?",
+      "correctAnswer": "j'allais",
+      "distractors": [
+        "je suis alle",
+        "je vais",
+        "j'irai"
+      ],
+      "explanation": "Aller in the imparfait: j'allais.",
+      "memoryHook": "T-Rexy says: J'allais means I was going.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "imparfait"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_066",
+      "question": "What is the passe compose of 'voir' for 'tu'?",
+      "correctAnswer": "tu as vu",
+      "distractors": [
+        "tu vois",
+        "tu voyais",
+        "tu verras"
+      ],
+      "explanation": "Voir: tu as vu.",
+      "memoryHook": "T-Rexy says: Tu as vu means you saw.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "passe-compose"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_067",
+      "question": "What is the imparfait of 'vivre' for 'ils'?",
+      "correctAnswer": "ils vivaient",
+      "distractors": [
+        "ils vivent",
+        "ils ont vecu",
+        "ils vivront"
+      ],
+      "explanation": "Vivre in the imparfait: ils vivaient.",
+      "memoryHook": "T-Rexy says: Ils vivaient means they were living.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "imparfait"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_068",
+      "question": "What is the passe compose of 'ecrire' for 'nous'?",
+      "correctAnswer": "nous avons ecrit",
+      "distractors": [
+        "nous ecrivons",
+        "nous ecrivions",
+        "nous ecrirons"
+      ],
+      "explanation": "Ecrire: nous avons ecrit.",
+      "memoryHook": "T-Rexy says: Nous avons ecrit means we wrote.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "passe-compose"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_069",
+      "question": "Choose the correct form: 'Pendant que je cuisinais, il ___ la table.'",
+      "correctAnswer": "a mis",
+      "distractors": [
+        "mettait",
+        "met",
+        "mettra"
+      ],
+      "explanation": "A completed action interrupting an ongoing one takes the passe compose: il a mis.",
+      "memoryHook": "T-Rexy says: The interruption is passe compose.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "passe-imparfait"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_070",
+      "question": "What is the imparfait of 'avoir' for 'il'?",
+      "correctAnswer": "il avait",
+      "distractors": [
+        "il a eu",
+        "il a",
+        "il aura"
+      ],
+      "explanation": "Avoir in the imparfait: il avait.",
+      "memoryHook": "T-Rexy says: Il avait means he had.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "imparfait"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_071",
+      "question": "What is the futur simple of 'parler' for 'je'?",
+      "correctAnswer": "je parlerai",
+      "distractors": [
+        "je parle",
+        "je parlais",
+        "j'ai parle"
+      ],
+      "explanation": "The futur simple adds -ai to the infinitive for je: je parlerai.",
+      "memoryHook": "T-Rexy says: Je parlerai means I will speak.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "future"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_072",
+      "question": "What is the futur simple of 'avoir' for 'il'?",
+      "correctAnswer": "il aura",
+      "distractors": [
+        "il a",
+        "il avait",
+        "il a eu"
+      ],
+      "explanation": "Avoir is irregular in the future: il aura.",
+      "memoryHook": "T-Rexy says: Il aura means he will have.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "future"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_073",
+      "question": "How do you give a formal command for 'parler' to 'vous'?",
+      "correctAnswer": "Parlez",
+      "distractors": [
+        "Parle",
+        "Parlons",
+        "Parler"
+      ],
+      "explanation": "The vous command uses the vous present form: parlez.",
+      "memoryHook": "T-Rexy says: Parlez is the polite command.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "commands"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_074",
+      "question": "How do you give an informal command for 'manger' to 'tu'?",
+      "correctAnswer": "Mange",
+      "distractors": [
+        "Manges",
+        "Mangez",
+        "Manger"
+      ],
+      "explanation": "The tu affirmative command drops the final s: mange.",
+      "memoryHook": "T-Rexy says: Mange means eat, as a command.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "commands"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_075",
+      "question": "What is the direct object pronoun for 'le livre'?",
+      "correctAnswer": "le",
+      "distractors": [
+        "lui",
+        "la",
+        "les"
+      ],
+      "explanation": "Le livre is masculine singular, so its direct object pronoun is le.",
+      "memoryHook": "T-Rexy says: Le replaces a masculine singular thing.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "grammar",
+        "pronouns"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_076",
+      "question": "What is the indirect object pronoun for 'a Marie'?",
+      "correctAnswer": "lui",
+      "distractors": [
+        "le",
+        "la",
+        "me"
+      ],
+      "explanation": "A Marie is the recipient, so use the indirect object pronoun lui.",
+      "memoryHook": "T-Rexy says: Lui means to her or to him.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "grammar",
+        "pronouns"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_077",
+      "question": "Which adjective agrees with 'les maisons'?",
+      "correctAnswer": "belles",
+      "distractors": [
+        "beau",
+        "belle",
+        "beaux"
+      ],
+      "explanation": "Les maisons is feminine plural, so the adjective is belles.",
+      "memoryHook": "T-Rexy says: Adjectives match the noun in gender and number.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "grammar",
+        "adjectives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_078",
+      "question": "Where does the adjective usually go in French?",
+      "correctAnswer": "After the noun",
+      "distractors": [
+        "Before the noun",
+        "At the start of the sentence",
+        "After the verb only"
+      ],
+      "explanation": "In French, most descriptive adjectives follow the noun: maison blanche.",
+      "memoryHook": "T-Rexy says: In French the adjective usually follows the noun.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "grammar",
+        "adjectives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_079",
+      "question": "What is the difference between 'savoir' and 'connaitre'?",
+      "correctAnswer": "Savoir is knowing facts; connaitre is knowing people or places",
+      "distractors": [
+        "They mean the same thing",
+        "Savoir is for places only",
+        "Connaitre is for facts only"
+      ],
+      "explanation": "Savoir is to know information; connaitre is to be familiar with people or places.",
+      "memoryHook": "T-Rexy says: Savoir is facts, connaitre is familiarity.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "verbs",
+        "savoir-connaitre"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_080",
+      "question": "What is the comparative form: 'Marie est ___ grande que Anne.'",
+      "correctAnswer": "plus",
+      "distractors": [
+        "moins",
+        "aussi",
+        "tres"
+      ],
+      "explanation": "Plus means more: plus grande que Anne means taller than Anne.",
+      "memoryHook": "T-Rexy says: Plus means more.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "grammar",
+        "comparatives"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_081",
+      "question": "What is the superlative: 'C'est le livre ___ interessant de tous.'",
+      "correctAnswer": "le plus",
+      "distractors": [
+        "le moins",
+        "aussi",
+        "tres"
+      ],
+      "explanation": "Le plus interessant de tous means the most interesting of all.",
+      "memoryHook": "T-Rexy says: Le plus means the most.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "grammar",
+        "comparatives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_082",
+      "question": "What is the capital of France?",
+      "correctAnswer": "Paris",
+      "distractors": [
+        "Lyon",
+        "Marseille",
+        "Nice"
+      ],
+      "explanation": "Paris is the capital of France.",
+      "memoryHook": "T-Rexy says: Paris is France's capital.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "culture",
+        "france"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_083",
+      "question": "What is the Eiffel Tower?",
+      "correctAnswer": "A famous iron tower in Paris built for the 1889 World's Fair",
+      "distractors": [
+        "A castle in the Loire Valley",
+        "A cathedral in Paris",
+        "A museum in Lyon"
+      ],
+      "explanation": "The Eiffel Tower was built in Paris for the 1889 Exposition Universelle.",
+      "memoryHook": "T-Rexy says: The Eiffel Tower was built for the 1889 fair.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "culture",
+        "france"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_084",
+      "question": "What is the currency of France?",
+      "correctAnswer": "The euro",
+      "distractors": [
+        "The franc",
+        "The dollar",
+        "The pound"
+      ],
+      "explanation": "France uses the euro.",
+      "memoryHook": "T-Rexy says: France's money is the euro.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "culture",
+        "france"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_085",
+      "question": "What is 'la Bastille' associated with?",
+      "correctAnswer": "The French Revolution, stormed on July 14, 1789",
+      "distractors": [
+        "The First World War",
+        "The Renaissance",
+        "The Roman Empire"
+      ],
+      "explanation": "The storming of the Bastille in 1789 began the French Revolution.",
+      "memoryHook": "T-Rexy says: The Bastille fell on July 14, 1789.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "culture",
+        "history"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_086",
+      "question": "Which French artist painted the water lilies?",
+      "correctAnswer": "Claude Monet",
+      "distractors": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Henri Matisse"
+      ],
+      "explanation": "Monet painted his famous water lilies series at Giverny.",
+      "memoryHook": "T-Rexy says: Monet painted water lilies at Giverny.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "culture",
+        "art"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_087",
+      "question": "What is a croissant?",
+      "correctAnswer": "A buttery, crescent-shaped French pastry",
+      "distractors": [
+        "A type of bread only for breakfast in Italy",
+        "A French cheese",
+        "A French soup"
+      ],
+      "explanation": "A croissant is a flaky, buttery pastry shaped like a crescent.",
+      "memoryHook": "T-Rexy says: A croissant is a flaky butter pastry.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "culture",
+        "food"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_088",
+      "question": "What does 'bonsoir' mean?",
+      "correctAnswer": "Good evening",
+      "distractors": [
+        "Good morning",
+        "Good night",
+        "Goodbye"
+      ],
+      "explanation": "Bonsoir is used in the evening.",
+      "memoryHook": "T-Rexy says: Bonsoir is good evening.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "greetings"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_089",
+      "question": "What does 'a demain' mean?",
+      "correctAnswer": "See you tomorrow",
+      "distractors": [
+        "See you later",
+        "Goodbye forever",
+        "See you yesterday"
+      ],
+      "explanation": "A demain means until tomorrow.",
+      "memoryHook": "T-Rexy says: A demain is see you tomorrow.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "common"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_090",
+      "question": "What is the correct question word for 'where'?",
+      "correctAnswer": "Ou",
+      "distractors": [
+        "Quand",
+        "Comment",
+        "Pourquoi"
+      ],
+      "explanation": "Ou means where.",
+      "memoryHook": "T-Rexy says: Ou is where.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "grammar",
+        "questions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_091",
+      "question": "What is the correct question word for 'why'?",
+      "correctAnswer": "Pourquoi",
+      "distractors": [
+        "Quand",
+        "Ou",
+        "Qui"
+      ],
+      "explanation": "Pourquoi means why.",
+      "memoryHook": "T-Rexy says: Pourquoi is why.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "grammar",
+        "questions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_092",
+      "question": "What is the correct question word for 'when'?",
+      "correctAnswer": "Quand",
+      "distractors": [
+        "Ou",
+        "Comment",
+        "Qui"
+      ],
+      "explanation": "Quand means when.",
+      "memoryHook": "T-Rexy says: Quand is when.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "grammar",
+        "questions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_093",
+      "question": "What is the correct question word for 'how'?",
+      "correctAnswer": "Comment",
+      "distractors": [
+        "Quand",
+        "Ou",
+        "Qui"
+      ],
+      "explanation": "Comment means how.",
+      "memoryHook": "T-Rexy says: Comment is how.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "grammar",
+        "questions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_094",
+      "question": "What is the correct question word for 'who'?",
+      "correctAnswer": "Qui",
+      "distractors": [
+        "Quand",
+        "Ou",
+        "Comment"
+      ],
+      "explanation": "Qui means who.",
+      "memoryHook": "T-Rexy says: Qui is who.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "grammar",
+        "questions"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_095",
+      "question": "How do you say 'I am 15 years old' in French?",
+      "correctAnswer": "J'ai quinze ans",
+      "distractors": [
+        "Je suis quinze ans",
+        "Je suis quinze",
+        "J'ai quinze an"
+      ],
+      "explanation": "Age uses avoir: j'ai quinze ans.",
+      "memoryHook": "T-Rexy says: Age uses avoir in French.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "grammar",
+        "age"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_096",
+      "question": "What is the plural of 'le journal'?",
+      "correctAnswer": "les journaux",
+      "distractors": [
+        "les journals",
+        "les journal",
+        "les journale"
+      ],
+      "explanation": "Journal becomes journaux in the plural, an irregular -al to -aux change.",
+      "memoryHook": "T-Rexy says: Journal becomes journaux.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "grammar",
+        "plurals"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_097",
+      "question": "What does 's'il vous plait' mean?",
+      "correctAnswer": "Please",
+      "distractors": [
+        "Thank you",
+        "Excuse me",
+        "You're welcome"
+      ],
+      "explanation": "S'il vous plait is the polite way to say please.",
+      "memoryHook": "T-Rexy says: S'il vous plait means please.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "common"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_098",
+      "question": "What does 'de rien' mean?",
+      "correctAnswer": "You're welcome",
+      "distractors": [
+        "Thank you",
+        "Please",
+        "Goodbye"
+      ],
+      "explanation": "De rien is a common reply to merci.",
+      "memoryHook": "T-Rexy says: De rien means you're welcome.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "vocabulary",
+        "common"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_099",
+      "question": "What is the feminine form of 'beau'?",
+      "correctAnswer": "belle",
+      "distractors": [
+        "beau",
+        "belles",
+        "beaux"
+      ],
+      "explanation": "Beau becomes belle in the feminine singular.",
+      "memoryHook": "T-Rexy says: Beau becomes belle.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "grammar",
+        "adjectives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "FRE10_100",
+      "question": "What is the feminine form of 'nouveau'?",
+      "correctAnswer": "nouvelle",
+      "distractors": [
+        "nouveau",
+        "nouveaux",
+        "nouvelles"
+      ],
+      "explanation": "Nouveau becomes nouvelle in the feminine singular.",
+      "memoryHook": "T-Rexy says: Nouveau becomes nouvelle.",
+      "imageUrl": "topic:french-2",
+      "tags": [
+        "grammar",
+        "adjectives"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

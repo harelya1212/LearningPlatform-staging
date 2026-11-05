@@ -1,0 +1,2015 @@
+{
+  "packId": "gr9-physical-science",
+  "version": 1.0,
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "science",
+    "physical-science",
+    "9th"
+  ],
+  "questions": [
+    {
+      "id": "PSC9_001",
+      "question": "A car travels 90 miles in 5 hours. What is its average speed?",
+      "correctAnswer": "18 miles per hour",
+      "distractors": [
+        "28 miles per hour",
+        "13 miles per hour",
+        "450 miles per hour"
+      ],
+      "explanation": "Speed is distance over time: 90 / 5 = 18 miles per hour.",
+      "memoryHook": "T-Rexy says: Speed is distance divided by time.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "motion",
+        "speed"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_002",
+      "question": "A car travels 240 miles in 5 hours. What is its average speed?",
+      "correctAnswer": "48 miles per hour",
+      "distractors": [
+        "58 miles per hour",
+        "43 miles per hour",
+        "1200 miles per hour"
+      ],
+      "explanation": "Speed is distance over time: 240 / 5 = 48 miles per hour.",
+      "memoryHook": "T-Rexy says: Speed is distance divided by time.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "motion",
+        "speed"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_003",
+      "question": "A car travels 240 miles in 4 hours. What is its average speed?",
+      "correctAnswer": "60 miles per hour",
+      "distractors": [
+        "70 miles per hour",
+        "55 miles per hour",
+        "960 miles per hour"
+      ],
+      "explanation": "Speed is distance over time: 240 / 4 = 60 miles per hour.",
+      "memoryHook": "T-Rexy says: Speed is distance divided by time.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "motion",
+        "speed"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_004",
+      "question": "A car travels 150 miles in 3 hours. What is its average speed?",
+      "correctAnswer": "50 miles per hour",
+      "distractors": [
+        "60 miles per hour",
+        "45 miles per hour",
+        "450 miles per hour"
+      ],
+      "explanation": "Speed is distance over time: 150 / 3 = 50 miles per hour.",
+      "memoryHook": "T-Rexy says: Speed is distance divided by time.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "motion",
+        "speed"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_005",
+      "question": "A car travels 180 miles in 3 hours. What is its average speed?",
+      "correctAnswer": "60 miles per hour",
+      "distractors": [
+        "70 miles per hour",
+        "55 miles per hour",
+        "540 miles per hour"
+      ],
+      "explanation": "Speed is distance over time: 180 / 3 = 60 miles per hour.",
+      "memoryHook": "T-Rexy says: Speed is distance divided by time.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "motion",
+        "speed"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_006",
+      "question": "A car travels 200 miles in 3 hours. What is its average speed?",
+      "correctAnswer": "66 miles per hour",
+      "distractors": [
+        "76 miles per hour",
+        "61 miles per hour",
+        "600 miles per hour"
+      ],
+      "explanation": "Speed is distance over time: 200 / 3 = 66 miles per hour.",
+      "memoryHook": "T-Rexy says: Speed is distance divided by time.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "motion",
+        "speed"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_007",
+      "question": "A car travels 60 miles in 2 hours. What is its average speed?",
+      "correctAnswer": "30 miles per hour",
+      "distractors": [
+        "40 miles per hour",
+        "25 miles per hour",
+        "120 miles per hour"
+      ],
+      "explanation": "Speed is distance over time: 60 / 2 = 30 miles per hour.",
+      "memoryHook": "T-Rexy says: Speed is distance divided by time.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "motion",
+        "speed"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_008",
+      "question": "An object moves at 30 meters per second for 5 seconds. How far does it travel?",
+      "correctAnswer": "150 meters",
+      "distractors": [
+        "170 meters",
+        "140 meters",
+        "35 meters"
+      ],
+      "explanation": "Distance is speed times time: 30 times 5 = 150 meters.",
+      "memoryHook": "T-Rexy says: Distance is speed times time.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "motion",
+        "distance"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_009",
+      "question": "An object moves at 10 meters per second for 3 seconds. How far does it travel?",
+      "correctAnswer": "30 meters",
+      "distractors": [
+        "50 meters",
+        "20 meters",
+        "13 meters"
+      ],
+      "explanation": "Distance is speed times time: 10 times 3 = 30 meters.",
+      "memoryHook": "T-Rexy says: Distance is speed times time.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "motion",
+        "distance"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_010",
+      "question": "An object moves at 20 meters per second for 3 seconds. How far does it travel?",
+      "correctAnswer": "60 meters",
+      "distractors": [
+        "80 meters",
+        "50 meters",
+        "23 meters"
+      ],
+      "explanation": "Distance is speed times time: 20 times 3 = 60 meters.",
+      "memoryHook": "T-Rexy says: Distance is speed times time.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "motion",
+        "distance"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_011",
+      "question": "An object moves at 10 meters per second for 5 seconds. How far does it travel?",
+      "correctAnswer": "50 meters",
+      "distractors": [
+        "70 meters",
+        "40 meters",
+        "15 meters"
+      ],
+      "explanation": "Distance is speed times time: 10 times 5 = 50 meters.",
+      "memoryHook": "T-Rexy says: Distance is speed times time.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "motion",
+        "distance"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_012",
+      "question": "An object moves at 40 meters per second for 5 seconds. How far does it travel?",
+      "correctAnswer": "200 meters",
+      "distractors": [
+        "220 meters",
+        "190 meters",
+        "45 meters"
+      ],
+      "explanation": "Distance is speed times time: 40 times 5 = 200 meters.",
+      "memoryHook": "T-Rexy says: Distance is speed times time.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "motion",
+        "distance"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_013",
+      "question": "An object moves at 10 meters per second for 4 seconds. How far does it travel?",
+      "correctAnswer": "40 meters",
+      "distractors": [
+        "60 meters",
+        "30 meters",
+        "14 meters"
+      ],
+      "explanation": "Distance is speed times time: 10 times 4 = 40 meters.",
+      "memoryHook": "T-Rexy says: Distance is speed times time.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "motion",
+        "distance"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_014",
+      "question": "An object moves at 50 meters per second for 5 seconds. How far does it travel?",
+      "correctAnswer": "250 meters",
+      "distractors": [
+        "270 meters",
+        "240 meters",
+        "55 meters"
+      ],
+      "explanation": "Distance is speed times time: 50 times 5 = 250 meters.",
+      "memoryHook": "T-Rexy says: Distance is speed times time.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "motion",
+        "distance"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_015",
+      "question": "An object accelerates at 2 meters per second squared for 5 seconds, starting from rest. What is its final speed?",
+      "correctAnswer": "10 meters per second",
+      "distractors": [
+        "15 meters per second",
+        "5 meters per second",
+        "7 meters per second"
+      ],
+      "explanation": "Final speed is acceleration times time: 2 times 5 = 10 meters per second.",
+      "memoryHook": "T-Rexy says: Speed change is acceleration times time.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "motion",
+        "acceleration"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_016",
+      "question": "An object accelerates at 2 meters per second squared for 4 seconds, starting from rest. What is its final speed?",
+      "correctAnswer": "8 meters per second",
+      "distractors": [
+        "13 meters per second",
+        "3 meters per second",
+        "6 meters per second"
+      ],
+      "explanation": "Final speed is acceleration times time: 2 times 4 = 8 meters per second.",
+      "memoryHook": "T-Rexy says: Speed change is acceleration times time.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "motion",
+        "acceleration"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_017",
+      "question": "An object accelerates at 2 meters per second squared for 3 seconds, starting from rest. What is its final speed?",
+      "correctAnswer": "6 meters per second",
+      "distractors": [
+        "11 meters per second",
+        "1 meters per second",
+        "5 meters per second"
+      ],
+      "explanation": "Final speed is acceleration times time: 2 times 3 = 6 meters per second.",
+      "memoryHook": "T-Rexy says: Speed change is acceleration times time.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "motion",
+        "acceleration"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_018",
+      "question": "An object accelerates at 2 meters per second squared for 6 seconds, starting from rest. What is its final speed?",
+      "correctAnswer": "12 meters per second",
+      "distractors": [
+        "17 meters per second",
+        "7 meters per second",
+        "8 meters per second"
+      ],
+      "explanation": "Final speed is acceleration times time: 2 times 6 = 12 meters per second.",
+      "memoryHook": "T-Rexy says: Speed change is acceleration times time.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "motion",
+        "acceleration"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_019",
+      "question": "An object accelerates at 3 meters per second squared for 5 seconds, starting from rest. What is its final speed?",
+      "correctAnswer": "15 meters per second",
+      "distractors": [
+        "20 meters per second",
+        "10 meters per second",
+        "8 meters per second"
+      ],
+      "explanation": "Final speed is acceleration times time: 3 times 5 = 15 meters per second.",
+      "memoryHook": "T-Rexy says: Speed change is acceleration times time.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "motion",
+        "acceleration"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_020",
+      "question": "An object accelerates at 5 meters per second squared for 6 seconds, starting from rest. What is its final speed?",
+      "correctAnswer": "30 meters per second",
+      "distractors": [
+        "35 meters per second",
+        "25 meters per second",
+        "11 meters per second"
+      ],
+      "explanation": "Final speed is acceleration times time: 5 times 6 = 30 meters per second.",
+      "memoryHook": "T-Rexy says: Speed change is acceleration times time.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "motion",
+        "acceleration"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_021",
+      "question": "A 4 kg object accelerates at 3 meters per second squared. What force is acting on it?",
+      "correctAnswer": "12 newtons",
+      "distractors": [
+        "22 newtons",
+        "15 newtons",
+        "10 newtons"
+      ],
+      "explanation": "Force is mass times acceleration: 4 times 3 = 12 newtons.",
+      "memoryHook": "T-Rexy says: Force is mass times acceleration.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "forces",
+        "newton"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_022",
+      "question": "A 2 kg object accelerates at 5 meters per second squared. What force is acting on it?",
+      "correctAnswer": "10 newtons",
+      "distractors": [
+        "20 newtons",
+        "13 newtons",
+        "8 newtons"
+      ],
+      "explanation": "Force is mass times acceleration: 2 times 5 = 10 newtons.",
+      "memoryHook": "T-Rexy says: Force is mass times acceleration.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "forces",
+        "newton"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_023",
+      "question": "A 4 kg object accelerates at 2 meters per second squared. What force is acting on it?",
+      "correctAnswer": "8 newtons",
+      "distractors": [
+        "18 newtons",
+        "11 newtons",
+        "6 newtons"
+      ],
+      "explanation": "Force is mass times acceleration: 4 times 2 = 8 newtons.",
+      "memoryHook": "T-Rexy says: Force is mass times acceleration.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "forces",
+        "newton"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_024",
+      "question": "A 6 kg object accelerates at 3 meters per second squared. What force is acting on it?",
+      "correctAnswer": "18 newtons",
+      "distractors": [
+        "28 newtons",
+        "21 newtons",
+        "16 newtons"
+      ],
+      "explanation": "Force is mass times acceleration: 6 times 3 = 18 newtons.",
+      "memoryHook": "T-Rexy says: Force is mass times acceleration.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "forces",
+        "newton"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_025",
+      "question": "A 2 kg object accelerates at 2 meters per second squared. What force is acting on it?",
+      "correctAnswer": "4 newtons",
+      "distractors": [
+        "14 newtons",
+        "7 newtons",
+        "24 newtons"
+      ],
+      "explanation": "Force is mass times acceleration: 2 times 2 = 4 newtons.",
+      "memoryHook": "T-Rexy says: Force is mass times acceleration.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "forces",
+        "newton"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_026",
+      "question": "What is the SI unit of force?",
+      "correctAnswer": "Newton",
+      "distractors": [
+        "Joule",
+        "Watt",
+        "Pascal"
+      ],
+      "explanation": "Force is measured in newtons.",
+      "memoryHook": "T-Rexy says: Force is measured in newtons.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "forces",
+        "units"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_027",
+      "question": "What is Newton's first law also called?",
+      "correctAnswer": "The law of inertia",
+      "distractors": [
+        "The law of action and reaction",
+        "The law of gravity",
+        "The law of acceleration"
+      ],
+      "explanation": "Newton's first law is the law of inertia.",
+      "memoryHook": "T-Rexy says: Inertia is the first law.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "forces",
+        "newton"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_028",
+      "question": "What does Newton's first law state?",
+      "correctAnswer": "An object stays at rest or in motion unless a force acts on it",
+      "distractors": [
+        "Force equals mass times acceleration",
+        "Every action has an equal reaction",
+        "Energy cannot be created"
+      ],
+      "explanation": "An object keeps its motion unless a force changes it.",
+      "memoryHook": "T-Rexy says: Objects keep doing what they are doing.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "forces",
+        "newton"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_029",
+      "question": "What is Newton's second law?",
+      "correctAnswer": "Force equals mass times acceleration",
+      "distractors": [
+        "Every action has a reaction",
+        "Objects stay in motion",
+        "Energy is conserved"
+      ],
+      "explanation": "Newton's second law is F = m times a.",
+      "memoryHook": "T-Rexy says: F equals m times a.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "forces",
+        "newton"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_030",
+      "question": "What is Newton's third law?",
+      "correctAnswer": "For every action there is an equal and opposite reaction",
+      "distractors": [
+        "Force equals mass times acceleration",
+        "Objects stay in motion",
+        "Energy cannot be destroyed"
+      ],
+      "explanation": "Every action has an equal and opposite reaction.",
+      "memoryHook": "T-Rexy says: Action and reaction are equal.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "forces",
+        "newton"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_031",
+      "question": "What force pulls objects toward Earth?",
+      "correctAnswer": "Gravity",
+      "distractors": [
+        "Friction",
+        "Magnetism",
+        "Inertia"
+      ],
+      "explanation": "Gravity pulls objects toward Earth.",
+      "memoryHook": "T-Rexy says: Gravity pulls things down.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "forces",
+        "gravity"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_032",
+      "question": "What is friction?",
+      "correctAnswer": "A force that opposes motion between surfaces",
+      "distractors": [
+        "A force that pulls objects down",
+        "A force that pushes objects apart",
+        "A type of energy"
+      ],
+      "explanation": "Friction opposes motion between touching surfaces.",
+      "memoryHook": "T-Rexy says: Friction fights motion.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "forces",
+        "friction"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_033",
+      "question": "What is the SI unit of energy?",
+      "correctAnswer": "Joule",
+      "distractors": [
+        "Newton",
+        "Watt",
+        "Volt"
+      ],
+      "explanation": "Energy is measured in joules.",
+      "memoryHook": "T-Rexy says: Energy is measured in joules.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "energy",
+        "units"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_034",
+      "question": "What is kinetic energy?",
+      "correctAnswer": "Energy of motion",
+      "distractors": [
+        "Stored energy",
+        "Heat energy",
+        "Chemical energy"
+      ],
+      "explanation": "Kinetic energy is the energy of a moving object.",
+      "memoryHook": "T-Rexy says: Moving things have kinetic energy.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "energy",
+        "kinetic"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_035",
+      "question": "What is potential energy?",
+      "correctAnswer": "Stored energy due to position",
+      "distractors": [
+        "Energy of motion",
+        "Heat energy",
+        "Sound energy"
+      ],
+      "explanation": "Potential energy is stored energy, such as a raised object.",
+      "memoryHook": "T-Rexy says: Stored energy is potential.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "energy",
+        "potential"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_036",
+      "question": "What is gravitational potential energy?",
+      "correctAnswer": "Energy stored by an object's height above the ground",
+      "distractors": [
+        "Energy of a moving object",
+        "Energy in a battery",
+        "Energy in food"
+      ],
+      "explanation": "Raising an object stores gravitational potential energy.",
+      "memoryHook": "T-Rexy says: Height stores energy.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "energy",
+        "potential"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_037",
+      "question": "What happens to kinetic energy when speed doubles?",
+      "correctAnswer": "It increases by four times",
+      "distractors": [
+        "It doubles",
+        "It stays the same",
+        "It halves"
+      ],
+      "explanation": "Kinetic energy depends on speed squared, so doubling speed quadruples it.",
+      "memoryHook": "T-Rexy says: Speed squared matters.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "energy",
+        "kinetic"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_038",
+      "question": "What is the law of conservation of energy?",
+      "correctAnswer": "Energy cannot be created or destroyed, only changed in form",
+      "distractors": [
+        "Energy can be created",
+        "Energy is always lost",
+        "Energy only comes from the Sun"
+      ],
+      "explanation": "Energy changes form but is never created or destroyed.",
+      "memoryHook": "T-Rexy says: Energy is conserved.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "energy",
+        "conservation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_039",
+      "question": "What is work in physics?",
+      "correctAnswer": "Force times distance moved in the direction of the force",
+      "distractors": [
+        "Mass times speed",
+        "Force times time",
+        "Energy divided by time"
+      ],
+      "explanation": "Work is force times distance.",
+      "memoryHook": "T-Rexy says: Work is force times distance.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "energy",
+        "work"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_040",
+      "question": "What is power?",
+      "correctAnswer": "The rate at which work is done",
+      "distractors": [
+        "The total energy used",
+        "Force times distance",
+        "Mass times acceleration"
+      ],
+      "explanation": "Power is work divided by time.",
+      "memoryHook": "T-Rexy says: Power is how fast work happens.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "energy",
+        "power"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_041",
+      "question": "What is the SI unit of power?",
+      "correctAnswer": "Watt",
+      "distractors": [
+        "Joule",
+        "Newton",
+        "Volt"
+      ],
+      "explanation": "Power is measured in watts.",
+      "memoryHook": "T-Rexy says: Power is measured in watts.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "energy",
+        "units"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_042",
+      "question": "What is the speed of light in a vacuum?",
+      "correctAnswer": "About 300,000 kilometers per second",
+      "distractors": [
+        "About 150,000 kilometers per second",
+        "About 3,000 kilometers per second",
+        "About 30,000 kilometers per second"
+      ],
+      "explanation": "Light travels at about 300,000 kilometers per second.",
+      "memoryHook": "T-Rexy says: Light is very fast.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "waves",
+        "light"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_043",
+      "question": "What type of wave is light?",
+      "correctAnswer": "Electromagnetic wave",
+      "distractors": [
+        "Sound wave",
+        "Water wave",
+        "Seismic wave"
+      ],
+      "explanation": "Light is an electromagnetic wave.",
+      "memoryHook": "T-Rexy says: Light is electromagnetic.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "waves",
+        "light"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_044",
+      "question": "What type of wave is sound?",
+      "correctAnswer": "Mechanical wave",
+      "distractors": [
+        "Electromagnetic wave",
+        "Light wave",
+        "Radio wave"
+      ],
+      "explanation": "Sound needs a medium, so it is a mechanical wave.",
+      "memoryHook": "T-Rexy says: Sound needs something to travel through.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "waves",
+        "sound"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_045",
+      "question": "What is the frequency of a wave?",
+      "correctAnswer": "The number of waves that pass a point each second",
+      "distractors": [
+        "The height of a wave",
+        "The distance between waves",
+        "The speed of a wave"
+      ],
+      "explanation": "Frequency is waves per second.",
+      "memoryHook": "T-Rexy says: Frequency counts waves per second.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "waves",
+        "properties"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_046",
+      "question": "What is wavelength?",
+      "correctAnswer": "The distance between two matching points on a wave",
+      "distractors": [
+        "The height of a wave",
+        "The number of waves per second",
+        "The speed of a wave"
+      ],
+      "explanation": "Wavelength is the distance from one crest to the next.",
+      "memoryHook": "T-Rexy says: Wavelength is crest to crest.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "waves",
+        "properties"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_047",
+      "question": "What is amplitude?",
+      "correctAnswer": "The height of a wave from its center line",
+      "distractors": [
+        "The distance between waves",
+        "The number of waves per second",
+        "The speed of a wave"
+      ],
+      "explanation": "Amplitude measures how tall a wave is.",
+      "memoryHook": "T-Rexy says: Amplitude is wave height.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "waves",
+        "properties"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_048",
+      "question": "What happens when light passes through a prism?",
+      "correctAnswer": "It splits into colors",
+      "distractors": [
+        "It disappears",
+        "It turns to sound",
+        "It stops"
+      ],
+      "explanation": "A prism refracts light into its colors.",
+      "memoryHook": "T-Rexy says: Prisms split light.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "waves",
+        "light"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_049",
+      "question": "What is reflection?",
+      "correctAnswer": "Light bouncing off a surface",
+      "distractors": [
+        "Light bending through glass",
+        "Light spreading out",
+        "Light being absorbed"
+      ],
+      "explanation": "Reflection is light bouncing back.",
+      "memoryHook": "T-Rexy says: Reflection is a bounce.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "waves",
+        "light"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_050",
+      "question": "What is refraction?",
+      "correctAnswer": "Light bending as it passes from one medium to another",
+      "distractors": [
+        "Light bouncing off a mirror",
+        "Light being absorbed",
+        "Light splitting into colors"
+      ],
+      "explanation": "Refraction bends light when it changes medium.",
+      "memoryHook": "T-Rexy says: Refraction bends light.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "waves",
+        "light"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_051",
+      "question": "What is the SI unit of temperature?",
+      "correctAnswer": "Kelvin",
+      "distractors": [
+        "Celsius",
+        "Fahrenheit",
+        "Joule"
+      ],
+      "explanation": "The SI unit of temperature is the kelvin.",
+      "memoryHook": "T-Rexy says: Kelvin is the SI temperature unit.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "matter",
+        "temperature"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_052",
+      "question": "At what temperature does water freeze at sea level?",
+      "correctAnswer": "0 degrees Celsius",
+      "distractors": [
+        "10 degrees Celsius",
+        "-10 degrees Celsius",
+        "100 degrees Celsius"
+      ],
+      "explanation": "Water freezes at 0 degrees Celsius.",
+      "memoryHook": "T-Rexy says: Water freezes at zero.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "matter",
+        "temperature"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_053",
+      "question": "At what temperature does water boil at sea level?",
+      "correctAnswer": "100 degrees Celsius",
+      "distractors": [
+        "90 degrees Celsius",
+        "80 degrees Celsius",
+        "120 degrees Celsius"
+      ],
+      "explanation": "Water boils at 100 degrees Celsius at sea level.",
+      "memoryHook": "T-Rexy says: Water boils at 100.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "matter",
+        "temperature"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_054",
+      "question": "What are the three states of matter?",
+      "correctAnswer": "Solid, liquid, and gas",
+      "distractors": [
+        "Solid, liquid, and plasma only",
+        "Liquid, gas, and vapor only",
+        "Solid, gas, and ice"
+      ],
+      "explanation": "Matter is solid, liquid, or gas.",
+      "memoryHook": "T-Rexy says: Three states: solid, liquid, gas.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "matter",
+        "states"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_055",
+      "question": "What is melting?",
+      "correctAnswer": "A solid changing into a liquid",
+      "distractors": [
+        "A liquid changing into a gas",
+        "A gas changing into a liquid",
+        "A liquid changing into a solid"
+      ],
+      "explanation": "Melting is solid to liquid.",
+      "memoryHook": "T-Rexy says: Melting is solid to liquid.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "matter",
+        "changes"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_056",
+      "question": "What is evaporation?",
+      "correctAnswer": "A liquid changing into a gas",
+      "distractors": [
+        "A solid changing into a liquid",
+        "A gas changing into a liquid",
+        "A liquid changing into a solid"
+      ],
+      "explanation": "Evaporation is liquid to gas.",
+      "memoryHook": "T-Rexy says: Evaporation is liquid to gas.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "matter",
+        "changes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_057",
+      "question": "What is condensation?",
+      "correctAnswer": "A gas changing into a liquid",
+      "distractors": [
+        "A liquid changing into a gas",
+        "A solid changing into a liquid",
+        "A liquid changing into a solid"
+      ],
+      "explanation": "Condensation is gas to liquid.",
+      "memoryHook": "T-Rexy says: Condensation is gas to liquid.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "matter",
+        "changes"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_058",
+      "question": "What is freezing?",
+      "correctAnswer": "A liquid changing into a solid",
+      "distractors": [
+        "A solid changing into a liquid",
+        "A gas changing into a liquid",
+        "A liquid changing into a gas"
+      ],
+      "explanation": "Freezing is liquid to solid.",
+      "memoryHook": "T-Rexy says: Freezing is liquid to solid.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "matter",
+        "changes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_059",
+      "question": "What is an atom?",
+      "correctAnswer": "The smallest unit of an element",
+      "distractors": [
+        "A type of molecule",
+        "A cell",
+        "A compound"
+      ],
+      "explanation": "An atom is the smallest unit of an element.",
+      "memoryHook": "T-Rexy says: Atoms are the smallest units.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "atoms",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_060",
+      "question": "What particles are in the nucleus of an atom?",
+      "correctAnswer": "Protons and neutrons",
+      "distractors": [
+        "Protons and electrons",
+        "Neutrons and electrons",
+        "Electrons only"
+      ],
+      "explanation": "The nucleus holds protons and neutrons.",
+      "memoryHook": "T-Rexy says: Protons and neutrons live in the nucleus.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "atoms",
+        "structure"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_061",
+      "question": "What is the charge of a proton?",
+      "correctAnswer": "Positive",
+      "distractors": [
+        "Negative",
+        "Neutral",
+        "Zero"
+      ],
+      "explanation": "Protons are positively charged.",
+      "memoryHook": "T-Rexy says: Protons are positive.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "atoms",
+        "structure"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_062",
+      "question": "What is the charge of an electron?",
+      "correctAnswer": "Negative",
+      "distractors": [
+        "Positive",
+        "Neutral",
+        "Zero"
+      ],
+      "explanation": "Electrons are negatively charged.",
+      "memoryHook": "T-Rexy says: Electrons are negative.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "atoms",
+        "structure"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_063",
+      "question": "What is the charge of a neutron?",
+      "correctAnswer": "Neutral",
+      "distractors": [
+        "Positive",
+        "Negative",
+        "Double positive"
+      ],
+      "explanation": "Neutrons have no charge.",
+      "memoryHook": "T-Rexy says: Neutrons are neutral.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "atoms",
+        "structure"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_064",
+      "question": "What determines the identity of an element?",
+      "correctAnswer": "The number of protons",
+      "distractors": [
+        "The number of neutrons",
+        "The number of electrons",
+        "The mass number"
+      ],
+      "explanation": "The atomic number, the proton count, defines an element.",
+      "memoryHook": "T-Rexy says: Protons define the element.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "atoms",
+        "elements"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_065",
+      "question": "What is the atomic number?",
+      "correctAnswer": "The number of protons in an atom",
+      "distractors": [
+        "The number of neutrons",
+        "The total of protons and neutrons",
+        "The number of electrons only"
+      ],
+      "explanation": "Atomic number is the proton count.",
+      "memoryHook": "T-Rexy says: Atomic number counts protons.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "atoms",
+        "elements"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_066",
+      "question": "What is the mass number?",
+      "correctAnswer": "The total of protons and neutrons",
+      "distractors": [
+        "The number of protons only",
+        "The number of electrons",
+        "The number of neutrons only"
+      ],
+      "explanation": "Mass number is protons plus neutrons.",
+      "memoryHook": "T-Rexy says: Mass number is protons plus neutrons.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "atoms",
+        "elements"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_067",
+      "question": "What is the chemical symbol for water?",
+      "correctAnswer": "H2O",
+      "distractors": [
+        "CO2",
+        "O2",
+        "NaCl"
+      ],
+      "explanation": "Water is H2O.",
+      "memoryHook": "T-Rexy says: Water is H2O.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "compounds"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_068",
+      "question": "What is the chemical symbol for carbon dioxide?",
+      "correctAnswer": "CO2",
+      "distractors": [
+        "CO",
+        "O2",
+        "H2O"
+      ],
+      "explanation": "Carbon dioxide is CO2.",
+      "memoryHook": "T-Rexy says: Carbon dioxide is CO2.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "compounds"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_069",
+      "question": "What is the chemical symbol for table salt?",
+      "correctAnswer": "NaCl",
+      "distractors": [
+        "KCl",
+        "NaOH",
+        "HCl"
+      ],
+      "explanation": "Table salt is sodium chloride, NaCl.",
+      "memoryHook": "T-Rexy says: Salt is NaCl.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "compounds"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_070",
+      "question": "What is the chemical symbol for oxygen gas?",
+      "correctAnswer": "O2",
+      "distractors": [
+        "O",
+        "CO2",
+        "H2O"
+      ],
+      "explanation": "Oxygen gas is O2.",
+      "memoryHook": "T-Rexy says: Oxygen gas is O2.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "compounds"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_071",
+      "question": "What element has the symbol Fe?",
+      "correctAnswer": "Iron",
+      "distractors": [
+        "Fluorine",
+        "Lead",
+        "Zinc"
+      ],
+      "explanation": "Fe stands for iron.",
+      "memoryHook": "T-Rexy says: Fe is iron.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "elements"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_072",
+      "question": "What element has the symbol Au?",
+      "correctAnswer": "Gold",
+      "distractors": [
+        "Silver",
+        "Aluminum",
+        "Argon"
+      ],
+      "explanation": "Au stands for gold.",
+      "memoryHook": "T-Rexy says: Au is gold.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "elements"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_073",
+      "question": "What element has the symbol Na?",
+      "correctAnswer": "Sodium",
+      "distractors": [
+        "Nitrogen",
+        "Nickel",
+        "Neon"
+      ],
+      "explanation": "Na stands for sodium.",
+      "memoryHook": "T-Rexy says: Na is sodium.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "elements"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_074",
+      "question": "What element has the symbol H?",
+      "correctAnswer": "Hydrogen",
+      "distractors": [
+        "Helium",
+        "Hafnium",
+        "Holmium"
+      ],
+      "explanation": "H stands for hydrogen.",
+      "memoryHook": "T-Rexy says: H is hydrogen.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "elements"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_075",
+      "question": "What element has the symbol O?",
+      "correctAnswer": "Oxygen",
+      "distractors": [
+        "Osmium",
+        "Oganesson",
+        "Olive"
+      ],
+      "explanation": "O stands for oxygen.",
+      "memoryHook": "T-Rexy says: O is oxygen.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "elements"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_076",
+      "question": "What element has the symbol C?",
+      "correctAnswer": "Carbon",
+      "distractors": [
+        "Calcium",
+        "Chlorine",
+        "Copper"
+      ],
+      "explanation": "C stands for carbon.",
+      "memoryHook": "T-Rexy says: C is carbon.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "elements"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_077",
+      "question": "What is a compound?",
+      "correctAnswer": "A substance made of two or more elements chemically joined",
+      "distractors": [
+        "A mixture of elements",
+        "A single element",
+        "A type of atom"
+      ],
+      "explanation": "A compound joins elements by chemical bonds.",
+      "memoryHook": "T-Rexy says: Compounds join elements.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "compounds"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_078",
+      "question": "What is a mixture?",
+      "correctAnswer": "Two or more substances mixed without chemical bonds",
+      "distractors": [
+        "A compound",
+        "A single element",
+        "A chemical reaction"
+      ],
+      "explanation": "A mixture combines substances without bonding them.",
+      "memoryHook": "T-Rexy says: Mixtures are not bonded.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "mixtures"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_079",
+      "question": "What is a chemical change?",
+      "correctAnswer": "A change that makes a new substance",
+      "distractors": [
+        "A change in shape only",
+        "A change in state only",
+        "A change in size only"
+      ],
+      "explanation": "A chemical change creates a new substance.",
+      "memoryHook": "T-Rexy says: Chemical change makes something new.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "changes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_080",
+      "question": "What is a physical change?",
+      "correctAnswer": "A change that does not make a new substance",
+      "distractors": [
+        "A change that makes a new substance",
+        "A chemical reaction",
+        "Burning"
+      ],
+      "explanation": "A physical change, like melting, makes no new substance.",
+      "memoryHook": "T-Rexy says: Physical change keeps the substance.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "changes"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_081",
+      "question": "Which is an example of a chemical change?",
+      "correctAnswer": "Burning wood",
+      "distractors": [
+        "Melting ice",
+        "Cutting paper",
+        "Dissolving salt in water"
+      ],
+      "explanation": "Burning makes new substances.",
+      "memoryHook": "T-Rexy says: Burning is chemical.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "changes"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_082",
+      "question": "What is the pH of a neutral solution?",
+      "correctAnswer": "7",
+      "distractors": [
+        "0",
+        "1",
+        "14"
+      ],
+      "explanation": "Neutral pH is 7.",
+      "memoryHook": "T-Rexy says: Neutral is 7.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "acids-bases"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_083",
+      "question": "What pH range is acidic?",
+      "correctAnswer": "Below 7",
+      "distractors": [
+        "Above 7",
+        "Exactly 7",
+        "Above 14"
+      ],
+      "explanation": "Acids have pH below 7.",
+      "memoryHook": "T-Rexy says: Acid is below 7.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "acids-bases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_084",
+      "question": "What pH range is basic?",
+      "correctAnswer": "Above 7",
+      "distractors": [
+        "Below 7",
+        "Exactly 7",
+        "Below 0"
+      ],
+      "explanation": "Bases have pH above 7.",
+      "memoryHook": "T-Rexy says: Base is above 7.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "acids-bases"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_085",
+      "question": "What is an acid?",
+      "correctAnswer": "A substance that donates hydrogen ions and has pH below 7",
+      "distractors": [
+        "A substance with pH above 7",
+        "A neutral substance",
+        "A type of salt"
+      ],
+      "explanation": "Acids donate hydrogen ions and have low pH.",
+      "memoryHook": "T-Rexy says: Acids are low pH.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "acids-bases"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_086",
+      "question": "What is the SI unit of electric current?",
+      "correctAnswer": "Ampere",
+      "distractors": [
+        "Volt",
+        "Ohm",
+        "Watt"
+      ],
+      "explanation": "Current is measured in amperes.",
+      "memoryHook": "T-Rexy says: Current is measured in amps.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "electricity",
+        "units"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_087",
+      "question": "What is the SI unit of voltage?",
+      "correctAnswer": "Volt",
+      "distractors": [
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "explanation": "Voltage is measured in volts.",
+      "memoryHook": "T-Rexy says: Voltage is measured in volts.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "electricity",
+        "units"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_088",
+      "question": "What is the SI unit of resistance?",
+      "correctAnswer": "Ohm",
+      "distractors": [
+        "Volt",
+        "Ampere",
+        "Watt"
+      ],
+      "explanation": "Resistance is measured in ohms.",
+      "memoryHook": "T-Rexy says: Resistance is measured in ohms.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "electricity",
+        "units"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_089",
+      "question": "What is Ohm's law?",
+      "correctAnswer": "Voltage equals current times resistance",
+      "distractors": [
+        "Current equals voltage times resistance",
+        "Resistance equals voltage times current",
+        "Power equals voltage times resistance"
+      ],
+      "explanation": "Ohm's law is V = I times R.",
+      "memoryHook": "T-Rexy says: V equals I times R.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "electricity",
+        "ohm"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_090",
+      "question": "What does a magnet attract?",
+      "correctAnswer": "Iron",
+      "distractors": [
+        "Plastic",
+        "Wood",
+        "Glass"
+      ],
+      "explanation": "Magnets attract iron and similar metals.",
+      "memoryHook": "T-Rexy says: Magnets love iron.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "magnetism",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_091",
+      "question": "What are the poles of a magnet called?",
+      "correctAnswer": "North and south",
+      "distractors": [
+        "East and west",
+        "Positive and negative",
+        "Up and down"
+      ],
+      "explanation": "Magnets have north and south poles.",
+      "memoryHook": "T-Rexy says: Magnets have north and south.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "magnetism",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_092",
+      "question": "What happens when two north poles face each other?",
+      "correctAnswer": "They repel",
+      "distractors": [
+        "They attract",
+        "Nothing happens",
+        "They cancel out"
+      ],
+      "explanation": "Like poles repel.",
+      "memoryHook": "T-Rexy says: Like poles push apart.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "magnetism",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_093",
+      "question": "What is density?",
+      "correctAnswer": "Mass divided by volume",
+      "distractors": [
+        "Volume divided by mass",
+        "Mass times volume",
+        "Weight divided by height"
+      ],
+      "explanation": "Density is mass over volume.",
+      "memoryHook": "T-Rexy says: Density is mass over volume.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "matter",
+        "density"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_094",
+      "question": "Which material is denser: water or oil?",
+      "correctAnswer": "Water",
+      "distractors": [
+        "Oil",
+        "They are equal",
+        "Neither has density"
+      ],
+      "explanation": "Oil floats on water because water is denser.",
+      "memoryHook": "T-Rexy says: Oil floats, so water is denser.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "matter",
+        "density"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_095",
+      "question": "What is the main difference between a series and a parallel circuit?",
+      "correctAnswer": "In series, current has one path; in parallel, it has many paths",
+      "distractors": [
+        "In series, voltage is the same everywhere",
+        "In parallel, current is the same everywhere",
+        "There is no difference"
+      ],
+      "explanation": "Series has one path, parallel has branches.",
+      "memoryHook": "T-Rexy says: Series is one path, parallel is many.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "electricity",
+        "circuits"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_096",
+      "question": "What is the center of an atom called?",
+      "correctAnswer": "Nucleus",
+      "distractors": [
+        "Electron cloud",
+        "Shell",
+        "Orbital"
+      ],
+      "explanation": "The nucleus is the center of an atom.",
+      "memoryHook": "T-Rexy says: The nucleus is the center.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "atoms",
+        "structure"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_097",
+      "question": "What is the periodic table organized by?",
+      "correctAnswer": "Atomic number",
+      "distractors": [
+        "Mass only",
+        "Name alphabetically",
+        "Date discovered"
+      ],
+      "explanation": "The periodic table is ordered by atomic number.",
+      "memoryHook": "T-Rexy says: The table is ordered by protons.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "periodic-table"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_098",
+      "question": "What are the columns of the periodic table called?",
+      "correctAnswer": "Groups",
+      "distractors": [
+        "Periods",
+        "Rows",
+        "Families only"
+      ],
+      "explanation": "Columns are groups.",
+      "memoryHook": "T-Rexy says: Columns are groups.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "periodic-table"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_099",
+      "question": "What are the rows of the periodic table called?",
+      "correctAnswer": "Periods",
+      "distractors": [
+        "Groups",
+        "Columns",
+        "Families"
+      ],
+      "explanation": "Rows are periods.",
+      "memoryHook": "T-Rexy says: Rows are periods.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "chemistry",
+        "periodic-table"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "PSC9_100",
+      "question": "What gas makes up most of Earth's atmosphere?",
+      "correctAnswer": "Nitrogen",
+      "distractors": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Argon"
+      ],
+      "explanation": "Nitrogen is about 78 percent of air.",
+      "memoryHook": "T-Rexy says: Air is mostly nitrogen.",
+      "imageUrl": "topic:physical-science",
+      "tags": [
+        "matter",
+        "atmosphere"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

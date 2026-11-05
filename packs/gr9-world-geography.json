@@ -1,0 +1,2015 @@
+{
+  "packId": "gr9-world-geography",
+  "version": 1.0,
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "social-studies",
+    "geography",
+    "9th"
+  ],
+  "questions": [
+    {
+      "id": "GEO9_001",
+      "question": "What is the capital of France?",
+      "correctAnswer": "Paris",
+      "distractors": [
+        "Madrid",
+        "Mexico City",
+        "Jakarta"
+      ],
+      "explanation": "The capital of France is Paris.",
+      "memoryHook": "T-Rexy says: The capital of France is Paris.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_002",
+      "question": "What is the capital of Japan?",
+      "correctAnswer": "Tokyo",
+      "distractors": [
+        "Seoul",
+        "Reykjavik",
+        "New Delhi"
+      ],
+      "explanation": "The capital of Japan is Tokyo.",
+      "memoryHook": "T-Rexy says: The capital of Japan is Tokyo.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_003",
+      "question": "What is the capital of Brazil?",
+      "correctAnswer": "Brasilia",
+      "distractors": [
+        "Islamabad",
+        "New Delhi",
+        "Madrid"
+      ],
+      "explanation": "The capital of Brazil is Brasilia.",
+      "memoryHook": "T-Rexy says: The capital of Brazil is Brasilia.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_004",
+      "question": "What is the capital of Canada?",
+      "correctAnswer": "Ottawa",
+      "distractors": [
+        "Brussels",
+        "Hanoi",
+        "Bangkok"
+      ],
+      "explanation": "The capital of Canada is Ottawa.",
+      "memoryHook": "T-Rexy says: The capital of Canada is Ottawa.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_005",
+      "question": "What is the capital of Australia?",
+      "correctAnswer": "Canberra",
+      "distractors": [
+        "Algiers",
+        "Moscow",
+        "Copenhagen"
+      ],
+      "explanation": "The capital of Australia is Canberra.",
+      "memoryHook": "T-Rexy says: The capital of Australia is Canberra.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_006",
+      "question": "What is the capital of Egypt?",
+      "correctAnswer": "Cairo",
+      "distractors": [
+        "Amsterdam",
+        "Addis Ababa",
+        "Accra"
+      ],
+      "explanation": "The capital of Egypt is Cairo.",
+      "memoryHook": "T-Rexy says: The capital of Egypt is Cairo.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_007",
+      "question": "What is the capital of India?",
+      "correctAnswer": "New Delhi",
+      "distractors": [
+        "Brussels",
+        "Kyiv",
+        "Mexico City"
+      ],
+      "explanation": "The capital of India is New Delhi.",
+      "memoryHook": "T-Rexy says: The capital of India is New Delhi.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_008",
+      "question": "What is the capital of China?",
+      "correctAnswer": "Beijing",
+      "distractors": [
+        "Kyiv",
+        "Tehran",
+        "Brasilia"
+      ],
+      "explanation": "The capital of China is Beijing.",
+      "memoryHook": "T-Rexy says: The capital of China is Beijing.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_009",
+      "question": "What is the capital of Italy?",
+      "correctAnswer": "Rome",
+      "distractors": [
+        "Cairo",
+        "Kathmandu",
+        "Madrid"
+      ],
+      "explanation": "The capital of Italy is Rome.",
+      "memoryHook": "T-Rexy says: The capital of Italy is Rome.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_010",
+      "question": "What is the capital of Spain?",
+      "correctAnswer": "Madrid",
+      "distractors": [
+        "Stockholm",
+        "Bangkok",
+        "Brasilia"
+      ],
+      "explanation": "The capital of Spain is Madrid.",
+      "memoryHook": "T-Rexy says: The capital of Spain is Madrid.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_011",
+      "question": "What is the capital of Germany?",
+      "correctAnswer": "Berlin",
+      "distractors": [
+        "Ankara",
+        "Islamabad",
+        "Moscow"
+      ],
+      "explanation": "The capital of Germany is Berlin.",
+      "memoryHook": "T-Rexy says: The capital of Germany is Berlin.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_012",
+      "question": "What is the capital of Mexico?",
+      "correctAnswer": "Mexico City",
+      "distractors": [
+        "Naypyidaw",
+        "Cairo",
+        "Rabat"
+      ],
+      "explanation": "The capital of Mexico is Mexico City.",
+      "memoryHook": "T-Rexy says: The capital of Mexico is Mexico City.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_013",
+      "question": "What is the capital of Argentina?",
+      "correctAnswer": "Buenos Aires",
+      "distractors": [
+        "Brussels",
+        "Copenhagen",
+        "Lima"
+      ],
+      "explanation": "The capital of Argentina is Buenos Aires.",
+      "memoryHook": "T-Rexy says: The capital of Argentina is Buenos Aires.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_014",
+      "question": "What is the capital of Kenya?",
+      "correctAnswer": "Nairobi",
+      "distractors": [
+        "Paris",
+        "Quito",
+        "Madrid"
+      ],
+      "explanation": "The capital of Kenya is Nairobi.",
+      "memoryHook": "T-Rexy says: The capital of Kenya is Nairobi.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_015",
+      "question": "What is the capital of Nigeria?",
+      "correctAnswer": "Abuja",
+      "distractors": [
+        "Reykjavik",
+        "Bern",
+        "Hanoi"
+      ],
+      "explanation": "The capital of Nigeria is Abuja.",
+      "memoryHook": "T-Rexy says: The capital of Nigeria is Abuja.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_016",
+      "question": "What is the capital of Turkey?",
+      "correctAnswer": "Ankara",
+      "distractors": [
+        "Seoul",
+        "Pretoria",
+        "Amsterdam"
+      ],
+      "explanation": "The capital of Turkey is Ankara.",
+      "memoryHook": "T-Rexy says: The capital of Turkey is Ankara.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_017",
+      "question": "What is the capital of Iran?",
+      "correctAnswer": "Tehran",
+      "distractors": [
+        "Tokyo",
+        "Baghdad",
+        "Brussels"
+      ],
+      "explanation": "The capital of Iran is Tehran.",
+      "memoryHook": "T-Rexy says: The capital of Iran is Tehran.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_018",
+      "question": "What is the capital of Iraq?",
+      "correctAnswer": "Baghdad",
+      "distractors": [
+        "Naypyidaw",
+        "Paris",
+        "Bogota"
+      ],
+      "explanation": "The capital of Iraq is Baghdad.",
+      "memoryHook": "T-Rexy says: The capital of Iraq is Baghdad.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_019",
+      "question": "What is the capital of Thailand?",
+      "correctAnswer": "Bangkok",
+      "distractors": [
+        "Athens",
+        "Lima",
+        "Ulaanbaatar"
+      ],
+      "explanation": "The capital of Thailand is Bangkok.",
+      "memoryHook": "T-Rexy says: The capital of Thailand is Bangkok.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_020",
+      "question": "What is the capital of Vietnam?",
+      "correctAnswer": "Hanoi",
+      "distractors": [
+        "Tokyo",
+        "Seoul",
+        "Caracas"
+      ],
+      "explanation": "The capital of Vietnam is Hanoi.",
+      "memoryHook": "T-Rexy says: The capital of Vietnam is Hanoi.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_021",
+      "question": "What is the capital of Indonesia?",
+      "correctAnswer": "Jakarta",
+      "distractors": [
+        "Accra",
+        "Caracas",
+        "Islamabad"
+      ],
+      "explanation": "The capital of Indonesia is Jakarta.",
+      "memoryHook": "T-Rexy says: The capital of Indonesia is Jakarta.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_022",
+      "question": "What is the capital of Pakistan?",
+      "correctAnswer": "Islamabad",
+      "distractors": [
+        "Paris",
+        "Berlin",
+        "Amsterdam"
+      ],
+      "explanation": "The capital of Pakistan is Islamabad.",
+      "memoryHook": "T-Rexy says: The capital of Pakistan is Islamabad.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_023",
+      "question": "What is the capital of Russia?",
+      "correctAnswer": "Moscow",
+      "distractors": [
+        "Baghdad",
+        "Addis Ababa",
+        "Athens"
+      ],
+      "explanation": "The capital of Russia is Moscow.",
+      "memoryHook": "T-Rexy says: The capital of Russia is Moscow.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_024",
+      "question": "What is the capital of Ukraine?",
+      "correctAnswer": "Kyiv",
+      "distractors": [
+        "Ulaanbaatar",
+        "Kathmandu",
+        "Islamabad"
+      ],
+      "explanation": "The capital of Ukraine is Kyiv.",
+      "memoryHook": "T-Rexy says: The capital of Ukraine is Kyiv.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_025",
+      "question": "What is the capital of Poland?",
+      "correctAnswer": "Warsaw",
+      "distractors": [
+        "Ottawa",
+        "Abuja",
+        "Addis Ababa"
+      ],
+      "explanation": "The capital of Poland is Warsaw.",
+      "memoryHook": "T-Rexy says: The capital of Poland is Warsaw.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_026",
+      "question": "What is the capital of Greece?",
+      "correctAnswer": "Athens",
+      "distractors": [
+        "Algiers",
+        "Bogota",
+        "Madrid"
+      ],
+      "explanation": "The capital of Greece is Athens.",
+      "memoryHook": "T-Rexy says: The capital of Greece is Athens.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_027",
+      "question": "What is the capital of Portugal?",
+      "correctAnswer": "Lisbon",
+      "distractors": [
+        "Ulaanbaatar",
+        "New Delhi",
+        "Baghdad"
+      ],
+      "explanation": "The capital of Portugal is Lisbon.",
+      "memoryHook": "T-Rexy says: The capital of Portugal is Lisbon.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_028",
+      "question": "What is the capital of Netherlands?",
+      "correctAnswer": "Amsterdam",
+      "distractors": [
+        "Madrid",
+        "Brussels",
+        "Mexico City"
+      ],
+      "explanation": "The capital of Netherlands is Amsterdam.",
+      "memoryHook": "T-Rexy says: The capital of Netherlands is Amsterdam.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_029",
+      "question": "What is the capital of Belgium?",
+      "correctAnswer": "Brussels",
+      "distractors": [
+        "Athens",
+        "Rabat",
+        "Santiago"
+      ],
+      "explanation": "The capital of Belgium is Brussels.",
+      "memoryHook": "T-Rexy says: The capital of Belgium is Brussels.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_030",
+      "question": "What is the capital of Switzerland?",
+      "correctAnswer": "Bern",
+      "distractors": [
+        "Canberra",
+        "Rome",
+        "Copenhagen"
+      ],
+      "explanation": "The capital of Switzerland is Bern.",
+      "memoryHook": "T-Rexy says: The capital of Switzerland is Bern.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_031",
+      "question": "What is the capital of Sweden?",
+      "correctAnswer": "Stockholm",
+      "distractors": [
+        "Mexico City",
+        "Lima",
+        "Nairobi"
+      ],
+      "explanation": "The capital of Sweden is Stockholm.",
+      "memoryHook": "T-Rexy says: The capital of Sweden is Stockholm.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_032",
+      "question": "What is the capital of Norway?",
+      "correctAnswer": "Oslo",
+      "distractors": [
+        "Reykjavik",
+        "Cairo",
+        "Quito"
+      ],
+      "explanation": "The capital of Norway is Oslo.",
+      "memoryHook": "T-Rexy says: The capital of Norway is Oslo.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_033",
+      "question": "What is the capital of Denmark?",
+      "correctAnswer": "Copenhagen",
+      "distractors": [
+        "Warsaw",
+        "Naypyidaw",
+        "Beijing"
+      ],
+      "explanation": "The capital of Denmark is Copenhagen.",
+      "memoryHook": "T-Rexy says: The capital of Denmark is Copenhagen.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_034",
+      "question": "What is the capital of Finland?",
+      "correctAnswer": "Helsinki",
+      "distractors": [
+        "Rome",
+        "Jakarta",
+        "Algiers"
+      ],
+      "explanation": "The capital of Finland is Helsinki.",
+      "memoryHook": "T-Rexy says: The capital of Finland is Helsinki.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_035",
+      "question": "What is the capital of Iceland?",
+      "correctAnswer": "Reykjavik",
+      "distractors": [
+        "Lisbon",
+        "Madrid",
+        "Pretoria"
+      ],
+      "explanation": "The capital of Iceland is Reykjavik.",
+      "memoryHook": "T-Rexy says: The capital of Iceland is Reykjavik.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_036",
+      "question": "What is the capital of Chile?",
+      "correctAnswer": "Santiago",
+      "distractors": [
+        "Baghdad",
+        "Ulaanbaatar",
+        "Tokyo"
+      ],
+      "explanation": "The capital of Chile is Santiago.",
+      "memoryHook": "T-Rexy says: The capital of Chile is Santiago.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_037",
+      "question": "What is the capital of Peru?",
+      "correctAnswer": "Lima",
+      "distractors": [
+        "Ulaanbaatar",
+        "Paris",
+        "Madrid"
+      ],
+      "explanation": "The capital of Peru is Lima.",
+      "memoryHook": "T-Rexy says: The capital of Peru is Lima.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_038",
+      "question": "What is the capital of Colombia?",
+      "correctAnswer": "Bogota",
+      "distractors": [
+        "Nairobi",
+        "Islamabad",
+        "Stockholm"
+      ],
+      "explanation": "The capital of Colombia is Bogota.",
+      "memoryHook": "T-Rexy says: The capital of Colombia is Bogota.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_039",
+      "question": "What is the capital of Venezuela?",
+      "correctAnswer": "Caracas",
+      "distractors": [
+        "Naypyidaw",
+        "Rome",
+        "Athens"
+      ],
+      "explanation": "The capital of Venezuela is Caracas.",
+      "memoryHook": "T-Rexy says: The capital of Venezuela is Caracas.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_040",
+      "question": "What is the capital of Ecuador?",
+      "correctAnswer": "Quito",
+      "distractors": [
+        "Accra",
+        "Hanoi",
+        "Islamabad"
+      ],
+      "explanation": "The capital of Ecuador is Quito.",
+      "memoryHook": "T-Rexy says: The capital of Ecuador is Quito.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_041",
+      "question": "What is the capital of Morocco?",
+      "correctAnswer": "Rabat",
+      "distractors": [
+        "Warsaw",
+        "Kathmandu",
+        "Colombo"
+      ],
+      "explanation": "The capital of Morocco is Rabat.",
+      "memoryHook": "T-Rexy says: The capital of Morocco is Rabat.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_042",
+      "question": "What is the capital of Algeria?",
+      "correctAnswer": "Algiers",
+      "distractors": [
+        "Bern",
+        "Warsaw",
+        "Lima"
+      ],
+      "explanation": "The capital of Algeria is Algiers.",
+      "memoryHook": "T-Rexy says: The capital of Algeria is Algiers.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_043",
+      "question": "What is the capital of Ethiopia?",
+      "correctAnswer": "Addis Ababa",
+      "distractors": [
+        "Algiers",
+        "Ankara",
+        "Hanoi"
+      ],
+      "explanation": "The capital of Ethiopia is Addis Ababa.",
+      "memoryHook": "T-Rexy says: The capital of Ethiopia is Addis Ababa.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_044",
+      "question": "What is the capital of South Africa?",
+      "correctAnswer": "Pretoria",
+      "distractors": [
+        "Mexico City",
+        "Islamabad",
+        "Kyiv"
+      ],
+      "explanation": "The capital of South Africa is Pretoria.",
+      "memoryHook": "T-Rexy says: The capital of South Africa is Pretoria.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_045",
+      "question": "What is the capital of Ghana?",
+      "correctAnswer": "Accra",
+      "distractors": [
+        "Kyiv",
+        "Lisbon",
+        "Buenos Aires"
+      ],
+      "explanation": "The capital of Ghana is Accra.",
+      "memoryHook": "T-Rexy says: The capital of Ghana is Accra.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_046",
+      "question": "What is the capital of South Korea?",
+      "correctAnswer": "Seoul",
+      "distractors": [
+        "Colombo",
+        "Berlin",
+        "Rabat"
+      ],
+      "explanation": "The capital of South Korea is Seoul.",
+      "memoryHook": "T-Rexy says: The capital of South Korea is Seoul.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_047",
+      "question": "What is the capital of Mongolia?",
+      "correctAnswer": "Ulaanbaatar",
+      "distractors": [
+        "Bogota",
+        "Lisbon",
+        "Canberra"
+      ],
+      "explanation": "The capital of Mongolia is Ulaanbaatar.",
+      "memoryHook": "T-Rexy says: The capital of Mongolia is Ulaanbaatar.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_048",
+      "question": "What is the capital of Nepal?",
+      "correctAnswer": "Kathmandu",
+      "distractors": [
+        "Caracas",
+        "Berlin",
+        "Tehran"
+      ],
+      "explanation": "The capital of Nepal is Kathmandu.",
+      "memoryHook": "T-Rexy says: The capital of Nepal is Kathmandu.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_049",
+      "question": "What is the capital of Sri Lanka?",
+      "correctAnswer": "Colombo",
+      "distractors": [
+        "Kathmandu",
+        "Athens",
+        "Quito"
+      ],
+      "explanation": "The capital of Sri Lanka is Colombo.",
+      "memoryHook": "T-Rexy says: The capital of Sri Lanka is Colombo.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_050",
+      "question": "What is the capital of Myanmar?",
+      "correctAnswer": "Naypyidaw",
+      "distractors": [
+        "Pretoria",
+        "Hanoi",
+        "Kyiv"
+      ],
+      "explanation": "The capital of Myanmar is Naypyidaw.",
+      "memoryHook": "T-Rexy says: The capital of Myanmar is Naypyidaw.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_051",
+      "question": "Which country has Paris as its capital?",
+      "correctAnswer": "France",
+      "distractors": [
+        "Morocco",
+        "China",
+        "Colombia"
+      ],
+      "explanation": "Paris is the capital of France.",
+      "memoryHook": "T-Rexy says: Paris belongs to France.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_052",
+      "question": "Which country has Tokyo as its capital?",
+      "correctAnswer": "Japan",
+      "distractors": [
+        "Portugal",
+        "Indonesia",
+        "Brazil"
+      ],
+      "explanation": "Tokyo is the capital of Japan.",
+      "memoryHook": "T-Rexy says: Tokyo belongs to Japan.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_053",
+      "question": "Which country has Brasilia as its capital?",
+      "correctAnswer": "Brazil",
+      "distractors": [
+        "Myanmar",
+        "Sri Lanka",
+        "Iraq"
+      ],
+      "explanation": "Brasilia is the capital of Brazil.",
+      "memoryHook": "T-Rexy says: Brasilia belongs to Brazil.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_054",
+      "question": "Which country has Ottawa as its capital?",
+      "correctAnswer": "Canada",
+      "distractors": [
+        "Nigeria",
+        "Peru",
+        "Japan"
+      ],
+      "explanation": "Ottawa is the capital of Canada.",
+      "memoryHook": "T-Rexy says: Ottawa belongs to Canada.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_055",
+      "question": "Which country has Canberra as its capital?",
+      "correctAnswer": "Australia",
+      "distractors": [
+        "Germany",
+        "Pakistan",
+        "Belgium"
+      ],
+      "explanation": "Canberra is the capital of Australia.",
+      "memoryHook": "T-Rexy says: Canberra belongs to Australia.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_056",
+      "question": "Which country has Cairo as its capital?",
+      "correctAnswer": "Egypt",
+      "distractors": [
+        "Germany",
+        "Netherlands",
+        "Italy"
+      ],
+      "explanation": "Cairo is the capital of Egypt.",
+      "memoryHook": "T-Rexy says: Cairo belongs to Egypt.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_057",
+      "question": "Which country has New Delhi as its capital?",
+      "correctAnswer": "India",
+      "distractors": [
+        "Chile",
+        "Iran",
+        "Iraq"
+      ],
+      "explanation": "New Delhi is the capital of India.",
+      "memoryHook": "T-Rexy says: New Delhi belongs to India.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_058",
+      "question": "Which country has Beijing as its capital?",
+      "correctAnswer": "China",
+      "distractors": [
+        "Nigeria",
+        "France",
+        "Vietnam"
+      ],
+      "explanation": "Beijing is the capital of China.",
+      "memoryHook": "T-Rexy says: Beijing belongs to China.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_059",
+      "question": "Which country has Rome as its capital?",
+      "correctAnswer": "Italy",
+      "distractors": [
+        "Venezuela",
+        "Nigeria",
+        "Germany"
+      ],
+      "explanation": "Rome is the capital of Italy.",
+      "memoryHook": "T-Rexy says: Rome belongs to Italy.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_060",
+      "question": "Which country has Madrid as its capital?",
+      "correctAnswer": "Spain",
+      "distractors": [
+        "Portugal",
+        "Poland",
+        "Turkey"
+      ],
+      "explanation": "Madrid is the capital of Spain.",
+      "memoryHook": "T-Rexy says: Madrid belongs to Spain.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_061",
+      "question": "Which country has Berlin as its capital?",
+      "correctAnswer": "Germany",
+      "distractors": [
+        "Poland",
+        "Mongolia",
+        "Netherlands"
+      ],
+      "explanation": "Berlin is the capital of Germany.",
+      "memoryHook": "T-Rexy says: Berlin belongs to Germany.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_062",
+      "question": "Which country has Mexico City as its capital?",
+      "correctAnswer": "Mexico",
+      "distractors": [
+        "South Africa",
+        "France",
+        "Switzerland"
+      ],
+      "explanation": "Mexico City is the capital of Mexico.",
+      "memoryHook": "T-Rexy says: Mexico City belongs to Mexico.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_063",
+      "question": "Which country has Buenos Aires as its capital?",
+      "correctAnswer": "Argentina",
+      "distractors": [
+        "Sweden",
+        "Nepal",
+        "Ethiopia"
+      ],
+      "explanation": "Buenos Aires is the capital of Argentina.",
+      "memoryHook": "T-Rexy says: Buenos Aires belongs to Argentina.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_064",
+      "question": "Which country has Nairobi as its capital?",
+      "correctAnswer": "Kenya",
+      "distractors": [
+        "South Africa",
+        "Iran",
+        "Chile"
+      ],
+      "explanation": "Nairobi is the capital of Kenya.",
+      "memoryHook": "T-Rexy says: Nairobi belongs to Kenya.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_065",
+      "question": "Which country has Abuja as its capital?",
+      "correctAnswer": "Nigeria",
+      "distractors": [
+        "South Africa",
+        "Finland",
+        "Spain"
+      ],
+      "explanation": "Abuja is the capital of Nigeria.",
+      "memoryHook": "T-Rexy says: Abuja belongs to Nigeria.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_066",
+      "question": "Which country has Ankara as its capital?",
+      "correctAnswer": "Turkey",
+      "distractors": [
+        "Indonesia",
+        "Ecuador",
+        "Sri Lanka"
+      ],
+      "explanation": "Ankara is the capital of Turkey.",
+      "memoryHook": "T-Rexy says: Ankara belongs to Turkey.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_067",
+      "question": "Which country has Tehran as its capital?",
+      "correctAnswer": "Iran",
+      "distractors": [
+        "China",
+        "Thailand",
+        "Mexico"
+      ],
+      "explanation": "Tehran is the capital of Iran.",
+      "memoryHook": "T-Rexy says: Tehran belongs to Iran.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_068",
+      "question": "Which country has Baghdad as its capital?",
+      "correctAnswer": "Iraq",
+      "distractors": [
+        "Nepal",
+        "Mongolia",
+        "Morocco"
+      ],
+      "explanation": "Baghdad is the capital of Iraq.",
+      "memoryHook": "T-Rexy says: Baghdad belongs to Iraq.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_069",
+      "question": "Which country has Bangkok as its capital?",
+      "correctAnswer": "Thailand",
+      "distractors": [
+        "Sweden",
+        "Mongolia",
+        "Turkey"
+      ],
+      "explanation": "Bangkok is the capital of Thailand.",
+      "memoryHook": "T-Rexy says: Bangkok belongs to Thailand.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_070",
+      "question": "Which country has Hanoi as its capital?",
+      "correctAnswer": "Vietnam",
+      "distractors": [
+        "Nepal",
+        "Iraq",
+        "Brazil"
+      ],
+      "explanation": "Hanoi is the capital of Vietnam.",
+      "memoryHook": "T-Rexy says: Hanoi belongs to Vietnam.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_071",
+      "question": "Which country has Jakarta as its capital?",
+      "correctAnswer": "Indonesia",
+      "distractors": [
+        "Finland",
+        "Vietnam",
+        "India"
+      ],
+      "explanation": "Jakarta is the capital of Indonesia.",
+      "memoryHook": "T-Rexy says: Jakarta belongs to Indonesia.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_072",
+      "question": "Which country has Islamabad as its capital?",
+      "correctAnswer": "Pakistan",
+      "distractors": [
+        "China",
+        "Australia",
+        "Canada"
+      ],
+      "explanation": "Islamabad is the capital of Pakistan.",
+      "memoryHook": "T-Rexy says: Islamabad belongs to Pakistan.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_073",
+      "question": "Which country has Moscow as its capital?",
+      "correctAnswer": "Russia",
+      "distractors": [
+        "Ghana",
+        "Ethiopia",
+        "Morocco"
+      ],
+      "explanation": "Moscow is the capital of Russia.",
+      "memoryHook": "T-Rexy says: Moscow belongs to Russia.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_074",
+      "question": "Which country has Kyiv as its capital?",
+      "correctAnswer": "Ukraine",
+      "distractors": [
+        "Netherlands",
+        "Sweden",
+        "Nigeria"
+      ],
+      "explanation": "Kyiv is the capital of Ukraine.",
+      "memoryHook": "T-Rexy says: Kyiv belongs to Ukraine.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_075",
+      "question": "Which country has Warsaw as its capital?",
+      "correctAnswer": "Poland",
+      "distractors": [
+        "Indonesia",
+        "Sweden",
+        "Morocco"
+      ],
+      "explanation": "Warsaw is the capital of Poland.",
+      "memoryHook": "T-Rexy says: Warsaw belongs to Poland.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_076",
+      "question": "Which country has Athens as its capital?",
+      "correctAnswer": "Greece",
+      "distractors": [
+        "Spain",
+        "South Korea",
+        "Iceland"
+      ],
+      "explanation": "Athens is the capital of Greece.",
+      "memoryHook": "T-Rexy says: Athens belongs to Greece.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_077",
+      "question": "Which country has Lisbon as its capital?",
+      "correctAnswer": "Portugal",
+      "distractors": [
+        "Algeria",
+        "Turkey",
+        "Thailand"
+      ],
+      "explanation": "Lisbon is the capital of Portugal.",
+      "memoryHook": "T-Rexy says: Lisbon belongs to Portugal.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_078",
+      "question": "Which country has Amsterdam as its capital?",
+      "correctAnswer": "Netherlands",
+      "distractors": [
+        "Ukraine",
+        "Mongolia",
+        "Canada"
+      ],
+      "explanation": "Amsterdam is the capital of Netherlands.",
+      "memoryHook": "T-Rexy says: Amsterdam belongs to Netherlands.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_079",
+      "question": "Which country has Brussels as its capital?",
+      "correctAnswer": "Belgium",
+      "distractors": [
+        "Pakistan",
+        "Australia",
+        "Vietnam"
+      ],
+      "explanation": "Brussels is the capital of Belgium.",
+      "memoryHook": "T-Rexy says: Brussels belongs to Belgium.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_080",
+      "question": "Which country has Bern as its capital?",
+      "correctAnswer": "Switzerland",
+      "distractors": [
+        "Iraq",
+        "India",
+        "China"
+      ],
+      "explanation": "Bern is the capital of Switzerland.",
+      "memoryHook": "T-Rexy says: Bern belongs to Switzerland.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_081",
+      "question": "Which country has Stockholm as its capital?",
+      "correctAnswer": "Sweden",
+      "distractors": [
+        "Greece",
+        "Norway",
+        "Venezuela"
+      ],
+      "explanation": "Stockholm is the capital of Sweden.",
+      "memoryHook": "T-Rexy says: Stockholm belongs to Sweden.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_082",
+      "question": "Which country has Oslo as its capital?",
+      "correctAnswer": "Norway",
+      "distractors": [
+        "Australia",
+        "Brazil",
+        "Venezuela"
+      ],
+      "explanation": "Oslo is the capital of Norway.",
+      "memoryHook": "T-Rexy says: Oslo belongs to Norway.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_083",
+      "question": "Which country has Copenhagen as its capital?",
+      "correctAnswer": "Denmark",
+      "distractors": [
+        "Sri Lanka",
+        "Kenya",
+        "Venezuela"
+      ],
+      "explanation": "Copenhagen is the capital of Denmark.",
+      "memoryHook": "T-Rexy says: Copenhagen belongs to Denmark.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_084",
+      "question": "Which country has Helsinki as its capital?",
+      "correctAnswer": "Finland",
+      "distractors": [
+        "Italy",
+        "Ukraine",
+        "China"
+      ],
+      "explanation": "Helsinki is the capital of Finland.",
+      "memoryHook": "T-Rexy says: Helsinki belongs to Finland.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_085",
+      "question": "Which country has Reykjavik as its capital?",
+      "correctAnswer": "Iceland",
+      "distractors": [
+        "Belgium",
+        "Sweden",
+        "Iran"
+      ],
+      "explanation": "Reykjavik is the capital of Iceland.",
+      "memoryHook": "T-Rexy says: Reykjavik belongs to Iceland.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_086",
+      "question": "Which country has Santiago as its capital?",
+      "correctAnswer": "Chile",
+      "distractors": [
+        "Colombia",
+        "Italy",
+        "South Africa"
+      ],
+      "explanation": "Santiago is the capital of Chile.",
+      "memoryHook": "T-Rexy says: Santiago belongs to Chile.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_087",
+      "question": "Which country has Lima as its capital?",
+      "correctAnswer": "Peru",
+      "distractors": [
+        "Morocco",
+        "Germany",
+        "Pakistan"
+      ],
+      "explanation": "Lima is the capital of Peru.",
+      "memoryHook": "T-Rexy says: Lima belongs to Peru.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_088",
+      "question": "Which country has Bogota as its capital?",
+      "correctAnswer": "Colombia",
+      "distractors": [
+        "Sweden",
+        "Sri Lanka",
+        "South Korea"
+      ],
+      "explanation": "Bogota is the capital of Colombia.",
+      "memoryHook": "T-Rexy says: Bogota belongs to Colombia.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_089",
+      "question": "Which country has Caracas as its capital?",
+      "correctAnswer": "Venezuela",
+      "distractors": [
+        "India",
+        "Chile",
+        "Greece"
+      ],
+      "explanation": "Caracas is the capital of Venezuela.",
+      "memoryHook": "T-Rexy says: Caracas belongs to Venezuela.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_090",
+      "question": "Which country has Quito as its capital?",
+      "correctAnswer": "Ecuador",
+      "distractors": [
+        "Australia",
+        "Norway",
+        "Pakistan"
+      ],
+      "explanation": "Quito is the capital of Ecuador.",
+      "memoryHook": "T-Rexy says: Quito belongs to Ecuador.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_091",
+      "question": "Which country has Rabat as its capital?",
+      "correctAnswer": "Morocco",
+      "distractors": [
+        "Netherlands",
+        "Iraq",
+        "Switzerland"
+      ],
+      "explanation": "Rabat is the capital of Morocco.",
+      "memoryHook": "T-Rexy says: Rabat belongs to Morocco.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_092",
+      "question": "Which country has Algiers as its capital?",
+      "correctAnswer": "Algeria",
+      "distractors": [
+        "Mexico",
+        "Ecuador",
+        "Spain"
+      ],
+      "explanation": "Algiers is the capital of Algeria.",
+      "memoryHook": "T-Rexy says: Algiers belongs to Algeria.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_093",
+      "question": "Which country has Addis Ababa as its capital?",
+      "correctAnswer": "Ethiopia",
+      "distractors": [
+        "Denmark",
+        "Japan",
+        "Thailand"
+      ],
+      "explanation": "Addis Ababa is the capital of Ethiopia.",
+      "memoryHook": "T-Rexy says: Addis Ababa belongs to Ethiopia.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_094",
+      "question": "Which country has Pretoria as its capital?",
+      "correctAnswer": "South Africa",
+      "distractors": [
+        "Mexico",
+        "Mongolia",
+        "Norway"
+      ],
+      "explanation": "Pretoria is the capital of South Africa.",
+      "memoryHook": "T-Rexy says: Pretoria belongs to South Africa.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_095",
+      "question": "Which country has Accra as its capital?",
+      "correctAnswer": "Ghana",
+      "distractors": [
+        "Denmark",
+        "Thailand",
+        "Sri Lanka"
+      ],
+      "explanation": "Accra is the capital of Ghana.",
+      "memoryHook": "T-Rexy says: Accra belongs to Ghana.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_096",
+      "question": "Which country has Seoul as its capital?",
+      "correctAnswer": "South Korea",
+      "distractors": [
+        "Germany",
+        "Russia",
+        "Italy"
+      ],
+      "explanation": "Seoul is the capital of South Korea.",
+      "memoryHook": "T-Rexy says: Seoul belongs to South Korea.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_097",
+      "question": "Which country has Ulaanbaatar as its capital?",
+      "correctAnswer": "Mongolia",
+      "distractors": [
+        "Spain",
+        "Brazil",
+        "Myanmar"
+      ],
+      "explanation": "Ulaanbaatar is the capital of Mongolia.",
+      "memoryHook": "T-Rexy says: Ulaanbaatar belongs to Mongolia.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_098",
+      "question": "Which country has Kathmandu as its capital?",
+      "correctAnswer": "Nepal",
+      "distractors": [
+        "Belgium",
+        "Norway",
+        "Netherlands"
+      ],
+      "explanation": "Kathmandu is the capital of Nepal.",
+      "memoryHook": "T-Rexy says: Kathmandu belongs to Nepal.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_099",
+      "question": "Which country has Colombo as its capital?",
+      "correctAnswer": "Sri Lanka",
+      "distractors": [
+        "Portugal",
+        "Denmark",
+        "Switzerland"
+      ],
+      "explanation": "Colombo is the capital of Sri Lanka.",
+      "memoryHook": "T-Rexy says: Colombo belongs to Sri Lanka.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "GEO9_100",
+      "question": "Which country has Naypyidaw as its capital?",
+      "correctAnswer": "Myanmar",
+      "distractors": [
+        "South Korea",
+        "Chile",
+        "Portugal"
+      ],
+      "explanation": "Naypyidaw is the capital of Myanmar.",
+      "memoryHook": "T-Rexy says: Naypyidaw belongs to Myanmar.",
+      "imageUrl": "topic:geography",
+      "tags": [
+        "capitals",
+        "countries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

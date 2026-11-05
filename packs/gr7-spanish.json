@@ -1,0 +1,2015 @@
+{
+  "packId": "gr7-spanish",
+  "version": 1.0,
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "spanish",
+    "language",
+    "7th"
+  ],
+  "questions": [
+    {
+      "id": "SPA7_001",
+      "question": "What does the Spanish word adios mean?",
+      "correctAnswer": "Goodbye",
+      "distractors": [
+        "Hello",
+        "Please",
+        "Thank you"
+      ],
+      "explanation": "Adios means goodbye.",
+      "memoryHook": "T-Rexy says: adios is goodbye.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "greetings",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_002",
+      "question": "What does the Spanish word blanco mean in English?",
+      "correctAnswer": "white",
+      "distractors": [
+        "teacher",
+        "book",
+        "sister"
+      ],
+      "explanation": "Blanco means white in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_003",
+      "question": "How do you say happy in Spanish?",
+      "correctAnswer": "feliz",
+      "distractors": [
+        "gato",
+        "amigo",
+        "padre"
+      ],
+      "explanation": "Happy in Spanish is feliz.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_004",
+      "question": "How do you say hello in Spanish?",
+      "correctAnswer": "hola",
+      "distractors": [
+        "domingo",
+        "tres",
+        "hermana"
+      ],
+      "explanation": "Hello in Spanish is hola.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_005",
+      "question": "What does the Spanish word lunes mean in English?",
+      "correctAnswer": "Monday",
+      "distractors": [
+        "dog",
+        "book",
+        "goodbye"
+      ],
+      "explanation": "Lunes means Monday in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_006",
+      "question": "How do you say two in Spanish?",
+      "correctAnswer": "dos",
+      "distractors": [
+        "cinco",
+        "gracias",
+        "hola"
+      ],
+      "explanation": "Two in Spanish is dos.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_007",
+      "question": "What does the Spanish word verde mean in English?",
+      "correctAnswer": "green",
+      "distractors": [
+        "food",
+        "Sunday",
+        "friend"
+      ],
+      "explanation": "Verde means green in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_008",
+      "question": "What does the Spanish word sabado mean in English?",
+      "correctAnswer": "Saturday",
+      "distractors": [
+        "no",
+        "Sunday",
+        "Monday"
+      ],
+      "explanation": "Sabado means Saturday in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_009",
+      "question": "How do you say Saturday in Spanish?",
+      "correctAnswer": "sabado",
+      "distractors": [
+        "estudiante",
+        "hermano",
+        "domingo"
+      ],
+      "explanation": "Saturday in Spanish is sabado.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_010",
+      "question": "How do you say teacher in Spanish?",
+      "correctAnswer": "maestro",
+      "distractors": [
+        "gato",
+        "agua",
+        "domingo"
+      ],
+      "explanation": "Teacher in Spanish is maestro.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_011",
+      "question": "What is the Spanish word for December?",
+      "correctAnswer": "Diciembre",
+      "distractors": [
+        "Noviembre",
+        "Octubre",
+        "Septiembre"
+      ],
+      "explanation": "Diciembre is December.",
+      "memoryHook": "T-Rexy says: diciembre ends the year.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "months",
+        "vocabulary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_012",
+      "question": "What does the Spanish word primo mean?",
+      "correctAnswer": "Cousin",
+      "distractors": [
+        "Brother",
+        "Uncle",
+        "Nephew"
+      ],
+      "explanation": "Primo means cousin (male).",
+      "memoryHook": "T-Rexy says: primo is cousin.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "family",
+        "vocabulary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_013",
+      "question": "Which verb means to be (permanent traits) in Spanish?",
+      "correctAnswer": "Ser",
+      "distractors": [
+        "Estar",
+        "Tener",
+        "Ir"
+      ],
+      "explanation": "Ser is used for permanent traits like identity and origin.",
+      "memoryHook": "T-Rexy says: ser is for what things are.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "ser-estar"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_014",
+      "question": "What does the Spanish word gracias mean in English?",
+      "correctAnswer": "thank you",
+      "distractors": [
+        "water",
+        "girl",
+        "two"
+      ],
+      "explanation": "Gracias means thank you in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_015",
+      "question": "How do you say father in Spanish?",
+      "correctAnswer": "padre",
+      "distractors": [
+        "estudiante",
+        "caliente",
+        "si"
+      ],
+      "explanation": "Father in Spanish is padre.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_016",
+      "question": "What does the Spanish word hermana mean in English?",
+      "correctAnswer": "sister",
+      "distractors": [
+        "red",
+        "Thursday",
+        "food"
+      ],
+      "explanation": "Hermana means sister in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_017",
+      "question": "How do you count from 1 to 5 in Spanish?",
+      "correctAnswer": "Uno, dos, tres, cuatro, cinco",
+      "distractors": [
+        "Uno, dos, tres, cinco, cuatro",
+        "Uno, tres, dos, cuatro, cinco",
+        "Dos, uno, tres, cuatro, cinco"
+      ],
+      "explanation": "The numbers are uno, dos, tres, cuatro, cinco.",
+      "memoryHook": "T-Rexy says: count it like a song: uno dos tres.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "numbers",
+        "vocabulary"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_018",
+      "question": "What does the Spanish word maestro mean in English?",
+      "correctAnswer": "teacher",
+      "distractors": [
+        "three",
+        "cold",
+        "mother"
+      ],
+      "explanation": "Maestro means teacher in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_019",
+      "question": "How do you say please in Spanish?",
+      "correctAnswer": "por favor",
+      "distractors": [
+        "jueves",
+        "rojo",
+        "azul"
+      ],
+      "explanation": "Please in Spanish is por favor.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_020",
+      "question": "What does the Spanish word tio mean?",
+      "correctAnswer": "Uncle",
+      "distractors": [
+        "Cousin",
+        "Brother",
+        "Father"
+      ],
+      "explanation": "Tio means uncle.",
+      "memoryHook": "T-Rexy says: tio is uncle.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "family",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_021",
+      "question": "What number is quince in Spanish?",
+      "correctAnswer": "15",
+      "distractors": [
+        "5",
+        "50",
+        "14"
+      ],
+      "explanation": "Quince means fifteen.",
+      "memoryHook": "T-Rexy says: quince is fifteen.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "numbers",
+        "vocabulary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_022",
+      "question": "What does the Spanish word libro mean in English?",
+      "correctAnswer": "book",
+      "distractors": [
+        "no",
+        "red",
+        "happy"
+      ],
+      "explanation": "Libro means book in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_023",
+      "question": "How do you say small in Spanish?",
+      "correctAnswer": "pequeno",
+      "distractors": [
+        "lunes",
+        "nina",
+        "hola"
+      ],
+      "explanation": "Small in Spanish is pequeno.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_024",
+      "question": "How do you say one in Spanish?",
+      "correctAnswer": "uno",
+      "distractors": [
+        "madre",
+        "hermano",
+        "pequeno"
+      ],
+      "explanation": "One in Spanish is uno.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_025",
+      "question": "What does the Spanish word cinco mean in English?",
+      "correctAnswer": "five",
+      "distractors": [
+        "no",
+        "Tuesday",
+        "white"
+      ],
+      "explanation": "Cinco means five in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_026",
+      "question": "How do you say I love you in Spanish?",
+      "correctAnswer": "Te quiero.",
+      "distractors": [
+        "Me gusta tu.",
+        "Yo amo tu.",
+        "Te amo mucho es."
+      ],
+      "explanation": "Te quiero means I love you.",
+      "memoryHook": "T-Rexy says: te quiero is I love you.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "phrases",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_027",
+      "question": "How do you say star in Spanish?",
+      "correctAnswer": "estrella",
+      "distractors": [
+        "hermana",
+        "triste",
+        "madre"
+      ],
+      "explanation": "Star in Spanish is estrella.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_028",
+      "question": "Which word means pink in Spanish?",
+      "correctAnswer": "Rosa",
+      "distractors": [
+        "Rojo",
+        "Morado",
+        "Naranja"
+      ],
+      "explanation": "Rosa means pink.",
+      "memoryHook": "T-Rexy says: rosa is pink.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "colors",
+        "vocabulary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_029",
+      "question": "How do you say It is 3 o'clock in Spanish?",
+      "correctAnswer": "Son las tres.",
+      "distractors": [
+        "Es las tres.",
+        "Son tres horas.",
+        "Es tres."
+      ],
+      "explanation": "Son las tres means It is three o'clock. Use son for hours after one.",
+      "memoryHook": "T-Rexy says: son las tres is three o'clock.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "time",
+        "vocabulary"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_030",
+      "question": "What does the Spanish word grande mean in English?",
+      "correctAnswer": "big",
+      "distractors": [
+        "please",
+        "school",
+        "hot"
+      ],
+      "explanation": "Grande means big in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_031",
+      "question": "How do you say thank you in Spanish?",
+      "correctAnswer": "gracias",
+      "distractors": [
+        "viernes",
+        "escuela",
+        "nina"
+      ],
+      "explanation": "Thank you in Spanish is gracias.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_032",
+      "question": "What does the Spanish word padre mean in English?",
+      "correctAnswer": "father",
+      "distractors": [
+        "sun",
+        "hot",
+        "please"
+      ],
+      "explanation": "Padre means father in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_033",
+      "question": "What does the Spanish word gracias mean?",
+      "correctAnswer": "Thank you",
+      "distractors": [
+        "Please",
+        "Hello",
+        "Goodbye"
+      ],
+      "explanation": "Gracias means thank you.",
+      "memoryHook": "T-Rexy says: gracias is the first polite word to learn.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_034",
+      "question": "What number is ocho in Spanish?",
+      "correctAnswer": "8",
+      "distractors": [
+        "7",
+        "9",
+        "6"
+      ],
+      "explanation": "Ocho means eight.",
+      "memoryHook": "T-Rexy says: ocho is eight.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "numbers",
+        "vocabulary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_035",
+      "question": "Which word means yellow in Spanish?",
+      "correctAnswer": "Amarillo",
+      "distractors": [
+        "Rojo",
+        "Azul",
+        "Verde"
+      ],
+      "explanation": "Amarillo means yellow.",
+      "memoryHook": "T-Rexy says: amarillo is yellow.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "colors",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_036",
+      "question": "How do you ask What is your name? in Spanish?",
+      "correctAnswer": "Como te llamas?",
+      "distractors": [
+        "Como estas?",
+        "Cuantos anos tienes?",
+        "De donde eres?"
+      ],
+      "explanation": "Como te llamas? means What is your name?",
+      "memoryHook": "T-Rexy says: como te llamas asks for a name.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "questions",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_037",
+      "question": "What does the Spanish word escuela mean in English?",
+      "correctAnswer": "school",
+      "distractors": [
+        "four",
+        "happy",
+        "food"
+      ],
+      "explanation": "Escuela means school in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_038",
+      "question": "What does the Spanish word estudiante mean in English?",
+      "correctAnswer": "student",
+      "distractors": [
+        "cat",
+        "yellow",
+        "friend"
+      ],
+      "explanation": "Estudiante means student in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_039",
+      "question": "What does the Spanish word amarillo mean in English?",
+      "correctAnswer": "yellow",
+      "distractors": [
+        "dog",
+        "boy",
+        "four"
+      ],
+      "explanation": "Amarillo means yellow in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_040",
+      "question": "What does De nada mean?",
+      "correctAnswer": "You are welcome",
+      "distractors": [
+        "Goodbye",
+        "Excuse me",
+        "I do not know"
+      ],
+      "explanation": "De nada means you are welcome, said after gracias.",
+      "memoryHook": "T-Rexy says: de nada answers gracias.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "greetings",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_041",
+      "question": "What does the Spanish word nino mean in English?",
+      "correctAnswer": "boy",
+      "distractors": [
+        "sad",
+        "Friday",
+        "goodbye"
+      ],
+      "explanation": "Nino means boy in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_042",
+      "question": "What does the Spanish word perro mean in English?",
+      "correctAnswer": "dog",
+      "distractors": [
+        "sun",
+        "thank you",
+        "big"
+      ],
+      "explanation": "Perro means dog in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_043",
+      "question": "What does the Spanish word tres mean in English?",
+      "correctAnswer": "three",
+      "distractors": [
+        "hello",
+        "white",
+        "teacher"
+      ],
+      "explanation": "Tres means three in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_044",
+      "question": "What does the Spanish word sol mean in English?",
+      "correctAnswer": "sun",
+      "distractors": [
+        "father",
+        "one",
+        "boy"
+      ],
+      "explanation": "Sol means sun in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_045",
+      "question": "What does the Spanish word estudiante mean?",
+      "correctAnswer": "Student",
+      "distractors": [
+        "Teacher",
+        "Principal",
+        "Doctor"
+      ],
+      "explanation": "Estudiante means student.",
+      "memoryHook": "T-Rexy says: estudiante is student.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "school",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_046",
+      "question": "How do you say I like pizza in Spanish?",
+      "correctAnswer": "Me gusta la pizza.",
+      "distractors": [
+        "Yo gusto la pizza.",
+        "Me gusto pizza.",
+        "Yo like pizza."
+      ],
+      "explanation": "Me gusta means it pleases me, so Me gusta la pizza is I like pizza.",
+      "memoryHook": "T-Rexy says: me gusta flips the sentence around.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "gustar"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_047",
+      "question": "What does the Spanish word diez mean in English?",
+      "correctAnswer": "ten",
+      "distractors": [
+        "white",
+        "father",
+        "book"
+      ],
+      "explanation": "Diez means ten in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_048",
+      "question": "How do you say I am from Arizona in Spanish?",
+      "correctAnswer": "Soy de Arizona.",
+      "distractors": [
+        "Estoy de Arizona.",
+        "Me llamo Arizona.",
+        "Tengo Arizona."
+      ],
+      "explanation": "Soy de Arizona means I am from Arizona. Use ser for where you are from.",
+      "memoryHook": "T-Rexy says: soy de means I am from.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "questions",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_049",
+      "question": "What does Buenos dias mean?",
+      "correctAnswer": "Good morning",
+      "distractors": [
+        "Good night",
+        "Good afternoon",
+        "Good luck"
+      ],
+      "explanation": "Buenos dias means good morning.",
+      "memoryHook": "T-Rexy says: buenos dias greets the morning.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "greetings",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_050",
+      "question": "How do you say I like soccer in Spanish?",
+      "correctAnswer": "Me gusta el futbol.",
+      "distractors": [
+        "Yo gusto el futbol.",
+        "Me gusta futbol.",
+        "Yo futbol gusta."
+      ],
+      "explanation": "Me gusta el futbol means I like soccer.",
+      "memoryHook": "T-Rexy says: me gusta works the same for every like.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "gustar"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_051",
+      "question": "How do you say hot in Spanish?",
+      "correctAnswer": "caliente",
+      "distractors": [
+        "triste",
+        "escuela",
+        "domingo"
+      ],
+      "explanation": "Hot in Spanish is caliente.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_052",
+      "question": "How do you ask How are you? in Spanish?",
+      "correctAnswer": "Como estas?",
+      "distractors": [
+        "Como te llamas?",
+        "Que hora es?",
+        "Donde vives?"
+      ],
+      "explanation": "Como estas? means How are you?",
+      "memoryHook": "T-Rexy says: como estas asks how someone feels.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "questions",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_053",
+      "question": "What does the Spanish word escribir mean in English?",
+      "correctAnswer": "To write",
+      "distractors": [
+        "To read",
+        "To speak",
+        "To draw"
+      ],
+      "explanation": "Escribir means to write.",
+      "memoryHook": "T-Rexy says: escribir is to write.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "vocabulary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_054",
+      "question": "How do you say blue in Spanish?",
+      "correctAnswer": "azul",
+      "distractors": [
+        "gato",
+        "nino",
+        "uno"
+      ],
+      "explanation": "Blue in Spanish is azul.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_055",
+      "question": "What does the Spanish word leer mean in English?",
+      "correctAnswer": "To read",
+      "distractors": [
+        "To write",
+        "To speak",
+        "To listen"
+      ],
+      "explanation": "Leer means to read.",
+      "memoryHook": "T-Rexy says: leer is to read.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "vocabulary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_056",
+      "question": "What does the Spanish word casa mean?",
+      "correctAnswer": "House",
+      "distractors": [
+        "School",
+        "Car",
+        "Tree"
+      ],
+      "explanation": "Casa means house.",
+      "memoryHook": "T-Rexy says: casa is house.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_057",
+      "question": "How do you say Thursday in Spanish?",
+      "correctAnswer": "jueves",
+      "distractors": [
+        "diez",
+        "casa",
+        "caliente"
+      ],
+      "explanation": "Thursday in Spanish is jueves.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_058",
+      "question": "How do you say yes in Spanish?",
+      "correctAnswer": "si",
+      "distractors": [
+        "domingo",
+        "casa",
+        "negro"
+      ],
+      "explanation": "Yes in Spanish is si.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_059",
+      "question": "What does the Spanish word abuela mean?",
+      "correctAnswer": "Grandmother",
+      "distractors": [
+        "Mother",
+        "Aunt",
+        "Sister"
+      ],
+      "explanation": "Abuela means grandmother.",
+      "memoryHook": "T-Rexy says: abuela is grandma.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "family",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_060",
+      "question": "What does the Spanish word madre mean in English?",
+      "correctAnswer": "mother",
+      "distractors": [
+        "teacher",
+        "sister",
+        "girl"
+      ],
+      "explanation": "Madre means mother in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_061",
+      "question": "What does the Spanish word agua mean in English?",
+      "correctAnswer": "water",
+      "distractors": [
+        "Wednesday",
+        "red",
+        "Tuesday"
+      ],
+      "explanation": "Agua means water in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_062",
+      "question": "What does the Spanish word hola mean in English?",
+      "correctAnswer": "hello",
+      "distractors": [
+        "four",
+        "happy",
+        "sun"
+      ],
+      "explanation": "Hola means hello in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_063",
+      "question": "Which is the correct definite article for casa (house)?",
+      "correctAnswer": "La casa",
+      "distractors": [
+        "El casa",
+        "Los casa",
+        "Las casa"
+      ],
+      "explanation": "Casa is feminine, so it takes la.",
+      "memoryHook": "T-Rexy says: la goes with feminine nouns.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "articles",
+        "grammar"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_064",
+      "question": "What does the Spanish word comer mean in English?",
+      "correctAnswer": "To eat",
+      "distractors": [
+        "To drink",
+        "To play",
+        "To run"
+      ],
+      "explanation": "Comer means to eat.",
+      "memoryHook": "T-Rexy says: comer is to eat.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "vocabulary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_065",
+      "question": "Which word means the color orange in Spanish?",
+      "correctAnswer": "Naranja",
+      "distractors": [
+        "Rojo",
+        "Rosa",
+        "Morado"
+      ],
+      "explanation": "Naranja means orange, both the color and the fruit.",
+      "memoryHook": "T-Rexy says: naranja is orange.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "colors",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_066",
+      "question": "What does the Spanish word cuatro mean in English?",
+      "correctAnswer": "four",
+      "distractors": [
+        "five",
+        "big",
+        "moon"
+      ],
+      "explanation": "Cuatro means four in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_067",
+      "question": "How do you say What time is it? in Spanish?",
+      "correctAnswer": "Que hora es?",
+      "distractors": [
+        "Que dia es?",
+        "Como te llamas?",
+        "Cuanto cuesta?"
+      ],
+      "explanation": "Que hora es? means What time is it?",
+      "memoryHook": "T-Rexy says: que hora es asks the time.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "time",
+        "questions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_068",
+      "question": "How do you say Good night in Spanish?",
+      "correctAnswer": "Buenas noches",
+      "distractors": [
+        "Buenos dias",
+        "Buenas tardes",
+        "Hasta luego"
+      ],
+      "explanation": "Buenas noches means good night.",
+      "memoryHook": "T-Rexy says: buenas noches ends the day.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "greetings",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_069",
+      "question": "How do you say sad in Spanish?",
+      "correctAnswer": "triste",
+      "distractors": [
+        "estudiante",
+        "sol",
+        "si"
+      ],
+      "explanation": "Sad in Spanish is triste.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_070",
+      "question": "What does the Spanish word agua mean?",
+      "correctAnswer": "Water",
+      "distractors": [
+        "Fire",
+        "Air",
+        "Earth"
+      ],
+      "explanation": "Agua means water.",
+      "memoryHook": "T-Rexy says: agua is water.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_071",
+      "question": "How do you say school in Spanish?",
+      "correctAnswer": "escuela",
+      "distractors": [
+        "libro",
+        "estrella",
+        "luna"
+      ],
+      "explanation": "School in Spanish is escuela.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_072",
+      "question": "Which word means blue in Spanish?",
+      "correctAnswer": "Azul",
+      "distractors": [
+        "Rojo",
+        "Verde",
+        "Negro"
+      ],
+      "explanation": "Azul means blue.",
+      "memoryHook": "T-Rexy says: azul is blue.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "colors",
+        "vocabulary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_073",
+      "question": "What does the Spanish word dos mean in English?",
+      "correctAnswer": "two",
+      "distractors": [
+        "Tuesday",
+        "Sunday",
+        "four"
+      ],
+      "explanation": "Dos means two in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_074",
+      "question": "How do you say boy in Spanish?",
+      "correctAnswer": "nino",
+      "distractors": [
+        "madre",
+        "hermana",
+        "perro"
+      ],
+      "explanation": "Boy in Spanish is nino.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_075",
+      "question": "How do you say ten in Spanish?",
+      "correctAnswer": "diez",
+      "distractors": [
+        "nina",
+        "hermana",
+        "libro"
+      ],
+      "explanation": "Ten in Spanish is diez.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_076",
+      "question": "How do you say big in Spanish?",
+      "correctAnswer": "grande",
+      "distractors": [
+        "por favor",
+        "maestro",
+        "blanco"
+      ],
+      "explanation": "Big in Spanish is grande.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_077",
+      "question": "How do you say Good afternoon in Spanish?",
+      "correctAnswer": "Buenas tardes",
+      "distractors": [
+        "Buenos dias",
+        "Buenas noches",
+        "Por favor"
+      ],
+      "explanation": "Buenas tardes means good afternoon.",
+      "memoryHook": "T-Rexy says: buenas tardes is for the afternoon.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "greetings",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_078",
+      "question": "How do you say Good morning in Spanish?",
+      "correctAnswer": "Buenos dias",
+      "distractors": [
+        "Buenas noches",
+        "Buenas tardes",
+        "Hola amigo"
+      ],
+      "explanation": "Buenos dias means good morning.",
+      "memoryHook": "T-Rexy says: buenos dias starts the day.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "greetings",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_079",
+      "question": "Which word means red in Spanish?",
+      "correctAnswer": "Rojo",
+      "distractors": [
+        "Azul",
+        "Verde",
+        "Amarillo"
+      ],
+      "explanation": "Rojo means red.",
+      "memoryHook": "T-Rexy says: rojo is red.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "colors",
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_080",
+      "question": "How do you say I am 12 years old in Spanish?",
+      "correctAnswer": "Tengo doce anos.",
+      "distractors": [
+        "Soy doce anos.",
+        "Estoy doce anos.",
+        "Me llamo doce."
+      ],
+      "explanation": "In Spanish you say I have twelve years: Tengo doce anos.",
+      "memoryHook": "T-Rexy says: age uses tener, to have.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "questions",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_081",
+      "question": "How do you say five in Spanish?",
+      "correctAnswer": "cinco",
+      "distractors": [
+        "miercoles",
+        "hermana",
+        "sol"
+      ],
+      "explanation": "Five in Spanish is cinco.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_082",
+      "question": "What does the Spanish word triste mean in English?",
+      "correctAnswer": "sad",
+      "distractors": [
+        "green",
+        "goodbye",
+        "big"
+      ],
+      "explanation": "Triste means sad in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_083",
+      "question": "How do you say goodbye in Spanish?",
+      "correctAnswer": "adios",
+      "distractors": [
+        "estudiante",
+        "si",
+        "frio"
+      ],
+      "explanation": "Goodbye in Spanish is adios.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_084",
+      "question": "Which word means purple in Spanish?",
+      "correctAnswer": "Morado",
+      "distractors": [
+        "Rosa",
+        "Azul",
+        "Verde"
+      ],
+      "explanation": "Morado means purple.",
+      "memoryHook": "T-Rexy says: morado is purple.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "colors",
+        "vocabulary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_085",
+      "question": "How do you say book in Spanish?",
+      "correctAnswer": "libro",
+      "distractors": [
+        "padre",
+        "frio",
+        "amarillo"
+      ],
+      "explanation": "Book in Spanish is libro.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_086",
+      "question": "What does the Spanish word adios mean in English?",
+      "correctAnswer": "goodbye",
+      "distractors": [
+        "brother",
+        "cat",
+        "moon"
+      ],
+      "explanation": "Adios means goodbye in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_087",
+      "question": "How do you say cold in Spanish?",
+      "correctAnswer": "frio",
+      "distractors": [
+        "maestro",
+        "feliz",
+        "verde"
+      ],
+      "explanation": "Cold in Spanish is frio.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_088",
+      "question": "How do you say brother in Spanish?",
+      "correctAnswer": "hermano",
+      "distractors": [
+        "miercoles",
+        "pajaro",
+        "lunes"
+      ],
+      "explanation": "Brother in Spanish is hermano.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_089",
+      "question": "What does the Spanish word negro mean in English?",
+      "correctAnswer": "black",
+      "distractors": [
+        "goodbye",
+        "school",
+        "cold"
+      ],
+      "explanation": "Negro means black in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_090",
+      "question": "How do you say Friday in Spanish?",
+      "correctAnswer": "viernes",
+      "distractors": [
+        "amarillo",
+        "rojo",
+        "triste"
+      ],
+      "explanation": "Friday in Spanish is viernes.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_091",
+      "question": "What does Cuantos anos tienes? mean?",
+      "correctAnswer": "How old are you?",
+      "distractors": [
+        "What is your name?",
+        "Where do you live?",
+        "What do you like?"
+      ],
+      "explanation": "Cuantos anos tienes? means How old are you?",
+      "memoryHook": "T-Rexy says: cuantos anos tienes asks your age.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "questions",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_092",
+      "question": "What does por favor mean?",
+      "correctAnswer": "Please",
+      "distractors": [
+        "Thank you",
+        "Excuse me",
+        "Good luck"
+      ],
+      "explanation": "Por favor means please.",
+      "memoryHook": "T-Rexy says: por favor makes requests polite.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_093",
+      "question": "What does the Spanish word azul mean in English?",
+      "correctAnswer": "blue",
+      "distractors": [
+        "green",
+        "book",
+        "thank you"
+      ],
+      "explanation": "Azul means blue in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_094",
+      "question": "What is the Spanish word for January?",
+      "correctAnswer": "Enero",
+      "distractors": [
+        "Febrero",
+        "Marzo",
+        "Abril"
+      ],
+      "explanation": "Enero is January.",
+      "memoryHook": "T-Rexy says: enero starts the year.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "months",
+        "vocabulary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_095",
+      "question": "How do you say Sunday in Spanish?",
+      "correctAnswer": "domingo",
+      "distractors": [
+        "viernes",
+        "rojo",
+        "gracias"
+      ],
+      "explanation": "Sunday in Spanish is domingo.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_096",
+      "question": "How do you say sun in Spanish?",
+      "correctAnswer": "sol",
+      "distractors": [
+        "tres",
+        "padre",
+        "blanco"
+      ],
+      "explanation": "Sun in Spanish is sol.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_097",
+      "question": "What does the Spanish word comida mean in English?",
+      "correctAnswer": "food",
+      "distractors": [
+        "Tuesday",
+        "hello",
+        "thank you"
+      ],
+      "explanation": "Comida means food in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_098",
+      "question": "How do you say moon in Spanish?",
+      "correctAnswer": "luna",
+      "distractors": [
+        "amarillo",
+        "tres",
+        "pajaro"
+      ],
+      "explanation": "Moon in Spanish is luna.",
+      "memoryHook": "T-Rexy says: say it out loud three times to remember it.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_099",
+      "question": "What does the Spanish word casa mean in English?",
+      "correctAnswer": "house",
+      "distractors": [
+        "happy",
+        "Friday",
+        "Sunday"
+      ],
+      "explanation": "Casa means house in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA7_100",
+      "question": "What does the Spanish word por favor mean in English?",
+      "correctAnswer": "please",
+      "distractors": [
+        "happy",
+        "yellow",
+        "five"
+      ],
+      "explanation": "Por favor means please in English.",
+      "memoryHook": "T-Rexy says: work both ways: English to Spanish and back.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "basics"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

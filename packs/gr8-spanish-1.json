@@ -1,0 +1,2057 @@
+{
+  "packId": "gr8-spanish-1",
+  "version": 1.0,
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "language",
+    "spanish",
+    "8th"
+  ],
+  "questions": [
+    {
+      "id": "SPA8_001",
+      "question": "What is the tu form of 'comprar' (to buy) in the present tense?",
+      "correctAnswer": "compras",
+      "distractors": [
+        "compro",
+        "compra",
+        "compramos"
+      ],
+      "explanation": "The tu present-tense form of comprar is compras.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_002",
+      "question": "What is the nosotros form of 'cantar' (to sing) in the present tense?",
+      "correctAnswer": "cantamos",
+      "distractors": [
+        "canto",
+        "cantas",
+        "canta"
+      ],
+      "explanation": "The nosotros present-tense form of cantar is cantamos.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_003",
+      "question": "What is the Spanish word for the number 'fifty'?",
+      "correctAnswer": "cincuenta",
+      "distractors": [
+        "uno",
+        "cuatro",
+        "siete"
+      ],
+      "explanation": "The number fifty in Spanish is cincuenta.",
+      "memoryHook": "T-Rexy says: Count in Spanish every day.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_004",
+      "question": "What is the tu form of 'abrir' (to open) in the present tense?",
+      "correctAnswer": "abres",
+      "distractors": [
+        "abro",
+        "abre",
+        "abrimos"
+      ],
+      "explanation": "The tu present-tense form of abrir is abres.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_005",
+      "question": "What is the ellos form of 'trabajar' (to work) in the present tense?",
+      "correctAnswer": "trabajan",
+      "distractors": [
+        "trabajo",
+        "trabajas",
+        "trabaja"
+      ],
+      "explanation": "The ellos present-tense form of trabajar is trabajan.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_006",
+      "question": "What is the ellos form of 'hablar' (to speak) in the present tense?",
+      "correctAnswer": "hablan",
+      "distractors": [
+        "hablo",
+        "hablas",
+        "habla"
+      ],
+      "explanation": "The ellos present-tense form of hablar is hablan.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_007",
+      "question": "What is the el/ella form of 'mirar' (to watch) in the present tense?",
+      "correctAnswer": "mira",
+      "distractors": [
+        "miro",
+        "miras",
+        "miramos"
+      ],
+      "explanation": "The el/ella present-tense form of mirar is mira.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_008",
+      "question": "What is the nosotros form of 'leer' (to read) in the present tense?",
+      "correctAnswer": "leemos",
+      "distractors": [
+        "leo",
+        "lees",
+        "lee"
+      ],
+      "explanation": "The nosotros present-tense form of leer is leemos.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_009",
+      "question": "What is the Spanish word for winter?",
+      "correctAnswer": "el invierno",
+      "distractors": [
+        "el verano",
+        "la primavera",
+        "el otono"
+      ],
+      "explanation": "Winter in Spanish is el invierno.",
+      "memoryHook": "T-Rexy says: Invierno is winter.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "seasons"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_010",
+      "question": "What is the yo form of 'vender' (to sell) in the present tense?",
+      "correctAnswer": "vendo",
+      "distractors": [
+        "vendes",
+        "vende",
+        "vendemos"
+      ],
+      "explanation": "The yo present-tense form of vender is vendo.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_011",
+      "question": "What is the Spanish word for 'milk'?",
+      "correctAnswer": "la leche",
+      "distractors": [
+        "azul",
+        "la madre",
+        "el maestro"
+      ],
+      "explanation": "'milk' in Spanish is 'la leche'.",
+      "memoryHook": "T-Rexy says: Learn words in pairs.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_012",
+      "question": "What is the nosotros form of 'vivir' (to live) in the present tense?",
+      "correctAnswer": "vivimos",
+      "distractors": [
+        "vivo",
+        "vives",
+        "vive"
+      ],
+      "explanation": "The nosotros present-tense form of vivir is vivimos.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_013",
+      "question": "What is the tu form of 'estar' in the present tense?",
+      "correctAnswer": "estas",
+      "distractors": [
+        "estoy",
+        "esta",
+        "estamos"
+      ],
+      "explanation": "The tu form of estar is estas.",
+      "memoryHook": "T-Rexy says: Irregular verbs need memorizing.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "irregular",
+        "present-tense"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_014",
+      "question": "What is the Spanish word for 'school'?",
+      "correctAnswer": "la escuela",
+      "distractors": [
+        "el agua",
+        "rojo",
+        "blanco"
+      ],
+      "explanation": "'school' in Spanish is 'la escuela'.",
+      "memoryHook": "T-Rexy says: Learn words in pairs.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_015",
+      "question": "What is the yo form of 'ir' in the present tense?",
+      "correctAnswer": "voy",
+      "distractors": [
+        "vas",
+        "va",
+        "vamos"
+      ],
+      "explanation": "The yo form of ir is voy.",
+      "memoryHook": "T-Rexy says: Irregular verbs need memorizing.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "irregular",
+        "present-tense"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_016",
+      "question": "What is the tu form of 'estudiar' (to study) in the present tense?",
+      "correctAnswer": "estudias",
+      "distractors": [
+        "estudio",
+        "estudia",
+        "estudiamos"
+      ],
+      "explanation": "The tu present-tense form of estudiar is estudias.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_017",
+      "question": "What is the tu form of 'hablar' (to speak) in the present tense?",
+      "correctAnswer": "hablas",
+      "distractors": [
+        "hablo",
+        "habla",
+        "hablamos"
+      ],
+      "explanation": "The tu present-tense form of hablar is hablas.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_018",
+      "question": "What is the nosotros form of 'mirar' (to watch) in the present tense?",
+      "correctAnswer": "miramos",
+      "distractors": [
+        "miro",
+        "miras",
+        "mira"
+      ],
+      "explanation": "The nosotros present-tense form of mirar is miramos.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_019",
+      "question": "What does 'estar' mean in English?",
+      "correctAnswer": "to be",
+      "distractors": [
+        "to go",
+        "to have",
+        "to do"
+      ],
+      "explanation": "Estar also means to be, used for location and temporary states.",
+      "memoryHook": "T-Rexy says: Estar is for how or where something is.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "ser-estar"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_020",
+      "question": "What does 'la mochila' mean in English?",
+      "correctAnswer": "the backpack",
+      "distractors": [
+        "the book",
+        "the lunch",
+        "the desk"
+      ],
+      "explanation": "La mochila is the backpack.",
+      "memoryHook": "T-Rexy says: Mochila is the backpack.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "school"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_021",
+      "question": "How do you say 'I am from Arizona' in Spanish?",
+      "correctAnswer": "Soy de Arizona",
+      "distractors": [
+        "Estoy de Arizona",
+        "Tengo de Arizona",
+        "Voy de Arizona"
+      ],
+      "explanation": "Use ser for origin: Soy de Arizona.",
+      "memoryHook": "T-Rexy says: Soy is for where you are from.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "phrases",
+        "ser-estar"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_022",
+      "question": "What is the nosotros form of 'recibir' (to receive) in the present tense?",
+      "correctAnswer": "recibimos",
+      "distractors": [
+        "recibo",
+        "recibes",
+        "recibe"
+      ],
+      "explanation": "The nosotros present-tense form of recibir is recibimos.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_023",
+      "question": "What is the yo form of 'abrir' (to open) in the present tense?",
+      "correctAnswer": "abro",
+      "distractors": [
+        "abres",
+        "abre",
+        "abrimos"
+      ],
+      "explanation": "The yo present-tense form of abrir is abro.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_024",
+      "question": "How do you say 'What is your name?' in Spanish?",
+      "correctAnswer": "Como te llamas?",
+      "distractors": [
+        "Como estas?",
+        "Donde vives?",
+        "Cuantos anos tienes?"
+      ],
+      "explanation": "What is your name? in Spanish is Como te llamas?",
+      "memoryHook": "T-Rexy says: Como te llamas asks your name.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "greetings"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_025",
+      "question": "What is the nosotros form of 'ser' in the present tense?",
+      "correctAnswer": "somos",
+      "distractors": [
+        "soy",
+        "eres",
+        "es"
+      ],
+      "explanation": "The nosotros form of ser is somos.",
+      "memoryHook": "T-Rexy says: Irregular verbs need memorizing.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "irregular",
+        "present-tense"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_026",
+      "question": "What is the yo form of 'trabajar' (to work) in the present tense?",
+      "correctAnswer": "trabajo",
+      "distractors": [
+        "trabajas",
+        "trabaja",
+        "trabajamos"
+      ],
+      "explanation": "The yo present-tense form of trabajar is trabajo.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_027",
+      "question": "What is the el/ella form of 'leer' (to read) in the present tense?",
+      "correctAnswer": "lee",
+      "distractors": [
+        "leo",
+        "lees",
+        "leemos"
+      ],
+      "explanation": "The el/ella present-tense form of leer is lee.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_028",
+      "question": "What is the Spanish word for 'dog'?",
+      "correctAnswer": "el perro",
+      "distractors": [
+        "la escuela",
+        "el pan",
+        "azul"
+      ],
+      "explanation": "'dog' in Spanish is 'el perro'.",
+      "memoryHook": "T-Rexy says: Learn words in pairs.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_029",
+      "question": "How do you make 'mesa' plural in Spanish?",
+      "correctAnswer": "mesas",
+      "distractors": [
+        "mesaes",
+        "mesa",
+        "mesos"
+      ],
+      "explanation": "Most Spanish nouns add -s: mesa becomes mesas.",
+      "memoryHook": "T-Rexy says: Add -s for most plurals.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "grammar",
+        "plurals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_030",
+      "question": "What is the nosotros form of 'trabajar' (to work) in the present tense?",
+      "correctAnswer": "trabajamos",
+      "distractors": [
+        "trabajo",
+        "trabajas",
+        "trabaja"
+      ],
+      "explanation": "The nosotros present-tense form of trabajar is trabajamos.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_031",
+      "question": "What is the tu form of 'leer' (to read) in the present tense?",
+      "correctAnswer": "lees",
+      "distractors": [
+        "leo",
+        "lee",
+        "leemos"
+      ],
+      "explanation": "The tu present-tense form of leer is lees.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_032",
+      "question": "What is the nosotros form of 'hablar' (to speak) in the present tense?",
+      "correctAnswer": "hablamos",
+      "distractors": [
+        "hablo",
+        "hablas",
+        "habla"
+      ],
+      "explanation": "The nosotros present-tense form of hablar is hablamos.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_033",
+      "question": "What is the Spanish word for the number 'five'?",
+      "correctAnswer": "cinco",
+      "distractors": [
+        "siete",
+        "diez",
+        "veinte"
+      ],
+      "explanation": "The number five in Spanish is cinco.",
+      "memoryHook": "T-Rexy says: Count in Spanish every day.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_034",
+      "question": "What is the Spanish word for the number 'seven'?",
+      "correctAnswer": "siete",
+      "distractors": [
+        "nueve",
+        "doce",
+        "cincuenta"
+      ],
+      "explanation": "The number seven in Spanish is siete.",
+      "memoryHook": "T-Rexy says: Count in Spanish every day.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_035",
+      "question": "How do you make 'libro' plural in Spanish?",
+      "correctAnswer": "libros",
+      "distractors": [
+        "libroes",
+        "libras",
+        "librosos"
+      ],
+      "explanation": "Most Spanish nouns add -s to make the plural: libro becomes libros.",
+      "memoryHook": "T-Rexy says: Add -s for most plurals.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "grammar",
+        "plurals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_036",
+      "question": "What is the ellos form of 'recibir' (to receive) in the present tense?",
+      "correctAnswer": "reciben",
+      "distractors": [
+        "recibo",
+        "recibes",
+        "recibe"
+      ],
+      "explanation": "The ellos present-tense form of recibir is reciben.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_037",
+      "question": "How do you say 'How are you?' in Spanish?",
+      "correctAnswer": "Como estas?",
+      "distractors": [
+        "Como te llamas?",
+        "Donde vives?",
+        "Cuantos anos tienes?"
+      ],
+      "explanation": "How are you? in Spanish is Como estas?",
+      "memoryHook": "T-Rexy says: Como estas asks how you are.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "greetings"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_038",
+      "question": "What is the Spanish word for the number 'six'?",
+      "correctAnswer": "seis",
+      "distractors": [
+        "ocho",
+        "once",
+        "treinta"
+      ],
+      "explanation": "The number six in Spanish is seis.",
+      "memoryHook": "T-Rexy says: Count in Spanish every day.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_039",
+      "question": "What is the ellos form of 'vivir' (to live) in the present tense?",
+      "correctAnswer": "viven",
+      "distractors": [
+        "vivo",
+        "vives",
+        "vive"
+      ],
+      "explanation": "The ellos present-tense form of vivir is viven.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_040",
+      "question": "What is the capital of Spain?",
+      "correctAnswer": "Madrid",
+      "distractors": [
+        "Barcelona",
+        "Seville",
+        "Valencia"
+      ],
+      "explanation": "Madrid is the capital of Spain.",
+      "memoryHook": "T-Rexy says: Madrid is the capital.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "culture",
+        "geography"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_041",
+      "question": "Which word is the definite article for feminine plural nouns?",
+      "correctAnswer": "las",
+      "distractors": [
+        "el",
+        "la",
+        "los"
+      ],
+      "explanation": "Las goes with feminine plural nouns, like las casas.",
+      "memoryHook": "T-Rexy says: Las is feminine plural.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "articles",
+        "grammar"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_042",
+      "question": "What is the Spanish word for 'friend'?",
+      "correctAnswer": "el amigo",
+      "distractors": [
+        "la leche",
+        "verde",
+        "el padre"
+      ],
+      "explanation": "'friend' in Spanish is 'el amigo'.",
+      "memoryHook": "T-Rexy says: Learn words in pairs.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_043",
+      "question": "What is the el/ella form of 'escuchar' (to listen) in the present tense?",
+      "correctAnswer": "escucha",
+      "distractors": [
+        "escucho",
+        "escuchas",
+        "escuchamos"
+      ],
+      "explanation": "The el/ella present-tense form of escuchar is escucha.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_044",
+      "question": "What is the el/ella form of 'vender' (to sell) in the present tense?",
+      "correctAnswer": "vende",
+      "distractors": [
+        "vendo",
+        "vendes",
+        "vendemos"
+      ],
+      "explanation": "The el/ella present-tense form of vender is vende.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_045",
+      "question": "What is the yo form of 'hablar' (to speak) in the present tense?",
+      "correctAnswer": "hablo",
+      "distractors": [
+        "hablas",
+        "habla",
+        "hablamos"
+      ],
+      "explanation": "The yo present-tense form of hablar is hablo.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_046",
+      "question": "What is the el/ella form of 'nadar' (to swim) in the present tense?",
+      "correctAnswer": "nada",
+      "distractors": [
+        "nado",
+        "nadas",
+        "nadamos"
+      ],
+      "explanation": "The el/ella present-tense form of nadar is nada.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_047",
+      "question": "What is the el/ella form of 'comprar' (to buy) in the present tense?",
+      "correctAnswer": "compra",
+      "distractors": [
+        "compro",
+        "compras",
+        "compramos"
+      ],
+      "explanation": "The el/ella present-tense form of comprar is compra.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_048",
+      "question": "What is the Spanish word for 'cat'?",
+      "correctAnswer": "el gato",
+      "distractors": [
+        "el libro",
+        "la leche",
+        "verde"
+      ],
+      "explanation": "'cat' in Spanish is 'el gato'.",
+      "memoryHook": "T-Rexy says: Learn words in pairs.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_049",
+      "question": "What is the yo form of 'leer' (to read) in the present tense?",
+      "correctAnswer": "leo",
+      "distractors": [
+        "lees",
+        "lee",
+        "leemos"
+      ],
+      "explanation": "The yo present-tense form of leer is leo.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_050",
+      "question": "What is the yo form of 'ser' in the present tense?",
+      "correctAnswer": "soy",
+      "distractors": [
+        "eres",
+        "es",
+        "somos"
+      ],
+      "explanation": "The yo form of ser is soy.",
+      "memoryHook": "T-Rexy says: Irregular verbs need memorizing.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "irregular",
+        "present-tense"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_051",
+      "question": "What is the Spanish word for 'house'?",
+      "correctAnswer": "la casa",
+      "distractors": [
+        "el amigo",
+        "la manzana",
+        "negro"
+      ],
+      "explanation": "'house' in Spanish is 'la casa'.",
+      "memoryHook": "T-Rexy says: Learn words in pairs.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_052",
+      "question": "What is the el/ella form of 'tener' in the present tense?",
+      "correctAnswer": "tiene",
+      "distractors": [
+        "tengo",
+        "tienes",
+        "tenemos"
+      ],
+      "explanation": "The el/ella form of tener is tiene.",
+      "memoryHook": "T-Rexy says: Irregular verbs need memorizing.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "irregular",
+        "present-tense"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_053",
+      "question": "What is the ellos form of 'correr' (to run) in the present tense?",
+      "correctAnswer": "corren",
+      "distractors": [
+        "corro",
+        "corres",
+        "corre"
+      ],
+      "explanation": "The ellos present-tense form of correr is corren.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_054",
+      "question": "What is the Spanish word for the number 'four'?",
+      "correctAnswer": "cuatro",
+      "distractors": [
+        "seis",
+        "nueve",
+        "doce"
+      ],
+      "explanation": "The number four in Spanish is cuatro.",
+      "memoryHook": "T-Rexy says: Count in Spanish every day.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_055",
+      "question": "What is the Spanish word for 'sun'?",
+      "correctAnswer": "el sol",
+      "distractors": [
+        "la noche",
+        "la casa",
+        "el agua"
+      ],
+      "explanation": "'sun' in Spanish is 'el sol'.",
+      "memoryHook": "T-Rexy says: Learn words in pairs.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_056",
+      "question": "What does 'la biblioteca' mean in English?",
+      "correctAnswer": "the library",
+      "distractors": [
+        "the school",
+        "the book",
+        "the classroom"
+      ],
+      "explanation": "La biblioteca is the library.",
+      "memoryHook": "T-Rexy says: Biblioteca is the library.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "school"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_057",
+      "question": "What is the Spanish word for the number 'nine'?",
+      "correctAnswer": "nueve",
+      "distractors": [
+        "once",
+        "treinta",
+        "uno"
+      ],
+      "explanation": "The number nine in Spanish is nueve.",
+      "memoryHook": "T-Rexy says: Count in Spanish every day.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_058",
+      "question": "What is the tu form of 'vivir' (to live) in the present tense?",
+      "correctAnswer": "vives",
+      "distractors": [
+        "vivo",
+        "vive",
+        "vivimos"
+      ],
+      "explanation": "The tu present-tense form of vivir is vives.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_059",
+      "question": "What is the ellos form of 'leer' (to read) in the present tense?",
+      "correctAnswer": "leen",
+      "distractors": [
+        "leo",
+        "lees",
+        "lee"
+      ],
+      "explanation": "The ellos present-tense form of leer is leen.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_060",
+      "question": "What is the ellos form of 'aprender' (to learn) in the present tense?",
+      "correctAnswer": "aprenden",
+      "distractors": [
+        "aprendo",
+        "aprendes",
+        "aprende"
+      ],
+      "explanation": "The ellos present-tense form of aprender is aprenden.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_061",
+      "question": "What is the yo form of 'beber' (to drink) in the present tense?",
+      "correctAnswer": "bebo",
+      "distractors": [
+        "bebes",
+        "bebe",
+        "bebemos"
+      ],
+      "explanation": "The yo present-tense form of beber is bebo.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_062",
+      "question": "What is the yo form of 'correr' (to run) in the present tense?",
+      "correctAnswer": "corro",
+      "distractors": [
+        "corres",
+        "corre",
+        "corremos"
+      ],
+      "explanation": "The yo present-tense form of correr is corro.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_063",
+      "question": "What is the Spanish word for the number 'eight'?",
+      "correctAnswer": "ocho",
+      "distractors": [
+        "diez",
+        "veinte",
+        "cien"
+      ],
+      "explanation": "The number eight in Spanish is ocho.",
+      "memoryHook": "T-Rexy says: Count in Spanish every day.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_064",
+      "question": "What is the Spanish word for 'I like' when talking about one thing?",
+      "correctAnswer": "Me gusta",
+      "distractors": [
+        "Me gustan",
+        "Me gusto",
+        "Te gusta"
+      ],
+      "explanation": "Me gusta is used with one thing: Me gusta el libro.",
+      "memoryHook": "T-Rexy says: Me gusta is for one thing.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "phrases",
+        "gustar"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_065",
+      "question": "What is the yo form of 'escuchar' (to listen) in the present tense?",
+      "correctAnswer": "escucho",
+      "distractors": [
+        "escuchas",
+        "escucha",
+        "escuchamos"
+      ],
+      "explanation": "The yo present-tense form of escuchar is escucho.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_066",
+      "question": "What is the tu form of 'comer' (to eat) in the present tense?",
+      "correctAnswer": "comes",
+      "distractors": [
+        "como",
+        "come",
+        "comemos"
+      ],
+      "explanation": "The tu present-tense form of comer is comes.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_067",
+      "question": "Which word is the definite article for masculine plural nouns?",
+      "correctAnswer": "los",
+      "distractors": [
+        "el",
+        "la",
+        "las"
+      ],
+      "explanation": "Los goes with masculine plural nouns, like los libros.",
+      "memoryHook": "T-Rexy says: Los is masculine plural.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "articles",
+        "grammar"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_068",
+      "question": "What is the Spanish word for the number 'one'?",
+      "correctAnswer": "uno",
+      "distractors": [
+        "tres",
+        "seis",
+        "nueve"
+      ],
+      "explanation": "The number one in Spanish is uno.",
+      "memoryHook": "T-Rexy says: Count in Spanish every day.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_069",
+      "question": "What is the yo form of 'cantar' (to sing) in the present tense?",
+      "correctAnswer": "canto",
+      "distractors": [
+        "cantas",
+        "canta",
+        "cantamos"
+      ],
+      "explanation": "The yo present-tense form of cantar is canto.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_070",
+      "question": "What is the el/ella form of 'correr' (to run) in the present tense?",
+      "correctAnswer": "corre",
+      "distractors": [
+        "corro",
+        "corres",
+        "corremos"
+      ],
+      "explanation": "The el/ella present-tense form of correr is corre.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_071",
+      "question": "What is the yo form of 'tener' in the present tense?",
+      "correctAnswer": "tengo",
+      "distractors": [
+        "tienes",
+        "tiene",
+        "tenemos"
+      ],
+      "explanation": "The yo form of tener is tengo.",
+      "memoryHook": "T-Rexy says: Irregular verbs need memorizing.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "irregular",
+        "present-tense"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_072",
+      "question": "What is the yo form of 'comer' (to eat) in the present tense?",
+      "correctAnswer": "como",
+      "distractors": [
+        "comes",
+        "come",
+        "comemos"
+      ],
+      "explanation": "The yo present-tense form of comer is como.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_073",
+      "question": "What does 'Tengo trece anos' mean in English?",
+      "correctAnswer": "I am thirteen years old",
+      "distractors": [
+        "I have thirteen books",
+        "I am thirteen feet tall",
+        "I like thirteen"
+      ],
+      "explanation": "Tengo trece anos means I am thirteen years old.",
+      "memoryHook": "T-Rexy says: Tengo anos tells your age.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "phrases",
+        "age"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_074",
+      "question": "What is the Spanish word for the number 'two'?",
+      "correctAnswer": "dos",
+      "distractors": [
+        "cuatro",
+        "siete",
+        "diez"
+      ],
+      "explanation": "The number two in Spanish is dos.",
+      "memoryHook": "T-Rexy says: Count in Spanish every day.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_075",
+      "question": "What is the tu form of 'escribir' (to write) in the present tense?",
+      "correctAnswer": "escribes",
+      "distractors": [
+        "escribo",
+        "escribe",
+        "escribimos"
+      ],
+      "explanation": "The tu present-tense form of escribir is escribes.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_076",
+      "question": "What is the el/ella form of 'trabajar' (to work) in the present tense?",
+      "correctAnswer": "trabaja",
+      "distractors": [
+        "trabajo",
+        "trabajas",
+        "trabajamos"
+      ],
+      "explanation": "The el/ella present-tense form of trabajar is trabaja.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_077",
+      "question": "What is the ellos form of 'abrir' (to open) in the present tense?",
+      "correctAnswer": "abren",
+      "distractors": [
+        "abro",
+        "abres",
+        "abre"
+      ],
+      "explanation": "The ellos present-tense form of abrir is abren.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_078",
+      "question": "What is the yo form of 'estar' in the present tense?",
+      "correctAnswer": "estoy",
+      "distractors": [
+        "estas",
+        "esta",
+        "estamos"
+      ],
+      "explanation": "The yo form of estar is estoy.",
+      "memoryHook": "T-Rexy says: Irregular verbs need memorizing.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "irregular",
+        "present-tense"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_079",
+      "question": "What is the capital of Mexico?",
+      "correctAnswer": "Mexico City",
+      "distractors": [
+        "Guadalajara",
+        "Monterrey",
+        "Cancun"
+      ],
+      "explanation": "Mexico City is the capital of Mexico.",
+      "memoryHook": "T-Rexy says: Mexico City is the capital.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "culture",
+        "geography"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_080",
+      "question": "What is the Spanish word for Sunday?",
+      "correctAnswer": "domingo",
+      "distractors": [
+        "lunes",
+        "sabado",
+        "viernes"
+      ],
+      "explanation": "Sunday in Spanish is domingo.",
+      "memoryHook": "T-Rexy says: Domingo is Sunday.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "days"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_081",
+      "question": "What is the Spanish word for 'black'?",
+      "correctAnswer": "negro",
+      "distractors": [
+        "el padre",
+        "el estudiante",
+        "la ventana"
+      ],
+      "explanation": "'black' in Spanish is 'negro'.",
+      "memoryHook": "T-Rexy says: Learn words in pairs.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_082",
+      "question": "What is the yo form of 'nadar' (to swim) in the present tense?",
+      "correctAnswer": "nado",
+      "distractors": [
+        "nadas",
+        "nada",
+        "nadamos"
+      ],
+      "explanation": "The yo present-tense form of nadar is nado.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_083",
+      "question": "What is the ellos form of 'beber' (to drink) in the present tense?",
+      "correctAnswer": "beben",
+      "distractors": [
+        "bebo",
+        "bebes",
+        "bebe"
+      ],
+      "explanation": "The ellos present-tense form of beber is beben.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_084",
+      "question": "What is the el/ella form of 'hablar' (to speak) in the present tense?",
+      "correctAnswer": "habla",
+      "distractors": [
+        "hablo",
+        "hablas",
+        "hablamos"
+      ],
+      "explanation": "The el/ella present-tense form of hablar is habla.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_085",
+      "question": "Which verb do you use to say where something is located?",
+      "correctAnswer": "estar",
+      "distractors": [
+        "ser",
+        "ir",
+        "tener"
+      ],
+      "explanation": "Use estar for location: La escuela esta aqui.",
+      "memoryHook": "T-Rexy says: Estar is for location.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "ser-estar"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_086",
+      "question": "What is the ellos form of 'nadar' (to swim) in the present tense?",
+      "correctAnswer": "nadan",
+      "distractors": [
+        "nado",
+        "nadas",
+        "nada"
+      ],
+      "explanation": "The ellos present-tense form of nadar is nadan.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_087",
+      "question": "What is the Spanish word for the number 'one hundred'?",
+      "correctAnswer": "cien",
+      "distractors": [
+        "dos",
+        "cinco",
+        "ocho"
+      ],
+      "explanation": "The number one hundred in Spanish is cien.",
+      "memoryHook": "T-Rexy says: Count in Spanish every day.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_088",
+      "question": "What does 'Me llamo Ana' mean in English?",
+      "correctAnswer": "My name is Ana",
+      "distractors": [
+        "I am Ana's friend",
+        "Ana is my sister",
+        "I like Ana"
+      ],
+      "explanation": "Me llamo means my name is.",
+      "memoryHook": "T-Rexy says: Me llamo introduces yourself.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "phrases"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_089",
+      "question": "What is the Spanish word for 'green'?",
+      "correctAnswer": "verde",
+      "distractors": [
+        "la madre",
+        "el maestro",
+        "la puerta"
+      ],
+      "explanation": "'green' in Spanish is 'verde'.",
+      "memoryHook": "T-Rexy says: Learn words in pairs.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_090",
+      "question": "What is the Spanish word for 'blue'?",
+      "correctAnswer": "azul",
+      "distractors": [
+        "blanco",
+        "el hermano",
+        "la silla"
+      ],
+      "explanation": "'blue' in Spanish is 'azul'.",
+      "memoryHook": "T-Rexy says: Learn words in pairs.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_091",
+      "question": "What is the Spanish word for summer?",
+      "correctAnswer": "el verano",
+      "distractors": [
+        "el invierno",
+        "la primavera",
+        "el otono"
+      ],
+      "explanation": "Summer in Spanish is el verano.",
+      "memoryHook": "T-Rexy says: Verano is summer.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "seasons"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_092",
+      "question": "What is the ellos form of 'escuchar' (to listen) in the present tense?",
+      "correctAnswer": "escuchan",
+      "distractors": [
+        "escucho",
+        "escuchas",
+        "escucha"
+      ],
+      "explanation": "The ellos present-tense form of escuchar is escuchan.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_093",
+      "question": "How do you say 'Please' in Spanish?",
+      "correctAnswer": "Por favor",
+      "distractors": [
+        "Gracias",
+        "Lo siento",
+        "De nada"
+      ],
+      "explanation": "Please in Spanish is Por favor.",
+      "memoryHook": "T-Rexy says: Por favor means please.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "greetings"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_094",
+      "question": "What does 'por favor' mean in English?",
+      "correctAnswer": "please",
+      "distractors": [
+        "thank you",
+        "excuse me",
+        "you are welcome"
+      ],
+      "explanation": "Por favor means please.",
+      "memoryHook": "T-Rexy says: Por favor means please.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "phrases"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_095",
+      "question": "What is the el/ella form of 'estudiar' (to study) in the present tense?",
+      "correctAnswer": "estudia",
+      "distractors": [
+        "estudio",
+        "estudias",
+        "estudiamos"
+      ],
+      "explanation": "The el/ella present-tense form of estudiar is estudia.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_096",
+      "question": "What is the nosotros form of 'ir' in the present tense?",
+      "correctAnswer": "vamos",
+      "distractors": [
+        "voy",
+        "vas",
+        "va"
+      ],
+      "explanation": "The nosotros form of ir is vamos.",
+      "memoryHook": "T-Rexy says: Irregular verbs need memorizing.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "irregular",
+        "present-tense"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_097",
+      "question": "What is the nosotros form of 'tener' in the present tense?",
+      "correctAnswer": "tenemos",
+      "distractors": [
+        "tengo",
+        "tienes",
+        "tiene"
+      ],
+      "explanation": "The nosotros form of tener is tenemos.",
+      "memoryHook": "T-Rexy says: Irregular verbs need memorizing.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "irregular",
+        "present-tense"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_098",
+      "question": "What is the ellos form of 'escribir' (to write) in the present tense?",
+      "correctAnswer": "escriben",
+      "distractors": [
+        "escribo",
+        "escribes",
+        "escribe"
+      ],
+      "explanation": "The ellos present-tense form of escribir is escriben.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_099",
+      "question": "What is the yo form of 'aprender' (to learn) in the present tense?",
+      "correctAnswer": "aprendo",
+      "distractors": [
+        "aprendes",
+        "aprende",
+        "aprendemos"
+      ],
+      "explanation": "The yo present-tense form of aprender is aprendo.",
+      "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "verbs",
+        "present-tense",
+        "conjugation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA8_100",
+      "question": "How do you say 'Goodbye' in Spanish?",
+      "correctAnswer": "Adios",
+      "distractors": [
+        "Hola",
+        "Gracias",
+        "Buenos dias"
+      ],
+      "explanation": "Goodbye in Spanish is Adios.",
+      "memoryHook": "T-Rexy says: Adios means goodbye.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "greetings"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}

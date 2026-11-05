@@ -1,0 +1,2015 @@
+{
+  "packId": "gr9-spanish-1",
+  "version": 1.0,
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 100,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "spanish",
+    "language",
+    "9th"
+  ],
+  "questions": [
+    {
+      "id": "SPA9_001",
+      "question": "What is the Spanish word for 'one'?",
+      "correctAnswer": "uno",
+      "distractors": [
+        "dos",
+        "tres",
+        "cuatro"
+      ],
+      "explanation": "'one' in Spanish is 'uno'.",
+      "memoryHook": "T-Rexy says: 'one' is 'uno' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_002",
+      "question": "What is the Spanish word for 'two'?",
+      "correctAnswer": "dos",
+      "distractors": [
+        "uno",
+        "tres",
+        "cinco"
+      ],
+      "explanation": "'two' in Spanish is 'dos'.",
+      "memoryHook": "T-Rexy says: 'two' is 'dos' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_003",
+      "question": "What is the Spanish word for 'three'?",
+      "correctAnswer": "tres",
+      "distractors": [
+        "dos",
+        "cuatro",
+        "uno"
+      ],
+      "explanation": "'three' in Spanish is 'tres'.",
+      "memoryHook": "T-Rexy says: 'three' is 'tres' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_004",
+      "question": "What is the Spanish word for 'four'?",
+      "correctAnswer": "cuatro",
+      "distractors": [
+        "tres",
+        "cinco",
+        "dos"
+      ],
+      "explanation": "'four' in Spanish is 'cuatro'.",
+      "memoryHook": "T-Rexy says: 'four' is 'cuatro' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_005",
+      "question": "What is the Spanish word for 'five'?",
+      "correctAnswer": "cinco",
+      "distractors": [
+        "cuatro",
+        "seis",
+        "tres"
+      ],
+      "explanation": "'five' in Spanish is 'cinco'.",
+      "memoryHook": "T-Rexy says: 'five' is 'cinco' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_006",
+      "question": "What is the Spanish word for 'ten'?",
+      "correctAnswer": "diez",
+      "distractors": [
+        "nueve",
+        "once",
+        "ocho"
+      ],
+      "explanation": "'ten' in Spanish is 'diez'.",
+      "memoryHook": "T-Rexy says: 'ten' is 'diez' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_007",
+      "question": "What is the Spanish word for 'red'?",
+      "correctAnswer": "rojo",
+      "distractors": [
+        "azul",
+        "verde",
+        "negro"
+      ],
+      "explanation": "'red' in Spanish is 'rojo'.",
+      "memoryHook": "T-Rexy says: 'red' is 'rojo' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "colors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_008",
+      "question": "What is the Spanish word for 'blue'?",
+      "correctAnswer": "azul",
+      "distractors": [
+        "rojo",
+        "verde",
+        "amarillo"
+      ],
+      "explanation": "'blue' in Spanish is 'azul'.",
+      "memoryHook": "T-Rexy says: 'blue' is 'azul' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "colors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_009",
+      "question": "What is the Spanish word for 'green'?",
+      "correctAnswer": "verde",
+      "distractors": [
+        "azul",
+        "rojo",
+        "blanco"
+      ],
+      "explanation": "'green' in Spanish is 'verde'.",
+      "memoryHook": "T-Rexy says: 'green' is 'verde' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "colors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_010",
+      "question": "What is the Spanish word for 'yellow'?",
+      "correctAnswer": "amarillo",
+      "distractors": [
+        "rojo",
+        "azul",
+        "verde"
+      ],
+      "explanation": "'yellow' in Spanish is 'amarillo'.",
+      "memoryHook": "T-Rexy says: 'yellow' is 'amarillo' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "colors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_011",
+      "question": "What is the Spanish word for 'black'?",
+      "correctAnswer": "negro",
+      "distractors": [
+        "blanco",
+        "rojo",
+        "azul"
+      ],
+      "explanation": "'black' in Spanish is 'negro'.",
+      "memoryHook": "T-Rexy says: 'black' is 'negro' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "colors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_012",
+      "question": "What is the Spanish word for 'white'?",
+      "correctAnswer": "blanco",
+      "distractors": [
+        "negro",
+        "rojo",
+        "gris"
+      ],
+      "explanation": "'white' in Spanish is 'blanco'.",
+      "memoryHook": "T-Rexy says: 'white' is 'blanco' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "colors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_013",
+      "question": "What is the Spanish word for 'mother'?",
+      "correctAnswer": "madre",
+      "distractors": [
+        "padre",
+        "hermana",
+        "abuela"
+      ],
+      "explanation": "'mother' in Spanish is 'madre'.",
+      "memoryHook": "T-Rexy says: 'mother' is 'madre' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "family"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_014",
+      "question": "What is the Spanish word for 'father'?",
+      "correctAnswer": "padre",
+      "distractors": [
+        "madre",
+        "hermano",
+        "abuelo"
+      ],
+      "explanation": "'father' in Spanish is 'padre'.",
+      "memoryHook": "T-Rexy says: 'father' is 'padre' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "family"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_015",
+      "question": "What is the Spanish word for 'brother'?",
+      "correctAnswer": "hermano",
+      "distractors": [
+        "hermana",
+        "padre",
+        "primo"
+      ],
+      "explanation": "'brother' in Spanish is 'hermano'.",
+      "memoryHook": "T-Rexy says: 'brother' is 'hermano' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "family"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_016",
+      "question": "What is the Spanish word for 'sister'?",
+      "correctAnswer": "hermana",
+      "distractors": [
+        "hermano",
+        "madre",
+        "prima"
+      ],
+      "explanation": "'sister' in Spanish is 'hermana'.",
+      "memoryHook": "T-Rexy says: 'sister' is 'hermana' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "family"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_017",
+      "question": "What is the Spanish word for 'friend'?",
+      "correctAnswer": "amigo",
+      "distractors": [
+        "enemigo",
+        "vecino",
+        "profesor"
+      ],
+      "explanation": "'friend' in Spanish is 'amigo'.",
+      "memoryHook": "T-Rexy says: 'friend' is 'amigo' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "people"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_018",
+      "question": "What is the Spanish word for 'teacher'?",
+      "correctAnswer": "profesor",
+      "distractors": [
+        "estudiante",
+        "amigo",
+        "doctor"
+      ],
+      "explanation": "'teacher' in Spanish is 'profesor'.",
+      "memoryHook": "T-Rexy says: 'teacher' is 'profesor' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "school"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_019",
+      "question": "What is the Spanish word for 'student'?",
+      "correctAnswer": "estudiante",
+      "distractors": [
+        "profesor",
+        "amigo",
+        "doctor"
+      ],
+      "explanation": "'student' in Spanish is 'estudiante'.",
+      "memoryHook": "T-Rexy says: 'student' is 'estudiante' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "school"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_020",
+      "question": "What is the Spanish word for 'school'?",
+      "correctAnswer": "escuela",
+      "distractors": [
+        "casa",
+        "tienda",
+        "iglesia"
+      ],
+      "explanation": "'school' in Spanish is 'escuela'.",
+      "memoryHook": "T-Rexy says: 'school' is 'escuela' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "school"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_021",
+      "question": "What is the Spanish word for 'house'?",
+      "correctAnswer": "casa",
+      "distractors": [
+        "escuela",
+        "tienda",
+        "calle"
+      ],
+      "explanation": "'house' in Spanish is 'casa'.",
+      "memoryHook": "T-Rexy says: 'house' is 'casa' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "home"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_022",
+      "question": "What is the Spanish word for 'water'?",
+      "correctAnswer": "agua",
+      "distractors": [
+        "leche",
+        "jugo",
+        "pan"
+      ],
+      "explanation": "'water' in Spanish is 'agua'.",
+      "memoryHook": "T-Rexy says: 'water' is 'agua' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "food"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_023",
+      "question": "What is the Spanish word for 'bread'?",
+      "correctAnswer": "pan",
+      "distractors": [
+        "agua",
+        "queso",
+        "arroz"
+      ],
+      "explanation": "'bread' in Spanish is 'pan'.",
+      "memoryHook": "T-Rexy says: 'bread' is 'pan' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "food"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_024",
+      "question": "What is the Spanish word for 'milk'?",
+      "correctAnswer": "leche",
+      "distractors": [
+        "agua",
+        "jugo",
+        "pan"
+      ],
+      "explanation": "'milk' in Spanish is 'leche'.",
+      "memoryHook": "T-Rexy says: 'milk' is 'leche' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "food"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_025",
+      "question": "What is the Spanish word for 'dog'?",
+      "correctAnswer": "perro",
+      "distractors": [
+        "gato",
+        "pajaro",
+        "pez"
+      ],
+      "explanation": "'dog' in Spanish is 'perro'.",
+      "memoryHook": "T-Rexy says: 'dog' is 'perro' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "animals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_026",
+      "question": "What is the Spanish word for 'cat'?",
+      "correctAnswer": "gato",
+      "distractors": [
+        "perro",
+        "pajaro",
+        "pez"
+      ],
+      "explanation": "'cat' in Spanish is 'gato'.",
+      "memoryHook": "T-Rexy says: 'cat' is 'gato' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "animals"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_027",
+      "question": "What is the Spanish word for 'bird'?",
+      "correctAnswer": "pajaro",
+      "distractors": [
+        "gato",
+        "perro",
+        "pez"
+      ],
+      "explanation": "'bird' in Spanish is 'pajaro'.",
+      "memoryHook": "T-Rexy says: 'bird' is 'pajaro' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "animals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_028",
+      "question": "What is the Spanish word for 'fish'?",
+      "correctAnswer": "pez",
+      "distractors": [
+        "pajaro",
+        "gato",
+        "perro"
+      ],
+      "explanation": "'fish' in Spanish is 'pez'.",
+      "memoryHook": "T-Rexy says: 'fish' is 'pez' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "animals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_029",
+      "question": "What is the Spanish word for 'book'?",
+      "correctAnswer": "libro",
+      "distractors": [
+        "lapiz",
+        "mesa",
+        "silla"
+      ],
+      "explanation": "'book' in Spanish is 'libro'.",
+      "memoryHook": "T-Rexy says: 'book' is 'libro' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "school"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_030",
+      "question": "What is the Spanish word for 'table'?",
+      "correctAnswer": "mesa",
+      "distractors": [
+        "silla",
+        "libro",
+        "puerta"
+      ],
+      "explanation": "'table' in Spanish is 'mesa'.",
+      "memoryHook": "T-Rexy says: 'table' is 'mesa' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "home"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_031",
+      "question": "What is the Spanish word for 'chair'?",
+      "correctAnswer": "silla",
+      "distractors": [
+        "mesa",
+        "libro",
+        "puerta"
+      ],
+      "explanation": "'chair' in Spanish is 'silla'.",
+      "memoryHook": "T-Rexy says: 'chair' is 'silla' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "home"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_032",
+      "question": "What is the Spanish word for 'door'?",
+      "correctAnswer": "puerta",
+      "distractors": [
+        "ventana",
+        "mesa",
+        "silla"
+      ],
+      "explanation": "'door' in Spanish is 'puerta'.",
+      "memoryHook": "T-Rexy says: 'door' is 'puerta' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "home"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_033",
+      "question": "What is the Spanish word for 'window'?",
+      "correctAnswer": "ventana",
+      "distractors": [
+        "puerta",
+        "mesa",
+        "pared"
+      ],
+      "explanation": "'window' in Spanish is 'ventana'.",
+      "memoryHook": "T-Rexy says: 'window' is 'ventana' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "home"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_034",
+      "question": "What is the Spanish word for 'day'?",
+      "correctAnswer": "dia",
+      "distractors": [
+        "noche",
+        "tarde",
+        "manana"
+      ],
+      "explanation": "'day' in Spanish is 'dia'.",
+      "memoryHook": "T-Rexy says: 'day' is 'dia' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "time"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_035",
+      "question": "What is the Spanish word for 'night'?",
+      "correctAnswer": "noche",
+      "distractors": [
+        "dia",
+        "tarde",
+        "manana"
+      ],
+      "explanation": "'night' in Spanish is 'noche'.",
+      "memoryHook": "T-Rexy says: 'night' is 'noche' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "time"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_036",
+      "question": "What is the Spanish word for 'morning'?",
+      "correctAnswer": "manana",
+      "distractors": [
+        "noche",
+        "tarde",
+        "dia"
+      ],
+      "explanation": "'morning' in Spanish is 'manana'.",
+      "memoryHook": "T-Rexy says: 'morning' is 'manana' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "time"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_037",
+      "question": "What is the Spanish word for 'hello'?",
+      "correctAnswer": "hola",
+      "distractors": [
+        "adios",
+        "gracias",
+        "por favor"
+      ],
+      "explanation": "'hello' in Spanish is 'hola'.",
+      "memoryHook": "T-Rexy says: 'hello' is 'hola' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "greetings"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_038",
+      "question": "What is the Spanish word for 'goodbye'?",
+      "correctAnswer": "adios",
+      "distractors": [
+        "hola",
+        "gracias",
+        "buenos dias"
+      ],
+      "explanation": "'goodbye' in Spanish is 'adios'.",
+      "memoryHook": "T-Rexy says: 'goodbye' is 'adios' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "greetings"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_039",
+      "question": "What is the Spanish word for 'thank you'?",
+      "correctAnswer": "gracias",
+      "distractors": [
+        "por favor",
+        "hola",
+        "adios"
+      ],
+      "explanation": "'thank you' in Spanish is 'gracias'.",
+      "memoryHook": "T-Rexy says: 'thank you' is 'gracias' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "greetings"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_040",
+      "question": "What is the Spanish word for 'please'?",
+      "correctAnswer": "por favor",
+      "distractors": [
+        "gracias",
+        "hola",
+        "adios"
+      ],
+      "explanation": "'please' in Spanish is 'por favor'.",
+      "memoryHook": "T-Rexy says: 'please' is 'por favor' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "greetings"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_041",
+      "question": "What is the Spanish word for 'good morning'?",
+      "correctAnswer": "buenos dias",
+      "distractors": [
+        "buenas noches",
+        "buenas tardes",
+        "hola"
+      ],
+      "explanation": "'good morning' in Spanish is 'buenos dias'.",
+      "memoryHook": "T-Rexy says: 'good morning' is 'buenos dias' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "greetings"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_042",
+      "question": "What is the Spanish word for 'good night'?",
+      "correctAnswer": "buenas noches",
+      "distractors": [
+        "buenos dias",
+        "buenas tardes",
+        "hola"
+      ],
+      "explanation": "'good night' in Spanish is 'buenas noches'.",
+      "memoryHook": "T-Rexy says: 'good night' is 'buenas noches' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "greetings"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_043",
+      "question": "What is the Spanish word for 'to eat'?",
+      "correctAnswer": "comer",
+      "distractors": [
+        "beber",
+        "vivir",
+        "hablar"
+      ],
+      "explanation": "'to eat' in Spanish is 'comer'.",
+      "memoryHook": "T-Rexy says: 'to eat' is 'comer' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "verbs"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_044",
+      "question": "What is the Spanish word for 'to drink'?",
+      "correctAnswer": "beber",
+      "distractors": [
+        "comer",
+        "vivir",
+        "hablar"
+      ],
+      "explanation": "'to drink' in Spanish is 'beber'.",
+      "memoryHook": "T-Rexy says: 'to drink' is 'beber' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "verbs"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_045",
+      "question": "What is the Spanish word for 'to speak'?",
+      "correctAnswer": "hablar",
+      "distractors": [
+        "comer",
+        "beber",
+        "vivir"
+      ],
+      "explanation": "'to speak' in Spanish is 'hablar'.",
+      "memoryHook": "T-Rexy says: 'to speak' is 'hablar' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "verbs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_046",
+      "question": "What is the Spanish word for 'to live'?",
+      "correctAnswer": "vivir",
+      "distractors": [
+        "comer",
+        "beber",
+        "hablar"
+      ],
+      "explanation": "'to live' in Spanish is 'vivir'.",
+      "memoryHook": "T-Rexy says: 'to live' is 'vivir' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "verbs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_047",
+      "question": "What is the Spanish word for 'to run'?",
+      "correctAnswer": "correr",
+      "distractors": [
+        "caminar",
+        "saltar",
+        "nadar"
+      ],
+      "explanation": "'to run' in Spanish is 'correr'.",
+      "memoryHook": "T-Rexy says: 'to run' is 'correr' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "verbs"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_048",
+      "question": "What is the Spanish word for 'to walk'?",
+      "correctAnswer": "caminar",
+      "distractors": [
+        "correr",
+        "saltar",
+        "nadar"
+      ],
+      "explanation": "'to walk' in Spanish is 'caminar'.",
+      "memoryHook": "T-Rexy says: 'to walk' is 'caminar' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "verbs"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_049",
+      "question": "What is the Spanish word for 'big'?",
+      "correctAnswer": "grande",
+      "distractors": [
+        "pequeno",
+        "alto",
+        "bajo"
+      ],
+      "explanation": "'big' in Spanish is 'grande'.",
+      "memoryHook": "T-Rexy says: 'big' is 'grande' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "adjectives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_050",
+      "question": "What is the Spanish word for 'small'?",
+      "correctAnswer": "pequeno",
+      "distractors": [
+        "grande",
+        "alto",
+        "bajo"
+      ],
+      "explanation": "'small' in Spanish is 'pequeno'.",
+      "memoryHook": "T-Rexy says: 'small' is 'pequeno' in Spanish.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "adjectives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_051",
+      "question": "What does 'uno' mean in English?",
+      "correctAnswer": "one",
+      "distractors": [
+        "water",
+        "black",
+        "bird"
+      ],
+      "explanation": "'uno' means 'one' in English.",
+      "memoryHook": "T-Rexy says: 'uno' means 'one'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_052",
+      "question": "What does 'dos' mean in English?",
+      "correctAnswer": "two",
+      "distractors": [
+        "to eat",
+        "five",
+        "ten"
+      ],
+      "explanation": "'dos' means 'two' in English.",
+      "memoryHook": "T-Rexy says: 'dos' means 'two'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_053",
+      "question": "What does 'tres' mean in English?",
+      "correctAnswer": "three",
+      "distractors": [
+        "morning",
+        "blue",
+        "dog"
+      ],
+      "explanation": "'tres' means 'three' in English.",
+      "memoryHook": "T-Rexy says: 'tres' means 'three'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_054",
+      "question": "What does 'cuatro' mean in English?",
+      "correctAnswer": "four",
+      "distractors": [
+        "thank you",
+        "five",
+        "day"
+      ],
+      "explanation": "'cuatro' means 'four' in English.",
+      "memoryHook": "T-Rexy says: 'cuatro' means 'four'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_055",
+      "question": "What does 'cinco' mean in English?",
+      "correctAnswer": "five",
+      "distractors": [
+        "brother",
+        "three",
+        "red"
+      ],
+      "explanation": "'cinco' means 'five' in English.",
+      "memoryHook": "T-Rexy says: 'cinco' means 'five'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_056",
+      "question": "What does 'diez' mean in English?",
+      "correctAnswer": "ten",
+      "distractors": [
+        "book",
+        "fish",
+        "five"
+      ],
+      "explanation": "'diez' means 'ten' in English.",
+      "memoryHook": "T-Rexy says: 'diez' means 'ten'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "numbers"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_057",
+      "question": "What does 'rojo' mean in English?",
+      "correctAnswer": "red",
+      "distractors": [
+        "friend",
+        "ten",
+        "hello"
+      ],
+      "explanation": "'rojo' means 'red' in English.",
+      "memoryHook": "T-Rexy says: 'rojo' means 'red'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "colors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_058",
+      "question": "What does 'azul' mean in English?",
+      "correctAnswer": "blue",
+      "distractors": [
+        "book",
+        "four",
+        "goodbye"
+      ],
+      "explanation": "'azul' means 'blue' in English.",
+      "memoryHook": "T-Rexy says: 'azul' means 'blue'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "colors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_059",
+      "question": "What does 'verde' mean in English?",
+      "correctAnswer": "green",
+      "distractors": [
+        "blue",
+        "sister",
+        "good night"
+      ],
+      "explanation": "'verde' means 'green' in English.",
+      "memoryHook": "T-Rexy says: 'verde' means 'green'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "colors"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_060",
+      "question": "What does 'amarillo' mean in English?",
+      "correctAnswer": "yellow",
+      "distractors": [
+        "good night",
+        "thank you",
+        "four"
+      ],
+      "explanation": "'amarillo' means 'yellow' in English.",
+      "memoryHook": "T-Rexy says: 'amarillo' means 'yellow'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "colors"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_061",
+      "question": "What does 'negro' mean in English?",
+      "correctAnswer": "black",
+      "distractors": [
+        "goodbye",
+        "thank you",
+        "bird"
+      ],
+      "explanation": "'negro' means 'black' in English.",
+      "memoryHook": "T-Rexy says: 'negro' means 'black'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "colors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_062",
+      "question": "What does 'blanco' mean in English?",
+      "correctAnswer": "white",
+      "distractors": [
+        "four",
+        "sister",
+        "three"
+      ],
+      "explanation": "'blanco' means 'white' in English.",
+      "memoryHook": "T-Rexy says: 'blanco' means 'white'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "colors"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_063",
+      "question": "What does 'madre' mean in English?",
+      "correctAnswer": "mother",
+      "distractors": [
+        "hello",
+        "green",
+        "school"
+      ],
+      "explanation": "'madre' means 'mother' in English.",
+      "memoryHook": "T-Rexy says: 'madre' means 'mother'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "family"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_064",
+      "question": "What does 'padre' mean in English?",
+      "correctAnswer": "father",
+      "distractors": [
+        "fish",
+        "yellow",
+        "morning"
+      ],
+      "explanation": "'padre' means 'father' in English.",
+      "memoryHook": "T-Rexy says: 'padre' means 'father'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "family"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_065",
+      "question": "What does 'hermano' mean in English?",
+      "correctAnswer": "brother",
+      "distractors": [
+        "blue",
+        "goodbye",
+        "house"
+      ],
+      "explanation": "'hermano' means 'brother' in English.",
+      "memoryHook": "T-Rexy says: 'hermano' means 'brother'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "family"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_066",
+      "question": "What does 'hermana' mean in English?",
+      "correctAnswer": "sister",
+      "distractors": [
+        "hello",
+        "to speak",
+        "white"
+      ],
+      "explanation": "'hermana' means 'sister' in English.",
+      "memoryHook": "T-Rexy says: 'hermana' means 'sister'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "family"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_067",
+      "question": "What does 'amigo' mean in English?",
+      "correctAnswer": "friend",
+      "distractors": [
+        "red",
+        "thank you",
+        "goodbye"
+      ],
+      "explanation": "'amigo' means 'friend' in English.",
+      "memoryHook": "T-Rexy says: 'amigo' means 'friend'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "people"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_068",
+      "question": "What does 'profesor' mean in English?",
+      "correctAnswer": "teacher",
+      "distractors": [
+        "good night",
+        "mother",
+        "dog"
+      ],
+      "explanation": "'profesor' means 'teacher' in English.",
+      "memoryHook": "T-Rexy says: 'profesor' means 'teacher'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "school"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_069",
+      "question": "What does 'estudiante' mean in English?",
+      "correctAnswer": "student",
+      "distractors": [
+        "red",
+        "hello",
+        "to run"
+      ],
+      "explanation": "'estudiante' means 'student' in English.",
+      "memoryHook": "T-Rexy says: 'estudiante' means 'student'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "school"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_070",
+      "question": "What does 'escuela' mean in English?",
+      "correctAnswer": "school",
+      "distractors": [
+        "five",
+        "goodbye",
+        "four"
+      ],
+      "explanation": "'escuela' means 'school' in English.",
+      "memoryHook": "T-Rexy says: 'escuela' means 'school'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "school"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_071",
+      "question": "What does 'casa' mean in English?",
+      "correctAnswer": "house",
+      "distractors": [
+        "good morning",
+        "father",
+        "window"
+      ],
+      "explanation": "'casa' means 'house' in English.",
+      "memoryHook": "T-Rexy says: 'casa' means 'house'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "home"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_072",
+      "question": "What does 'agua' mean in English?",
+      "correctAnswer": "water",
+      "distractors": [
+        "to speak",
+        "morning",
+        "book"
+      ],
+      "explanation": "'agua' means 'water' in English.",
+      "memoryHook": "T-Rexy says: 'agua' means 'water'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "food"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_073",
+      "question": "What does 'pan' mean in English?",
+      "correctAnswer": "bread",
+      "distractors": [
+        "happy",
+        "house",
+        "chair"
+      ],
+      "explanation": "'pan' means 'bread' in English.",
+      "memoryHook": "T-Rexy says: 'pan' means 'bread'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "food"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_074",
+      "question": "What does 'leche' mean in English?",
+      "correctAnswer": "milk",
+      "distractors": [
+        "thank you",
+        "chair",
+        "dog"
+      ],
+      "explanation": "'leche' means 'milk' in English.",
+      "memoryHook": "T-Rexy says: 'leche' means 'milk'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "food"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_075",
+      "question": "What does 'perro' mean in English?",
+      "correctAnswer": "dog",
+      "distractors": [
+        "school",
+        "sister",
+        "sad"
+      ],
+      "explanation": "'perro' means 'dog' in English.",
+      "memoryHook": "T-Rexy says: 'perro' means 'dog'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "animals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_076",
+      "question": "What does 'gato' mean in English?",
+      "correctAnswer": "cat",
+      "distractors": [
+        "white",
+        "to live",
+        "happy"
+      ],
+      "explanation": "'gato' means 'cat' in English.",
+      "memoryHook": "T-Rexy says: 'gato' means 'cat'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "animals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_077",
+      "question": "What does 'pajaro' mean in English?",
+      "correctAnswer": "bird",
+      "distractors": [
+        "sister",
+        "ten",
+        "goodbye"
+      ],
+      "explanation": "'pajaro' means 'bird' in English.",
+      "memoryHook": "T-Rexy says: 'pajaro' means 'bird'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "animals"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_078",
+      "question": "What does 'pez' mean in English?",
+      "correctAnswer": "fish",
+      "distractors": [
+        "school",
+        "night",
+        "window"
+      ],
+      "explanation": "'pez' means 'fish' in English.",
+      "memoryHook": "T-Rexy says: 'pez' means 'fish'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "animals"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_079",
+      "question": "What does 'libro' mean in English?",
+      "correctAnswer": "book",
+      "distractors": [
+        "water",
+        "to walk",
+        "table"
+      ],
+      "explanation": "'libro' means 'book' in English.",
+      "memoryHook": "T-Rexy says: 'libro' means 'book'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "school"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_080",
+      "question": "What does 'mesa' mean in English?",
+      "correctAnswer": "table",
+      "distractors": [
+        "student",
+        "please",
+        "five"
+      ],
+      "explanation": "'mesa' means 'table' in English.",
+      "memoryHook": "T-Rexy says: 'mesa' means 'table'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "home"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_081",
+      "question": "What does 'silla' mean in English?",
+      "correctAnswer": "chair",
+      "distractors": [
+        "blue",
+        "day",
+        "bird"
+      ],
+      "explanation": "'silla' means 'chair' in English.",
+      "memoryHook": "T-Rexy says: 'silla' means 'chair'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "home"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_082",
+      "question": "What does 'puerta' mean in English?",
+      "correctAnswer": "door",
+      "distractors": [
+        "black",
+        "small",
+        "water"
+      ],
+      "explanation": "'puerta' means 'door' in English.",
+      "memoryHook": "T-Rexy says: 'puerta' means 'door'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "home"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_083",
+      "question": "What does 'ventana' mean in English?",
+      "correctAnswer": "window",
+      "distractors": [
+        "yellow",
+        "door",
+        "bird"
+      ],
+      "explanation": "'ventana' means 'window' in English.",
+      "memoryHook": "T-Rexy says: 'ventana' means 'window'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "home"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_084",
+      "question": "What does 'dia' mean in English?",
+      "correctAnswer": "day",
+      "distractors": [
+        "three",
+        "to drink",
+        "five"
+      ],
+      "explanation": "'dia' means 'day' in English.",
+      "memoryHook": "T-Rexy says: 'dia' means 'day'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "time"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_085",
+      "question": "What does 'noche' mean in English?",
+      "correctAnswer": "night",
+      "distractors": [
+        "small",
+        "hello",
+        "goodbye"
+      ],
+      "explanation": "'noche' means 'night' in English.",
+      "memoryHook": "T-Rexy says: 'noche' means 'night'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "time"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_086",
+      "question": "What does 'manana' mean in English?",
+      "correctAnswer": "morning",
+      "distractors": [
+        "sad",
+        "house",
+        "water"
+      ],
+      "explanation": "'manana' means 'morning' in English.",
+      "memoryHook": "T-Rexy says: 'manana' means 'morning'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "time"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_087",
+      "question": "What does 'hola' mean in English?",
+      "correctAnswer": "hello",
+      "distractors": [
+        "to live",
+        "bread",
+        "please"
+      ],
+      "explanation": "'hola' means 'hello' in English.",
+      "memoryHook": "T-Rexy says: 'hola' means 'hello'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "greetings"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_088",
+      "question": "What does 'adios' mean in English?",
+      "correctAnswer": "goodbye",
+      "distractors": [
+        "door",
+        "thank you",
+        "table"
+      ],
+      "explanation": "'adios' means 'goodbye' in English.",
+      "memoryHook": "T-Rexy says: 'adios' means 'goodbye'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "greetings"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_089",
+      "question": "What does 'gracias' mean in English?",
+      "correctAnswer": "thank you",
+      "distractors": [
+        "five",
+        "ten",
+        "teacher"
+      ],
+      "explanation": "'gracias' means 'thank you' in English.",
+      "memoryHook": "T-Rexy says: 'gracias' means 'thank you'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "greetings"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_090",
+      "question": "What does 'por favor' mean in English?",
+      "correctAnswer": "please",
+      "distractors": [
+        "chair",
+        "to live",
+        "to drink"
+      ],
+      "explanation": "'por favor' means 'please' in English.",
+      "memoryHook": "T-Rexy says: 'por favor' means 'please'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "greetings"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_091",
+      "question": "What does 'buenos dias' mean in English?",
+      "correctAnswer": "good morning",
+      "distractors": [
+        "five",
+        "four",
+        "to walk"
+      ],
+      "explanation": "'buenos dias' means 'good morning' in English.",
+      "memoryHook": "T-Rexy says: 'buenos dias' means 'good morning'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "greetings"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_092",
+      "question": "What does 'buenas noches' mean in English?",
+      "correctAnswer": "good night",
+      "distractors": [
+        "to live",
+        "school",
+        "to eat"
+      ],
+      "explanation": "'buenas noches' means 'good night' in English.",
+      "memoryHook": "T-Rexy says: 'buenas noches' means 'good night'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "greetings"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_093",
+      "question": "What does 'comer' mean in English?",
+      "correctAnswer": "to eat",
+      "distractors": [
+        "hello",
+        "to speak",
+        "book"
+      ],
+      "explanation": "'comer' means 'to eat' in English.",
+      "memoryHook": "T-Rexy says: 'comer' means 'to eat'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "verbs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_094",
+      "question": "What does 'beber' mean in English?",
+      "correctAnswer": "to drink",
+      "distractors": [
+        "student",
+        "to run",
+        "dog"
+      ],
+      "explanation": "'beber' means 'to drink' in English.",
+      "memoryHook": "T-Rexy says: 'beber' means 'to drink'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "verbs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_095",
+      "question": "What does 'hablar' mean in English?",
+      "correctAnswer": "to speak",
+      "distractors": [
+        "to eat",
+        "bread",
+        "two"
+      ],
+      "explanation": "'hablar' means 'to speak' in English.",
+      "memoryHook": "T-Rexy says: 'hablar' means 'to speak'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "verbs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_096",
+      "question": "What does 'vivir' mean in English?",
+      "correctAnswer": "to live",
+      "distractors": [
+        "table",
+        "bread",
+        "black"
+      ],
+      "explanation": "'vivir' means 'to live' in English.",
+      "memoryHook": "T-Rexy says: 'vivir' means 'to live'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "verbs"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_097",
+      "question": "What does 'correr' mean in English?",
+      "correctAnswer": "to run",
+      "distractors": [
+        "please",
+        "blue",
+        "door"
+      ],
+      "explanation": "'correr' means 'to run' in English.",
+      "memoryHook": "T-Rexy says: 'correr' means 'to run'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "verbs"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_098",
+      "question": "What does 'caminar' mean in English?",
+      "correctAnswer": "to walk",
+      "distractors": [
+        "four",
+        "father",
+        "happy"
+      ],
+      "explanation": "'caminar' means 'to walk' in English.",
+      "memoryHook": "T-Rexy says: 'caminar' means 'to walk'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "verbs"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_099",
+      "question": "What does 'grande' mean in English?",
+      "correctAnswer": "big",
+      "distractors": [
+        "student",
+        "green",
+        "to walk"
+      ],
+      "explanation": "'grande' means 'big' in English.",
+      "memoryHook": "T-Rexy says: 'grande' means 'big'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "adjectives"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "SPA9_100",
+      "question": "What does 'pequeno' mean in English?",
+      "correctAnswer": "small",
+      "distractors": [
+        "sister",
+        "cat",
+        "door"
+      ],
+      "explanation": "'pequeno' means 'small' in English.",
+      "memoryHook": "T-Rexy says: 'pequeno' means 'small'.",
+      "imageUrl": "topic:spanish",
+      "tags": [
+        "vocabulary",
+        "adjectives"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    }
+  ]
+}
