@@ -87,7 +87,7 @@
         "population",
         "migration"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -100,14 +100,14 @@
         "An island country",
         "A country with many rivers"
       ],
-      "explanation": "Landlocked countries like Bolivia have no sea coast.",
+      "explanation": "Bolivia is landlocked: to reach the sea it must send goods by road or river through its neighbors, like Peru or Chile.",
       "memoryHook": "T-Rexy says: Landlocked means no sea coast.",
       "imageUrl": "topic:geography",
       "tags": [
         "world",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -120,7 +120,7 @@
         "A deep valley",
         "A small island"
       ],
-      "explanation": "Plains are flat lands good for farming.",
+      "explanation": "Plains are wide, flat lands with deep, rich soil - that is why so much wheat and corn grows on them.",
       "memoryHook": "T-Rexy says: A plain is flat, open land.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -147,7 +147,7 @@
         "climate",
         "weather"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -200,7 +200,7 @@
         "Antarctica",
         "South America"
       ],
-      "explanation": "Australia is the smallest continent.",
+      "explanation": "Australia covers about 7.7 million square kilometers - smaller than Europe, and the only continent that is also a single country.",
       "memoryHook": "T-Rexy says: Australia is the smallest continent.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -227,7 +227,7 @@
         "population",
         "places"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -240,7 +240,7 @@
         "A low area between hills",
         "A body of water"
       ],
-      "explanation": "Mountains rise high above the land around them.",
+      "explanation": "Mountains form when Earth's plates push together and force the land upward, like the Himalayas.",
       "memoryHook": "T-Rexy says: A mountain is high land.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -280,7 +280,7 @@
         "Asia, Europe, Africa, Australia only",
         "North America, South America, Antarctica only"
       ],
-      "explanation": "Earth has seven continents.",
+      "explanation": "The seven continents are Africa, Antarctica, Asia, Europe, North America, Australia, and South America.",
       "memoryHook": "T-Rexy says: Seven continents cover the Earth.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -360,14 +360,14 @@
         "A war in a place",
         "A drought"
       ],
-      "explanation": "Pull factors attract people to a new home.",
+      "explanation": "Pull factors are the good things that draw people in - jobs, safety, schools, and family already living there.",
       "memoryHook": "T-Rexy says: Pull factors pull people in.",
       "imageUrl": "topic:geography",
       "tags": [
         "population",
         "migration"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -407,7 +407,7 @@
         "climate",
         "environment"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -447,7 +447,7 @@
         "landforms",
         "earth"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -460,7 +460,7 @@
         "Moving within a country",
         "Visiting a country"
       ],
-      "explanation": "Immigrants move into a new place to live.",
+      "explanation": "An immigrant is someone who moves INTO a country to live there - the opposite of an emigrant, who moves OUT.",
       "memoryHook": "T-Rexy says: Immigration is moving in to live.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -480,14 +480,14 @@
         "A region with the same language",
         "A region with the same money"
       ],
-      "explanation": "Earth is divided into 24 time zones, one for each hour of rotation.",
+      "explanation": "Time zones follow Earth's rotation: as the planet turns, the Sun rises at different times in different places.",
       "memoryHook": "T-Rexy says: A time zone shares the same clock time.",
       "imageUrl": "topic:geography",
       "tags": [
         "maps",
         "time-zones"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -500,7 +500,7 @@
         "A deep ocean",
         "A small hill"
       ],
-      "explanation": "Plateaus are flat lands raised high above the surrounding area.",
+      "explanation": "A plateau is like a table made of rock: flat on top, but standing high above the land around it, like the Colorado Plateau.",
       "memoryHook": "T-Rexy says: A plateau is a high flat table of land.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -527,7 +527,7 @@
         "climate",
         "factors"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -547,7 +547,7 @@
         "climate",
         "weather"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -620,7 +620,7 @@
         "Flagstaff",
         "Mesa"
       ],
-      "explanation": "Phoenix is the capital of Arizona.",
+      "explanation": "Phoenix is Arizona's capital and its largest city - the state government meets there, in the capitol with the copper dome.",
       "memoryHook": "T-Rexy says: Phoenix is Arizona's capital.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -667,7 +667,7 @@
         "climate",
         "weather"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -680,7 +680,7 @@
         "Madrid",
         "Berlin"
       ],
-      "explanation": "Paris is the capital of France.",
+      "explanation": "Paris is France's capital and largest city, on the River Seine - home to the Eiffel Tower.",
       "memoryHook": "T-Rexy says: Paris is France's capital.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -727,7 +727,7 @@
         "maps",
         "latitude-longitude"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -740,7 +740,7 @@
         "China",
         "The United States"
       ],
-      "explanation": "Russia is the largest country in the world.",
+      "explanation": "Russia covers about 17.1 million square kilometers - nearly twice the size of Canada, the next largest country.",
       "memoryHook": "T-Rexy says: Russia is the biggest country.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -840,7 +840,7 @@
         "The half west of the Prime Meridian",
         "The bottom of a globe only"
       ],
-      "explanation": "The Southern Hemisphere is everything below the equator.",
+      "explanation": "The Southern Hemisphere holds Australia, most of South America, and all of Antarctica - and its seasons are opposite to the north.",
       "memoryHook": "T-Rexy says: South of the equator is the Southern Hemisphere.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -900,7 +900,7 @@
         "A desert",
         "A frozen plain"
       ],
-      "explanation": "Savannas, like in Africa, have grass and a few trees.",
+      "explanation": "Savannas get just enough rain for grass but not enough for a forest - that is why trees there stand far apart.",
       "memoryHook": "T-Rexy says: A savanna is grassland with a few trees.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -927,7 +927,7 @@
         "maps",
         "latitude-longitude"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -940,7 +940,7 @@
         "A large continent",
         "A river"
       ],
-      "explanation": "Islands are pieces of land with water on all sides.",
+      "explanation": "Islands can form from volcanoes rising out of the sea, like Hawaii, or from land cut off by rising water, like Great Britain.",
       "memoryHook": "T-Rexy says: An island is land with water all around.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -987,7 +987,7 @@
         "landforms",
         "deserts"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1000,7 +1000,7 @@
         "A small island",
         "A river mouth"
       ],
-      "explanation": "A peninsula sticks out into the water.",
+      "explanation": "Florida is a peninsula: it is attached to the United States on one side and surrounded by ocean on the other three.",
       "memoryHook": "T-Rexy says: A peninsula is almost an island.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1040,7 +1040,7 @@
         "Guadalajara",
         "Monterrey"
       ],
-      "explanation": "Mexico City is the capital of Mexico.",
+      "explanation": "Mexico City is Mexico's capital and one of the largest cities in the world - it was built on the site of the Aztec city Tenochtitlan.",
       "memoryHook": "T-Rexy says: Mexico City is Mexico's capital.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1087,7 +1087,7 @@
         "climate",
         "factors"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1100,7 +1100,7 @@
         "A cold mountain",
         "A large lake"
       ],
-      "explanation": "Deserts get very little rain each year.",
+      "explanation": "A desert gets less than 25 centimeters (10 inches) of rain a year - so little that only specially adapted plants and animals survive there.",
       "memoryHook": "T-Rexy says: A desert is a dry place.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1120,7 +1120,7 @@
         "Vancouver",
         "Montreal"
       ],
-      "explanation": "Ottawa is the capital of Canada.",
+      "explanation": "Ottawa is Canada's capital, in Ontario on the Ottawa River - it is where Canada's Parliament meets.",
       "memoryHook": "T-Rexy says: Ottawa is Canada's capital.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1140,7 +1140,7 @@
         "The Mojave",
         "The Kalahari"
       ],
-      "explanation": "The Sahara in Africa is the largest hot desert.",
+      "explanation": "The Sahara covers about 9.2 million square kilometers of northern Africa - almost as big as the entire United States.",
       "memoryHook": "T-Rexy says: The Sahara is the largest hot desert.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1227,7 +1227,7 @@
         "maps",
         "map-types"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1240,7 +1240,7 @@
         "A line through Greenwich",
         "A line at the North Pole"
       ],
-      "explanation": "Crossing the International Date Line changes the date by one day.",
+      "explanation": "The Date Line sits at about 180 degrees longitude in the Pacific: cross it westward and the date jumps forward a day, cross it eastward and it jumps back.",
       "memoryHook": "T-Rexy says: The Date Line is where the day changes.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1280,7 +1280,7 @@
         "Los Angeles",
         "Phoenix"
       ],
-      "explanation": "Washington, D.C. is the capital of the United States.",
+      "explanation": "Washington, D.C. is the U.S. capital, on the Potomac River - it is where the President, Congress, and the Supreme Court all work.",
       "memoryHook": "T-Rexy says: Washington, D.C. is the U.S. capital.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1294,7 +1294,7 @@
     {
       "id": "GEO6_065",
       "question": "What affects climate the most?",
-      "correctAnswer": "Latitude and distance from the equator",
+      "correctAnswer": "Latitude - how far north or south a place is from the equator",
       "distractors": [
         "The time of day",
         "The color of the soil",
@@ -1307,7 +1307,7 @@
         "climate",
         "factors"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1327,7 +1327,7 @@
         "landforms",
         "earth"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1400,7 +1400,7 @@
         "A kind of music",
         "A style of clothing"
       ],
-      "explanation": "Languages let people share ideas.",
+      "explanation": "There are more than 7,000 languages in the world - and each one carries the stories, songs, and history of its people.",
       "memoryHook": "T-Rexy says: Language is how people talk and write.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1507,7 +1507,7 @@
         "landforms",
         "water"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1527,7 +1527,7 @@
         "world",
         "cities"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1547,7 +1547,7 @@
         "maps",
         "time-zones"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1560,7 +1560,7 @@
         "An ocean",
         "A river"
       ],
-      "explanation": "Lakes are still bodies of water with land all around.",
+      "explanation": "Lakes form in hollows left by glaciers, in volcanic craters, or where rivers are dammed - the Great Lakes are the largest group on Earth.",
       "memoryHook": "T-Rexy says: A lake is water with land all around.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1600,7 +1600,7 @@
         "A single storm",
         "The temperature at noon"
       ],
-      "explanation": "Climate describes the usual weather pattern of a region.",
+      "explanation": "Climate is the average of 30 years of weather - a place can have a rainy day but still have a dry climate.",
       "memoryHook": "T-Rexy says: Climate is the usual weather of a place.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1620,7 +1620,7 @@
         "Seoul",
         "Bangkok"
       ],
-      "explanation": "Tokyo is the capital of Japan.",
+      "explanation": "Tokyo is Japan's capital and the largest city in the world, with about 37 million people in its metro area.",
       "memoryHook": "T-Rexy says: Tokyo is Japan's capital.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1640,7 +1640,7 @@
         "Nevada",
         "Colorado"
       ],
-      "explanation": "The Grand Canyon is in northern Arizona, carved by the Colorado River.",
+      "explanation": "The Grand Canyon is in northern Arizona, carved over millions of years by a river cutting through rock.",
       "memoryHook": "T-Rexy says: The Grand Canyon is in Arizona.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1667,7 +1667,7 @@
         "landforms",
         "earth"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1687,7 +1687,7 @@
         "maps",
         "latitude-longitude"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1707,7 +1707,7 @@
         "population",
         "migration"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1720,7 +1720,7 @@
         "Australia",
         "South America"
       ],
-      "explanation": "The Sahara is the world's largest hot desert, in northern Africa.",
+      "explanation": "The Sahara covers northern Africa, stretching from the Atlantic Ocean to the Red Sea.",
       "memoryHook": "T-Rexy says: The Sahara covers northern Africa.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1747,7 +1747,7 @@
         "population",
         "people"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1760,7 +1760,7 @@
         "A lake",
         "A waterfall"
       ],
-      "explanation": "Tributaries feed into bigger rivers.",
+      "explanation": "The Missouri River is a tributary of the Mississippi: it joins the bigger river and adds its water to it.",
       "memoryHook": "T-Rexy says: A tributary is a small river joining a big one.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1780,7 +1780,7 @@
         "Visiting a country",
         "Moving within a city"
       ],
-      "explanation": "Emigrants leave their home country to live somewhere else.",
+      "explanation": "An emigrant is someone who moves OUT of a country - the same person is an immigrant when they arrive in the new country.",
       "memoryHook": "T-Rexy says: Emigration is moving out to live.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1807,7 +1807,7 @@
         "landforms",
         "earth"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1880,7 +1880,7 @@
         "A mountain",
         "A river"
       ],
-      "explanation": "Villages are small settlements with few people.",
+      "explanation": "Villages are the smallest settlements: a few hundred people, a few shops, and often farms all around.",
       "memoryHook": "T-Rexy says: A village is a small country town.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1900,7 +1900,7 @@
         "The half east of the Prime Meridian",
         "The top of a globe only"
       ],
-      "explanation": "The Northern Hemisphere is everything above the equator.",
+      "explanation": "The Northern Hemisphere holds most of Earth's land and people - including North America, Europe, and most of Asia.",
       "memoryHook": "T-Rexy says: North of the equator is the Northern Hemisphere.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1947,7 +1947,7 @@
         "climate",
         "biomes"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -2000,7 +2000,7 @@
         "The size of a city",
         "The number of houses"
       ],
-      "explanation": "Population is how many people live in an area.",
+      "explanation": "Population counts every person in a place - China and India each have more than 1.4 billion people.",
       "memoryHook": "T-Rexy says: Population is how many people live there.",
       "imageUrl": "topic:geography",
       "tags": [
