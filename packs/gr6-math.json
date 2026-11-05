@@ -66,7 +66,7 @@
         "geometry",
         "area"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -77,7 +77,7 @@
       "distractors": [
         "1/2",
         "4/8",
-        "2/4"
+        "5/8"
       ],
       "explanation": "3/4 + 1/4 = 4/4 = 1.",
       "memoryHook": "T-Rexy says: Same denominators: just add the tops.",
@@ -100,13 +100,13 @@
         "1/2"
       ],
       "explanation": "Multiply by the reciprocal: 3/4 x 2/1 = 3/2.",
-      "memoryHook": "T-Rexy says: Keep the operation straight: add and subtract need common denominators.",
+      "memoryHook": "T-Rexy says: Flip the second fraction and multiply.",
       "imageUrl": "topic:math",
       "tags": [
         "fractions",
         "operations"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -156,7 +156,7 @@
       "correctAnswer": "1/6 cup",
       "distractors": [
         "1/3 cup",
-        "2/12 cup",
+        "1/12 cup",
         "8/3 cups"
       ],
       "explanation": "Divide 2/3 by 4: 2/3 x 1/4 = 2/12 = 1/6 cup per serving.",
@@ -166,7 +166,7 @@
         "fractions",
         "word-problems"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -226,7 +226,7 @@
         "percents",
         "markup"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -235,7 +235,7 @@
       "question": "What is 5/6 - 1/6?",
       "correctAnswer": "2/3",
       "distractors": [
-        "4/6",
+        "1/3",
         "1/2",
         "5/6"
       ],
@@ -266,7 +266,7 @@
         "percents",
         "word-problems"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -286,7 +286,7 @@
         "percents",
         "word-problems"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -306,7 +306,7 @@
         "percents",
         "discount"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -366,7 +366,7 @@
         "ratios",
         "word-problems"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -386,7 +386,7 @@
         "exponents",
         "powers"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -439,7 +439,7 @@
         "48",
         "64"
       ],
-      "explanation": "7 x 8 = 56.",
+      "explanation": "7 groups of 8: count by 8s - 8, 16, 24, 32, 40, 48, 56.",
       "memoryHook": "T-Rexy says: Seven groups of eight is fifty-six.",
       "imageUrl": "topic:math",
       "tags": [
@@ -486,7 +486,7 @@
         "integers",
         "word-problems"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -506,7 +506,7 @@
         "ratios",
         "unit-rate"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -586,7 +586,7 @@
         "integers",
         "addition"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -626,7 +626,7 @@
         "multiples",
         "lcm"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -659,14 +659,14 @@
         "2/3",
         "1/4"
       ],
-      "explanation": "Use a common denominator to add: 11/12.",
+      "explanation": "2/3 = 8/12 and 1/4 = 3/12, so 8/12 + 3/12 = 11/12.",
       "memoryHook": "T-Rexy says: Keep the operation straight: add and subtract need common denominators.",
       "imageUrl": "topic:math",
       "tags": [
         "fractions",
         "operations"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -679,14 +679,14 @@
         "5/8",
         "3/8"
       ],
-      "explanation": "Multiply the numerators and the denominators: 1/4.",
-      "memoryHook": "T-Rexy says: Keep the operation straight: add and subtract need common denominators.",
+      "explanation": "3 x 2 = 6 and 8 x 3 = 24, so 6/24 simplifies to 1/4.",
+      "memoryHook": "T-Rexy says: Multiply straight across - no common denominator needed.",
       "imageUrl": "topic:math",
       "tags": [
         "fractions",
         "operations"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -746,7 +746,7 @@
         "ratios",
         "unit-rate"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -786,7 +786,7 @@
         "statistics",
         "range"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -939,14 +939,14 @@
         "4/3",
         "5/6"
       ],
-      "explanation": "Use a common denominator to subtract: 1/3.",
+      "explanation": "1/2 = 3/6, so 5/6 - 3/6 = 2/6, which simplifies to 1/3.",
       "memoryHook": "T-Rexy says: Keep the operation straight: add and subtract need common denominators.",
       "imageUrl": "topic:math",
       "tags": [
         "fractions",
         "operations"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -959,14 +959,14 @@
         "13/12",
         "3/4"
       ],
-      "explanation": "Use a common denominator to subtract: 5/12.",
+      "explanation": "3/4 = 9/12 and 1/3 = 4/12, so 9/12 - 4/12 = 5/12.",
       "memoryHook": "T-Rexy says: Keep the operation straight: add and subtract need common denominators.",
       "imageUrl": "topic:math",
       "tags": [
         "fractions",
         "operations"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -986,7 +986,7 @@
         "factors",
         "gcf"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1057,7 +1057,7 @@
       "distractors": [
         "1/5",
         "1/4",
-        "5/10 as a decimal only"
+        "2/5"
       ],
       "explanation": "50% means 50 out of 100, which simplifies to 1/2.",
       "memoryHook": "T-Rexy says: 50% is half of the whole.",
@@ -1072,7 +1072,7 @@
     },
     {
       "id": "MAT6_054",
-      "question": "2 juice boxes cost $10. What is the unit price per juice boxe?",
+      "question": "2 juice boxes cost $10. What is the unit price per juice boxes?",
       "correctAnswer": "$5",
       "distractors": [
         "$3.33",
@@ -1099,7 +1099,7 @@
         "8",
         "9"
       ],
-      "explanation": "The mode is the value that appears most often, which is 5.",
+      "explanation": "Count how many times each number appears: 5 appears twice and every other number appears once, so 5 is the mode.",
       "memoryHook": "T-Rexy says: Mode is the number that shows up the most.",
       "imageUrl": "topic:math",
       "tags": [
@@ -1139,14 +1139,14 @@
         "1/3",
         "1/6"
       ],
-      "explanation": "Use a common denominator to add: 1/2.",
+      "explanation": "1/3 = 2/6, so 2/6 + 1/6 = 3/6, which simplifies to 1/2.",
       "memoryHook": "T-Rexy says: Keep the operation straight: add and subtract need common denominators.",
       "imageUrl": "topic:math",
       "tags": [
         "fractions",
         "operations"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1160,13 +1160,13 @@
         "85"
       ],
       "explanation": "Multiply 34 x 25 = 850, then place two decimal places: 8.50.",
-      "memoryHook": "T-Rexy says: Line up decimal points when adding or subtracting.",
+      "memoryHook": "T-Rexy says: Count the decimal places in both factors to place the decimal.",
       "imageUrl": "topic:math",
       "tags": [
         "decimals",
         "operations"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1199,14 +1199,14 @@
         "1",
         "2/5"
       ],
-      "explanation": "Multiply the numerators and the denominators: 3/10.",
-      "memoryHook": "T-Rexy says: Keep the operation straight: add and subtract need common denominators.",
+      "explanation": "2 x 3 = 6 and 5 x 4 = 20, so 6/20 simplifies to 3/10.",
+      "memoryHook": "T-Rexy says: Multiply straight across - no common denominator needed.",
       "imageUrl": "topic:math",
       "tags": [
         "fractions",
         "operations"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1239,7 +1239,7 @@
         "0.4",
         "2.5"
       ],
-      "explanation": "1 divided by 4 equals 0.25.",
+      "explanation": "1/4 means 1 divided by 4, and 1 ÷ 4 = 0.25 - a quarter of a dollar is 25 cents.",
       "memoryHook": "T-Rexy says: A quarter is 0.25.",
       "imageUrl": "topic:math",
       "tags": [
@@ -1306,7 +1306,7 @@
         "geometry",
         "area"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1366,7 +1366,7 @@
         "ratios",
         "equivalent"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1386,7 +1386,7 @@
         "coordinate-plane",
         "distance"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1466,7 +1466,7 @@
         "percents",
         "word-problems"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1486,7 +1486,7 @@
         "percents",
         "word-problems"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1506,7 +1506,7 @@
         "percents",
         "word-problems"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1526,7 +1526,7 @@
         "coordinate-plane",
         "quadrants"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1606,7 +1606,7 @@
         "exponents",
         "powers"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1620,13 +1620,13 @@
         "1/4"
       ],
       "explanation": "Multiply by the reciprocal: 1/2 x 4/1 = 2.",
-      "memoryHook": "T-Rexy says: Keep the operation straight: add and subtract need common denominators.",
+      "memoryHook": "T-Rexy says: Flip the second fraction and multiply.",
       "imageUrl": "topic:math",
       "tags": [
         "fractions",
         "operations"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1719,7 +1719,7 @@
         "25%",
         "15%"
       ],
-      "explanation": "1/2 = 0.5 = 50%.",
+      "explanation": "Half of 100 is 50, so 1/2 = 50/100 = 50%.",
       "memoryHook": "T-Rexy says: One half is fifty percent.",
       "imageUrl": "topic:math",
       "tags": [
@@ -1746,7 +1746,7 @@
         "percents",
         "word-problems"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1757,7 +1757,7 @@
       "distractors": [
         "1/12",
         "1/5",
-        "125/1000"
+        "1/10"
       ],
       "explanation": "0.125 = 125/1000, which simplifies to 1/8.",
       "memoryHook": "T-Rexy says: Simplify the fraction all the way down.",
@@ -1776,7 +1776,7 @@
       "correctAnswer": "1/4",
       "distractors": [
         "1/2",
-        "2/4",
+        "3/4",
         "1"
       ],
       "explanation": "Multiply tops and bottoms: 1 x 1 = 1 and 2 x 2 = 4, so 1/4.",
@@ -1800,13 +1800,13 @@
         "2.08"
       ],
       "explanation": "Multiply 72 x 4 = 288, then place two decimal places: 2.88.",
-      "memoryHook": "T-Rexy says: Line up decimal points when adding or subtracting.",
+      "memoryHook": "T-Rexy says: Count the decimal places in both factors to place the decimal.",
       "imageUrl": "topic:math",
       "tags": [
         "decimals",
         "operations"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
