@@ -13,7 +13,7 @@
   "questions": [
     {
       "id": "GRM5_001",
-      "question": "Which word is a noun in this sentence: 'The dog chased the ball.'?",
+      "question": "Which word is a noun in this sentence: 'The dog chased the ball quickly.'?",
       "correctAnswer": "Dog",
       "distractors": [
         "Chased",
@@ -73,12 +73,12 @@
     },
     {
       "id": "GRM5_004",
-      "question": "Which word is an adverb in this sentence: 'He spoke quietly.'?",
+      "question": "Which word is an adverb in this sentence: 'He spoke quietly to his friend.'?",
       "correctAnswer": "Quietly",
       "distractors": [
         "He",
         "Spoke",
-        "Loud"
+        "Friend"
       ],
       "explanation": "An adverb describes a verb. Quietly tells how he spoke.",
       "memoryHook": "T-Rexy says: adverbs tell how - quietly tells how he spoke!",
@@ -453,7 +453,7 @@
     },
     {
       "id": "GRM5_023",
-      "question": "Which sentence has correct subject-verb agreement?",
+      "question": "Which sentence uses 'has' and 'have' correctly?",
       "correctAnswer": "She has a red bike",
       "distractors": [
         "She have a red bike",
@@ -554,7 +554,7 @@
     {
       "id": "GRM5_028",
       "question": "Which sentence uses quotation marks correctly?",
-      "correctAnswer": "Sara said, 'I love this book.'",
+      "correctAnswer": "Sara said, \"I love this book.\"",
       "distractors": [
         "Sara said I love this book.",
         "Sara said, I love this book.",
@@ -633,7 +633,7 @@
     },
     {
       "id": "GRM5_032",
-      "question": "Which sentence needs a capital letter?",
+      "question": "Which sentence needs capital letters in two places?",
       "correctAnswer": "we went to the park on saturday",
       "distractors": [
         "We went to the park on Saturday",
@@ -653,7 +653,7 @@
     },
     {
       "id": "GRM5_033",
-      "question": "Which word should be capitalized in this sentence: 'my friend lives in texas'?",
+      "question": "Which word should be capitalized in this sentence: 'My friend lives in texas'?",
       "correctAnswer": "Texas",
       "distractors": [
         "Friend",
@@ -737,7 +737,7 @@
       "correctAnswer": "Wow, that was a great game!",
       "distractors": [
         "Wow that was a great game!",
-        "Wow, that was a great game.",
+        "Wow that was a great game.",
         "Wow that was a great game?"
       ],
       "explanation": "An exclamation shows strong feeling and needs an exclamation mark.",
@@ -834,10 +834,10 @@
     {
       "id": "GRM5_042",
       "question": "Which sentence uses a period correctly with an abbreviation?",
-      "correctAnswer": "Dr. Smith will see you now",
+      "correctAnswer": "Dr. Smith will see you now.",
       "distractors": [
         "Dr Smith will see you now.",
-        "Dr. Smith will see you now.",
+        "Dr. Smith will see you now",
         "Dr Smith will see you now"
       ],
       "explanation": "Abbreviations like Dr. need a period, and the sentence ends with a period too.",
@@ -873,7 +873,7 @@
     },
     {
       "id": "GRM5_044",
-      "question": "Which word needs an apostrophe in this sentence: 'The dogs bone is under the table'?",
+      "question": "Which word needs an apostrophe in this sentence: 'The dog bone is under the table'?",
       "correctAnswer": "Dog's",
       "distractors": [
         "Dogs'",
@@ -1598,7 +1598,7 @@
       "distractors": [
         "You're shoes are by the door",
         "You're book is new",
-        "You're welcome to my house"
+        "Youre going to love this book"
       ],
       "explanation": "You're is short for you are.",
       "memoryHook": "T-Rexy says: you're means you are!",
@@ -1693,7 +1693,7 @@
     },
     {
       "id": "GRM5_085",
-      "question": "Which word is the correct homophone: 'The ___ of the story was brave'?",
+      "question": "Which word completes the sentence: 'The ___ of the story was brave'?",
       "correctAnswer": "Hero",
       "distractors": [
         "Hear",
