@@ -40,14 +40,14 @@
         "Again",
         "With"
       ],
-      "explanation": "Anti- means against, as in antivirus and antifreeze.",
+      "explanation": "Anti- means against, so an antivirus works against computer viruses and antifreeze works against freezing.",
       "memoryHook": "T-Rexy says: Anti- means against.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
         "vocabulary",
         "word-parts"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -60,7 +60,7 @@
         "Eats",
         "Eating"
       ],
-      "explanation": "Eat is irregular, and its past tense is ate.",
+      "explanation": "Eat is irregular, so it does not add -ed: its past tense is the special form ate.",
       "memoryHook": "T-Rexy says: Eat becomes ate in the past.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -180,14 +180,14 @@
         "She",
         "Her"
       ],
-      "explanation": "Has helps the main verb finished.",
+      "explanation": "Has is the helping verb: it teams up with the main verb finished to show the action is complete.",
       "memoryHook": "T-Rexy says: Has helps finished.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
         "parts-of-speech",
         "verbs"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -307,7 +307,7 @@
         "sentence-structure",
         "clauses"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -320,7 +320,7 @@
         "It shows a question",
         "It makes a word plural"
       ],
-      "explanation": "Commas separate items in a list, clauses, and other parts of a sentence.",
+      "explanation": "A comma marks a short pause and separates parts - items in a list, a date from a year, or clauses.",
       "memoryHook": "T-Rexy says: Commas are pauses that separate parts.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -340,7 +340,7 @@
         "Very quiet",
         "Very fast"
       ],
-      "explanation": "Brave means facing danger without fear.",
+      "explanation": "Brave means facing danger without fear - a brave person acts even when scared.",
       "memoryHook": "T-Rexy says: Brave means courageous.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -360,7 +360,7 @@
         "Look at my book!",
         "My book is red."
       ],
-      "explanation": "A question asks something and ends with a question mark.",
+      "explanation": "A question asks for information, so it ends with a question mark instead of a period.",
       "memoryHook": "T-Rexy says: A question asks and ends with a question mark.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -397,7 +397,7 @@
       "correctAnswer": "The soup smells delicious.",
       "distractors": [
         "The chef cooks the soup.",
-        "The soup is on the table.",
+        "The chef serves the soup.",
         "She stirred the soup."
       ],
       "explanation": "Smells links the soup to delicious, its description.",
@@ -420,7 +420,7 @@
         "The end of the sentence",
         "The describing word"
       ],
-      "explanation": "The subject is the person or thing doing the action.",
+      "explanation": "The subject is who or what the sentence is about - the person or thing the sentence describes.",
       "memoryHook": "T-Rexy says: The subject is who or what it is about.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -440,7 +440,7 @@
         "Goes",
         "Going"
       ],
-      "explanation": "Go is irregular, and its past tense is went.",
+      "explanation": "Go is irregular, so it does not add -ed: its past tense is the special form went.",
       "memoryHook": "T-Rexy says: Go becomes went in the past.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -460,7 +460,7 @@
         "It joins two words",
         "It shows possession"
       ],
-      "explanation": "A period ends a sentence that makes a statement.",
+      "explanation": "A period marks the end of a statement - a sentence that tells something, not asks.",
       "memoryHook": "T-Rexy says: A period ends a statement.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -480,7 +480,7 @@
         "Very heavy",
         "Very soft"
       ],
-      "explanation": "Fragile things break easily.",
+      "explanation": "Fragile means easily broken: a glass vase is fragile because one drop can shatter it.",
       "memoryHook": "T-Rexy says: Fragile means breakable.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -507,7 +507,7 @@
         "sentence-structure",
         "sentences"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -527,7 +527,7 @@
         "punctuation",
         "semicolons"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -547,7 +547,7 @@
         "sentence-structure",
         "sentences"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -580,7 +580,7 @@
         "A group of words with no verb",
         "A paragraph"
       ],
-      "explanation": "A clause has both a subject and a verb.",
+      "explanation": "A clause is a word group with both a subject and a verb - for example, 'the dog barked' has the subject dog and the verb barked.",
       "memoryHook": "T-Rexy says: A clause has a subject and a verb.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -620,7 +620,7 @@
         "South",
         "The"
       ],
-      "explanation": "The birds is who the sentence is about.",
+      "explanation": "The birds are who the sentence is about - they are the subject doing the flying.",
       "memoryHook": "T-Rexy says: The birds are doing the flying.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -660,7 +660,7 @@
         "Cannot and not",
         "Can and never"
       ],
-      "explanation": "Can't is short for can not.",
+      "explanation": "Can't is the contraction of can not: the apostrophe takes the place of the missing o.",
       "memoryHook": "T-Rexy says: Can't is can plus not.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -700,7 +700,7 @@
         "Very shy",
         "Very angry"
       ],
-      "explanation": "Generous people give freely to others.",
+      "explanation": "Generous means willing to give to others - a generous person shares without being asked.",
       "memoryHook": "T-Rexy says: Generous means giving.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -720,7 +720,7 @@
         "Very tired",
         "Very scared"
       ],
-      "explanation": "Curious people ask questions and want to learn.",
+      "explanation": "Curious means eager to learn - a curious person asks questions and explores.",
       "memoryHook": "T-Rexy says: Curious means eager to know.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -756,11 +756,11 @@
       "question": "Which sentence uses 'effect' correctly?",
       "correctAnswer": "The new law had a good effect.",
       "distractors": [
-        "The new law will effect us.",
-        "The effect of the law will affect us.",
-        "The new law effected our plans."
+        "The new law had a big affect.",
+        "The affect of the law was big.",
+        "The new law was a big affect."
       ],
-      "explanation": "Effect is the noun meaning result.",
+      "explanation": "Effect is the noun that names the result: the good effect is what the law caused.",
       "memoryHook": "T-Rexy says: Effect is the noun result.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -780,7 +780,7 @@
         "Barked",
         "The"
       ],
-      "explanation": "Big describes the noun dog.",
+      "explanation": "Big describes the noun dog - it tells what kind of dog it is.",
       "memoryHook": "T-Rexy says: Big tells what kind of dog.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -820,14 +820,14 @@
         "A noun that helps",
         "A describing word"
       ],
-      "explanation": "Helping verbs like is, have, and will work with main verbs.",
+      "explanation": "A helping verb works with a main verb - in 'She has finished,' has helps finished show the action is done.",
       "memoryHook": "T-Rexy says: Helping verbs team up with main verbs.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
         "parts-of-speech",
         "verbs"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -847,7 +847,7 @@
         "vocabulary",
         "word-parts"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -940,7 +940,7 @@
         "They're is a park here.",
         "They're dog is cute."
       ],
-      "explanation": "They're is short for they are.",
+      "explanation": "They're is the contraction of they are: the apostrophe takes the place of the missing a.",
       "memoryHook": "T-Rexy says: They're means they are.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -980,7 +980,7 @@
         "It shows excitement",
         "It joins words"
       ],
-      "explanation": "A question mark ends a sentence that asks something.",
+      "explanation": "A question mark ends a sentence that asks something, like 'Where is my book?'",
       "memoryHook": "T-Rexy says: A question mark ends a question.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -1007,7 +1007,7 @@
         "vocabulary",
         "word-parts"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1027,7 +1027,7 @@
         "vocabulary",
         "word-parts"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1087,7 +1087,7 @@
         "punctuation",
         "possessives"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1100,7 +1100,7 @@
         "Is on",
         "The shelf"
       ],
-      "explanation": "On the shelf starts with the preposition on.",
+      "explanation": "The prepositional phrase starts with the preposition on and ends with the noun shelf.",
       "memoryHook": "T-Rexy says: On the shelf starts with on.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -1120,14 +1120,14 @@
         "A verb that joins sentences",
         "A verb in the past tense"
       ],
-      "explanation": "Linking verbs like is, seem, and become connect the subject to a description.",
+      "explanation": "Linking verbs like is, seem, and become connect the subject to a word that describes it, instead of showing action.",
       "memoryHook": "T-Rexy says: Linking verbs link the subject to a description.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
         "parts-of-speech",
         "verbs"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1136,11 +1136,11 @@
       "question": "Which sentence uses 'affect' correctly?",
       "correctAnswer": "The rain will affect our plans.",
       "distractors": [
-        "The rain will effect our plans.",
+        "The rain will have an affect on our plans.",
         "The affect of the rain was big.",
         "The rain had an affect."
       ],
-      "explanation": "Affect is the verb meaning to influence.",
+      "explanation": "Affect is the verb meaning to influence: the rain will affect (change) our plans.",
       "memoryHook": "T-Rexy says: Affect is the verb here.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -1160,14 +1160,14 @@
         "Life",
         "Sound"
       ],
-      "explanation": "Geo means earth, as in geography and geology.",
+      "explanation": "Geo means earth: geography is the study of the earth, and geology is the science of rocks and the earth.",
       "memoryHook": "T-Rexy says: Geo means earth.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
         "vocabulary",
         "word-parts"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1178,9 +1178,9 @@
       "distractors": [
         "I have to dogs.",
         "I have too dogs.",
-        "I have 2 dogs."
+        "I have two dog."
       ],
-      "explanation": "Two is the number 2.",
+      "explanation": "Two is the number 2 - the word, not the numeral.",
       "memoryHook": "T-Rexy says: Two is the number.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -1200,14 +1200,14 @@
         "Read",
         "A"
       ],
-      "explanation": "Book receives the action of reading.",
+      "explanation": "The direct object receives the action: Tom read what? A book - so a book is the direct object.",
       "memoryHook": "T-Rexy says: A book is what Tom read.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
         "sentence-structure",
         "objects"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1220,7 +1220,7 @@
         "Very big",
         "Very small"
       ],
-      "explanation": "Ancient means from a long time ago.",
+      "explanation": "Ancient means very old - from a long time ago, like ancient Egypt.",
       "memoryHook": "T-Rexy says: Ancient means very old.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -1240,7 +1240,7 @@
         "Childes",
         "Child"
       ],
-      "explanation": "Child is irregular, and its plural is children.",
+      "explanation": "Child is irregular, so its plural is not childs but the special form children.",
       "memoryHook": "T-Rexy says: Child becomes children, not childs.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -1280,14 +1280,14 @@
         "A phrase",
         "A single word"
       ],
-      "explanation": "An independent clause expresses a complete thought.",
+      "explanation": "An independent clause can stand alone as a sentence because it expresses a complete thought.",
       "memoryHook": "T-Rexy says: An independent clause can be a sentence on its own.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
         "sentence-structure",
         "clauses"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1298,9 +1298,9 @@
       "distractors": [
         "She",
         "Sang",
-        "The"
+        "Song"
       ],
-      "explanation": "Loudly describes how she sang.",
+      "explanation": "Loudly describes how she sang - it tells how the verb sang was done.",
       "memoryHook": "T-Rexy says: Loudly tells how she sang.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -1367,7 +1367,7 @@
         "vocabulary",
         "word-parts"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1420,7 +1420,7 @@
         "First we ate, than we played.",
         "She is taller then me."
       ],
-      "explanation": "Than compares her height to her brother's.",
+      "explanation": "Than compares two things: her height is compared with her brother's height.",
       "memoryHook": "T-Rexy says: Than compares.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -1436,7 +1436,7 @@
       "question": "Which sentence is correct?",
       "correctAnswer": "The girls' coats are in the closet.",
       "distractors": [
-        "The girl's coats are in the closet.",
+        "The girl's coat are in the closet.",
         "The girls coats are in the closet.",
         "The girls's coats are in the closet."
       ],
@@ -1447,7 +1447,7 @@
         "punctuation",
         "possessives"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1458,7 +1458,7 @@
       "distractors": [
         "Two words with the same meaning",
         "Two words with opposite meanings",
-        "Two words spelled the same"
+        "One word said two ways"
       ],
       "explanation": "Pairs like to, too, and two sound alike but mean different things.",
       "memoryHook": "T-Rexy says: Homophones sound alike but mean different things.",
@@ -1500,7 +1500,7 @@
         "Is it a great day?",
         "The day is great."
       ],
-      "explanation": "An exclamation shows strong feeling and ends with an exclamation point.",
+      "explanation": "An exclamation shows strong feeling and ends with an exclamation point, like 'What a great day!'",
       "memoryHook": "T-Rexy says: An exclamation shows big feelings.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -1520,7 +1520,7 @@
         "One independent clause only",
         "Two dependent clauses"
       ],
-      "explanation": "Complex sentences combine a complete thought with a clause that cannot stand alone.",
+      "explanation": "A complex sentence has one independent clause that can stand alone plus one dependent clause that cannot.",
       "memoryHook": "T-Rexy says: A complex sentence mixes one full thought with a dependent one.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -1620,7 +1620,7 @@
         "Is kind",
         "Kind"
       ],
-      "explanation": "Our teacher renames Mr. Lee.",
+      "explanation": "The appositive our teacher sits right beside Mr. Lee and renames him.",
       "memoryHook": "T-Rexy says: Our teacher renames Mr. Lee.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -1640,7 +1640,7 @@
         "Is the door closed?",
         "The door is red."
       ],
-      "explanation": "A command tells someone to do something.",
+      "explanation": "A command tells someone to do something - it gives an order or instruction, like 'Please close the door.'",
       "memoryHook": "T-Rexy says: A command tells you to do it.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -1667,7 +1667,7 @@
         "sentence-structure",
         "phrases"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1707,7 +1707,7 @@
         "grammar",
         "agreement"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1827,7 +1827,7 @@
         "punctuation",
         "colons"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1837,7 +1837,7 @@
       "correctAnswer": "Around the exact words someone says",
       "distractors": [
         "Around every noun",
-        "Around titles of books",
+        "Around names of people",
         "At the end of a sentence"
       ],
       "explanation": "Quotation marks show direct speech, like 'I am here,' said Ana.",
@@ -1847,7 +1847,7 @@
         "punctuation",
         "quotations"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1876,11 +1876,11 @@
       "question": "What does 'it's' mean?",
       "correctAnswer": "It is",
       "distractors": [
-        "It has",
+        "It can",
         "Its owner",
         "It was"
       ],
-      "explanation": "It's is a contraction of it is.",
+      "explanation": "It's is the contraction of it is: the apostrophe takes the place of the missing i.",
       "memoryHook": "T-Rexy says: It's means it is.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
@@ -1927,7 +1927,7 @@
         "punctuation",
         "quotations"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1960,7 +1960,7 @@
         "There house is big.",
         "Their is a book there."
       ],
-      "explanation": "There refers to a place.",
+      "explanation": "There points to a place - 'over there' tells where the book is.",
       "memoryHook": "T-Rexy says: There points to a place.",
       "imageUrl": "topic:grammar-vocabulary",
       "tags": [
