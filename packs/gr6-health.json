@@ -27,7 +27,7 @@
         "safety",
         "first-aid"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -40,27 +40,27 @@
         "6 to 7 hours",
         "13 to 15 hours"
       ],
-      "explanation": "Kids need 9 to 12 hours of sleep each night.",
+      "explanation": "Sleep is when the brain stores what you learned and the body grows - 9 to 12 hours gives it enough time to do that work.",
       "memoryHook": "T-Rexy says: Kids need 9 to 12 hours of sleep.",
       "imageUrl": "topic:health",
       "tags": [
         "sleep",
         "wellness"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "HEA6_003",
-      "question": "Which vitamin helps your body fight colds?",
+      "question": "Which vitamin supports your immune system?",
       "correctAnswer": "Vitamin C",
       "distractors": [
         "Vitamin A",
         "Vitamin D",
         "Vitamin B"
       ],
-      "explanation": "Vitamin C in oranges and peppers supports the immune system.",
+      "explanation": "Vitamin C in oranges and peppers supports the immune system, though it does not stop colds by itself.",
       "memoryHook": "T-Rexy says: Vitamin C helps fight colds.",
       "imageUrl": "topic:health",
       "tags": [
@@ -87,7 +87,7 @@
         "safety",
         "fire-safety"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -100,7 +100,7 @@
         "A kind of protein",
         "A type of fat"
       ],
-      "explanation": "Vitamins like C and D help the body work properly.",
+      "explanation": "You only need tiny amounts, but without them things break down: no vitamin C and gums bleed, no vitamin D and bones stay soft.",
       "memoryHook": "T-Rexy says: Vitamins are small helpers your body needs.",
       "imageUrl": "topic:health",
       "tags": [
@@ -160,14 +160,14 @@
         "A friendship with no talking",
         "A friendship based on teasing"
       ],
-      "explanation": "Healthy friends respect each other and support one another.",
+      "explanation": "In a healthy friendship nobody is the boss: both friends listen, take turns, and feel safe to say no.",
       "memoryHook": "T-Rexy says: Healthy friends are kind and respectful.",
       "imageUrl": "topic:health",
       "tags": [
         "mental-health",
         "relationships"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -207,7 +207,7 @@
         "mental-health",
         "support"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -220,7 +220,7 @@
         "Digest food",
         "Make you think"
       ],
-      "explanation": "Lungs bring in oxygen and breathe out carbon dioxide.",
+      "explanation": "Air travels down the windpipe into tiny air sacs, where oxygen passes into the blood and carbon dioxide passes out.",
       "memoryHook": "T-Rexy says: Lungs bring in fresh air.",
       "imageUrl": "topic:health",
       "tags": [
@@ -240,7 +240,7 @@
         "The system that pumps blood",
         "The system that moves bones"
       ],
-      "explanation": "The immune system fights infections and keeps you healthy.",
+      "explanation": "White blood cells patrol the body and attack germs they recognize, and after beating a germ once they remember it for next time.",
       "memoryHook": "T-Rexy says: The immune system is your body's guard.",
       "imageUrl": "topic:health",
       "tags": [
@@ -260,7 +260,7 @@
         "The organ that helps you breathe",
         "The organ that thinks"
       ],
-      "explanation": "The heart pumps blood to every part of the body.",
+      "explanation": "The heart is a muscle about the size of your fist that squeezes about 100,000 times a day to push blood through miles of vessels.",
       "memoryHook": "T-Rexy says: The heart is the body's pump.",
       "imageUrl": "topic:health",
       "tags": [
@@ -340,7 +340,7 @@
         "Fruits",
         "Dairy"
       ],
-      "explanation": "Chicken is a protein food.",
+      "explanation": "Chicken is mostly protein with little fat, and the body uses that protein to build muscle.",
       "memoryHook": "T-Rexy says: Chicken is protein.",
       "imageUrl": "topic:health",
       "tags": [
@@ -360,14 +360,14 @@
         "Only being strong",
         "Never feeling sad"
       ],
-      "explanation": "Mental health includes emotions, thoughts, and coping.",
+      "explanation": "Mental health is not just feeling happy - it is being able to handle stress, bounce back from bad days, and ask for help when you need it.",
       "memoryHook": "T-Rexy says: Mental health is how you feel and cope.",
       "imageUrl": "topic:health",
       "tags": [
         "mental-health",
         "wellness"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -400,7 +400,7 @@
         "A kind of food",
         "A type of exercise"
       ],
-      "explanation": "Goals give you something to work toward.",
+      "explanation": "A goal turns a wish into a plan: you pick a clear target, break it into steps, and check your progress.",
       "memoryHook": "T-Rexy says: A goal is something you aim for.",
       "imageUrl": "topic:health",
       "tags": [
@@ -464,8 +464,8 @@
       "memoryHook": "T-Rexy says: Herd immunity protects the whole group.",
       "imageUrl": "topic:health",
       "tags": [
-        "hygiene",
-        "immunity"
+        "immunity",
+        "disease-prevention"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -500,7 +500,7 @@
         "Skip meals",
         "Stay up all night"
       ],
-      "explanation": "Healthy coping helps calm the body and mind.",
+      "explanation": "Moving, talking, and slow breathing all lower stress hormones, which is why they work better than yelling or skipping meals.",
       "memoryHook": "T-Rexy says: Move, talk, and breathe to beat stress.",
       "imageUrl": "topic:health",
       "tags": [
@@ -547,7 +547,7 @@
         "nutrition",
         "nutrients"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -567,7 +567,7 @@
         "nutrition",
         "food-groups"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -580,7 +580,7 @@
         "20 minutes",
         "30 minutes"
       ],
-      "explanation": "Kids should get at least 60 minutes of activity every day.",
+      "explanation": "The 60 minutes do not have to happen all at once - walking to school, recess, and playing after dinner all add up.",
       "memoryHook": "T-Rexy says: Kids need 60 minutes of movement a day.",
       "imageUrl": "topic:health",
       "tags": [
@@ -600,7 +600,7 @@
         "Playing a game",
         "Teasing once"
       ],
-      "explanation": "Bullying is repeated, unwanted, and hurtful behavior.",
+      "explanation": "The key word is repeated: one argument is a disagreement, but the same person hurting you again and again on purpose is bullying.",
       "memoryHook": "T-Rexy says: Bullying is repeated hurt on purpose.",
       "imageUrl": "topic:health",
       "tags": [
@@ -647,7 +647,7 @@
         "body-systems",
         "injuries"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -680,14 +680,14 @@
         "A kind of germ",
         "A unit of weight"
       ],
-      "explanation": "Calories measure the energy food gives your body.",
+      "explanation": "Think of calories as fuel: a granola bar has about 200, and your body burns them to run, think, and stay warm.",
       "memoryHook": "T-Rexy says: A calorie is a unit of food energy.",
       "imageUrl": "topic:health",
       "tags": [
         "nutrition",
         "energy"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -707,7 +707,7 @@
         "mental-health",
         "peers"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -760,7 +760,7 @@
         "Eating only one food",
         "Eating as much as you want"
       ],
-      "explanation": "A balanced diet gives the body all the nutrients it needs.",
+      "explanation": "No single food has everything, so a balanced diet mixes the five food groups - each group fills gaps the others leave.",
       "memoryHook": "T-Rexy says: A balanced diet mixes all the food groups.",
       "imageUrl": "topic:health",
       "tags": [
@@ -787,7 +787,7 @@
         "body-systems",
         "nervous"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -800,7 +800,7 @@
         "311",
         "611"
       ],
-      "explanation": "Call 911 in an emergency.",
+      "explanation": "911 connects you to police, fire, or an ambulance, and the dispatcher will ask where you are and what happened - stay on the line.",
       "memoryHook": "T-Rexy says: 911 is the emergency number.",
       "imageUrl": "topic:health",
       "tags": [
@@ -847,7 +847,7 @@
         "health",
         "drugs"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -860,7 +860,7 @@
         "Only being strong",
         "Only eating vegetables"
       ],
-      "explanation": "Health includes the body, the mind, and relationships.",
+      "explanation": "The World Health Organization defines health as complete physical, mental, and social well-being - not just the absence of sickness.",
       "memoryHook": "T-Rexy says: Health is body, mind, and friendships together.",
       "imageUrl": "topic:health",
       "tags": [
@@ -980,7 +980,7 @@
         "Feeling cold",
         "Feeling sleepy only"
       ],
-      "explanation": "Thirst and dark urine are early signs you need water.",
+      "explanation": "By the time you feel thirsty you are already a little dehydrated, and dark yellow urine is another early warning sign.",
       "memoryHook": "T-Rexy says: Thirst and dark urine mean drink water.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1020,7 +1020,7 @@
         "Ignoring your body",
         "Only exercising"
       ],
-      "explanation": "Wellness is the practice of healthy habits every day.",
+      "explanation": "Wellness is active, not luck: it means choosing sleep, movement, and good food on purpose instead of waiting until you feel sick.",
       "memoryHook": "T-Rexy says: Wellness is living healthy on purpose.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1040,7 +1040,7 @@
         "Protein",
         "Fruits"
       ],
-      "explanation": "Milk is a dairy food.",
+      "explanation": "Dairy foods come from milk - cheese and yogurt count too, and they are the main source of calcium in most kids' diets.",
       "memoryHook": "T-Rexy says: Milk is dairy.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1053,21 +1053,21 @@
     },
     {
       "id": "HEA6_053",
-      "question": "What is a food label used for?",
-      "correctAnswer": "To show nutrients, ingredients, and serving size",
+      "question": "What does the ingredients list on a food label show?",
+      "correctAnswer": "The ingredients in the food, from most to least",
       "distractors": [
-        "To show the price only",
-        "To show the color",
-        "To show the brand only"
+        "The price of the food",
+        "The color of the package",
+        "The name of the store"
       ],
-      "explanation": "Food labels help you compare foods and make healthy choices.",
-      "memoryHook": "T-Rexy says: Labels tell you what is in the food.",
+      "explanation": "Ingredients are listed in order by weight, so the first ingredient is the one there is most of.",
+      "memoryHook": "T-Rexy says: First ingredient means most of it!",
       "imageUrl": "topic:health",
       "tags": [
         "nutrition",
         "labels"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1100,7 +1100,7 @@
         "Viruses are living cells",
         "Bacteria need a host cell"
       ],
-      "explanation": "Bacteria can live on their own, while viruses must infect a cell.",
+      "explanation": "Bacteria are single cells that eat and divide by themselves; a virus is just a package of instructions that can only copy itself inside a living cell.",
       "memoryHook": "T-Rexy says: Bacteria live alone; viruses need a host.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1147,7 +1147,7 @@
         "mental-health",
         "relationships"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1207,7 +1207,7 @@
         "nutrition",
         "hydration"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1240,7 +1240,7 @@
         "Being angry",
         "Being selfish"
       ],
-      "explanation": "Empathy means putting yourself in someone else's shoes.",
+      "explanation": "Empathy is noticing how someone feels from their face and words, and imagining how you would feel in their place.",
       "memoryHook": "T-Rexy says: Empathy is feeling with someone else.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1287,7 +1287,7 @@
         "mental-health",
         "emotions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1300,7 +1300,7 @@
         "To digest proteins",
         "To pump blood"
       ],
-      "explanation": "The large intestine takes water from leftover food material.",
+      "explanation": "After the small intestine takes the nutrients, the large intestine soaks up the leftover water - that is what turns liquid waste into solid stool.",
       "memoryHook": "T-Rexy says: The large intestine reclaims water.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1320,7 +1320,7 @@
         "Grains",
         "Dairy"
       ],
-      "explanation": "Carrots are vegetables.",
+      "explanation": "Carrots grow underground as roots, and their orange color comes from beta-carotene, which the body turns into vitamin A.",
       "memoryHook": "T-Rexy says: Carrots are vegetables.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1340,7 +1340,7 @@
         "The whole plate",
         "None"
       ],
-      "explanation": "MyPlate says to fill half your plate with fruits and vegetables.",
+      "explanation": "Fruits and vegetables are low in calories but high in fiber and vitamins, so half a plate of them fills you up without overloading on energy.",
       "memoryHook": "T-Rexy says: Half your plate should be fruits and veggies.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1387,7 +1387,7 @@
         "nutrition",
         "hydration"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1480,7 +1480,7 @@
         "Ignore it",
         "Rub it hard"
       ],
-      "explanation": "Clean the cut, then cover it with a bandage.",
+      "explanation": "Soap and water wash out dirt and germs that cause infection, and the bandage keeps new germs out while the skin heals.",
       "memoryHook": "T-Rexy says: Clean it, then cover it.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1540,7 +1540,7 @@
         "To cure all diseases",
         "To prevent all sickness"
       ],
-      "explanation": "Antibiotics fight bacterial infections but do not work on viruses.",
+      "explanation": "Antibiotics attack parts only bacteria have, like cell walls - viruses do not have those parts, so the medicine has nothing to attack.",
       "memoryHook": "T-Rexy says: Antibiotics fight bacteria, not viruses.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1607,7 +1607,7 @@
         "health",
         "drugs"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1647,7 +1647,7 @@
         "nutrition",
         "allergies"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1660,7 +1660,7 @@
         "To look tan",
         "To keep bugs away"
       ],
-      "explanation": "Sunscreen blocks UV rays that can burn skin and cause damage.",
+      "explanation": "UV rays are invisible light that damages skin cells; sunscreen absorbs or reflects them, and it wears off, so you must reapply.",
       "memoryHook": "T-Rexy says: Sunscreen blocks harmful sun rays.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1687,7 +1687,7 @@
         "nutrition",
         "labels"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1720,7 +1720,7 @@
         "Makes bones soft",
         "Stores water"
       ],
-      "explanation": "Protein helps you grow and heal.",
+      "explanation": "Protein is made of amino acids, and the body links them together to build muscle, skin, and the cells that fight infection.",
       "memoryHook": "T-Rexy says: Protein builds and repairs your body.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1767,7 +1767,7 @@
         "safety",
         "first-aid"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1780,7 +1780,7 @@
         "A bruise",
         "A cut"
       ],
-      "explanation": "A fracture is a crack or break in a bone.",
+      "explanation": "A fracture can be a tiny crack or a bone broken in two - either way the bone needs rest, often in a cast, to grow back together.",
       "memoryHook": "T-Rexy says: A fracture is a broken bone.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1800,7 +1800,7 @@
         "Grains",
         "Protein"
       ],
-      "explanation": "Apples are fruits.",
+      "explanation": "Apples are fruits because they grow from a flower and hold seeds inside - and one medium apple has about 4 grams of fiber.",
       "memoryHook": "T-Rexy says: Apples are fruits.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1840,7 +1840,7 @@
         "A measure of protein",
         "A measure of calories only"
       ],
-      "explanation": "Foods with a high glycemic index raise blood sugar quickly.",
+      "explanation": "The glycemic index ranks foods 0 to 100 by how fast they turn into blood sugar: white bread is near 70, while lentils are near 30.",
       "memoryHook": "T-Rexy says: Glycemic index tracks blood sugar speed.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1867,7 +1867,7 @@
         "nutrition",
         "sugar"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1880,7 +1880,7 @@
         "Sharp eyesight",
         "Better hearing"
       ],
-      "explanation": "Carbohydrates are the body's main source of energy.",
+      "explanation": "Carbs break down into glucose, the fuel the brain and muscles use first - that is why athletes eat pasta before a big game.",
       "memoryHook": "T-Rexy says: Carbs are fuel for your body.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1947,7 +1947,7 @@
         "nutrition",
         "nutrients"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1987,7 +1987,7 @@
         "safety",
         "first-aid"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -2000,14 +2000,14 @@
         "Feeling bored",
         "Feeling sleepy"
       ],
-      "explanation": "Anxiety is worry that can be mild or strong.",
+      "explanation": "A little anxiety before a test is normal and can even help you focus, but worry that lasts weeks and stops you doing things needs support.",
       "memoryHook": "T-Rexy says: Anxiety is worry and nervousness.",
       "imageUrl": "topic:health",
       "tags": [
         "mental-health",
         "emotions"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     }
