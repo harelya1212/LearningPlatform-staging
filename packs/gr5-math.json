@@ -19,7 +19,7 @@
         "4/5",
         "7/8"
       ],
-      "explanation": "Add the numerators over the same denominator 4: 1+3=4, so 1.",
+      "explanation": "Add the numerators over the same denominator 4: 1+3=4, so 4/4 = 1 whole.",
       "memoryHook": "T-Rexy says: same bottoms mean just add the tops!",
       "imageUrl": "topic:math",
       "tags": [
@@ -39,7 +39,7 @@
         "1",
         "1 1/10"
       ],
-      "explanation": "Add the numerators over the same denominator 5: 2+4=6, so 1 1/5.",
+      "explanation": "Add the numerators over the same denominator 5: 2+4=6, so 6/5 = 1 1/5.",
       "memoryHook": "T-Rexy says: same bottoms mean just add the tops!",
       "imageUrl": "topic:math",
       "tags": [
@@ -59,7 +59,7 @@
         "8/9",
         "15/16"
       ],
-      "explanation": "Add the numerators over the same denominator 8: 3+5=8, so 1.",
+      "explanation": "Add the numerators over the same denominator 8: 3+5=8, so 8/8 = 1 whole.",
       "memoryHook": "T-Rexy says: same bottoms mean just add the tops!",
       "imageUrl": "topic:math",
       "tags": [
@@ -79,7 +79,7 @@
         "3/4",
         "5/6"
       ],
-      "explanation": "Add the numerators over the same denominator 3: 1+2=3, so 1.",
+      "explanation": "Add the numerators over the same denominator 3: 1+2=3, so 3/3 = 1 whole.",
       "memoryHook": "T-Rexy says: same bottoms mean just add the tops!",
       "imageUrl": "topic:math",
       "tags": [
@@ -99,7 +99,7 @@
         "6/7",
         "11/12"
       ],
-      "explanation": "Add the numerators over the same denominator 6: 5+1=6, so 1.",
+      "explanation": "Add the numerators over the same denominator 6: 5+1=6, so 6/6 = 1 whole.",
       "memoryHook": "T-Rexy says: same bottoms mean just add the tops!",
       "imageUrl": "topic:math",
       "tags": [
@@ -119,7 +119,7 @@
         "7/8",
         "13/14"
       ],
-      "explanation": "Add the numerators over the same denominator 7: 2+5=7, so 1.",
+      "explanation": "Add the numerators over the same denominator 7: 2+5=7, so 7/7 = 1 whole.",
       "memoryHook": "T-Rexy says: same bottoms mean just add the tops!",
       "imageUrl": "topic:math",
       "tags": [
@@ -139,7 +139,7 @@
         "10/11",
         "19/20"
       ],
-      "explanation": "Add the numerators over the same denominator 10: 3+7=10, so 1.",
+      "explanation": "Add the numerators over the same denominator 10: 3+7=10, so 10/10 = 1 whole.",
       "memoryHook": "T-Rexy says: same bottoms mean just add the tops!",
       "imageUrl": "topic:math",
       "tags": [
@@ -159,7 +159,7 @@
         "1 1/5",
         "1 5/18"
       ],
-      "explanation": "Add the numerators over the same denominator 9: 4+8=12, so 1 1/3.",
+      "explanation": "Add the numerators over the same denominator 9: 4+8=12, so 12/9 = 1 1/3.",
       "memoryHook": "T-Rexy says: same bottoms mean just add the tops!",
       "imageUrl": "topic:math",
       "tags": [
@@ -619,7 +619,7 @@
         "3/4",
         "2/3"
       ],
-      "explanation": "Use a common denominator, then plus the numerators to get 5/6.",
+      "explanation": "Use the common denominator 6: 1/2 = 3/6 and 1/3 = 2/6, then 3/6 + 2/6 = 5/6.",
       "memoryHook": "T-Rexy says: you cannot add or subtract until the slices match!",
       "imageUrl": "topic:math",
       "tags": [
@@ -639,7 +639,7 @@
         "5/6",
         "3/4"
       ],
-      "explanation": "Use a common denominator, then plus the numerators to get 11/12.",
+      "explanation": "Use the common denominator 12: 2/3 = 8/12 and 1/4 = 3/12, then 8/12 + 3/12 = 11/12.",
       "memoryHook": "T-Rexy says: you cannot add or subtract until the slices match!",
       "imageUrl": "topic:math",
       "tags": [
@@ -659,7 +659,7 @@
         "1/2",
         "4/5"
       ],
-      "explanation": "Use a common denominator, then minus the numerators to get 7/12.",
+      "explanation": "Use the common denominator 12: 3/4 = 9/12 and 1/6 = 2/12, then 9/12 - 2/12 = 7/12.",
       "memoryHook": "T-Rexy says: you cannot add or subtract until the slices match!",
       "imageUrl": "topic:math",
       "tags": [
@@ -679,7 +679,7 @@
         "5/12",
         "6/7"
       ],
-      "explanation": "Use a common denominator, then minus the numerators to get 1/2.",
+      "explanation": "Use the common denominator 6: 1/3 = 2/6, then 5/6 - 2/6 = 3/6 = 1/2.",
       "memoryHook": "T-Rexy says: you cannot add or subtract until the slices match!",
       "imageUrl": "topic:math",
       "tags": [
@@ -699,7 +699,7 @@
         "17/30",
         "3/5"
       ],
-      "explanation": "Use a common denominator, then plus the numerators to get 13/20.",
+      "explanation": "Use the common denominator 20: 1/4 = 5/20 and 2/5 = 8/20, then 5/20 + 8/20 = 13/20.",
       "memoryHook": "T-Rexy says: you cannot add or subtract until the slices match!",
       "imageUrl": "topic:math",
       "tags": [
@@ -719,7 +719,7 @@
         "13/24",
         "8/9"
       ],
-      "explanation": "Use a common denominator, then minus the numerators to get 5/8.",
+      "explanation": "Use the common denominator 8: 1/4 = 2/8, then 7/8 - 2/8 = 5/8.",
       "memoryHook": "T-Rexy says: you cannot add or subtract until the slices match!",
       "imageUrl": "topic:math",
       "tags": [
@@ -739,7 +739,7 @@
         "49/60",
         "1/2"
       ],
-      "explanation": "Use a common denominator, then plus the numerators to get 9/10.",
+      "explanation": "Use the common denominator 10: 2/5 = 4/10 and 1/2 = 5/10, then 4/10 + 5/10 = 9/10.",
       "memoryHook": "T-Rexy says: you cannot add or subtract until the slices match!",
       "imageUrl": "topic:math",
       "tags": [
@@ -759,7 +759,7 @@
         "5/12",
         "2/3"
       ],
-      "explanation": "Use a common denominator, then minus the numerators to get 1/2.",
+      "explanation": "Use the common denominator 10: 3/5 = 6/10, then 6/10 - 1/10 = 5/10 = 1/2.",
       "memoryHook": "T-Rexy says: you cannot add or subtract until the slices match!",
       "imageUrl": "topic:math",
       "tags": [
@@ -819,7 +819,7 @@
         "6/7",
         "2/3"
       ],
-      "explanation": "5 x 1/6 = 5/6 = 5/6.",
+      "explanation": "5 x 1/6 = 5/6 - five one-sixths make five-sixths.",
       "memoryHook": "T-Rexy says: multiply the top by the whole number and keep the bottom!",
       "imageUrl": "topic:math",
       "tags": [
@@ -899,7 +899,7 @@
         "2.04",
         "24"
       ],
-      "explanation": "Work it out digit by digit and place the decimal point carefully to get 2.4.",
+      "explanation": "6 x 4 = 24, one decimal place, so 2.4.",
       "memoryHook": "T-Rexy says: multiply like the dot is not there, then stomp it back into place!",
       "imageUrl": "topic:math",
       "tags": [
@@ -919,7 +919,7 @@
         "0.39",
         "3.6"
       ],
-      "explanation": "Work it out digit by digit and place the decimal point carefully to get 3.9.",
+      "explanation": "13 x 3 = 39, one decimal place, so 3.9.",
       "memoryHook": "T-Rexy says: multiply like the dot is not there, then stomp it back into place!",
       "imageUrl": "topic:math",
       "tags": [
@@ -939,7 +939,7 @@
         "1.50",
         "150"
       ],
-      "explanation": "Work it out digit by digit and place the decimal point carefully to get 15.",
+      "explanation": "25 x 6 = 150, one decimal place, so 15.0 = 15.",
       "memoryHook": "T-Rexy says: multiply like the dot is not there, then stomp it back into place!",
       "imageUrl": "topic:math",
       "tags": [
@@ -959,8 +959,8 @@
         "0.24",
         "24"
       ],
-      "explanation": "Work it out digit by digit and place the decimal point carefully to get 2.4.",
-      "memoryHook": "T-Rexy says: multiply like the dot is not there, then stomp it back into place!",
+      "explanation": "48 / 2 = 24, one decimal place, so 2.4.",
+      "memoryHook": "T-Rexy says: divide like the dot is not there, then put it back in the same place!",
       "imageUrl": "topic:math",
       "tags": [
         "decimals",
@@ -979,8 +979,8 @@
         "0.12",
         "12"
       ],
-      "explanation": "Work it out digit by digit and place the decimal point carefully to get 1.2.",
-      "memoryHook": "T-Rexy says: multiply like the dot is not there, then stomp it back into place!",
+      "explanation": "36 / 3 = 12, one decimal place, so 1.2.",
+      "memoryHook": "T-Rexy says: divide like the dot is not there, then put it back in the same place!",
       "imageUrl": "topic:math",
       "tags": [
         "decimals",
@@ -999,7 +999,7 @@
         "4.5",
         "0.045"
       ],
-      "explanation": "Work it out digit by digit and place the decimal point carefully to get 0.45.",
+      "explanation": "9 x 5 = 45, two decimal places, so 0.45.",
       "memoryHook": "T-Rexy says: multiply like the dot is not there, then stomp it back into place!",
       "imageUrl": "topic:math",
       "tags": [
@@ -1440,7 +1440,7 @@
         "3 5/6"
       ],
       "explanation": "Convert to a common denominator, then subtract to get 2 5/6.",
-      "memoryHook": "T-Rexy says: wholes and fractions add up separately, then pile them together!",
+      "memoryHook": "T-Rexy says: wholes and fractions subtract separately - borrow a whole if you need to!",
       "imageUrl": "topic:math",
       "tags": [
         "fractions",
@@ -1480,7 +1480,7 @@
         "3 3/8"
       ],
       "explanation": "Convert to a common denominator, then subtract to get 2 3/8.",
-      "memoryHook": "T-Rexy says: wholes and fractions add up separately, then pile them together!",
+      "memoryHook": "T-Rexy says: wholes and fractions subtract separately - borrow a whole if you need to!",
       "imageUrl": "topic:math",
       "tags": [
         "fractions",
@@ -1520,7 +1520,7 @@
         "3 1/2"
       ],
       "explanation": "Convert to a common denominator, then subtract to get 2 1/2.",
-      "memoryHook": "T-Rexy says: wholes and fractions add up separately, then pile them together!",
+      "memoryHook": "T-Rexy says: wholes and fractions subtract separately - borrow a whole if you need to!",
       "imageUrl": "topic:math",
       "tags": [
         "fractions",
