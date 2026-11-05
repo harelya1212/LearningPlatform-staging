@@ -1032,15 +1032,15 @@
     },
     {
       "id": "GEO5_052",
-      "question": "Which region includes Texas, Florida, and Georgia?",
+      "question": "Which region includes Alabama, Florida, and Georgia?",
       "correctAnswer": "The Southeast",
       "distractors": [
         "The Northeast",
         "The Midwest",
         "The Northwest"
       ],
-      "explanation": "Texas, Florida, and Georgia are in the Southeast.",
-      "memoryHook": "T-Rexy says: Texas, Florida, Georgia - the Southeast!",
+      "explanation": "Alabama, Florida, and Georgia are in the Southeast.",
+      "memoryHook": "T-Rexy says: Alabama, Florida, Georgia - the Southeast!",
       "imageUrl": "topic:geography",
       "tags": [
         "us-regions",
@@ -1597,7 +1597,7 @@
       "distractors": [
         "Interstate 40",
         "Interstate 8",
-        "Interstate 10 runs east-west"
+        "Interstate 15"
       ],
       "explanation": "Interstate 17 runs north-south through Phoenix toward Flagstaff.",
       "memoryHook": "T-Rexy says: I-17 runs north-south through Phoenix!",
@@ -1612,7 +1612,7 @@
     },
     {
       "id": "GEO5_081",
-      "question": "What is the largest desert in the world?",
+      "question": "What is the largest hot desert in the world?",
       "correctAnswer": "The Sahara Desert",
       "distractors": [
         "The Sonoran Desert",
