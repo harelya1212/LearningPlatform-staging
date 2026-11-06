@@ -17,20 +17,20 @@
  "questions": [
   {
    "id": "EACALC_001",
-   "question": "Find lim (x -> 2) (x^2 - 4) / (x - 2).",
-   "correctAnswer": "4",
+   "question": "The region bounded by the curve y = x^2, the y-axis, and the line y = 9 is revolved around the y-axis. Find the volume of the solid formed.",
+   "correctAnswer": "81pi/2",
    "distractors": [
-    "2",
-    "0",
-    "Does not exist"
+    "18pi",
+    "81pi",
+    "27pi"
    ],
-   "explanation": "Factor: (x^2 - 4) = (x - 2)(x + 2). Cancel (x - 2) to get x + 2. Then lim (x -> 2) (x + 2) = 4.",
-   "memoryHook": "T-Rexy says: factor first, cancel the troublemaker, then plug in - dino demolition!",
+   "explanation": "Use discs perpendicular to the y-axis. Solving y = x^2 for x gives the radius R(y) = sqrt(y). V = pi * (integral from 0 to 9 of (sqrt(y))^2 dy) = pi * (integral of y dy) = pi * [y^2/2] from 0 to 9 = pi * 81/2 = 81pi/2.",
+   "memoryHook": "T-Rexy says: spin around the y-axis, slice sideways - the radius is x, and x is sqrt(y)!",
    "imageUrl": "topic:limits",
    "tags": [
     "Math",
     "Calculus",
-    "Limits"
+    "Volumes"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -80,20 +80,20 @@
   },
   {
    "id": "EACALC_004",
-   "question": "Find lim (x -> 1) (x^3 - 1) / (x - 1).",
-   "correctAnswer": "3",
+   "question": "A particle moves along a line with velocity v(t), in feet per second, recorded at time t in seconds: v(0) = 2, v(1) = 6, v(2) = 10, v(3) = 8, v(4) = 4. Use a trapezoidal sum with these subintervals to estimate the displacement of the particle from t = 0 to t = 4.",
+   "correctAnswer": "27",
    "distractors": [
-    "1",
-    "0",
-    "2"
+    "26",
+    "28",
+    "54"
    ],
-   "explanation": "Factor: x^3 - 1 = (x - 1)(x^2 + x + 1). Cancel (x - 1): lim (x -> 1) (x^2 + x + 1) = 1 + 1 + 1 = 3.",
-   "memoryHook": "T-Rexy says: difference of cubes - (a - b)(a^2 + ab + b^2) - then cancel and chill!",
+   "explanation": "Displacement is the integral of v from 0 to 4. With h = 1, the trapezoidal sum is (h/2) * [v(0) + 2v(1) + 2v(2) + 2v(3) + v(4)] = (1/2) * [2 + 12 + 20 + 16 + 4] = (1/2)(54) = 27 feet. It is also the average of the left sum (26) and the right sum (28).",
+   "memoryHook": "T-Rexy says: trapezoids split the difference - the average of the left and right sums, fair and square!",
    "imageUrl": "topic:limits",
    "tags": [
     "Math",
     "Calculus",
-    "Limits"
+    "Motion"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -101,20 +101,20 @@
   },
   {
    "id": "EACALC_005",
-   "question": "Find lim (x -> infinity) (3x^2 + 2x) / (5x^2 - x).",
-   "correctAnswer": "3/5",
+   "question": "The graph of f', the derivative of f, is shown in the figure. At which x-value does f have a local maximum on the interval [0, 4]?",
+   "correctAnswer": "x = 1",
    "distractors": [
-    "3",
-    "0",
-    "Infinity"
+    "x = 0",
+    "x = 3",
+    "x = 4"
    ],
-   "explanation": "Divide top and bottom by x^2: (3 + 2/x) / (5 - 1/x). As x -> infinity, terms with 1/x go to 0, leaving 3/5.",
-   "memoryHook": "T-Rexy says: top degree equals bottom degree - the limit is the ratio of leading coefficients!",
+   "explanation": "f is increasing where f' > 0 and decreasing where f' < 0. From the graph, f' is positive on (0, 1), negative on (1, 3), and positive on (3, 4). Since f' changes from positive to negative at x = 1, f has a local maximum there. At x = 3, f' changes from negative to positive, which gives a local minimum.",
+   "memoryHook": "T-Rexy says: watch the sign of f' - plus to minus at the top of the hill means a local max!",
    "imageUrl": "topic:limits",
    "tags": [
     "Math",
     "Calculus",
-    "Limits"
+    "Extrema"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -122,20 +122,20 @@
   },
   {
    "id": "EACALC_006",
-   "question": "Find lim (x -> infinity) (x^3 + 1) / (2x^2 - 5).",
-   "correctAnswer": "Infinity",
+   "question": "Use a linear approximation at x = 4 to approximate sqrt(4.08).",
+   "correctAnswer": "2.02",
    "distractors": [
-    "1/2",
-    "0",
-    "Does not exist"
+    "2.04",
+    "2.2",
+    "1.98"
    ],
-   "explanation": "Top degree (3) is greater than bottom degree (2), and the ratio is positive, so the limit is infinity.",
-   "memoryHook": "T-Rexy says: top degree wins the race - limit blows up to infinity!",
+   "explanation": "Let f(x) = sqrt(x). Then f(4) = 2 and f'(x) = 1 / (2 sqrt(x)), so f'(4) = 1/4. The tangent line is L(x) = 2 + (1/4)(x - 4). Then sqrt(4.08) is approximately L(4.08) = 2 + (1/4)(0.08) = 2 + 0.02 = 2.02.",
+   "memoryHook": "T-Rexy says: near the point, the tangent line hugs the curve - zoom in and the curve looks straight!",
    "imageUrl": "topic:limits",
    "tags": [
     "Math",
     "Calculus",
-    "Limits"
+    "Linear Approximation"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -143,20 +143,20 @@
   },
   {
    "id": "EACALC_007",
-   "question": "Find lim (x -> -infinity) (4x + 7) / (2x^2 + 3).",
-   "correctAnswer": "0",
+   "question": "For y = x^3, find the differential dy when x = 2 and dx = 0.05.",
+   "correctAnswer": "0.6",
    "distractors": [
-    "2",
-    "Infinity",
-    "-Infinity"
+    "0.3",
+    "0.15",
+    "1.2"
    ],
-   "explanation": "Bottom degree (2) is greater than top degree (1), so the limit is 0.",
-   "memoryHook": "T-Rexy says: bottom degree bigger - the limit sinks to zero like a tired dino!",
+   "explanation": "The differential is dy = f'(x) dx. Here f'(x) = 3x^2, so at x = 2, f'(2) = 12. Then dy = 12 * 0.05 = 0.6.",
+   "memoryHook": "T-Rexy says: dy is the change along the tangent line - slope 12 times a tiny step of 0.05!",
    "imageUrl": "topic:limits",
    "tags": [
     "Math",
     "Calculus",
-    "Limits"
+    "Linear Approximation"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -269,20 +269,20 @@
   },
   {
    "id": "EACALC_013",
-   "question": "Find lim (x -> 5) (x^2 - 25) / (x^2 - 3x - 10).",
-   "correctAnswer": "10/7",
+   "question": "A solid has as its base the region enclosed by the parabola y = x^2 and the line y = 4. Cross sections perpendicular to the x-axis are squares whose side lies in the base. Find the volume of the solid.",
+   "correctAnswer": "512/15",
    "distractors": [
-    "5/2",
-    "1",
-    "0"
+    "256/15",
+    "128/3",
+    "64"
    ],
-   "explanation": "Factor: (x - 5)(x + 5) / ((x - 5)(x + 2)). Cancel (x - 5): (x + 5)/(x + 2). At x = 5: 10/7.",
-   "memoryHook": "T-Rexy says: factor both, cancel the twin, then substitute - dino double-takedown!",
+   "explanation": "The curves meet where x^2 = 4, at x = -2 and x = 2. At each x, the side of the square is s = 4 - x^2, so the cross-section area is A(x) = (4 - x^2)^2. V = integral from -2 to 2 of (4 - x^2)^2 dx = integral of (16 - 8x^2 + x^4) dx = [16x - (8/3)x^3 + x^5/5] from -2 to 2 = 2 * (32 - 64/3 + 32/5) = 512/15.",
+   "memoryHook": "T-Rexy says: the square's side is the gap between the curves - top minus bottom, then square it!",
    "imageUrl": "topic:limits",
    "tags": [
     "Math",
     "Calculus",
-    "Limits"
+    "Volumes"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -332,20 +332,20 @@
   },
   {
    "id": "EACALC_016",
-   "question": "If lim (x -> c) f(x) = 4 and lim (x -> c) g(x) = -2, find lim (x -> c) [f(x) * g(x)].",
-   "correctAnswer": "-8",
+   "question": "The slope field for the differential equation dy/dx = (1/2)y is shown in the figure. What is the slope of the segment at the point (2, 4)?",
+   "correctAnswer": "2",
    "distractors": [
-    "2",
-    "-2",
-    "6"
+    "1",
+    "4",
+    "8"
    ],
-   "explanation": "Limit of a product is the product of the limits: 4 * (-2) = -8.",
-   "memoryHook": "T-Rexy says: limits play nice with arithmetic - multiply the answers!",
+   "explanation": "The slope at any point depends only on y: slope = (1/2)y. At (2, 4), slope = (1/2)(4) = 2. Notice every segment at height y = 4 in the field has this same slope, and segments along y = 0 are horizontal.",
+   "memoryHook": "T-Rexy says: in this field only the height matters - same row, same slope!",
    "imageUrl": "topic:limits",
    "tags": [
     "Math",
     "Calculus",
-    "Limits"
+    "Slope Fields"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -353,20 +353,20 @@
   },
   {
    "id": "EACALC_017",
-   "question": "Find lim (x -> 1) (x^2 + 3x - 4) / (x^2 - 1).",
-   "correctAnswer": "5/2",
+   "question": "A particle moves along a line with velocity v(t) = t^2 - 4 for 0 <= t <= 3. Find the total distance traveled by the particle from t = 0 to t = 3.",
+   "correctAnswer": "23/3",
    "distractors": [
-    "1",
-    "2",
-    "5"
+    "3",
+    "-3",
+    "25/3"
    ],
-   "explanation": "Factor: (x + 4)(x - 1) / ((x - 1)(x + 1)). Cancel (x - 1): (x + 4)/(x + 1). At x = 1: 5/2.",
-   "memoryHook": "T-Rexy says: spot the (x - 1) twins, cancel them, then plug in!",
+   "explanation": "Total distance is the integral of |v|. Since v(t) = 0 at t = 2, v is negative on [0, 2] and positive on [2, 3]. Distance = -integral from 0 to 2 of (t^2 - 4) dt + integral from 2 to 3 of (t^2 - 4) dt = 16/3 + 7/3 = 23/3. The plain integral from 0 to 3 is -3, the displacement; distance counts the backward leg as positive too.",
+   "memoryHook": "T-Rexy says: distance never goes negative - flip the backward part up before you add!",
    "imageUrl": "topic:limits",
    "tags": [
     "Math",
     "Calculus",
-    "Limits"
+    "Motion"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -416,20 +416,20 @@
   },
   {
    "id": "EACALC_020",
-   "question": "Find lim (x -> 3-) (x + 1) / (x - 3).",
-   "correctAnswer": "-Infinity",
+   "question": "The table gives values of a function f: f(0) = 1, f(2) = 4, f(4) = 7, f(6) = 5. Use a trapezoidal sum with these subintervals to estimate the integral of f from 0 to 6.",
+   "correctAnswer": "28",
    "distractors": [
-    "Infinity",
-    "0",
-    "Does not exist"
+    "17",
+    "14",
+    "56"
    ],
-   "explanation": "Numerator approaches 4 (positive), denominator approaches 0 from the negative side, so the quotient goes to -infinity.",
-   "memoryHook": "T-Rexy says: positive over tiny-negative - negative infinity nosedive!",
+   "explanation": "The subinterval width is h = 2. Trapezoidal sum = (h/2) * [f(0) + 2f(2) + 2f(4) + f(6)] = (2/2) * [1 + 8 + 14 + 5] = 28. The end values count once and the middle values count twice.",
+   "memoryHook": "T-Rexy says: ends count once, middles count twice - then multiply by h over 2!",
    "imageUrl": "topic:limits",
    "tags": [
     "Math",
     "Calculus",
-    "Limits"
+    "Riemann"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -458,20 +458,20 @@
   },
   {
    "id": "EACALC_022",
-   "question": "Identify which condition must hold for f to be continuous at x = c.",
-   "correctAnswer": "f(c) is defined, lim (x -> c) f(x) exists, and they are equal",
+   "question": "A bacteria culture starts with 100 bacteria and doubles every 3 hours. Assuming exponential growth, how many bacteria are present after 9 hours?",
+   "correctAnswer": "800",
    "distractors": [
-    "f(c) is defined only",
-    "lim (x -> c) f(x) exists only",
-    "f is differentiable at c"
+    "300",
+    "400",
+    "900"
    ],
-   "explanation": "Continuity at c requires all three: the function value exists, the limit exists, and the limit equals the function value.",
-   "memoryHook": "T-Rexy says: defined, limit exists, and they match - the continuity triple-check!",
+   "explanation": "Exponential growth with doubling time 3 hours gives P(t) = 100 * 2^(t/3). At t = 9: P(9) = 100 * 2^3 = 100 * 8 = 800. The population doubles three times: 100 to 200 to 400 to 800.",
+   "memoryHook": "T-Rexy says: count the doublings - 9 hours holds three of them!",
    "imageUrl": "topic:calculus",
    "tags": [
     "Math",
     "Calculus",
-    "Continuity"
+    "Differential Equations"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -479,20 +479,20 @@
   },
   {
    "id": "EACALC_023",
-   "question": "Identify the type of discontinuity of f(x) = 1 / (x - 2) at x = 2.",
-   "correctAnswer": "Infinite discontinuity",
+   "question": "Use a midpoint Riemann sum with n = 4 subintervals to estimate the integral of x^2 from 0 to 4.",
+   "correctAnswer": "21",
    "distractors": [
-    "Removable discontinuity",
-    "Jump discontinuity",
-    "No discontinuity"
+    "14",
+    "22",
+    "64/3"
    ],
-   "explanation": "As x approaches 2, f(x) goes to infinity (or -infinity), so the function has a vertical asymptote - an infinite discontinuity.",
-   "memoryHook": "T-Rexy says: denominator zero with no cancel - vertical asymptote, infinite blast-off!",
+   "explanation": "Each subinterval has width 1. The midpoints are 0.5, 1.5, 2.5, 3.5, with values 0.25, 2.25, 6.25, 12.25. The midpoint sum is 1 * (0.25 + 2.25 + 6.25 + 12.25) = 21. The exact value is 64/3, about 21.33.",
+   "memoryHook": "T-Rexy says: sample in the middle of each strip - the midpoint is the honest estimate!",
    "imageUrl": "topic:calculus",
    "tags": [
     "Math",
     "Calculus",
-    "Continuity"
+    "Riemann"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -542,20 +542,20 @@
   },
   {
    "id": "EACALC_026",
-   "question": "Determine the interval on which f(x) = sqrt(x - 1) is continuous.",
-   "correctAnswer": "[1, infinity)",
+   "question": "The shaded region in the figure is bounded by the curve y = x^2, the x-axis, and the line x = 2. This region is revolved around the x-axis. Find the volume of the solid formed.",
+   "correctAnswer": "32pi/5",
    "distractors": [
-    "(1, infinity)",
-    "(-infinity, 1]",
-    "All real numbers"
+    "16pi/5",
+    "64pi/5",
+    "8pi/3"
    ],
-   "explanation": "The square root requires x - 1 >= 0, so x >= 1. The function is continuous on its entire domain [1, infinity).",
-   "memoryHook": "T-Rexy says: continuous wherever it lives - check the domain first!",
+   "explanation": "Use discs with radius R(x) = x^2. V = pi * integral from 0 to 2 of (x^2)^2 dx = pi * integral of x^4 dx = pi * [x^5/5] from 0 to 2 = pi * 32/5 = 32pi/5.",
+   "memoryHook": "T-Rexy says: the radius is the height of the curve - square it, then integrate!",
    "imageUrl": "topic:calculus",
    "tags": [
     "Math",
     "Calculus",
-    "Continuity"
+    "Volumes"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -584,20 +584,20 @@
   },
   {
    "id": "EACALC_028",
-   "question": "Identify where the greatest integer function f(x) = floor(x) is discontinuous:",
-   "correctAnswer": "Every integer",
+   "question": "The figure shows the graph of the velocity v(t) of a particle moving along a line, in feet per second, for 0 <= t <= 7. Find the total distance traveled by the particle.",
+   "correctAnswer": "20",
    "distractors": [
-    "Every non-integer",
-    "x = 0 only",
-    "Nowhere, it is continuous"
+    "16",
+    "24",
+    "28"
    ],
-   "explanation": "floor(x) jumps at every integer (e.g., lim (x -> 2-) = 1 but f(2) = 2), so it has jump discontinuities at all integers.",
-   "memoryHook": "T-Rexy says: floor function stomps up stairs - a jump at every integer step!",
+   "explanation": "Because v(t) >= 0 throughout, total distance equals the area under the velocity graph. Split it into shapes: a triangle on [0, 2] with area (1/2)(2)(4) = 4, a rectangle on [2, 5] with area (3)(4) = 12, and a triangle on [5, 7] with area (1/2)(2)(4) = 4. Total distance = 4 + 12 + 4 = 20 feet.",
+   "memoryHook": "T-Rexy says: distance hides in the area under the velocity graph - chop it into triangles and rectangles!",
    "imageUrl": "topic:calculus",
    "tags": [
     "Math",
     "Calculus",
-    "Continuity"
+    "Motion"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -647,20 +647,20 @@
   },
   {
    "id": "EACALC_031",
-   "question": "If f(x) = 7x^3 - 4x^2 + 2x - 9, find f'(x).",
-   "correctAnswer": "21x^2 - 8x + 2",
+   "question": "Use a linear approximation at x = 8 to approximate the cube root of 8.06.",
+   "correctAnswer": "2.005",
    "distractors": [
-    "21x^2 - 8x",
-    "7x^2 - 4x + 2",
-    "21x^3 - 8x^2 + 2x"
+    "2.02",
+    "2.06",
+    "1.995"
    ],
-   "explanation": "Differentiate term by term: 21x^2 - 8x + 2 - 0 = 21x^2 - 8x + 2.",
-   "memoryHook": "T-Rexy says: attack each term one at a time - constants vanish into dino dust!",
+   "explanation": "Let f(x) = x^(1/3). Then f(8) = 2 and f'(x) = (1/3) x^(-2/3), so f'(8) = 1 / (3 * 4) = 1/12. The tangent line is L(x) = 2 + (1/12)(x - 8). So the cube root of 8.06 is approximately L(8.06) = 2 + (1/12)(0.06) = 2 + 0.005 = 2.005.",
+   "memoryHook": "T-Rexy says: 8 is a perfect cube - stand on it and lean on the tangent line!",
    "imageUrl": "topic:derivatives",
    "tags": [
     "Math",
     "Calculus",
-    "Derivatives"
+    "Linear Approximation"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -668,20 +668,20 @@
   },
   {
    "id": "EACALC_032",
-   "question": "If f(x) = sqrt(x), find f'(x).",
-   "correctAnswer": "1 / (2*sqrt(x))",
+   "question": "The graph of f on [0, 4] is shown in the figure. Use a midpoint Riemann sum with n = 2 subintervals to estimate the integral of f from 0 to 4.",
+   "correctAnswer": "22",
    "distractors": [
-    "2*sqrt(x)",
-    "1 / sqrt(x)",
-    "x^(-1/2)"
+    "11",
+    "18",
+    "26"
    ],
-   "explanation": "Write sqrt(x) = x^(1/2). Power rule: (1/2)x^(-1/2) = 1/(2*sqrt(x)).",
-   "memoryHook": "T-Rexy says: root means half-power - bring down one-half and watch the exponent go negative!",
+   "explanation": "With n = 2, each subinterval has width 2. The midpoints are x = 1 and x = 3, and from the graph f(1) = 3 and f(3) = 8. The midpoint sum is 2 * f(1) + 2 * f(3) = 2(3) + 2(8) = 22.",
+   "memoryHook": "T-Rexy says: two wide strips - read the height at each middle and multiply by the width!",
    "imageUrl": "topic:derivatives",
    "tags": [
     "Math",
     "Calculus",
-    "Derivatives"
+    "Riemann"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -689,20 +689,20 @@
   },
   {
    "id": "EACALC_033",
-   "question": "If f(x) = 1 / x^2, find f'(x).",
-   "correctAnswer": "-2 / x^3",
+   "question": "A slope field for the differential equation dy/dx = x is shown in the figure, together with one solution curve passing through the point (0, 1). Which function gives that solution curve?",
+   "correctAnswer": "y = x^2/2 + 1",
    "distractors": [
-    "2 / x^3",
-    "-1 / x^3",
-    "-2x^(-1)"
+    "y = x^2/2",
+    "y = x^2 + 1",
+    "y = x/2 + 1"
    ],
-   "explanation": "Write 1/x^2 = x^(-2). Power rule: -2x^(-3) = -2/x^3.",
-   "memoryHook": "T-Rexy says: flip it to a negative exponent first, then power rule does the rest!",
+   "explanation": "Integrate dy/dx = x to get y = x^2/2 + C. The curve passes through (0, 1), so 1 = 0 + C and C = 1. The solution is y = x^2/2 + 1, an upward parabola with vertex at (0, 1), matching the drawn curve: horizontal at x = 0 and steeper as |x| grows.",
+   "memoryHook": "T-Rexy says: integrate the slope, then let the given point choose the constant!",
    "imageUrl": "topic:derivatives",
    "tags": [
     "Math",
     "Calculus",
-    "Derivatives"
+    "Slope Fields"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -857,20 +857,20 @@
   },
   {
    "id": "EACALC_041",
-   "question": "If f(x) = 3e^x + 2ln(x), find f'(x).",
-   "correctAnswer": "3e^x + 2/x",
+   "question": "A population N(t) satisfies the differential equation dN/dt = kN. If N(0) = 500 and N(4) = 1500, find the growth constant k.",
+   "correctAnswer": "ln(3)/4",
    "distractors": [
-    "3e^x + 2x",
-    "3xe^(x-1) + 2/x",
-    "3e^x + 2"
+    "ln(3)",
+    "3/4",
+    "ln(4)/3"
    ],
-   "explanation": "Differentiate term by term: 3e^x + 2*(1/x) = 3e^x + 2/x.",
-   "memoryHook": "T-Rexy says: e^x stays, ln becomes one-over - term by term, no fear!",
+   "explanation": "The solution of dN/dt = kN is N(t) = N(0) e^(kt) = 500 e^(kt). Using N(4) = 1500: 500 e^(4k) = 1500, so e^(4k) = 3. Take ln of both sides: 4k = ln(3), so k = ln(3)/4, about 0.275 per unit time.",
+   "memoryHook": "T-Rexy says: the population tripled - undo the exponential with a logarithm and divide by the time!",
    "imageUrl": "topic:derivatives",
    "tags": [
     "Math",
     "Calculus",
-    "Derivatives"
+    "Differential Equations"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -1256,20 +1256,20 @@
   },
   {
    "id": "EACALC_060",
-   "question": "If f(x) = x^4 - 3x^2 + 1, find f''(x).",
-   "correctAnswer": "12x^2 - 6",
+   "question": "The table gives the position s(t), in feet, of a particle at time t in seconds: s(0) = 0, s(2) = 10, s(4) = 28, s(6) = 54. Find the average velocity of the particle on the interval [2, 6].",
+   "correctAnswer": "11",
    "distractors": [
-    "4x^3 - 6x",
-    "12x^2",
-    "4x^3 - 6x + 1"
+    "9",
+    "13.5",
+    "22"
    ],
-   "explanation": "f'(x) = 4x^3 - 6x. f''(x) = 12x^2 - 6.",
-   "memoryHook": "T-Rexy says: second derivative - differentiate twice, no mercy!",
+   "explanation": "Average velocity is change in position over change in time: [s(6) - s(2)] / (6 - 2) = (54 - 10) / 4 = 44 / 4 = 11 feet per second.",
+   "memoryHook": "T-Rexy says: average velocity is total travel divided by total time - endpoints only!",
    "imageUrl": "topic:derivatives",
    "tags": [
     "Math",
     "Calculus",
-    "Derivatives"
+    "Motion"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -1571,20 +1571,20 @@
   },
   {
    "id": "EACALC_075",
-   "question": "Find lim (x -> 0) (sin(3x)) / (5x).",
-   "correctAnswer": "3/5",
+   "question": "The region enclosed by the line y = 2x and the parabola y = x^2 is revolved around the x-axis. Find the volume of the solid formed.",
+   "correctAnswer": "64pi/15",
    "distractors": [
-    "1",
-    "3",
-    "1/5"
+    "32pi/3",
+    "32pi/5",
+    "128pi/15"
    ],
-   "explanation": "Rewrite as (3/5) * sin(3x)/(3x). Since sin(3x)/(3x) -> 1, the limit is 3/5.",
-   "memoryHook": "T-Rexy says: match the inside to the denominator, then the 3/5 pops out!",
+   "explanation": "The curves intersect where x^2 = 2x, at x = 0 and x = 2. On [0, 2] the line is on top, so washers have outer radius R = 2x and inner radius r = x^2. V = pi * integral from 0 to 2 of [(2x)^2 - (x^2)^2] dx = pi * integral of (4x^2 - x^4) dx = pi * [(4/3)x^3 - x^5/5] from 0 to 2 = pi * (32/3 - 32/5) = pi * 32 * (2/15) = 64pi/15. The values 32pi/3 and 32pi/5 come from forgetting to subtract the inner disc.",
+   "memoryHook": "T-Rexy says: a washer is a disc with a bite taken out - big disc minus little disc!",
    "imageUrl": "topic:limits",
    "tags": [
     "Math",
     "Calculus",
-    "Limits"
+    "Volumes"
    ],
    "difficulty": "hard",
    "dynamic": false,
@@ -1697,20 +1697,20 @@
   },
   {
    "id": "EACALC_081",
-   "question": "Find the indefinite integral: ∫ 3x^2 dx.",
-   "correctAnswer": "x^3 + C",
+   "question": "A solid has as its base the region under the line y = 4 - x from x = 0 to x = 4. Cross sections perpendicular to the x-axis are squares whose side lies in the base. Find the volume of the solid.",
+   "correctAnswer": "64/3",
    "distractors": [
-    "3x^3 + C",
-    "6x + C",
-    "x^3"
+    "8",
+    "32/3",
+    "128/3"
    ],
-   "explanation": "Power rule for integrals: ∫ x^n dx = x^(n+1)/(n+1) + C. So ∫ 3x^2 dx = 3*(x^3/3) + C = x^3 + C.",
-   "memoryHook": "T-Rexy says: integration is differentiation in reverse - add one to the power, divide by the new power!",
+   "explanation": "At each x, the side of the square is s = 4 - x, so the cross-section area is A(x) = (4 - x)^2. V = integral from 0 to 4 of (4 - x)^2 dx = [-(4 - x)^3 / 3] from 0 to 4 = 0 - (-64/3) = 64/3. The number 8 is only the area of the triangular base, not the volume.",
+   "memoryHook": "T-Rexy says: square the side, stack the squares - that stack is the volume!",
    "imageUrl": "topic:integrals",
    "tags": [
     "Math",
     "Calculus",
-    "Integrals"
+    "Volumes"
    ],
    "difficulty": "easy",
    "dynamic": false,
