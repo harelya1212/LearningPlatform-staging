@@ -22,14 +22,14 @@
         "Basalt, quartz, and feldspar",
         "Volcanic, plutonic, and organic"
       ],
-      "explanation": "Rocks are classified as igneous, sedimentary, or metamorphic.",
+      "explanation": "The three families are sorted by how they form: igneous rocks cool from molten rock, sedimentary rocks are pressed and cemented from sediments, and metamorphic rocks are older rocks changed by heat and pressure.",
       "memoryHook": "T-Rexy says: Three rock families: igneous, sedimentary, metamorphic.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "geology",
         "rocks"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -42,7 +42,7 @@
         "From heat and pressure on existing rock",
         "From the remains of organisms"
       ],
-      "explanation": "Igneous rock forms when molten rock cools and hardens.",
+      "explanation": "When magma underground or lava on the surface loses heat, its minerals crystallize into solid rock - slow cooling underground grows large crystals, as in granite, while fast surface cooling makes fine-grained basalt.",
       "memoryHook": "T-Rexy says: Igneous rock is born from cooled lava.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -62,7 +62,7 @@
         "From melting rock",
         "From volcanic ash only"
       ],
-      "explanation": "Sedimentary rock forms when sediments are pressed and glued together over time.",
+      "explanation": "Buried sediments are squeezed by the weight of layers above them (compaction) and glued together by minerals left by groundwater (cementation), turning loose grains into solid rock.",
       "memoryHook": "T-Rexy says: Sedimentary rock is built from layers.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -149,7 +149,7 @@
         "geology",
         "rocks"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -262,7 +262,7 @@
         "The formation of mountains",
         "The cooling of magma"
       ],
-      "explanation": "Erosion transports weathered material to new locations.",
+      "explanation": "Running water, wind, glaciers, and waves pick up the pieces that weathering loosened and carry them away - weathering breaks rock in place, erosion is the transport that follows.",
       "memoryHook": "T-Rexy says: Erosion moves what weathering broke.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -302,7 +302,7 @@
         "Weathering moves rock; erosion breaks it",
         "Weathering only happens in deserts"
       ],
-      "explanation": "Weathering is breaking in place; erosion is transport.",
+      "explanation": "Think of a cliff face: cracks splitting the rock where it stands are weathering, while the stream carrying the fallen rubble downstream is erosion - the first loosens material, the second moves it.",
       "memoryHook": "T-Rexy says: Weathering breaks, erosion carries.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -329,7 +329,7 @@
         "geology",
         "soil"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -362,7 +362,7 @@
         "A deep ocean trench",
         "A folded mountain"
       ],
-      "explanation": "A fault is a fracture where blocks of crust slide past each other.",
+      "explanation": "Faults form where crust is pushed, pulled, or sheared until it snaps; the two blocks then shift along the break, and that sudden movement is what triggers most earthquakes.",
       "memoryHook": "T-Rexy says: Faults are cracks where rock slips.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -409,7 +409,7 @@
         "geology",
         "earthquakes"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -442,14 +442,14 @@
         "The Beaufort scale",
         "The Fujita scale"
       ],
-      "explanation": "The Richter and moment magnitude scales measure an earthquake's energy release.",
+      "explanation": "Magnitude is a single number for the whole quake: each whole-number step up means about 32 times more energy released, so a magnitude 7 releases roughly 1,000 times the energy of a magnitude 5.",
       "memoryHook": "T-Rexy says: Magnitude measures the quake's energy.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "geology",
         "earthquakes"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -462,7 +462,7 @@
         "The depth of a quake",
         "The speed of seismic waves"
       ],
-      "explanation": "The Mercalli scale rates how strongly people feel shaking and how much damage occurs.",
+      "explanation": "Mercalli uses Roman numerals I to XII based on effects at a specific place, so one quake gets many Mercalli values - highest near the epicenter - while its magnitude is a single number.",
       "memoryHook": "T-Rexy says: Mercalli measures what people feel.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -502,7 +502,7 @@
         "A type of gas",
         "Solidified ash"
       ],
-      "explanation": "Lava is magma that has erupted onto the surface.",
+      "explanation": "It is the same molten rock with two names based on location: magma while it is still underground, lava once it erupts - and because surface lava cools fast, it forms fine-grained rocks like basalt.",
       "memoryHook": "T-Rexy says: Lava is magma that escaped.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -522,14 +522,14 @@
         "The theory that continents never move",
         "The study of ocean tides"
       ],
-      "explanation": "Plate tectonics explains how Earth's lithosphere is broken into moving plates.",
+      "explanation": "The theory ties many processes together: moving plates explain why earthquakes and volcanoes line up along plate edges, why ocean trenches and mountain ranges sit where they do, and why continents drift.",
       "memoryHook": "T-Rexy says: Earth's crust is a jigsaw of moving plates.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "tectonics",
         "plates"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -542,14 +542,14 @@
         "The atmosphere",
         "The ocean floor only"
       ],
-      "explanation": "The lithosphere is the stiff outer shell that is broken into tectonic plates.",
+      "explanation": "It combines the crust and the rigid top of the mantle into slabs about 100 km thick; these slabs are the tectonic plates, and they ride on the softer asthenosphere below.",
       "memoryHook": "T-Rexy says: The lithosphere is Earth's stiff outer shell.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "tectonics",
         "layers"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -562,7 +562,7 @@
         "The crust",
         "The outer core"
       ],
-      "explanation": "The asthenosphere is a hot, slowly flowing layer that plates slide over.",
+      "explanation": "Its rock is solid but so hot and under such pressure that it flows very slowly, like thick tar, over geologic time - that slow flow is what lets the rigid plates above it move.",
       "memoryHook": "T-Rexy says: Plates glide on the soft asthenosphere.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -602,14 +602,14 @@
         "Plates slide sideways",
         "New crust forms"
       ],
-      "explanation": "At convergent boundaries, plates push together, creating mountains or one plate diving under another.",
+      "explanation": "What forms depends on the plates involved: two continents crumple into folded mountains like the Himalayas, while an oceanic plate meeting a continent dives beneath it, making a trench and volcanoes.",
       "memoryHook": "T-Rexy says: Convergent boundaries crash together.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "tectonics",
         "boundaries"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -642,7 +642,7 @@
         "A deep ocean trench",
         "A transform fault"
       ],
-      "explanation": "The Mid-Atlantic Ridge is a divergent boundary splitting the Atlantic Ocean floor.",
+      "explanation": "It runs down the middle of the Atlantic, where the Americas separate from Europe and Africa; Iceland sits right on it, and new crust there widens the ocean by about 2.5 cm per year.",
       "memoryHook": "T-Rexy says: The Mid-Atlantic Ridge is where the Atlantic grows.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -682,7 +682,7 @@
         "The Alps",
         "The Rocky Mountains"
       ],
-      "explanation": "The Himalayas rose as the Indian plate collided with Asia.",
+      "explanation": "The collision is still going on, so the Himalayas keep rising a few millimeters per year - and marine fossils in their rocks show the peaks were once seafloor pushed upward.",
       "memoryHook": "T-Rexy says: India's crash into Asia built the Himalayas.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -709,7 +709,7 @@
         "tectonics",
         "faults"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -762,7 +762,7 @@
         "A belt of deserts",
         "A coral reef system"
       ],
-      "explanation": "The Ring of Fire follows plate boundaries around the Pacific, with many volcanoes and quakes.",
+      "explanation": "It traces the subduction zones ringing the Pacific Plate, and it hosts about 90 percent of Earth's earthquakes and most of its active volcanoes.",
       "memoryHook": "T-Rexy says: The Ring of Fire circles the Pacific with volcanoes.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -842,14 +842,14 @@
         "A storm surge from a hurricane",
         "A normal ocean wave"
       ],
-      "explanation": "Tsunamis are giant waves triggered by sudden movement of the seafloor.",
+      "explanation": "Unlike wind waves, a tsunami involves the whole water column: it races across deep ocean at jet speeds with a low profile, then slows and piles up into a wall of water in shallow coastal water.",
       "memoryHook": "T-Rexy says: Tsunamis are born from seafloor quakes.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "geology",
         "tsunami"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -882,7 +882,7 @@
         "The Moon's gravity",
         "Wind patterns"
       ],
-      "explanation": "Heat-driven convection in the mantle drags plates along.",
+      "explanation": "Hot mantle rock slowly rises, spreads out under the plates, cools, and sinks again; this conveyor-like circulation drags plates along at a few centimeters per year, about the speed fingernails grow.",
       "memoryHook": "T-Rexy says: Mantle convection drags the plates.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -902,7 +902,7 @@
         "Continents drifting on water",
         "The ocean floor shrinking"
       ],
-      "explanation": "Seafloor spreading creates new crust at ridges as plates pull apart.",
+      "explanation": "The proof is recorded in the seafloor itself: rock is youngest at the ridge and gets older symmetrically on both sides, with matching magnetic stripes showing Earth's field reversals.",
       "memoryHook": "T-Rexy says: New seafloor is born at mid-ocean ridges.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -942,7 +942,7 @@
         "Rain falling from clouds",
         "Water freezing into ice"
       ],
-      "explanation": "Evaporation turns liquid water into gas.",
+      "explanation": "The Sun's energy lets the fastest water molecules escape from a liquid surface into the air as vapor; dissolved salts stay behind, which is why evaporated seawater leaves salt crusts.",
       "memoryHook": "T-Rexy says: Evaporation turns liquid into vapor.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -962,7 +962,7 @@
         "Rain falling",
         "Ice melting"
       ],
-      "explanation": "Condensation forms clouds when water vapor cools into droplets.",
+      "explanation": "Cooling air cannot hold as much vapor, so the vapor gathers into tiny droplets on dust particles called condensation nuclei - the same process makes dew on grass and fog on a bathroom mirror.",
       "memoryHook": "T-Rexy says: Condensation makes clouds.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -982,7 +982,7 @@
         "Water soaking into soil",
         "Water flowing in rivers"
       ],
-      "explanation": "Precipitation is any water that falls from clouds to the ground.",
+      "explanation": "Which form falls depends on the temperature profile of the air: rain if it stays warm, snow if it stays cold, and hail only inside strong thunderstorms where updrafts toss ice pellets up repeatedly.",
       "memoryHook": "T-Rexy says: Precipitation is rain, snow, sleet, or hail.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1002,7 +1002,7 @@
         "The speed of the wind",
         "The air pressure"
       ],
-      "explanation": "Humidity measures how much water vapor the air holds.",
+      "explanation": "Weather reports usually give relative humidity, a percentage of the maximum vapor the air could hold at that temperature - warm air can hold far more vapor than cold air, so the same percentage feels very different in summer and winter.",
       "memoryHook": "T-Rexy says: Humidity is how much water is in the air.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1022,14 +1022,14 @@
         "The amount of oxygen",
         "The temperature of the air"
       ],
-      "explanation": "Air pressure is the force of the air above pressing down.",
+      "explanation": "At sea level it averages about 14.7 pounds on every square inch, and it drops with altitude because there is less air above - which is why ears pop on mountain roads and in planes.",
       "memoryHook": "T-Rexy says: Air has weight, and that weight is air pressure.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "weather",
         "pressure"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1042,7 +1042,7 @@
         "Humidity",
         "Rainfall"
       ],
-      "explanation": "A barometer measures atmospheric pressure.",
+      "explanation": "Weather watchers track its changes, not just the reading: steadily falling pressure usually means a storm is approaching, while rising pressure signals clearing, fair weather.",
       "memoryHook": "T-Rexy says: A barometer measures air pressure.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1062,7 +1062,7 @@
         "Rainfall",
         "Temperature"
       ],
-      "explanation": "An anemometer measures how fast the wind blows.",
+      "explanation": "Its spinning cups rotate faster as wind speed rises, and the rotation is converted to a speed in miles or kilometers per hour; a wind vane, by contrast, shows direction only.",
       "memoryHook": "T-Rexy says: An anemometer measures wind speed.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1202,7 +1202,7 @@
         "A dust storm",
         "A type of lightning"
       ],
-      "explanation": "A tornado is a narrow, spinning funnel of air that touches the ground.",
+      "explanation": "Tornadoes form inside severe thunderstorms when rotating air is stretched into a tight funnel; the strongest have winds over 300 mph and are rated on the Enhanced Fujita scale by the damage they cause.",
       "memoryHook": "T-Rexy says: A tornado is a spinning funnel from cloud to ground.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1222,7 +1222,7 @@
         "The outer rain band",
         "The storm surge"
       ],
-      "explanation": "The eye is the calm, clear center of a hurricane.",
+      "explanation": "Air sinks in the eye, clearing the clouds, while the ring of storms right around it - the eyewall - has the hurricane's fastest winds and heaviest rain, so the calm is temporary as the storm passes.",
       "memoryHook": "T-Rexy says: The eye is the calm heart of the storm.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1322,14 +1322,14 @@
         "A meteor is larger",
         "A meteorite burns in the atmosphere"
       ],
-      "explanation": "A meteor is a shooting star; if it survives to the ground it is a meteorite.",
+      "explanation": "The full chain has three names: a meteoroid is the chunk traveling in space, a meteor is its brief streak of light as it burns in the atmosphere, and a meteorite is any piece that survives to the ground.",
       "memoryHook": "T-Rexy says: A meteorite is a meteor that made it to the ground.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "astronomy",
         "meteors"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1362,7 +1362,7 @@
         "Troposphere, mesosphere, stratosphere, thermosphere",
         "Thermosphere, mesosphere, stratosphere, troposphere"
       ],
-      "explanation": "The atmosphere's layers from the surface are troposphere, stratosphere, mesosphere, and thermosphere.",
+      "explanation": "Each layer has a signature: weather happens in the troposphere, the ozone layer sits in the stratosphere, meteors burn up in the mesosphere, and auroras glow in the thermosphere.",
       "memoryHook": "T-Rexy says: We live in the troposphere, the lowest layer.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1449,7 +1449,7 @@
         "astronomy",
         "moon"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1602,7 +1602,7 @@
         "Venus, Mercury, Earth, Mars, Jupiter, Saturn, Uranus, Neptune",
         "Mercury, Earth, Venus, Mars, Saturn, Jupiter, Uranus, Neptune"
       ],
-      "explanation": "The planets in order are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.",
+      "explanation": "The order also splits into two groups: the four small rocky planets (Mercury through Mars) close to the Sun, then the four giants (Jupiter through Neptune) - Neptune is last since Pluto was reclassified as a dwarf planet in 2006.",
       "memoryHook": "T-Rexy says: My Very Excellent Mother Just Served Us Nachos.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1662,7 +1662,7 @@
         "Triangulum",
         "Whirlpool"
       ],
-      "explanation": "Our solar system is in the Milky Way galaxy.",
+      "explanation": "The Milky Way is a spiral galaxy of roughly 200 billion stars; our solar system sits in one of its spiral arms, the Orion Arm, about halfway out from the center.",
       "memoryHook": "T-Rexy says: We live in the Milky Way.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1762,7 +1762,7 @@
         "The depth of water",
         "The speed of a current"
       ],
-      "explanation": "Salinity measures how salty water is.",
+      "explanation": "Ocean salinity averages about 35 parts of salt per 1,000 parts of water; it rises where evaporation is high and drops near river mouths and where rain or melting ice adds fresh water.",
       "memoryHook": "T-Rexy says: Salinity is how salty the water is.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1782,14 +1782,14 @@
         "Earthquakes only",
         "Tides only"
       ],
-      "explanation": "Ocean currents are driven by wind, density differences, and the Coriolis effect.",
+      "explanation": "Two systems overlap: winds drive the surface currents into great circular gyres, while cold, salty, dense water sinking near the poles drives a slow deep circulation based on temperature and salinity differences.",
       "memoryHook": "T-Rexy says: Wind and density differences drive ocean currents.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "oceans",
         "currents"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1842,7 +1842,7 @@
         "A coral reef",
         "An underwater volcano"
       ],
-      "explanation": "The continental shelf is the submerged edge of a continent.",
+      "explanation": "It slopes gently to a depth of about 200 meters before dropping steeply at the shelf break; because sunlight reaches its shallow water, shelves host rich fishing grounds.",
       "memoryHook": "T-Rexy says: The shelf is the continent's underwater edge.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1862,14 +1862,14 @@
         "The Java Trench",
         "The Tonga Trench"
       ],
-      "explanation": "The Mariana Trench in the Pacific is the deepest known ocean trench.",
+      "explanation": "Its deepest point, the Challenger Deep, drops about 11 km below sea level - Mount Everest placed inside it would still be covered by more than a kilometer of water.",
       "memoryHook": "T-Rexy says: The Mariana Trench is the deepest place on Earth.",
       "imageUrl": "topic:earth-science",
       "tags": [
         "oceans",
         "geology"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1882,7 +1882,7 @@
         "The solid Earth only",
         "The water in clouds only"
       ],
-      "explanation": "The hydrosphere is all of Earth's water in every form.",
+      "explanation": "It counts water in every form and place - liquid oceans, frozen ice caps, groundwater, and even vapor in the air; oceans alone hold about 96.5 percent of all of it.",
       "memoryHook": "T-Rexy says: The hydrosphere is all Earth's water.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1922,7 +1922,7 @@
         "A river delta",
         "A water treatment plant"
       ],
-      "explanation": "An aquifer is a permeable rock layer that stores groundwater.",
+      "explanation": "Its pores or cracks are connected, so water can both collect in it and flow through it - sandstone and fractured limestone make good aquifers, while clay layers block flow and trap water.",
       "memoryHook": "T-Rexy says: Aquifers store the water wells tap.",
       "imageUrl": "topic:earth-science",
       "tags": [
@@ -1949,7 +1949,7 @@
         "earth",
         "water"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1982,7 +1982,7 @@
         "Friction",
         "Inertia"
       ],
-      "explanation": "Gravity keeps planets in orbit around the Sun.",
+      "explanation": "An orbit is a balance: the Sun's gravity constantly pulls each planet inward while the planet's sideways motion (inertia) keeps it moving forward, and the two combine into a closed path - the same balance holds the Moon around Earth.",
       "memoryHook": "T-Rexy says: Gravity holds the planets in orbit.",
       "imageUrl": "topic:earth-science",
       "tags": [
