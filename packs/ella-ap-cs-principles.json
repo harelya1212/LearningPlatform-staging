@@ -76,18 +76,19 @@
     },
     {
       "id": "ECSP_004",
-      "question": "What is a variable in programming?",
-      "correctAnswer": "A named storage location that holds a value",
+      "question": "Consider the following code segment.\n\nx ← 5\ny ← x + 2\nx ← 10\nDISPLAY(y)\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "7",
       "distractors": [
-        "A type of computer virus",
-        "A hardware component",
-        "A network cable"
+        "12",
+        "10",
+        "5"
       ],
-      "explanation": "A variable is a named container that stores a value which can change during program execution.",
-      "memoryHook": "T-Rexy says: Variables are labeled boxes for data!",
-      "imageUrl": "topic:programming",
+      "explanation": "Trace the assignments in order. x starts at 5, so y ← x + 2 stores 5 + 2 = 7 in y. The next line changes x to 10, but y already holds its own copy of the value 7 - changing x does not go back and change y. DISPLAY(y) therefore displays 7. The answer 12 comes from adding the new x to 2, and 10 is the new value of x, not y.",
+      "memoryHook": "T-Rexy says: Assignment takes a snapshot - once y copies a value, later changes to x cannot reach it!",
+      "imageUrl": "topic:variables",
       "tags": [
         "programming",
+        "pseudocode",
         "variables"
       ],
       "difficulty": "easy",
@@ -176,18 +177,19 @@
     },
     {
       "id": "ECSP_009",
-      "question": "What is a conditional statement?",
-      "correctAnswer": "A statement that executes code only if a condition is true",
+      "question": "Consider the following code segment.\n\ntemp ← 85\nIF(temp > 80)\n{\n  DISPLAY(\"Hot\")\n}\nELSE\n{\n  DISPLAY(\"Cold\")\n}\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "Hot",
       "distractors": [
-        "A statement that always runs",
-        "A way to store data",
-        "A type of loop"
+        "Cold",
+        "85",
+        "HotCold"
       ],
-      "explanation": "Conditionals like if/else let a program make decisions based on whether a condition is true or false.",
-      "memoryHook": "T-Rexy says: If this, then that!",
-      "imageUrl": "topic:programming",
+      "explanation": "The condition temp > 80 is tested with temp = 85. Since 85 > 80 is true, the program runs the block after IF and displays Hot. The ELSE block runs only when the condition is false, so Cold is never displayed - exactly one of the two blocks can run.",
+      "memoryHook": "T-Rexy says: IF/ELSE is a fork in the road - the condition picks exactly one path!",
+      "imageUrl": "topic:conditionals",
       "tags": [
         "programming",
+        "pseudocode",
         "conditionals"
       ],
       "difficulty": "easy",
@@ -416,19 +418,20 @@
     },
     {
       "id": "ECSP_021",
-      "question": "What does 'output' mean in computing?",
-      "correctAnswer": "Data a program produces",
+      "question": "Consider the following code segment.\n\nroll ← RANDOM(1, 6)\nDISPLAY(roll * 2)\n\nWhich of the following could be displayed as a result of running this code segment?",
+      "correctAnswer": "8",
       "distractors": [
-        "Data entered by a user",
-        "A storage device",
-        "A type of error"
+        "7",
+        "13",
+        "1"
       ],
-      "explanation": "Output is the result a program produces - displayed on screen, printed, or saved.",
-      "memoryHook": "T-Rexy says: Output is what the program gives back!",
-      "imageUrl": "topic:programming",
+      "explanation": "RANDOM(1, 6) returns an integer from 1 to 6, so roll * 2 can only be 2, 4, 6, 8, 10, or 12. The value 8 comes from a roll of 4. The value 7 is impossible because roll * 2 is always even, 13 is impossible because the maximum is 6 * 2 = 12, and 1 is impossible because the minimum is 1 * 2 = 2.",
+      "memoryHook": "T-Rexy says: RANDOM(1, 6) is a fair die - find the smallest and largest results first, then see which answers fit!",
+      "imageUrl": "topic:random",
       "tags": [
         "programming",
-        "io"
+        "pseudocode",
+        "random"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -716,19 +719,20 @@
     },
     {
       "id": "ECSP_036",
-      "question": "What is the difference between a list and a dictionary (map)?",
-      "correctAnswer": "A list uses numeric indexes; a dictionary uses key-value pairs",
+      "question": "Consider the following code segment.\n\nscores ← [10, 20, 30]\ntotal ← 0\nFOR EACH score IN scores\n{\n  total ← total + score\n}\nDISPLAY(total)\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "60",
       "distractors": [
-        "They are the same",
-        "A dictionary only stores numbers",
-        "A list cannot be changed"
+        "30",
+        "20",
+        "3"
       ],
-      "explanation": "Lists are ordered by index; dictionaries store values accessible by keys.",
-      "memoryHook": "T-Rexy says: Lists use numbers, dicts use keys!",
-      "imageUrl": "topic:programming",
+      "explanation": "FOR EACH visits every element of scores in order. total starts at 0, then becomes 0 + 10 = 10, then 10 + 20 = 30, then 30 + 30 = 60. After the loop, DISPLAY(total) shows 60. This pattern - one variable that gathers every element - is called an accumulator. The answer 30 is the last element alone, and 20 is the average, not the sum.",
+      "memoryHook": "T-Rexy says: An accumulator starts at zero and gathers every element the loop visits!",
+      "imageUrl": "topic:lists",
       "tags": [
         "programming",
-        "data-structures"
+        "pseudocode",
+        "lists"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -736,18 +740,19 @@
     },
     {
       "id": "ECSP_037",
-      "question": "What is a Boolean value?",
-      "correctAnswer": "True or false",
+      "question": "Consider the following code segment.\n\nx ← 6\nIF(NOT (x > 10) AND x > 0)\n{\n  DISPLAY(\"In range\")\n}\nELSE\n{\n  DISPLAY(\"Out of range\")\n}\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "In range",
       "distractors": [
-        "Any number",
-        "Any text",
-        "A decimal"
+        "Out of range",
+        "true",
+        "6"
       ],
-      "explanation": "Boolean values are only true or false, used in logical conditions.",
-      "memoryHook": "T-Rexy says: Booleans are true or false!",
-      "imageUrl": "topic:programming",
+      "explanation": "Evaluate the condition piece by piece. x > 10 is false because x is 6, so NOT (x > 10) is true. The second part, x > 0, is also true. true AND true is true, so the IF block runs and the program displays In range. Ignoring the NOT flips the result and lands on Out of range.",
+      "memoryHook": "T-Rexy says: NOT flips the value - settle each small piece before you combine with AND!",
+      "imageUrl": "topic:logic",
       "tags": [
         "programming",
+        "pseudocode",
         "logic"
       ],
       "difficulty": "easy",
@@ -996,19 +1001,20 @@
     },
     {
       "id": "ECSP_050",
-      "question": "What is the difference between a compiler and an interpreter?",
-      "correctAnswer": "A compiler translates all code at once; an interpreter translates line by line",
+      "question": "Consider the following code segment.\n\na ← 3\nb ← 7\ntemp ← a\na ← b\nb ← temp\nDISPLAY(a + b)\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "10",
       "distractors": [
-        "They are the same",
-        "A compiler runs faster always",
-        "An interpreter never runs code"
+        "14",
+        "4",
+        "21"
       ],
-      "explanation": "Compilers translate the whole program before running; interpreters translate and run line by line.",
-      "memoryHook": "T-Rexy says: Compilers do it all at once!",
-      "imageUrl": "topic:programming",
+      "explanation": "Follow the values step by step. temp ← a saves the value 3. Then a ← b makes a equal to 7, and b ← temp puts the saved 3 into b. At the end a is 7 and b is 3, so a + b is 10. Without temp, the 3 would be lost the moment a was overwritten, and the sum would wrongly come out as 14.",
+      "memoryHook": "T-Rexy says: Swapping needs a spare shelf - park one value in temp before you overwrite anything!",
+      "imageUrl": "topic:variables",
       "tags": [
         "programming",
-        "languages"
+        "pseudocode",
+        "variables"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1056,19 +1062,20 @@
     },
     {
       "id": "ECSP_053",
-      "question": "What is recursion?",
-      "correctAnswer": "A function that calls itself",
+      "question": "Consider the following code segment.\n\nPROCEDURE mystery(a, b)\n{\n  RETURN(a + b * 2)\n}\nDISPLAY(mystery(3, 4))\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "11",
       "distractors": [
-        "A type of loop only",
-        "A sorting algorithm",
-        "A data type"
+        "14",
+        "7",
+        "24"
       ],
-      "explanation": "Recursion is when a function calls itself to solve smaller parts of a problem.",
-      "memoryHook": "T-Rexy says: Recursion is a function calling itself!",
-      "imageUrl": "topic:programming",
+      "explanation": "The call mystery(3, 4) assigns a = 3 and b = 4. Inside the procedure, order of operations applies: b * 2 is 4 * 2 = 8, and then a + 8 is 3 + 8 = 11. RETURN sends 11 back to the DISPLAY statement, so 11 is displayed. The answer 14 comes from adding first and doubling second, which breaks the order of operations.",
+      "memoryHook": "T-Rexy says: Plug the arguments into the parameters, then respect the order of operations inside!",
+      "imageUrl": "topic:procedures",
       "tags": [
         "programming",
-        "recursion"
+        "pseudocode",
+        "procedures"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1256,18 +1263,19 @@
     },
     {
       "id": "ECSP_063",
-      "question": "What is a nested loop?",
-      "correctAnswer": "A loop inside another loop",
+      "question": "Consider the following code segment.\n\ncount ← 0\nREPEAT 2 TIMES\n{\n  REPEAT 3 TIMES\n  {\n    count ← count + 1\n  }\n}\nDISPLAY(count)\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "6",
       "distractors": [
-        "A loop that never ends",
-        "A type of variable",
-        "A function call"
+        "5",
+        "3",
+        "2"
       ],
-      "explanation": "A nested loop is a loop placed inside another loop, often used for grids.",
-      "memoryHook": "T-Rexy says: Nested loops are loops in loops!",
-      "imageUrl": "topic:programming",
+      "explanation": "The inner loop runs 3 times for each single pass of the outer loop, adding 3 to count. The outer loop runs twice, so the innermost statement runs 2 * 3 = 6 times in total. count starts at 0 and increases by 1 each time, ending at 6. The answer 5 comes from adding the loop counts (2 + 3) instead of multiplying them.",
+      "memoryHook": "T-Rexy says: Nested loops multiply - the inner loop restarts fresh on every outer pass!",
+      "imageUrl": "topic:loops",
       "tags": [
         "programming",
+        "pseudocode",
         "loops"
       ],
       "difficulty": "medium",
@@ -1276,18 +1284,19 @@
     },
     {
       "id": "ECSP_064",
-      "question": "What is an infinite loop?",
-      "correctAnswer": "A loop that never stops repeating",
+      "question": "Consider the following code segment.\n\ncount ← 0\nREPEAT 4 TIMES\n{\n  count ← count + 2\n}\nDISPLAY(count)\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "8",
       "distractors": [
-        "A loop that runs once",
-        "A type of function",
-        "A data structure"
+        "6",
+        "10",
+        "2"
       ],
-      "explanation": "An infinite loop has a condition that never becomes false, so it runs forever.",
-      "memoryHook": "T-Rexy says: Infinite loops never stop!",
-      "imageUrl": "topic:programming",
+      "explanation": "REPEAT 4 TIMES runs the block exactly 4 times. Starting from 0, count becomes 2 after the first pass, then 4, then 6, then 8. After the fourth pass the loop ends, so DISPLAY(count) displays 8. The answer 6 stops one pass early, and 10 adds one pass too many.",
+      "memoryHook": "T-Rexy says: REPEAT n TIMES is a promise - count the passes and update the variable on every one!",
+      "imageUrl": "topic:loops",
       "tags": [
         "programming",
+        "pseudocode",
         "loops"
       ],
       "difficulty": "easy",
@@ -1336,19 +1345,20 @@
     },
     {
       "id": "ECSP_067",
-      "question": "What is a string in programming?",
-      "correctAnswer": "A sequence of characters (text)",
+      "question": "Consider the following code segment.\n\nword ← \"sun\"\nIF(word = \"moon\")\n{\n  DISPLAY(\"Night\")\n}\nELSE\n{\n  DISPLAY(\"Day\")\n}\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "Day",
       "distractors": [
-        "A type of number",
-        "A Boolean value",
-        "A loop"
+        "Night",
+        "sun",
+        "moon"
       ],
-      "explanation": "A string is text data, like a word or sentence, stored as characters.",
-      "memoryHook": "T-Rexy says: Strings are text!",
-      "imageUrl": "topic:programming",
+      "explanation": "The variable word holds the string \"sun\". The condition word = \"moon\" compares the two strings, and \"sun\" is not equal to \"moon\", so the condition is false. The ELSE block runs, and the program displays Day.",
+      "memoryHook": "T-Rexy says: Strings compare letter by letter - sun and moon are different words, so the test fails!",
+      "imageUrl": "topic:strings",
       "tags": [
         "programming",
-        "data-types"
+        "pseudocode",
+        "strings"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1356,19 +1366,20 @@
     },
     {
       "id": "ECSP_068",
-      "question": "What is an integer?",
-      "correctAnswer": "A whole number without a decimal point",
+      "question": "Consider the following code segment.\n\nvalue ← 17 MOD 5\nDISPLAY(value)\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "2",
       "distractors": [
-        "A decimal number",
-        "A text value",
-        "A Boolean"
+        "3",
+        "12",
+        "85"
       ],
-      "explanation": "An integer is a whole number like 5 or -3, with no fractional part.",
-      "memoryHook": "T-Rexy says: Integers are whole numbers!",
-      "imageUrl": "topic:programming",
+      "explanation": "MOD gives the remainder after division. 17 divided by 5 is 3 with a remainder of 2, because 3 * 5 = 15 and 17 - 15 = 2. So value is assigned 2, and 2 is displayed. The answer 3 is the quotient, not the remainder.",
+      "memoryHook": "T-Rexy says: MOD keeps only the leftovers - divide, multiply back, and see what remains!",
+      "imageUrl": "topic:math",
       "tags": [
         "programming",
-        "data-types"
+        "pseudocode",
+        "math"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1696,19 +1707,20 @@
     },
     {
       "id": "ECSP_085",
-      "question": "What is a binary search tree?",
-      "correctAnswer": "A data structure where each node has at most two children ordered by value",
+      "question": "Consider the following code segment.\n\npets ← [\"cat\", \"dog\", \"bird\"]\nAPPEND(pets, \"frog\")\nREMOVE(pets, 2)\nDISPLAY(pets[2])\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "bird",
       "distractors": [
-        "A type of virus",
-        "A sorting algorithm",
-        "A network protocol"
+        "dog",
+        "frog",
+        "cat"
       ],
-      "explanation": "A binary search tree organizes data so left children are smaller and right children are larger.",
-      "memoryHook": "T-Rexy says: BSTs keep data sorted for fast search!",
-      "imageUrl": "topic:programming",
+      "explanation": "APPEND first adds frog at the end, giving [cat, dog, bird, frog]. REMOVE(pets, 2) then deletes dog, the element at index 2, and every later element shifts one position left, giving [cat, bird, frog]. Index 2 now holds bird, so bird is displayed. The answer dog forgets that REMOVE shifts the remaining elements left.",
+      "memoryHook": "T-Rexy says: REMOVE pulls everyone one seat to the left - recheck the indexes after anything is removed!",
+      "imageUrl": "topic:lists",
       "tags": [
         "programming",
-        "data-structures"
+        "pseudocode",
+        "lists"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1736,19 +1748,20 @@
     },
     {
       "id": "ECSP_087",
-      "question": "What is a stack data structure?",
-      "correctAnswer": "A last-in, first-out (LIFO) collection",
+      "question": "Consider the following code segment.\n\ncolors ← [\"red\", \"green\", \"blue\", \"yellow\"]\nDISPLAY(colors[2])\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "green",
       "distractors": [
-        "A first-in, first-out collection",
-        "A type of network",
-        "A sorting algorithm"
+        "blue",
+        "red",
+        "yellow"
       ],
-      "explanation": "A stack adds and removes from the top only, like a stack of plates.",
-      "memoryHook": "T-Rexy says: Stacks are last-in, first-out!",
-      "imageUrl": "topic:programming",
+      "explanation": "In AP pseudocode, list indexes start at 1, not 0. colors[1] is \"red\", colors[2] is \"green\", colors[3] is \"blue\", and colors[4] is \"yellow\". So colors[2] displays green. Choosing blue is the 0-based indexing mistake carried over from languages that start counting at 0.",
+      "memoryHook": "T-Rexy says: AP lists start counting at 1 - the first element wears index 1!",
+      "imageUrl": "topic:lists",
       "tags": [
         "programming",
-        "data-structures"
+        "pseudocode",
+        "lists"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1756,19 +1769,20 @@
     },
     {
       "id": "ECSP_088",
-      "question": "What is a queue data structure?",
-      "correctAnswer": "A first-in, first-out (FIFO) collection",
+      "question": "Consider the following code segment.\n\nnums ← [4, 8, 15]\nAPPEND(nums, 16)\nDISPLAY(LENGTH(nums))\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "4",
       "distractors": [
-        "A last-in, first-out collection",
-        "A type of virus",
-        "A sorting algorithm"
+        "3",
+        "5",
+        "16"
       ],
-      "explanation": "A queue processes items in the order they arrive, like a line at a store.",
-      "memoryHook": "T-Rexy says: Queues are first-in, first-out!",
-      "imageUrl": "topic:programming",
+      "explanation": "The list starts with 3 elements: 4, 8, and 15. APPEND(nums, 16) adds 16 at the end, so the list becomes [4, 8, 15, 16]. LENGTH(nums) now counts 4 elements, so 4 is displayed. The answer 3 forgets that APPEND grows the list.",
+      "memoryHook": "T-Rexy says: APPEND grows the list by one - recount the length after every change!",
+      "imageUrl": "topic:lists",
       "tags": [
         "programming",
-        "data-structures"
+        "pseudocode",
+        "lists"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1776,19 +1790,20 @@
     },
     {
       "id": "ECSP_089",
-      "question": "What is Big O notation used for?",
-      "correctAnswer": "Describing how an algorithm's time or space grows with input size",
+      "question": "Consider the following code segment.\n\nx ← 20\nREPEAT UNTIL(x < 10)\n{\n  x ← x - 4\n}\nDISPLAY(x)\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "8",
       "distractors": [
-        "Measuring a program's file size",
-        "Counting lines of code",
-        "Testing a program"
+        "12",
+        "4",
+        "0"
       ],
-      "explanation": "Big O describes the growth rate of an algorithm's resource use as input grows.",
-      "memoryHook": "T-Rexy says: Big O measures growth, not speed!",
-      "imageUrl": "topic:algorithms",
+      "explanation": "REPEAT UNTIL tests the condition before each pass and stops as soon as it is true. Starting at 20: 20 is not less than 10, so x becomes 16; then 12; then 8. When x reaches 8, the condition x < 10 is true, so the loop stops before subtracting again. DISPLAY(x) shows 8.",
+      "memoryHook": "T-Rexy says: REPEAT UNTIL checks the exit door before every lap - stop the moment the condition turns true!",
+      "imageUrl": "topic:loops",
       "tags": [
-        "algorithms",
-        "complexity"
+        "programming",
+        "pseudocode",
+        "loops"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1816,19 +1831,20 @@
     },
     {
       "id": "ECSP_091",
-      "question": "What is a race condition?",
-      "correctAnswer": "A bug where program behavior depends on the timing of events",
+      "question": "Consider the following code segment.\n\ni ← 1\ncount ← 0\nREPEAT UNTIL(i > 20)\n{\n  IF(i MOD 3 = 0)\n  {\n    count ← count + 1\n  }\n  i ← i + 1\n}\nDISPLAY(count)\n\nWhat is displayed as a result of running this code segment?",
+      "correctAnswer": "6",
       "distractors": [
-        "A type of sorting",
-        "A network protocol",
-        "A data structure"
+        "7",
+        "5",
+        "20"
       ],
-      "explanation": "A race condition occurs when concurrent processes access shared data and the outcome depends on timing.",
-      "memoryHook": "T-Rexy says: Race conditions depend on timing!",
-      "imageUrl": "topic:programming",
+      "explanation": "The loop body runs once for each value of i from 1 to 20, stopping when i reaches 21. Inside, count increases only when i MOD 3 = 0, which happens for i = 3, 6, 9, 12, 15, and 18 - six values. So count ends at 6, and 6 is displayed. The answer 7 comes from also counting 0 as a multiple of 3, and 20 comes from counting every pass instead of only the passes where the IF test succeeds.",
+      "memoryHook": "T-Rexy says: When an IF guards the accumulator, only count the passes where the test passes!",
+      "imageUrl": "topic:loops",
       "tags": [
         "programming",
-        "concurrency"
+        "pseudocode",
+        "loops"
       ],
       "difficulty": "hard",
       "dynamic": false,
