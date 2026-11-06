@@ -83,7 +83,7 @@
         "f(x) approaches 0",
         "f(x) approaches 2"
       ],
-      "explanation": "For odd degree with positive leading coefficient, both ends go up to the right.",
+      "explanation": "The leading term 2x^3 dominates for large values of x. It has odd degree and a positive coefficient, so as x approaches infinity, f(x) approaches infinity; as x approaches negative infinity, f(x) approaches negative infinity.",
       "memoryHook": "T-Rexy says: Odd and positive: up on the right.",
       "imageUrl": "topic:end-behavior",
       "tags": [
@@ -143,7 +143,7 @@
         "Has a vertical asymptote",
         "Has a hole"
       ],
-      "explanation": "Even multiplicity means the graph touches but does not cross the axis.",
+      "explanation": "The factor for that zero is raised to an even power, so the function has the same sign on both sides of the zero. The graph meets the x-axis and turns back instead of passing through it.",
       "memoryHook": "T-Rexy says: Even bounces, odd crosses.",
       "imageUrl": "topic:graph-behavior",
       "tags": [
@@ -730,7 +730,7 @@
         "exponential",
         "exponents"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -883,14 +883,14 @@
         "log x times log b",
         "x / b"
       ],
-      "explanation": "log_b(x) = ln x / ln b.",
+      "explanation": "Write the definition backwards: if y = log base b of x, then b^y = x. Taking ln of both sides gives y ln b = ln x, so y = ln x / ln b.",
       "memoryHook": "T-Rexy says: New base goes on the bottom.",
       "imageUrl": "topic:change-of-base",
       "tags": [
         "logarithmic",
         "change-of-base"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1103,7 +1103,7 @@
         "P e^(rt)",
         "P(1 + rn)^t"
       ],
-      "explanation": "The standard compound interest formula is A = P(1 + r/n)^(nt).",
+      "explanation": "Each compounding period adds interest at the rate r/n, and there are nt periods in t years. The balance is multiplied by (1 + r/n) a total of nt times, giving A = P(1 + r/n)^(nt).",
       "memoryHook": "T-Rexy says: Rate split by n, time multiplied by n.",
       "imageUrl": "topic:compound-interest",
       "tags": [
@@ -1183,7 +1183,7 @@
         "-1",
         "Undefined"
       ],
-      "explanation": "sin(0) = 0 on the unit circle.",
+      "explanation": "At angle 0 the point on the unit circle is (1, 0). Sine is the y-coordinate of that point, and the y-coordinate is 0.",
       "memoryHook": "T-Rexy says: Zero angle, zero height.",
       "imageUrl": "topic:unit-circle",
       "tags": [
@@ -1203,7 +1203,7 @@
         "pi/2",
         "4pi"
       ],
-      "explanation": "Sine repeats every 2pi radians.",
+      "explanation": "After one full turn of 2pi radians around the unit circle, the same points and the same sine values repeat. That full turn is the period of y = sin(x).",
       "memoryHook": "T-Rexy says: Sine circles back after 2pi.",
       "imageUrl": "topic:period",
       "tags": [
@@ -1250,7 +1250,7 @@
         "trigonometry",
         "graphs"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1283,7 +1283,7 @@
         "2",
         "sin(2x)"
       ],
-      "explanation": "The Pythagorean identity says sin^2 + cos^2 = 1.",
+      "explanation": "The unit-circle point at angle x is (cos(x), sin(x)), and every point on the unit circle satisfies x^2 + y^2 = 1. Substituting gives sin^2(x) + cos^2(x) = 1.",
       "memoryHook": "T-Rexy says: The classic identity equals one.",
       "imageUrl": "topic:pythagorean-identity",
       "tags": [
@@ -1303,7 +1303,7 @@
         "sin(x) cos(x)",
         "1 - sin(x)"
       ],
-      "explanation": "tan(x) = sin(x)/cos(x) by definition.",
+      "explanation": "In a right triangle, tan is opposite over adjacent. Dividing the top and bottom of that ratio by the hypotenuse gives (opposite/hypotenuse) over (adjacent/hypotenuse), which is sin(x)/cos(x).",
       "memoryHook": "T-Rexy says: Tangent is sine over cosine.",
       "imageUrl": "topic:identities",
       "tags": [
@@ -1323,7 +1323,7 @@
         "2 cos(x)",
         "sin(x) + cos(x)"
       ],
-      "explanation": "The double-angle formula: sin(2x) = 2 sin(x) cos(x).",
+      "explanation": "Apply sin(A + B) = sin A cos B + cos A sin B with A = B = x: sin(2x) = sin(x)cos(x) + cos(x)sin(x) = 2 sin(x) cos(x).",
       "memoryHook": "T-Rexy says: Double the angle, double the product.",
       "imageUrl": "topic:double-angle",
       "tags": [
@@ -1343,7 +1343,7 @@
         "cos^2(x) + 1",
         "1 - 2sin(x)"
       ],
-      "explanation": "cos(2x) = 2cos^2(x) - 1 is one of the double-angle forms.",
+      "explanation": "Apply cos(A + B) = cos A cos B - sin A sin B with A = B = x: cos(2x) = cos^2(x) - sin^2(x). Replacing sin^2(x) with 1 - cos^2(x) gives 2cos^2(x) - 1.",
       "memoryHook": "T-Rexy says: Two cos squared minus one.",
       "imageUrl": "topic:double-angle",
       "tags": [
@@ -1363,7 +1363,7 @@
         "[-1, 1]",
         "All real numbers"
       ],
-      "explanation": "The inverse sine returns angles in [-pi/2, pi/2].",
+      "explanation": "Arcsin has to undo sine where sine is one-to-one, which is the piece from -pi/2 to pi/2. Those endpoints are the smallest and largest values arcsin can return, so its range is [-pi/2, pi/2].",
       "memoryHook": "T-Rexy says: Arcsin lives in the fourth and first quadrants.",
       "imageUrl": "topic:inverse-trig",
       "tags": [
@@ -1403,7 +1403,7 @@
         "pi/2",
         "3pi/2"
       ],
-      "explanation": "180 degrees = pi radians.",
+      "explanation": "A half turn measures 180 degrees and also pi radians - they are the same angle in two units. So 180 degrees converts to 180 times (pi/180) = pi radians.",
       "memoryHook": "T-Rexy says: Half a circle is pi.",
       "imageUrl": "topic:angle-conversion",
       "tags": [
@@ -1450,7 +1450,7 @@
         "trigonometry",
         "circles"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1510,7 +1510,7 @@
         "trigonometry",
         "unit-circle"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1530,7 +1530,7 @@
         "trigonometry",
         "equations"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1583,7 +1583,7 @@
         "cos(x)/sin(x)",
         "sin(x)/cos(x)"
       ],
-      "explanation": "Secant is the reciprocal of cosine.",
+      "explanation": "Cosine is adjacent over hypotenuse in a right triangle. Secant is the reciprocal ratio, hypotenuse over adjacent, so sec(x) = 1/cos(x).",
       "memoryHook": "T-Rexy says: Secant pairs with cosine.",
       "imageUrl": "topic:reciprocal-trig",
       "tags": [
@@ -1723,14 +1723,14 @@
         "sqrt(2)(cos pi/2 + i sin pi/2)",
         "1(cos pi/4 + i sin pi/4)"
       ],
-      "explanation": "Modulus is sqrt(2) and argument is pi/4.",
+      "explanation": "For 1 + i: the modulus is sqrt(1^2 + 1^2) = sqrt(2). The point (1, 1) is in quadrant I and tan(theta) = 1/1 = 1, so theta = pi/4. The polar form is sqrt(2)(cos pi/4 + i sin pi/4).",
       "memoryHook": "T-Rexy says: Modulus and angle describe the complex number.",
       "imageUrl": "topic:complex-polar",
       "tags": [
         "polar",
         "complex"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1870,7 +1870,7 @@
         "parametric",
         "conversion"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
