@@ -171,21 +171,22 @@
   },
   {
    "id": "ELIT_009",
-   "question": "Who wrote To Kill a Mockingbird?",
-   "correctAnswer": "Harper Lee",
+   "question": "Read this passage from Robert Frost's poem \"The Road Not Taken\" (1916):\n\n\"Two roads diverged in a yellow wood,\nAnd sorry I could not travel both\nAnd be one traveler, long I stood\nAnd looked down one as far as I could\nTo where it bent in the undergrowth;\n\nThen took the other, as just as fair,\nAnd having perhaps the better claim,\nBecause it was grassy and wanted wear;\nThough as for that the passing there\nHad worn them really about the same,\n\nAnd both that morning equally lay\nIn leaves no step had trodden black.\nOh, I kept the first for another day!\nYet knowing how way leads on to way,\nI doubted if I should ever come back.\n\nI shall be telling this with a sigh\nSomewhere ages and ages hence:\nTwo roads diverged in a wood, and I--\nI took the one less traveled by,\nAnd that has made all the difference.\"\n\nWhich statement most accurately describes the two roads as the speaker presents them?",
+   "correctAnswer": "They are worn about the same; the second road's advantage is only a \"perhaps,\" and both lie equally untrodden that morning",
    "distractors": [
-    "Flannery O'Connor",
-    "Toni Morrison",
-    "Eudora Welty"
+    "The second road is clearly less traveled, which is exactly why the speaker chooses it",
+    "The first road is the grassy one, while the second has been worn smooth by travelers",
+    "The speaker cannot see either road well enough to compare them at all"
    ],
-   "explanation": "Harper Lee wrote To Kill a Mockingbird, published in 1960, winning the Pulitzer Prize.",
-   "memoryHook": "T-Rexy says: Harper Lee plus mockingbird - Southern classic.",
-   "imageUrl": "topic:mockingbird",
+   "explanation": "The middle stanzas correct the famous summary: the passing there \"Had worn them really about the same,\" and \"both that morning equally lay / In leaves no step had trodden black.\" The second road has \"perhaps the better claim\" - a hedge, not a fact - which is why the last stanza is a story the speaker predicts he will tell, not a report of what happened.",
+   "memoryHook": "T-Rexy says: \"Really about the same\" is the line the famous quote forgets.",
+   "imageUrl": "topic:frost-road-not-taken",
    "tags": [
-    "novels",
-    "authors"
+    "passage analysis",
+    "poetry",
+    "structure"
    ],
-   "difficulty": "easy",
+   "difficulty": "medium",
    "dynamic": false,
    "source": "original"
   },
@@ -243,7 +244,7 @@
     "passage analysis",
     "prose nonfiction"
    ],
-   "difficulty": "easy",
+   "difficulty": "medium",
    "dynamic": false,
    "source": "original"
   },
@@ -287,19 +288,20 @@
   },
   {
    "id": "ELIT_015",
-   "question": "Who wrote Pride and Prejudice?",
-   "correctAnswer": "Jane Austen",
+   "question": "Read this passage from Robert Frost's poem \"The Road Not Taken\" (1916):\n\n\"Two roads diverged in a yellow wood,\nAnd sorry I could not travel both\nAnd be one traveler, long I stood\nAnd looked down one as far as I could\nTo where it bent in the undergrowth;\n\nThen took the other, as just as fair,\nAnd having perhaps the better claim,\nBecause it was grassy and wanted wear;\nThough as for that the passing there\nHad worn them really about the same,\n\nAnd both that morning equally lay\nIn leaves no step had trodden black.\nOh, I kept the first for another day!\nYet knowing how way leads on to way,\nI doubted if I should ever come back.\n\nI shall be telling this with a sigh\nSomewhere ages and ages hence:\nTwo roads diverged in a wood, and I--\nI took the one less traveled by,\nAnd that has made all the difference.\"\n\nIn the line \"Because it was grassy and wanted wear,\" the road is described as if it",
+   "correctAnswer": "Desired something, like a person - the road is personified as wanting to be walked on",
    "distractors": [
-    "Charlotte Brontë",
-    "Emily Brontë",
-    "George Eliot"
+    "Had already been worn down by years of heavy traffic",
+    "Was blocked by grass too thick for anyone to pass",
+    "Reminded the speaker of a road he had known in childhood"
    ],
-   "explanation": "Jane Austen wrote Pride and Prejudice, published in 1813, her famous novel of manners.",
-   "memoryHook": "T-Rexy says: Austen plus Elizabeth Bennet - match made.",
-   "imageUrl": "topic:austen",
+   "explanation": "\"Wanted\" gives the road a human desire: it lacks, and longs for, travelers' feet. That is personification - a human want assigned to a thing - and it flatters the speaker's choice by making the road seem to invite him onto it.",
+   "memoryHook": "T-Rexy says: A road that wants something is a road personified.",
+   "imageUrl": "topic:frost-road-not-taken",
    "tags": [
-    "novels",
-    "authors"
+    "passage analysis",
+    "poetry",
+    "figurative language"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -360,7 +362,7 @@
     "prose fiction",
     "tone"
    ],
-   "difficulty": "easy",
+   "difficulty": "medium",
    "dynamic": false,
    "source": "original"
   },
@@ -536,7 +538,7 @@
     "prose nonfiction",
     "figurative language"
    ],
-   "difficulty": "easy",
+   "difficulty": "medium",
    "dynamic": false,
    "source": "original"
   },
@@ -674,7 +676,7 @@
     "passage analysis",
     "prose fiction"
    ],
-   "difficulty": "medium",
+   "difficulty": "hard",
    "dynamic": false,
    "source": "original"
   },
@@ -739,19 +741,20 @@
   },
   {
    "id": "ELIT_038",
-   "question": "In Hamlet, the famous To be or not to be speech is an example of what?",
-   "correctAnswer": "A soliloquy",
+   "question": "Read this passage from William Shakespeare's Hamlet (c. 1603), Act III, Scene I - Hamlet's soliloquy:\n\n\"To be, or not to be: that is the question:\nWhether 'tis nobler in the mind to suffer\nThe slings and arrows of outrageous fortune,\nOr to take arms against a sea of troubles,\nAnd by opposing end them? To die: to sleep;\nNo more; and by a sleep to say we end\nThe heart-ache and the thousand natural shocks\nThat flesh is heir to, 'tis a consummation\nDevoutly to be wish'd. To die, to sleep;\nTo sleep: perchance to dream: ay, there's the rub;\nFor in that sleep of death what dreams may come\nWhen we have shuffled off this mortal coil,\nMust give us pause: there's the respect\nThat makes calamity of so long life;\nFor who would bear the whips and scorns of time,\nThe oppressor's wrong, the proud man's contumely,\nThe pangs of despised love, the law's delay,\nThe insolence of office and the spurns\nThat patient merit of the unworthy takes,\nWhen he himself might his quietus make\nWith a bare bodkin? who would fardels bear,\nTo grunt and sweat under a weary life,\nBut that the dread of something after death,\nThe undiscover'd country from whose bourn\nNo traveller returns, puzzles the will\nAnd makes us rather bear those ills we have\nThan fly to others that we know not of?\nThus conscience does make cowards of us all;\nAnd thus the native hue of resolution\nIs sicklied o'er with the pale cast of thought,\nAnd enterprises of great pith and moment\nWith this regard their currents turn awry,\nAnd lose the name of action. Soft you now!\nThe fair Ophelia! Nymph, in thy orisons\nBe all my sins remember'd.\"\n\nIn the speech's opening movement, Hamlet figures death as sleep - \"To die: to sleep; / No more\" - and calls that end",
+   "correctAnswer": "\"A consummation / Devoutly to be wish'd\": death first appears as a rest that would finish suffering altogether",
    "distractors": [
-    "An aside",
-    "A chorus",
-    "A prologue"
+    "A punishment the soul must expect for its sins",
+    "A journey to a country that travelers praise",
+    "A battle that Hamlet is eager to fight at last"
    ],
-   "explanation": "Hamlet's To be or not to be is a soliloquy, a speech revealing inner thoughts to the audience alone.",
-   "memoryHook": "T-Rexy says: alone on stage thinking aloud - soliloquy.",
-   "imageUrl": "topic:hamlet",
+   "explanation": "Before the turn, the metaphor promises oblivion: sleep ends \"the heart-ache and the thousand natural shocks / That flesh is heir to,\" which is why the end is \"devoutly to be wish'd.\" The wish depends entirely on sleep meaning nothingness - the assumption the next lines take apart.",
+   "memoryHook": "T-Rexy says: Death as sleep sounds like rest - until dreams apply for the job.",
+   "imageUrl": "topic:hamlet-soliloquy",
    "tags": [
+    "passage analysis",
     "drama",
-    "shakespeare"
+    "figurative language"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -778,19 +781,20 @@
   },
   {
    "id": "ELIT_040",
-   "question": "Who wrote Their Eyes Were Watching God?",
-   "correctAnswer": "Zora Neale Hurston",
+   "question": "Read this passage from Robert Frost's poem \"The Road Not Taken\" (1916):\n\n\"Two roads diverged in a yellow wood,\nAnd sorry I could not travel both\nAnd be one traveler, long I stood\nAnd looked down one as far as I could\nTo where it bent in the undergrowth;\n\nThen took the other, as just as fair,\nAnd having perhaps the better claim,\nBecause it was grassy and wanted wear;\nThough as for that the passing there\nHad worn them really about the same,\n\nAnd both that morning equally lay\nIn leaves no step had trodden black.\nOh, I kept the first for another day!\nYet knowing how way leads on to way,\nI doubted if I should ever come back.\n\nI shall be telling this with a sigh\nSomewhere ages and ages hence:\nTwo roads diverged in a wood, and I--\nI took the one less traveled by,\nAnd that has made all the difference.\"\n\nThe speaker's prediction \"I shall be telling this with a sigh / Somewhere ages and ages hence\" most strongly suggests that he",
+   "correctAnswer": "Already knows he will retell this small, nearly even choice as a solemn story that made \"all the difference\"",
    "distractors": [
-    "Langston Hughes",
-    "Richard Wright",
-    "James Baldwin"
+    "Regrets the road he took and wishes he could return and choose again",
+    "Is exhausted from the walk and sighs with physical weariness",
+    "Plans to come back the next morning and take the first road instead"
    ],
-   "explanation": "Zora Neale Hurston wrote Their Eyes Were Watching God in 1937, a Harlem Renaissance landmark.",
-   "memoryHook": "T-Rexy says: Hurston plus Janie - eyes watching.",
-   "imageUrl": "topic:hurston",
+   "explanation": "The sigh belongs to the future act of telling, years from now. The speaker imagines his older self narrating the moment as momentous - \"that has made all the difference\" - even though the poem has shown the roads to be nearly identical. The subject is how a life story gets authored after the fact.",
+   "memoryHook": "T-Rexy says: The sigh is for the story he will tell, not for the road he took.",
+   "imageUrl": "topic:frost-road-not-taken",
    "tags": [
-    "novels",
-    "authors"
+    "passage analysis",
+    "poetry",
+    "narration"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -817,21 +821,22 @@
   },
   {
    "id": "ELIT_042",
-   "question": "Who wrote Wuthering Heights?",
-   "correctAnswer": "Emily Brontë",
+   "question": "Read this passage from Robert Frost's poem \"The Road Not Taken\" (1916):\n\n\"Two roads diverged in a yellow wood,\nAnd sorry I could not travel both\nAnd be one traveler, long I stood\nAnd looked down one as far as I could\nTo where it bent in the undergrowth;\n\nThen took the other, as just as fair,\nAnd having perhaps the better claim,\nBecause it was grassy and wanted wear;\nThough as for that the passing there\nHad worn them really about the same,\n\nAnd both that morning equally lay\nIn leaves no step had trodden black.\nOh, I kept the first for another day!\nYet knowing how way leads on to way,\nI doubted if I should ever come back.\n\nI shall be telling this with a sigh\nSomewhere ages and ages hence:\nTwo roads diverged in a wood, and I--\nI took the one less traveled by,\nAnd that has made all the difference.\"\n\nRead as a whole, the poem's structure works against the lesson it is usually quoted for, because the speaker",
+   "correctAnswer": "First establishes that the roads were essentially equal, and only later - inside an imagined future retelling - calls one of them \"the one less traveled by\"",
    "distractors": [
-    "Charlotte Brontë",
-    "Anne Brontë",
-    "Jane Austen"
+    "Admits in the final stanza that he chose the wrong road and ruined his life",
+    "Never actually chooses between the roads at all",
+    "Describes the roads accurately in the last stanza and draws the obvious moral from them"
    ],
-   "explanation": "Emily Brontë wrote Wuthering Heights in 1847, her only novel, set on the Yorkshire moors.",
-   "memoryHook": "T-Rexy says: Emily plus Heathcliff - windswept moors.",
-   "imageUrl": "topic:wuthering-heights",
+   "explanation": "Stanzas two and three are a record of sameness: \"really about the same,\" \"equally lay,\" and a first road saved for a return the speaker doubts will ever happen. The difference appears only inside the future telling: \"I shall be telling this...\" The poem thus dramatizes how people manufacture turning points, which is nearly the reverse of the motivational reading.",
+   "memoryHook": "T-Rexy says: The difference is made by the telling, not by the road.",
+   "imageUrl": "topic:frost-road-not-taken",
    "tags": [
-    "novels",
-    "authors"
+    "passage analysis",
+    "poetry",
+    "structure"
    ],
-   "difficulty": "medium",
+   "difficulty": "hard",
    "dynamic": false,
    "source": "original"
   },
@@ -935,19 +940,20 @@
   },
   {
    "id": "ELIT_048",
-   "question": "Who wrote A Raisin in the Sun?",
-   "correctAnswer": "Lorraine Hansberry",
+   "question": "Read this passage from William Blake's poem \"The Tiger\" (1794):\n\n\"Tiger, tiger, burning bright\nIn the forests of the night,\nWhat immortal hand or eye\nCould frame thy fearful symmetry?\n\nIn what distant deeps or skies\nBurnt the fire of thine eyes?\nOn what wings dare he aspire?\nWhat the hand dare seize the fire?\n\nAnd what shoulder and what art\nCould twist the sinews of thy heart?\nAnd, when thy heart began to beat,\nWhat dread hand and what dread feet?\n\nWhat the hammer? what the chain?\nIn what furnace was thy brain?\nWhat the anvil? what dread grasp\nDare its deadly terrors clasp?\n\nWhen the stars threw down their spears,\nAnd watered heaven with their tears,\nDid He smile His work to see?\nDid He who made the lamb make thee?\n\nTiger, tiger, burning bright\nIn the forests of the night,\nWhat immortal hand or eye\nDare frame thy fearful symmetry?\"\n\nFire runs through the poem - \"burning bright,\" \"Burnt the fire of thine eyes,\" \"dare seize the fire,\" the furnace and the anvil. Taken together, these images chiefly present the tiger as",
+   "correctAnswer": "A creature of awesome, dangerous energy, forged like hot metal by a power the speaker can only wonder at",
    "distractors": [
-    "August Wilson",
-    "Tennessee Williams",
-    "Arthur Miller"
+    "A gentle animal warmed by the mild sun of the forest",
+    "A servant animal working in the smithy of its maker",
+    "A forest fire spreading through the night woods"
    ],
-   "explanation": "Lorraine Hansberry wrote A Raisin in the Sun in 1959, the first Broadway play by a Black woman.",
-   "memoryHook": "T-Rexy says: Hansberry plus raisin - Broadway first.",
-   "imageUrl": "topic:raisin-in-the-sun",
+   "explanation": "Every fire word attaches either to the tiger itself (burning bright, the fire of its eyes) or to its making (seize the fire, furnace, anvil, hammer, chain). The cluster fuses animal and forge: the tiger is not merely near a fire, it is a made thing of fire - beautiful and terrifying at once.",
+   "memoryHook": "T-Rexy says: Count the fire words; the tiger is forged, not just fierce.",
+   "imageUrl": "topic:blake-the-tiger",
    "tags": [
-    "drama",
-    "authors"
+    "passage analysis",
+    "poetry",
+    "figurative language"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -974,19 +980,20 @@
   },
   {
    "id": "ELIT_050",
-   "question": "Who wrote The Crucible?",
-   "correctAnswer": "Arthur Miller",
+   "question": "Read this passage from William Blake's poem \"The Tiger\" (1794):\n\n\"Tiger, tiger, burning bright\nIn the forests of the night,\nWhat immortal hand or eye\nCould frame thy fearful symmetry?\n\nIn what distant deeps or skies\nBurnt the fire of thine eyes?\nOn what wings dare he aspire?\nWhat the hand dare seize the fire?\n\nAnd what shoulder and what art\nCould twist the sinews of thy heart?\nAnd, when thy heart began to beat,\nWhat dread hand and what dread feet?\n\nWhat the hammer? what the chain?\nIn what furnace was thy brain?\nWhat the anvil? what dread grasp\nDare its deadly terrors clasp?\n\nWhen the stars threw down their spears,\nAnd watered heaven with their tears,\nDid He smile His work to see?\nDid He who made the lamb make thee?\n\nTiger, tiger, burning bright\nIn the forests of the night,\nWhat immortal hand or eye\nDare frame thy fearful symmetry?\"\n\nThe poem consists almost entirely of questions that receive no answers. This structure chiefly creates a speaker who",
+   "correctAnswer": "Stands in awe before a mystery he can interrogate but never resolve",
    "distractors": [
-    "Tennessee Williams",
-    "Eugene O'Neill",
-    "Thornton Wilder"
+    "Is conducting a lesson whose answers every reader is expected to supply",
+    "Is furious at the tiger and demands that it explain itself",
+    "Gradually solves the riddle of the tiger's origin by the final stanza"
    ],
-   "explanation": "Arthur Miller wrote The Crucible in 1953, an allegory of McCarthyism set in Salem.",
-   "memoryHook": "T-Rexy says: Miller plus Salem - witch trials as allegory.",
-   "imageUrl": "topic:crucible",
+   "explanation": "Twenty-four lines ask who could frame, twist, seize, and dare - and the last stanza simply asks the first question again, harder (\"Dare\" for \"Could\"). A structure of pure questioning leaves the speaker, and the reader, inside the wonder rather than beyond it.",
+   "memoryHook": "T-Rexy says: A poem of questions with no answers is awe with nowhere to land.",
+   "imageUrl": "topic:blake-the-tiger",
    "tags": [
-    "drama",
-    "authors"
+    "passage analysis",
+    "poetry",
+    "structure"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -1053,21 +1060,22 @@
   },
   {
    "id": "ELIT_054",
-   "question": "Who wrote One Hundred Years of Solitude?",
-   "correctAnswer": "Gabriel García Márquez",
+   "question": "Read this passage from William Blake's poem \"The Tiger\" (1794):\n\n\"Tiger, tiger, burning bright\nIn the forests of the night,\nWhat immortal hand or eye\nCould frame thy fearful symmetry?\n\nIn what distant deeps or skies\nBurnt the fire of thine eyes?\nOn what wings dare he aspire?\nWhat the hand dare seize the fire?\n\nAnd what shoulder and what art\nCould twist the sinews of thy heart?\nAnd, when thy heart began to beat,\nWhat dread hand and what dread feet?\n\nWhat the hammer? what the chain?\nIn what furnace was thy brain?\nWhat the anvil? what dread grasp\nDare its deadly terrors clasp?\n\nWhen the stars threw down their spears,\nAnd watered heaven with their tears,\nDid He smile His work to see?\nDid He who made the lamb make thee?\n\nTiger, tiger, burning bright\nIn the forests of the night,\nWhat immortal hand or eye\nDare frame thy fearful symmetry?\"\n\nThe force of the question \"Did He who made the lamb make thee?\" comes from the fact that it",
+   "correctAnswer": "Sets the tiger's terror against the lamb's innocence and asks whether one creator can be responsible for both",
    "distractors": [
-    "Mario Vargas Llosa",
-    "Isabel Allende",
-    "Jorge Luis Borges"
+    "Proves that the tiger was created by a different and evil god",
+    "Asks whether lambs are able to escape tigers at night",
+    "Compares the softness of the tiger's coat to the lamb's fleece"
    ],
-   "explanation": "Gabriel García Márquez wrote One Hundred Years of Solitude in 1967, a masterpiece of magical realism.",
-   "memoryHook": "T-Rexy says: Marquez plus Macondo - magical realism.",
-   "imageUrl": "topic:solitude",
+   "explanation": "The lamb is the poem's one image of meek innocence - in Blake's Songs, the emblem of the gentle creator. Placing it at the climax of the forge questions turns craft into theology: the same \"He\" who made the lamb may have made this, and the speaker cannot decide whether to praise or to shudder.",
+   "memoryHook": "T-Rexy says: One maker for lamb and tiger is the puzzle that burns.",
+   "imageUrl": "topic:blake-the-tiger",
    "tags": [
-    "novels",
-    "authors"
+    "passage analysis",
+    "poetry",
+    "figurative language"
    ],
-   "difficulty": "medium",
+   "difficulty": "hard",
    "dynamic": false,
    "source": "original"
   },
@@ -1092,21 +1100,22 @@
   },
   {
    "id": "ELIT_056",
-   "question": "Who wrote The Color Purple?",
-   "correctAnswer": "Alice Walker",
+   "question": "Read this passage from William Blake's poem \"The Tiger\" (1794):\n\n\"Tiger, tiger, burning bright\nIn the forests of the night,\nWhat immortal hand or eye\nCould frame thy fearful symmetry?\n\nIn what distant deeps or skies\nBurnt the fire of thine eyes?\nOn what wings dare he aspire?\nWhat the hand dare seize the fire?\n\nAnd what shoulder and what art\nCould twist the sinews of thy heart?\nAnd, when thy heart began to beat,\nWhat dread hand and what dread feet?\n\nWhat the hammer? what the chain?\nIn what furnace was thy brain?\nWhat the anvil? what dread grasp\nDare its deadly terrors clasp?\n\nWhen the stars threw down their spears,\nAnd watered heaven with their tears,\nDid He smile His work to see?\nDid He who made the lamb make thee?\n\nTiger, tiger, burning bright\nIn the forests of the night,\nWhat immortal hand or eye\nDare frame thy fearful symmetry?\"\n\nThe final stanza repeats the first almost word for word, except that \"Could frame thy fearful symmetry?\" becomes \"Dare frame thy fearful symmetry?\" The change chiefly signals that, after the middle stanzas, the speaker's question has shifted from",
+   "correctAnswer": "Whether any maker had the ability to create such a creature, to whether any maker had the audacity to do so",
    "distractors": [
-    "Toni Morrison",
-    "Maya Angelou",
-    "Gloria Naylor"
+    "Doubt to certainty, since the speaker now knows who made the tiger",
+    "The tiger's body to the tiger's eyes as the poem's true subject",
+    "Praise of the tiger to fear of it, as the speaker's mood darkens"
    ],
-   "explanation": "Alice Walker wrote The Color Purple in 1982, winning the Pulitzer Prize.",
-   "memoryHook": "T-Rexy says: Walker plus Celie - purple prose prize.",
-   "imageUrl": "topic:color-purple",
+   "explanation": "\"Could\" asks about power; \"dare\" asks about nerve. Between the two stanzas the poem has inventoried the forge - the hammer, chain, furnace, anvil, and a heart set beating - so the repeated question returns heavier: not can such a thing be made, but who would risk making it.",
+   "memoryHook": "T-Rexy says: One word changes - could to dare - and ability becomes audacity.",
+   "imageUrl": "topic:blake-the-tiger",
    "tags": [
-    "novels",
-    "authors"
+    "passage analysis",
+    "poetry",
+    "structure"
    ],
-   "difficulty": "medium",
+   "difficulty": "hard",
    "dynamic": false,
    "source": "original"
   },
@@ -1131,19 +1140,20 @@
   },
   {
    "id": "ELIT_058",
-   "question": "Who wrote Death of a Salesman?",
-   "correctAnswer": "Arthur Miller",
+   "question": "Read this passage from Kate Chopin's short story \"The Story of an Hour\" (1894):\n\n\"She could see in the open square before her house the tops of trees that were all aquiver with the new spring life. The delicious breath of rain was in the air. In the street below a peddler was crying his wares. The notes of a distant song which some one was singing reached her faintly, and countless sparrows were twittering in the eaves.\n\nThere was something coming to her and she was waiting for it, fearfully. What was it? She did not know; it was too subtle and elusive to name. But she felt it, creeping out of the sky, reaching toward her through the sounds, the scents, the color that filled the air. Now her bosom rose and fell tumultuously. She was beginning to recognize this thing that was approaching to possess her, and she was striving to beat it back with her will -- as powerless as her two white slender hands would have been. When she abandoned herself a little whispered word escaped her slightly parted lips. She said it over and over under her breath: \"free, free, free!\"\n\nThere would be no one to live for her during those coming years; she would live for herself. There would be no powerful will bending hers in that blind persistence with which men and women believe they have a right to impose a private will upon a fellow-creature. A kind intention or a cruel intention made the act seem no less a crime as she looked upon it in that brief moment of illumination.\n\nSome one was opening the front door with a latchkey. It was Brently Mallard who entered, a little travel-stained, composedly carrying his grip-sack and umbrella. He had been far from the scene of the accident, and did not even know there had been one. He stood amazed at Josephine's piercing cry; at Richards' quick motion to screen him from the view of his wife. But Richards was too late. When the doctors came they said she had died of heart disease -- of the joy that kills.\"\n\nThe view from the window - trees \"aquiver with the new spring life,\" the \"delicious breath of rain,\" distant singing, and sparrows twittering - functions in the passage chiefly to",
+   "correctAnswer": "Announce, in the world outside the window, the renewal that is beginning inside Mrs. Mallard",
    "distractors": [
-    "Tennessee Williams",
-    "Eugene O'Neill",
-    "David Mamet"
+    "Distract Mrs. Mallard from thinking about her husband's death",
+    "Show that her sister and Richards have already recovered from the news",
+    "Fix the story's date and city for the reader"
    ],
-   "explanation": "Arthur Miller wrote Death of a Salesman in 1949, the tragedy of Willy Loman.",
-   "memoryHook": "T-Rexy says: Miller plus Loman - salesman tragedy.",
-   "imageUrl": "topic:death-of-a-salesman",
+   "explanation": "Every detail is a beginning: new spring life, rain-washed air, song, twittering. Chopin lets the setting do the feeling first - the outer world stirs with exactly the awakening that the next paragraphs name inside Mrs. Mallard, who sits before this window and, the story says, drinks in an elixir of life through it.",
+   "memoryHook": "T-Rexy says: Spring outside the window, spring inside the widow.",
+   "imageUrl": "topic:chopin-story-of-an-hour",
    "tags": [
-    "drama",
-    "authors"
+    "passage analysis",
+    "short fiction",
+    "setting"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -1210,21 +1220,22 @@
   },
   {
    "id": "ELIT_062",
-   "question": "Who wrote The Metamorphosis?",
-   "correctAnswer": "Franz Kafka",
+   "question": "Read this passage from Kate Chopin's short story \"The Story of an Hour\" (1894):\n\n\"She could see in the open square before her house the tops of trees that were all aquiver with the new spring life. The delicious breath of rain was in the air. In the street below a peddler was crying his wares. The notes of a distant song which some one was singing reached her faintly, and countless sparrows were twittering in the eaves.\n\nThere was something coming to her and she was waiting for it, fearfully. What was it? She did not know; it was too subtle and elusive to name. But she felt it, creeping out of the sky, reaching toward her through the sounds, the scents, the color that filled the air. Now her bosom rose and fell tumultuously. She was beginning to recognize this thing that was approaching to possess her, and she was striving to beat it back with her will -- as powerless as her two white slender hands would have been. When she abandoned herself a little whispered word escaped her slightly parted lips. She said it over and over under her breath: \"free, free, free!\"\n\nThere would be no one to live for her during those coming years; she would live for herself. There would be no powerful will bending hers in that blind persistence with which men and women believe they have a right to impose a private will upon a fellow-creature. A kind intention or a cruel intention made the act seem no less a crime as she looked upon it in that brief moment of illumination.\n\nSome one was opening the front door with a latchkey. It was Brently Mallard who entered, a little travel-stained, composedly carrying his grip-sack and umbrella. He had been far from the scene of the accident, and did not even know there had been one. He stood amazed at Josephine's piercing cry; at Richards' quick motion to screen him from the view of his wife. But Richards was too late. When the doctors came they said she had died of heart disease -- of the joy that kills.\"\n\nWhen Mrs. Mallard whispers \"free, free, free!\" the passage makes clear that what she welcomes is not her husband's death itself but",
+   "correctAnswer": "A life of her own: years in which she will live for herself, with no powerful will bending hers",
    "distractors": [
-    "Thomas Mann",
-    "Hermann Hesse",
-    "Bertolt Brecht"
+    "Joy that her husband is dead, a man she had always hated",
+    "A plan to leave town at once and start a new life elsewhere",
+    "Relief that she will no longer have to care for an invalid husband"
    ],
-   "explanation": "Franz Kafka wrote The Metamorphosis in 1915, in which Gregor Samsa becomes an insect.",
-   "memoryHook": "T-Rexy says: Kafka plus insect - metamorphosis.",
-   "imageUrl": "topic:metamorphosis",
+   "explanation": "The passage defines the freedom in her own terms: \"she would live for herself,\" with \"no powerful will bending hers.\" Even a kind intention, she reflects, did not lessen the crime of imposing a private will on a fellow-creature - so what ends in this hour is not a hated man but a whole arrangement of being governed.",
+   "memoryHook": "T-Rexy says: She is not cheering a death; she is claiming a will.",
+   "imageUrl": "topic:chopin-story-of-an-hour",
    "tags": [
-    "novels",
-    "authors"
+    "passage analysis",
+    "short fiction",
+    "character"
    ],
-   "difficulty": "medium",
+   "difficulty": "hard",
    "dynamic": false,
    "source": "original"
   },
@@ -1249,19 +1260,20 @@
   },
   {
    "id": "ELIT_064",
-   "question": "Who wrote Song of Solomon?",
-   "correctAnswer": "Toni Morrison",
+   "question": "Read this passage from Kate Chopin's short story \"The Story of an Hour\" (1894):\n\n\"She could see in the open square before her house the tops of trees that were all aquiver with the new spring life. The delicious breath of rain was in the air. In the street below a peddler was crying his wares. The notes of a distant song which some one was singing reached her faintly, and countless sparrows were twittering in the eaves.\n\nThere was something coming to her and she was waiting for it, fearfully. What was it? She did not know; it was too subtle and elusive to name. But she felt it, creeping out of the sky, reaching toward her through the sounds, the scents, the color that filled the air. Now her bosom rose and fell tumultuously. She was beginning to recognize this thing that was approaching to possess her, and she was striving to beat it back with her will -- as powerless as her two white slender hands would have been. When she abandoned herself a little whispered word escaped her slightly parted lips. She said it over and over under her breath: \"free, free, free!\"\n\nThere would be no one to live for her during those coming years; she would live for herself. There would be no powerful will bending hers in that blind persistence with which men and women believe they have a right to impose a private will upon a fellow-creature. A kind intention or a cruel intention made the act seem no less a crime as she looked upon it in that brief moment of illumination.\n\nSome one was opening the front door with a latchkey. It was Brently Mallard who entered, a little travel-stained, composedly carrying his grip-sack and umbrella. He had been far from the scene of the accident, and did not even know there had been one. He stood amazed at Josephine's piercing cry; at Richards' quick motion to screen him from the view of his wife. But Richards was too late. When the doctors came they said she had died of heart disease -- of the joy that kills.\"\n\nIn the sentence \"There would be no powerful will bending hers in that blind persistence with which men and women believe they have a right to impose a private will upon a fellow-creature,\" Mrs. Mallard's judgment of her marriage is that",
+   "correctAnswer": "Even loving authority was a form of coercion: one person's will was imposed on another, and she now counts that imposition a crime",
    "distractors": [
-    "Alice Walker",
-    "Gloria Naylor",
-    "Paule Marshall"
+    "Her husband alone was a tyrant, unlike other husbands of her time",
+    "Marriage is acceptable whenever the husband's intentions are kind",
+    "She had been forced into the marriage as a girl against her will"
    ],
-   "explanation": "Toni Morrison wrote Song of Solomon in 1977, following Milkman Dead's journey.",
-   "memoryHook": "T-Rexy says: Morrison plus Milkman - song of Solomon.",
-   "imageUrl": "topic:song-of-solomon",
+   "explanation": "The sentence refuses the easy defense: \"A kind intention or a cruel intention made the act seem no less a crime.\" Her target is imposition itself - the believed \"right to impose a private will upon a fellow-creature\" - which is why the passage speaks of men and women in general, not of one cruel husband.",
+   "memoryHook": "T-Rexy says: Kind or cruel, an imposed will is still imposed.",
+   "imageUrl": "topic:chopin-story-of-an-hour",
    "tags": [
-    "novels",
-    "authors"
+    "passage analysis",
+    "short fiction",
+    "diction"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -1288,21 +1300,22 @@
   },
   {
    "id": "ELIT_066",
-   "question": "Who wrote A Streetcar Named Desire?",
-   "correctAnswer": "Tennessee Williams",
+   "question": "Read this passage from Kate Chopin's short story \"The Story of an Hour\" (1894):\n\n\"She could see in the open square before her house the tops of trees that were all aquiver with the new spring life. The delicious breath of rain was in the air. In the street below a peddler was crying his wares. The notes of a distant song which some one was singing reached her faintly, and countless sparrows were twittering in the eaves.\n\nThere was something coming to her and she was waiting for it, fearfully. What was it? She did not know; it was too subtle and elusive to name. But she felt it, creeping out of the sky, reaching toward her through the sounds, the scents, the color that filled the air. Now her bosom rose and fell tumultuously. She was beginning to recognize this thing that was approaching to possess her, and she was striving to beat it back with her will -- as powerless as her two white slender hands would have been. When she abandoned herself a little whispered word escaped her slightly parted lips. She said it over and over under her breath: \"free, free, free!\"\n\nThere would be no one to live for her during those coming years; she would live for herself. There would be no powerful will bending hers in that blind persistence with which men and women believe they have a right to impose a private will upon a fellow-creature. A kind intention or a cruel intention made the act seem no less a crime as she looked upon it in that brief moment of illumination.\n\nSome one was opening the front door with a latchkey. It was Brently Mallard who entered, a little travel-stained, composedly carrying his grip-sack and umbrella. He had been far from the scene of the accident, and did not even know there had been one. He stood amazed at Josephine's piercing cry; at Richards' quick motion to screen him from the view of his wife. But Richards was too late. When the doctors came they said she had died of heart disease -- of the joy that kills.\"\n\nThe doctors' conclusion that Mrs. Mallard \"died of heart disease -- of the joy that kills\" is ironic chiefly because",
+   "correctAnswer": "The joy they imagine - a wife's happiness at her husband's return - is the opposite of what the passage shows: she dies at the moment the freedom she had just claimed is taken back",
    "distractors": [
-    "Arthur Miller",
-    "Eugene O'Neill",
-    "William Inge"
+    "She did not in fact have any heart disease at all",
+    "The doctors privately knew how unhappy her marriage had been",
+    "The man who entered was not her husband but a stranger"
    ],
-   "explanation": "Tennessee Williams wrote A Streetcar Named Desire in 1947, introducing Blanche DuBois.",
-   "memoryHook": "T-Rexy says: Williams plus Blanche - streetcar desire.",
-   "imageUrl": "topic:streetcar",
+   "explanation": "Everyone in the house reads her death through the expected script: a wife overcome by joy at her husband restored to her. The passage has shown the inside of the hour - the whispered \"free, free, free!\" and the years she had already begun to live for herself. What comes through the door is not joy but the end of that hour, and only the reader knows it.",
+   "memoryHook": "T-Rexy says: The doctors name the joy exactly wrong - that is the irony.",
+   "imageUrl": "topic:chopin-story-of-an-hour",
    "tags": [
-    "drama",
-    "authors"
+    "passage analysis",
+    "short fiction",
+    "irony"
    ],
-   "difficulty": "medium",
+   "difficulty": "hard",
    "dynamic": false,
    "source": "original"
   },
@@ -1367,21 +1380,22 @@
   },
   {
    "id": "ELIT_070",
-   "question": "Who wrote Waiting for Godot?",
-   "correctAnswer": "Samuel Beckett",
+   "question": "Read this passage from O. Henry's short story \"The Gift of the Magi\" (1905):\n\n\"One dollar and eighty-seven cents. That was all. And sixty cents of it was in pennies. Pennies saved one and two at a time by bulldozing the grocer and the vegetable man and the butcher until one's cheeks burned with the silent imputation of parsimony that such close dealing implied. Three times Della counted it. One dollar and eighty-seven cents. And the next day would be Christmas.\n\nNow, there were two possessions of the James Dillingham Youngs in which they both took a mighty pride. One was Jim's gold watch that had been his father's and his grandfather's. The other was Della's hair. Had the Queen of Sheba lived in the flat across the airshaft, Della would have let her hair hang out the window some day to dry just to depreciate Her Majesty's jewels and gifts. Had King Solomon been the janitor, with all his treasures piled up in the basement, Jim would have pulled out his watch every time he passed, just to see him pluck at his beard from envy.\n\nSo now Della's beautiful hair fell about her, rippling and shining like a cascade of brown waters. It reached below her knee and made itself almost a garment for her.\n\nThe magi, as you know, were wise men -- wonderfully wise men -- who brought gifts to the Babe in the manger. They invented the art of giving Christmas presents. And here I have lamely related to you the uneventful chronicle of two foolish children in a flat who most unwisely sacrificed for each other the greatest treasures of their house. But in a last word to the wise of these days let it be said that of all who give gifts these two were the wisest. Of all who give and receive gifts, such as they are wisest. Everywhere they are wisest. They are the magi.\"\n\nThe opening paragraph, in which Della counts her $1.87 three times, chiefly establishes",
+   "correctAnswer": "How poor the couple is and how much Della cares about finding a worthy gift for Jim",
    "distractors": [
-    "Eugene Ionesco",
-    "Harold Pinter",
-    "Tom Stoppard"
+    "That Della is careless with money and loses track of it",
+    "That Jim has been hiding part of his wages from Della",
+    "That Christmas is still a full week away"
    ],
-   "explanation": "Samuel Beckett wrote Waiting for Godot in 1953, the landmark of absurdist theater.",
-   "memoryHook": "T-Rexy says: Beckett plus waiting - Godot never comes.",
-   "imageUrl": "topic:godot",
+   "explanation": "Pennies \"saved one and two at a time,\" cheeks burning at the grocer's - the paragraph prices Della's devotion in the only currency she has. Knowing exactly how little $1.87 is, and that it was gathered for Jim, sets the scale against which her sacrifice will be measured.",
+   "memoryHook": "T-Rexy says: Three counts of almost nothing equals everything she has.",
+   "imageUrl": "topic:ohenry-gift-of-the-magi",
    "tags": [
-    "drama",
-    "authors"
+    "passage analysis",
+    "short fiction",
+    "character"
    ],
-   "difficulty": "medium",
+   "difficulty": "easy",
    "dynamic": false,
    "source": "original"
   },
@@ -1460,7 +1474,7 @@
     "passage analysis",
     "poetry"
    ],
-   "difficulty": "medium",
+   "difficulty": "hard",
    "dynamic": false,
    "source": "original"
   },
@@ -1485,19 +1499,20 @@
   },
   {
    "id": "ELIT_076",
-   "question": "Who wrote Mrs. Dalloway?",
-   "correctAnswer": "Virginia Woolf",
+   "question": "Read this passage from O. Henry's short story \"The Gift of the Magi\" (1905):\n\n\"One dollar and eighty-seven cents. That was all. And sixty cents of it was in pennies. Pennies saved one and two at a time by bulldozing the grocer and the vegetable man and the butcher until one's cheeks burned with the silent imputation of parsimony that such close dealing implied. Three times Della counted it. One dollar and eighty-seven cents. And the next day would be Christmas.\n\nNow, there were two possessions of the James Dillingham Youngs in which they both took a mighty pride. One was Jim's gold watch that had been his father's and his grandfather's. The other was Della's hair. Had the Queen of Sheba lived in the flat across the airshaft, Della would have let her hair hang out the window some day to dry just to depreciate Her Majesty's jewels and gifts. Had King Solomon been the janitor, with all his treasures piled up in the basement, Jim would have pulled out his watch every time he passed, just to see him pluck at his beard from envy.\n\nSo now Della's beautiful hair fell about her, rippling and shining like a cascade of brown waters. It reached below her knee and made itself almost a garment for her.\n\nThe magi, as you know, were wise men -- wonderfully wise men -- who brought gifts to the Babe in the manger. They invented the art of giving Christmas presents. And here I have lamely related to you the uneventful chronicle of two foolish children in a flat who most unwisely sacrificed for each other the greatest treasures of their house. But in a last word to the wise of these days let it be said that of all who give gifts these two were the wisest. Of all who give and receive gifts, such as they are wisest. Everywhere they are wisest. They are the magi.\"\n\nThe comparisons to the Queen of Sheba and King Solomon - Della's hair would depreciate Sheba's jewels, and Jim's watch would make Solomon pluck at his beard with envy - function chiefly to",
+   "correctAnswer": "Measure the two treasures against legendary wealth, showing that their real value lies in the couple's pride and love rather than in any price",
    "distractors": [
-    "Katherine Mansfield",
-    "Dorothy Richardson",
-    "Iris Murdoch"
+    "Prove that Della and Jim are secretly descended from royalty",
+    "Mock the couple for imagining that anything they own has worth",
+    "Explain how the couple became poor despite owning valuable goods"
    ],
-   "explanation": "Virginia Woolf wrote Mrs. Dalloway in 1925, a stream-of-consciousness modernist novel.",
-   "memoryHook": "T-Rexy says: Woolf plus Clarissa - Dalloway day.",
-   "imageUrl": "topic:mrs-dalloway",
+   "explanation": "Sheba and Solomon are the proverbial ceiling of riches. Borrowing them lets the narrator say that in an eight-dollar flat, a watch and a head of hair carry the weight of kingdoms - because of what they mean to the two people who own them. The closing paragraph cashes the check: these are \"the greatest treasures of their house.\"",
+   "memoryHook": "T-Rexy says: Sheba and Solomon are the story's measuring sticks for love.",
+   "imageUrl": "topic:ohenry-gift-of-the-magi",
    "tags": [
-    "novels",
-    "authors"
+    "passage analysis",
+    "short fiction",
+    "figurative language"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -1539,7 +1554,7 @@
     "prose fiction",
     "tone"
    ],
-   "difficulty": "medium",
+   "difficulty": "hard",
    "dynamic": false,
    "source": "original"
   },
@@ -1565,19 +1580,20 @@
   },
   {
    "id": "ELIT_080",
-   "question": "Who wrote Middlemarch?",
-   "correctAnswer": "George Eliot",
+   "question": "Read this passage from O. Henry's short story \"The Gift of the Magi\" (1905):\n\n\"One dollar and eighty-seven cents. That was all. And sixty cents of it was in pennies. Pennies saved one and two at a time by bulldozing the grocer and the vegetable man and the butcher until one's cheeks burned with the silent imputation of parsimony that such close dealing implied. Three times Della counted it. One dollar and eighty-seven cents. And the next day would be Christmas.\n\nNow, there were two possessions of the James Dillingham Youngs in which they both took a mighty pride. One was Jim's gold watch that had been his father's and his grandfather's. The other was Della's hair. Had the Queen of Sheba lived in the flat across the airshaft, Della would have let her hair hang out the window some day to dry just to depreciate Her Majesty's jewels and gifts. Had King Solomon been the janitor, with all his treasures piled up in the basement, Jim would have pulled out his watch every time he passed, just to see him pluck at his beard from envy.\n\nSo now Della's beautiful hair fell about her, rippling and shining like a cascade of brown waters. It reached below her knee and made itself almost a garment for her.\n\nThe magi, as you know, were wise men -- wonderfully wise men -- who brought gifts to the Babe in the manger. They invented the art of giving Christmas presents. And here I have lamely related to you the uneventful chronicle of two foolish children in a flat who most unwisely sacrificed for each other the greatest treasures of their house. But in a last word to the wise of these days let it be said that of all who give gifts these two were the wisest. Of all who give and receive gifts, such as they are wisest. Everywhere they are wisest. They are the magi.\"\n\nIn the closing paragraph the narrator steps forward and judges the couple directly. His verdict - that these \"two foolish children\" are in fact \"the wisest\" - rests on the fact that each of them",
+   "correctAnswer": "Sacrificed the greatest treasure of the house for the other, which the narrator counts as the essence of wise giving",
    "distractors": [
-    "Charles Dickens",
-    "Anthony Trollope",
-    "Thomas Hardy"
+    "Bought exactly the gift the other had asked for",
+    "Spent as little money as possible on the gifts",
+    "Kept the gifts secret from each other until Christmas morning"
    ],
-   "explanation": "George Eliot, pen name of Mary Ann Evans, wrote Middlemarch in 1871.",
-   "memoryHook": "T-Rexy says: Eliot plus provincial life - Middlemarch.",
-   "imageUrl": "topic:middlemarch",
+   "explanation": "The narrator concedes the practical folly - they \"most unwisely sacrificed for each other the greatest treasures of their house\" - and then reverses the valuation: \"of all who give gifts these two were the wisest.\" The wisdom is located in the giving itself: each gave up the thing prized most, for the other. By the magi's standard - gifts as love made visible - no one gives more wisely than that.",
+   "memoryHook": "T-Rexy says: The magi's math - what you give up is what the gift is worth.",
+   "imageUrl": "topic:ohenry-gift-of-the-magi",
    "tags": [
-    "novels",
-    "authors"
+    "passage analysis",
+    "short fiction",
+    "narration"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -1620,7 +1636,7 @@
     "prose nonfiction",
     "diction"
    ],
-   "difficulty": "medium",
+   "difficulty": "hard",
    "dynamic": false,
    "source": "original"
   },
@@ -1645,21 +1661,22 @@
   },
   {
    "id": "ELIT_084",
-   "question": "Who wrote The Brothers Karamazov?",
-   "correctAnswer": "Fyodor Dostoevsky",
+   "question": "Read this passage from O. Henry's short story \"The Gift of the Magi\" (1905):\n\n\"One dollar and eighty-seven cents. That was all. And sixty cents of it was in pennies. Pennies saved one and two at a time by bulldozing the grocer and the vegetable man and the butcher until one's cheeks burned with the silent imputation of parsimony that such close dealing implied. Three times Della counted it. One dollar and eighty-seven cents. And the next day would be Christmas.\n\nNow, there were two possessions of the James Dillingham Youngs in which they both took a mighty pride. One was Jim's gold watch that had been his father's and his grandfather's. The other was Della's hair. Had the Queen of Sheba lived in the flat across the airshaft, Della would have let her hair hang out the window some day to dry just to depreciate Her Majesty's jewels and gifts. Had King Solomon been the janitor, with all his treasures piled up in the basement, Jim would have pulled out his watch every time he passed, just to see him pluck at his beard from envy.\n\nSo now Della's beautiful hair fell about her, rippling and shining like a cascade of brown waters. It reached below her knee and made itself almost a garment for her.\n\nThe magi, as you know, were wise men -- wonderfully wise men -- who brought gifts to the Babe in the manger. They invented the art of giving Christmas presents. And here I have lamely related to you the uneventful chronicle of two foolish children in a flat who most unwisely sacrificed for each other the greatest treasures of their house. But in a last word to the wise of these days let it be said that of all who give gifts these two were the wisest. Of all who give and receive gifts, such as they are wisest. Everywhere they are wisest. They are the magi.\"\n\nThe passage calls Della and Jim both \"foolish children\" who \"most unwisely sacrificed\" and, in the same breath, \"the wisest... They are the magi.\" This apparent contradiction resolves because the story",
+   "correctAnswer": "Judges the gifts by two different standards: by practical results they are folly, but by the love the sacrifice expresses they are the wisest gifts of all",
    "distractors": [
-    "Leo Tolstoy",
-    "Ivan Turgenev",
-    "Nikolai Gogol"
+    "Reveals at the end that the gifts were valuable antiques after all",
+    "Shows the narrator changing his mind as he writes the final sentences",
+    "Uses the words \"foolish\" and \"wisest\" as synonyms in the narrator's voice"
    ],
-   "explanation": "Fyodor Dostoevsky wrote The Brothers Karamazov in 1880, his final great novel.",
-   "memoryHook": "T-Rexy says: Dostoevsky plus Karamazov brothers - Russian epic.",
-   "imageUrl": "topic:karamazov",
+   "explanation": "The paradox is the story's thesis stated twice. Measured by outcomes, the sacrifices look like folly; measured by what the magi invented - the art of giving as an act of love - the same acts are perfect wisdom. The narrator holds both ledgers open at once and addresses the verdict \"to the wise of these days,\" asking them to judge by the second.",
+   "memoryHook": "T-Rexy says: Foolish by the receipt, wisest by the reason.",
+   "imageUrl": "topic:ohenry-gift-of-the-magi",
    "tags": [
-    "novels",
-    "authors"
+    "passage analysis",
+    "short fiction",
+    "structure"
    ],
-   "difficulty": "medium",
+   "difficulty": "hard",
    "dynamic": false,
    "source": "original"
   },
@@ -1684,21 +1701,22 @@
   },
   {
    "id": "ELIT_086",
-   "question": "Who wrote To the Lighthouse?",
-   "correctAnswer": "Virginia Woolf",
+   "question": "Read this passage from William Shakespeare's Hamlet (c. 1603), Act III, Scene I - Hamlet's soliloquy:\n\n\"To be, or not to be: that is the question:\nWhether 'tis nobler in the mind to suffer\nThe slings and arrows of outrageous fortune,\nOr to take arms against a sea of troubles,\nAnd by opposing end them? To die: to sleep;\nNo more; and by a sleep to say we end\nThe heart-ache and the thousand natural shocks\nThat flesh is heir to, 'tis a consummation\nDevoutly to be wish'd. To die, to sleep;\nTo sleep: perchance to dream: ay, there's the rub;\nFor in that sleep of death what dreams may come\nWhen we have shuffled off this mortal coil,\nMust give us pause: there's the respect\nThat makes calamity of so long life;\nFor who would bear the whips and scorns of time,\nThe oppressor's wrong, the proud man's contumely,\nThe pangs of despised love, the law's delay,\nThe insolence of office and the spurns\nThat patient merit of the unworthy takes,\nWhen he himself might his quietus make\nWith a bare bodkin? who would fardels bear,\nTo grunt and sweat under a weary life,\nBut that the dread of something after death,\nThe undiscover'd country from whose bourn\nNo traveller returns, puzzles the will\nAnd makes us rather bear those ills we have\nThan fly to others that we know not of?\nThus conscience does make cowards of us all;\nAnd thus the native hue of resolution\nIs sicklied o'er with the pale cast of thought,\nAnd enterprises of great pith and moment\nWith this regard their currents turn awry,\nAnd lose the name of action. Soft you now!\nThe fair Ophelia! Nymph, in thy orisons\nBe all my sins remember'd.\"\n\nThe speech turns on the phrase \"ay, there's the rub.\" Before it, Hamlet leans toward death; after it, he argues himself out of it. The turn works because \"To sleep: perchance to dream\" introduces",
+   "correctAnswer": "The possibility that death is not blank rest at all, but a state whose unknown contents might be worse than life's known ills",
    "distractors": [
-    "Vita Sackville-West",
-    "Rebecca West",
-    "Elizabeth Bowen"
+    "Proof that the dead are certainly punished for their sins",
+    "A memory of Ophelia that distracts Hamlet from his argument",
+    "The discovery that ending his life would be physically difficult"
    ],
-   "explanation": "Virginia Woolf wrote To the Lighthouse in 1927, her experimental modernist novel.",
-   "memoryHook": "T-Rexy says: Woolf plus Ramsays - lighthouse beam.",
-   "imageUrl": "topic:to-the-lighthouse",
+   "explanation": "A rub is an obstacle in the path. The obstacle here is knowledge: sleep might contain dreams, death might contain experience, and \"in that sleep of death what dreams may come... Must give us pause.\" Everything after - the catalogue of life's whips and scorns, the undiscovered country, the cowardice of conscience - is built on that single crack in the sleep metaphor.",
+   "memoryHook": "T-Rexy says: One word - perchance - stops the whole argument and reverses it.",
+   "imageUrl": "topic:hamlet-soliloquy",
    "tags": [
-    "novels",
-    "authors"
+    "passage analysis",
+    "drama",
+    "structure"
    ],
-   "difficulty": "medium",
+   "difficulty": "hard",
    "dynamic": false,
    "source": "original"
   },
@@ -1723,19 +1741,20 @@
   },
   {
    "id": "ELIT_088",
-   "question": "Who wrote Don Quixote?",
-   "correctAnswer": "Miguel de Cervantes",
+   "question": "Read this passage from William Shakespeare's Hamlet (c. 1603), Act III, Scene I - Hamlet's soliloquy:\n\n\"To be, or not to be: that is the question:\nWhether 'tis nobler in the mind to suffer\nThe slings and arrows of outrageous fortune,\nOr to take arms against a sea of troubles,\nAnd by opposing end them? To die: to sleep;\nNo more; and by a sleep to say we end\nThe heart-ache and the thousand natural shocks\nThat flesh is heir to, 'tis a consummation\nDevoutly to be wish'd. To die, to sleep;\nTo sleep: perchance to dream: ay, there's the rub;\nFor in that sleep of death what dreams may come\nWhen we have shuffled off this mortal coil,\nMust give us pause: there's the respect\nThat makes calamity of so long life;\nFor who would bear the whips and scorns of time,\nThe oppressor's wrong, the proud man's contumely,\nThe pangs of despised love, the law's delay,\nThe insolence of office and the spurns\nThat patient merit of the unworthy takes,\nWhen he himself might his quietus make\nWith a bare bodkin? who would fardels bear,\nTo grunt and sweat under a weary life,\nBut that the dread of something after death,\nThe undiscover'd country from whose bourn\nNo traveller returns, puzzles the will\nAnd makes us rather bear those ills we have\nThan fly to others that we know not of?\nThus conscience does make cowards of us all;\nAnd thus the native hue of resolution\nIs sicklied o'er with the pale cast of thought,\nAnd enterprises of great pith and moment\nWith this regard their currents turn awry,\nAnd lose the name of action. Soft you now!\nThe fair Ophelia! Nymph, in thy orisons\nBe all my sins remember'd.\"\n\nAccording to the speech, people endure \"the whips and scorns of time\" and the rest of life's injuries instead of ending them chiefly because of",
+   "correctAnswer": "\"The dread of something after death\" - the undiscovered country from which no traveler returns, which \"puzzles the will\"",
    "distractors": [
-    "Lope de Vega",
-    "Calderón de la Barca",
-    "Francisco de Quevedo"
+    "Their hope of being rewarded later in this life",
+    "The practical difficulty of obtaining a weapon",
+    "Their confidence that fortune will soon turn kind"
    ],
-   "explanation": "Miguel de Cervantes wrote Don Quixote in 1605 and 1615, the first modern novel.",
-   "memoryHook": "T-Rexy says: Cervantes plus windmills - Quixote tilts.",
-   "imageUrl": "topic:don-quixote",
+   "explanation": "Hamlet states the cause outright: \"But that the dread of something after death, / The undiscover'd country from whose bourn / No traveller returns, puzzles the will / And makes us rather bear those ills we have / Than fly to others that we know not of.\" Known suffering wins over unknown risk.",
+   "memoryHook": "T-Rexy says: We keep the ills we know; the unknown country keeps us.",
+   "imageUrl": "topic:hamlet-soliloquy",
    "tags": [
-    "novels",
-    "authors"
+    "passage analysis",
+    "drama",
+    "argument"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -1763,21 +1782,22 @@
   },
   {
    "id": "ELIT_090",
-   "question": "Who wrote The Trial?",
-   "correctAnswer": "Franz Kafka",
+   "question": "Read this passage from William Shakespeare's Hamlet (c. 1603), Act III, Scene I - Hamlet's soliloquy:\n\n\"To be, or not to be: that is the question:\nWhether 'tis nobler in the mind to suffer\nThe slings and arrows of outrageous fortune,\nOr to take arms against a sea of troubles,\nAnd by opposing end them? To die: to sleep;\nNo more; and by a sleep to say we end\nThe heart-ache and the thousand natural shocks\nThat flesh is heir to, 'tis a consummation\nDevoutly to be wish'd. To die, to sleep;\nTo sleep: perchance to dream: ay, there's the rub;\nFor in that sleep of death what dreams may come\nWhen we have shuffled off this mortal coil,\nMust give us pause: there's the respect\nThat makes calamity of so long life;\nFor who would bear the whips and scorns of time,\nThe oppressor's wrong, the proud man's contumely,\nThe pangs of despised love, the law's delay,\nThe insolence of office and the spurns\nThat patient merit of the unworthy takes,\nWhen he himself might his quietus make\nWith a bare bodkin? who would fardels bear,\nTo grunt and sweat under a weary life,\nBut that the dread of something after death,\nThe undiscover'd country from whose bourn\nNo traveller returns, puzzles the will\nAnd makes us rather bear those ills we have\nThan fly to others that we know not of?\nThus conscience does make cowards of us all;\nAnd thus the native hue of resolution\nIs sicklied o'er with the pale cast of thought,\nAnd enterprises of great pith and moment\nWith this regard their currents turn awry,\nAnd lose the name of action. Soft you now!\nThe fair Ophelia! Nymph, in thy orisons\nBe all my sins remember'd.\"\n\nThe closing movement - \"Thus conscience does make cowards of us all; / And thus the native hue of resolution / Is sicklied o'er with the pale cast of thought\" - completes the speech's argument by",
+   "correctAnswer": "Widening Hamlet's private dilemma into a general law: reflection itself drains the will to act, in everyone",
    "distractors": [
-    "Robert Musil",
-    "Elias Canetti",
-    "Hermann Broch"
+    "Admitting that Hamlet alone is uniquely cowardly among men",
+    "Concluding that death should be chosen after all",
+    "Blaming Ophelia's arrival for interrupting a decision"
    ],
-   "explanation": "Franz Kafka wrote The Trial, published after his death, about Josef K.'s arrest.",
-   "memoryHook": "T-Rexy says: Kafka plus trial - bureaucratic nightmare.",
-   "imageUrl": "topic:trial",
+   "explanation": "\"Conscience\" here means consciousness - thinking itself. The healthy color (\"native hue\") of resolution turns sickly under thought's \"pale cast,\" and \"enterprises of great pith and moment... lose the name of action.\" What began as one man's question ends as an account of why thought, in anyone, can prevent the very act it contemplates.",
+   "memoryHook": "T-Rexy says: The speech ends bigger than Hamlet - thinking itself is the brake.",
+   "imageUrl": "topic:hamlet-soliloquy",
    "tags": [
-    "novels",
-    "authors"
+    "passage analysis",
+    "drama",
+    "structure"
    ],
-   "difficulty": "medium",
+   "difficulty": "hard",
    "dynamic": false,
    "source": "original"
   },
@@ -1824,18 +1844,20 @@
   },
   {
    "id": "ELIT_093",
-   "question": "On the AP Literature exam, what does the third free-response question ask?",
-   "correctAnswer": "An analysis of a work of literary merit chosen by the student",
+   "question": "Read this passage from Oscar Wilde's play The Importance of Being Earnest (1895), Act I:\n\n\"Algernon. Did you hear what I was playing, Lane?\nLane. I didn't think it polite to listen, sir.\nAlgernon. I'm sorry for that, for your sake. I don't play accurately -- any one can play accurately -- but I play with wonderful expression. As far as the piano is concerned, sentiment is my forte. I keep science for Life.\n\n[...]\n\nJack. I am in love with Gwendolen. I have come up to town expressly to propose to her.\nAlgernon. I thought you had come up for pleasure? . . . I call that business.\nJack. How utterly unromantic you are!\nAlgernon. I really don't see anything romantic in proposing. It is very romantic to be in love. But there is nothing romantic about a definite proposal. Why, one may be accepted. One usually is, I believe. Then the excitement is all over. The very essence of romance is uncertainty. If ever I get married, I'll certainly try to forget the fact.\n\n[...]\n\nAlgernon. But why does your aunt call you her uncle? 'From little Cecily, with her fondest love to her dear Uncle Jack.' There is no objection, I admit, to an aunt being a small aunt, but why an aunt, no matter what her size may be, should call her own nephew her uncle, I can't quite make out. Besides, your name isn't Jack at all; it is Ernest.\nJack. It isn't Ernest; it's Jack.\nAlgernon. You have always told me it was Ernest. I have introduced you to every one as Ernest. You answer to the name of Ernest. You look as if your name was Ernest. You are the most earnest-looking person I ever saw in my life. It is perfectly absurd your saying that your name isn't Ernest. It's on your cards. Here is one of them. 'Mr. Ernest Worthing, B. 4, The Albany.'\nJack. Well, my name is Ernest in town and Jack in the country, and the cigarette case was given to me in the country.\n\n[...]\n\nJack. In fact it's perfectly ordinary. Old Mr. Thomas Cardew, who adopted me when I was a little boy, made me in his will guardian to his grand-daughter, Miss Cecily Cardew. Cecily, who addresses me as her uncle from motives of respect that you could not possibly appreciate, lives at my place in the country under the charge of her admirable governess, Miss Prism.\nJack. When one is placed in the position of guardian, one has to adopt a very high moral tone on all subjects. It's one's duty to do so. And as a high moral tone can hardly be said to conduce very much to either one's health or one's happiness, in order to get up to town I have always pretended to have a younger brother of the name of Ernest, who lives in the Albany, and gets into the most dreadful scrapes. That, my dear Algy, is the whole truth pure and simple.\nAlgernon. The truth is rarely pure and never simple.\"\n\nAlgernon's remark - \"I don't play accurately -- any one can play accurately -- but I play with wonderful expression... I keep science for Life\" - establishes him from his first lines as a character who",
+   "correctAnswer": "Values style, effect, and wit above correctness and fact",
    "distractors": [
-    "A multiple-choice grammar test",
-    "A memorized poem recitation",
-    "A vocabulary quiz"
+    "Is a serious musician devoted to technical mastery",
+    "Is ashamed of his playing and apologizes sincerely for it",
+    "Believes scientific accuracy should govern both art and life"
    ],
-   "explanation": "AP Lit Q3 is the open question, asking students to apply a theme to a novel or play of their choice.",
-   "memoryHook": "T-Rexy says: Q3 equals your choice - bring your own book.",
-   "imageUrl": "topic:ap-exam",
+   "explanation": "Accuracy is dismissed as common (\"any one can\"), expression is the boast, and the piano becomes a philosophy: in art, sentiment over science. Lane's deadpan replies underline that this is performance - Algernon is a man who lives by the well-turned line and prizes how things sound over whether they are right.",
+   "memoryHook": "T-Rexy says: For Algernon, how it sounds beats whether it is right.",
+   "imageUrl": "topic:wilde-earnest",
    "tags": [
-    "ap-exam"
+    "passage analysis",
+    "drama",
+    "character"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -1843,19 +1865,20 @@
   },
   {
    "id": "ELIT_094",
-   "question": "Who wrote Paradise Lost?",
-   "correctAnswer": "John Milton",
+   "question": "Read this passage from Oscar Wilde's play The Importance of Being Earnest (1895), Act I:\n\n\"Algernon. Did you hear what I was playing, Lane?\nLane. I didn't think it polite to listen, sir.\nAlgernon. I'm sorry for that, for your sake. I don't play accurately -- any one can play accurately -- but I play with wonderful expression. As far as the piano is concerned, sentiment is my forte. I keep science for Life.\n\n[...]\n\nJack. I am in love with Gwendolen. I have come up to town expressly to propose to her.\nAlgernon. I thought you had come up for pleasure? . . . I call that business.\nJack. How utterly unromantic you are!\nAlgernon. I really don't see anything romantic in proposing. It is very romantic to be in love. But there is nothing romantic about a definite proposal. Why, one may be accepted. One usually is, I believe. Then the excitement is all over. The very essence of romance is uncertainty. If ever I get married, I'll certainly try to forget the fact.\n\n[...]\n\nAlgernon. But why does your aunt call you her uncle? 'From little Cecily, with her fondest love to her dear Uncle Jack.' There is no objection, I admit, to an aunt being a small aunt, but why an aunt, no matter what her size may be, should call her own nephew her uncle, I can't quite make out. Besides, your name isn't Jack at all; it is Ernest.\nJack. It isn't Ernest; it's Jack.\nAlgernon. You have always told me it was Ernest. I have introduced you to every one as Ernest. You answer to the name of Ernest. You look as if your name was Ernest. You are the most earnest-looking person I ever saw in my life. It is perfectly absurd your saying that your name isn't Ernest. It's on your cards. Here is one of them. 'Mr. Ernest Worthing, B. 4, The Albany.'\nJack. Well, my name is Ernest in town and Jack in the country, and the cigarette case was given to me in the country.\n\n[...]\n\nJack. In fact it's perfectly ordinary. Old Mr. Thomas Cardew, who adopted me when I was a little boy, made me in his will guardian to his grand-daughter, Miss Cecily Cardew. Cecily, who addresses me as her uncle from motives of respect that you could not possibly appreciate, lives at my place in the country under the charge of her admirable governess, Miss Prism.\nJack. When one is placed in the position of guardian, one has to adopt a very high moral tone on all subjects. It's one's duty to do so. And as a high moral tone can hardly be said to conduce very much to either one's health or one's happiness, in order to get up to town I have always pretended to have a younger brother of the name of Ernest, who lives in the Albany, and gets into the most dreadful scrapes. That, my dear Algy, is the whole truth pure and simple.\nAlgernon. The truth is rarely pure and never simple.\"\n\nAlgernon's claim that \"the very essence of romance is uncertainty\" and that a definite proposal destroys it works as an epigram because it",
+   "correctAnswer": "Inverts common sense with a straight face: certainty, normally the goal, is made the enemy of romance, and being accepted ends the excitement",
    "distractors": [
-    "John Donne",
-    "Andrew Marvell",
-    "Alexander Pope"
+    "Reports Algernon's genuine fear that Gwendolen will refuse Jack",
+    "Offers a scientific definition of the word romance",
+    "States in a roundabout way that proposals are deeply romantic"
    ],
-   "explanation": "John Milton wrote Paradise Lost in 1667, the epic of Adam's fall.",
-   "memoryHook": "T-Rexy says: Milton plus Satan - paradise lost.",
-   "imageUrl": "topic:paradise-lost",
+   "explanation": "Wilde's epigrams run on reversal. Common sense says a proposal aims at the security of acceptance; Algernon, perfectly calm, argues that success is the disappointment - romance lives only while the answer is in doubt, which is why he would \"try to forget the fact\" of his own marriage.",
+   "memoryHook": "T-Rexy says: In Wilde, yes is the least romantic answer.",
+   "imageUrl": "topic:wilde-earnest",
    "tags": [
-    "epic",
-    "authors"
+    "passage analysis",
+    "drama",
+    "diction"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -1883,19 +1906,20 @@
   },
   {
    "id": "ELIT_096",
-   "question": "Who wrote Madame Bovary?",
-   "correctAnswer": "Gustave Flaubert",
+   "question": "Read this passage from Oscar Wilde's play The Importance of Being Earnest (1895), Act I:\n\n\"Algernon. Did you hear what I was playing, Lane?\nLane. I didn't think it polite to listen, sir.\nAlgernon. I'm sorry for that, for your sake. I don't play accurately -- any one can play accurately -- but I play with wonderful expression. As far as the piano is concerned, sentiment is my forte. I keep science for Life.\n\n[...]\n\nJack. I am in love with Gwendolen. I have come up to town expressly to propose to her.\nAlgernon. I thought you had come up for pleasure? . . . I call that business.\nJack. How utterly unromantic you are!\nAlgernon. I really don't see anything romantic in proposing. It is very romantic to be in love. But there is nothing romantic about a definite proposal. Why, one may be accepted. One usually is, I believe. Then the excitement is all over. The very essence of romance is uncertainty. If ever I get married, I'll certainly try to forget the fact.\n\n[...]\n\nAlgernon. But why does your aunt call you her uncle? 'From little Cecily, with her fondest love to her dear Uncle Jack.' There is no objection, I admit, to an aunt being a small aunt, but why an aunt, no matter what her size may be, should call her own nephew her uncle, I can't quite make out. Besides, your name isn't Jack at all; it is Ernest.\nJack. It isn't Ernest; it's Jack.\nAlgernon. You have always told me it was Ernest. I have introduced you to every one as Ernest. You answer to the name of Ernest. You look as if your name was Ernest. You are the most earnest-looking person I ever saw in my life. It is perfectly absurd your saying that your name isn't Ernest. It's on your cards. Here is one of them. 'Mr. Ernest Worthing, B. 4, The Albany.'\nJack. Well, my name is Ernest in town and Jack in the country, and the cigarette case was given to me in the country.\n\n[...]\n\nJack. In fact it's perfectly ordinary. Old Mr. Thomas Cardew, who adopted me when I was a little boy, made me in his will guardian to his grand-daughter, Miss Cecily Cardew. Cecily, who addresses me as her uncle from motives of respect that you could not possibly appreciate, lives at my place in the country under the charge of her admirable governess, Miss Prism.\nJack. When one is placed in the position of guardian, one has to adopt a very high moral tone on all subjects. It's one's duty to do so. And as a high moral tone can hardly be said to conduce very much to either one's health or one's happiness, in order to get up to town I have always pretended to have a younger brother of the name of Ernest, who lives in the Albany, and gets into the most dreadful scrapes. That, my dear Algy, is the whole truth pure and simple.\nAlgernon. The truth is rarely pure and never simple.\"\n\nThe cigarette case drives the scene's conflict because its inscription - \"From little Cecily, with her fondest love to her dear Uncle Jack\" - gives Algernon evidence that",
+   "correctAnswer": "Jack's story does not add up: the supposed aunt at Tunbridge Wells is somehow a \"little Cecily\" who calls her own nephew her uncle",
    "distractors": [
-    "Emile Zola",
-    "Honore de Balzac",
-    "Stendhal"
+    "The cigarette case was stolen from Algernon's flat",
+    "Jack is engaged to be married to a woman named Cecily",
+    "The visiting cards in the case must be forgeries"
    ],
-   "explanation": "Gustave Flaubert wrote Madame Bovary in 1857, the realist novel of Emma Bovary.",
-   "memoryHook": "T-Rexy says: Flaubert plus Emma - Bovary realism.",
-   "imageUrl": "topic:madame-bovary",
+   "explanation": "Algernon cross-examines like a lawyer with one exhibit: an aunt who is \"little,\" and a nephew addressed as \"uncle.\" Each contradiction squeezes Jack until the double life - Ernest in town, Jack in the country, and a young ward named Cecily - has to be confessed.",
+   "memoryHook": "T-Rexy says: One inscription, two impossibilities - a little aunt and an uncle-nephew.",
+   "imageUrl": "topic:wilde-earnest",
    "tags": [
-    "novels",
-    "authors"
+    "passage analysis",
+    "drama",
+    "character"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -1938,7 +1962,7 @@
     "prose fiction",
     "symbolism"
    ],
-   "difficulty": "medium",
+   "difficulty": "hard",
    "dynamic": false,
    "source": "original"
   },
@@ -1964,20 +1988,22 @@
   },
   {
    "id": "ELIT_100",
-   "question": "How many free-response questions are on the AP English Literature exam?",
-   "correctAnswer": "Three",
+   "question": "Read this passage from Oscar Wilde's play The Importance of Being Earnest (1895), Act I:\n\n\"Algernon. Did you hear what I was playing, Lane?\nLane. I didn't think it polite to listen, sir.\nAlgernon. I'm sorry for that, for your sake. I don't play accurately -- any one can play accurately -- but I play with wonderful expression. As far as the piano is concerned, sentiment is my forte. I keep science for Life.\n\n[...]\n\nJack. I am in love with Gwendolen. I have come up to town expressly to propose to her.\nAlgernon. I thought you had come up for pleasure? . . . I call that business.\nJack. How utterly unromantic you are!\nAlgernon. I really don't see anything romantic in proposing. It is very romantic to be in love. But there is nothing romantic about a definite proposal. Why, one may be accepted. One usually is, I believe. Then the excitement is all over. The very essence of romance is uncertainty. If ever I get married, I'll certainly try to forget the fact.\n\n[...]\n\nAlgernon. But why does your aunt call you her uncle? 'From little Cecily, with her fondest love to her dear Uncle Jack.' There is no objection, I admit, to an aunt being a small aunt, but why an aunt, no matter what her size may be, should call her own nephew her uncle, I can't quite make out. Besides, your name isn't Jack at all; it is Ernest.\nJack. It isn't Ernest; it's Jack.\nAlgernon. You have always told me it was Ernest. I have introduced you to every one as Ernest. You answer to the name of Ernest. You look as if your name was Ernest. You are the most earnest-looking person I ever saw in my life. It is perfectly absurd your saying that your name isn't Ernest. It's on your cards. Here is one of them. 'Mr. Ernest Worthing, B. 4, The Albany.'\nJack. Well, my name is Ernest in town and Jack in the country, and the cigarette case was given to me in the country.\n\n[...]\n\nJack. In fact it's perfectly ordinary. Old Mr. Thomas Cardew, who adopted me when I was a little boy, made me in his will guardian to his grand-daughter, Miss Cecily Cardew. Cecily, who addresses me as her uncle from motives of respect that you could not possibly appreciate, lives at my place in the country under the charge of her admirable governess, Miss Prism.\nJack. When one is placed in the position of guardian, one has to adopt a very high moral tone on all subjects. It's one's duty to do so. And as a high moral tone can hardly be said to conduce very much to either one's health or one's happiness, in order to get up to town I have always pretended to have a younger brother of the name of Ernest, who lives in the Albany, and gets into the most dreadful scrapes. That, my dear Algy, is the whole truth pure and simple.\nAlgernon. The truth is rarely pure and never simple.\"\n\nJack explains that being a guardian forced him to \"adopt a very high moral tone,\" so he invented a wicked younger brother, Ernest, as his excuse for trips to town. Taken with Algernon's reply that \"the truth is rarely pure and never simple,\" the exchange exposes the play's central mechanism:",
+   "correctAnswer": "Respectability is preserved by invention - the fiction of Ernest lets Jack keep a spotless public identity while living as he pleases, so the respectable truth is itself a kind of lie",
    "distractors": [
-    "One",
-    "Two",
-    "Five"
+    "Guardians of the period were legally required to invent younger brothers",
+    "Jack's real younger brother Ernest will arrive later to resolve the plot",
+    "Algernon believes Jack's explanation completely and drops the matter"
    ],
-   "explanation": "The AP Literature exam has three free-response questions: two prose/poetry analyses and one open question.",
-   "memoryHook": "T-Rexy says: three essays - AP Lit free response.",
-   "imageUrl": "topic:ap-exam",
+   "explanation": "The high moral tone is real only as a performance: it requires a fictional scapegoat brother to absorb the behavior the tone forbids. Algernon's epigram supplies the verdict - in this world the truth about anyone is manufactured, and the play's comedy runs on maintaining the manufacture.",
+   "memoryHook": "T-Rexy says: Ernest exists so that Jack can be respectable - that is the joke and the point.",
+   "imageUrl": "topic:wilde-earnest",
    "tags": [
-    "ap-exam"
+    "passage analysis",
+    "drama",
+    "structure"
    ],
-   "difficulty": "easy",
+   "difficulty": "hard",
    "dynamic": false,
    "source": "original"
   }
