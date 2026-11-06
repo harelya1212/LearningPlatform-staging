@@ -22,14 +22,14 @@
         "A computer screen",
         "A power cable"
       ],
-      "explanation": "Programs tell computers what to do, step by step.",
+      "explanation": "A program is a list of steps written in code; the computer reads the code and carries out each step in order.",
       "memoryHook": "T-Rexy says: Programs are instructions.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "coding",
         "basics"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -49,7 +49,7 @@
         "computers",
         "basics"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -69,7 +69,7 @@
         "computers",
         "basics"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -102,14 +102,14 @@
         "It connects to the internet",
         "It prints documents"
       ],
-      "explanation": "RAM is short-term memory for active work.",
+      "explanation": "RAM only holds data while the computer is on, so it is fast but small; when you open an app, its data is loaded into RAM.",
       "memoryHook": "T-Rexy says: RAM is short-term memory.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "computers",
         "hardware"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -129,7 +129,7 @@
         "computers",
         "hardware"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -149,7 +149,7 @@
         "computers",
         "software"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -169,7 +169,7 @@
         "computers",
         "files"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -182,14 +182,14 @@
         "A hardware part",
         "A web page"
       ],
-      "explanation": "Folders group related files together.",
+      "explanation": "Folders are named boxes on a drive, and folders can hold other folders, so you can build a tree like School > Math > Homework.",
       "memoryHook": "T-Rexy says: Folders organize files.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "computers",
         "files"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -202,34 +202,34 @@
         "Printed Document Format",
         "Public Data File"
       ],
-      "explanation": "PDF is a common format for documents.",
+      "explanation": "PDFs keep the same layout on any device, which is why teachers send worksheets and forms as PDFs.",
       "memoryHook": "T-Rexy says: PDF is Portable Document Format.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "computers",
         "files"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "DIG8_011",
-      "question": "What does .jpg stand for?",
+      "question": "What is a .jpg file?",
       "correctAnswer": "A common image file format",
       "distractors": [
         "A video format",
         "A text format",
         "A sound format"
       ],
-      "explanation": "JPG files store photos and images.",
+      "explanation": "JPG squeezes photo data into a small file, so photos load fast online, but saving a JPG again and again slowly lowers its quality.",
       "memoryHook": "T-Rexy says: JPG is for images.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "computers",
         "files"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -242,14 +242,14 @@
         "A type of software",
         "A phone only"
       ],
-      "explanation": "The internet links computers around the world.",
+      "explanation": "The internet is made of millions of connected computers and cables under the sea; no single company owns it.",
       "memoryHook": "T-Rexy says: The internet links computers.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "internet",
         "basics"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -269,7 +269,7 @@
         "internet",
         "browsers"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -289,7 +289,7 @@
         "internet",
         "search"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -302,14 +302,14 @@
         "A username",
         "A file name"
       ],
-      "explanation": "A URL tells the browser where to find a page.",
+      "explanation": "A URL has parts: the protocol (https://), the domain (like google.com), and the path to the exact page.",
       "memoryHook": "T-Rexy says: A URL is a web address.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "internet",
         "basics"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -329,7 +329,7 @@
         "internet",
         "basics"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -342,14 +342,14 @@
         "More ads",
         "A different language"
       ],
-      "explanation": "HTTPS encrypts data between you and the site.",
+      "explanation": "HTTPS uses encryption, so anyone spying on the network sees scrambled data instead of your passwords; look for the padlock icon.",
       "memoryHook": "T-Rexy says: HTTPS means secure.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "internet",
         "security"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -362,14 +362,14 @@
         "The word password",
         "Your pet's name"
       ],
-      "explanation": "Strong passwords are long, mixed, and private.",
+      "explanation": "A long password is hard to guess because every extra character multiplies the combinations; a password manager can create and store one for you.",
       "memoryHook": "T-Rexy says: Strong passwords are long and private.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "security",
         "passwords"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -389,7 +389,7 @@
         "security",
         "passwords"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -409,7 +409,7 @@
         "security",
         "phishing"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -429,7 +429,7 @@
         "security",
         "phishing"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -502,14 +502,14 @@
         "A web browser",
         "A password manager"
       ],
-      "explanation": "Firewalls filter traffic to keep intruders out.",
+      "explanation": "A firewall checks every message coming in or out and drops the ones that break its rules, like a guard at a gate.",
       "memoryHook": "T-Rexy says: Firewalls block intruders.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "security",
         "networks"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -529,7 +529,7 @@
         "security",
         "networks"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -549,7 +549,7 @@
         "security",
         "privacy"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -569,7 +569,7 @@
         "digital-citizenship",
         "privacy"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -589,7 +589,7 @@
         "digital-citizenship",
         "bullying"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -609,7 +609,7 @@
         "digital-citizenship",
         "bullying"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -629,7 +629,7 @@
         "digital-citizenship",
         "copyright"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -642,7 +642,7 @@
         "To delete a source",
         "To hide a source"
       ],
-      "explanation": "Citing shows where you found facts and ideas.",
+      "explanation": "A citation lists the author, title, and date, so a reader can find the same source and check your facts.",
       "memoryHook": "T-Rexy says: Cite to give credit.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
@@ -662,7 +662,7 @@
         "Writing your own ideas",
         "Citing a source"
       ],
-      "explanation": "Plagiarism is copying work and presenting it as your own.",
+      "explanation": "Copying a paragraph and changing a few words is still plagiarism; only your own words and ideas, or a proper quote with credit, are safe.",
       "memoryHook": "T-Rexy says: Plagiarism is copying without credit.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
@@ -682,14 +682,14 @@
         "A random social media post",
         "A site with no author"
       ],
-      "explanation": "Reliable sources show evidence and come from experts.",
+      "explanation": "Check who wrote it, when it was written, and whether other trusted sources agree; a page with no author or date is a warning sign.",
       "memoryHook": "T-Rexy says: Reliable sources show evidence.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "research",
         "media-literacy"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -702,14 +702,14 @@
         "A news story with an opinion",
         "A news story from another country"
       ],
-      "explanation": "Fake news is made to mislead readers.",
+      "explanation": "Fake news often uses shocking headlines and made-up quotes to get clicks; check the story on a known news site before you believe it.",
       "memoryHook": "T-Rexy says: Fake news misleads.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "research",
         "media-literacy"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -729,7 +729,7 @@
         "research",
         "media-literacy"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -749,7 +749,7 @@
         "coding",
         "algorithms"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -769,7 +769,7 @@
         "coding",
         "variables"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -822,14 +822,14 @@
         "A web page",
         "A computer virus"
       ],
-      "explanation": "Functions let you reuse code without rewriting it.",
+      "explanation": "A function has a name and takes inputs; calling it by name runs the same steps again, so one fix repairs every place that uses it.",
       "memoryHook": "T-Rexy says: Functions reuse code.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "coding",
         "functions"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -842,14 +842,14 @@
         "A type of hardware",
         "A kind of file"
       ],
-      "explanation": "Bugs make programs act wrong.",
+      "explanation": "A bug can be a typo, a wrong number, or a step in the wrong order; even one wrong character can stop a whole program.",
       "memoryHook": "T-Rexy says: Bugs are errors.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "coding",
         "debugging"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -862,7 +862,7 @@
         "Deleting a program",
         "Copying code"
       ],
-      "explanation": "Debugging tests code and fixes mistakes.",
+      "explanation": "Debuggers test small pieces, print values to see what the program really does, and fix one error at a time.",
       "memoryHook": "T-Rexy says: Debugging fixes errors.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
@@ -889,7 +889,7 @@
         "coding",
         "binary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -902,14 +902,14 @@
         "A type of file",
         "A computer program"
       ],
-      "explanation": "A bit is one binary digit.",
+      "explanation": "Eight bits make one byte, and every letter, number, and color on screen is stored as a pattern of bits.",
       "memoryHook": "T-Rexy says: A bit is 0 or 1.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "coding",
         "binary"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -922,7 +922,7 @@
         "16",
         "10"
       ],
-      "explanation": "A byte is 8 bits.",
+      "explanation": "Eight bits make one byte, and a byte can store one character, like the letter A.",
       "memoryHook": "T-Rexy says: A byte is 8 bits.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
@@ -949,7 +949,7 @@
         "computers",
         "graphics"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -962,7 +962,7 @@
         "A type of hardware",
         "A kind of virus"
       ],
-      "explanation": "Cloud storage keeps files on remote servers.",
+      "explanation": "Your files live on a company's servers, so you can open them from any device, but you need internet and the company's account to reach them.",
       "memoryHook": "T-Rexy says: Cloud storage is online.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
@@ -982,7 +982,7 @@
         "A kind of password",
         "A web page"
       ],
-      "explanation": "Backups protect you from losing work.",
+      "explanation": "Keep a second copy somewhere else, like a USB drive or the cloud, so one broken device cannot take your work with it.",
       "memoryHook": "T-Rexy says: Backups save your work.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
@@ -1002,7 +1002,7 @@
         "To share passwords",
         "To slow down your computer"
       ],
-      "explanation": "Backups let you restore lost files.",
+      "explanation": "Devices break, files get deleted by mistake, and viruses can lock files; a backup is the only way to get them back.",
       "memoryHook": "T-Rexy says: Backups protect your files.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
@@ -1022,14 +1022,14 @@
         "A web page only",
         "A social media app"
       ],
-      "explanation": "Email lets you send and receive messages.",
+      "explanation": "Email travels from your provider's server to the other person's server, which is why it arrives even when their computer is off.",
       "memoryHook": "T-Rexy says: Email sends messages.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "internet",
         "communication"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1062,7 +1062,7 @@
         "A web browser",
         "A kind of file"
       ],
-      "explanation": "Social media accounts let you post and follow others.",
+      "explanation": "An account has a username, a password, and privacy settings; what you post under it can be seen by anyone you allow to follow you.",
       "memoryHook": "T-Rexy says: Social media connects people.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
@@ -1089,7 +1089,7 @@
         "digital-citizenship",
         "social-media"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1102,7 +1102,7 @@
         "A kind of virus",
         "A web browser"
       ],
-      "explanation": "Netiquette means being polite and respectful online.",
+      "explanation": "Netiquette also means not typing in ALL CAPS, which reads as shouting, and not sharing other people's photos without asking.",
       "memoryHook": "T-Rexy says: Netiquette is online manners.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
@@ -1208,7 +1208,7 @@
         "data",
         "basics"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1221,14 +1221,14 @@
         "A type of hardware",
         "A web browser"
       ],
-      "explanation": "AI learns patterns from data to predict or decide.",
+      "explanation": "AI does not understand like a person; it finds patterns in huge amounts of examples and guesses the most likely answer.",
       "memoryHook": "T-Rexy says: AI learns from data.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "ai",
         "basics"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1248,7 +1248,7 @@
         "ai",
         "basics"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1261,7 +1261,7 @@
         "A hardware device",
         "A kind of file"
       ],
-      "explanation": "Chatbots answer questions and help users.",
+      "explanation": "A chatbot matches your words to answers it was trained on; it can sound sure even when it is wrong, so check important answers.",
       "memoryHook": "T-Rexy says: Chatbots talk with people.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
@@ -1288,7 +1288,7 @@
         "ai",
         "media-literacy"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1301,7 +1301,7 @@
         "A kind of virus",
         "A web browser"
       ],
-      "explanation": "Scanning a QR code opens a link or shows data.",
+      "explanation": "A QR code stores a link in black and white squares; your phone camera reads the pattern and opens the link.",
       "memoryHook": "T-Rexy says: QR codes link to information.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
@@ -1321,7 +1321,7 @@
         "A web browser",
         "A kind of file"
       ],
-      "explanation": "Wi-Fi lets devices connect without wires.",
+      "explanation": "Wi-Fi uses radio waves, so walls and distance weaken the signal; that is why the connection is faster near the router.",
       "memoryHook": "T-Rexy says: Wi-Fi connects wirelessly.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
@@ -1348,7 +1348,7 @@
         "internet",
         "networks"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1361,14 +1361,14 @@
         "The web is the network",
         "The internet is a web page"
       ],
-      "explanation": "The web is one service that runs on the internet.",
+      "explanation": "The internet also carries email, games, and video calls; the web is only the pages you open in a browser.",
       "memoryHook": "T-Rexy says: The web runs on the internet.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "internet",
         "basics"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1381,7 +1381,7 @@
         "Deleting a file",
         "Printing a file"
       ],
-      "explanation": "Downloads bring files to your device.",
+      "explanation": "A download copies the file, so the original stays on the server and you get your own copy on your device.",
       "memoryHook": "T-Rexy says: Downloads bring files to you.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
@@ -1401,7 +1401,7 @@
         "Deleting a file",
         "Printing a file"
       ],
-      "explanation": "Uploads send files from your device.",
+      "explanation": "An upload sends your copy to a server, which is how photos reach social media and homework reaches your teacher.",
       "memoryHook": "T-Rexy says: Uploads send files out.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
@@ -1428,7 +1428,7 @@
         "internet",
         "privacy"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1448,7 +1448,7 @@
         "internet",
         "browsers"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1481,14 +1481,14 @@
         "A web browser",
         "A kind of file"
       ],
-      "explanation": "Antivirus scans files and blocks threats.",
+      "explanation": "Antivirus compares files to a list of known malware and watches for suspicious behavior, then quarantines anything it catches.",
       "memoryHook": "T-Rexy says: Antivirus blocks malware.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "security",
         "malware"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1507,7 +1507,7 @@
       "tags": [
         "digital-citizenship"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1547,7 +1547,7 @@
         "computers",
         "basics"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1560,14 +1560,14 @@
         "Cuts",
         "Undoes"
       ],
-      "explanation": "Ctrl+C copies the selection.",
+      "explanation": "Ctrl+C copies to the clipboard, a hidden holding spot; the original text stays where it was.",
       "memoryHook": "T-Rexy says: Ctrl+C copies.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "computers",
         "shortcuts"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1580,14 +1580,14 @@
         "Cuts",
         "Undoes"
       ],
-      "explanation": "Ctrl+V pastes what you copied.",
+      "explanation": "Ctrl+V drops the clipboard copy at the cursor; you can paste the same copy many times until you copy something else.",
       "memoryHook": "T-Rexy says: Ctrl+V pastes.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "computers",
         "shortcuts"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1600,14 +1600,14 @@
         "Pastes",
         "Saves"
       ],
-      "explanation": "Ctrl+Z undoes a mistake.",
+      "explanation": "Ctrl+Z steps back through your last changes one at a time; pressing it again undoes the change before that.",
       "memoryHook": "T-Rexy says: Ctrl+Z undoes.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "computers",
         "shortcuts"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1620,14 +1620,14 @@
         "Pastes",
         "Undoes"
       ],
-      "explanation": "Ctrl+S saves your work.",
+      "explanation": "Ctrl+S writes your work to the file on disk; without saving, a crash loses everything since the last save.",
       "memoryHook": "T-Rexy says: Ctrl+S saves.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "computers",
         "shortcuts"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1660,14 +1660,14 @@
         "A computer virus",
         "A web page"
       ],
-      "explanation": "Screenshots capture the screen image.",
+      "explanation": "A screenshot saves exactly what is on screen as an image file, which is handy for showing an error to a teacher.",
       "memoryHook": "T-Rexy says: Screenshots capture the screen.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "computers",
         "basics"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1687,7 +1687,7 @@
         "internet",
         "basics"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1700,14 +1700,14 @@
         "A username",
         "A file name"
       ],
-      "explanation": "Domain names are easy-to-read web addresses.",
+      "explanation": "A domain name is rented, not owned forever; the owner pays each year to keep using it.",
       "memoryHook": "T-Rexy says: Domains are readable addresses.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "internet",
         "basics"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1727,7 +1727,7 @@
         "internet",
         "networks"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1747,7 +1747,7 @@
         "internet",
         "networks"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1767,7 +1767,7 @@
         "internet",
         "networks"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1780,14 +1780,14 @@
         "Software with no code",
         "Software that is secret"
       ],
-      "explanation": "Open source lets anyone inspect and improve the code.",
+      "explanation": "Open source code is public, so anyone can read it, report bugs, or suggest fixes; Linux and Firefox are open source.",
       "memoryHook": "T-Rexy says: Open source is free to view.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "computers",
         "software"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1800,14 +1800,14 @@
         "A person who uses apps only",
         "A person who sells computers"
       ],
-      "explanation": "Programmers write instructions for computers.",
+      "explanation": "Programmers also test, fix bugs, and read other people's code; writing the first draft is only part of the job.",
       "memoryHook": "T-Rexy says: Programmers write code.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "coding",
         "basics"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1820,14 +1820,14 @@
         "A kind of file",
         "A web page"
       ],
-      "explanation": "Flowcharts map decisions and steps visually.",
+      "explanation": "A flowchart uses shapes: ovals for start and end, rectangles for steps, and diamonds for yes-or-no decisions.",
       "memoryHook": "T-Rexy says: Flowcharts map steps.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "coding",
         "algorithms"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1840,14 +1840,14 @@
         "A type of hardware",
         "A kind of file"
       ],
-      "explanation": "Pseudocode plans code in everyday words.",
+      "explanation": "Pseudocode uses plain words like 'if the score is over 10, show You win', so you can plan the logic before writing real code.",
       "memoryHook": "T-Rexy says: Pseudocode plans in plain words.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "coding",
         "algorithms"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1860,14 +1860,14 @@
         "A word only",
         "A color only"
       ],
-      "explanation": "Booleans are true or false values.",
+      "explanation": "Booleans come from true-or-false questions, like 'is the player alive?'; they control if-statements and loops.",
       "memoryHook": "T-Rexy says: Booleans are true or false.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "coding",
         "data-types"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1887,7 +1887,7 @@
         "coding",
         "data-types"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1900,14 +1900,14 @@
         "Text",
         "True or false"
       ],
-      "explanation": "Integers are whole numbers without decimals.",
+      "explanation": "Integers cannot hold fractions, so 7 divided by 2 in integer math gives 3, not 3.5.",
       "memoryHook": "T-Rexy says: Integers are whole numbers.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "coding",
         "data-types"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1920,14 +1920,14 @@
         "A type of loop",
         "A kind of file"
       ],
-      "explanation": "Lists store many values in order.",
+      "explanation": "A list keeps items in order and numbers them from 0, so the first item is at position 0, not 1.",
       "memoryHook": "T-Rexy says: Lists store many items.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "coding",
         "data-types"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1960,14 +1960,14 @@
         "A type of file",
         "A social media feed"
       ],
-      "explanation": "Search results list pages that match your words.",
+      "explanation": "A results page ranks links by relevance; the top results are often ads, marked as sponsored.",
       "memoryHook": "T-Rexy says: Results list matching pages.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
         "internet",
         "search"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1980,7 +1980,7 @@
         "Use only capital letters",
         "Search without keywords"
       ],
-      "explanation": "Specific words and quotes narrow results.",
+      "explanation": "Quotes force the exact phrase, and a minus sign drops a word, like cats -musical to skip the show.",
       "memoryHook": "T-Rexy says: Specific keywords find better results.",
       "imageUrl": "topic:digital-literacy",
       "tags": [
@@ -2007,7 +2007,7 @@
         "internet",
         "browsers"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     }
