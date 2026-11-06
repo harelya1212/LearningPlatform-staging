@@ -89,7 +89,7 @@
         "cells",
         "organelles"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -102,7 +102,7 @@
         "Ribosome",
         "Cytoplasm"
       ],
-      "explanation": "DNA is stored in the nucleus.",
+      "explanation": "The nucleus is a membrane-wrapped control center that protects the cell's DNA; ribosomes and cytoplasm only use copies of its instructions.",
       "memoryHook": "T-Rexy says: DNA lives in the nucleus.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -160,7 +160,7 @@
       "distractors": [
         "Melanin",
         "Hemoglobin",
-        "Carotene"
+        "Anthocyanin"
       ],
       "explanation": "Chlorophyll absorbs light for photosynthesis.",
       "memoryHook": "T-Rexy says: Chlorophyll makes plants green.",
@@ -202,14 +202,14 @@
         "Nitrogen",
         "Helium"
       ],
-      "explanation": "Photosynthesis releases oxygen as a byproduct.",
+      "explanation": "The oxygen comes from splitting water molecules inside the chloroplast, so it is released as a leftover byproduct.",
       "memoryHook": "T-Rexy says: Plants give off oxygen.",
       "imageUrl": "topic:biology",
       "tags": [
         "photosynthesis",
         "plants"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -229,7 +229,7 @@
         "photosynthesis",
         "plants"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -242,7 +242,7 @@
         "Nucleus",
         "Vacuole"
       ],
-      "explanation": "Photosynthesis happens in chloroplasts.",
+      "explanation": "Chloroplasts contain the green pigment chlorophyll, which is why photosynthesis can only happen in this organelle.",
       "memoryHook": "T-Rexy says: Photosynthesis happens in chloroplasts.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -259,7 +259,7 @@
       "correctAnswer": "Cellular respiration",
       "distractors": [
         "Photosynthesis",
-        "Fermentation only",
+        "Osmosis",
         "Mitosis"
       ],
       "explanation": "Cellular respiration breaks down glucose to release ATP energy.",
@@ -282,7 +282,7 @@
         "Nucleus",
         "Ribosome"
       ],
-      "explanation": "Most cellular respiration happens in mitochondria.",
+      "explanation": "Glycolysis starts in the cytoplasm, but the steps that release most ATP finish inside the mitochondria.",
       "memoryHook": "T-Rexy says: Respiration happens in mitochondria.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -322,7 +322,7 @@
         "Amino triphosphate",
         "Adenine triphosphate"
       ],
-      "explanation": "ATP stands for adenosine triphosphate.",
+      "explanation": "The name breaks down as adenosine plus tri-, meaning three: ATP carries three phosphate groups, and breaking one off releases energy.",
       "memoryHook": "T-Rexy says: ATP is adenosine triphosphate.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -362,7 +362,7 @@
         "Diribonucleic acid",
         "Deoxynucleic acid"
       ],
-      "explanation": "DNA stands for deoxyribonucleic acid.",
+      "explanation": "The name comes from its sugar: deoxyribose, a ribose sugar missing one oxygen atom, built into a nucleic acid.",
       "memoryHook": "T-Rexy says: DNA is deoxyribonucleic acid.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -422,7 +422,7 @@
         "Glucose",
         "Fructose"
       ],
-      "explanation": "DNA contains the sugar deoxyribose.",
+      "explanation": "Deoxyribose is a five-carbon sugar; its name means it is ribose with one less oxygen atom ('deoxy').",
       "memoryHook": "T-Rexy says: DNA sugar is deoxyribose.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -442,7 +442,7 @@
         "Glucose",
         "Sucrose"
       ],
-      "explanation": "RNA contains the sugar ribose.",
+      "explanation": "Ribose is the five-carbon sugar in every RNA nucleotide; DNA swaps it for deoxyribose, which has one less oxygen.",
       "memoryHook": "T-Rexy says: RNA sugar is ribose.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -482,7 +482,7 @@
         "Replication",
         "Mitosis"
       ],
-      "explanation": "Transcription copies a DNA sequence into RNA.",
+      "explanation": "During transcription, RNA polymerase unzips one gene of DNA and builds a matching messenger RNA copy in the nucleus.",
       "memoryHook": "T-Rexy says: Transcription writes DNA into RNA.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -502,7 +502,7 @@
         "Replication",
         "Photosynthesis"
       ],
-      "explanation": "Translation reads RNA to assemble a protein.",
+      "explanation": "During translation, a ribosome reads the mRNA code three bases at a time while tRNAs deliver the matching amino acids.",
       "memoryHook": "T-Rexy says: Translation builds the protein.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -522,7 +522,7 @@
         "A type of cell",
         "A protein molecule"
       ],
-      "explanation": "A gene is a DNA segment with instructions for a protein.",
+      "explanation": "Genes are lined up along chromosomes; humans have about 20,000 genes, each with the instructions for one protein.",
       "memoryHook": "T-Rexy says: A gene is a recipe for a protein.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -542,7 +542,7 @@
         "A cell organelle",
         "A mutated protein"
       ],
-      "explanation": "Alleles are different versions of the same gene.",
+      "explanation": "For example, the flower-color gene in pea plants has a purple allele and a white allele - same gene, different versions.",
       "memoryHook": "T-Rexy says: Alleles are versions of a gene.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -562,7 +562,7 @@
         "One allele only",
         "No alleles"
       ],
-      "explanation": "Homozygous means the two alleles are the same.",
+      "explanation": "Homozygous means both copies match, like BB or bb; 'homo' means same, so the organism always passes that allele to offspring.",
       "memoryHook": "T-Rexy says: Homo means same.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -582,7 +582,7 @@
         "One dominant allele only",
         "Two chromosomes"
       ],
-      "explanation": "Heterozygous means the two alleles differ.",
+      "explanation": "Heterozygous means the two copies differ, like Bb; 'hetero' means different, and the dominant one usually shows.",
       "memoryHook": "T-Rexy says: Hetero means different.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -602,7 +602,7 @@
         "Silent",
         "Neutral"
       ],
-      "explanation": "A dominant allele shows its trait even with one copy.",
+      "explanation": "Dominant alleles are written with capital letters, like B, because one copy is enough to mask a recessive allele.",
       "memoryHook": "T-Rexy says: Dominant wins with one copy.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -642,7 +642,7 @@
         "Homozygous dominant",
         "Codominant"
       ],
-      "explanation": "Two recessive alleles means homozygous recessive.",
+      "explanation": "Two recessive alleles are written bb: homozygous because the alleles match, recessive because both are the lowercase form.",
       "memoryHook": "T-Rexy says: Two recessives means homozygous recessive.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -662,7 +662,7 @@
         "Counting chromosomes",
         "Mapping DNA"
       ],
-      "explanation": "A Punnett square predicts possible offspring genotypes.",
+      "explanation": "You write one parent's alleles across the top and the other parent's down the side, then fill each box with the offspring's possible genotype.",
       "memoryHook": "T-Rexy says: A Punnett square predicts kids' genes.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -689,7 +689,7 @@
         "genetics",
         "punnett"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -722,7 +722,7 @@
         "4",
         "8"
       ],
-      "explanation": "Mitosis ends with two daughter cells.",
+      "explanation": "One parent cell divides once in mitosis, which is how your body grows and repairs wounds with two identical cells.",
       "memoryHook": "T-Rexy says: Mitosis makes two.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -749,7 +749,7 @@
         "cells",
         "meiosis"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -822,14 +822,14 @@
         "A protein in the cytoplasm",
         "A sugar molecule"
       ],
-      "explanation": "Chromosomes are DNA wrapped with proteins.",
+      "explanation": "Chromosomes are long DNA strands coiled around histone proteins; each one carries hundreds of genes in the nucleus.",
       "memoryHook": "T-Rexy says: Chromosomes hold DNA.",
       "imageUrl": "topic:biology",
       "tags": [
         "genetics",
         "chromosomes"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -889,7 +889,7 @@
         "cells",
         "plants"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -902,14 +902,14 @@
         "Chlorophyll",
         "Plasma"
       ],
-      "explanation": "Cytoplasm is the gel where organelles sit.",
+      "explanation": "Cytoplasm is mostly water with salts and proteins; all the organelles are suspended in it, and many reactions happen there.",
       "memoryHook": "T-Rexy says: Cytoplasm is the cell jelly.",
       "imageUrl": "topic:biology",
       "tags": [
         "cells",
         "basics"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -942,7 +942,7 @@
         "A waste disposal unit",
         "A light-capturing organelle"
       ],
-      "explanation": "The endoplasmic reticulum is a transport network in the cell.",
+      "explanation": "The rough ER is studded with ribosomes and folds new proteins, while the smooth ER builds lipids; both ship materials in vesicles.",
       "memoryHook": "T-Rexy says: The ER is the cell's highway.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -969,7 +969,7 @@
         "biochemistry",
         "molecules"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -982,7 +982,7 @@
         "Protein",
         "Nucleic acid"
       ],
-      "explanation": "Carbohydrates are the body's quick energy source.",
+      "explanation": "Carbohydrates like glucose and starch are broken down first for fuel, before the body taps into fats or proteins.",
       "memoryHook": "T-Rexy says: Carbs are quick energy.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1002,7 +1002,7 @@
         "Protein",
         "Nucleic acid"
       ],
-      "explanation": "Lipids store energy and form cell membranes.",
+      "explanation": "Lipids are fats and oils; their tails form the double-layer membrane around every cell, and fat stores more than twice the energy of carbohydrates.",
       "memoryHook": "T-Rexy says: Lipids store energy and build membranes.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1022,7 +1022,7 @@
         "Lipid",
         "Starch"
       ],
-      "explanation": "Proteins are built from amino acids.",
+      "explanation": "A protein is a folded chain of amino acids; changing even one amino acid can change the protein's shape and job.",
       "memoryHook": "T-Rexy says: Proteins are made of amino acids.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1042,7 +1042,7 @@
         "Nucleotide",
         "Fatty acid"
       ],
-      "explanation": "Amino acids link together to form proteins.",
+      "explanation": "Amino acids are small molecules that join in long chains called polypeptides, which then fold into working proteins.",
       "memoryHook": "T-Rexy says: Amino acids are protein building blocks.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1062,7 +1062,7 @@
         "Glucose",
         "Fatty acid"
       ],
-      "explanation": "Nucleotides link together to form DNA.",
+      "explanation": "Each nucleotide has three parts - a sugar, a phosphate, and a base (A, T, C, or G) - and millions link into one DNA strand.",
       "memoryHook": "T-Rexy says: Nucleotides build DNA.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1109,7 +1109,7 @@
         "biochemistry",
         "enzymes"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1122,14 +1122,14 @@
         "Cell division",
         "Making energy"
       ],
-      "explanation": "Homeostasis is maintaining stable internal conditions.",
+      "explanation": "Homeostasis uses feedback: when body temperature rises you sweat, and when it falls you shiver, keeping the inside near 37 degrees Celsius.",
       "memoryHook": "T-Rexy says: Homeostasis keeps things steady inside.",
       "imageUrl": "topic:biology",
       "tags": [
         "biology",
         "homeostasis"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1169,7 +1169,7 @@
         "human-body",
         "blood"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1182,7 +1182,7 @@
         "Clotting blood",
         "Carrying nutrients"
       ],
-      "explanation": "White blood cells defend the body against infection.",
+      "explanation": "White blood cells are the immune system's defenders: some swallow germs whole, while others make antibodies against them.",
       "memoryHook": "T-Rexy says: White cells fight germs.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1202,7 +1202,7 @@
         "Lung",
         "Kidney"
       ],
-      "explanation": "The heart pumps blood through the circulatory system.",
+      "explanation": "The heart is a double pump with four chambers; the right side sends blood to the lungs and the left side sends it to the whole body.",
       "memoryHook": "T-Rexy says: The heart pumps blood.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1249,7 +1249,7 @@
         "human-body",
         "systems"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1262,7 +1262,7 @@
         "Heart",
         "Lung"
       ],
-      "explanation": "Skin is the largest organ.",
+      "explanation": "Skin covers about two square meters on an adult; it blocks germs, senses touch, and helps control body temperature.",
       "memoryHook": "T-Rexy says: Skin is the biggest organ.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1282,14 +1282,14 @@
         "Mitosis",
         "Homeostasis"
       ],
-      "explanation": "Evolution is change in a species over generations.",
+      "explanation": "Evolution works through inherited traits: if helpful traits become more common over many generations, the species has evolved.",
       "memoryHook": "T-Rexy says: Evolution is change over time.",
       "imageUrl": "topic:biology",
       "tags": [
         "evolution",
         "biology"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1322,7 +1322,7 @@
         "Louis Pasteur",
         "James Watson"
       ],
-      "explanation": "Charles Darwin proposed evolution by natural selection.",
+      "explanation": "Darwin published On the Origin of Species in 1859 after studying finches and other species in the Galapagos Islands.",
       "memoryHook": "T-Rexy says: Darwin proposed natural selection.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1342,14 +1342,14 @@
         "A type of rock only",
         "A new species"
       ],
-      "explanation": "Fossils are preserved remains or traces of ancient life.",
+      "explanation": "Most fossils form when remains are buried in sediment that hardens into rock, which is why fossils are found in sedimentary layers.",
       "memoryHook": "T-Rexy says: Fossils are ancient remains.",
       "imageUrl": "topic:biology",
       "tags": [
         "evolution",
         "fossils"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1362,7 +1362,7 @@
         "A type of cell division",
         "A learned behavior"
       ],
-      "explanation": "A mutation is a change in the DNA sequence.",
+      "explanation": "A mutation changes the DNA code, creating new alleles; most are harmless, some cause disease, and a few help an organism survive.",
       "memoryHook": "T-Rexy says: A mutation changes DNA.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1419,7 +1419,7 @@
       "correctAnswer": "An organism that eats other organisms",
       "distractors": [
         "A plant",
-        "A decomposer",
+        "An organism that makes its own food",
         "A rock"
       ],
       "explanation": "Consumers get energy by eating producers or other consumers.",
@@ -1462,7 +1462,7 @@
         "Secondary consumers",
         "Decomposers"
       ],
-      "explanation": "Producers form the first trophic level.",
+      "explanation": "Producers capture sunlight energy first, so every food chain starts at trophic level one with plants or algae.",
       "memoryHook": "T-Rexy says: Producers are level one.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1522,7 +1522,7 @@
         "Water soaking into soil",
         "Water evaporating"
       ],
-      "explanation": "Condensation is water vapor becoming liquid.",
+      "explanation": "Condensation happens when moist air cools - for example, water vapor forming droplets on the outside of a cold glass.",
       "memoryHook": "T-Rexy says: Condensation makes clouds.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1542,7 +1542,7 @@
         "Ecosystem",
         "Biosphere"
       ],
-      "explanation": "A population is one species in an area.",
+      "explanation": "A population counts only one species: all the white-tailed deer in one forest, not the other animals living there.",
       "memoryHook": "T-Rexy says: A population is one species in one place.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1562,7 +1562,7 @@
         "The nonliving environment",
         "The whole planet"
       ],
-      "explanation": "A community is all the populations living together in an area.",
+      "explanation": "A community includes every living population together - plants, animals, fungi, and bacteria - but not the nonliving parts.",
       "memoryHook": "T-Rexy says: A community is many populations together.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1602,7 +1602,7 @@
         "Nucleus",
         "Ribosome"
       ],
-      "explanation": "Chloroplasts are in plant cells, not animal cells.",
+      "explanation": "Animal cells cannot make their own food, so they have no chloroplasts; plant cells also have a cell wall, which animal cells lack.",
       "memoryHook": "T-Rexy says: Only plants have chloroplasts.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1682,14 +1682,14 @@
         "Water movement only",
         "Diffusion"
       ],
-      "explanation": "Active transport uses energy to move molecules against their gradient.",
+      "explanation": "Active transport needs ATP because it pushes molecules uphill, from low to high concentration - like root cells pulling minerals from soil.",
       "memoryHook": "T-Rexy says: Active transport uses energy.",
       "imageUrl": "topic:biology",
       "tags": [
         "cells",
         "transport"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1702,7 +1702,7 @@
         "Cells are made of atoms only",
         "Cells never divide"
       ],
-      "explanation": "Cell theory states all life is made of cells and cells come from preexisting cells.",
+      "explanation": "Cell theory was built by Schleiden, Schwann, and Virchow in the 1800s, once microscopes were strong enough to see cells.",
       "memoryHook": "T-Rexy says: All life is made of cells.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1742,7 +1742,7 @@
         "Mice",
         "Bacteria"
       ],
-      "explanation": "Mendel studied pea plants.",
+      "explanation": "Mendel chose pea plants because they grow quickly, can be cross-pollinated by hand, and show clear either-or traits like purple or white flowers.",
       "memoryHook": "T-Rexy says: Mendel used pea plants.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1762,7 +1762,7 @@
         "A chromosome number",
         "A protein only"
       ],
-      "explanation": "A trait is an inherited characteristic.",
+      "explanation": "A trait is any inherited feature, such as eye color or blood type, controlled by the genes you get from your parents.",
       "memoryHook": "T-Rexy says: A trait is an inherited feature.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1782,14 +1782,14 @@
         "They are the same thing",
         "Genotype is in the blood only"
       ],
-      "explanation": "Genotype is the genetic makeup, phenotype is what you see.",
+      "explanation": "Example: Bb is a genotype (the alleles), and brown eyes are the phenotype (the trait you can actually see).",
       "memoryHook": "T-Rexy says: Genotype is genes, phenotype is looks.",
       "imageUrl": "topic:biology",
       "tags": [
         "genetics",
         "inheritance"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1802,7 +1802,7 @@
         "Making lipids",
         "Breaking down proteins"
       ],
-      "explanation": "mRNA carries the code from DNA to the ribosome.",
+      "explanation": "mRNA is a single-stranded messenger: it is copied from DNA in the nucleus, then carries the code out to a ribosome.",
       "memoryHook": "T-Rexy says: mRNA carries the message.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1822,14 +1822,14 @@
         "A protein fold",
         "A chromosome pair"
       ],
-      "explanation": "A codon is three RNA bases coding for one amino acid.",
+      "explanation": "There are 64 codons; each one either signals for one amino acid or acts as a start or stop instruction.",
       "memoryHook": "T-Rexy says: A codon is three bases.",
       "imageUrl": "topic:biology",
       "tags": [
         "genetics",
         "rna"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1842,14 +1842,14 @@
         "Making mRNA",
         "Breaking down proteins"
       ],
-      "explanation": "tRNA delivers amino acids during translation.",
+      "explanation": "Each tRNA has an anticodon that matches one mRNA codon, so it drops off exactly the amino acid that codon calls for.",
       "memoryHook": "T-Rexy says: tRNA delivers amino acids.",
       "imageUrl": "topic:biology",
       "tags": [
         "genetics",
         "rna"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1902,14 +1902,14 @@
         "Eukaryotes have no DNA",
         "Prokaryotes have chloroplasts"
       ],
-      "explanation": "Prokaryotic cells lack a nucleus, eukaryotic cells have one.",
+      "explanation": "Eukaryote means 'true nucleus': the DNA is wrapped inside a membrane, while prokaryotes like bacteria keep their DNA loose in the cell.",
       "memoryHook": "T-Rexy says: No nucleus means prokaryote.",
       "imageUrl": "topic:biology",
       "tags": [
         "cells",
         "types"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1922,14 +1922,14 @@
         "Cell division",
         "Protein synthesis"
       ],
-      "explanation": "Fermentation releases some energy from glucose without oxygen.",
+      "explanation": "Fermentation is the backup pathway when oxygen runs out; it makes only 2 ATP per glucose, far less than aerobic respiration.",
       "memoryHook": "T-Rexy says: Fermentation works without oxygen.",
       "imageUrl": "topic:biology",
       "tags": [
         "cells",
         "respiration"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1962,7 +1962,7 @@
         "Digesting food",
         "Filtering waste"
       ],
-      "explanation": "The nervous system sends signals to control the body.",
+      "explanation": "The nervous system uses neurons to send fast electrical signals from the brain and spinal cord to every part of the body.",
       "memoryHook": "T-Rexy says: Nerves send signals.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1982,14 +1982,14 @@
         "Gas exchange",
         "Making hormones"
       ],
-      "explanation": "The skeleton supports the body and protects organs.",
+      "explanation": "The skeleton's 206 bones support the body, protect organs like the brain and heart, and make blood cells in their marrow.",
       "memoryHook": "T-Rexy says: Bones support and protect.",
       "imageUrl": "topic:biology",
       "tags": [
         "human-body",
         "systems"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -2002,7 +2002,7 @@
         "Filtering blood",
         "Sending signals"
       ],
-      "explanation": "The digestive system breaks down food and absorbs nutrients.",
+      "explanation": "Digestion starts in the mouth, continues in the stomach, and most nutrients are absorbed through the walls of the small intestine.",
       "memoryHook": "T-Rexy says: Digestion breaks food down.",
       "imageUrl": "topic:biology",
       "tags": [
