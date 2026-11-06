@@ -670,7 +670,7 @@
         "algorithms",
         "sorting"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -750,7 +750,7 @@
         "programming",
         "logic"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -763,14 +763,14 @@
         "Reverses a value",
         "Adds two numbers"
       ],
-      "explanation": "AND is true only when both inputs are true.",
+      "explanation": "Truth table for AND: true AND true = true, but true AND false = false, false AND true = false, and false AND false = false. The output is true in only one of the four cases - when both inputs are true. Example: (age >= 16) AND (hasLicense) is true only if both conditions hold.",
       "memoryHook": "T-Rexy says: AND needs both to be true!",
       "imageUrl": "topic:programming",
       "tags": [
         "programming",
         "logic"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -783,14 +783,14 @@
         "Reverses a value",
         "Subtracts two numbers"
       ],
-      "explanation": "OR is true when at least one input is true.",
+      "explanation": "Truth table for OR: true OR false = true, false OR true = true, and true OR true = true; the only false case is false OR false = false. Example: (isWeekend) OR (isHoliday) is true if either kind of day off applies - just one true input is enough.",
       "memoryHook": "T-Rexy says: OR needs just one true!",
       "imageUrl": "topic:programming",
       "tags": [
         "programming",
         "logic"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -810,7 +810,7 @@
         "programming",
         "logic"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -830,7 +830,7 @@
         "internet",
         "networking"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -870,7 +870,7 @@
         "internet",
         "networking"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -890,7 +890,7 @@
         "internet",
         "networking"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -910,7 +910,7 @@
         "cybersecurity",
         "encryption"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -950,7 +950,7 @@
         "cybersecurity",
         "phishing"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -990,7 +990,7 @@
         "cybersecurity",
         "security"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1030,7 +1030,7 @@
         "programming",
         "functions"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1043,14 +1043,14 @@
         "A type of error",
         "A loop condition"
       ],
-      "explanation": "A return value is data a function sends back to its caller.",
+      "explanation": "When a function finishes, its RETURN statement hands a value back to the code that called it. Example: a function add(a, b) that ends with RETURN a + b gives back 7 when it is called as add(3, 4), and that 7 is the return value the caller can store in a variable or use in a calculation.",
       "memoryHook": "T-Rexy says: Return values are function outputs!",
       "imageUrl": "topic:programming",
       "tags": [
         "programming",
         "functions"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1110,7 +1110,7 @@
         "data",
         "metadata"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1130,7 +1130,7 @@
         "data",
         "databases"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1150,7 +1150,7 @@
         "computing",
         "simulation"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1170,7 +1170,7 @@
         "computing",
         "impacts"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1190,7 +1190,7 @@
         "computing",
         "software"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1210,7 +1210,7 @@
         "internet",
         "web"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1243,14 +1243,14 @@
         "A programming language",
         "A data file"
       ],
-      "explanation": "A URL (Uniform Resource Locator) is the address of a web page or resource.",
+      "explanation": "A URL has parts that locate a resource step by step. In https://www.example.com/page.html, https is the protocol, www.example.com is the server (domain) name, and /page.html is the path to the specific page or file stored on that server.",
       "memoryHook": "T-Rexy says: URLs are web addresses!",
       "imageUrl": "topic:internet",
       "tags": [
         "internet",
         "web"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1290,7 +1290,7 @@
         "programming",
         "loops"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1310,7 +1310,7 @@
         "algorithms",
         "design"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1330,7 +1330,7 @@
         "algorithms",
         "design"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1350,7 +1350,7 @@
         "programming",
         "data-types"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1370,7 +1370,7 @@
         "programming",
         "data-types"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1390,7 +1390,7 @@
         "programming",
         "data-types"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1410,7 +1410,7 @@
         "programming",
         "testing"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1430,7 +1430,7 @@
         "algorithms",
         "complexity"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1450,7 +1450,7 @@
         "algorithms",
         "sorting"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1530,7 +1530,7 @@
         "cybersecurity",
         "encryption"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1543,14 +1543,14 @@
         "A programming language",
         "A network protocol"
       ],
-      "explanation": "A Caesar cipher shifts each letter by a fixed number of positions in the alphabet.",
+      "explanation": "Worked example with a shift of 3: every letter moves 3 places forward in the alphabet, so A becomes D, B becomes E, and Z wraps around to C. The word CAT becomes FDW (C to F, A to D, T to W). To decrypt, shift every letter back by 3.",
       "memoryHook": "T-Rexy says: Caesar ciphers shift letters!",
       "imageUrl": "topic:cybersecurity",
       "tags": [
         "cybersecurity",
         "encryption"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1570,7 +1570,7 @@
         "cybersecurity",
         "signatures"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1590,7 +1590,7 @@
         "cybersecurity",
         "attacks"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1610,7 +1610,7 @@
         "cybersecurity",
         "malware"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1630,7 +1630,7 @@
         "internet",
         "networking"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1650,7 +1650,7 @@
         "internet",
         "protocols"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1670,7 +1670,7 @@
         "internet",
         "protocols"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1690,7 +1690,7 @@
         "internet",
         "networking"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1710,7 +1710,7 @@
         "programming",
         "data-structures"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1730,7 +1730,7 @@
         "data",
         "hashing"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1750,7 +1750,7 @@
         "programming",
         "data-structures"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1770,7 +1770,7 @@
         "programming",
         "data-structures"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1790,7 +1790,7 @@
         "algorithms",
         "complexity"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1810,7 +1810,7 @@
         "programming",
         "debugging"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1850,7 +1850,7 @@
         "ap",
         "create-task"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1863,14 +1863,14 @@
         "To build hardware",
         "To take a quiz"
       ],
-      "explanation": "The Explore task asks students to research a computing innovation and analyze its effects.",
+      "explanation": "The Explore Performance Task was discontinued by the College Board after the 2019-20 school year, so it is no longer assigned. The skill it tested - analyzing a computing innovation and its beneficial and harmful effects on society, the economy, and culture - now appears in the written-response questions on the end-of-course exam.",
       "memoryHook": "T-Rexy says: Explore analyzes real innovations!",
       "imageUrl": "topic:ap",
       "tags": [
         "ap",
         "explore-task"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1890,7 +1890,7 @@
         "data",
         "analysis"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1910,7 +1910,7 @@
         "computing",
         "ai"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1930,7 +1930,7 @@
         "computing",
         "ethics"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1950,7 +1950,7 @@
         "computing",
         "legal"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1970,7 +1970,7 @@
         "data",
         "integrity"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1990,7 +1990,7 @@
         "internet",
         "networking"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -2010,7 +2010,7 @@
         "internet",
         "protocols"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     }
