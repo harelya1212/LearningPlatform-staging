@@ -42,7 +42,7 @@
         "1630",
         "1492"
       ],
-      "explanation": "The Pilgrims landed at Plymouth in 1620.",
+      "explanation": "The Pilgrims sailed from England on the Mayflower and founded Plymouth Colony in present-day Massachusetts, where they signed the Mayflower Compact before going ashore.",
       "memoryHook": "T-Rexy says: Plymouth began in 1620.",
       "imageUrl": "topic:us-history",
       "tags": [
@@ -102,7 +102,7 @@
         "1787",
         "1820"
       ],
-      "explanation": "The United States bought the Louisiana Territory from France in 1803.",
+      "explanation": "President Jefferson bought the territory from Napoleon of France for about 15 million dollars, roughly doubling the nation's size overnight - from the Mississippi River to the Rocky Mountains.",
       "memoryHook": "T-Rexy says: 1803 doubled the country.",
       "imageUrl": "topic:us-history",
       "tags": [
@@ -162,7 +162,7 @@
         "Benjamin Franklin",
         "John Adams"
       ],
-      "explanation": "Thomas Jefferson was the main author of the Declaration of Independence.",
+      "explanation": "Jefferson drafted the Declaration in about 17 days for a five-man committee; John Adams and Benjamin Franklin suggested small changes before Congress approved it.",
       "memoryHook": "T-Rexy says: Jefferson wrote the Declaration.",
       "imageUrl": "topic:us-history",
       "tags": [
@@ -418,7 +418,7 @@
         "Benjamin Franklin",
         "John Adams"
       ],
-      "explanation": "George Washington led the Continental Army during the Revolutionary War.",
+      "explanation": "The Second Continental Congress appointed Washington commander in 1775; he held the volunteer army together for eight years, through Valley Forge to victory at Yorktown.",
       "memoryHook": "T-Rexy says: Washington led the army.",
       "imageUrl": "topic:us-history",
       "tags": [
@@ -518,7 +518,7 @@
         "They banned trade",
         "They had no states"
       ],
-      "explanation": "Under the Articles, Congress could not tax or force states to follow laws.",
+      "explanation": "Congress had to ask the states for money and troops, and the states could say no - it also had no president, no national courts, and needed 9 of 13 states to pass a law.",
       "memoryHook": "T-Rexy says: The Articles could not tax.",
       "imageUrl": "topic:us-history",
       "tags": [
@@ -634,7 +634,7 @@
         "Third Amendment",
         "Fifth Amendment"
       ],
-      "explanation": "The Second Amendment protects the right to keep and bear arms.",
+      "explanation": "The amendment ties the right to arms to a 'well regulated militia' - the founders had just won independence with citizen soldiers and distrusted a large standing army.",
       "memoryHook": "T-Rexy says: The Second is about arms.",
       "imageUrl": "topic:us-history",
       "tags": [
@@ -694,7 +694,7 @@
         "Buying Louisiana",
         "Writing the Bill of Rights"
       ],
-      "explanation": "Washington warned against permanent alliances and political divisions.",
+      "explanation": "In his 1796 Farewell Address - published in newspapers, never delivered as a speech - Washington also urged the country to protect its credit and avoid extremes of debt and party spirit.",
       "memoryHook": "T-Rexy says: Washington warned against parties and alliances.",
       "imageUrl": "topic:us-history",
       "tags": [
@@ -817,7 +817,7 @@
       "tags": [
         "sectionalism"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -836,7 +836,7 @@
       "tags": [
         "sectionalism"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -855,7 +855,7 @@
       "tags": [
         "sectionalism"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -875,7 +875,7 @@
         "sectionalism",
         "supreme-court"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -975,7 +975,7 @@
         "civil-war",
         "causes"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -988,7 +988,7 @@
         "Ulysses S. Grant",
         "Jefferson Davis"
       ],
-      "explanation": "Abraham Lincoln was president of the Union during the Civil War.",
+      "explanation": "Lincoln, a one-term former congressman, led as commander in chief; his goal widened during the war from saving the Union to ending slavery itself.",
       "memoryHook": "T-Rexy says: Lincoln led the Union.",
       "imageUrl": "topic:us-history",
       "tags": [
@@ -1008,7 +1008,7 @@
         "Abraham Lincoln",
         "Stonewall Jackson"
       ],
-      "explanation": "Jefferson Davis led the Confederate States during the Civil War.",
+      "explanation": "Davis, a former U.S. senator and secretary of war from Mississippi, was chosen as Confederate president in 1861 and struggled to hold the 11 seceded states together.",
       "memoryHook": "T-Rexy says: Davis led the Confederacy.",
       "imageUrl": "topic:us-history",
       "tags": [
@@ -1035,7 +1035,7 @@
         "civil-war",
         "documents"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1188,7 +1188,7 @@
         "It gave women the vote",
         "It ended the poll tax"
       ],
-      "explanation": "The 15th Amendment protected voting rights regardless of race.",
+      "explanation": "Ratified in 1870, it allowed Black men to vote and hold office across the South during Reconstruction - though states later used poll taxes and literacy tests to evade it.",
       "memoryHook": "T-Rexy says: The 15th protected voting by race.",
       "imageUrl": "topic:us-history",
       "tags": [
@@ -1214,7 +1214,7 @@
       "tags": [
         "reconstruction"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1227,7 +1227,7 @@
         "A military unit",
         "A railroad company"
       ],
-      "explanation": "The bureau provided aid and education to freed people after the war.",
+      "explanation": "Created in 1865 inside the War Department, the Bureau built schools and hospitals, supplied food and clothing, and helped families find work and reunite after slavery.",
       "memoryHook": "T-Rexy says: The Bureau helped freed people.",
       "imageUrl": "topic:us-history",
       "tags": [
@@ -1304,7 +1304,7 @@
         "A treaty with Mexico",
         "A military plan"
       ],
-      "explanation": "Many Americans believed expansion to the Pacific was the nation's destiny.",
+      "explanation": "The phrase 'manifest destiny' was coined in 1845 and was used to justify taking Texas, Oregon, and the Southwest from Mexico - while pushing Native nations off their land.",
       "memoryHook": "T-Rexy says: Manifest Destiny meant expand west.",
       "imageUrl": "topic:us-history",
       "tags": [
@@ -1330,7 +1330,7 @@
         "expansion",
         "wars"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1501,14 +1501,14 @@
         "To set up courts",
         "To tax the states"
       ],
-      "explanation": "The Bill of Rights limits what the government can do to people.",
+      "explanation": "Anti-Federalists refused to support the Constitution without written rights, so the first Congress proposed these amendments; they were ratified in 1791.",
       "memoryHook": "T-Rexy says: The Bill of Rights protects freedoms.",
       "imageUrl": "topic:us-history",
       "tags": [
         "constitution",
         "bill-of-rights"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1521,13 +1521,13 @@
         "State laws",
         "The Articles of Confederation"
       ],
-      "explanation": "The Constitution is the highest law in the United States.",
+      "explanation": "Article VI makes the Constitution supreme: if a state law conflicts with it, the Constitution wins and courts must strike the state law down.",
       "memoryHook": "T-Rexy says: The Constitution is supreme.",
       "imageUrl": "topic:us-history",
       "tags": [
         "constitution"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1540,14 +1540,14 @@
         "Power held only by the states",
         "Rule by the military"
       ],
-      "explanation": "Federalism divides power between national and state governments.",
+      "explanation": "The national government handles money, defense, and foreign policy; states run schools, roads, and local police - and the Tenth Amendment reserves undelegated powers to the states or the people.",
       "memoryHook": "T-Rexy says: Federalism shares power.",
       "imageUrl": "topic:us-history",
       "tags": [
         "constitution",
         "government"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1560,7 +1560,7 @@
         "The president checking Congress only",
         "Courts checking states only"
       ],
-      "explanation": "Checks and balances keep any one branch from becoming too powerful.",
+      "explanation": "Examples: the president can veto a bill, Congress can override with two-thirds of both houses, and courts can strike down a law - each branch holds a real tool against the others.",
       "memoryHook": "T-Rexy says: Branches check each other.",
       "imageUrl": "topic:us-history",
       "tags": [
@@ -1580,14 +1580,14 @@
         "To interpret laws",
         "To command the military"
       ],
-      "explanation": "Congress, the legislative branch, writes laws.",
+      "explanation": "Congress - the House plus the Senate - also declares war, controls the budget, and can impeach officials; lawmaking is only its most visible job.",
       "memoryHook": "T-Rexy says: Congress makes laws.",
       "imageUrl": "topic:us-history",
       "tags": [
         "constitution",
         "government"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1600,14 +1600,14 @@
         "To interpret laws",
         "To write the Constitution"
       ],
-      "explanation": "The president and executive agencies carry out laws.",
+      "explanation": "The president also commands the armed forces, negotiates treaties, and appoints judges and cabinet officers - but cannot make laws or declare war.",
       "memoryHook": "T-Rexy says: The president enforces laws.",
       "imageUrl": "topic:us-history",
       "tags": [
         "constitution",
         "government"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1627,7 +1627,7 @@
         "constitution",
         "government"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1647,7 +1647,7 @@
         "constitution",
         "government"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1660,14 +1660,14 @@
         "By land area",
         "By the president"
       ],
-      "explanation": "House seats are based on each state's population.",
+      "explanation": "Seats are recounted after the census every 10 years: fast-growing states gain seats and slow-growing states lose them, keeping the House at 435 members.",
       "memoryHook": "T-Rexy says: House seats follow population.",
       "imageUrl": "topic:us-history",
       "tags": [
         "constitution",
         "government"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1778,7 +1778,7 @@
         "Supporters of the king",
         "Supporters of slavery"
       ],
-      "explanation": "Anti-Federalists feared a strong central government and demanded protections.",
+      "explanation": "They wrote essays against ratification and demanded a bill of rights; the Federalist promise to add one is a big reason the Constitution was ratified at all.",
       "memoryHook": "T-Rexy says: Anti-Federalists wanted a Bill of Rights.",
       "imageUrl": "topic:us-history",
       "tags": [
@@ -1896,7 +1896,7 @@
         "The end of slavery",
         "A new constitution"
       ],
-      "explanation": "Jackson's era expanded suffrage to most white men.",
+      "explanation": "States dropped property requirements for voting, so turnout surged; Jackson also championed the 'common man' while defending the spoils system and Indian removal.",
       "memoryHook": "T-Rexy says: Jackson expanded voting.",
       "imageUrl": "topic:us-history",
       "tags": [
@@ -1955,7 +1955,7 @@
         "A war with Native Americans",
         "A gold rush"
       ],
-      "explanation": "Pro-slavery and anti-slavery settlers fought in Kansas in the 1850s.",
+      "explanation": "After the Kansas-Nebraska Act let settlers vote on slavery, both sides rushed in - rival capitals, stolen elections, and raids like the sack of Lawrence followed.",
       "memoryHook": "T-Rexy says: Bleeding Kansas was violence over slavery.",
       "imageUrl": "topic:us-history",
       "tags": [
@@ -1974,7 +1974,7 @@
         "A protest against taxes",
         "A raid by the Union army"
       ],
-      "explanation": "John Brown seized the arsenal at Harpers Ferry, Virginia, hoping to arm enslaved people.",
+      "explanation": "Brown was captured by U.S. Marines led by Robert E. Lee and hanged in December 1859; the South saw a terrorist, the North a martyr - and trust between the sections collapsed.",
       "memoryHook": "T-Rexy says: Brown raided Harpers Ferry.",
       "imageUrl": "topic:us-history",
       "tags": [
