@@ -1810,7 +1810,7 @@
         "inference",
         "chi-square-expected-counts"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
