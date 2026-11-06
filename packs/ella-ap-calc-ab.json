@@ -108,7 +108,7 @@
         "x = 3",
         "x = 4"
       ],
-      "explanation": "f is increasing where f' > 0 and decreasing where f' < 0. From the graph, f' is positive on (0, 1), negative on (1, 3), and positive on (3, 4). Since f' changes from positive to negative at x = 1, f has a local maximum there. At x = 3, f' changes from negative to positive, which gives a local minimum.",
+      "explanation": "f is increasing where f' > 0 and decreasing where f' < 0. From the graph, f' is positive on (0, 1) and crosses zero at x = 1, changing from positive to negative, so f has a local maximum there. After x = 1, f' stays negative - it dips to its lowest point at the corner at x = 3 but does not cross zero there - until about x = 3.65, where it crosses zero. That crossing, not the corner at x = 3, is where f has its local minimum.",
       "memoryHook": "T-Rexy says: watch the sign of f' - plus to minus at the top of the hill means a local max!",
       "imageUrl": "topic:limits",
       "tags": [
