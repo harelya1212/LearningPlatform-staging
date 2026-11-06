@@ -96,19 +96,19 @@
     },
     {
       "id": "EENG_005",
-      "question": "Passage: At Central City College, the vacant lot behind the library should become a student-run community garden. A garden would give students inexpensive access to fresh vegetables at a time when grocery prices near campus have risen sharply. It would also turn an unused space that now collects litter into a place where classes in biology and nutrition can conduct hands-on work. Critics worry that students lack time to maintain plots, but a similar garden at a neighboring college thrives because each plot is cared for by a team of four students who rotate weekly duties. For little cost, the college gains food, learning space, and a cleaner campus.\n\nWhat is the main claim of the passage?",
-      "correctAnswer": "The vacant lot behind the library should become a student-run community garden.",
+      "question": "Determine the city at the center of the Harlem Renaissance cultural movement.",
+      "correctAnswer": "New York City",
       "distractors": [
-        "The college should pave the vacant lot to create more parking.",
-        "Students should buy more vegetables from grocery stores near campus.",
-        "Biology and nutrition classes should stop doing hands-on work."
+        "Chicago",
+        "New Orleans",
+        "Atlanta"
       ],
-      "explanation": "The first sentence states the claim directly, and every later sentence gives a reason for it: cheaper food, a cleaner lot, and hands-on learning space. A main claim is the position the whole passage defends, not one supporting detail.",
-      "memoryHook": "T-Rexy says: find the claim in the first bite - the whole passage chews on it!",
+      "explanation": "The Harlem Renaissance of the 1920s was centered in the Harlem neighborhood of New York City.",
+      "memoryHook": "T-Rexy says: the Renaissance danced uptown - Harlem is in New York City!",
       "imageUrl": "topic:literature",
       "tags": [
         "ELA",
-        "Reading"
+        "Literature"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -116,19 +116,19 @@
     },
     {
       "id": "EENG_006",
-      "question": "Passage: At Central City College, the vacant lot behind the library should become a student-run community garden. A garden would give students inexpensive access to fresh vegetables at a time when grocery prices near campus have risen sharply. It would also turn an unused space that now collects litter into a place where classes in biology and nutrition can conduct hands-on work. Critics worry that students lack time to maintain plots, but a similar garden at a neighboring college thrives because each plot is cared for by a team of four students who rotate weekly duties. For little cost, the college gains food, learning space, and a cleaner campus.\n\nWhich detail from the passage best supports the idea that the garden would help students with food costs?",
-      "correctAnswer": "Grocery prices near campus have risen sharply, and the garden would give students inexpensive access to fresh vegetables.",
+      "question": "Identify the author of 'Their Eyes Were Watching God.'",
+      "correctAnswer": "Zora Neale Hurston",
       "distractors": [
-        "The vacant lot now collects litter.",
-        "Biology and nutrition classes could conduct hands-on work in the garden.",
-        "Each plot would be cared for by a team of four students."
+        "Toni Morrison",
+        "Maya Angelou",
+        "Alice Walker"
       ],
-      "explanation": "Only this detail connects prices and cost to food: rising grocery prices plus inexpensive vegetables. The litter detail supports a cleaner campus, the class detail supports learning, and the team detail answers a time concern - each detail supports a different point.",
-      "memoryHook": "T-Rexy says: match the detail to its point - cost details prove cost claims!",
+      "explanation": "Zora Neale Hurston, a key Harlem Renaissance figure, published Their Eyes Were Watching God in 1937.",
+      "memoryHook": "T-Rexy says: Hurston's eyes watch from Eatonville - Zora saw it all!",
       "imageUrl": "topic:literature",
       "tags": [
         "ELA",
-        "Reading"
+        "Literature"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -136,19 +136,19 @@
     },
     {
       "id": "EENG_007",
-      "question": "Passage: At Central City College, the vacant lot behind the library should become a student-run community garden. A garden would give students inexpensive access to fresh vegetables at a time when grocery prices near campus have risen sharply. It would also turn an unused space that now collects litter into a place where classes in biology and nutrition can conduct hands-on work. Critics worry that students lack time to maintain plots, but a similar garden at a neighboring college thrives because each plot is cared for by a team of four students who rotate weekly duties. For little cost, the college gains food, learning space, and a cleaner campus.\n\nHow does the writer respond to the concern that students lack time to maintain the garden?",
-      "correctAnswer": "By pointing to a neighboring college where a similar garden thrives because teams of four students rotate weekly duties.",
+      "question": "Determine the object of the hunt in 'Moby-Dick.'",
+      "correctAnswer": "A white whale",
       "distractors": [
-        "By arguing that students have unlimited free time during the term.",
-        "By proposing that the college hire a full-time gardener to do all the work.",
-        "By admitting the concern is correct and dropping the proposal."
+        "A treasure ship",
+        "A sea monster",
+        "A lost island"
       ],
-      "explanation": "The writer concedes the worry in one clause, then answers it with a working example: shared plots and rotating duties spread the time cost. Answering a counterargument with a real example is stronger than denying the concern exists.",
-      "memoryHook": "T-Rexy says: answer the worry with a working example - rotation shares the load!",
+      "explanation": "Herman Melville's Moby-Dick follows Captain Ahab's obsessive hunt for the white whale Moby Dick.",
+      "memoryHook": "T-Rexy says: the great white whale splashes - Ahab chases Moby-Dick!",
       "imageUrl": "topic:literature",
       "tags": [
         "ELA",
-        "Reading"
+        "Literature"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -156,19 +156,19 @@
     },
     {
       "id": "EENG_008",
-      "question": "Passage: At Central City College, the vacant lot behind the library should become a student-run community garden. A garden would give students inexpensive access to fresh vegetables at a time when grocery prices near campus have risen sharply. It would also turn an unused space that now collects litter into a place where classes in biology and nutrition can conduct hands-on work. Critics worry that students lack time to maintain plots, but a similar garden at a neighboring college thrives because each plot is cared for by a team of four students who rotate weekly duties. For little cost, the college gains food, learning space, and a cleaner campus.\n\nWhat is the author's primary purpose in the passage?",
-      "correctAnswer": "To persuade readers that the college should turn the vacant lot into a student-run community garden.",
+      "question": "Which author is most closely associated with Transcendentalism?",
+      "correctAnswer": "Ralph Waldo Emerson",
       "distractors": [
-        "To explain step by step how to plant and harvest vegetables.",
-        "To narrate the history of the vacant lot behind the library.",
-        "To describe how the neighboring college schedules its classes."
+        "Edgar Allan Poe",
+        "Washington Irving",
+        "James Fenimore Cooper"
       ],
-      "explanation": "The passage takes a position with the word 'should' and supports it with benefits while answering an objection - the marks of persuasion. It gives no planting steps, tells no history, and mentions the neighboring college only as evidence.",
-      "memoryHook": "T-Rexy says: 'should' plus reasons means persuade - spot the stance first!",
+      "explanation": "Ralph Waldo Emerson's essay 'Self-Reliance' is a cornerstone of Transcendentalist thought.",
+      "memoryHook": "T-Rexy says: Emerson transcends - self-reliance lifts the dino above the crowd!",
       "imageUrl": "topic:literature",
       "tags": [
         "ELA",
-        "Reading"
+        "Literature"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -176,19 +176,19 @@
     },
     {
       "id": "EENG_009",
-      "question": "A student writes two versions of the same request: a formal email to a professor asking for an extension, and a short casual message to a classmate asking for class notes. Which element of the rhetorical situation most directly explains why the tone and level of detail differ between the two versions?",
-      "correctAnswer": "the audience - each version is written for a different reader with a different relationship to the writer",
+      "question": "Identify the colony that serves as the setting of 'The Scarlet Letter.'",
+      "correctAnswer": "Massachusetts Bay Colony",
       "distractors": [
-        "the exigence - each version was prompted by a completely different problem",
-        "the citation style - each version must follow a different documentation system",
-        "the length of the course - each version covers a different number of class weeks"
+        "Virginia Colony",
+        "Pennsylvania Colony",
+        "Maryland Colony"
       ],
-      "explanation": "Audience is who will read the text and what that reader expects. A professor expects formality and a clear reason; a classmate expects neither. The problem prompting both messages is the same missed work, so the exigence does not explain the difference in tone.",
-      "memoryHook": "T-Rexy says: change the reader, change the roar - audience shapes the tone!",
+      "explanation": "Nathaniel Hawthorne set The Scarlet Letter in 17th-century Puritan Boston, Massachusetts Bay Colony.",
+      "memoryHook": "T-Rexy says: the scarlet A burns in Boston - Massachusetts marks the colony!",
       "imageUrl": "topic:literature",
       "tags": [
         "ELA",
-        "Rhetoric"
+        "Literature"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -196,19 +196,19 @@
     },
     {
       "id": "EENG_010",
-      "question": "After the campus food pantry runs out of supplies twice in one month, a student writes a letter urging the student government to increase the pantry's funding. In rhetorical terms, what is the exigence of this letter?",
-      "correctAnswer": "The repeated pantry shortages - the problem that prompted the writer to act",
+      "question": "Identify the author of 'Beloved.'",
+      "correctAnswer": "Toni Morrison",
       "distractors": [
-        "The student government members who will read the letter",
-        "The writer's goal of securing more funding for the pantry",
-        "The formal tone the writer uses throughout the letter"
+        "Alice Walker",
+        "Gloria Naylor",
+        "Jamaica Kincaid"
       ],
-      "explanation": "Exigence is the problem or occasion that calls the writing into being - here, the two shortages. The student government is the audience, securing funding is the purpose, and tone is a stylistic choice; naming each element separately keeps a rhetorical analysis precise.",
-      "memoryHook": "T-Rexy says: exigence is the itch - the problem that makes the writer write!",
+      "explanation": "Toni Morrison won the Pulitzer Prize for Beloved (1987); she later won the Nobel Prize in Literature.",
+      "memoryHook": "T-Rexy says: Morrison's Beloved haunts - Toni tells the story that won't stay buried!",
       "imageUrl": "topic:literature",
       "tags": [
         "ELA",
-        "Rhetoric"
+        "Literature"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1216,19 +1216,19 @@
     },
     {
       "id": "EENG_061",
-      "question": "Passage: A rain garden is a shallow, planted basin designed to collect stormwater that runs off roofs, driveways, and streets. Unlike a regular flower bed, a rain garden is dug several inches below the surrounding ground and filled with loose, sandy soil that lets water soak in quickly. Native plants with deep roots are chosen because their roots create channels that help water move downward and because the plants can tolerate both brief flooding and dry spells between rains. Within 24 to 48 hours after a storm, most of the collected water has filtered into the ground instead of flowing into storm drains. As the water passes through soil and roots, many pollutants are trapped or broken down, so less contaminated water reaches nearby streams.\n\nAccording to the passage, why is a rain garden filled with loose, sandy soil?",
-      "correctAnswer": "So that collected water can soak into the ground quickly.",
+      "question": "Which definition best matches 'cogent' in the sentence: 'The author's argument was cogent.'",
+      "correctAnswer": "convincing and well-reasoned",
       "distractors": [
-        "So that the basin can stay flooded for a full week after each storm.",
-        "So that storm drains near the garden can be permanently removed.",
-        "So that the native plants will never need water between rains."
+        "confusing",
+        "lengthy",
+        "emotional"
       ],
-      "explanation": "The passage links the soil directly to speed of absorption: loose, sandy soil 'lets water soak in quickly.' The basin is meant to drain within 24 to 48 hours, not stay flooded, and no claim is made about removing drains.",
-      "memoryHook": "T-Rexy says: sandy soil, speedy soak - loose grains let water slip through!",
+      "explanation": "A cogent argument is clear, logical, and persuasive.",
+      "memoryHook": "T-Rexy says: cogent is convincing - a cogent case clicks shut!",
       "imageUrl": "topic:literature",
       "tags": [
         "ELA",
-        "Reading"
+        "Vocabulary"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1236,19 +1236,19 @@
     },
     {
       "id": "EENG_062",
-      "question": "Passage: A rain garden is a shallow, planted basin designed to collect stormwater that runs off roofs, driveways, and streets. Unlike a regular flower bed, a rain garden is dug several inches below the surrounding ground and filled with loose, sandy soil that lets water soak in quickly. Native plants with deep roots are chosen because their roots create channels that help water move downward and because the plants can tolerate both brief flooding and dry spells between rains. Within 24 to 48 hours after a storm, most of the collected water has filtered into the ground instead of flowing into storm drains. As the water passes through soil and roots, many pollutants are trapped or broken down, so less contaminated water reaches nearby streams.\n\nAccording to the passage, what do the deep roots of the native plants do to help water move?",
-      "correctAnswer": "They create channels that help water move downward into the ground.",
+      "question": "Which definition best matches 'ubiquitous' in the sentence: 'Her phone was ubiquitous.'",
+      "correctAnswer": "present everywhere",
       "distractors": [
-        "They block water at the surface so it evaporates in the sun.",
-        "They push collected water sideways into the nearest storm drain.",
-        "They store all of the stormwater inside the plants for a month."
+        "expensive",
+        "broken",
+        "silent"
       ],
-      "explanation": "The passage states the mechanism plainly: roots 'create channels that help water move downward.' The plants are also chosen because they tolerate both flooding and dry spells, but tolerance is not the water-moving mechanism asked for here.",
-      "memoryHook": "T-Rexy says: roots are roadways - channels carry the water down!",
+      "explanation": "Ubiquitous describes something found everywhere at once.",
+      "memoryHook": "T-Rexy says: ubiquitous is everywhere - like dino footprints after rain!",
       "imageUrl": "topic:literature",
       "tags": [
         "ELA",
-        "Reading"
+        "Vocabulary"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1256,19 +1256,19 @@
     },
     {
       "id": "EENG_063",
-      "question": "Passage: A rain garden is a shallow, planted basin designed to collect stormwater that runs off roofs, driveways, and streets. Unlike a regular flower bed, a rain garden is dug several inches below the surrounding ground and filled with loose, sandy soil that lets water soak in quickly. Native plants with deep roots are chosen because their roots create channels that help water move downward and because the plants can tolerate both brief flooding and dry spells between rains. Within 24 to 48 hours after a storm, most of the collected water has filtered into the ground instead of flowing into storm drains. As the water passes through soil and roots, many pollutants are trapped or broken down, so less contaminated water reaches nearby streams.\n\nAccording to the passage, what happens to most of the water collected in a rain garden within 24 to 48 hours after a storm?",
-      "correctAnswer": "It has filtered into the ground instead of flowing into storm drains.",
+      "question": "Which definition best matches 'pragmatic' in the sentence: 'They chose a pragmatic solution.'",
+      "correctAnswer": "practical",
       "distractors": [
-        "It has evaporated completely into the air above the basin.",
-        "It has been pumped into storage tanks for later use on lawns.",
-        "It is still standing in the basin at the end of the second day."
+        "theoretical",
+        "expensive",
+        "temporary"
       ],
-      "explanation": "The passage gives a specific time window and outcome: within 24 to 48 hours, most water 'has filtered into the ground instead of flowing into storm drains.' Filtering downward is the whole design - the basin is shallow and drains, so standing water is the exception, not the rule.",
-      "memoryHook": "T-Rexy says: two days, then down it goes - filtered into the ground, not the drain!",
+      "explanation": "Pragmatic means guided by practical results rather than theory.",
+      "memoryHook": "T-Rexy says: pragmatic is practical - fix the fence, skip the philosophy!",
       "imageUrl": "topic:literature",
       "tags": [
         "ELA",
-        "Reading"
+        "Vocabulary"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1276,19 +1276,19 @@
     },
     {
       "id": "EENG_064",
-      "question": "Passage: A rain garden is a shallow, planted basin designed to collect stormwater that runs off roofs, driveways, and streets. Unlike a regular flower bed, a rain garden is dug several inches below the surrounding ground and filled with loose, sandy soil that lets water soak in quickly. Native plants with deep roots are chosen because their roots create channels that help water move downward and because the plants can tolerate both brief flooding and dry spells between rains. Within 24 to 48 hours after a storm, most of the collected water has filtered into the ground instead of flowing into storm drains. As the water passes through soil and roots, many pollutants are trapped or broken down, so less contaminated water reaches nearby streams.\n\nAccording to the passage, how do rain gardens help protect nearby streams?",
-      "correctAnswer": "As water passes through soil and roots, many pollutants are trapped or broken down, so less contaminated water reaches the streams.",
+      "question": "Which definition best matches 'equivocated' in the sentence: 'He equivocated when asked directly.'",
+      "correctAnswer": "gave vague, evasive answers",
       "distractors": [
-        "The gardens add fertilizer to the water so stream plants grow faster.",
-        "The gardens send all stormwater to storm drains before it can reach streams.",
-        "The native plants drink every drop of water, so nothing ever leaves the garden."
+        "answered directly",
+        "refused to speak",
+        "became angry"
       ],
-      "explanation": "The benefit to streams is filtration: soil and roots trap or break down pollutants during the downward trip. Sending water to storm drains is what rain gardens reduce, and 'every drop' overstates a passage that says 'most' of the water filters in.",
-      "memoryHook": "T-Rexy says: soil is a filter - trapped pollutants never reach the stream!",
+      "explanation": "To equivocate is to speak ambiguously to avoid committing to an answer.",
+      "memoryHook": "T-Rexy says: equivocate equals evade - vague answers dodge the spear!",
       "imageUrl": "topic:literature",
       "tags": [
         "ELA",
-        "Reading"
+        "Vocabulary"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1296,19 +1296,19 @@
     },
     {
       "id": "EENG_065",
-      "question": "Speaking at a city council meeting one week after a major flood damaged homes in her neighborhood, a resident describes the damage and asks the council to fund repairs to the storm drains. What is the speaker's primary purpose in this context?",
-      "correctAnswer": "To persuade the council to fund storm drain repairs",
+      "question": "Which definition best matches 'magnanimous' in the sentence: 'The magnanimous winner praised her opponent.'",
+      "correctAnswer": "generous in spirit",
       "distractors": [
-        "To entertain the council with a personal story about the flood",
-        "To explain in detail how storm drains are engineered and built",
-        "To inform residents about the council's regular meeting schedule"
+        "arrogant",
+        "bitter",
+        "proud"
       ],
-      "explanation": "Purpose is what the speaker wants the audience to do or decide. The recent flood is the context that makes the request urgent, but the speech aims at a decision - funding repairs. She describes damage as evidence for that request, not as entertainment or as an engineering lesson.",
-      "memoryHook": "T-Rexy says: purpose is the prize - she speaks so the council will act!",
+      "explanation": "Magnanimous means noble and generous, especially toward a rival.",
+      "memoryHook": "T-Rexy says: magnanimous is mega-generous - big heart, big winner!",
       "imageUrl": "topic:literature",
       "tags": [
         "ELA",
-        "Rhetoric"
+        "Vocabulary"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1316,19 +1316,19 @@
     },
     {
       "id": "EENG_066",
-      "question": "In APA style (7th edition), a student directly quotes page 14 of a 2021 journal article by Maria Johnson. Which parenthetical citation at the end of the quoted sentence is correct in APA style?",
-      "correctAnswer": "(Johnson, 2021, p. 14)",
+      "question": "Which definition best matches 'inscrutable' in the sentence: 'His expression remained inscrutable.'",
+      "correctAnswer": "impossible to interpret",
       "distractors": [
-        "(Johnson 14)",
-        "(Johnson, 2021)",
-        "(2021, Johnson, p. 14)"
+        "clearly happy",
+        "obviously angry",
+        "slightly sad"
       ],
-      "explanation": "APA in-text citations give the author surname, the year, and - for a direct quotation - a page locator with 'p.': (Johnson, 2021, p. 14). The form (Johnson 14) is MLA style, which omits the year; APA requires the page for quotations, so the year alone is incomplete.",
-      "memoryHook": "T-Rexy says: APA packs three facts - author, year, page for a quote!",
+      "explanation": "Inscrutable means mysterious and unreadable.",
+      "memoryHook": "T-Rexy says: inscrutable is unreadable - a poker face in words!",
       "imageUrl": "topic:literature",
       "tags": [
         "ELA",
-        "Citation"
+        "Vocabulary"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1416,19 +1416,19 @@
     },
     {
       "id": "EENG_071",
-      "question": "Which reference list entry follows APA style (7th edition) for a journal article?",
-      "correctAnswer": "Lee, D. (2020). Study habits and memory in first-year students. Journal of College Reading, 12, 45-60.",
+      "question": "Identify the poetic form: a 14-line lyric poem with a set rhyme scheme.",
+      "correctAnswer": "sonnet",
       "distractors": [
-        "Lee, David. 2020. Study Habits and Memory in First-Year Students. Journal of College Reading, 12, 45-60.",
-        "Lee, D. (2020). Study Habits and Memory in First-Year Students. journal of college reading, 12, 45-60.",
-        "(Lee, D., 2020). Study habits and memory in first-year students. Journal of College Reading, 12, 45-60."
+        "ode",
+        "elegy",
+        "ballad"
       ],
-      "explanation": "APA reference entries use the surname plus initials, the year in parentheses right after the author, sentence case for the article title (only the first word and proper nouns capitalized), and title case for the journal name. Each wrong entry breaks at least one of those rules - a full first name, a missing parenthesis pair, or the wrong capitalization pattern.",
-      "memoryHook": "T-Rexy says: surname, initials, (year) - and the article title stays sentence case in APA!",
+      "explanation": "A sonnet has 14 lines, typically in iambic pentameter with a formal rhyme scheme.",
+      "memoryHook": "T-Rexy says: fourteen lines, one sonnet - count to fourteen and rhyme!",
       "imageUrl": "topic:literature",
       "tags": [
         "ELA",
-        "Citation"
+        "Poetry"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1436,19 +1436,19 @@
     },
     {
       "id": "EENG_072",
-      "question": "Which revision correctly fixes the comma splice in this sentence? 'The writing workshop filled quickly, students were placed on a waitlist.'",
-      "correctAnswer": "The writing workshop filled quickly; students were placed on a waitlist.",
+      "question": "Determine the rhyme scheme of a Shakespearean sonnet.",
+      "correctAnswer": "ABAB CDCD EFEF GG",
       "distractors": [
-        "The writing workshop filled quickly, students were placed on a waitlist.",
-        "The writing workshop filled quickly. Students on a waitlist.",
-        "The writing workshop filled quickly, and, students were placed on a waitlist."
+        "ABBA ABBA CDE CDE",
+        "AABBCCDD EEFFGG",
+        "ABAB BCBC CDCD EE"
       ],
-      "explanation": "A comma splice joins two independent clauses with only a comma. A semicolon can join two closely related independent clauses on its own, which fixes the splice here. The second option repeats the splice, the third leaves a fragment ('Students on a waitlist' has no verb), and the fourth strands 'and' between commas.",
-      "memoryHook": "T-Rexy says: two full clauses need more than a comma - the semicolon is the stronger bridge!",
+      "explanation": "The English sonnet uses three quatrains and a closing couplet: ABAB CDCD EFEF GG.",
+      "memoryHook": "T-Rexy says: three quatrains plus a couplet - Shakespeare's recipe!",
       "imageUrl": "topic:literature",
       "tags": [
         "ELA",
-        "Grammar"
+        "Poetry"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1616,19 +1616,19 @@
     },
     {
       "id": "EENG_081",
-      "question": "Passage: On my first night volunteering at the campus observatory, I arrived certain I would impress everyone with the astronomy terms I had memorized. Instead, when a young visitor asked why the Moon looked larger near the horizon, I froze. Dr. Alvarez, the astronomer in charge, did not answer for me. She handed the girl a small ball and a flashlight and said, 'Show us what you think happens.' As the girl moved the ball around the light, I realized I had been preparing to perform knowledge rather than help someone discover it. For the rest of the evening, I listened more than I spoke, asking visitors what they noticed before I offered any explanation. I left with fewer facts delivered, but I had finally begun to learn how to teach.\n\nWhat realization does the narrator reach as the girl moves the ball around the flashlight?",
-      "correctAnswer": "She had been preparing to perform her knowledge rather than help someone else discover an idea.",
+      "question": "Identify the birthplace of William Shakespeare.",
+      "correctAnswer": "Stratford-upon-Avon",
       "distractors": [
-        "The astronomy terms she had memorized turned out to be incorrect.",
-        "Dr. Alvarez was disappointed in her and would not invite her back.",
-        "Young visitors learn best from a lecture with many technical terms."
+        "London",
+        "Oxford",
+        "Cambridge"
       ],
-      "explanation": "The narrator states the realization in her own words: she had prepared 'to perform knowledge rather than help someone discover it.' Nothing in the passage says her terms were wrong or that Dr. Alvarez was disappointed - the tone is reflective, not punished.",
-      "memoryHook": "T-Rexy says: performing is not teaching - discovery beats showing off!",
+      "explanation": "William Shakespeare was baptized in Stratford-upon-Avon in 1564.",
+      "memoryHook": "T-Rexy says: Stratford starts the story - Shakespeare's hometown headlines!",
       "imageUrl": "topic:literature",
       "tags": [
         "ELA",
-        "Reading"
+        "Shakespeare"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1636,19 +1636,19 @@
     },
     {
       "id": "EENG_082",
-      "question": "Passage: On my first night volunteering at the campus observatory, I arrived certain I would impress everyone with the astronomy terms I had memorized. Instead, when a young visitor asked why the Moon looked larger near the horizon, I froze. Dr. Alvarez, the astronomer in charge, did not answer for me. She handed the girl a small ball and a flashlight and said, 'Show us what you think happens.' As the girl moved the ball around the light, I realized I had been preparing to perform knowledge rather than help someone discover it. For the rest of the evening, I listened more than I spoke, asking visitors what they noticed before I offered any explanation. I left with fewer facts delivered, but I had finally begun to learn how to teach.\n\nWhy does Dr. Alvarez hand the girl a ball and a flashlight instead of answering her question directly?",
-      "correctAnswer": "To invite the girl to explore her own thinking about the question.",
+      "question": "Identify the play containing the line 'To be, or not to be.'",
+      "correctAnswer": "Hamlet",
       "distractors": [
-        "Because she does not know why the Moon looks larger near the horizon.",
-        "To test whether the narrator has memorized enough astronomy terms.",
-        "Because the observatory has a rule against speaking to young visitors."
+        "Macbeth",
+        "Othello",
+        "King Lear"
       ],
-      "explanation": "Her instruction - 'Show us what you think happens' - turns the question back into an experiment the girl can run herself. That models the discovery-based teaching the narrator then imitates for the rest of the evening by asking visitors what they noticed first.",
-      "memoryHook": "T-Rexy says: hand over the tools, not the answer - let the learner show her thinking!",
+      "explanation": "Hamlet speaks the famous soliloquy in Act 3 while contemplating life and death.",
+      "memoryHook": "T-Rexy says: to be or not to be - Hamlet ponders on the ramparts!",
       "imageUrl": "topic:literature",
       "tags": [
         "ELA",
-        "Reading"
+        "Shakespeare"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1656,19 +1656,19 @@
     },
     {
       "id": "EENG_083",
-      "question": "Passage: On my first night volunteering at the campus observatory, I arrived certain I would impress everyone with the astronomy terms I had memorized. Instead, when a young visitor asked why the Moon looked larger near the horizon, I froze. Dr. Alvarez, the astronomer in charge, did not answer for me. She handed the girl a small ball and a flashlight and said, 'Show us what you think happens.' As the girl moved the ball around the light, I realized I had been preparing to perform knowledge rather than help someone discover it. For the rest of the evening, I listened more than I spoke, asking visitors what they noticed before I offered any explanation. I left with fewer facts delivered, but I had finally begun to learn how to teach.\n\nHow does the narrator's behavior change over the course of the evening?",
-      "correctAnswer": "She listens more than she speaks, asking visitors what they noticed before offering any explanation.",
+      "question": "In 'Romeo and Juliet,' determine which house Romeo belongs to.",
+      "correctAnswer": "Montague",
       "distractors": [
-        "She memorizes more astronomy terms so she can answer faster.",
-        "She stops talking to visitors and lets Dr. Alvarez handle every question.",
-        "She delivers longer lectures so visitors leave with more facts."
+        "Capulet",
+        "Escalus",
+        "Paris"
       ],
-      "explanation": "The change is stated directly: 'I listened more than I spoke, asking visitors what they noticed before I offered any explanation.' She still teaches - the order changes. Listening comes first and explanation second, the reverse of her memorize-and-perform plan.",
-      "memoryHook": "T-Rexy says: listen first, explain second - the order is the lesson!",
+      "explanation": "Romeo is a Montague; Juliet is a Capulet - the feuding houses of Verona.",
+      "memoryHook": "T-Rexy says: Montague meets Capulet - feuding families, fatal love!",
       "imageUrl": "topic:literature",
       "tags": [
         "ELA",
-        "Reading"
+        "Shakespeare"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1676,19 +1676,19 @@
     },
     {
       "id": "EENG_084",
-      "question": "Passage: On my first night volunteering at the campus observatory, I arrived certain I would impress everyone with the astronomy terms I had memorized. Instead, when a young visitor asked why the Moon looked larger near the horizon, I froze. Dr. Alvarez, the astronomer in charge, did not answer for me. She handed the girl a small ball and a flashlight and said, 'Show us what you think happens.' As the girl moved the ball around the light, I realized I had been preparing to perform knowledge rather than help someone discover it. For the rest of the evening, I listened more than I spoke, asking visitors what they noticed before I offered any explanation. I left with fewer facts delivered, but I had finally begun to learn how to teach.\n\nWhich statement best expresses the central lesson of the passage?",
-      "correctAnswer": "Good teaching begins with listening to learners instead of showing off what you know.",
+      "question": "Identify the play in which 'All the world's a stage' is spoken.",
+      "correctAnswer": "As You Like It",
       "distractors": [
-        "Volunteering at an observatory is a waste of time for new students.",
-        "The Moon looks larger near the horizon because of the ball-and-flashlight model.",
-        "Memorizing technical terms is the best preparation for answering questions."
+        "Hamlet",
+        "The Tempest",
+        "Twelfth Night"
       ],
-      "explanation": "The closing line resolves the arc: she delivered fewer facts but 'had finally begun to learn how to teach.' The passage never explains the Moon illusion itself, and her opening memorize-and-perform approach is exactly what the evening teaches her to abandon.",
-      "memoryHook": "T-Rexy says: fewer facts, better teaching - listening is the real telescope!",
+      "explanation": "Jaques delivers the 'Seven Ages of Man' speech in As You Like It, Act 2.",
+      "memoryHook": "T-Rexy says: all the world's a stage - Jaques speaks in As You Like It!",
       "imageUrl": "topic:literature",
       "tags": [
         "ELA",
-        "Reading"
+        "Shakespeare"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1696,19 +1696,19 @@
     },
     {
       "id": "EENG_085",
-      "question": "A teacher displays projects made by several students. Choose the correctly punctuated sentence for the display sign.",
-      "correctAnswer": "The students' projects were displayed in the main hall.",
+      "question": "In 'Macbeth,' determine what Lady Macbeth's 'Out, damned spot!' refers to.",
+      "correctAnswer": "an imagined spot of blood",
       "distractors": [
-        "The student's projects were displayed in the main hall.",
-        "The students projects were displayed in the main hall.",
-        "The students's projects were displayed in the main hall."
+        "a crown",
+        "a dagger",
+        "a letter"
       ],
-      "explanation": "When a plural noun ending in s shows possession, the apostrophe goes after the s: students' projects. 'Student's' would mean the projects of one student, which contradicts the several students in the prompt, and 'students's' is never a correct form in edited American English.",
-      "memoryHook": "T-Rexy says: many students, apostrophe after the s - students' shows them all!",
+      "explanation": "Sleepwalking Lady Macbeth tries to wash invisible blood - guilt made visible.",
+      "memoryHook": "T-Rexy says: out, damned spot - Lady Macbeth scrubs the guilt!",
       "imageUrl": "topic:literature",
       "tags": [
         "ELA",
-        "Grammar"
+        "Shakespeare"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1716,19 +1716,19 @@
     },
     {
       "id": "EENG_086",
-      "question": "Choose the correct verb to complete the sentence: 'The set of revised drafts from the workshop ___ ready for review today.'",
-      "correctAnswer": "is",
+      "question": "Determine approximately how many plays Shakespeare is credited with writing.",
+      "correctAnswer": "37",
       "distractors": [
-        "are",
-        "were",
-        "have been"
+        "12",
+        "25",
+        "50"
       ],
-      "explanation": "The subject is 'set,' a singular noun; the phrase 'of revised drafts' sits between the subject and the verb but does not change its number. The word 'today' anchors the sentence in the present, so the singular present form 'is' is the only choice that agrees in both number and tense.",
-      "memoryHook": "T-Rexy says: hunt the head noun - the set is one, so the verb is 'is'!",
+      "explanation": "The traditional canon counts 37 plays, plus 154 sonnets and narrative poems.",
+      "memoryHook": "T-Rexy says: thirty-seven plays strong - the Bard's bookshelf overflows!",
       "imageUrl": "topic:literature",
       "tags": [
         "ELA",
-        "Grammar"
+        "Shakespeare"
       ],
       "difficulty": "hard",
       "dynamic": false,
