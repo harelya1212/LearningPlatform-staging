@@ -215,19 +215,19 @@
     },
     {
       "id": "GEO7_011",
-      "question": "What is the median of 2, 5, 4, 2, 5?",
-      "correctAnswer": "4",
+      "question": "A square pyramid has a base that measures 6 cm by 6 cm. Each of its triangular faces has a height of 5 cm. What is the surface area of the pyramid?",
+      "correctAnswer": "96 square cm",
       "distractors": [
-        "2",
-        "5",
-        "3"
+        "60 square cm",
+        "156 square cm",
+        "66 square cm"
       ],
-      "explanation": "Order the numbers first: 2, 2, 4, 5, 5. The middle one is 4.",
-      "memoryHook": "T-Rexy says: median is the middle value after sorting.",
+      "explanation": "Surface area counts every face. The square base is 6 x 6 = 36. Each triangular face is 1/2 x 6 x 5 = 15, and there are 4 of them: 4 x 15 = 60. Total: 36 + 60 = 96 square cm.",
+      "memoryHook": "T-Rexy says: surface area means wrapping every face, base included.",
       "imageUrl": "topic:geometry",
       "tags": [
-        "statistics",
-        "median"
+        "surface-area",
+        "pyramids"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -375,19 +375,19 @@
     },
     {
       "id": "GEO7_019",
-      "question": "What is the range of 3, 4, 11, 11, 8?",
-      "correctAnswer": "8",
+      "question": "An angle measures 35 degrees. What is the measure of its complement?",
+      "correctAnswer": "55 degrees",
       "distractors": [
-        "11",
-        "9",
-        "10"
+        "145 degrees",
+        "45 degrees",
+        "65 degrees"
       ],
-      "explanation": "Range = largest - smallest = 11 - 3 = 8.",
-      "memoryHook": "T-Rexy says: range shows how spread out the data is.",
+      "explanation": "Complementary angles add to 90 degrees, because together they fill a right angle. So subtract the known angle: 90 - 35 = 55 degrees.",
+      "memoryHook": "T-Rexy says: complements complete a corner - together they make 90.",
       "imageUrl": "topic:geometry",
       "tags": [
-        "statistics",
-        "range"
+        "angles",
+        "complementary"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -495,19 +495,19 @@
     },
     {
       "id": "GEO7_025",
-      "question": "In a survey, 40% of 200 students chose pizza. If the school has 100 students, about how many would choose pizza?",
-      "correctAnswer": "40",
+      "question": "A real fence is 24 meters long. On a scale drawing, 1 cm represents 3 meters. How long is the fence on the drawing?",
+      "correctAnswer": "8 cm",
       "distractors": [
-        "60",
-        "160",
-        "41"
+        "72 cm",
+        "21 cm",
+        "27 cm"
       ],
-      "explanation": "40% of 100 is about 40 students.",
-      "memoryHook": "T-Rexy says: use the sample percent to predict the whole group.",
+      "explanation": "A scale drawing shrinks real lengths, so divide the real length by the scale: 24 / 3 = 8 cm on the drawing.",
+      "memoryHook": "T-Rexy says: going from real life to paper, divide by the scale.",
       "imageUrl": "topic:geometry",
       "tags": [
-        "statistics",
-        "predictions"
+        "scale-drawings",
+        "proportions"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -975,19 +975,19 @@
     },
     {
       "id": "GEO7_049",
-      "question": "A spinner with 4 equal sections: red, blue, green, yellow. What is the probability of landing on green?",
-      "correctAnswer": "1/4",
+      "question": "A circular sticker has a diameter of 8 cm. What is its area? Use 3.14 for pi.",
+      "correctAnswer": "50.24 square cm",
       "distractors": [
-        "1/2",
-        "3/4",
-        "1/3"
+        "25.12 square cm",
+        "200.96 square cm",
+        "12.56 square cm"
       ],
-      "explanation": "There is 1 green section out of 4 equal sections, so the probability is 1/4.",
-      "memoryHook": "T-Rexy says: probability is what you want over everything possible.",
+      "explanation": "The area formula needs the radius, so first halve the diameter: 8 / 2 = 4 cm. Then Area = pi x radius squared = 3.14 x 4 x 4 = 50.24 square cm.",
+      "memoryHook": "T-Rexy says: halve the diameter before you square anything.",
       "imageUrl": "topic:geometry",
       "tags": [
-        "probability",
-        "chance"
+        "circles",
+        "area"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -995,19 +995,19 @@
     },
     {
       "id": "GEO7_050",
-      "question": "You roll a number cube twice. What is the probability of rolling a 6 both times?",
-      "correctAnswer": "1/36",
+      "question": "Two lines cross each other. One of the angles measures 118 degrees. What is the measure of the angle adjacent to it?",
+      "correctAnswer": "62 degrees",
       "distractors": [
-        "1/6",
-        "1/12",
-        "2/6"
+        "118 degrees",
+        "28 degrees",
+        "72 degrees"
       ],
-      "explanation": "Each roll has a 1/6 chance, so 1/6 x 1/6 = 1/36.",
-      "memoryHook": "T-Rexy says: multiply the chances for both events.",
+      "explanation": "Adjacent angles formed by crossing lines sit on a straight line, so they are supplementary and add to 180 degrees: 180 - 118 = 62 degrees.",
+      "memoryHook": "T-Rexy says: neighbors on a straight line always add to 180.",
       "imageUrl": "topic:geometry",
       "tags": [
-        "probability",
-        "compound"
+        "angles",
+        "supplementary"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1295,7 +1295,7 @@
     },
     {
       "id": "GEO7_065",
-      "question": "In which quadrant is the point (2, 2)?",
+      "question": "The point (2, 2) lies in which quadrant?",
       "correctAnswer": "Quadrant I",
       "distractors": [
         "Quadrant II",
@@ -1355,19 +1355,19 @@
     },
     {
       "id": "GEO7_068",
-      "question": "What is the median of 4, 2, 4, 2, 2?",
-      "correctAnswer": "2",
+      "question": "A square pyramid has a base that is 9 cm by 9 cm and a height of 10 cm. What is the volume of the pyramid?",
+      "correctAnswer": "270 cubic cm",
       "distractors": [
-        "3",
-        "4",
-        "1"
+        "810 cubic cm",
+        "90 cubic cm",
+        "300 cubic cm"
       ],
-      "explanation": "Order the numbers first: 2, 2, 2, 4, 4. The middle one is 2.",
-      "memoryHook": "T-Rexy says: median is the middle value after sorting.",
+      "explanation": "A pyramid holds exactly one third of a prism with the same base and height. The base area is 9 x 9 = 81, so Volume = 1/3 x 81 x 10 = 270 cubic cm.",
+      "memoryHook": "T-Rexy says: a pyramid is one third of its prism twin.",
       "imageUrl": "topic:geometry",
       "tags": [
-        "statistics",
-        "median"
+        "volume",
+        "pyramids"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1395,19 +1395,19 @@
     },
     {
       "id": "GEO7_070",
-      "question": "In a survey, 50% of 200 students chose pizza. If the school has 100 students, about how many would choose pizza?",
-      "correctAnswer": "50",
+      "question": "A cylinder is sliced by a flat cut that goes straight across it, parallel to its bases. What shape is the cross section?",
+      "correctAnswer": "A circle",
       "distractors": [
-        "70",
-        "150",
-        "51"
+        "A rectangle",
+        "A triangle",
+        "An oval"
       ],
-      "explanation": "50% of 100 is about 50 students.",
-      "memoryHook": "T-Rexy says: use the sample percent to predict the whole group.",
+      "explanation": "A cut made parallel to a solid's base copies the shape of that base. The bases of a cylinder are circles, so the cross section is a circle the same size as the base.",
+      "memoryHook": "T-Rexy says: a cut parallel to the base copies the base.",
       "imageUrl": "topic:geometry",
       "tags": [
-        "statistics",
-        "predictions"
+        "cross-sections",
+        "cylinders"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1435,19 +1435,19 @@
     },
     {
       "id": "GEO7_072",
-      "question": "You flip a coin 20 times and get heads 12 times. What is the experimental probability of heads?",
-      "correctAnswer": "12/20",
+      "question": "What is the area of a semicircle with a diameter of 10 cm? Use 3.14 for pi.",
+      "correctAnswer": "39.25 square cm",
       "distractors": [
-        "1/2",
-        "8/20",
-        "20/12"
+        "78.5 square cm",
+        "15.7 square cm",
+        "31.4 square cm"
       ],
-      "explanation": "Experimental probability uses what actually happened: 12 heads out of 20 flips.",
-      "memoryHook": "T-Rexy says: experimental probability counts real results.",
+      "explanation": "The radius is half the diameter: 10 / 2 = 5 cm. A full circle would have area 3.14 x 5 x 5 = 78.5, and a semicircle is exactly half of the circle: 78.5 / 2 = 39.25 square cm.",
+      "memoryHook": "T-Rexy says: find the whole circle first, then take half.",
       "imageUrl": "topic:geometry",
       "tags": [
-        "probability",
-        "experimental"
+        "circles",
+        "area"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1475,19 +1475,19 @@
     },
     {
       "id": "GEO7_074",
-      "question": "What is the median of 4, 8, 4, 12, 7?",
-      "correctAnswer": "7",
+      "question": "Two angles are supplementary. One angle is 4 times as large as the other. What is the measure of the smaller angle?",
+      "correctAnswer": "36 degrees",
       "distractors": [
-        "4",
-        "12",
-        "8"
+        "45 degrees",
+        "144 degrees",
+        "30 degrees"
       ],
-      "explanation": "Order the numbers first: 4, 4, 7, 8, 12. The middle one is 7.",
-      "memoryHook": "T-Rexy says: median is the middle value after sorting.",
+      "explanation": "Call the smaller angle x. The larger angle is 4x, and supplementary angles add to 180, so x + 4x = 180. That gives 5x = 180, so x = 36 degrees.",
+      "memoryHook": "T-Rexy says: name the small angle x and let the equation do the work.",
       "imageUrl": "topic:geometry",
       "tags": [
-        "statistics",
-        "median"
+        "angles",
+        "supplementary"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1495,19 +1495,19 @@
     },
     {
       "id": "GEO7_075",
-      "question": "What is the mode of 4, 7, 7, 9, 7, 3, 5, 7, 2?",
-      "correctAnswer": "7",
+      "question": "Which part of a circle is a straight segment that joins two points on the circle and passes through its center?",
+      "correctAnswer": "The diameter",
       "distractors": [
-        "4",
-        "5",
-        "9"
+        "The radius",
+        "The circumference",
+        "The arc"
       ],
-      "explanation": "7 appears four times, more than any other number.",
-      "memoryHook": "T-Rexy says: mode is the value that shows up most often.",
+      "explanation": "A segment with both endpoints on the circle that passes through the center is the diameter. It is the longest segment across a circle and equals exactly two radii.",
+      "memoryHook": "T-Rexy says: the diameter dives straight through the center.",
       "imageUrl": "topic:geometry",
       "tags": [
-        "statistics",
-        "mode"
+        "circles",
+        "vocabulary"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1595,19 +1595,19 @@
     },
     {
       "id": "GEO7_080",
-      "question": "You flip a fair coin twice. What is the probability of getting heads both times?",
-      "correctAnswer": "1/4",
+      "question": "A shape is made of two rectangles. One rectangle is 9 cm by 3 cm, and the other is 4 cm by 3 cm. What is the total area of the shape?",
+      "correctAnswer": "39 square cm",
       "distractors": [
-        "1/2",
-        "1/3",
-        "3/4"
+        "27 square cm",
+        "12 square cm",
+        "36 square cm"
       ],
-      "explanation": "Each flip has a 1/2 chance, so 1/2 x 1/2 = 1/4.",
-      "memoryHook": "T-Rexy says: multiply the chances for both events.",
+      "explanation": "Split the shape into its two rectangles and add their areas: 9 x 3 = 27 and 4 x 3 = 12. Total: 27 + 12 = 39 square cm.",
+      "memoryHook": "T-Rexy says: chop the shape into rectangles and add the pieces.",
       "imageUrl": "topic:geometry",
       "tags": [
-        "probability",
-        "compound"
+        "area",
+        "composite"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1635,7 +1635,7 @@
     },
     {
       "id": "GEO7_082",
-      "question": "In which quadrant is the point (-1, 6)?",
+      "question": "The point (-1, 6) is located in which quadrant?",
       "correctAnswer": "Quadrant II",
       "distractors": [
         "Quadrant I",
@@ -1715,19 +1715,19 @@
     },
     {
       "id": "GEO7_086",
-      "question": "In a survey, 25% of 200 students chose pizza. If the school has 200 students, about how many would choose pizza?",
-      "correctAnswer": "50",
+      "question": "A rectangle is 5 cm long and 2 cm wide. It is enlarged by a scale factor of 3. What is the perimeter of the enlarged rectangle?",
+      "correctAnswer": "42 cm",
       "distractors": [
-        "70",
-        "150",
-        "25"
+        "14 cm",
+        "30 cm",
+        "126 cm"
       ],
-      "explanation": "25% of 200 is about 50 students.",
-      "memoryHook": "T-Rexy says: use the sample percent to predict the whole group.",
+      "explanation": "A scale factor multiplies every length: the new sides are 5 x 3 = 15 cm and 2 x 3 = 6 cm. Perimeter = 2 x (15 + 6) = 42 cm.",
+      "memoryHook": "T-Rexy says: every length gets multiplied by the scale factor.",
       "imageUrl": "topic:geometry",
       "tags": [
-        "statistics",
-        "predictions"
+        "scale-drawings",
+        "proportions"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1735,19 +1735,19 @@
     },
     {
       "id": "GEO7_087",
-      "question": "What is the range of 6, 4, 11, 8, 6?",
-      "correctAnswer": "7",
+      "question": "Can a triangle be built with side lengths of 3 cm, 4 cm, and 9 cm?",
+      "correctAnswer": "No - the two short sides add to less than the long side",
       "distractors": [
-        "11",
-        "6",
-        "8"
+        "Yes - any three lengths can form a triangle",
+        "Yes - the longest side is 9 cm",
+        "No - a triangle must have all sides equal"
       ],
-      "explanation": "Range = largest - smallest = 11 - 4 = 7.",
-      "memoryHook": "T-Rexy says: range shows how spread out the data is.",
+      "explanation": "The triangle inequality says the two shorter sides must add to more than the longest side. Here 3 + 4 = 7, which is less than 9, so the short sides cannot reach each other to close the triangle.",
+      "memoryHook": "T-Rexy says: two short sides must reach past the long one.",
       "imageUrl": "topic:geometry",
       "tags": [
-        "statistics",
-        "range"
+        "triangles",
+        "constructions"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1835,19 +1835,19 @@
     },
     {
       "id": "GEO7_092",
-      "question": "A standard number cube is rolled. What is the probability of rolling a 5?",
-      "correctAnswer": "1/6",
+      "question": "A triangular prism has triangular ends with a base of 6 cm and a height of 4 cm. The prism is 10 cm long, and the other two sides of each triangle are 5 cm and 5 cm. What is the surface area of the prism?",
+      "correctAnswer": "184 square cm",
       "distractors": [
-        "1/5",
-        "5/6",
-        "1/3"
+        "160 square cm",
+        "208 square cm",
+        "172 square cm"
       ],
-      "explanation": "A number cube has 6 faces and only one shows a 5, so the probability is 1/6.",
-      "memoryHook": "T-Rexy says: probability is what you want over everything possible.",
+      "explanation": "Count all five faces. The two triangular ends: 2 x (1/2 x 6 x 4) = 24. The three rectangular sides: 6 x 10 = 60, plus two of 5 x 10 = 50 each. Total: 24 + 60 + 50 + 50 = 184 square cm.",
+      "memoryHook": "T-Rexy says: a prism wears two triangle ends and three rectangle walls.",
       "imageUrl": "topic:geometry",
       "tags": [
-        "probability",
-        "chance"
+        "surface-area",
+        "prisms"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1855,19 +1855,19 @@
     },
     {
       "id": "GEO7_093",
-      "question": "A bag with 3 red marbles and 5 blue marbles. What is the probability of picking a red marble?",
-      "correctAnswer": "3/8",
+      "question": "When two lines cross, what are the angles that sit directly across from each other called?",
+      "correctAnswer": "Vertical angles",
       "distractors": [
-        "3/5",
-        "5/8",
-        "1/3"
+        "Complementary angles",
+        "Supplementary angles",
+        "Adjacent angles"
       ],
-      "explanation": "There are 3 red marbles out of 8 total, so the probability is 3/8.",
-      "memoryHook": "T-Rexy says: probability is what you want over everything possible.",
+      "explanation": "Angles that sit opposite each other when two lines cross are called vertical angles. They are formed by the same two lines and always have equal measures.",
+      "memoryHook": "T-Rexy says: vertical angles face off across the crossing - and they match.",
       "imageUrl": "topic:geometry",
       "tags": [
-        "probability",
-        "chance"
+        "angles",
+        "vertical"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "GEO7_098",
-      "question": "In which quadrant is the point (3, 4)?",
+      "question": "Which quadrant contains the point (3, 4)?",
       "correctAnswer": "Quadrant I",
       "distractors": [
         "Quadrant II",
