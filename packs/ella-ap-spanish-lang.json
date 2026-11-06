@@ -83,8 +83,8 @@
       "correctAnswer": "gracias",
       "distractors": [
         "hola",
-        "adios",
-        "perdon"
+        "adiós",
+        "perdón"
       ],
       "explanation": "Gracias means 'thank you' in Spanish and is one of the most useful polite words.",
       "memoryHook": "T-Rexy says: Gracias opens every door!",
@@ -188,10 +188,10 @@
       "correctAnswer": "perro",
       "distractors": [
         "gato",
-        "pajaro",
+        "pájaro",
         "pez"
       ],
-      "explanation": "Perro means 'dog' in Spanish. Gato is cat, pajaro is bird, pez is fish.",
+      "explanation": "Perro means 'dog' in Spanish. Gato is cat, pájaro is bird, pez is fish.",
       "memoryHook": "T-Rexy says: El perro is man's best amigo!",
       "imageUrl": "topic:spanish-word-perro",
       "tags": [
@@ -205,15 +205,15 @@
     },
     {
       "id": "ESP_010",
-      "question": "Which form of 'tener' goes with 'tu' (you, informal)?",
+      "question": "Which form of 'tener' goes with 'tú' (you, informal)?",
       "correctAnswer": "tienes",
       "distractors": [
         "tengo",
         "tiene",
         "tenemos"
       ],
-      "explanation": "Tienes is the tu form of tener. Tener is irregular in the present tense.",
-      "memoryHook": "T-Rexy says: Tu tienes - you have it!",
+      "explanation": "Tienes is the tú form of tener. Tener is irregular in the present tense.",
+      "memoryHook": "T-Rexy says: Tú tienes - you have it!",
       "imageUrl": "topic:spanish-tener-tu",
       "tags": [
         "spanish",
@@ -227,14 +227,14 @@
     {
       "id": "ESP_011",
       "question": "How do you say 'good morning' in Spanish?",
-      "correctAnswer": "buenos dias",
+      "correctAnswer": "buenos días",
       "distractors": [
         "buenas noches",
         "buenas tardes",
         "hasta luego"
       ],
-      "explanation": "Buenos dias means 'good morning' and is used until around noon.",
-      "memoryHook": "T-Rexy says: Buenos dias starts the day right!",
+      "explanation": "Buenos días means 'good morning' and is used until around noon.",
+      "memoryHook": "T-Rexy says: Buenos días starts the day right!",
       "imageUrl": "topic:spanish-greeting-morning",
       "tags": [
         "spanish",
@@ -262,14 +262,14 @@
         "vocabulary",
         "food"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "ESP_013",
       "question": "Which Spanish-speaking country is home to Machu Picchu?",
-      "correctAnswer": "Peru",
+      "correctAnswer": "Perú",
       "distractors": [
         "Chile",
         "Colombia",
@@ -289,15 +289,15 @@
     },
     {
       "id": "ESP_014",
-      "question": "What does 'adios' mean?",
+      "question": "What does 'adiós' mean?",
       "correctAnswer": "goodbye",
       "distractors": [
         "hello",
         "thank you",
         "please"
       ],
-      "explanation": "Adios means 'goodbye' in Spanish, used when parting.",
-      "memoryHook": "T-Rexy says: Adios means see you later!",
+      "explanation": "Adiós means 'goodbye' in Spanish, used when parting.",
+      "memoryHook": "T-Rexy says: Adiós means see you later!",
       "imageUrl": "topic:spanish-word-adios",
       "tags": [
         "spanish",
@@ -359,7 +359,7 @@
         "Spain",
         "Colombia"
       ],
-      "explanation": "Argentina is the largest Spanish-speaking country by land area.",
+      "explanation": "Argentina is the largest by land area at about 2.78 million square kilometers. Mexico is next at about 1.96 million, so area - not population - is what makes Argentina the answer.",
       "memoryHook": "T-Rexy says: Argentina is huge - the biggest!",
       "imageUrl": "topic:argentina-largest",
       "tags": [
@@ -439,9 +439,9 @@
       "question": "Which Spanish artist painted Guernica?",
       "correctAnswer": "Pablo Picasso",
       "distractors": [
-        "Salvador Dali",
+        "Salvador Dalí",
         "Francisco Goya",
-        "Joan Miro"
+        "Joan Miró"
       ],
       "explanation": "Pablo Picasso painted Guernica in 1937 in response to the bombing of the Basque town during the Spanish Civil War.",
       "memoryHook": "T-Rexy says: Picasso painted Guernica in protest!",
@@ -464,7 +464,7 @@
         "the church",
         "the store"
       ],
-      "explanation": "La escuela means 'the school' in Spanish.",
+      "explanation": "Escuela is a feminine noun, so it takes the feminine article la. The same agreement pattern gives la casa and la mesa - the article must match the noun's gender.",
       "memoryHook": "T-Rexy says: La escuela is where you learn!",
       "imageUrl": "topic:spanish-word-escuela",
       "tags": [
@@ -500,13 +500,13 @@
     {
       "id": "ESP_024",
       "question": "How do you say 'I am from Mexico' in Spanish?",
-      "correctAnswer": "Soy de Mexico",
+      "correctAnswer": "Soy de México",
       "distractors": [
-        "Estoy de Mexico",
-        "Vivo de Mexico",
-        "Tengo de Mexico"
+        "Estoy de México",
+        "Vivo de México",
+        "Tengo de México"
       ],
-      "explanation": "Soy de Mexico uses ser for origin. Ser is used for where someone is from.",
+      "explanation": "Soy de México uses ser for origin. Ser is used for where someone is from.",
       "memoryHook": "T-Rexy says: Soy de... tells where you're from!",
       "imageUrl": "topic:spanish-origin-ser",
       "tags": [
@@ -514,7 +514,7 @@
         "grammar",
         "ser"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -548,7 +548,7 @@
         "Las Fallas",
         "Carnaval"
       ],
-      "explanation": "The Running of the Bulls (San Fermin) takes place in Pamplona each July.",
+      "explanation": "The Running of the Bulls (San Fermín) takes place in Pamplona each July.",
       "memoryHook": "T-Rexy says: Pamplona runs with the bulls!",
       "imageUrl": "topic:pamplona-bulls",
       "tags": [
@@ -569,7 +569,7 @@
         "good luck",
         "see you soon"
       ],
-      "explanation": "Muchas gracias means 'thank you very much' in Spanish.",
+      "explanation": "Muchas agrees with gracias in gender and number - both are feminine plural. The standard reply to gracias is de nada (you're welcome).",
       "memoryHook": "T-Rexy says: Muchas gracias is extra grateful!",
       "imageUrl": "topic:spanish-word-muchas-gracias",
       "tags": [
@@ -584,14 +584,14 @@
     {
       "id": "ESP_028",
       "question": "Which form of 'estar' goes with 'ella' (she)?",
-      "correctAnswer": "esta",
+      "correctAnswer": "está",
       "distractors": [
         "estoy",
-        "estas",
-        "estan"
+        "estás",
+        "están"
       ],
-      "explanation": "Esta is the ella form of estar. Estar is used for location and temporary states.",
-      "memoryHook": "T-Rexy says: Ella esta - she is there!",
+      "explanation": "Está is the ella form of estar. Estar is used for location and temporary states.",
+      "memoryHook": "T-Rexy says: Ella está - she is there!",
       "imageUrl": "topic:spanish-estar-ella",
       "tags": [
         "spanish",
@@ -607,11 +607,11 @@
       "question": "What is the Spanish word for 'book'?",
       "correctAnswer": "libro",
       "distractors": [
-        "lapiz",
+        "lápiz",
         "papel",
         "mesa"
       ],
-      "explanation": "Libro means 'book' in Spanish. Lapiz is pencil, papel is paper, mesa is table.",
+      "explanation": "Libro means 'book' in Spanish. Lápiz is pencil, papel is paper, mesa is table.",
       "memoryHook": "T-Rexy says: El libro opens new worlds!",
       "imageUrl": "topic:spanish-word-libro",
       "tags": [
@@ -668,14 +668,14 @@
     {
       "id": "ESP_032",
       "question": "What is the preterite yo form of 'hablar'?",
-      "correctAnswer": "hable",
+      "correctAnswer": "hablé",
       "distractors": [
         "hablo",
         "hablaba",
-        "hablare"
+        "hablaré"
       ],
-      "explanation": "Hable is the preterite yo form of hablar. Hablo is present, hablaba is imperfect.",
-      "memoryHook": "T-Rexy says: Hable means I spoke - past done!",
+      "explanation": "Hablé is the preterite yo form of hablar: regular -ar verbs take -é in the yo preterite. Hablo is present, hablaba is imperfect, and hablaré is future. Hable without the accent is the present subjunctive, not the preterite.",
+      "memoryHook": "T-Rexy says: Hablé means I spoke - past done, accent on the é!",
       "imageUrl": "topic:spanish-preterite-hablar",
       "tags": [
         "spanish",
@@ -689,13 +689,13 @@
     {
       "id": "ESP_033",
       "question": "Which sentence correctly uses the imperfect tense?",
-      "correctAnswer": "Cuando era nino, jugaba en el parque",
+      "correctAnswer": "Cuando era niño, jugaba en el parque",
       "distractors": [
-        "Ayer jugue en el parque",
-        "Manana jugare en el parque",
+        "Ayer jugué en el parque",
+        "Mañana jugaré en el parque",
         "He jugado en el parque"
       ],
-      "explanation": "The imperfect (jugaba, era) describes ongoing or habitual past actions. The preterite (jugue) is for completed actions.",
+      "explanation": "The imperfect (jugaba, era) describes ongoing or habitual past actions. The preterite (jugué) is for completed actions.",
       "memoryHook": "T-Rexy says: Imperfect paints the past background!",
       "imageUrl": "topic:spanish-imperfect-example",
       "tags": [
@@ -709,12 +709,12 @@
     },
     {
       "id": "ESP_034",
-      "question": "Choose the correct form: 'Espero que tu ___ a la fiesta.'",
+      "question": "Choose the correct form: 'Espero que tú ___ a la fiesta.'",
       "correctAnswer": "vengas",
       "distractors": [
         "vienes",
         "viniste",
-        "vendras"
+        "vendrás"
       ],
       "explanation": "Vengas is the present subjunctive of venir. After expressions of hope or desire (espero que), the subjunctive is required.",
       "memoryHook": "T-Rexy says: Espero que triggers subjunctive!",
@@ -724,7 +724,7 @@
         "grammar",
         "subjunctive"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -766,7 +766,7 @@
         "grammar",
         "subjunctive"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -819,9 +819,9 @@
       "distractors": [
         "fueron",
         "van",
-        "iran"
+        "irán"
       ],
-      "explanation": "Iban is the imperfect ellos form of ir. Fueron is preterite, van is present, iran is future.",
+      "explanation": "Iban is the imperfect ellos form of ir. Fueron is preterite, van is present, irán is future.",
       "memoryHook": "T-Rexy says: Iban means they used to go!",
       "imageUrl": "topic:spanish-imperfect-ir",
       "tags": [
@@ -861,7 +861,7 @@
       "distractors": [
         "iba",
         "voy",
-        "ire"
+        "iré"
       ],
       "explanation": "Fui is the preterite yo form of ir (and ser - they share forms in preterite). Iba is imperfect, voy is present.",
       "memoryHook": "T-Rexy says: Fui went and was - same form!",
@@ -892,18 +892,18 @@
         "grammar",
         "conjunctions"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "ESP_043",
       "question": "What is the correct translation of 'I used to play soccer'?",
-      "correctAnswer": "Jugaba al futbol",
+      "correctAnswer": "Jugaba al fútbol",
       "distractors": [
-        "Juegue al futbol",
-        "Juego al futbol",
-        "Jugare al futbol"
+        "Juegue al fútbol",
+        "Juego al fútbol",
+        "Jugaré al fútbol"
       ],
       "explanation": "Jugaba is the imperfect, used for habitual past actions like 'used to play'.",
       "memoryHook": "T-Rexy says: Jugaba means used to play!",
@@ -919,15 +919,15 @@
     },
     {
       "id": "ESP_044",
-      "question": "Which pronoun is used as the indirect object for 'a Maria'?",
+      "question": "Which pronoun is used as the indirect object for 'a María'?",
       "correctAnswer": "le",
       "distractors": [
         "la",
         "lo",
         "se"
       ],
-      "explanation": "Le is the indirect object pronoun for a Maria (to/for Maria).",
-      "memoryHook": "T-Rexy says: Le gives to Maria indirectly!",
+      "explanation": "Le is the indirect object pronoun: it marks the recipient, the person something is given or done to (a María). Lo and la mark direct objects instead - le answers 'to whom?', while lo and la answer 'what?'.",
+      "memoryHook": "T-Rexy says: Le gives to María indirectly!",
       "imageUrl": "topic:spanish-indirect-object",
       "tags": [
         "spanish",
@@ -941,14 +941,14 @@
     {
       "id": "ESP_045",
       "question": "What is the future tense yo form of 'hablar'?",
-      "correctAnswer": "hablare",
+      "correctAnswer": "hablaré",
       "distractors": [
         "hablo",
-        "hable",
+        "hablé",
         "hablaba"
       ],
-      "explanation": "Hablare is the future yo form of hablar. Future is formed by adding endings to the infinitive.",
-      "memoryHook": "T-Rexy says: Hablare is future - will speak!",
+      "explanation": "Hablaré is the future yo form of hablar. The future is formed by adding endings to the full infinitive.",
+      "memoryHook": "T-Rexy says: Hablaré is future - will speak!",
       "imageUrl": "topic:spanish-future-hablar",
       "tags": [
         "spanish",
@@ -964,9 +964,9 @@
       "question": "Which sentence uses the present perfect correctly?",
       "correctAnswer": "He comido mucho",
       "distractors": [
-        "Comi mucho",
-        "Comia mucho",
-        "Comere mucho"
+        "Comí mucho",
+        "Comía mucho",
+        "Comeré mucho"
       ],
       "explanation": "He comido is the present perfect (haber + past participle), used for actions completed recently or with present relevance.",
       "memoryHook": "T-Rexy says: He comido means I have eaten!",
@@ -1029,7 +1029,7 @@
       "distractors": [
         "escribido",
         "escribiendo",
-        "escribio"
+        "escribió"
       ],
       "explanation": "Escrito is the irregular past participle of escribir. Escribiendo is the gerund.",
       "memoryHook": "T-Rexy says: Escrito is written - irregular!",
@@ -1046,14 +1046,14 @@
     {
       "id": "ESP_050",
       "question": "Which phrase means 'to be cold' (a person feels cold)?",
-      "correctAnswer": "tener frio",
+      "correctAnswer": "tener frío",
       "distractors": [
-        "ser frio",
-        "estar frio",
-        "hacer frio"
+        "ser frío",
+        "estar frío",
+        "hacer frío"
       ],
-      "explanation": "Tener frio is used for a person feeling cold. Hacer frio describes cold weather.",
-      "memoryHook": "T-Rexy says: Tener frio - I feel cold!",
+      "explanation": "Tener frío is used for a person feeling cold. Hacer frío describes cold weather.",
+      "memoryHook": "T-Rexy says: Tener frío - I feel cold!",
       "imageUrl": "topic:spanish-tener-frio",
       "tags": [
         "spanish",
@@ -1066,15 +1066,15 @@
     },
     {
       "id": "ESP_051",
-      "question": "What is the subjunctive trigger in 'Ojala que llueva'?",
-      "correctAnswer": "Ojala",
+      "question": "What is the subjunctive trigger in 'Ojalá que llueva'?",
+      "correctAnswer": "Ojalá",
       "distractors": [
         "que",
         "llueva",
-        "Ojala que"
+        "espero"
       ],
-      "explanation": "Ojala (hopefully/I hope) always triggers the subjunctive, expressing a wish.",
-      "memoryHook": "T-Rexy says: Ojala always wants subjunctive!",
+      "explanation": "Ojalá (hopefully / I hope that) always triggers the subjunctive because it expresses a wish, not a fact. Que only introduces the clause - ojalá is the word that forces the subjunctive form llueva.",
+      "memoryHook": "T-Rexy says: Ojalá always wants subjunctive!",
       "imageUrl": "topic:spanish-ojala-subjunctive",
       "tags": [
         "spanish",
@@ -1094,7 +1094,7 @@
         "Peru",
         "Cuba"
       ],
-      "explanation": "Tango originated in the Rio de la Plata region, especially Buenos Aires, Argentina, in the late 19th century.",
+      "explanation": "Tango originated in the Río de la Plata region, especially Buenos Aires, Argentina, in the late 19th century.",
       "memoryHook": "T-Rexy says: Argentina dances the tango!",
       "imageUrl": "topic:argentina-tango",
       "tags": [
@@ -1130,13 +1130,13 @@
     {
       "id": "ESP_054",
       "question": "Which is the correct use of 'saber' vs 'conocer'?",
-      "correctAnswer": "Se hablar espanol / Conozco a Maria",
+      "correctAnswer": "Sé hablar español / Conozco a María",
       "distractors": [
-        "Conozco hablar espanol / Se a Maria",
-        "Se a Maria / Conozco hablar espanol",
+        "Conozco hablar español / Sé a María",
+        "Sé a María / Conozco hablar español",
         "They are interchangeable"
       ],
-      "explanation": "Saber is used for facts and skills (se hablar espanol). Conocer is used for knowing people and places (conozco a Maria).",
+      "explanation": "Saber is used for facts and skills (sé hablar español). Conocer is used for knowing people and places (conozco a María).",
       "memoryHook": "T-Rexy says: Saber facts, conocer people!",
       "imageUrl": "topic:spanish-saber-conocer",
       "tags": [
@@ -1151,14 +1151,14 @@
     {
       "id": "ESP_055",
       "question": "What is the conditional yo form of 'comer'?",
-      "correctAnswer": "comeria",
+      "correctAnswer": "comería",
       "distractors": [
         "comi",
         "coma",
         "como"
       ],
-      "explanation": "Comeria is the conditional yo form of comer, formed by adding endings to the infinitive.",
-      "memoryHook": "T-Rexy says: Comeria means I would eat!",
+      "explanation": "Comería is the conditional yo form of comer, formed by adding endings to the infinitive.",
+      "memoryHook": "T-Rexy says: Comería means I would eat!",
       "imageUrl": "topic:spanish-conditional-comer",
       "tags": [
         "spanish",
@@ -1174,8 +1174,8 @@
       "question": "Which author wrote Don Quixote?",
       "correctAnswer": "Miguel de Cervantes",
       "distractors": [
-        "Federico Garcia Lorca",
-        "Gabriel Garcia Marquez",
+        "Federico García Lorca",
+        "Gabriel García Márquez",
         "Jorge Luis Borges"
       ],
       "explanation": "Miguel de Cervantes wrote Don Quixote (1605, 1615), considered the first modern novel.",
@@ -1195,11 +1195,11 @@
       "question": "What is the gerund (present participle) of 'leer'?",
       "correctAnswer": "leyendo",
       "distractors": [
-        "leido",
+        "leído",
         "leo",
-        "leera"
+        "leerá"
       ],
-      "explanation": "Leyendo is the gerund of leer (with y spelling change). Leido is the past participle.",
+      "explanation": "Leyendo is the gerund of leer (with y spelling change). Leído is the past participle.",
       "memoryHook": "T-Rexy says: Leyendo means reading now!",
       "imageUrl": "topic:spanish-gerund-leer",
       "tags": [
@@ -1214,34 +1214,34 @@
     {
       "id": "ESP_058",
       "question": "Which sentence correctly uses 'hace' for time?",
-      "correctAnswer": "Hace dos anos que estudio espanol",
+      "correctAnswer": "Hace dos años que estudio español",
       "distractors": [
-        "Dos anos hace estudio espanol",
-        "Estudio espanol hace dos anos que",
-        "Hace estudio espanol dos anos"
+        "Dos años hace estudio español",
+        "Estudio español hace dos años que",
+        "Hace estudio español dos años"
       ],
       "explanation": "Hace + time + que + present tense expresses how long an action has been ongoing.",
-      "memoryHook": "T-Rexy says: Hace dos anos que - for two years!",
+      "memoryHook": "T-Rexy says: Hace dos años que - for two years!",
       "imageUrl": "topic:spanish-hace-time",
       "tags": [
         "spanish",
         "grammar",
         "time-expressions"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "ESP_059",
-      "question": "What does 'Dia de los Muertos' celebrate?",
+      "question": "What does 'Día de los Muertos' celebrate?",
       "correctAnswer": "Deceased loved ones, especially in Mexico",
       "distractors": [
         "Mexican independence",
         "The harvest",
         "The new year"
       ],
-      "explanation": "Dia de los Muertos (Day of the Dead, Nov 1-2) honors deceased loved ones with altars, marigolds, and offerings, especially in Mexico.",
+      "explanation": "Día de los Muertos (Day of the Dead, Nov 1-2) honors deceased loved ones with altars, marigolds, and offerings, especially in Mexico.",
       "memoryHook": "T-Rexy says: Day of the Dead honors loved ones!",
       "imageUrl": "topic:dia-de-muertos",
       "tags": [
@@ -1279,11 +1279,11 @@
       "question": "What is the preterite form of 'hacer' for 'el'?",
       "correctAnswer": "hizo",
       "distractors": [
-        "hacia",
+        "hacía",
         "hace",
-        "hara"
+        "hará"
       ],
-      "explanation": "Hizo is the preterite el form of hacer (irregular). Hacia is imperfect, hace is present.",
+      "explanation": "Hizo is the preterite él form of hacer (irregular, with c changing to z before o). Hacía is imperfect, hace is present.",
       "memoryHook": "T-Rexy says: Hizo means he did - irregular!",
       "imageUrl": "topic:spanish-preterite-hacer",
       "tags": [
@@ -1301,7 +1301,7 @@
       "correctAnswer": "embarazada (means pregnant, not embarrassed)",
       "distractors": [
         "familia (means family)",
-        "telefono (means telephone)",
+        "teléfono (means telephone)",
         "doctor (means doctor)"
       ],
       "explanation": "Embarazada means 'pregnant', not 'embarrassed'. The Spanish word for embarrassed is avergonzado/a.",
@@ -1365,7 +1365,7 @@
       "distractors": [
         "hable",
         "hablo",
-        "hablaria"
+        "hablaría"
       ],
       "explanation": "Hablara is the imperfect subjunctive yo form of hablar, formed from the third-person plural preterite (hablaron) minus -on plus endings.",
       "memoryHook": "T-Rexy says: Hablara is past subjunctive!",
@@ -1375,7 +1375,7 @@
         "grammar",
         "subjunctive"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1424,14 +1424,14 @@
     {
       "id": "ESP_068",
       "question": "Which is the correct comparative: 'Maria is taller than Juan'?",
-      "correctAnswer": "Maria es mas alta que Juan",
+      "correctAnswer": "María es más alta que Juan",
       "distractors": [
-        "Maria es mas alta de Juan",
-        "Maria es tan alta que Juan",
-        "Maria es alta mas Juan"
+        "María es más alta de Juan",
+        "María es tan alta que Juan",
+        "María es alta más Juan"
       ],
-      "explanation": "Mas...que is the comparative structure for 'more...than'. Tan...como is used for 'as...as'.",
-      "memoryHook": "T-Rexy says: Mas alta que - more than!",
+      "explanation": "Más... que is the comparative structure for 'more... than': the adjective sits between más and que. Tan... como is a different pair, used for 'as... as'.",
+      "memoryHook": "T-Rexy says: Más alta que - more than!",
       "imageUrl": "topic:spanish-comparative",
       "tags": [
         "spanish",
@@ -1447,11 +1447,11 @@
       "question": "What is the superlative of 'bueno'?",
       "correctAnswer": "el mejor",
       "distractors": [
-        "el mas bueno",
-        "buenisimo",
+        "el más bueno",
+        "buenísimo",
         "el bueno"
       ],
-      "explanation": "El mejor is the irregular superlative of bueno (the best). Buenisimo is the absolute superlative (very good).",
+      "explanation": "El mejor is the irregular superlative of bueno (the best). Buenísimo is the absolute superlative (very good).",
       "memoryHook": "T-Rexy says: El mejor is the best!",
       "imageUrl": "topic:spanish-superlative-bueno",
       "tags": [
@@ -1465,35 +1465,35 @@
     },
     {
       "id": "ESP_070",
-      "question": "Which tense is used in 'Si tuviera dinero, viajaria'?",
+      "question": "Which tense is used in 'Si tuviera dinero, viajaría'?",
       "correctAnswer": "Imperfect subjunctive + conditional",
       "distractors": [
         "Present + future",
         "Preterite + imperfect",
         "Present subjunctive + present"
       ],
-      "explanation": "Si tuviera (imperfect subjunctive) + viajaria (conditional) forms a hypothetical if-clause about an unreal present situation.",
-      "memoryHook": "T-Rexy says: Si tuviera... viajaria - hypothetical!",
+      "explanation": "Si tuviera (imperfect subjunctive) + viajaría (conditional) forms a hypothetical if-clause about an unreal present situation.",
+      "memoryHook": "T-Rexy says: Si tuviera... viajaría - hypothetical!",
       "imageUrl": "topic:spanish-si-clause",
       "tags": [
         "spanish",
         "grammar",
         "conditionals"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "ESP_071",
-      "question": "In 'El libro que lei era interesante', what is 'que'?",
+      "question": "In 'El libro que leí era interesante', what is 'que'?",
       "correctAnswer": "A relative pronoun introducing an adjective clause",
       "distractors": [
         "A conjunction meaning 'because'",
         "An interrogative pronoun",
         "A demonstrative adjective"
       ],
-      "explanation": "Que here is a relative pronoun meaning 'that/which', introducing the clause 'que lei' that describes el libro.",
+      "explanation": "Que here is a relative pronoun: it links the clause que leí back to its antecedent, el libro, the thing that was read. Unlike English, Spanish cannot drop this que - 'the book I read' still needs que in Spanish.",
       "memoryHook": "T-Rexy says: Que connects the description!",
       "imageUrl": "topic:spanish-relative-que",
       "tags": [
@@ -1508,13 +1508,13 @@
     {
       "id": "ESP_072",
       "question": "Which sentence correctly uses the subjunctive after a conjunction of purpose?",
-      "correctAnswer": "Estudio para que mis padres esten orgullosos",
+      "correctAnswer": "Estudio para que mis padres estén orgullosos",
       "distractors": [
-        "Estudio para que mis padres estan orgullosos",
-        "Estudio para mis padres estan orgullosos",
-        "Estudio que mis padres esten orgullosos"
+        "Estudio para que mis padres están orgullosos",
+        "Estudio para mis padres están orgullosos",
+        "Estudio que mis padres estén orgullosos"
       ],
-      "explanation": "Para que (so that) is a purpose conjunction that always triggers the subjunctive (esten).",
+      "explanation": "Para que (so that) is a purpose conjunction that always triggers the subjunctive (estén) when the subject changes: I study, but my parents are the ones who are proud. With the same subject, Spanish uses para + infinitive instead.",
       "memoryHook": "T-Rexy says: Para que always triggers subjunctive!",
       "imageUrl": "topic:spanish-para-que",
       "tags": [
@@ -1528,7 +1528,7 @@
     },
     {
       "id": "ESP_073",
-      "question": "What is the literary movement of Gabriel Garcia Marquez's One Hundred Years of Solitude?",
+      "question": "What is the literary movement of Gabriel García Márquez's One Hundred Years of Solitude?",
       "correctAnswer": "Magical realism",
       "distractors": [
         "Surrealism",
@@ -1536,7 +1536,7 @@
         "Naturalism"
       ],
       "explanation": "One Hundred Years of Solitude (1967) is the defining work of magical realism, blending fantastical elements with realistic narrative.",
-      "memoryHook": "T-Rexy says: Garcia Marquez mastered magical realism!",
+      "memoryHook": "T-Rexy says: García Márquez mastered magical realism!",
       "imageUrl": "topic:garcia-marquez-magical-realism",
       "tags": [
         "spanish",
@@ -1577,7 +1577,7 @@
         "A poem",
         "A translation"
       ],
-      "explanation": "The AP interpersonal writing task asks students to reply to an email, including a greeting, answering questions, asking questions, and a closing.",
+      "explanation": "The AP interpersonal writing task gives you 15 minutes to reply to an email in a formal register. A complete reply greets the sender, answers every question asked, asks for more information or details, and closes politely - leaving out any one of these loses points.",
       "memoryHook": "T-Rexy says: AP email reply needs all four parts!",
       "imageUrl": "topic:ap-spanish-email-task",
       "tags": [
@@ -1585,7 +1585,7 @@
         "ap-exam",
         "writing"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1595,10 +1595,10 @@
       "correctAnswer": "tuve",
       "distractors": [
         "teni",
-        "tenia",
-        "tendre"
+        "tenía",
+        "tendré"
       ],
-      "explanation": "Tuve is the irregular preterite yo form of tener (uv stem). Tenia is imperfect, tendre is future.",
+      "explanation": "Tuve is the irregular preterite yo form of tener, built on the tuv- stem. Tenía is imperfect and tendré is future - only tuve is preterite.",
       "memoryHook": "T-Rexy says: Tuve is the tuv- stem irregular!",
       "imageUrl": "topic:spanish-preterite-tener",
       "tags": [
@@ -1634,14 +1634,14 @@
     {
       "id": "ESP_078",
       "question": "Which is the correct past subjunctive after 'si' for a contrary-to-fact present condition?",
-      "correctAnswer": "Si yo fuera rico, compraria una casa",
+      "correctAnswer": "Si yo fuera rico, compraría una casa",
       "distractors": [
         "Si yo soy rico, compro una casa",
         "Si yo era rico, compraba una casa",
-        "Si yo fui rico, compre una casa"
+        "Si yo fui rico, compré una casa"
       ],
-      "explanation": "Si + imperfect subjunctive (fuera) + conditional (compraria) expresses a contrary-to-fact present condition.",
-      "memoryHook": "T-Rexy says: Si fuera... compraria - unreal present!",
+      "explanation": "Si + imperfect subjunctive (fuera) + conditional (compraría) expresses a contrary-to-fact present condition.",
+      "memoryHook": "T-Rexy says: Si fuera... compraría - unreal present!",
       "imageUrl": "topic:spanish-si-contrary-fact",
       "tags": [
         "spanish",
@@ -1655,21 +1655,21 @@
     {
       "id": "ESP_079",
       "question": "What is 'el voseo'?",
-      "correctAnswer": "The use of 'vos' instead of 'tu' in parts of Latin America",
+      "correctAnswer": "The use of 'vos' instead of 'tú' in parts of Latin America",
       "distractors": [
         "A type of Spanish dance",
         "A formal greeting",
         "A verb tense"
       ],
-      "explanation": "El voseo is the use of vos (with its own verb forms) instead of tu, common in Argentina, Uruguay, Paraguay, and parts of Central America.",
-      "memoryHook": "T-Rexy says: Voseo means vos instead of tu!",
+      "explanation": "El voseo is the use of vos (with its own verb forms) instead of tú, common in Argentina, Uruguay, Paraguay, and parts of Central America.",
+      "memoryHook": "T-Rexy says: Voseo means vos instead of tú!",
       "imageUrl": "topic:spanish-voseo",
       "tags": [
         "spanish",
         "culture",
         "dialects"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1679,10 +1679,10 @@
       "correctAnswer": "La casa de Bernarda Alba",
       "distractors": [
         "Don Quixote",
-        "La vida es sueno",
-        "El ingenioso hidalgo"
+        "La vida es sueño",
+        "La Celestina"
       ],
-      "explanation": "La casa de Bernarda Alba (1936) is Lorca's famous rural tragedy. Don Quixote is Cervantes; La vida es sueno is Calderon.",
+      "explanation": "La casa de Bernarda Alba (1936) is Lorca's famous rural tragedy. Don Quixote is by Cervantes, La vida es sueño is by Calderón de la Barca, and La Celestina is by Fernando de Rojas.",
       "memoryHook": "T-Rexy says: Lorca wrote Bernarda Alba!",
       "imageUrl": "topic:lorca-bernarda-alba",
       "tags": [
@@ -1795,7 +1795,7 @@
         "ap-exam",
         "speaking"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1837,7 +1837,7 @@
         "culture",
         "traditions"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1847,7 +1847,7 @@
       "correctAnswer": "tengo",
       "distractors": [
         "tenga",
-        "tenia",
+        "tenía",
         "tuviera"
       ],
       "explanation": "Tengo (indicative) is correct because 'el problema es que' states a fact, not a doubt or emotion, so no subjunctive is triggered.",
@@ -1886,14 +1886,14 @@
     {
       "id": "ESP_090",
       "question": "Which construction expresses an unintentional action ('I dropped the glass')?",
-      "correctAnswer": "Se me cayo el vaso",
+      "correctAnswer": "Se me cayó el vaso",
       "distractors": [
-        "Cai el vaso",
-        "Me cayo el vaso",
+        "Caí el vaso",
+        "Me cayó el vaso",
         "Yo caye el vaso"
       ],
-      "explanation": "Se me cayo el vaso is the accidental se construction: literally 'the glass fell itself to me', expressing an unintentional action.",
-      "memoryHook": "T-Rexy says: Se me cayo - accidental se!",
+      "explanation": "Se me cayó el vaso is the accidental se construction: literally 'the glass fell itself to me', expressing an unintentional action.",
+      "memoryHook": "T-Rexy says: Se me cayó - accidental se!",
       "imageUrl": "topic:spanish-accidental-se",
       "tags": [
         "spanish",
@@ -1907,14 +1907,14 @@
     {
       "id": "ESP_091",
       "question": "What is the pluperfect (past perfect) form of 'hablar' for 'yo'?",
-      "correctAnswer": "habia hablado",
+      "correctAnswer": "había hablado",
       "distractors": [
         "he hablado",
-        "hable",
+        "hablé",
         "hablara"
       ],
-      "explanation": "Habia hablado is the pluperfect (habia + past participle), used for actions completed before another past action.",
-      "memoryHook": "T-Rexy says: Habia hablado is had spoken!",
+      "explanation": "Había hablado is the pluperfect (había + past participle), used for an action completed before another past action.",
+      "memoryHook": "T-Rexy says: Había hablado is had spoken!",
       "imageUrl": "topic:spanish-pluperfect",
       "tags": [
         "spanish",
@@ -1942,7 +1942,7 @@
         "culture",
         "festivals"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1956,7 +1956,7 @@
         "Conocer is formal only"
       ],
       "explanation": "Conocer is used for being familiar with places and people. Saber is for facts and skills. Conozco bien la ciudad means 'I know the city well'.",
-      "memoryHook": "T-Rexy says: Conozco places, se facts!",
+      "memoryHook": "T-Rexy says: Conozco places, sé facts!",
       "imageUrl": "topic:spanish-conocer-places",
       "tags": [
         "spanish",
@@ -2012,14 +2012,14 @@
     {
       "id": "ESP_096",
       "question": "Which is the correct future perfect form of 'estudiar' for 'yo'?",
-      "correctAnswer": "habre estudiado",
+      "correctAnswer": "habré estudiado",
       "distractors": [
         "he estudiado",
-        "habia estudiado",
-        "estudiare"
+        "había estudiado",
+        "estudiaré"
       ],
-      "explanation": "Habre estudiado is the future perfect (habre + past participle), used for actions that will have been completed by a future time.",
-      "memoryHook": "T-Rexy says: Habre estudiado is will have studied!",
+      "explanation": "Habré estudiado is the future perfect (habré + past participle), used for actions that will have been completed by a future time.",
+      "memoryHook": "T-Rexy says: Habré estudiado is will have studied!",
       "imageUrl": "topic:spanish-future-perfect",
       "tags": [
         "spanish",
@@ -2047,7 +2047,7 @@
         "vocabulary",
         "people"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -2057,10 +2057,10 @@
       "correctAnswer": "Mario Vargas Llosa",
       "distractors": [
         "Miguel de Cervantes",
-        "Federico Garcia Lorca",
-        "Sor Juana Ines de la Cruz"
+        "Federico García Lorca",
+        "Sor Juana Inés de la Cruz"
       ],
-      "explanation": "Mario Vargas Llosa (Peru, Nobel 2010) is a central figure of the Latin American Boom of the 1960s-70s, along with Garcia Marquez, Cortazar, and Fuentes.",
+      "explanation": "Mario Vargas Llosa (Peru, Nobel 2010) is a central figure of the Latin American Boom of the 1960s-70s, along with García Márquez, Cortázar, and Fuentes.",
       "memoryHook": "T-Rexy says: Vargas Llosa boomed with Latin America!",
       "imageUrl": "topic:vargas-llosa-boom",
       "tags": [
@@ -2077,9 +2077,9 @@
       "question": "What is the correct translation of 'The book was written by Cervantes'?",
       "correctAnswer": "El libro fue escrito por Cervantes",
       "distractors": [
-        "El libro escribio por Cervantes",
+        "El libro escribió por Cervantes",
         "El libro era escrito por Cervantes",
-        "El libro se escribio por Cervantes"
+        "El libro se escribió por Cervantes"
       ],
       "explanation": "Fue escrito is the true passive (ser + past participle), used for actions with a stated agent (por Cervantes).",
       "memoryHook": "T-Rexy says: Fue escrito por - true passive!",
