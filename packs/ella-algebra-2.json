@@ -180,7 +180,7 @@
         "Undefined"
       ],
       "explanation": "Any nonzero number to the zero power equals 1.",
-      "memoryHook": "T-Rexy says: Anything to the zero power is 1.",
+      "memoryHook": "T-Rexy says: Any nonzero number to the zero power is 1.",
       "imageUrl": "topic:algebra2",
       "tags": [
         "exponents"
@@ -355,7 +355,7 @@
         "f(x) = mx + b",
         "f(x) = a^x"
       ],
-      "explanation": "Standard form is ax^2 + bx + c.",
+      "explanation": "A quadratic in standard form is written in descending powers of x: f(x) = ax^2 + bx + c, where a, b and c are constants and a is not 0. The form a(x - h)^2 + k is vertex form, not standard form.",
       "memoryHook": "T-Rexy says: Standard form lists powers from highest to lowest.",
       "imageUrl": "topic:algebra2",
       "tags": [
@@ -684,7 +684,7 @@
       "question": "Simplify (3x^2 - 12)/(x^2 - 4).",
       "correctAnswer": "3",
       "distractors": [
-        "3x",
+        "3x + 3",
         "x + 2",
         "3(x - 2)"
       ],
@@ -960,7 +960,7 @@
       "distractors": [
         "1/3",
         "sqrt(3)",
-        "3/sqrt(3)"
+        "3 sqrt(3)"
       ],
       "explanation": "Multiply top and bottom by sqrt(3): sqrt(3)/3.",
       "memoryHook": "T-Rexy says: Multiply by the radical over itself.",
@@ -1019,7 +1019,7 @@
         "3 - 4i",
         "-3 - 4i"
       ],
-      "explanation": "The conjugate flips the sign of the imaginary part.",
+      "explanation": "Keep the real part and flip the sign of the imaginary part: 3 - 4i becomes 3 + 4i.",
       "memoryHook": "T-Rexy says: Conjugate means change the sign of the imaginary part.",
       "imageUrl": "topic:algebra2",
       "tags": [
@@ -1283,7 +1283,7 @@
       "tags": [
         "logarithms"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1502,7 +1502,7 @@
         "rational",
         "partial fractions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1562,7 +1562,7 @@
         "exponential",
         "half-life"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1581,7 +1581,7 @@
       "tags": [
         "sequences"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1719,7 +1719,7 @@
       "tags": [
         "logarithms"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1759,7 +1759,7 @@
         "quadratic",
         "vertex"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1812,14 +1812,14 @@
         "x = 9",
         "x = 27"
       ],
-      "explanation": "The real cube root of 27 is 3.",
+      "explanation": "Take the cube root of both sides. Since 3^3 = 27, the real solution is x = 3. Odd roots give one real value and keep the sign.",
       "memoryHook": "T-Rexy says: Cube roots have one real value.",
       "imageUrl": "topic:algebra2",
       "tags": [
         "polynomials",
         "cubic"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1839,7 +1839,7 @@
         "polynomials",
         "multiplicity"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1852,14 +1852,14 @@
         "It does not reach the axis",
         "It has a vertical asymptote"
       ],
-      "explanation": "Odd multiplicity means the graph crosses the axis.",
+      "explanation": "The factor (x - 2) has exponent 3, which is odd. Near x = 2 the factor changes sign, so the graph passes from one side of the x-axis to the other: it crosses (flattening) at x = 2 instead of bouncing back.",
       "memoryHook": "T-Rexy says: Odd multiplicity crosses; even multiplicity bounces.",
       "imageUrl": "topic:algebra2",
       "tags": [
         "polynomials",
         "graph"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1944,7 +1944,7 @@
     },
     {
       "id": "ALG2_099",
-      "question": "What is the maximum height of that ball?",
+      "question": "For a ball thrown upward with h(t) = -16t^2 + 48t + 6, what is the maximum height of the ball?",
       "correctAnswer": "42 feet",
       "distractors": [
         "36 feet",
@@ -1972,7 +1972,7 @@
         "All real numbers except -1"
       ],
       "explanation": "The fraction is non-negative when numerator and denominator have the same sign (or numerator is zero), excluding x = -1: x < -1 or x >= 2.",
-      "memoryHook": "T-Rexy says: Check sign changes at critical points -2 and 1, and exclude denominator zeros.",
+      "memoryHook": "T-Rexy says: Check sign changes at critical points -1 and 2, and exclude denominator zeros.",
       "imageUrl": "topic:algebra2",
       "tags": [
         "rational",

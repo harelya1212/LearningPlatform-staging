@@ -1103,13 +1103,13 @@
     {
       "id": "USH_056",
       "question": "What did the Camp David Accords of 1978 achieve?",
-      "correctAnswer": "A peace treaty between Egypt and Israel brokered by Jimmy Carter",
+      "correctAnswer": "A framework that led to a peace treaty between Egypt and Israel, brokered by Jimmy Carter",
       "distractors": [
         "An end to the Iran hostage crisis",
         "A nuclear arms agreement with the Soviet Union",
         "A trade deal between the U.S. and Mexico"
       ],
-      "explanation": "Carter mediated between Anwar Sadat and Menachem Begin; Egypt became the first Arab state to recognize Israel.",
+      "explanation": "Carter mediated between Anwar Sadat and Menachem Begin at Camp David in 1978. The accords themselves were a framework, not the treaty: they led to the 1979 Egypt-Israel peace treaty, under which Egypt became the first Arab state to recognize Israel.",
       "memoryHook": "T-Rexy says: Camp David - Carter, Sadat, Begin, and a handshake for peace!",
       "imageUrl": "topic:camp-david-accords",
       "tags": [
@@ -1449,7 +1449,7 @@
         "A convention that banned the slave trade",
         "A gathering of abolitionists in Connecticut"
       ],
-      "explanation": "The convention's talk of secession discredited the Federalist Party after the war ended in an American victory at New Orleans.",
+      "explanation": "The convention's talk of secession discredited the Federalist Party when news of the Treaty of Ghent, which ended the war on status-quo terms, arrived together with news of Jackson's victory at the Battle of New Orleans, making the Federalists look disloyal.",
       "memoryHook": "T-Rexy says: Hartford - Federalists talk secession, then the war ends and they vanish!",
       "imageUrl": "topic:hartford-convention",
       "tags": [
@@ -1635,7 +1635,7 @@
         "supreme-court",
         "segregation"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1875,7 +1875,7 @@
         "2000s",
         "civil-liberties"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1988,7 +1988,7 @@
         "A policy of withdrawing from all overseas bases",
         "A strategy to overthrow communist governments by force"
       ],
-      "explanation": "George Kennan proposed containment in 1947; NSC-68 (1950) turned it into a global military strategy after the Korean War began.",
+      "explanation": "George Kennan proposed containment in 1947. NSC-68, drafted in April 1950 before the Korean War began, called for a major military buildup to apply containment globally; Truman approved and funded that buildup only after North Korea invaded the South in June 1950.",
       "memoryHook": "T-Rexy says: Containment - stop communism from spreading, then build the muscle to do it!",
       "imageUrl": "topic:containment-policy",
       "tags": [

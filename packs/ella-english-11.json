@@ -389,7 +389,7 @@
         "To quote an expert",
         "To list sources"
       ],
-      "explanation": "A topic sentence introduces what a paragraph will discuss.",
+      "explanation": "A topic sentence states the paragraph's main idea so every other sentence in the paragraph can support it; if a sentence does not connect back to that idea, it does not belong there.",
       "memoryHook": "T-Rexy says: Topic sentence - the paragraph's headline.",
       "imageUrl": "topic:topic-sentence",
       "tags": [
@@ -648,7 +648,7 @@
         "literature",
         "symbolism"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -687,7 +687,7 @@
         "literature",
         "foreshadowing"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -814,7 +814,7 @@
       "distractors": [
         "Because he is paid well",
         "Because Tom is his friend",
-        "Because the judge orders him"
+        "Because he wants publicity for a political campaign"
       ],
       "explanation": "Atticus takes the case out of principle, knowing he will likely lose.",
       "memoryHook": "T-Rexy says: Atticus stands for justice, even when the odds are against him.",
@@ -1628,7 +1628,7 @@
       "tags": [
         "literary-term"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1827,7 +1827,7 @@
       "tags": [
         "literary-term"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },

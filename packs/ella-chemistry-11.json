@@ -351,7 +351,7 @@
       "tags": [
         "periodic-table"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -560,7 +560,7 @@
       "tags": [
         "bonding"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -579,7 +579,7 @@
       "tags": [
         "bonding"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -688,7 +688,7 @@
         "Any halogen"
       ],
       "explanation": "Hydrogen bonds form when hydrogen is bonded to a highly electronegative atom (N, O, or F) and attracted to another N, O, or F.",
-      "memoryHook": "T-Rexy says: Hydrogen bonds need N, O, or F - the three most electronegative elements!",
+      "memoryHook": "T-Rexy says: Hydrogen bonds need N, O, or F - three highly electronegative atoms that pull a hydrogen close!",
       "imageUrl": "topic:bonding",
       "tags": [
         "bonding"
@@ -712,7 +712,7 @@
       "tags": [
         "chemical-reactions"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -788,7 +788,7 @@
       "tags": [
         "chemical-reactions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -807,7 +807,7 @@
       "tags": [
         "chemical-reactions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -896,13 +896,13 @@
         "A liquid that evaporates",
         "A catalyst"
       ],
-      "explanation": "A precipitate is a solid that forms and falls out of solution during a reaction.",
+      "explanation": "When two clear solutions are mixed, ions from each can combine into a compound that does not dissolve. That new insoluble solid appears in the liquid and settles out - for example, mixing solutions that form solid BaSO4 leaves a white solid suspended, then settling, while the other ions stay dissolved.",
       "memoryHook": "T-Rexy says: A precipitate is a solid that appears out of nowhere in a solution!",
       "imageUrl": "topic:chemical-reactions",
       "tags": [
         "chemical-reactions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -921,7 +921,7 @@
       "tags": [
         "chemical-reactions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -934,13 +934,13 @@
         "1 gram of a substance",
         "1000 particles"
       ],
-      "explanation": "One mole contains Avogadro's number of particles: 6.02 x 10^23.",
+      "explanation": "Think of a mole like a dozen, but far bigger: just as a dozen always means 12 of anything, a mole always means 6.02 x 10^23 particles (atoms, molecules, or ions). So 1 mol of water contains 6.02 x 10^23 water molecules.",
       "memoryHook": "T-Rexy says: A mole is 6.02 x 10^23 particles - Avogadro's number!",
       "imageUrl": "topic:stoichiometry",
       "tags": [
         "stoichiometry"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -953,7 +953,7 @@
         "1.00 x 10^23",
         "9.81 x 10^23"
       ],
-      "explanation": "Avogadro's number is 6.02 x 10^23, the number of particles in one mole.",
+      "explanation": "Avogadro's number is the counting unit behind the mole: 6.02 x 10^23 particles make up exactly 1 mol of a substance, whether those particles are atoms of carbon or molecules of water. Divide a particle count by 6.02 x 10^23 to convert it to moles.",
       "memoryHook": "T-Rexy says: 6.02 x 10^23 - Avogadro's number, the chemist's dozen!",
       "imageUrl": "topic:stoichiometry",
       "tags": [
@@ -1016,7 +1016,7 @@
       "tags": [
         "stoichiometry"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1035,7 +1035,7 @@
       "tags": [
         "stoichiometry"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1103,7 +1103,7 @@
       "distractors": [
         "2:1",
         "1:2",
-        "2:2"
+        "3:2"
       ],
       "explanation": "The coefficients are 2 for H2 and 2 for H2O, so the ratio is 2:2, which simplifies to 1:1.",
       "memoryHook": "T-Rexy says: Two moles of H2 make two moles of H2O - a 1 to 1 ratio!",
@@ -1257,13 +1257,13 @@
         "1.00 L-atm/mol-K",
         "0.0821 J/mol-K"
       ],
-      "explanation": "R = 0.0821 L-atm/mol-K when using atm and liters.",
+      "explanation": "Use R = 0.0821 L-atm/mol-K only when pressure is in atm and volume is in liters, so the units cancel in PV = nRT. The larger value 8.314 goes with joules (8.314 J/mol-K) and must not be used with atm and liters.",
       "memoryHook": "T-Rexy says: R is 0.0821 when you use atmospheres and liters!",
       "imageUrl": "topic:gases",
       "tags": [
         "gases"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1358,7 +1358,7 @@
       "tags": [
         "gases"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1415,7 +1415,7 @@
       "tags": [
         "solutions"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1605,7 +1605,7 @@
       "tags": [
         "solutions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1618,7 +1618,7 @@
         "1",
         "14"
       ],
-      "explanation": "Pure water at 25 degrees C has a pH of 7, which is neutral.",
+      "explanation": "pH is set by the hydrogen-ion concentration. In pure water at 25 degrees C, [H+] = [OH-] = 1 x 10^-7 M, so pH = -log(10^-7) = 7 - exactly in the middle of the scale, so the solution is neither acidic nor basic.",
       "memoryHook": "T-Rexy says: pH 7 is neutral - not acidic, not basic!",
       "imageUrl": "topic:acids-bases",
       "tags": [
@@ -1833,7 +1833,7 @@
       "tags": [
         "acids-bases"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1909,7 +1909,7 @@
       "tags": [
         "mixed-review"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     }

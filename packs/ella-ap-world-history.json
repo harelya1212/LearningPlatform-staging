@@ -356,10 +356,10 @@
       "correctAnswer": "Great Britain",
       "distractors": [
         "Russia",
-        "France",
+        "Portugal",
         "The Netherlands"
       ],
-      "explanation": "Britain fought China in the Opium Wars (1839-1842, 1856-1860) to force open Chinese markets to British opium and trade. The Treaty of Nanjing ceded Hong Kong to Britain and opened treaty ports.",
+      "explanation": "Britain fought China in both Opium Wars (1839-1842 and 1856-1860) to force open Chinese markets to British opium and trade; France joined Britain in the second war. The Treaty of Nanjing (1842) ceded Hong Kong to Britain and opened treaty ports.",
       "memoryHook": "T-Rexy says: Britain forced opium on China - the wars that opened China to the West.",
       "imageUrl": "topic:opium-wars-china",
       "tags": [
@@ -1369,7 +1369,7 @@
         "The end of trade in Europe",
         "The isolation of China from Europe"
       ],
-      "explanation": "Movable-type printing slashed the cost of books, spreading literacy, scientific knowledge, and Reformation ideas across Europe. Within decades, millions of books were printed - an information revolution.",
+      "explanation": "Gutenberg's European movable-type press (movable type itself had been developed earlier in East Asia) slashed the cost of books, spreading literacy, scientific knowledge, and Reformation ideas across Europe. Within decades, millions of books were printed - an information revolution.",
       "memoryHook": "T-Rexy says: Gutenberg's press - cheap books, spreading ideas, a revolution in print.",
       "imageUrl": "topic:gutenberg-printing-press",
       "tags": [
@@ -1441,7 +1441,7 @@
         "silver",
         "1450-1750"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1483,7 +1483,7 @@
         "labor",
         "1450-1750"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1601,7 +1601,7 @@
         "The Black Death affected only the Americas",
         "The Columbian Exchange caused no deaths"
       ],
-      "explanation": "The plague spread through connected Eurasian networks where populations had some prior exposure. In the Americas, smallpox, measles, and influenza devastated populations with no immunity - killing up to 90% of Indigenous peoples in some regions.",
+      "explanation": "The plague spread through connected Eurasian trade networks and killed a huge share of Eurasia's population, but Eurasian societies faced it within existing social structures. In the Americas, smallpox, measles, and influenza arrived together in populations with no prior exposure at all - virgin-soil epidemics that killed up to 90 percent of Indigenous peoples in some regions and shattered their societies.",
       "memoryHook": "T-Rexy says: Eurasia had some immunity; the Americas had none - the difference was devastating.",
       "imageUrl": "topic:black-death-vs-columbian-exchange",
       "tags": [
@@ -1643,7 +1643,7 @@
         "Converting to Christianity",
         "Colonizing Europe"
       ],
-      "explanation": "Tokugawa Japan expelled missionaries and confined Dutch and Chinese traders to Nagasaki; Ming and Qing China restricted Europeans to Canton. Both states sought to control foreign influence while selectively adopting useful technology.",
+      "explanation": "Tokugawa Japan expelled missionaries and confined Dutch and Chinese traders to Nagasaki; Ming China restricted the Portuguese to Macau, and the Qing later confined Western trade to Canton. Both states sought to control foreign influence while selectively adopting useful technology.",
       "memoryHook": "T-Rexy says: Japan and China both slammed the door - trade on their terms only.",
       "imageUrl": "topic:tokugawa-ming-restriction",
       "tags": [
@@ -1791,7 +1791,7 @@
         "The end of all ocean shipping",
         "Religious unity"
       ],
-      "explanation": "Tens of millions migrated in the 19th century - Europeans to the Americas and Oceania, Chinese and Indians to Southeast Asia and the Caribbean, Africans to the Americas. Push factors included poverty and persecution; pull factors included land, wages, and steamships.",
+      "explanation": "Tens of millions migrated in the 19th century - Europeans to the Americas and Oceania, and Chinese and Indians to Southeast Asia, the Caribbean, and elsewhere, mostly in search of work. Push factors included poverty and persecution; pull factors included land, wages, and steamships. Separately, the forced transport of enslaved Africans continued, above all to Cuba (into the 1860s) and Brazil (until about 1850).",
       "memoryHook": "T-Rexy says: Steamships carried tens of millions - the great 19th-century migration wave.",
       "imageUrl": "topic:mass-migration-19th-century",
       "tags": [
@@ -1841,7 +1841,7 @@
         "historiography",
         "1900-1945"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1854,7 +1854,7 @@
         "Periods are determined by law",
         "No events ever change anything"
       ],
-      "explanation": "Periodization is an interpretive choice: 1750 matters for industrialization, 1492 for the Americas, 1200 for Afro-Eurasian trade. AP World History uses c. 1200-1750-1900 to organize, but historians constantly debate the boundaries.",
+      "explanation": "Periodization is an interpretive choice: 1492 matters most for the Americas, 1750 for industrialization, and 1200 for Afro-Eurasian trade networks. AP World History organizes the course into four periods - 1200-1450, 1450-1750, 1750-1900, and 1900-present - but historians constantly debate where the boundaries belong.",
       "memoryHook": "T-Rexy says: Periodization is a choice - 1492, 1750, 1945 all compete as turning points.",
       "imageUrl": "topic:periodization-debate",
       "tags": [
@@ -2106,7 +2106,7 @@
         "Write only about a single document",
         "Answer multiple-choice questions about one source"
       ],
-      "explanation": "The DBQ gives students seven documents and asks them to build an argument, using at least four documents, sourcing them (author, purpose, context), and adding evidence beyond the documents. It tests historical thinking skills, not memorization.",
+      "explanation": "The DBQ gives students seven documents and asks them to build an argument: use the documents' content as evidence, explain sourcing (author, purpose, historical context, or audience) for several of them, and add at least one piece of evidence beyond the documents. It tests historical thinking skills, not memorization.",
       "memoryHook": "T-Rexy says: The DBQ: seven documents, one argument, and outside evidence to back it up.",
       "imageUrl": "topic:ap-dbq-format",
       "tags": [
@@ -2114,7 +2114,7 @@
         "historiography",
         "1900-1945"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     }
