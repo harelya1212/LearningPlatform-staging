@@ -42,7 +42,7 @@
         "23.5 degrees south",
         "180 degrees"
       ],
-      "explanation": "The equator is at 0 degrees latitude.",
+      "explanation": "Latitude measures distance north or south of the equator, so the equator itself sits at 0 degrees; parallels run up to 90 degrees at the poles.",
       "memoryHook": "T-Rexy says: The equator is zero degrees.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -89,7 +89,7 @@
         "geography",
         "maps"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -142,7 +142,7 @@
         "A map that uses colors for categories",
         "A map that shows only borders"
       ],
-      "explanation": "Dot density maps place dots where a feature occurs, showing patterns.",
+      "explanation": "Each dot stands for a fixed number of people or things - for example, one dot might equal 10,000 residents - so clusters of dots show where settlement concentrates.",
       "memoryHook": "T-Rexy says: One dot can stand for many people.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -162,7 +162,7 @@
         "The population of a place",
         "The elevation of a mountain"
       ],
-      "explanation": "Map scale tells how much real distance a map distance represents.",
+      "explanation": "A scale of 1:24,000 means one unit on the map equals 24,000 of the same units on the ground; small-scale maps show large areas with little detail, while large-scale maps show small areas in detail.",
       "memoryHook": "T-Rexy says: Scale links map distance to real distance.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -322,7 +322,7 @@
         "The birth rate",
         "The number of cities"
       ],
-      "explanation": "Population density is people divided by area.",
+      "explanation": "Density spreads a country's people evenly across its land on paper - it is a statistical average, so real settlement can be far more clustered than the number suggests.",
       "memoryHook": "T-Rexy says: Density is people per square mile.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -342,7 +342,7 @@
         "Population per city",
         "Total population only"
       ],
-      "explanation": "Arithmetic density is total population over total land area.",
+      "explanation": "Arithmetic density uses all land, even deserts and mountains where almost nobody lives, which is why geographers also compute physiological density using farmland only.",
       "memoryHook": "T-Rexy says: Arithmetic density is total people over total land.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -382,14 +382,14 @@
         "The total births in a country",
         "The birth rate of women only"
       ],
-      "explanation": "The crude birth rate is births per 1,000 people in a year.",
+      "explanation": "Rates are given per 1,000 people so countries of very different sizes can be compared; a CBR of 18 means 18 births for every 1,000 people that year.",
       "memoryHook": "T-Rexy says: Crude birth rate is births per thousand.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
         "population",
         "rates"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -402,7 +402,7 @@
         "The total deaths in a country",
         "The death rate of children only"
       ],
-      "explanation": "The crude death rate is deaths per 1,000 people in a year.",
+      "explanation": "Like the birth rate, it is standardized per 1,000 people; when the crude death rate tops the crude birth rate, natural increase turns negative.",
       "memoryHook": "T-Rexy says: Crude death rate is deaths per thousand.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -442,7 +442,7 @@
         "The birth rate per 1,000",
         "The number of women in a country"
       ],
-      "explanation": "The total fertility rate is the average children per woman over her lifetime.",
+      "explanation": "TFR is a projection built from today's age-specific birth rates - demographers use it to forecast growth, and 2.1 is the replacement benchmark.",
       "memoryHook": "T-Rexy says: Total fertility rate is children per woman.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -482,7 +482,7 @@
         "A model of urban growth",
         "A model of farming change"
       ],
-      "explanation": "The demographic transition model traces population change through stages of development.",
+      "explanation": "The model has four main stages: high and fluctuating rates, falling death rates, falling birth rates, and finally low rates - with an optional fifth stage of decline.",
       "memoryHook": "T-Rexy says: The demographic transition model tracks births and deaths over time.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -542,7 +542,7 @@
         "A chart of birth rates only",
         "A graph of migration"
       ],
-      "explanation": "A population pyramid shows how many people are in each age group, by sex.",
+      "explanation": "Males are plotted on the left and females on the right, with the youngest cohort at the bottom, so the shape instantly reveals growth, stability, or aging.",
       "memoryHook": "T-Rexy says: A population pyramid shows who is young and who is old.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -562,7 +562,7 @@
         "Low birth rates",
         "A declining population"
       ],
-      "explanation": "A wide base means many children, indicating high fertility.",
+      "explanation": "A wide base with a narrow top is called an expansive pyramid - typical of high-fertility countries in Stage 2 of the demographic transition.",
       "memoryHook": "T-Rexy says: A wide base means lots of children.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -582,7 +582,7 @@
         "The birth rate",
         "The migration rate"
       ],
-      "explanation": "The dependency ratio compares non-working age groups to the working-age population.",
+      "explanation": "It is often given as dependents per 100 workers; a high ratio strains schools, pensions, and health care because fewer earners support more people.",
       "memoryHook": "T-Rexy says: The dependency ratio is dependents per worker.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -662,7 +662,7 @@
         "Adding 70 to the population",
         "Dividing the population by 70"
       ],
-      "explanation": "The rule of 70 estimates doubling time: 70 divided by the annual growth rate.",
+      "explanation": "The shortcut works because 70 is close to 100 times the natural log of 2; at 2 percent annual growth, a population doubles in about 35 years.",
       "memoryHook": "T-Rexy says: 70 divided by growth rate is doubling time.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -682,7 +682,7 @@
         "The birth rate",
         "The amount of farmland"
       ],
-      "explanation": "Carrying capacity is the maximum population an environment can sustain.",
+      "explanation": "Unlike a fixed ceiling, carrying capacity can shift - irrigation, fertilizer, and trade can raise it, while soil erosion or drought can lower it.",
       "memoryHook": "T-Rexy says: Carrying capacity is the environment's limit.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -722,7 +722,7 @@
         "The movement of ideas",
         "The movement of animals only"
       ],
-      "explanation": "Migration is people moving to live in a new place.",
+      "explanation": "Geographers count someone as a migrant when the move crosses a boundary and is meant to be permanent or long-term, not a trip or a daily commute.",
       "memoryHook": "T-Rexy says: Migration is people moving.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -742,7 +742,7 @@
         "Immigration is internal; emigration is international",
         "Emigration is moving into a place"
       ],
-      "explanation": "Immigration is entering a new country; emigration is leaving your home country.",
+      "explanation": "The same person is both: an emigrant leaving Mexico is an immigrant arriving in the United States - the word depends on which side of the move you stand.",
       "memoryHook": "T-Rexy says: Immigration is in, emigration is out.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -822,14 +822,14 @@
         "A voluntary migrant",
         "A tourist"
       ],
-      "explanation": "Internally displaced persons flee danger but stay inside their own country.",
+      "explanation": "The legal line is the border: cross it and a person may qualify as a refugee under international law; stay inside it and they remain an IDP, protected only by their own government.",
       "memoryHook": "T-Rexy says: IDPs flee but stay inside their country.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
         "migration",
         "refugees"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -882,7 +882,7 @@
         "A visa fee",
         "A type of passport"
       ],
-      "explanation": "Remittances are money migrants send back to their families.",
+      "explanation": "Remittances are a lifeline for many economies - money sent home by migrants exceeds foreign aid worldwide and often pays for food, school, and housing.",
       "memoryHook": "T-Rexy says: Remittances are money sent home.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -902,7 +902,7 @@
         "India to the UAE",
         "China to the US"
       ],
-      "explanation": "The Mexico to US corridor is the largest international migration flow.",
+      "explanation": "Corridors are counted between country pairs; Mexico-US leads because about 11 million Mexican-born people live in the United States, more than any other single pairing.",
       "memoryHook": "T-Rexy says: Mexico to the US is the largest migration flow.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -942,7 +942,7 @@
         "Migration for education",
         "Migration for retirement"
       ],
-      "explanation": "Forced migration happens when people must flee danger.",
+      "explanation": "Forced migrants are also called involuntary migrants - unlike voluntary migrants weighing push and pull factors, they leave because staying has become dangerous.",
       "memoryHook": "T-Rexy says: Forced migration is fleeing, not choosing.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1002,7 +1002,7 @@
         "Moving back home",
         "Moving across a border"
       ],
-      "explanation": "Step migration is a series of short moves toward a final destination.",
+      "explanation": "Ravenstein described this ladder: each short move upward - village, town, city - is easier than one long jump, and many migrants pause at each rung.",
       "memoryHook": "T-Rexy says: Step migration is moving in stages.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1082,7 +1082,7 @@
         "Diffusion through trade only",
         "Diffusion that spreads outward"
       ],
-      "explanation": "Relocation diffusion happens when people carry culture with them as they move.",
+      "explanation": "Relocation diffusion explains why languages, religions, and foods appear in new lands - Spanish in Mexico and pizza in New York arrived in migrants' baggage.",
       "memoryHook": "T-Rexy says: Relocation diffusion moves with people.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1189,7 +1189,7 @@
         "culture",
         "language"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1202,7 +1202,7 @@
         "Spanish",
         "Arabic"
       ],
-      "explanation": "Mandarin Chinese has the most native speakers.",
+      "explanation": "Counts differ because Mandarin is concentrated in China while English is learned worldwide - Mandarin leads in native speakers even though English leads in total speakers.",
       "memoryHook": "T-Rexy says: Mandarin has the most native speakers.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1242,7 +1242,7 @@
         "A dead language",
         "A language with no grammar"
       ],
-      "explanation": "A pidgin is a simplified mix used for communication between groups with different languages.",
+      "explanation": "A pidgin has no native speakers; when children grow up speaking it, it expands into a full creole language, like Haitian Creole.",
       "memoryHook": "T-Rexy says: A pidgin is a simple trade language.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1262,7 +1262,7 @@
         "Learning a new language",
         "Adopting a new religion"
       ],
-      "explanation": "Cultural appropriation is using another culture's elements in a disrespectful or exploitative way.",
+      "explanation": "The line is power and consent: borrowing with credit and context is exchange, but profiting from a minority culture's symbols while its own members are mocked for them is appropriation.",
       "memoryHook": "T-Rexy says: Appropriation takes without respect.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1309,7 +1309,7 @@
         "culture",
         "folk-popular"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1322,7 +1322,7 @@
         "A province",
         "A region with no government"
       ],
-      "explanation": "A state is a sovereign political entity with territory, people, and government.",
+      "explanation": "Geographers separate state from nation and country in casual speech - the United Nations is really an organization of states, each meeting these criteria.",
       "memoryHook": "T-Rexy says: A state has land, people, and a government.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1342,7 +1342,7 @@
         "A border dispute",
         "A trade agreement"
       ],
-      "explanation": "Sovereignty is the right of a state to rule itself.",
+      "explanation": "Sovereignty is why international law treats a small state like Luxembourg as the legal equal of China - no outside power may lawfully dictate its internal rule.",
       "memoryHook": "T-Rexy says: Sovereignty is self-rule.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1422,7 +1422,7 @@
         "A state with no people",
         "A country with no borders"
       ],
-      "explanation": "Stateless nations, like the Kurds, have a shared identity but no sovereign state.",
+      "explanation": "The Kurds, split among Turkey, Iraq, Iran, and Syria, are the classic case - about 30 million people with a shared language and history but no state of their own.",
       "memoryHook": "T-Rexy says: The Kurds are a stateless nation.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1442,7 +1442,7 @@
         "A wall only",
         "A trade route"
       ],
-      "explanation": "A border is the boundary line between states.",
+      "explanation": "Boundaries are usually delimited on a map and then demarcated on the ground with markers or fences; before modern states, frontiers separated peoples instead.",
       "memoryHook": "T-Rexy says: A border is where one state ends.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1489,7 +1489,7 @@
         "political",
         "government"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1642,7 +1642,7 @@
         "Farming with machines only",
         "Farming in cities"
       ],
-      "explanation": "Subsistence farmers grow food for their own use, not for sale.",
+      "explanation": "Subsistence output rarely enters markets, so a harvest failure hits the family directly - most of the world's farmers still farm this way, mainly in Africa and Asia.",
       "memoryHook": "T-Rexy says: Subsistence farming feeds the family.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1662,7 +1662,7 @@
         "Farming without machines",
         "Farming in the past"
       ],
-      "explanation": "Commercial agriculture produces food and goods for sale in markets.",
+      "explanation": "Commercial farms respond to market prices, not household hunger - a farmer may export coffee or cotton and buy food with the profit instead of growing it.",
       "memoryHook": "T-Rexy says: Commercial farming sells for profit.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1682,7 +1682,7 @@
         "Organic farming only",
         "Urban farming"
       ],
-      "explanation": "Agribusiness is industrial-scale farming with corporate organization.",
+      "explanation": "Agribusiness controls the whole food chain - seed and fertilizer suppliers, processors, and supermarket contracts - not just the growing of crops.",
       "memoryHook": "T-Rexy says: Agribusiness is farming as big business.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1702,7 +1702,7 @@
         "A model of migration",
         "A model of urban sprawl"
       ],
-      "explanation": "Von Thunen's model predicts farming zones around a market town by transport cost.",
+      "explanation": "Each ring is a bid-rent winner: dairy spoils fast and land near the market is dear, so perishable, intensive farming hugs the city while ranching survives far out on cheap land.",
       "memoryHook": "T-Rexy says: Von Thunen drew rings of farming around a city.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1742,7 +1742,7 @@
         "The growth of farms",
         "The movement to rural areas"
       ],
-      "explanation": "Urbanization is the increasing proportion of people living in urban areas.",
+      "explanation": "Urbanization is measured as a percentage - the world passed 50 percent urban around 2007, and most growth now happens in Africa and Asia.",
       "memoryHook": "T-Rexy says: Urbanization is the shift to cities.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1762,7 +1762,7 @@
         "The capital of a country",
         "A city with a subway"
       ],
-      "explanation": "A megacity has over 10 million residents.",
+      "explanation": "The 10 million threshold counts the whole built-up metropolitan area, not just the city limits; the world now has more than 30 megacities, most of them in Asia.",
       "memoryHook": "T-Rexy says: A megacity has over 10 million people.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1802,7 +1802,7 @@
         "The growth of farms",
         "The decline of suburbs"
       ],
-      "explanation": "Suburbanization is growth in the suburbs around cities.",
+      "explanation": "Suburbanization took off after World War II with cars and highways, hollowing out many central cities - recently some suburbs have begun densifying into edge cities.",
       "memoryHook": "T-Rexy says: Suburbanization is the move to the suburbs.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1822,7 +1822,7 @@
         "The building of suburbs",
         "The creation of slums"
       ],
-      "explanation": "Gentrification renovates poor areas, often pushing out longtime residents.",
+      "explanation": "The process flips a neighborhood's class character: higher rents and property taxes squeeze out renters and small shops even as renovated housing attracts wealthier newcomers.",
       "memoryHook": "T-Rexy says: Gentrification raises prices and pushes people out.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1862,7 +1862,7 @@
         "A model of migration",
         "A model of trade"
       ],
-      "explanation": "The concentric zone model pictures a city in rings around a central business district.",
+      "explanation": "Ernest Burgess built the model from 1920s Chicago: each ring invades the next as the city grows, so zones shift outward over time like ripples.",
       "memoryHook": "T-Rexy says: The concentric zone model draws rings around downtown.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1882,7 +1882,7 @@
         "A model of farming",
         "A model of population"
       ],
-      "explanation": "The sector model shows city growth in sectors radiating from the center.",
+      "explanation": "Homer Hoyt noticed in the 1930s that land uses stretch outward in wedges along rail lines and roads - high-rent housing keeps extending in the same sector as the city grows.",
       "memoryHook": "T-Rexy says: The sector model grows in wedges.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1942,7 +1942,7 @@
         "Income of the richest people",
         "Government spending only"
       ],
-      "explanation": "GDP per capita is average economic output per person.",
+      "explanation": "Per capita means per person: dividing by population lets a small rich country like Luxembourg outrank a giant economy like China in average output.",
       "memoryHook": "T-Rexy says: GDP per capita is output per person.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1962,7 +1962,7 @@
         "Developing countries are always poor",
         "Developed countries have no industry"
       ],
-      "explanation": "Development is measured by income, health, and education.",
+      "explanation": "The spectrum runs from more-developed to less-developed countries, and the Brandt Line once split the rich North from the poorer South - today the UN prefers HDI rankings.",
       "memoryHook": "T-Rexy says: Development is about income, health, and school.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
@@ -1982,7 +1982,7 @@
         "A mine in Mexico",
         "A tourist resort"
       ],
-      "explanation": "Maquiladoras are export factories in northern Mexico.",
+      "explanation": "Maquiladoras import parts duty-free, assemble them with lower-cost Mexican labor, and ship finished goods back - mostly to the US market, just across the border.",
       "memoryHook": "T-Rexy says: Maquiladoras assemble goods for export.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
