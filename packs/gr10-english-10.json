@@ -29,7 +29,7 @@
         "grammar",
         "punctuation"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -109,7 +109,7 @@
         "grammar",
         "punctuation"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -229,7 +229,7 @@
         "grammar",
         "phrases"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -269,7 +269,7 @@
         "grammar",
         "verbs"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -329,7 +329,7 @@
         "grammar",
         "homophones"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -342,7 +342,7 @@
         "A group of words that cannot stand alone",
         "A single word"
       ],
-      "explanation": "An independent clause expresses a complete thought and can be a sentence by itself.",
+      "explanation": "An independent clause has its own subject and verb and expresses a complete thought, so it can stand alone as a sentence - unlike a dependent clause, which cannot.",
       "memoryHook": "T-Rexy says: An independent clause can stand alone.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -369,7 +369,7 @@
         "grammar",
         "sentences"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -422,7 +422,7 @@
         "chased",
         "tired"
       ],
-      "explanation": "It refers back to the dog, the antecedent.",
+      "explanation": "Work backward from the pronoun: a tail cannot get tired, so 'it' must point to the dog. The noun a pronoun replaces is its antecedent.",
       "memoryHook": "T-Rexy says: An antecedent is the noun a pronoun replaces.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -462,7 +462,7 @@
         "The dog bark at strangers.",
         "The dogs barking at strangers."
       ],
-      "explanation": "The plural subject dogs takes the plural verb bark.",
+      "explanation": "Dogs is plural, so it takes the plural verb form 'bark' (no -s). Note that 'The dogs barking at strangers' is not a sentence at all - it has no main verb.",
       "memoryHook": "T-Rexy says: Plural subjects take plural verbs.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -502,7 +502,7 @@
         "An exclamation point",
         "A comma"
       ],
-      "explanation": "Interrogative sentences ask questions and end with question marks.",
+      "explanation": "Each sentence type has its end mark: a declarative sentence ends with a period, an interrogative (question) sentence with a question mark, and an exclamatory sentence with an exclamation point.",
       "memoryHook": "T-Rexy says: Questions end with question marks.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -662,7 +662,7 @@
         "Angry and loud",
         "Brave and bold"
       ],
-      "explanation": "Meticulous means very careful and precise.",
+      "explanation": "Meticulous is the opposite of careless: a meticulous worker measures twice, checks every detail, and leaves nothing to chance.",
       "memoryHook": "T-Rexy says: A meticulous person checks every detail.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -682,7 +682,7 @@
         "Selfish",
         "Rude"
       ],
-      "explanation": "Benevolent means kind and generous.",
+      "explanation": "Benevolent is built on 'bene' (good): a benevolent person wants good for others and gives time or money to help them, so 'kind' is the match.",
       "memoryHook": "T-Rexy says: Benevolent means kind-hearted.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -762,7 +762,7 @@
         "Completely false",
         "Very old"
       ],
-      "explanation": "Ambiguous means unclear because it can be understood in more than one way.",
+      "explanation": "An ambiguous statement can be read two ways at once - 'I saw her duck' could mean an animal or a quick bend - and that double meaning is what makes it unclear.",
       "memoryHook": "T-Rexy says: Ambiguous means it could mean two things.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -822,7 +822,7 @@
         "Emotional and impulsive",
         "Strict and formal"
       ],
-      "explanation": "Pragmatic means dealing with problems in a practical way.",
+      "explanation": "A pragmatic leader picks the plan that actually works with the budget and time available, even when it is not the ideal plan.",
       "memoryHook": "T-Rexy says: Pragmatic means practical.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -862,7 +862,7 @@
         "Useful",
         "New"
       ],
-      "explanation": "Obsolete means no longer used or out of date.",
+      "explanation": "Obsolete things have been replaced and fallen out of use - like pay phones, floppy disks, and VHS tapes.",
       "memoryHook": "T-Rexy says: Obsolete means outdated.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -882,7 +882,7 @@
         "Judging others harshly",
         "Ignoring others' problems"
       ],
-      "explanation": "Empathy is the ability to understand and share the feelings of another.",
+      "explanation": "Empathy goes beyond sympathy (feeling sorry for someone): it means feeling with the person, imagining the situation from inside their experience.",
       "memoryHook": "T-Rexy says: Empathy is walking in someone else's shoes.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -922,7 +922,7 @@
         "Slow to learn",
         "Afraid of change"
       ],
-      "explanation": "Resilient means able to bounce back after setbacks.",
+      "explanation": "Picture a rubber band: resilient people and materials get stretched by setbacks but snap back to their original shape instead of breaking.",
       "memoryHook": "T-Rexy says: Resilient people bounce back.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1002,7 +1002,7 @@
         "Rude",
         "Confused"
       ],
-      "explanation": "Candid means truthful and straightforward.",
+      "explanation": "A candid speaker says what he really thinks without hiding or softening it - the opposite of secretive.",
       "memoryHook": "T-Rexy says: Candid means straight-up honest.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1122,7 +1122,7 @@
         "When a character speaks directly",
         "When a story ends happily"
       ],
-      "explanation": "Irony is a contrast between expectation and reality.",
+      "explanation": "Irony is the gap between expectation and reality - a fire station burning down, or a lifeguard who cannot swim.",
       "memoryHook": "T-Rexy says: Irony is when the opposite happens.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1142,7 +1142,7 @@
         "The main conflict",
         "The final resolution"
       ],
-      "explanation": "Foreshadowing plants clues about future events.",
+      "explanation": "Writers foreshadow with early details - storm clouds, a nervous glance, a weapon mentioned in chapter one - that only pay off later.",
       "memoryHook": "T-Rexy says: Foreshadowing hints at what comes next.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1162,7 +1162,7 @@
         "Its main character",
         "Its plot twists"
       ],
-      "explanation": "Theme is the underlying message or insight about life.",
+      "explanation": "Theme is not the plot, and not a single word like 'love': it is the message the whole story builds about life, such as 'greed destroys happiness.'",
       "memoryHook": "T-Rexy says: Theme is the big idea of the story.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1182,7 +1182,7 @@
         "The final sentence",
         "The background description"
       ],
-      "explanation": "The climax is the moment of greatest tension, where the conflict turns.",
+      "explanation": "Everything in the plot builds toward the climax and falls away after it - it is the showdown or decision the whole story has been aiming at.",
       "memoryHook": "T-Rexy says: The climax is the story's peak.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1202,8 +1202,8 @@
         "The narrator only",
         "A minor character"
       ],
-      "explanation": "The protagonist is the central character whose journey drives the story.",
-      "memoryHook": "T-Rexy says: The protagonist is the hero of the story.",
+      "explanation": "The protagonist is whoever the story follows and whose choices drive the plot - usually the hero, but sometimes an antihero or even a villain.",
+      "memoryHook": "T-Rexy says: The protagonist is the character the story follows.",
       "imageUrl": "topic:english-10",
       "tags": [
         "literature",
@@ -1222,7 +1222,7 @@
         "The author",
         "The narrator"
       ],
-      "explanation": "The antagonist creates conflict by opposing the protagonist.",
+      "explanation": "Without an antagonist there is no conflict: the blocker can be a villain, a storm, or the hero's own fear - anything that stands in the protagonist's way.",
       "memoryHook": "T-Rexy says: The antagonist blocks the hero.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1249,7 +1249,7 @@
         "literature",
         "point-of-view"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1322,14 +1322,14 @@
         "A dream sequence only",
         "The story's ending"
       ],
-      "explanation": "A flashback takes readers back to an earlier event.",
+      "explanation": "A flashback is a jump cut to an earlier time - often signaled by a memory or by words like 'ten years earlier' - that explains something about the present.",
       "memoryHook": "T-Rexy says: A flashback rewinds the story.",
       "imageUrl": "topic:english-10",
       "tags": [
         "literature",
         "flashback"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1342,7 +1342,7 @@
         "The story's moral",
         "The author's background"
       ],
-      "explanation": "Setting is when and where the story takes place.",
+      "explanation": "Setting answers two questions at once: when (the time period) and where (the place) - for example, 'a small Arizona town in 1962.'",
       "memoryHook": "T-Rexy says: Setting is time and place.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1402,7 +1402,7 @@
         "The story's length",
         "The main character's job"
       ],
-      "explanation": "Mood is the emotional atmosphere the text creates for the reader.",
+      "explanation": "Mood belongs to the reader, not the author: descriptive word choices build an atmosphere - eerie, cheerful, tense - that the reader feels.",
       "memoryHook": "T-Rexy says: Mood is how the story makes you feel.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1442,7 +1442,7 @@
         "A word borrowed from French",
         "A word with two meanings"
       ],
-      "explanation": "Onomatopoeia words sound like what they describe.",
+      "explanation": "Onomatopoeia copies a real sound in letters: cows 'moo', machines 'vroom', and water goes 'splash'.",
       "memoryHook": "T-Rexy says: Buzz and crash sound like what they mean.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1462,7 +1462,7 @@
         "The title of a poem",
         "A single line of poetry"
       ],
-      "explanation": "A stanza is a paragraph-like group of lines in a poem.",
+      "explanation": "Like paragraphs in an essay, stanzas group a poem's lines into units; a four-line stanza is called a quatrain.",
       "memoryHook": "T-Rexy says: A stanza is a paragraph of poetry.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1502,7 +1502,7 @@
         "When two characters argue",
         "When the ending is happy"
       ],
-      "explanation": "Dramatic irony happens when readers know more than the characters do.",
+      "explanation": "In dramatic irony the audience holds information a character lacks - we know the killer is inside the house while the character calmly walks in.",
       "memoryHook": "T-Rexy says: Dramatic irony is when you know what the character does not.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1522,7 +1522,7 @@
         "A minor detail",
         "Its longest paragraph"
       ],
-      "explanation": "The main idea is what the passage is mostly about.",
+      "explanation": "To find the main idea, ask what most of the passage's details support: the details are the evidence, and the main idea is the point they prove.",
       "memoryHook": "T-Rexy says: The main idea is what the passage is mostly about.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1542,7 +1542,7 @@
         "A list of sources",
         "A personal opinion with no evidence"
       ],
-      "explanation": "A thesis statement states the main argument the essay will support.",
+      "explanation": "A thesis is more than a topic: it takes a position - 'School uniforms should be banned because...' - that the whole essay must then defend.",
       "memoryHook": "T-Rexy says: A thesis is the essay's main claim.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1562,7 +1562,7 @@
         "To quote a source",
         "To ask a question"
       ],
-      "explanation": "A topic sentence introduces what a paragraph is about.",
+      "explanation": "Read the topic sentence and you know the paragraph's single job; every other sentence in that paragraph should support it.",
       "memoryHook": "T-Rexy says: A topic sentence tells what the paragraph will prove.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1582,7 +1582,7 @@
         "Facts are always long",
         "Opinions are always wrong"
       ],
-      "explanation": "Facts are verifiable; opinions express feelings or judgments.",
+      "explanation": "Test it: a fact can be checked and proven ('Water boils at 100 degrees Celsius'), but an opinion uses judgment words like 'best' or 'boring' that can never be proven.",
       "memoryHook": "T-Rexy says: Facts can be proven, opinions cannot.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1622,7 +1622,7 @@
         "To ignore the text",
         "To summarize without proof"
       ],
-      "explanation": "Citing evidence means pointing to exact words from the text that back up an idea.",
+      "explanation": "Citing means naming the exact line or detail - quoting 'the door was already open,' for example - not just saying 'the text shows it.'",
       "memoryHook": "T-Rexy says: Cite the text to prove your point.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1642,7 +1642,7 @@
         "To describe a place",
         "To explain a process neutrally"
       ],
-      "explanation": "Persuasive writing aims to change minds or inspire action.",
+      "explanation": "Persuasive essays argue one side: signal words like 'should', 'must', and 'it is time to' show the writer wants the reader to agree or act.",
       "memoryHook": "T-Rexy says: Persuasion tries to convince you.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1682,7 +1682,7 @@
         "To ask a new question",
         "To list sources"
       ],
-      "explanation": "A conclusion wraps up the essay by restating the thesis and key ideas.",
+      "explanation": "A conclusion mirrors the introduction in reverse: restate the thesis in fresh words and recap the strongest points. New evidence belongs in the body, not here.",
       "memoryHook": "T-Rexy says: A conclusion wraps up, it does not start new ideas.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1722,7 +1722,7 @@
         "Chronological order",
         "Problem and solution"
       ],
-      "explanation": "Compare and contrast structure shows how things are alike and different.",
+      "explanation": "Writers signal this structure with words like 'similarly', 'unlike', 'both', and 'in contrast' as they move between the two subjects.",
       "memoryHook": "T-Rexy says: Compare and contrast shows alike and different.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1742,7 +1742,7 @@
         "Events arranged by location",
         "Events arranged randomly"
       ],
-      "explanation": "Chronological order follows time from first to last.",
+      "explanation": "Chronological order runs on time clues - 'first', 'then', 'in 1962', 'finally' - so the reader can rebuild the timeline in sequence.",
       "memoryHook": "T-Rexy says: Chronological order follows the clock.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1762,7 +1762,7 @@
         "To add an example",
         "To end a paragraph"
       ],
-      "explanation": "However signals a shift or contrast with what came before.",
+      "explanation": "'However' is a turn signal: it warns the reader that the next idea pushes against the one before it, the way 'but' links two opposing clauses.",
       "memoryHook": "T-Rexy says: However means but in fancy dress.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1842,7 +1842,7 @@
         "To persuade the reader",
         "To describe a feeling"
       ],
-      "explanation": "Expository writing explains, using facts and examples.",
+      "explanation": "Expository writing informs without arguing a side - textbooks, how-to guides, and news reports are expository because they explain with facts and examples.",
       "memoryHook": "T-Rexy says: Expository writing explains.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1882,7 +1882,7 @@
         "It is emotional",
         "It is popular"
       ],
-      "explanation": "Strong evidence directly supports the claim and comes from a reliable source.",
+      "explanation": "Evidence is weak when it is vague, off-topic, or from an unreliable source; strong evidence is on-point, precise, and checkable.",
       "memoryHook": "T-Rexy says: Strong evidence is relevant and reliable.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1922,7 +1922,7 @@
         "Appealing to logic",
         "Appealing to humor"
       ],
-      "explanation": "Ethos persuades by showing the speaker is trustworthy or expert.",
+      "explanation": "Ethos is built before the argument even starts: a doctor's white coat or an expert's credentials give the audience a reason to trust the speaker.",
       "memoryHook": "T-Rexy says: Ethos is trust me, I know this.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1942,7 +1942,7 @@
         "Appealing to credibility",
         "Appealing to facts only"
       ],
-      "explanation": "Pathos persuades by stirring feelings.",
+      "explanation": "Pathos works through stories and vivid images - an ad showing a shivering stray dog is asking for feelings, not facts.",
       "memoryHook": "T-Rexy says: Pathos tugs at your feelings.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -1962,7 +1962,7 @@
         "Appealing to credibility",
         "Appealing to humor"
       ],
-      "explanation": "Logos persuades with facts, data, and reasoning.",
+      "explanation": "Logos is the appeal you can check: statistics, comparisons, and if-then reasoning that still hold up when the audience thinks them through.",
       "memoryHook": "T-Rexy says: Logos is the logic and the numbers.",
       "imageUrl": "topic:english-10",
       "tags": [
@@ -2002,7 +2002,7 @@
         "Writing original ideas",
         "Summarizing in your own words"
       ],
-      "explanation": "Plagiarism is presenting others' work as your own.",
+      "explanation": "Even one copied sentence without quotation marks and a citation counts as plagiarism - and paraphrasing someone else's idea still needs credit.",
       "memoryHook": "T-Rexy says: Plagiarism is copying without credit.",
       "imageUrl": "topic:english-10",
       "tags": [
