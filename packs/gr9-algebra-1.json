@@ -29,7 +29,7 @@
         "linear",
         "equations"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1042,7 +1042,7 @@
         "x = 4",
         "x = 6"
       ],
-      "explanation": "Subtract 2: 3x > 20, so x > 6.666666666666667. The value 7 is greater than that bound, while 6 is not.",
+      "explanation": "Subtract 2: 3x > 20, so x > 20/3, which is about 6.67. The value 7 is greater than that bound, while 6 is not.",
       "memoryHook": "T-Rexy says: Solve an inequality like an equation, then test a value.",
       "imageUrl": "topic:algebra",
       "tags": [
@@ -1062,7 +1062,7 @@
         "x = 6",
         "x = 8"
       ],
-      "explanation": "Subtract 6: 3x > 26, so x > 8.666666666666666. The value 9 is greater than that bound, while 8 is not.",
+      "explanation": "Subtract 6: 3x > 26, so x > 26/3, which is about 8.67. The value 9 is greater than that bound, while 8 is not.",
       "memoryHook": "T-Rexy says: Solve an inequality like an equation, then test a value.",
       "imageUrl": "topic:algebra",
       "tags": [
@@ -1369,7 +1369,7 @@
         "quadratics",
         "equations"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1769,7 +1769,7 @@
         "sequences",
         "arithmetic"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1849,7 +1849,7 @@
         "quadratics",
         "vertex"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
