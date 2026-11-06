@@ -59,20 +59,20 @@
   },
   {
    "id": "EACALC_003",
-   "question": "Find lim (x -> 3) (2x + 1).",
-   "correctAnswer": "7",
+   "question": "A particle moves along a line with position s(t) = t^3 - 6t^2 + 9t for t >= 0. Find the velocity of the particle at t = 2.",
+   "correctAnswer": "-3",
    "distractors": [
-    "6",
-    "5",
-    "8"
+    "3",
+    "0",
+    "9"
    ],
-   "explanation": "Direct substitution: 2(3) + 1 = 7.",
-   "memoryHook": "T-Rexy says: if plugging in works, just plug in - no drama!",
-   "imageUrl": "topic:limits",
+   "explanation": "Velocity is the derivative of position: v(t) = s'(t) = 3t^2 - 12t + 9. At t = 2: v(2) = 3(4) - 12(2) + 9 = 12 - 24 + 9 = -3. The negative sign means the particle is moving in the negative direction at t = 2. (The distractor 0 is the acceleration a(2) = 6(2) - 12 = 0, not the velocity.)",
+   "memoryHook": "T-Rexy says: velocity is the derivative of position - differentiate first, then plug in the time!",
+   "imageUrl": "topic:motion",
    "tags": [
     "Math",
     "Calculus",
-    "Limits"
+    "Motion"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -227,20 +227,20 @@
   },
   {
    "id": "EACALC_011",
-   "question": "Find lim (x -> 4) sqrt(x + 5).",
-   "correctAnswer": "3",
+   "question": "A particle moves along a line with velocity v(t) = t^2 - 6t + 8. At t = 1, is the particle speeding up or slowing down?",
+   "correctAnswer": "Slowing down",
    "distractors": [
-    "2",
-    "9",
-    "4"
+    "Speeding up",
+    "At rest",
+    "Moving at constant speed"
    ],
-   "explanation": "Direct substitution: sqrt(4 + 5) = sqrt(9) = 3.",
-   "memoryHook": "T-Rexy says: roots are continuous where defined - just plug in!",
-   "imageUrl": "topic:limits",
+   "explanation": "Acceleration is a(t) = v'(t) = 2t - 6, so a(1) = -4. Velocity at t = 1 is v(1) = 1 - 6 + 8 = 3, which is positive, while the acceleration is negative. Velocity and acceleration have opposite signs, so the particle is slowing down.",
+   "memoryHook": "T-Rexy says: same signs speed up, opposite signs slow down - always check BOTH signs!",
+   "imageUrl": "topic:motion",
    "tags": [
     "Math",
     "Calculus",
-    "Limits"
+    "Motion"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -626,20 +626,20 @@
   },
   {
    "id": "EACALC_030",
-   "question": "If f(x) = x^5, find f'(x).",
-   "correctAnswer": "5x^4",
+   "question": "In the slope field for dy/dx = x + y, each segment at a point has slope equal to x + y at that point. What is the slope of the segment at the point (2, -1)?",
+   "correctAnswer": "1",
    "distractors": [
-    "x^4",
-    "5x^5",
-    "4x^5"
+    "-1",
+    "3",
+    "-3"
    ],
-   "explanation": "Power rule: d/dx [x^n] = n*x^(n-1), so f'(x) = 5x^4.",
-   "memoryHook": "T-Rexy says: five comes down, exponent drops to four - power rule stomp!",
-   "imageUrl": "topic:derivatives",
+   "explanation": "A slope field segment at (x, y) has slope dy/dx evaluated at that point. At (2, -1): slope = x + y = 2 + (-1) = 1. The distractor -1 comes from computing x - y instead of x + y. A slope of 1 means the solution curve rises at 45 degrees as it passes through (2, -1).",
+   "memoryHook": "T-Rexy says: a slope field segment just plugs its own point into dy/dx - read the point, get the slope!",
+   "imageUrl": "topic:differential-equations",
    "tags": [
     "Math",
     "Calculus",
-    "Derivatives"
+    "Slope Fields"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -710,20 +710,20 @@
   },
   {
    "id": "EACALC_034",
-   "question": "If f(x) = e^x, find f'(x).",
-   "correctAnswer": "e^x",
+   "question": "Use L'Hospital's Rule to find lim (x -> 0) (e^x - 1 - x) / x^2.",
+   "correctAnswer": "1/2",
    "distractors": [
-    "x*e^(x-1)",
+    "0",
     "1",
-    "e"
+    "2"
    ],
-   "explanation": "The derivative of e^x is itself: d/dx [e^x] = e^x.",
-   "memoryHook": "T-Rexy says: e-to-the-x is the immortal function - its derivative never changes!",
-   "imageUrl": "topic:derivatives",
+   "explanation": "Direct substitution gives the indeterminate form 0/0, so L'Hospital's Rule applies. Differentiate top and bottom: (e^x - 1) / (2x), which is still 0/0 at x = 0. Apply the rule a second time: e^x / 2, which approaches 1/2 as x -> 0.",
+   "memoryHook": "T-Rexy says: still 0/0 after one round? Differentiate top and bottom again - L'Hospital can repeat!",
+   "imageUrl": "topic:lhopital",
    "tags": [
     "Math",
     "Calculus",
-    "Derivatives"
+    "L'Hospital"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -752,20 +752,20 @@
   },
   {
    "id": "EACALC_036",
-   "question": "If f(x) = sin(x), find f'(x).",
-   "correctAnswer": "cos(x)",
+   "question": "Use L'Hospital's Rule to find lim (x -> 0) ln(1 + x) / x.",
+   "correctAnswer": "1",
    "distractors": [
-    "-cos(x)",
-    "-sin(x)",
-    "tan(x)"
+    "0",
+    "2",
+    "Does not exist"
    ],
-   "explanation": "d/dx [sin(x)] = cos(x).",
-   "memoryHook": "T-Rexy says: sine becomes cosine - the trig derivative dance step one!",
-   "imageUrl": "topic:derivatives",
+   "explanation": "Direct substitution gives the indeterminate form 0/0, so L'Hospital's Rule applies. Differentiate the numerator and the denominator separately: the numerator derivative is 1 / (1 + x) and the denominator derivative is 1. The new limit is 1 / (1 + 0) = 1.",
+   "memoryHook": "T-Rexy says: 0/0 is the starting bell for L'Hospital - differentiate top and bottom separately, never with the quotient rule!",
+   "imageUrl": "topic:lhopital",
    "tags": [
     "Math",
     "Calculus",
-    "Derivatives"
+    "L'Hospital"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -773,20 +773,20 @@
   },
   {
    "id": "EACALC_037",
-   "question": "If f(x) = cos(x), find f'(x).",
-   "correctAnswer": "-sin(x)",
+   "question": "Use L'Hospital's Rule to find lim (x -> infinity) ln(x) / sqrt(x).",
+   "correctAnswer": "0",
    "distractors": [
-    "sin(x)",
-    "-cos(x)",
-    "tan(x)"
+    "1/2",
+    "1",
+    "Infinity"
    ],
-   "explanation": "d/dx [cos(x)] = -sin(x). Watch the negative sign.",
-   "memoryHook": "T-Rexy says: cosine becomes NEGATIVE sine - that minus sign is the trap!",
-   "imageUrl": "topic:derivatives",
+   "explanation": "As x -> infinity both ln(x) and sqrt(x) grow without bound, giving the indeterminate form infinity/infinity, so L'Hospital's Rule applies. Differentiate top and bottom: (1/x) / (1 / (2sqrt(x))) = 2 / sqrt(x). As x -> infinity, 2 / sqrt(x) approaches 0, so the limit is 0: sqrt(x) outgrows ln(x).",
+   "memoryHook": "T-Rexy says: any power of x outruns ln(x) in the long run - the log always loses the growth race!",
+   "imageUrl": "topic:lhopital",
    "tags": [
     "Math",
     "Calculus",
-    "Derivatives"
+    "L'Hospital"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -836,20 +836,20 @@
   },
   {
    "id": "EACALC_040",
-   "question": "If f(x) = 4, find f'(x).",
-   "correctAnswer": "0",
+   "question": "Use L'Hospital's Rule to find lim (x -> 0) (x - sin(x)) / x^3.",
+   "correctAnswer": "1/6",
    "distractors": [
-    "4",
-    "1",
-    "4x"
+    "0",
+    "1/3",
+    "1/2"
    ],
-   "explanation": "The derivative of any constant is 0.",
-   "memoryHook": "T-Rexy says: flat line, zero slope - constants always differentiate to zero!",
-   "imageUrl": "topic:derivatives",
+   "explanation": "Direct substitution gives 0/0. Apply L'Hospital's Rule: (1 - cos(x)) / (3x^2), still 0/0. Apply it again: sin(x) / (6x), still 0/0. Apply it a third time: cos(x) / 6, which approaches 1/6 as x -> 0.",
+   "memoryHook": "T-Rexy says: three rounds of 0/0, three rounds of L'Hospital - keep going until the form clears!",
+   "imageUrl": "topic:lhopital",
    "tags": [
     "Math",
     "Calculus",
-    "Derivatives"
+    "L'Hospital"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -1046,20 +1046,20 @@
   },
   {
    "id": "EACALC_050",
-   "question": "If y = x^3 + 2x, find dy/dx at the point where x = 1.",
-   "correctAnswer": "5",
+   "question": "The region under the curve y = sqrt(x) from x = 0 to x = 4 is revolved around the x-axis. Find the volume of the solid formed.",
+   "correctAnswer": "8pi",
    "distractors": [
-    "3",
-    "1",
-    "4"
+    "4pi",
+    "16pi",
+    "2pi"
    ],
-   "explanation": "dy/dx = 3x^2 + 2. At x = 1: 3 + 2 = 5.",
-   "memoryHook": "T-Rexy says: differentiate, then plug in the point - easy dino points!",
-   "imageUrl": "topic:derivatives",
+   "explanation": "The region touches the x-axis, so use the disk method with radius R(x) = sqrt(x). V = pi times the integral from 0 to 4 of (sqrt(x))^2 dx = pi times the integral from 0 to 4 of x dx = pi times [x^2 / 2] from 0 to 4 = pi(8 - 0) = 8pi.",
+   "memoryHook": "T-Rexy says: no hole means disks - pi times radius squared, and sqrt squared just gives x back!",
+   "imageUrl": "topic:volumes",
    "tags": [
     "Math",
     "Calculus",
-    "Derivatives"
+    "Volumes"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -1319,20 +1319,20 @@
   },
   {
    "id": "EACALC_063",
-   "question": "Find the x-value of the local minimum of f(x) = x^3 - 3x^2:",
-   "correctAnswer": "x = 2",
+   "question": "The region between the curves y = x and y = x^2 from x = 0 to x = 1 is revolved around the x-axis. Find the volume of the solid formed.",
+   "correctAnswer": "2pi/15",
    "distractors": [
-    "x = 0",
-    "x = 1",
-    "x = -1"
+    "pi/15",
+    "4pi/15",
+    "pi/6"
    ],
-   "explanation": "f' < 0 for 0 < x < 2 and f' > 0 for x > 2, so f decreases then increases at x = 2: local min.",
-   "memoryHook": "T-Rexy says: minus to plus means a valley - local minimum found!",
-   "imageUrl": "topic:derivatives",
+   "explanation": "Revolving the region leaves a hole, so use the washer method. On [0, 1], y = x is the outer curve and y = x^2 is the inner curve, so R(x) = x and r(x) = x^2. V = pi times the integral from 0 to 1 of (x^2 - x^4) dx = pi [x^3/3 - x^5/5] from 0 to 1 = pi(1/3 - 1/5) = pi(2/15) = 2pi/15. Note the distractor pi/6 is only the area between the curves - volume needs the washer integral.",
+   "memoryHook": "T-Rexy says: a hole means washers - outer radius squared minus inner radius squared, then times pi!",
+   "imageUrl": "topic:volumes",
    "tags": [
     "Math",
     "Calculus",
-    "Extrema"
+    "Volumes"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -1382,20 +1382,20 @@
   },
   {
    "id": "EACALC_066",
-   "question": "If f''(x) > 0 on an interval, then f is:",
-   "correctAnswer": "Concave up",
+   "question": "A solid has as its base the region under the line y = 2x from x = 0 to x = 3. Cross sections perpendicular to the x-axis are squares whose side lies in the base. Find the volume of the solid.",
+   "correctAnswer": "36",
    "distractors": [
-    "Concave down",
-    "Increasing",
-    "Decreasing"
+    "18",
+    "12",
+    "54"
    ],
-   "explanation": "Positive second derivative means concave up (shaped like a cup).",
-   "memoryHook": "T-Rexy says: f-double-prime positive - the graph smiles like a happy dino cup!",
-   "imageUrl": "topic:derivatives",
+   "explanation": "At position x the side of the square cross section equals the height of the base region, s = 2x, so the cross-sectional area is A(x) = s^2 = 4x^2. V = the integral from 0 to 3 of 4x^2 dx = 4 [x^3 / 3] from 0 to 3 = 4(27 / 3) = 4(9) = 36.",
+   "memoryHook": "T-Rexy says: cross sections mean integrate the slice area - square the side, then add up the slices!",
+   "imageUrl": "topic:volumes",
    "tags": [
     "Math",
     "Calculus",
-    "Concavity"
+    "Volumes"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -1466,20 +1466,20 @@
   },
   {
    "id": "EACALC_070",
-   "question": "If f'(x) > 0 for all x in (a, b), then f is:",
-   "correctAnswer": "Increasing on (a, b)",
+   "question": "A sample decays according to dA/dt = -0.1A with A(0) = 80 grams. Find A(10), the amount remaining after 10 years.",
+   "correctAnswer": "80/e",
    "distractors": [
-    "Decreasing on (a, b)",
-    "Concave up on (a, b)",
-    "Constant on (a, b)"
+    "80e^-10",
+    "80e",
+    "8"
    ],
-   "explanation": "A positive first derivative means the function is increasing.",
-   "memoryHook": "T-Rexy says: f-prime positive - the graph climbs uphill!",
-   "imageUrl": "topic:derivatives",
+   "explanation": "A rate of change proportional to the amount gives an exponential model: A(t) = A(0) e^(kt) = 80e^(-0.1t). At t = 10: A(10) = 80e^(-0.1 times 10) = 80e^(-1) = 80/e, about 29.4 grams. The exponent is -0.1 times 10 = -1, not -10.",
+   "memoryHook": "T-Rexy says: rate proportional to amount means exponential - multiply k by t inside the exponent!",
+   "imageUrl": "topic:differential-equations",
    "tags": [
     "Math",
     "Calculus",
-    "Extrema"
+    "Differential Equations"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -1529,20 +1529,20 @@
   },
   {
    "id": "EACALC_073",
-   "question": "If f(x) = x^4, which statement about concavity is true?",
-   "correctAnswer": "Concave up everywhere",
+   "question": "A solid has as its base the region under the line y = 2x from x = 0 to x = 2. Cross sections perpendicular to the x-axis are semicircles whose diameter lies in the base. Find the volume of the solid.",
+   "correctAnswer": "4pi/3",
    "distractors": [
-    "Concave down everywhere",
-    "Concave up for x > 0 only",
-    "Has an inflection point at x = 0"
+    "2pi/3",
+    "8pi/3",
+    "pi/3"
    ],
-   "explanation": "f''(x) = 12x^2 >= 0 for all x, so f is concave up everywhere. At x = 0 concavity does not change, so no inflection point.",
-   "memoryHook": "T-Rexy says: x-to-the-fourth is a happy cup everywhere - no flip, no inflection!",
-   "imageUrl": "topic:derivatives",
+   "explanation": "At position x the diameter of the semicircle equals the height of the base region, d = 2x, so the radius is x and the cross-sectional area is A(x) = (1/2) pi (radius)^2 = (pi/2) x^2. V = the integral from 0 to 2 of (pi/2) x^2 dx = (pi/2) [x^3 / 3] from 0 to 2 = (pi/2)(8/3) = 4pi/3. Using the full circle instead of a semicircle would double this to the distractor 8pi/3.",
+   "memoryHook": "T-Rexy says: semicircle area is HALF of pi r squared - halve first, then integrate the slices!",
+   "imageUrl": "topic:volumes",
    "tags": [
     "Math",
     "Calculus",
-    "Concavity"
+    "Volumes"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -1823,20 +1823,20 @@
   },
   {
    "id": "EACALC_087",
-   "question": "If F(x) = ∫(2 to x) t^3 dt, find F'(x).",
-   "correctAnswer": "x^3",
+   "question": "A particle moves along a line with velocity v(t) = t - 2 for 0 <= t <= 3. Find the total distance traveled by the particle from t = 0 to t = 3.",
+   "correctAnswer": "5/2",
    "distractors": [
-    "x^3 - 8",
-    "3x^2",
-    "(x^4/4) - 4"
+    "-3/2",
+    "3/2",
+    "2"
    ],
-   "explanation": "By FTC Part 1, F'(x) = x^3 (plug x into the integrand).",
-   "memoryHook": "T-Rexy says: lower limit is just a number - only the top x matters!",
-   "imageUrl": "topic:integrals",
+   "explanation": "Total distance uses the integral of speed, |v(t)|, so split where v changes sign: v(t) = 0 at t = 2. Distance = the integral from 0 to 2 of (2 - t) dt plus the integral from 2 to 3 of (t - 2) dt = [2t - t^2/2] from 0 to 2 plus [t^2/2 - 2t] from 2 to 3 = 2 + 1/2 = 5/2. The distractor -3/2 is the displacement, where backward motion cancels forward motion - distance never cancels.",
+   "memoryHook": "T-Rexy says: distance adds every step, displacement cancels - split at the sign change and flip the negative part up!",
+   "imageUrl": "topic:motion",
    "tags": [
     "Math",
     "Calculus",
-    "FTC"
+    "Motion"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -1886,20 +1886,20 @@
   },
   {
    "id": "EACALC_090",
-   "question": "Find: ∫ (1/x) dx.",
-   "correctAnswer": "ln|x| + C",
+   "question": "A particle moves along a line with velocity v(t) = 3t^2 + 2 and initial position s(0) = 5. Find the position of the particle at t = 2.",
+   "correctAnswer": "17",
    "distractors": [
-    "1/x^2 + C",
-    "x*ln(x) + C",
-    "-1/x^2 + C"
+    "12",
+    "16",
+    "21"
    ],
-   "explanation": "∫ (1/x) dx = ln|x| + C. The absolute value handles negative x.",
-   "memoryHook": "T-Rexy says: one-over-x integrates to ln-absolute-x - the special power rule exception!",
-   "imageUrl": "topic:integrals",
+   "explanation": "Position is the antiderivative of velocity plus the initial condition: s(t) = the integral of (3t^2 + 2) dt = t^3 + 2t + C, and s(0) = 5 gives C = 5. So s(2) = 8 + 4 + 5 = 17. The distractor 12 forgets the initial position s(0) = 5.",
+   "memoryHook": "T-Rexy says: integrate velocity to climb back to position - and never drop the starting point!",
+   "imageUrl": "topic:motion",
    "tags": [
     "Math",
     "Calculus",
-    "Integrals"
+    "Motion"
    ],
    "difficulty": "easy",
    "dynamic": false,
