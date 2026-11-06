@@ -110,7 +110,7 @@
         "sculpture",
         "technique"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -504,13 +504,13 @@
         "The weight of the clay"
       ],
       "explanation": "Pyrometric cones bend at specific heat-work levels, telling the potter the firing reached maturity, not just a peak temperature.",
-      "memoryHook": "T-Rexy says: Cones are the kiln's thermometers - when they bow, the firing is done!",
+      "memoryHook": "T-Rexy says: Cones are the kiln's heat-work witnesses - when they bow, the firing got enough heat for long enough!",
       "imageUrl": "topic:pyrometric-cones",
       "tags": [
         "ceramics",
         "firing"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -850,7 +850,7 @@
         "art-history",
         "concept"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1567,7 +1567,7 @@
       "tags": [
         "ap-portfolio"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1633,7 +1633,7 @@
     {
       "id": "EART3D_082",
       "question": "A slump mold is used to",
-      "correctAnswer": "Shape a clay slab over or into a form",
+      "correctAnswer": "Shape a clay slab into a concave form",
       "distractors": [
         "Fire the kiln",
         "Mix glaze",
@@ -1739,7 +1739,7 @@
         "Mix glaze",
         "Center clay on the wheel"
       ],
-      "explanation": "Pyrometers (and pyrometric cones) tell the potter exactly how hot the kiln is getting during a firing.",
+      "explanation": "A pyrometer is a thermocouple thermometer that reads the kiln's current temperature during a firing; pyrometric cones complement it by showing heat work - temperature sustained over time.",
       "memoryHook": "T-Rexy says: The pyrometer is the kiln's thermometer - no guessing the heat!",
       "imageUrl": "topic:pyrometer",
       "tags": [
@@ -1752,7 +1752,7 @@
     },
     {
       "id": "EART3D_088",
-      "question": "An artist's statement for the AP portfolio should",
+      "question": "The written evidence in the AP portfolio should",
       "correctAnswer": "Explain the ideas and processes behind the work",
       "distractors": [
         "List the prices of materials",
@@ -1977,7 +1977,7 @@
         "Cannot be photographed",
         "Is never documented"
       ],
-      "explanation": "Installation art is site-specific and immersive - the room itself becomes the artwork you walk through.",
+      "explanation": "Installation art is immersive and often designed for a specific space - the room itself becomes the artwork you walk through.",
       "memoryHook": "T-Rexy says: Step inside the artwork - installations are sculptures you can walk through!",
       "imageUrl": "topic:installation-art",
       "tags": [

@@ -30,7 +30,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -50,7 +50,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -70,7 +70,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -90,7 +90,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -110,7 +110,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -130,7 +130,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -150,7 +150,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -170,7 +170,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -190,7 +190,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -210,7 +210,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -230,7 +230,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -250,7 +250,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -270,7 +270,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -290,7 +290,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -310,7 +310,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -330,7 +330,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -350,7 +350,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -370,7 +370,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -390,7 +390,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -410,7 +410,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -430,7 +430,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -450,7 +450,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -470,7 +470,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -490,7 +490,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -510,7 +510,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -530,27 +530,27 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
     {
       "id": "EENG_027",
-      "question": "Identify which pronouns a first-person narrator uses.",
+      "question": "Identify which pronouns a first-person singular narrator uses.",
       "correctAnswer": "I, me, my",
       "distractors": [
         "you, your",
         "he, she, they",
         "we, us, our"
       ],
-      "explanation": "First-person narration uses I/me/my; second person uses you; third person uses he/she/they.",
+      "explanation": "First-person singular narration uses I/me/my (the first-person plural forms are we/us/our); second person uses you; third person uses he/she/they.",
       "memoryHook": "T-Rexy says: I tell my own tale - first person keeps it personal!",
       "imageUrl": "topic:literature",
       "tags": [
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -570,7 +570,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -590,7 +590,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -610,7 +610,7 @@
         "ELA",
         "Literature"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -630,7 +630,7 @@
         "ELA",
         "Rhetoric"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -650,7 +650,7 @@
         "ELA",
         "Rhetoric"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -670,7 +670,7 @@
         "ELA",
         "Rhetoric"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -690,7 +690,7 @@
         "ELA",
         "Rhetoric"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -710,7 +710,7 @@
         "ELA",
         "Rhetoric"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -730,7 +730,7 @@
         "ELA",
         "Rhetoric"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -750,7 +750,7 @@
         "ELA",
         "Rhetoric"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -770,7 +770,7 @@
         "ELA",
         "Rhetoric"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -790,7 +790,7 @@
         "ELA",
         "Rhetoric"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -810,7 +810,7 @@
         "ELA",
         "Rhetoric"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -830,13 +830,13 @@
         "ELA",
         "Writing"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
     {
       "id": "EENG_042",
-      "question": "Identify the term for an opposing argument addressed in an essay.",
+      "question": "Which best describes a counterargument in an essay?",
       "correctAnswer": "an opposing view the writer addresses",
       "distractors": [
         "the writer's main claim",
@@ -850,7 +850,7 @@
         "ELA",
         "Writing"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -870,7 +870,7 @@
         "ELA",
         "Writing"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -890,7 +890,7 @@
         "ELA",
         "Writing"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -910,7 +910,7 @@
         "ELA",
         "Writing"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -930,7 +930,7 @@
         "ELA",
         "Writing"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -950,7 +950,7 @@
         "ELA",
         "Writing"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -970,7 +970,7 @@
         "ELA",
         "Writing"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -990,7 +990,7 @@
         "ELA",
         "Writing"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1010,7 +1010,7 @@
         "ELA",
         "Writing"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1030,7 +1030,7 @@
         "ELA",
         "Grammar"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1050,7 +1050,7 @@
         "ELA",
         "Grammar"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1070,7 +1070,7 @@
         "ELA",
         "Grammar"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1081,7 +1081,7 @@
       "distractors": [
         "was",
         "is",
-        "are"
+        "has been"
       ],
       "explanation": "With neither/nor, the verb agrees with the nearer subject - the plural 'students.'",
       "memoryHook": "T-Rexy says: the verb hugs the nearer subject - students were ready!",
@@ -1090,7 +1090,7 @@
         "ELA",
         "Grammar"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1110,7 +1110,7 @@
         "ELA",
         "Grammar"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1130,7 +1130,7 @@
         "ELA",
         "Grammar"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1150,7 +1150,7 @@
         "ELA",
         "Grammar"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1170,7 +1170,7 @@
         "ELA",
         "Grammar"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1190,7 +1190,7 @@
         "ELA",
         "Grammar"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1210,7 +1210,7 @@
         "ELA",
         "Grammar"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1230,7 +1230,7 @@
         "ELA",
         "Vocabulary"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1250,7 +1250,7 @@
         "ELA",
         "Vocabulary"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1270,7 +1270,7 @@
         "ELA",
         "Vocabulary"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1290,7 +1290,7 @@
         "ELA",
         "Vocabulary"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1310,7 +1310,7 @@
         "ELA",
         "Vocabulary"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1330,7 +1330,7 @@
         "ELA",
         "Vocabulary"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1350,7 +1350,7 @@
         "ELA",
         "Vocabulary"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1370,7 +1370,7 @@
         "ELA",
         "Vocabulary"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1390,7 +1390,7 @@
         "ELA",
         "Vocabulary"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1410,7 +1410,7 @@
         "ELA",
         "Vocabulary"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1430,7 +1430,7 @@
         "ELA",
         "Poetry"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1450,7 +1450,7 @@
         "ELA",
         "Poetry"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1470,7 +1470,7 @@
         "ELA",
         "Poetry"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1490,7 +1490,7 @@
         "ELA",
         "Poetry"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1510,7 +1510,7 @@
         "ELA",
         "Poetry"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1530,7 +1530,7 @@
         "ELA",
         "Poetry"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1550,7 +1550,7 @@
         "ELA",
         "Poetry"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1570,7 +1570,7 @@
         "ELA",
         "Poetry"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1590,7 +1590,7 @@
         "ELA",
         "Poetry"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1610,7 +1610,7 @@
         "ELA",
         "Poetry"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1630,7 +1630,7 @@
         "ELA",
         "Shakespeare"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1650,7 +1650,7 @@
         "ELA",
         "Shakespeare"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1670,7 +1670,7 @@
         "ELA",
         "Shakespeare"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1690,7 +1690,7 @@
         "ELA",
         "Shakespeare"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1710,7 +1710,7 @@
         "ELA",
         "Shakespeare"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1730,7 +1730,7 @@
         "ELA",
         "Shakespeare"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1750,7 +1750,7 @@
         "ELA",
         "Shakespeare"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1770,7 +1770,7 @@
         "ELA",
         "Shakespeare"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1790,7 +1790,7 @@
         "ELA",
         "Shakespeare"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1810,7 +1810,7 @@
         "ELA",
         "Shakespeare"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1830,7 +1830,7 @@
         "ELA",
         "Research"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1850,7 +1850,7 @@
         "ELA",
         "Research"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1870,7 +1870,7 @@
         "ELA",
         "Research"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1890,7 +1890,7 @@
         "ELA",
         "Research"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1910,7 +1910,7 @@
         "ELA",
         "Research"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1930,7 +1930,7 @@
         "ELA",
         "Research"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1950,7 +1950,7 @@
         "ELA",
         "Research"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1970,7 +1970,7 @@
         "ELA",
         "Research"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -1990,7 +1990,7 @@
         "ELA",
         "Research"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     },
@@ -2010,7 +2010,7 @@
         "ELA",
         "Research"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps College English"
     }

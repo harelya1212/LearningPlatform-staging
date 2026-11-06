@@ -30,7 +30,7 @@
         "Government",
         "Branches"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -50,7 +50,7 @@
         "Government",
         "Branches"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -70,7 +70,7 @@
         "Government",
         "Branches"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -90,7 +90,7 @@
         "Government",
         "Branches"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -110,7 +110,7 @@
         "Constitution",
         "Basics"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -130,7 +130,7 @@
         "Constitution",
         "Bill of Rights"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -150,7 +150,7 @@
         "Constitution",
         "Amendments"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -170,7 +170,7 @@
         "Congress",
         "House"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -190,7 +190,7 @@
         "Congress",
         "Senate"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -210,7 +210,7 @@
         "Congress",
         "House"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -230,7 +230,7 @@
         "Congress",
         "Senate"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -249,7 +249,7 @@
       "tags": [
         "Presidency"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -269,7 +269,7 @@
         "Presidency",
         "Amendments"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -289,7 +289,7 @@
         "Elections",
         "Voting Rights"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -309,7 +309,7 @@
         "Arizona",
         "State Government"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -329,7 +329,7 @@
         "Constitution",
         "Basics"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -349,7 +349,7 @@
         "Constitution",
         "Bill of Rights"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -362,14 +362,14 @@
         "The 4th Amendment",
         "The 8th Amendment"
       ],
-      "explanation": "The 2nd Amendment protects the right of the people to keep and bear arms.",
+      "explanation": "Ratified in 1791 as part of the Bill of Rights, the 2nd Amendment protects an individual right to own firearms, recognized by the Supreme Court in District of Columbia v. Heller (2008).",
       "memoryHook": "T-Rexy says: two arms for the 2nd Amendment - well, I have two tiny ones!",
       "imageUrl": "topic:constitution",
       "tags": [
         "Constitution",
         "Bill of Rights"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -389,7 +389,7 @@
         "Presidency",
         "Branches"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -409,7 +409,7 @@
         "Courts",
         "Judicial Branch"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -429,7 +429,7 @@
         "Courts",
         "Judicial Branch"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -449,7 +449,7 @@
         "Congress",
         "Checks and Balances"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -469,7 +469,7 @@
         "Congress",
         "Senate"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -489,7 +489,7 @@
         "Arizona",
         "State Government"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -509,7 +509,7 @@
         "Arizona",
         "State Government"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -529,7 +529,7 @@
         "Constitution",
         "Basics"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -549,7 +549,7 @@
         "Constitution",
         "Amendments"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -569,7 +569,7 @@
         "Constitution",
         "Amendments"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -589,7 +589,7 @@
         "Constitution",
         "Basics"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -608,7 +608,7 @@
       "tags": [
         "Federalism"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -628,7 +628,7 @@
         "Constitution",
         "Branches"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -642,13 +642,13 @@
         "Article V"
       ],
       "explanation": "Article II creates the presidency and describes the President's powers.",
-      "memoryHook": "T-Rexy says: Article Two for the two-term President!",
+      "memoryHook": "T-Rexy says: Article Two - the President's article, the second branch in line!",
       "imageUrl": "topic:constitution",
       "tags": [
         "Constitution",
         "Branches"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -668,7 +668,7 @@
         "Constitution",
         "Branches"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -688,7 +688,7 @@
         "Congress",
         "House"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -708,7 +708,7 @@
         "Congress",
         "Senate"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -727,7 +727,7 @@
       "tags": [
         "Presidency"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -747,7 +747,7 @@
         "Congress",
         "House"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -767,7 +767,7 @@
         "Congress",
         "Senate"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -787,7 +787,7 @@
         "Constitution",
         "Bill of Rights"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -801,13 +801,13 @@
         "The 8th Amendment"
       ],
       "explanation": "The 5th Amendment says no one must testify against themselves - this is called 'pleading the Fifth.'",
-      "memoryHook": "T-Rexy says: plead the Fifth - five fingers, five amendments of protection!",
+      "memoryHook": "T-Rexy says: plead the Fifth - one amendment, a whole hand of protections: silence, due process, and more!",
       "imageUrl": "topic:constitution",
       "tags": [
         "Constitution",
         "Bill of Rights"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -827,7 +827,7 @@
         "Constitution",
         "Bill of Rights"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -847,7 +847,7 @@
         "Constitution",
         "Bill of Rights"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -866,7 +866,7 @@
       "tags": [
         "Checks and Balances"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -886,7 +886,7 @@
         "Courts",
         "Checks and Balances"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -906,7 +906,7 @@
         "Arizona",
         "State Government"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -926,7 +926,7 @@
         "Arizona",
         "State Government"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -946,7 +946,7 @@
         "Arizona",
         "State Government"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -966,7 +966,7 @@
         "Arizona",
         "Direct Democracy"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -986,7 +986,7 @@
         "Arizona",
         "Direct Democracy"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1006,7 +1006,7 @@
         "Arizona",
         "Direct Democracy"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1026,7 +1026,7 @@
         "Elections",
         "Presidency"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1046,7 +1046,7 @@
         "Elections",
         "Presidency"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1067,7 +1067,7 @@
         "Amendments",
         "Civil Rights"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1088,7 +1088,7 @@
         "Amendments",
         "Voting Rights"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1109,7 +1109,7 @@
         "Bill of Rights",
         "Federalism"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1129,7 +1129,7 @@
         "Congress",
         "House"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1149,7 +1149,7 @@
         "Elections",
         "Presidency"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1169,7 +1169,7 @@
         "Arizona",
         "Courts"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1188,7 +1188,7 @@
       "tags": [
         "Elections"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1209,7 +1209,7 @@
         "Amendments",
         "Presidency"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1230,7 +1230,7 @@
         "Senate",
         "Checks and Balances"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1250,7 +1250,7 @@
         "Congress",
         "Senate"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1271,7 +1271,7 @@
         "Amendments",
         "Voting Rights"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1291,7 +1291,7 @@
         "Constitution",
         "Civil Liberties"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1311,7 +1311,7 @@
         "Arizona",
         "State Government"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1331,7 +1331,7 @@
         "Constitution",
         "Amendments"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1351,7 +1351,7 @@
         "Courts",
         "Checks and Balances"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1371,7 +1371,7 @@
         "Courts",
         "Checks and Balances"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1391,7 +1391,7 @@
         "Constitution",
         "Federalism"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1410,7 +1410,7 @@
       "tags": [
         "Elections"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1430,7 +1430,7 @@
         "Checks and Balances",
         "Congress"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1450,7 +1450,7 @@
         "Constitution",
         "Bill of Rights"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1470,7 +1470,7 @@
         "Federalism",
         "Congress"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1490,7 +1490,7 @@
         "Federalism",
         "Congress"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1510,7 +1510,7 @@
         "Constitution",
         "Congress"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1530,7 +1530,7 @@
         "Constitution",
         "Amendments"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1550,7 +1550,7 @@
         "Constitution",
         "Amendments"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1563,14 +1563,14 @@
         "The Senate President",
         "The Chief Justice"
       ],
-      "explanation": "Arizona has no lieutenant governor; the Secretary of State is first in the line of succession.",
+      "explanation": "Under Article 5 of the Arizona Constitution, the elected Secretary of State - who runs Arizona's elections - is first after the governor, ahead of the Attorney General, because Arizona created no lieutenant governor's office.",
       "memoryHook": "T-Rexy says: no lieutenant in Arizona - the Secretary of State steps up!",
       "imageUrl": "topic:government",
       "tags": [
         "Arizona",
         "State Government"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1589,7 +1589,7 @@
       "tags": [
         "Courts"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1608,7 +1608,7 @@
       "tags": [
         "Courts"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1628,7 +1628,7 @@
         "Constitution",
         "Bill of Rights"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1648,7 +1648,7 @@
         "Constitution",
         "Civil Liberties"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1661,14 +1661,14 @@
         "Congress must pay debts",
         "States must share tax revenue"
       ],
-      "explanation": "Article IV requires states to respect each other's laws and judgments, like driver's licenses.",
+      "explanation": "Article IV requires each state to honor the public acts, records, and court judgments of the others, so a marriage license or court judgment from one state is recognized in Arizona.",
       "memoryHook": "T-Rexy says: full faith means full trust - states trust each other's paperwork!",
       "imageUrl": "topic:constitution",
       "tags": [
         "Constitution",
         "Federalism"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1688,7 +1688,7 @@
         "Courts",
         "Civil Liberties"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1708,7 +1708,7 @@
         "Arizona",
         "State Government"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1729,7 +1729,7 @@
         "Bill of Rights",
         "Federalism"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1750,7 +1750,7 @@
         "Bill of Rights",
         "Civil Liberties"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1771,7 +1771,7 @@
         "Bill of Rights",
         "Civil Liberties"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1792,7 +1792,7 @@
         "Bill of Rights",
         "Civil Liberties"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1813,7 +1813,7 @@
         "Civil Liberties",
         "Arizona"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1833,7 +1833,7 @@
         "Presidency",
         "Checks and Balances"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1853,7 +1853,7 @@
         "Congress",
         "Senate"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1874,7 +1874,7 @@
         "Congress",
         "Federalism"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1893,7 +1893,7 @@
       "tags": [
         "Federalism"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1906,14 +1906,14 @@
         "It redraws districts",
         "It limits campaign donations"
       ],
-      "explanation": "Arizona voters protected their initiatives from legislative tampering - a strong direct-democracy shield.",
+      "explanation": "The Voter Protection Act (Proposition 105, 1998) bars the legislature from repealing a voter-approved initiative; it may amend one only by a three-fourths vote, and only if the change furthers the measure's purpose.",
       "memoryHook": "T-Rexy says: voters protect their votes - the legislature cannot undo what voters approved!",
       "imageUrl": "topic:elections",
       "tags": [
         "Arizona",
         "Direct Democracy"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1933,7 +1933,7 @@
         "Arizona",
         "Courts"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1946,14 +1946,14 @@
         "Keeping a lawmaker's seat",
         "Retaining a veto"
       ],
-      "explanation": "Arizona judges face retention votes instead of contested elections.",
+      "explanation": "Merit-selected Arizona judges - appellate judges and superior court judges in large counties - face yes-or-no retention votes instead of running against an opponent.",
       "memoryHook": "T-Rexy says: retention means keep or cut - voters give judges a report card!",
       "imageUrl": "topic:elections",
       "tags": [
         "Arizona",
         "Courts"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1973,7 +1973,7 @@
         "Arizona",
         "Elections"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -1994,7 +1994,7 @@
         "Amendments",
         "Voting Rights"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     },
@@ -2013,7 +2013,7 @@
       "tags": [
         "Civic Participation"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps US/AZ Gov 12"
     }

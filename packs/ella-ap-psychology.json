@@ -85,7 +85,7 @@
         "ensure informed consent",
         "eliminate the placebo effect"
       ],
-      "explanation": "Random assignment distributes individual differences evenly across experimental groups.",
+      "explanation": "Because assignment is by chance, traits like age, ability, and motivation are spread roughly equally across groups, so pre-existing differences cannot explain a later difference in results. Random assignment is different from random selection, which concerns who is chosen for the sample in the first place.",
       "memoryHook": "T-Rexy says: Random assignment shuffles people so groups start EQUAL!",
       "imageUrl": "topic:research-methods",
       "tags": [
@@ -190,7 +190,7 @@
         "kept constant across conditions",
         "selected by random sampling"
       ],
-      "explanation": "The dependent variable 'depends' on the independent variable.",
+      "explanation": "The dependent variable is the outcome measured in every condition. Researchers compare its values between the experimental and control groups to determine whether the manipulation actually produced an effect.",
       "memoryHook": "T-Rexy says: Dependent equals DEPENDS on what I changed!",
       "imageUrl": "topic:research-methods",
       "tags": [
@@ -240,7 +240,7 @@
         "ap",
         "research-methods"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -576,7 +576,7 @@
         "ap",
         "biological-bases"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -589,7 +589,7 @@
         "the smallest noticeable difference",
         "the point where senses adapt"
       ],
-      "explanation": "The 50 percent detection criterion defines the absolute threshold.",
+      "explanation": "At exactly this faint level, a person detects the stimulus half the time and misses it half the time. The 50 percent point is used because weaker stimuli fall below reliable detection, so the threshold marks the boundary of what the sense can register.",
       "memoryHook": "T-Rexy says: Absolute threshold equals the QUIETEST whisper you can hear half the time!",
       "imageUrl": "topic:sensation-perception",
       "tags": [
@@ -618,7 +618,7 @@
         "ap",
         "sensation-perception"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -954,7 +954,7 @@
         "ap",
         "learning"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1143,7 +1143,7 @@
         "ap",
         "cognition"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1269,7 +1269,7 @@
         "ap",
         "cognition"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1639,7 +1639,7 @@
         "primitive desires",
         "defense mechanisms"
       ],
-      "explanation": "The superego acts as the conscience.",
+      "explanation": "The superego develops as children internalize the rules and values of parents and society. It strives for perfection rather than pleasure, producing pride when behavior is good and guilt when it is not, and it often opposes the demands of the id.",
       "memoryHook": "T-Rexy says: Superego: your inner JUDGE, the moral voice!",
       "imageUrl": "topic:personality",
       "tags": [

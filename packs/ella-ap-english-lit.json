@@ -100,7 +100,7 @@
         "The rhyme at the end of lines",
         "The rhythm pattern of a poem"
       ],
-      "explanation": "A stanza is a grouped set of lines in a poem, separated by blank lines, similar to a paragraph in prose.",
+      "explanation": "A stanza is a grouped set of lines in a poem, separated by a blank line. Stanzas organize ideas the way paragraphs do in prose, and they are named by line count: a couplet has 2 lines, a quatrain has 4.",
       "memoryHook": "T-Rexy says: stanza equals poetry paragraph.",
       "imageUrl": "topic:stanza",
       "tags": [
@@ -174,7 +174,7 @@
       "question": "Who wrote To Kill a Mockingbird?",
       "correctAnswer": "Harper Lee",
       "distractors": [
-        "Flannery OConnor",
+        "Flannery O'Connor",
         "Toni Morrison",
         "Eudora Welty"
       ],
@@ -275,7 +275,7 @@
         "A chart showing the plot",
         "The moral of the story"
       ],
-      "explanation": "Imagery uses vivid sensory details - sight, sound, smell, taste, touch - to create pictures in the readers mind.",
+      "explanation": "Imagery uses vivid sensory details - sight, sound, smell, taste, touch - to create pictures in the reader's mind.",
       "memoryHook": "T-Rexy says: if you can see it, hear it, or smell it in words, that is imagery.",
       "imageUrl": "topic:imagery",
       "tags": [
@@ -290,8 +290,8 @@
       "question": "Who wrote Pride and Prejudice?",
       "correctAnswer": "Jane Austen",
       "distractors": [
-        "Charlotte Bronte",
-        "Emily Bronte",
+        "Charlotte Brontë",
+        "Emily Brontë",
         "George Eliot"
       ],
       "explanation": "Jane Austen wrote Pride and Prejudice, published in 1813, her famous novel of manners.",
@@ -312,7 +312,7 @@
       "distractors": [
         "A flashback to earlier events",
         "The final resolution",
-        "A characters backstory"
+        "A character's backstory"
       ],
       "explanation": "Foreshadowing plants subtle hints early in a story that suggest later developments.",
       "memoryHook": "T-Rexy says: a shadow cast forward - foreshadowing warns of what is coming.",
@@ -426,7 +426,7 @@
       "question": "What is dialogue in a literary work?",
       "correctAnswer": "Conversation between characters",
       "distractors": [
-        "The authors personal diary",
+        "The author's personal diary",
         "A description of scenery",
         "The chapter titles"
       ],
@@ -484,7 +484,7 @@
       "question": "What is a symbol in literature?",
       "correctAnswer": "An object or image that represents an idea",
       "distractors": [
-        "A characters full name",
+        "A character's full name",
         "The page number",
         "A spelling error"
       ],
@@ -578,13 +578,13 @@
     {
       "id": "ELIT_030",
       "question": "Who wrote Jane Eyre?",
-      "correctAnswer": "Charlotte Bronte",
+      "correctAnswer": "Charlotte Brontë",
       "distractors": [
-        "Emily Bronte",
+        "Emily Brontë",
         "Anne Bronte",
         "Jane Austen"
       ],
-      "explanation": "Charlotte Bronte wrote Jane Eyre in 1847 under the pen name Currer Bell.",
+      "explanation": "Charlotte Brontë wrote Jane Eyre in 1847 under the pen name Currer Bell.",
       "memoryHook": "T-Rexy says: Charlotte plus Jane Eyre - the eldest Bronte sister.",
       "imageUrl": "topic:jane-eyre",
       "tags": [
@@ -677,13 +677,13 @@
     {
       "id": "ELIT_035",
       "question": "What is stream of consciousness narration?",
-      "correctAnswer": "Writing that follows a characters uninterrupted flow of thoughts",
+      "correctAnswer": "Writing that follows a character's uninterrupted flow of thoughts",
       "distractors": [
         "A narrator who shouts",
         "Dialogue only, no description",
         "A story told backwards"
       ],
-      "explanation": "Stream of consciousness presents a characters thoughts as a continuous inner flow, used by Woolf and Joyce.",
+      "explanation": "Stream of consciousness presents a character's thoughts as a continuous inner flow, used by Woolf and Joyce.",
       "memoryHook": "T-Rexy says: thoughts flowing like a stream - stream of consciousness.",
       "imageUrl": "topic:stream-of-consciousness",
       "tags": [
@@ -741,7 +741,7 @@
         "A chorus",
         "A prologue"
       ],
-      "explanation": "Hamlets To be or not to be is a soliloquy, a speech revealing inner thoughts to the audience alone.",
+      "explanation": "Hamlet's To be or not to be is a soliloquy, a speech revealing inner thoughts to the audience alone.",
       "memoryHook": "T-Rexy says: alone on stage thinking aloud - soliloquy.",
       "imageUrl": "topic:hamlet",
       "tags": [
@@ -761,7 +761,7 @@
         "The main villain",
         "A narrator"
       ],
-      "explanation": "A foil is a character whose contrasting qualities emphasize another characters traits.",
+      "explanation": "A foil is a character whose contrasting qualities emphasize another character's traits.",
       "memoryHook": "T-Rexy says: foil reflects by contrast - opposites highlight.",
       "imageUrl": "topic:foil",
       "tags": [
@@ -813,13 +813,13 @@
     {
       "id": "ELIT_042",
       "question": "Who wrote Wuthering Heights?",
-      "correctAnswer": "Emily Bronte",
+      "correctAnswer": "Emily Brontë",
       "distractors": [
-        "Charlotte Bronte",
-        "Anne Bronte",
+        "Charlotte Brontë",
+        "Anne Brontë",
         "Jane Austen"
       ],
-      "explanation": "Emily Bronte wrote Wuthering Heights in 1847, her only novel, set on the Yorkshire moors.",
+      "explanation": "Emily Brontë wrote Wuthering Heights in 1847, her only novel, set on the Yorkshire moors.",
       "memoryHook": "T-Rexy says: Emily plus Heathcliff - windswept moors.",
       "imageUrl": "topic:wuthering-heights",
       "tags": [
@@ -839,7 +839,7 @@
         "Poems about freedom",
         "Verse with exactly ten syllables"
       ],
-      "explanation": "Free verse has no set meter or rhyme, relying on natural rhythms, as in Whitmans work.",
+      "explanation": "Free verse has no set meter or rhyme, relying on natural rhythms, as in Whitman's work.",
       "memoryHook": "T-Rexy says: free from rules - free verse.",
       "imageUrl": "topic:free-verse",
       "tags": [
@@ -858,7 +858,7 @@
         "Sophocles",
         "Plato"
       ],
-      "explanation": "Homer is traditionally credited with The Odyssey, the ancient Greek epic of Odysseuss journey home.",
+      "explanation": "Homer is traditionally credited with The Odyssey, the ancient Greek epic of Odysseus's journey home.",
       "memoryHook": "T-Rexy says: Homer plus Odyssey - epic pair.",
       "imageUrl": "topic:odyssey",
       "tags": [
@@ -914,7 +914,7 @@
       "correctAnswer": "A recurring image, idea, or symbol",
       "distractors": [
         "A characters motive",
-        "The books cover design",
+        "The book's cover design",
         "A printing error"
       ],
       "explanation": "A motif is a repeated element - image, phrase, or idea - that reinforces theme.",
@@ -972,7 +972,7 @@
       "correctAnswer": "Arthur Miller",
       "distractors": [
         "Tennessee Williams",
-        "Eugene ONeill",
+        "Eugene O'Neill",
         "Thornton Wilder"
       ],
       "explanation": "Arthur Miller wrote The Crucible in 1953, an allegory of McCarthyism set in Salem.",
@@ -993,7 +993,7 @@
       "distractors": [
         "Two characters arguing",
         "The audience singing",
-        "A narrators introduction"
+        "A narrator's introduction"
       ],
       "explanation": "A soliloquy is delivered by a character alone, speaking thoughts aloud for the audience.",
       "memoryHook": "T-Rexy says: solo plus speech - soliloquy is thinking out loud.",
@@ -1028,13 +1028,13 @@
     {
       "id": "ELIT_053",
       "question": "What is third-person omniscient point of view?",
-      "correctAnswer": "A narrator who knows all characters thoughts and feelings",
+      "correctAnswer": "A narrator who knows all characters' thoughts and feelings",
       "distractors": [
         "A narrator who is a character",
         "Only dialogue, no narration",
         "A narrator who knows nothing"
       ],
-      "explanation": "Third-person omniscient uses he/she/they while the narrator knows every characters inner life.",
+      "explanation": "Third-person omniscient uses he/she/they while the narrator knows every character's inner life.",
       "memoryHook": "T-Rexy says: all-knowing outsider - omniscient sees all.",
       "imageUrl": "topic:point-of-view",
       "tags": [
@@ -1047,13 +1047,13 @@
     {
       "id": "ELIT_054",
       "question": "Who wrote One Hundred Years of Solitude?",
-      "correctAnswer": "Gabriel Garcia Marquez",
+      "correctAnswer": "Gabriel García Márquez",
       "distractors": [
         "Mario Vargas Llosa",
         "Isabel Allende",
         "Jorge Luis Borges"
       ],
-      "explanation": "Gabriel Garcia Marquez wrote One Hundred Years of Solitude in 1967, a masterpiece of magical realism.",
+      "explanation": "Gabriel García Márquez wrote One Hundred Years of Solitude in 1967, a masterpiece of magical realism.",
       "memoryHook": "T-Rexy says: Marquez plus Macondo - magical realism.",
       "imageUrl": "topic:solitude",
       "tags": [
@@ -1128,7 +1128,7 @@
       "correctAnswer": "Arthur Miller",
       "distractors": [
         "Tennessee Williams",
-        "Eugene ONeill",
+        "Eugene O'Neill",
         "David Mamet"
       ],
       "explanation": "Arthur Miller wrote Death of a Salesman in 1949, the tragedy of Willy Loman.",
@@ -1151,7 +1151,7 @@
         "A funny limerick",
         "A political speech"
       ],
-      "explanation": "An elegy is a serious, reflective poem mourning someones death or a lost past.",
+      "explanation": "An elegy is a serious, reflective poem mourning someone's death or a lost past.",
       "memoryHook": "T-Rexy says: elegy equals eulogy in verse - mournful poem.",
       "imageUrl": "topic:elegy",
       "tags": [
@@ -1188,7 +1188,7 @@
       "distractors": [
         "Putting similar things together",
         "A type of rhyme",
-        "A narrators aside"
+        "A narrator's aside"
       ],
       "explanation": "Juxtaposition sets contrasting images or ideas together to sharpen both.",
       "memoryHook": "T-Rexy says: side-by-side opposites - juxtaposition.",
@@ -1248,7 +1248,7 @@
         "Gloria Naylor",
         "Paule Marshall"
       ],
-      "explanation": "Toni Morrison wrote Song of Solomon in 1977, following Milkman Deads journey.",
+      "explanation": "Toni Morrison wrote Song of Solomon in 1977, following Milkman Dead's journey.",
       "memoryHook": "T-Rexy says: Morrison plus Milkman - song of Solomon.",
       "imageUrl": "topic:song-of-solomon",
       "tags": [
@@ -1284,7 +1284,7 @@
       "correctAnswer": "Tennessee Williams",
       "distractors": [
         "Arthur Miller",
-        "Eugene ONeill",
+        "Eugene O'Neill",
         "William Inge"
       ],
       "explanation": "Tennessee Williams wrote A Streetcar Named Desire in 1947, introducing Blanche DuBois.",
@@ -1346,7 +1346,7 @@
         "A poem with no rules",
         "A Japanese haiku"
       ],
-      "explanation": "A villanelle has five tercets and a quatrain, with two refrains, like Dylan Thomass Do not go gentle.",
+      "explanation": "A villanelle has five tercets and a quatrain, with two refrains, like Dylan Thomas's Do not go gentle.",
       "memoryHook": "T-Rexy says: nineteen lines, two refrains - villanelle.",
       "imageUrl": "topic:villanelle",
       "tags": [
@@ -1534,7 +1534,7 @@
     },
     {
       "id": "ELIT_079",
-      "question": "What are Aristotles three unities of drama?",
+      "question": "What are Aristotle's three unities of drama?",
       "correctAnswer": "Unity of action, time, and place",
       "distractors": [
         "Unity of rhyme, meter, stanza",
@@ -1614,7 +1614,7 @@
     },
     {
       "id": "ELIT_083",
-      "question": "What is T.S. Eliots objective correlative?",
+      "question": "What is T.S. Eliot's objective correlative?",
       "correctAnswer": "A set of objects or events that evokes a specific emotion",
       "distractors": [
         "An unbiased narrator",
@@ -1693,13 +1693,13 @@
     {
       "id": "ELIT_087",
       "question": "How do tone and mood differ in literature?",
-      "correctAnswer": "Tone is the authors attitude; mood is the readers feeling",
+      "correctAnswer": "Tone is the author's attitude; mood is the readers feeling",
       "distractors": [
         "They are synonyms",
         "Tone is for poetry only",
-        "Mood is the authors attitude"
+        "Mood is the author's attitude"
       ],
-      "explanation": "Tone reflects the authors attitude toward the subject, while mood is the emotional atmosphere the reader experiences.",
+      "explanation": "Tone reflects the author's attitude toward the subject, while mood is the emotional atmosphere the reader experiences.",
       "memoryHook": "T-Rexy says: author feels tone, reader feels mood.",
       "imageUrl": "topic:tone-mood",
       "tags": [
@@ -1715,7 +1715,7 @@
       "correctAnswer": "Miguel de Cervantes",
       "distractors": [
         "Lope de Vega",
-        "Calderon de la Barca",
+        "Calderón de la Barca",
         "Francisco de Quevedo"
       ],
       "explanation": "Miguel de Cervantes wrote Don Quixote in 1605 and 1615, the first modern novel.",
@@ -1758,7 +1758,7 @@
         "Elias Canetti",
         "Hermann Broch"
       ],
-      "explanation": "Franz Kafka wrote The Trial, published after his death, about Josef Ks arrest.",
+      "explanation": "Franz Kafka wrote The Trial, published after his death, about Josef K.'s arrest.",
       "memoryHook": "T-Rexy says: Kafka plus trial - bureaucratic nightmare.",
       "imageUrl": "topic:trial",
       "tags": [
@@ -1771,14 +1771,14 @@
     },
     {
       "id": "ELIT_091",
-      "question": "What is catharsis in Aristotles theory of tragedy?",
+      "question": "What is catharsis in Aristotle's theory of tragedy?",
       "correctAnswer": "The purging of pity and fear in the audience",
       "distractors": [
         "A cleaning product",
         "The heroes victory",
         "A comic interlude"
       ],
-      "explanation": "Aristotle claimed tragedy produces catharsis, cleansing spectators emotions of pity and terror.",
+      "explanation": "Aristotle claimed tragedy produces catharsis, cleansing spectators' emotions of pity and terror.",
       "memoryHook": "T-Rexy says: purged feelings - catharsis cleanses.",
       "imageUrl": "topic:catharsis",
       "tags": [
@@ -1824,7 +1824,7 @@
       "tags": [
         "ap-exam"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1837,7 +1837,7 @@
         "Andrew Marvell",
         "Alexander Pope"
       ],
-      "explanation": "John Milton wrote Paradise Lost in 1667, the epic of Adams fall.",
+      "explanation": "John Milton wrote Paradise Lost in 1667, the epic of Adam's fall.",
       "memoryHook": "T-Rexy says: Milton plus Satan - paradise lost.",
       "imageUrl": "topic:paradise-lost",
       "tags": [
@@ -1937,7 +1937,7 @@
         "A dialogue between two poets",
         "A speech in prose"
       ],
-      "explanation": "A dramatic monologue is a lyric poem spoken by a persona to an implied listener, like Brownings My Last Duchess.",
+      "explanation": "A dramatic monologue is a lyric poem spoken by a persona to an implied listener, like Browning's My Last Duchess.",
       "memoryHook": "T-Rexy says: one voice, silent listener - dramatic monologue.",
       "imageUrl": "topic:dramatic-monologue",
       "tags": [
@@ -1963,7 +1963,7 @@
       "tags": [
         "ap-exam"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     }
