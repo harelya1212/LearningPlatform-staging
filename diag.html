@@ -21,8 +21,11 @@
 <body>
 <div id="out">Running checks...</div>
 <button id="perm">1. Request notification permission</button><br/>
-<button id="sw">2. Register service worker</button>
+<button id="sw">2. Register service worker</button><br/>
+<button id="tok">3. Get FCM token (full registration)</button>
 <div id="res"></div>
+<script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-messaging-compat.js"></script>
 <script>
 function yn(v){ return v ? 'YES' : 'NO'; }
 var lines = [];
@@ -46,6 +49,37 @@ document.getElementById('sw').onclick = async function(){
     var reg = await navigator.serviceWorker.register('./firebase-messaging-sw.js');
     r.innerHTML = 'SW registered: <b>' + (reg ? 'YES' : 'NO') + '</b> scope: ' + (reg && reg.scope);
   } catch(e){ r.innerHTML = 'SW register error: <b>' + e.message + '</b>'; }
+};
+document.getElementById('tok').onclick = async function(){
+  var r = document.getElementById('res');
+  r.innerHTML = 'Working... (up to 30s)';
+  var started = Date.now();
+  try {
+    if (!firebase.apps.length) {
+      firebase.initializeApp({
+        apiKey: 'AIzaSyAZKtpIGgxc9qHRdQJJkVyYpSpxo4CUP5U',
+        authDomain: 'us-civic-test-beta.firebaseapp.com',
+        projectId: 'us-civic-test-beta',
+        storageBucket: 'us-civic-test-beta.firebasestorage.app',
+        messagingSenderId: '932562474530',
+        appId: '1:932562474530:web:5d05141b3d8ad6ccc7dc7b'
+      });
+    }
+    var reg = await navigator.serviceWorker.register('./firebase-messaging-sw.js');
+    var messaging = firebase.messaging();
+    var token = await Promise.race([
+      messaging.getToken({ vapidKey: 'BFPVJ7pqEFWgOfCXm2aNRyGuov1mOT161vjVM-rD7jXShqX7e9ZZEXMO-98qsP94Gnnx0Zl-7c-mr4LhLSp4reI', serviceWorkerRegistration: reg }),
+      new Promise(function(_, rej){ setTimeout(function(){ rej(new Error('getToken HUNG over 30s')); }, 30000); })
+    ]);
+    var secs = Math.round((Date.now() - started) / 1000);
+    if (token) {
+      r.innerHTML = 'TOKEN OK in ' + secs + 's: <b>' + token.slice(0, 25) + '...</b> (len ' + token.length + ')';
+    } else {
+      r.innerHTML = 'getToken returned EMPTY after ' + secs + 's';
+    }
+  } catch(e) {
+    r.innerHTML = 'getToken ERROR: <b>' + (e.code || '') + ' ' + e.message + '</b>';
+  }
 };
 </script>
 </body>
