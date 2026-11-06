@@ -1015,19 +1015,20 @@
     },
     {
       "id": "SPA9_051",
-      "question": "What does 'uno' mean in English?",
-      "correctAnswer": "one",
+      "question": "Completa la oración: Yo ___ español en la clase. (hablar)",
+      "correctAnswer": "hablo",
       "distractors": [
-        "water",
-        "black",
-        "bird"
+        "hablas",
+        "habla",
+        "hablan"
       ],
-      "explanation": "Uno is the number 1. Before a masculine noun it shortens to un (un libro = one book); before a feminine noun it becomes una (una casa = one house).",
-      "memoryHook": "T-Rexy says: 'uno' means 'one'.",
+      "explanation": "Hablar is a regular -ar verb. For yo, drop the -ar and add -o: hablo. The other forms belong to other subjects: hablas (tú), habla (él/ella) and hablan (ellos).",
+      "memoryHook": "T-Rexy says: for yo with -ar verbs, just add -o: ¡yo hablo!",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "numbers"
+        "grammar",
+        "conjugation",
+        "ar-verbs"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1035,19 +1036,20 @@
     },
     {
       "id": "SPA9_052",
-      "question": "What does 'dos' mean in English?",
-      "correctAnswer": "two",
+      "question": "Completa la oración: Tú ___ en la biblioteca los lunes. (estudiar)",
+      "correctAnswer": "estudias",
       "distractors": [
-        "to eat",
-        "five",
-        "ten"
+        "estudio",
+        "estudia",
+        "estudian"
       ],
-      "explanation": "Dos is the number 2 and never changes form for gender: dos perros, dos mesas. Count with it: uno, dos, tres.",
-      "memoryHook": "T-Rexy says: 'dos' means 'two'.",
+      "explanation": "Estudiar is a regular -ar verb. The tú form drops -ar and adds -as: estudias. Compare estudio (yo), estudia (él/ella) and estudian (ellos).",
+      "memoryHook": "T-Rexy says: tú always takes the -s ending: estudias, hablas, cantas.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "numbers"
+        "grammar",
+        "conjugation",
+        "ar-verbs"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1075,19 +1077,20 @@
     },
     {
       "id": "SPA9_054",
-      "question": "What does 'cuatro' mean in English?",
-      "correctAnswer": "four",
+      "question": "Completa la oración: Ellos ___ la radio por la mañana. (escuchar)",
+      "correctAnswer": "escuchan",
       "distractors": [
-        "thank you",
-        "five",
-        "day"
+        "escucha",
+        "escuchas",
+        "escuchamos"
       ],
-      "explanation": "Cuatro is the number 4. Watch the spelling: it starts with cua-, the same root you see in cuarenta (40) and cuatrocientos (400).",
-      "memoryHook": "T-Rexy says: 'cuatro' means 'four'.",
+      "explanation": "Escuchar is a regular -ar verb, and ellos takes the ending -an: escuchan. Escucha belongs to él/ella, escuchas to tú and escuchamos to nosotros - each ending announces its subject.",
+      "memoryHook": "T-Rexy says: ellos ends in -n: escuchan, hablan, estudian.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "numbers"
+        "grammar",
+        "conjugation",
+        "ar-verbs"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1115,19 +1118,20 @@
     },
     {
       "id": "SPA9_056",
-      "question": "What does 'diez' mean in English?",
-      "correctAnswer": "ten",
+      "question": "Completa la oración: Ella ___ un vaso de agua. (beber)",
+      "correctAnswer": "bebe",
       "distractors": [
-        "book",
-        "fish",
-        "five"
+        "bebo",
+        "bebes",
+        "beben"
       ],
-      "explanation": "Diez is the number 10 and the anchor for the teens: once (11), doce (12), trece (13), catorce (14), quince (15).",
-      "memoryHook": "T-Rexy says: 'diez' means 'ten'.",
+      "explanation": "Beber is a regular -er verb. For ella, drop -er and add -e: bebe. Compare bebo (yo), bebes (tú) and beben (ellos) - the vowel e runs through every -er ending.",
+      "memoryHook": "T-Rexy says: -er for ella is just -e: ella bebe, ella come, ella lee.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "numbers"
+        "grammar",
+        "conjugation",
+        "er-verbs"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1135,19 +1139,20 @@
     },
     {
       "id": "SPA9_057",
-      "question": "What does 'rojo' mean in English?",
-      "correctAnswer": "red",
+      "question": "Completa la oración: Él ___ ir al cine esta noche. (querer)",
+      "correctAnswer": "quiere",
       "distractors": [
-        "friend",
-        "ten",
-        "hello"
+        "quiero",
+        "quieres",
+        "quieren"
       ],
-      "explanation": "Rojo is a color adjective, so it agrees with its noun: el coche rojo, la casa roja, los libros rojos. Most color words ending in -o change this way.",
-      "memoryHook": "T-Rexy says: 'rojo' means 'red'.",
+      "explanation": "Querer is a stem-changing verb: its e becomes ie in the boot forms - quiero, quieres, quiere, quieren. Only nosotros and vosotros keep the plain e (queremos). For él, the form is quiere.",
+      "memoryHook": "T-Rexy says: querer puts on its ie boots: quiere ir al cine.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "colors"
+        "grammar",
+        "stem-changers",
+        "conjugation"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1155,19 +1160,20 @@
     },
     {
       "id": "SPA9_058",
-      "question": "What does 'azul' mean in English?",
-      "correctAnswer": "blue",
+      "question": "Completa la oración: Tú ___ ocho horas cada noche. (dormir)",
+      "correctAnswer": "duermes",
       "distractors": [
-        "book",
-        "four",
-        "goodbye"
+        "duermo",
+        "duerme",
+        "duermen"
       ],
-      "explanation": "Azul does not change for gender (el mar azul, la casa azul), but it adds -es in the plural: ojos azules.",
-      "memoryHook": "T-Rexy says: 'azul' means 'blue'.",
+      "explanation": "Dormir changes its o to ue in the boot forms: duermo, duermes, duerme, duermen. The tú form is duermes. Nosotros stands outside the boot and keeps the plain o: dormimos.",
+      "memoryHook": "T-Rexy says: dormir swaps o for ue: duermes como un bebé.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "colors"
+        "grammar",
+        "stem-changers",
+        "conjugation"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1195,19 +1201,20 @@
     },
     {
       "id": "SPA9_060",
-      "question": "What does 'amarillo' mean in English?",
-      "correctAnswer": "yellow",
+      "question": "Elige la oración correcta para decir de dónde es una persona:",
+      "correctAnswer": "Yo soy de España.",
       "distractors": [
-        "good night",
-        "thank you",
-        "four"
+        "Yo estoy de España.",
+        "Yo es de España.",
+        "Yo está de España."
       ],
-      "explanation": "Amarillo agrees with its noun like other -o adjectives: el sol amarillo, la flor amarilla. The double l is pronounced like a y in most dialects.",
-      "memoryHook": "T-Rexy says: 'amarillo' means 'yellow'.",
+      "explanation": "Origin always uses ser: yo soy de España. Estar never expresses origin, and the other options also break agreement - es and está are él/ella forms, not yo forms.",
+      "memoryHook": "T-Rexy says: where you are FROM is forever - use ser: soy de España.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "colors"
+        "grammar",
+        "ser-estar",
+        "ser"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1215,19 +1222,20 @@
     },
     {
       "id": "SPA9_061",
-      "question": "What does 'negro' mean in English?",
-      "correctAnswer": "black",
+      "question": "Completa la oración: Mi padre ___ médico en un hospital.",
+      "correctAnswer": "es",
       "distractors": [
-        "goodbye",
-        "thank you",
-        "bird"
+        "está",
+        "estoy",
+        "están"
       ],
-      "explanation": "Negro agrees in gender and number with its noun: el perro negro, la casa negra, los gatos negros.",
-      "memoryHook": "T-Rexy says: 'negro' means 'black'.",
+      "explanation": "Professions use ser, because they identify what a person is: mi padre es médico. Estar serves for temporary states and locations, so está cannot introduce a profession.",
+      "memoryHook": "T-Rexy says: jobs take ser - el doctor ES médico.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "colors"
+        "grammar",
+        "ser-estar",
+        "ser"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1255,19 +1263,20 @@
     },
     {
       "id": "SPA9_063",
-      "question": "What does 'madre' mean in English?",
-      "correctAnswer": "mother",
+      "question": "Completa la oración: Yo ___ estudiante en una escuela grande.",
+      "correctAnswer": "soy",
       "distractors": [
-        "hello",
-        "green",
-        "school"
+        "eres",
+        "es",
+        "somos"
       ],
-      "explanation": "Madre is feminine and takes la: la madre. The plural los padres means 'the parents' - the masculine plural covers both mother and father.",
-      "memoryHook": "T-Rexy says: 'madre' means 'mother'.",
+      "explanation": "Ser identifies who someone is, and its present forms are irregular: yo soy, tú eres, él/ella es, nosotros somos, ellos son. Since the subject here is yo, the form is soy.",
+      "memoryHook": "T-Rexy says: learn the ser chant - soy, eres, es, somos, son.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "family"
+        "grammar",
+        "ser-estar",
+        "ser"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1295,19 +1304,20 @@
     },
     {
       "id": "SPA9_065",
-      "question": "What does 'hermano' mean in English?",
-      "correctAnswer": "brother",
+      "question": "Completa la oración: Nosotros ___ cansados después del partido.",
+      "correctAnswer": "estamos",
       "distractors": [
-        "blue",
-        "goodbye",
-        "house"
+        "somos",
+        "son",
+        "es"
       ],
-      "explanation": "Hermano is the masculine form (el hermano); a sister is la hermana. Los hermanos can mean 'brothers' or 'siblings' in general.",
-      "memoryHook": "T-Rexy says: 'hermano' means 'brother'.",
+      "explanation": "Feelings and temporary conditions use estar: estamos cansados means we are tired right now. The nosotros form of estar is estamos. Somos comes from ser, which names identity rather than a passing state.",
+      "memoryHook": "T-Rexy says: tired today, fine tomorrow - that is estar: estamos cansados.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "family"
+        "grammar",
+        "ser-estar",
+        "estar"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1335,19 +1345,19 @@
     },
     {
       "id": "SPA9_067",
-      "question": "What does 'amigo' mean in English?",
-      "correctAnswer": "friend",
+      "question": "Completa la oración: A ellos les ___ los deportes.",
+      "correctAnswer": "gustan",
       "distractors": [
-        "red",
-        "thank you",
-        "goodbye"
+        "gusta",
+        "gusto",
+        "gustas"
       ],
-      "explanation": "Amigo is a male friend (el amigo); a female friend is una amiga. The -o/-a ending marks the gender of the person.",
-      "memoryHook": "T-Rexy says: 'amigo' means 'friend'.",
+      "explanation": "With gustar, the verb agrees with the thing that is liked, not with the person. Deportes is plural, so the form is gustan. A single liked thing takes gusta instead: me gusta el fútbol.",
+      "memoryHook": "T-Rexy says: many things liked? Say gustan: les gustan los deportes.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "people"
+        "grammar",
+        "gustar"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1355,19 +1365,20 @@
     },
     {
       "id": "SPA9_068",
-      "question": "What does 'profesor' mean in English?",
-      "correctAnswer": "teacher",
+      "question": "¿___ tú ayudarme esta tarde? (poder)",
+      "correctAnswer": "Puedes",
       "distractors": [
-        "good night",
-        "mother",
-        "dog"
+        "Puedo",
+        "Puede",
+        "Podemos"
       ],
-      "explanation": "Profesor is a male teacher; a female teacher is profesora. The stress falls on the last syllable: pro-fe-SOR, and it takes no written accent.",
-      "memoryHook": "T-Rexy says: 'profesor' means 'teacher'.",
+      "explanation": "Poder is an o-to-ue stem changer: puedo, puedes, puede, pueden. The subject tú takes puedes. Podemos keeps the plain o, because nosotros stands outside the boot.",
+      "memoryHook": "T-Rexy says: ¿puedes? - tú gets the ue in poder.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "school"
+        "grammar",
+        "stem-changers",
+        "conjugation"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1395,19 +1406,19 @@
     },
     {
       "id": "SPA9_070",
-      "question": "What does 'escuela' mean in English?",
-      "correctAnswer": "school",
+      "question": "¿___ está el parque?",
+      "correctAnswer": "Dónde",
       "distractors": [
-        "five",
-        "goodbye",
-        "four"
+        "Qué",
+        "Quién",
+        "Cuándo"
       ],
-      "explanation": "Escuela is feminine: la escuela. Most nouns ending in -a are feminine and take la - escuela, casa, mesa.",
-      "memoryHook": "T-Rexy says: 'escuela' means 'school'.",
+      "explanation": "Dónde asks about place - where something is. Question words in Spanish always carry a written accent in questions: dónde (where), qué (what), quién (who) and cuándo (when).",
+      "memoryHook": "T-Rexy says: asking where? Wear the accent: ¿Dónde?",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "school"
+        "grammar",
+        "question-words"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1415,19 +1426,19 @@
     },
     {
       "id": "SPA9_071",
-      "question": "What does 'casa' mean in English?",
-      "correctAnswer": "house",
+      "question": "Completa con la palabra para 'my': ___ madre es maestra.",
+      "correctAnswer": "Mi",
       "distractors": [
-        "good morning",
-        "father",
-        "window"
+        "Tu",
+        "Su",
+        "Nuestro"
       ],
-      "explanation": "Casa is feminine: la casa, following the common -a pattern. Note that 'at home' is en casa, with no article.",
-      "memoryHook": "T-Rexy says: 'casa' means 'house'.",
+      "explanation": "Possessive adjectives show ownership and stand right before the noun: mi (my), tu (your), su (his/her/their) and nuestro (our). Possessive mi carries no accent mark - the accented mí is a pronoun, used in phrases like a mí.",
+      "memoryHook": "T-Rexy says: mi means my - mi madre, mi casa, mi libro.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "home"
+        "grammar",
+        "possessives"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1435,19 +1446,19 @@
     },
     {
       "id": "SPA9_072",
-      "question": "What does 'agua' mean in English?",
-      "correctAnswer": "water",
+      "question": "Completa la oración: A mí ___ gusta el chocolate.",
+      "correctAnswer": "me",
       "distractors": [
-        "to speak",
-        "morning",
-        "book"
+        "te",
+        "le",
+        "nos"
       ],
-      "explanation": "Agua is a feminine noun, but in the singular it takes el for sound: el agua. Adjectives stay feminine: el agua fría.",
-      "memoryHook": "T-Rexy says: 'agua' means 'water'.",
+      "explanation": "With gustar, the person who likes something is an indirect object, named by a pronoun: me (a mí), te (a ti), le (a él/ella) and nos (a nosotros). The phrase a mí matches me.",
+      "memoryHook": "T-Rexy says: gustar points backwards - a mí ME gusta.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "food"
+        "grammar",
+        "gustar"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1455,19 +1466,20 @@
     },
     {
       "id": "SPA9_073",
-      "question": "What does 'pan' mean in English?",
-      "correctAnswer": "bread",
+      "question": "Completa la oración: Tú ___ cartas a tu amigo. (escribir)",
+      "correctAnswer": "escribes",
       "distractors": [
-        "happy",
-        "house",
-        "chair"
+        "escribo",
+        "escribe",
+        "escriben"
       ],
-      "explanation": "Pan is masculine: el pan. It is one of the shortest, most common food words in Spanish - un pan is a loaf or roll of bread.",
-      "memoryHook": "T-Rexy says: 'pan' means 'bread'.",
+      "explanation": "Escribir is a regular -ir verb, and its endings match the -er endings except in nosotros and vosotros. For tú, add -es: escribes, exactly like comes from comer.",
+      "memoryHook": "T-Rexy says: tú escribes - the -es ending twins -er and -ir verbs.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "food"
+        "grammar",
+        "conjugation",
+        "ir-verbs"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1475,19 +1487,19 @@
     },
     {
       "id": "SPA9_074",
-      "question": "What does 'leche' mean in English?",
-      "correctAnswer": "milk",
+      "question": "Completa con la palabra para 'our': ___ abuelos viven en México.",
+      "correctAnswer": "Nuestros",
       "distractors": [
-        "thank you",
-        "chair",
-        "dog"
+        "Nuestro",
+        "Nuestra",
+        "Nuestras"
       ],
-      "explanation": "Leche is feminine: la leche. Nouns ending in -e can be either gender, so learn the article with the word: la leche, la noche, el día.",
-      "memoryHook": "T-Rexy says: 'leche' means 'milk'.",
+      "explanation": "Nuestro is the one possessive that must agree with the noun it describes. Abuelos is masculine plural, so the form is nuestros. Nuestra fits a feminine singular noun (nuestra casa) and nuestras a feminine plural one.",
+      "memoryHook": "T-Rexy says: nuestro changes its tail to match: nuestros abuelos.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "food"
+        "grammar",
+        "possessives"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1495,19 +1507,20 @@
     },
     {
       "id": "SPA9_075",
-      "question": "What does 'perro' mean in English?",
-      "correctAnswer": "dog",
+      "question": "Completa la oración: Yo ___ el pan con queso. (comer)",
+      "correctAnswer": "como",
       "distractors": [
-        "school",
-        "sister",
-        "sad"
+        "comes",
+        "come",
+        "comen"
       ],
-      "explanation": "Perro is the male or general word for dog (el perro); a female dog is la perra. The double rr is trilled.",
-      "memoryHook": "T-Rexy says: 'perro' means 'dog'.",
+      "explanation": "Comer is a regular -er verb. For yo, drop the -er and add -o: como. The other forms are comes (tú), come (él/ella) and comen (ellos).",
+      "memoryHook": "T-Rexy says: -er verbs for yo end in -o too: ¡yo como!",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "animals"
+        "grammar",
+        "conjugation",
+        "er-verbs"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1535,19 +1548,19 @@
     },
     {
       "id": "SPA9_077",
-      "question": "What does 'pájaro' mean in English?",
-      "correctAnswer": "bird",
+      "question": "Elige la oración correcta para decir 'I like the books':",
+      "correctAnswer": "Me gustan los libros.",
       "distractors": [
-        "sister",
-        "ten",
-        "goodbye"
+        "Yo gusto los libros.",
+        "Me gusta los libros.",
+        "A mí gustan los libros."
       ],
-      "explanation": "Pájaro (PA-ha-ro) is masculine: el pájaro. The written accent on the á is essential - it fixes the stress on the first syllable, and without it the word is misspelled.",
-      "memoryHook": "T-Rexy says: 'pájaro' means 'bird'.",
+      "explanation": "Gustar works backwards: the books are the subject, so plural libros needs gustan, and the person who likes them is an indirect object - me. 'Yo gusto' wrongly makes yo the subject, and a mí can only emphasize me, never replace it.",
+      "memoryHook": "T-Rexy says: the books do the pleasing: me GUSTAN los libros.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "animals"
+        "grammar",
+        "gustar"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1575,19 +1588,20 @@
     },
     {
       "id": "SPA9_079",
-      "question": "What does 'libro' mean in English?",
-      "correctAnswer": "book",
+      "question": "Completa la oración: Nosotros ___ en una casa pequeña. (vivir)",
+      "correctAnswer": "vivimos",
       "distractors": [
-        "water",
-        "to walk",
-        "table"
+        "vivo",
+        "vives",
+        "viven"
       ],
-      "explanation": "Libro is masculine: el libro. Do not confuse it with la biblioteca (the library) - a libro is the book itself, and a biblioteca holds many libros.",
-      "memoryHook": "T-Rexy says: 'libro' means 'book'.",
+      "explanation": "Vivir is a regular -ir verb. The nosotros form drops -ir and adds -imos: vivimos. That -imos ending is what separates -ir verbs from -er verbs in the nosotros form: comemos but vivimos.",
+      "memoryHook": "T-Rexy says: nosotros plus -ir equals -imos: ¡vivimos!",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "school"
+        "grammar",
+        "conjugation",
+        "ir-verbs"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1595,19 +1609,20 @@
     },
     {
       "id": "SPA9_080",
-      "question": "What does 'mesa' mean in English?",
-      "correctAnswer": "table",
+      "question": "Completa la oración: Nosotros ___ a viajar en junio.",
+      "correctAnswer": "vamos",
       "distractors": [
-        "student",
-        "please",
-        "five"
+        "van",
+        "voy",
+        "va"
       ],
-      "explanation": "Mesa is feminine: la mesa, following the common -a ending pattern. Poner la mesa means 'to set the table'.",
-      "memoryHook": "T-Rexy says: 'mesa' means 'table'.",
+      "explanation": "Ir is irregular: yo voy, tú vas, él va, nosotros vamos, ellos van. The subject here is nosotros, so the form is vamos, and vamos a + infinitive expresses a future plan.",
+      "memoryHook": "T-Rexy says: ¡vamos! - the nosotros form of ir is famous all by itself.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "home"
+        "grammar",
+        "ir-a-infinitive",
+        "conjugation"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1635,19 +1650,20 @@
     },
     {
       "id": "SPA9_082",
-      "question": "What does 'puerta' mean in English?",
-      "correctAnswer": "door",
+      "question": "Completa la oración: Ellos ___ la puerta con la llave. (abrir)",
+      "correctAnswer": "abren",
       "distractors": [
-        "black",
-        "small",
-        "water"
+        "abre",
+        "abrimos",
+        "abro"
       ],
-      "explanation": "Puerta is feminine: la puerta. Note the ue diphthong: PUER-ta, with the stress on the first syllable.",
-      "memoryHook": "T-Rexy says: 'puerta' means 'door'.",
+      "explanation": "Abrir is a regular -ir verb, and ellos takes the ending -en: abren. Abre belongs to él/ella, abro to yo, and abrimos to nosotros - the -imos ending is only for nosotros.",
+      "memoryHook": "T-Rexy says: ellos abren - listen for the -en ending.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "home"
+        "grammar",
+        "conjugation",
+        "ir-verbs"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1675,19 +1691,19 @@
     },
     {
       "id": "SPA9_084",
-      "question": "What does 'día' mean in English?",
-      "correctAnswer": "day",
+      "question": "¿___ es tu cumpleaños?",
+      "correctAnswer": "Cuándo",
       "distractors": [
-        "three",
-        "to drink",
-        "five"
+        "Dónde",
+        "Quién",
+        "Cómo"
       ],
-      "explanation": "Día is masculine despite ending in -a: el día. The written accent on the í is required, and día is one of the common exceptions to the '-a means feminine' pattern.",
-      "memoryHook": "T-Rexy says: 'día' means 'day'.",
+      "explanation": "Cuándo asks about time - when something happens, such as a birthday. Every question word carries a written accent in a question: cuándo, dónde, quién and cómo.",
+      "memoryHook": "T-Rexy says: birthdays are about when: ¿Cuándo es tu cumpleaños?",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "time"
+        "grammar",
+        "question-words"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1695,19 +1711,20 @@
     },
     {
       "id": "SPA9_085",
-      "question": "What does 'noche' mean in English?",
-      "correctAnswer": "night",
+      "question": "Completa la oración: ___ las tres de la tarde.",
+      "correctAnswer": "Son",
       "distractors": [
-        "small",
-        "hello",
-        "goodbye"
+        "Es",
+        "Está",
+        "Están"
       ],
-      "explanation": "Noche is feminine: la noche. Greetings switch by time of day - buenas noches works both as 'good evening' (arriving) and 'good night' (leaving).",
-      "memoryHook": "T-Rexy says: 'noche' means 'night'.",
+      "explanation": "Telling time uses ser. Hours from two to twelve are plural, so they take son: son las tres, son las diez. Only one o'clock is singular and uses es: es la una.",
+      "memoryHook": "T-Rexy says: clock time is ser's job - son las tres.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "time"
+        "grammar",
+        "ser-estar",
+        "ser"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1715,19 +1732,19 @@
     },
     {
       "id": "SPA9_086",
-      "question": "What does 'mañana' mean in English?",
-      "correctAnswer": "morning",
+      "question": "¿___ estudiantes hay en tu clase?",
+      "correctAnswer": "Cuántos",
       "distractors": [
-        "sad",
-        "house",
-        "water"
+        "Cuánto",
+        "Cuánta",
+        "Cuántas"
       ],
-      "explanation": "Mañana is spelled with ñ (an n with a tilde): la mañana. Mañana also means 'tomorrow', so 'mañana por la mañana' means 'tomorrow morning'.",
-      "memoryHook": "T-Rexy says: 'mañana' means 'morning'.",
+      "explanation": "Cuánto behaves like an adjective and agrees with its noun: estudiantes is masculine plural, so the form is cuántos. Cuánta and cuántas are feminine, and cuánto is the masculine singular form.",
+      "memoryHook": "T-Rexy says: cuánto dresses to match its noun: cuántos estudiantes.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "time"
+        "grammar",
+        "question-words"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1735,19 +1752,19 @@
     },
     {
       "id": "SPA9_087",
-      "question": "What does 'hola' mean in English?",
-      "correctAnswer": "hello",
+      "question": "¿___ es esto?",
+      "correctAnswer": "Qué",
       "distractors": [
-        "to live",
-        "bread",
-        "please"
+        "Quién",
+        "Dónde",
+        "Cuándo"
       ],
-      "explanation": "Hola is the universal greeting, used at any time of day. The h is silent: OH-la.",
-      "memoryHook": "T-Rexy says: 'hola' means 'hello'.",
+      "explanation": "Qué asks 'what?' and identifies or defines a thing, like esto (this). Quién asks about people, dónde about places and cuándo about time, so none of them fits a question about a thing.",
+      "memoryHook": "T-Rexy says: what is this? - ¿Qué es esto?",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "greetings"
+        "grammar",
+        "question-words"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1775,19 +1792,20 @@
     },
     {
       "id": "SPA9_089",
-      "question": "What does 'gracias' mean in English?",
-      "correctAnswer": "thank you",
+      "question": "Completa la oración: El libro ___ en la mesa.",
+      "correctAnswer": "está",
       "distractors": [
-        "five",
-        "ten",
-        "teacher"
+        "es",
+        "soy",
+        "son"
       ],
-      "explanation": "Gracias is the standard 'thank you'. The reply is de nada ('you are welcome'), literally 'of nothing'.",
-      "memoryHook": "T-Rexy says: 'gracias' means 'thank you'.",
+      "explanation": "The location of a thing uses estar, not ser: el libro está en la mesa. Keep ser for identity, origin and descriptions. The él/ella form of estar is está, with a written accent on the a.",
+      "memoryHook": "T-Rexy says: where is it? Use estar: está en la mesa.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "greetings"
+        "grammar",
+        "ser-estar",
+        "estar"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1795,19 +1813,19 @@
     },
     {
       "id": "SPA9_090",
-      "question": "What does 'por favor' mean in English?",
-      "correctAnswer": "please",
+      "question": "Completa la oración: María va a ___ mañana por la mañana. (estudiar)",
+      "correctAnswer": "estudiar",
       "distractors": [
-        "chair",
-        "to live",
-        "to drink"
+        "estudia",
+        "estudias",
+        "estudian"
       ],
-      "explanation": "Por favor is literally 'as a favor' (por = for). It works before or after a request: la cuenta, por favor = the check, please.",
-      "memoryHook": "T-Rexy says: 'por favor' means 'please'.",
+      "explanation": "The pattern ir a + infinitive talks about the near future: voy a estudiar, vas a estudiar, va a estudiar. Only ir changes form - the second verb always stays in the infinitive, so estudiar is correct here.",
+      "memoryHook": "T-Rexy says: after va a, the next verb never changes: va a estudiar.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "greetings"
+        "grammar",
+        "ir-a-infinitive"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1815,19 +1833,20 @@
     },
     {
       "id": "SPA9_091",
-      "question": "What does 'buenos días' mean in English?",
-      "correctAnswer": "good morning",
+      "question": "Completa la oración: Mi abuela ___ enferma hoy.",
+      "correctAnswer": "está",
       "distractors": [
-        "five",
-        "four",
-        "to walk"
+        "es",
+        "soy",
+        "son"
       ],
-      "explanation": "Buenos días is the morning greeting, used until about noon. Días is masculine plural, so the adjective is buenos (not buenas) - and día keeps its written accent in the plural.",
-      "memoryHook": "T-Rexy says: 'buenos días' means 'good morning'.",
+      "explanation": "Health is a temporary condition, so it uses estar: está enferma hoy. The word hoy is the clue - she is ill today, not forever. Es would wrongly present the illness as part of who she is.",
+      "memoryHook": "T-Rexy says: sick today means estar: está enferma hoy.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "greetings"
+        "grammar",
+        "ser-estar",
+        "estar"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1855,19 +1874,20 @@
     },
     {
       "id": "SPA9_093",
-      "question": "What does 'comer' mean in English?",
-      "correctAnswer": "to eat",
+      "question": "Completa la oración: Ellos ___ la ventana por la noche. (cerrar)",
+      "correctAnswer": "cierran",
       "distractors": [
-        "hello",
-        "to speak",
-        "book"
+        "cierro",
+        "cierras",
+        "cerran"
       ],
-      "explanation": "Comer is a regular -er verb: yo como, tú comes, él come. Spanish infinitives end in -ar, -er, or -ir, and the ending tells you the conjugation pattern.",
-      "memoryHook": "T-Rexy says: 'comer' means 'to eat'.",
+      "explanation": "Cerrar is an e-to-ie stem changer, so ellos takes cierran - the stem change appears in every boot form. The plain form cerran ignores the change, while cierro and cierras belong to yo and tú.",
+      "memoryHook": "T-Rexy says: cerrar slams the e into ie: ellos cierran la ventana.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "verbs"
+        "grammar",
+        "stem-changers",
+        "conjugation"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1895,19 +1915,20 @@
     },
     {
       "id": "SPA9_095",
-      "question": "What does 'hablar' mean in English?",
-      "correctAnswer": "to speak",
+      "question": "Completa la oración: Mañana yo ___ a visitar a mis abuelos.",
+      "correctAnswer": "voy",
       "distractors": [
-        "to eat",
-        "bread",
-        "two"
+        "va",
+        "vas",
+        "van"
       ],
-      "explanation": "Hablar is a regular -ar verb: yo hablo, tú hablas. The -ar family is the largest verb group in Spanish, so this pattern is worth mastering first.",
-      "memoryHook": "T-Rexy says: 'hablar' means 'to speak'.",
+      "explanation": "In the ir a + infinitive pattern, ir must match the subject: yo voy a visitar. Va, vas and van belong to él/ella, tú and ellos. Note also the personal a in 'a mis abuelos' - Spanish places it before a specific person who receives the action.",
+      "memoryHook": "T-Rexy says: tomorrow's plans start with voy: voy a visitar.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "verbs"
+        "grammar",
+        "ir-a-infinitive",
+        "conjugation"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1915,19 +1936,19 @@
     },
     {
       "id": "SPA9_096",
-      "question": "What does 'vivir' mean in English?",
-      "correctAnswer": "to live",
+      "question": "Completa con la palabra para 'our': ___ escuela es grande.",
+      "correctAnswer": "Nuestra",
       "distractors": [
-        "table",
-        "bread",
-        "black"
+        "Nuestro",
+        "Nuestros",
+        "Nuestras"
       ],
-      "explanation": "Vivir is a regular -ir verb: yo vivo, tú vives. The -ir verbs share most endings with -er verbs; the nosotros form is the giveaway (vivimos, not vivemos).",
-      "memoryHook": "T-Rexy says: 'vivir' means 'to live'.",
+      "explanation": "Nuestro agrees with the noun that follows it. Escuela is feminine singular, so the correct form is nuestra. Nuestro is masculine singular, nuestros is masculine plural and nuestras is feminine plural.",
+      "memoryHook": "T-Rexy says: feminine singular school: nuestra escuela.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "verbs"
+        "grammar",
+        "possessives"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1955,19 +1976,19 @@
     },
     {
       "id": "SPA9_098",
-      "question": "What does 'caminar' mean in English?",
-      "correctAnswer": "to walk",
+      "question": "¿___ no vienes a la fiesta hoy?",
+      "correctAnswer": "Por qué",
       "distractors": [
-        "four",
-        "father",
-        "happy"
+        "Porque",
+        "Qué",
+        "Cuál"
       ],
-      "explanation": "Caminar is a regular -ar verb: yo camino, tú caminas. It comes from el camino - the path or road you walk on.",
-      "memoryHook": "T-Rexy says: 'caminar' means 'to walk'.",
+      "explanation": "Asking for a reason uses por qué - two words, with a written accent on qué. Porque, one word with no accent, is the answer word meaning 'because', and it appears in statements, not in the question itself.",
+      "memoryHook": "T-Rexy says: the question splits it - ¿por qué? The answer joins it: porque.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "verbs"
+        "grammar",
+        "question-words"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1975,19 +1996,20 @@
     },
     {
       "id": "SPA9_099",
-      "question": "What does 'grande' mean in English?",
-      "correctAnswer": "big",
+      "question": "Completa la oración: Nosotros ___ la clase a las ocho. (empezar)",
+      "correctAnswer": "empezamos",
       "distractors": [
-        "student",
-        "green",
-        "to walk"
+        "empiezo",
+        "empiezan",
+        "empiezamos"
       ],
-      "explanation": "Grande works for both genders: el perro grande, la casa grande. Placed before a singular noun it often shortens to gran: un gran día (a great day).",
-      "memoryHook": "T-Rexy says: 'grande' means 'big'.",
+      "explanation": "Empezar changes e to ie only inside the boot: empiezo, empiezas, empieza, empiezan. The nosotros form stands outside the boot and keeps the plain e: empezamos. The form empiezamos does not exist in Spanish.",
+      "memoryHook": "T-Rexy says: nosotros never wears the boot: empezamos, queremos, dormimos.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "adjectives"
+        "grammar",
+        "stem-changers",
+        "conjugation"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1995,19 +2017,19 @@
     },
     {
       "id": "SPA9_100",
-      "question": "What does 'pequeño' mean in English?",
-      "correctAnswer": "small",
+      "question": "Completa la oración: A ella ___ gusta la música.",
+      "correctAnswer": "le",
       "distractors": [
-        "sister",
-        "cat",
-        "door"
+        "me",
+        "te",
+        "se"
       ],
-      "explanation": "Pequeño is spelled with ñ: pe-QUE-nyo. It agrees with its noun: el perro pequeño, la casa pequeña. Written without the tilde ('pequeno'), it is misspelled.",
-      "memoryHook": "T-Rexy says: 'pequeño' means 'small'.",
+      "explanation": "The clarifier a ella pairs with the pronoun le: a ella le gusta. In the same way, me pairs with a mí and te with a ti. Le is the indirect-object pronoun for él, ella and usted.",
+      "memoryHook": "T-Rexy says: a ella le, a mí me, a ti te - match the pair.",
       "imageUrl": "topic:spanish",
       "tags": [
-        "vocabulary",
-        "adjectives"
+        "grammar",
+        "gustar"
       ],
       "difficulty": "medium",
       "dynamic": false,
