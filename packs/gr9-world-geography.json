@@ -1155,19 +1155,19 @@
     },
     {
       "id": "GEO9_058",
-      "question": "Which country has Beijing as its capital?",
-      "correctAnswer": "China",
+      "question": "Which continent is the largest by land area?",
+      "correctAnswer": "Asia",
       "distractors": [
-        "Nigeria",
-        "France",
-        "Vietnam"
+        "Africa",
+        "North America",
+        "Europe"
       ],
-      "explanation": "Beijing is in northern China, not far south of the Great Wall. Its name means 'northern capital', and the Forbidden City palace complex sits at its center.",
-      "memoryHook": "T-Rexy says: Beijing belongs to China.",
+      "explanation": "Asia covers about 44.6 million square kilometers - nearly a third of all the land on Earth. It stretches from the Middle East all the way to the Pacific Ocean and is home to more people than any other continent.",
+      "memoryHook": "T-Rexy says: Asia is the giant - biggest continent, most people.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "continents",
+        "regions"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1175,19 +1175,18 @@
     },
     {
       "id": "GEO9_059",
-      "question": "Which country has Rome as its capital?",
-      "correctAnswer": "Italy",
+      "question": "Which ocean is the largest and deepest on Earth?",
+      "correctAnswer": "Pacific Ocean",
       "distractors": [
-        "Venezuela",
-        "Nigeria",
-        "Germany"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
       ],
-      "explanation": "Rome is in west-central Italy on the Tiber River. It was the center of the Roman Empire, and landmarks like the Colosseum and the Roman Forum make it one of the most recognizable capitals in the world.",
-      "memoryHook": "T-Rexy says: Rome belongs to Italy.",
+      "explanation": "The Pacific covers more area than all of Earth's land combined. It also holds the Mariana Trench, the deepest point on the planet, nearly 11 kilometers below the surface.",
+      "memoryHook": "T-Rexy says: The Pacific is so big it could swallow every continent.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "oceans"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1195,19 +1194,19 @@
     },
     {
       "id": "GEO9_060",
-      "question": "Which country has Madrid as its capital?",
-      "correctAnswer": "Spain",
+      "question": "The Nile River empties into which sea?",
+      "correctAnswer": "Mediterranean Sea",
       "distractors": [
-        "Portugal",
-        "Poland",
-        "Turkey"
+        "Red Sea",
+        "Black Sea",
+        "Arabian Sea"
       ],
-      "explanation": "Madrid sits almost exactly in the center of Spain on a high plateau, one reason it was chosen as the capital in 1561. Barcelona is a bigger port, but the king and the government are in Madrid.",
-      "memoryHook": "T-Rexy says: Madrid belongs to Spain.",
+      "explanation": "The Nile flows northward across Egypt and spreads into a wide delta before emptying into the Mediterranean Sea. That northward flow is why the delta region is called Lower Egypt - it is downstream, near the sea.",
+      "memoryHook": "T-Rexy says: The Nile runs north to the Mediterranean.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "rivers",
+        "africa"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1235,19 +1234,19 @@
     },
     {
       "id": "GEO9_062",
-      "question": "Which country has Mexico City as its capital?",
-      "correctAnswer": "Mexico",
+      "question": "Mount Everest, the world's highest peak, is part of which mountain range?",
+      "correctAnswer": "The Himalayas",
       "distractors": [
-        "South Africa",
-        "France",
-        "Switzerland"
+        "The Andes",
+        "The Alps",
+        "The Rockies"
       ],
-      "explanation": "Mexico City occupies a high valley in south-central Mexico, built on the ruins of Tenochtitlan, the Aztec capital. It is one of the largest Spanish-speaking cities in the world.",
-      "memoryHook": "T-Rexy says: Mexico City belongs to Mexico.",
+      "explanation": "Everest rises about 8,849 meters in the Himalayas of Asia. The range is still being pushed upward as the Indian tectonic plate slowly collides with the Eurasian plate.",
+      "memoryHook": "T-Rexy says: Everest tops the Himalayas.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "mountains",
+        "asia"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1255,19 +1254,19 @@
     },
     {
       "id": "GEO9_063",
-      "question": "Which country has Buenos Aires as its capital?",
-      "correctAnswer": "Argentina",
+      "question": "The equator divides Earth into which two hemispheres?",
+      "correctAnswer": "Northern and Southern Hemispheres",
       "distractors": [
-        "Sweden",
-        "Nepal",
-        "Ethiopia"
+        "Eastern and Western Hemispheres",
+        "Upper and Lower Hemispheres",
+        "Land and Ocean Hemispheres"
       ],
-      "explanation": "Buenos Aires faces the Rio de la Plata estuary on Argentina's east coast. Its name means 'fair winds', and its port made it the country's gateway for trade and immigration; the colorful La Boca district and the Obelisk are its landmarks.",
-      "memoryHook": "T-Rexy says: Buenos Aires belongs to Argentina.",
+      "explanation": "The equator is the 0-degree latitude line circling the middle of Earth. Everything north of it lies in the Northern Hemisphere, and everything south of it lies in the Southern Hemisphere.",
+      "memoryHook": "T-Rexy says: The equator splits Earth into North and South halves.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "hemispheres",
+        "latitude"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1275,19 +1274,19 @@
     },
     {
       "id": "GEO9_064",
-      "question": "Which country has Nairobi as its capital?",
-      "correctAnswer": "Kenya",
+      "question": "Which is the largest hot desert in the world?",
+      "correctAnswer": "The Sahara",
       "distractors": [
-        "South Africa",
-        "Iran",
-        "Chile"
+        "The Gobi",
+        "The Arabian Desert",
+        "The Kalahari"
       ],
-      "explanation": "Nairobi is in south-central Kenya at about 1,800 meters elevation, which keeps it cooler than the coast. It began as a railway depot and is famous for Nairobi National Park, where giraffes roam with the skyline behind them.",
-      "memoryHook": "T-Rexy says: Nairobi belongs to Kenya.",
+      "explanation": "The Sahara covers about 9.2 million square kilometers of North Africa - almost as large as the entire United States. Only the frozen deserts of Antarctica and the Arctic are bigger, which is why the question specifies a hot desert.",
+      "memoryHook": "T-Rexy says: The Sahara is the king of hot deserts.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "deserts",
+        "africa"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1295,19 +1294,19 @@
     },
     {
       "id": "GEO9_065",
-      "question": "Which country has Abuja as its capital?",
-      "correctAnswer": "Nigeria",
+      "question": "Which river carries more water to the ocean than any other river on Earth?",
+      "correctAnswer": "The Amazon River",
       "distractors": [
-        "South Africa",
-        "Finland",
-        "Spain"
+        "The Nile River",
+        "The Yangtze River",
+        "The Mississippi River"
       ],
-      "explanation": "Abuja is a planned city near the geographic center of Nigeria, chosen to replace crowded coastal Lagos and made the capital in 1991. Aso Rock, a huge granite outcrop, towers over the city.",
-      "memoryHook": "T-Rexy says: Abuja belongs to Nigeria.",
+      "explanation": "The Amazon's flow is greater than that of the next several largest rivers combined - about a fifth of all the river water reaching the world's oceans comes from this one river, fed by the Amazon rainforest's heavy rainfall.",
+      "memoryHook": "T-Rexy says: The Amazon is not the longest, but it moves the most water.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "rivers",
+        "south-america"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1315,19 +1314,20 @@
     },
     {
       "id": "GEO9_066",
-      "question": "Which country has Ankara as its capital?",
-      "correctAnswer": "Turkey",
+      "question": "The Strait of Gibraltar separates Spain from which African country?",
+      "correctAnswer": "Morocco",
       "distractors": [
-        "Indonesia",
-        "Ecuador",
-        "Sri Lanka"
+        "Algeria",
+        "Tunisia",
+        "Egypt"
       ],
-      "explanation": "Ankara is on the central Anatolian plateau. Ataturk made it the capital in 1923 because inland Ankara was safer and more central than Istanbul, the old imperial capital on the strait. His mausoleum, Anitkabir, crowns a hill above the city.",
-      "memoryHook": "T-Rexy says: Ankara belongs to Turkey.",
+      "explanation": "At its narrowest point, the Strait of Gibraltar is only about 13 kilometers wide, so Spain and Morocco nearly touch across it. This strait is the Mediterranean Sea's only natural opening to the Atlantic Ocean.",
+      "memoryHook": "T-Rexy says: Spain and Morocco face off across Gibraltar.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "straits",
+        "europe",
+        "africa"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1335,19 +1335,19 @@
     },
     {
       "id": "GEO9_067",
-      "question": "Which country has Tehran as its capital?",
-      "correctAnswer": "Iran",
+      "question": "Lines of longitude measure how far east or west a place is from which reference line?",
+      "correctAnswer": "The Prime Meridian",
       "distractors": [
-        "China",
-        "Thailand",
-        "Mexico"
+        "The Equator",
+        "The Tropic of Cancer",
+        "The International Date Line"
       ],
-      "explanation": "Tehran spreads across the southern foothills of the snow-capped Alborz Mountains in northern Iran. The Milad Tower against that mountain backdrop is its signature view.",
-      "memoryHook": "T-Rexy says: Tehran belongs to Iran.",
+      "explanation": "Longitude is measured in degrees from the Prime Meridian, the 0-degree line that runs through Greenwich in London. From there, lines of longitude count up to 180 degrees east and 180 degrees west.",
+      "memoryHook": "T-Rexy says: Longitude starts counting at the Prime Meridian.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "longitude",
+        "map-skills"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1355,19 +1355,19 @@
     },
     {
       "id": "GEO9_068",
-      "question": "Which country has Baghdad as its capital?",
-      "correctAnswer": "Iraq",
+      "question": "The band of Earth between the Tropic of Cancer and the Tropic of Capricorn, where it stays warm all year, is which climate zone?",
+      "correctAnswer": "The tropical zone",
       "distractors": [
-        "Nepal",
-        "Mongolia",
-        "Morocco"
+        "The temperate zone",
+        "The polar zone",
+        "The arid zone"
       ],
-      "explanation": "Baghdad sits on the Tigris River in central Iraq. Founded in the 8th century as a perfectly round city, it was a center of learning during the Islamic Golden Age.",
-      "memoryHook": "T-Rexy says: Baghdad belongs to Iraq.",
+      "explanation": "Between about 23.5 degrees north and 23.5 degrees south, the sun's rays strike Earth most directly, keeping this band warm in every season. That is why it holds rainforests and hot deserts instead of snowy winters.",
+      "memoryHook": "T-Rexy says: Between the tropics, it is summer all year.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "climate",
+        "latitude"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1375,19 +1375,18 @@
     },
     {
       "id": "GEO9_069",
-      "question": "Which country has Bangkok as its capital?",
-      "correctAnswer": "Thailand",
+      "question": "What does a map scale tell you?",
+      "correctAnswer": "How map distances compare to real distances on Earth",
       "distractors": [
-        "Sweden",
-        "Mongolia",
-        "Turkey"
+        "What the map's symbols mean",
+        "Which direction is north",
+        "The name of the place shown"
       ],
-      "explanation": "Bangkok is on the Chao Phraya River near its mouth on the Gulf of Thailand. Its Grand Palace and temples like Wat Arun mark it out - it is both Thailand's capital and by far its largest city.",
-      "memoryHook": "T-Rexy says: Bangkok belongs to Thailand.",
+      "explanation": "A scale links the map to the real world - it might say that 1 centimeter on the map equals 10 kilometers on the ground. Without a scale, you could not measure real distances from a map.",
+      "memoryHook": "T-Rexy says: The scale shrinks the real world onto the page.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "map-skills"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1395,19 +1394,19 @@
     },
     {
       "id": "GEO9_070",
-      "question": "Which country has Hanoi as its capital?",
-      "correctAnswer": "Vietnam",
+      "question": "Which continent is crossed by every line of longitude?",
+      "correctAnswer": "Antarctica",
       "distractors": [
-        "Nepal",
-        "Iraq",
-        "Brazil"
+        "Africa",
+        "Asia",
+        "South America"
       ],
-      "explanation": "Hanoi is in northern Vietnam on the Red River, and its Old Quarter surrounds Hoan Kiem Lake with its small Turtle Tower. Ho Chi Minh City (Saigon) in the south is bigger and more commercial, but Hanoi is the capital.",
-      "memoryHook": "T-Rexy says: Hanoi belongs to Vietnam.",
+      "explanation": "All lines of longitude converge at the South Pole, which sits in Antarctica - so every meridian passes through that continent. Antarctica is also the coldest, driest, and windiest continent on Earth.",
+      "memoryHook": "T-Rexy says: All longitude lines meet at the South Pole in Antarctica.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "continents",
+        "longitude"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1415,19 +1414,19 @@
     },
     {
       "id": "GEO9_071",
-      "question": "Which country has Jakarta as its capital?",
-      "correctAnswer": "Indonesia",
+      "question": "The Iberian Peninsula in southwestern Europe is made up mainly of which two countries?",
+      "correctAnswer": "Spain and Portugal",
       "distractors": [
-        "Finland",
-        "Vietnam",
-        "India"
+        "France and Italy",
+        "Greece and Turkey",
+        "Norway and Sweden"
       ],
-      "explanation": "Jakarta is on the northwest coast of Java, Indonesia's most populous island, and the National Monument (Monas) rises over its center. Indonesia is building a new capital, Nusantara, on Borneo, but the transfer is not complete and Jakarta remains the capital.",
-      "memoryHook": "T-Rexy says: Jakarta belongs to Indonesia.",
+      "explanation": "A peninsula is land surrounded by water on three sides. The Iberian Peninsula juts out between the Atlantic Ocean and the Mediterranean Sea, with Spain covering most of it and Portugal along its western coast.",
+      "memoryHook": "T-Rexy says: Iberia means Spain plus Portugal.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "peninsulas",
+        "europe"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1435,19 +1434,19 @@
     },
     {
       "id": "GEO9_072",
-      "question": "Which country has Islamabad as its capital?",
-      "correctAnswer": "Pakistan",
+      "question": "The Panama Canal allows ships to travel between which two oceans?",
+      "correctAnswer": "The Atlantic and Pacific Oceans",
       "distractors": [
-        "China",
-        "Australia",
-        "Canada"
+        "The Atlantic and Indian Oceans",
+        "The Pacific and Indian Oceans",
+        "The Atlantic and Arctic Oceans"
       ],
-      "explanation": "Islamabad is a planned city at the foot of the Margalla Hills in northern Pakistan, built in the 1960s to replace Karachi as the capital. The Faisal Mosque, shaped like a giant tent, is its landmark.",
-      "memoryHook": "T-Rexy says: Islamabad belongs to Pakistan.",
+      "explanation": "Before the canal opened in 1914, ships traveling between the Atlantic and Pacific had to sail all the way around the tip of South America. The canal cuts across the narrow Isthmus of Panama, saving a journey of roughly 13,000 kilometers.",
+      "memoryHook": "T-Rexy says: Panama is the shortcut between the Atlantic and Pacific.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "canals",
+        "north-america"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1455,19 +1454,19 @@
     },
     {
       "id": "GEO9_073",
-      "question": "Which country has Moscow as its capital?",
-      "correctAnswer": "Russia",
+      "question": "Most of the Amazon rainforest is located in which country?",
+      "correctAnswer": "Brazil",
       "distractors": [
-        "Ghana",
-        "Ethiopia",
-        "Morocco"
+        "Peru",
+        "Colombia",
+        "Venezuela"
       ],
-      "explanation": "Moscow is in western Russia on the Moskva River. Red Square, the Kremlin walls, and the candy-colored domes of St Basil's Cathedral make it unmistakable - it is Russia's capital and largest city.",
-      "memoryHook": "T-Rexy says: Moscow belongs to Russia.",
+      "explanation": "About 60 percent of the Amazon rainforest lies within Brazil, though it also spreads into Peru, Colombia, and several other South American countries. It is the largest tropical rainforest on Earth.",
+      "memoryHook": "T-Rexy says: Most of the Amazon lives in Brazil.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "regions",
+        "south-america"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1475,19 +1474,19 @@
     },
     {
       "id": "GEO9_074",
-      "question": "Which country has Kyiv as its capital?",
-      "correctAnswer": "Ukraine",
+      "question": "The Andes, the longest mountain range on land, run along the western edge of which continent?",
+      "correctAnswer": "South America",
       "distractors": [
-        "Netherlands",
-        "Sweden",
-        "Nigeria"
+        "North America",
+        "Africa",
+        "Asia"
       ],
-      "explanation": "Kyiv stands on the Dnipro River in north-central Ukraine. One of the oldest cities in Eastern Europe, it is known for golden-domed churches like St Andrew's rising above the river.",
-      "memoryHook": "T-Rexy says: Kyiv belongs to Ukraine.",
+      "explanation": "The Andes stretch about 7,000 kilometers from Venezuela to Argentina, formed where the Nazca tectonic plate slides beneath the South American plate. Their highest peak, Aconcagua, rises nearly 7,000 meters.",
+      "memoryHook": "T-Rexy says: The Andes are South America's rocky spine.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "mountains",
+        "south-america"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1495,19 +1494,19 @@
     },
     {
       "id": "GEO9_075",
-      "question": "Which country has Warsaw as its capital?",
-      "correctAnswer": "Poland",
+      "question": "Which ocean is bordered by Africa to the west, Asia to the north, and Australia to the east?",
+      "correctAnswer": "The Indian Ocean",
       "distractors": [
-        "Indonesia",
-        "Sweden",
-        "Morocco"
+        "The Atlantic Ocean",
+        "The Pacific Ocean",
+        "The Arctic Ocean"
       ],
-      "explanation": "Warsaw is on the Vistula River in east-central Poland. Almost completely rebuilt after World War II, its Old Town is a UNESCO site and the Royal Castle anchors the riverfront.",
-      "memoryHook": "T-Rexy says: Warsaw belongs to Poland.",
+      "explanation": "The Indian Ocean is the third-largest ocean and the only one named after a country - India. Seasonal monsoon winds blow across it, reversing direction between summer and winter and driving the weather of South Asia.",
+      "memoryHook": "T-Rexy says: The Indian Ocean sits below Asia, between Africa and Australia.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "oceans",
+        "regions"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1515,19 +1514,19 @@
     },
     {
       "id": "GEO9_076",
-      "question": "Which country has Athens as its capital?",
-      "correctAnswer": "Greece",
+      "question": "A city located at 30 degrees south latitude is in which hemisphere?",
+      "correctAnswer": "The Southern Hemisphere",
       "distractors": [
-        "Spain",
-        "South Korea",
-        "Iceland"
+        "The Northern Hemisphere",
+        "The Eastern Hemisphere",
+        "The Western Hemisphere"
       ],
-      "explanation": "Athens is in southern Greece near the Aegean Sea, dominated by the Acropolis hill with the Parthenon on top. It was the birthplace of democracy over 2,500 years ago.",
-      "memoryHook": "T-Rexy says: Athens belongs to Greece.",
+      "explanation": "Latitudes labeled S are south of the equator, and everything south of the equator belongs to the Southern Hemisphere - including most of Australia, southern Africa, and much of South America.",
+      "memoryHook": "T-Rexy says: South latitude means Southern Hemisphere.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "hemispheres",
+        "latitude"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1535,19 +1534,18 @@
     },
     {
       "id": "GEO9_077",
-      "question": "Which country has Lisbon as its capital?",
-      "correctAnswer": "Portugal",
+      "question": "A Mediterranean climate is best described as having which weather pattern?",
+      "correctAnswer": "Hot, dry summers and mild, wet winters",
       "distractors": [
-        "Algeria",
-        "Turkey",
-        "Thailand"
+        "Hot and humid weather all year",
+        "Cold winters with heavy snow every year",
+        "Heavy rain in every season"
       ],
-      "explanation": "Lisbon is built on hills where the Tagus River meets the Atlantic. Yellow trams climb its old Alfama streets below St George's Castle.",
-      "memoryHook": "T-Rexy says: Lisbon belongs to Portugal.",
+      "explanation": "This pattern is named for the lands around the Mediterranean Sea, but it also appears in coastal California and parts of Australia and Chile. The dry summers and winter rains shape what farmers there can grow, such as grapes and olives.",
+      "memoryHook": "T-Rexy says: Mediterranean means dry summers, rainy winters.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "climate"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1555,19 +1553,19 @@
     },
     {
       "id": "GEO9_078",
-      "question": "Which country has Amsterdam as its capital?",
-      "correctAnswer": "Netherlands",
+      "question": "The Yangtze, the longest river in Asia, flows entirely within which country?",
+      "correctAnswer": "China",
       "distractors": [
-        "Ukraine",
-        "Mongolia",
-        "Canada"
+        "India",
+        "Japan",
+        "Mongolia"
       ],
-      "explanation": "Amsterdam is the constitutional capital of the Netherlands, famous for its rings of canals and tall, narrow gabled houses. The Dutch government actually sits in The Hague, but Amsterdam keeps the capital title.",
-      "memoryHook": "T-Rexy says: Amsterdam belongs to Netherlands.",
+      "explanation": "The Yangtze runs about 6,300 kilometers from the Tibetan Plateau eastward to the East China Sea, entirely inside China. Only the Nile and the Amazon are longer, and the Three Gorges Dam on the Yangtze is the largest hydroelectric project in the world.",
+      "memoryHook": "T-Rexy says: The Yangtze is China's giant river.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "rivers",
+        "asia"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1575,19 +1573,18 @@
     },
     {
       "id": "GEO9_079",
-      "question": "Which country has Brussels as its capital?",
-      "correctAnswer": "Belgium",
+      "question": "On a map, which feature explains what the symbols and colors stand for?",
+      "correctAnswer": "The legend (or key)",
       "distractors": [
-        "Pakistan",
-        "Australia",
-        "Vietnam"
+        "The scale bar",
+        "The compass rose",
+        "The title"
       ],
-      "explanation": "Brussels is in central Belgium and hosts the headquarters of the European Union, which is why it is sometimes called the capital of Europe. Its Grand Place is ringed by ornate guildhalls.",
-      "memoryHook": "T-Rexy says: Brussels belongs to Belgium.",
+      "explanation": "Cartographers cannot draw every road, river, and boundary at its real size, so they use symbols - and the legend is the dictionary that decodes them. Without the legend, the symbols are just unexplained pictures.",
+      "memoryHook": "T-Rexy says: The legend unlocks the map's symbols.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "map-skills"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1595,19 +1592,19 @@
     },
     {
       "id": "GEO9_080",
-      "question": "Which country has Bern as its capital?",
-      "correctAnswer": "Switzerland",
+      "question": "The Tropic of Capricorn lies at approximately which latitude?",
+      "correctAnswer": "23.5 degrees south",
       "distractors": [
-        "Iraq",
-        "India",
-        "China"
+        "0 degrees",
+        "23.5 degrees north",
+        "66.5 degrees south"
       ],
-      "explanation": "Bern is Switzerland's de facto capital, picked in 1848 as a compromise between bigger rivals like Zurich and Geneva. Its medieval old town sits inside a tight loop of the Aare River and is a UNESCO site.",
-      "memoryHook": "T-Rexy says: Bern belongs to Switzerland.",
+      "explanation": "The Tropic of Capricorn marks the southernmost latitude where the sun can appear directly overhead - about 23.5 degrees south of the equator. Its northern mirror image, at 23.5 degrees north, is the Tropic of Cancer.",
+      "memoryHook": "T-Rexy says: Capricorn sits at 23.5 south, Cancer at 23.5 north.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "latitude",
+        "climate"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1615,19 +1612,19 @@
     },
     {
       "id": "GEO9_081",
-      "question": "Which country has Stockholm as its capital?",
-      "correctAnswer": "Sweden",
+      "question": "The Gobi Desert, one of the largest cold deserts in the world, spans parts of which two countries?",
+      "correctAnswer": "Mongolia and China",
       "distractors": [
-        "Greece",
-        "Norway",
-        "Venezuela"
+        "Kazakhstan and Russia",
+        "India and Pakistan",
+        "Saudi Arabia and Yemen"
       ],
-      "explanation": "Stockholm is spread across 14 islands where Lake Malaren meets the Baltic Sea. Its old town, Gamla Stan, holds the Royal Palace right on the waterfront.",
-      "memoryHook": "T-Rexy says: Stockholm belongs to Sweden.",
+      "explanation": "The Gobi is a rain-shadow desert: the Himalayas block moist air, leaving this vast region of Mongolia and northern China cold and dry. Its winters can drop far below freezing, unlike the hot Sahara.",
+      "memoryHook": "T-Rexy says: The Gobi chills across Mongolia and China.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "deserts",
+        "asia"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1635,19 +1632,20 @@
     },
     {
       "id": "GEO9_082",
-      "question": "Which country has Oslo as its capital?",
-      "correctAnswer": "Norway",
+      "question": "Which narrow strait separates Asia from North America?",
+      "correctAnswer": "The Bering Strait",
       "distractors": [
-        "Australia",
-        "Brazil",
-        "Venezuela"
+        "The Strait of Malacca",
+        "The Bosporus",
+        "The English Channel"
       ],
-      "explanation": "Oslo sits at the head of the Oslofjord in southern Norway. Its white, iceberg-shaped Opera House rises straight out of the harbor water.",
-      "memoryHook": "T-Rexy says: Oslo belongs to Norway.",
+      "explanation": "Only about 85 kilometers of water separate Russia from Alaska at the Bering Strait. During the last Ice Age, sea levels were much lower and this strait was a land bridge that people could walk across.",
+      "memoryHook": "T-Rexy says: The Bering Strait is where Asia almost touches Alaska.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "straits",
+        "asia",
+        "north-america"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1655,19 +1653,19 @@
     },
     {
       "id": "GEO9_083",
-      "question": "Which country has Copenhagen as its capital?",
-      "correctAnswer": "Denmark",
+      "question": "Why do places near the equator stay warm throughout the year?",
+      "correctAnswer": "The sun's rays strike the surface there most directly",
       "distractors": [
-        "Sri Lanka",
-        "Kenya",
-        "Venezuela"
+        "They are much closer to the sun than the poles are",
+        "Ocean currents carry only warm water to the equator",
+        "The atmosphere is much thicker at the equator"
       ],
-      "explanation": "Copenhagen is on the island of Zealand, facing Sweden across the Oresund strait. The colorful 17th-century townhouses of Nyhavn harbor are its postcard view.",
-      "memoryHook": "T-Rexy says: Copenhagen belongs to Denmark.",
+      "explanation": "Near the equator, sunlight arrives nearly straight down, so the same amount of energy is concentrated on a small area. Near the poles, the rays arrive at a slant and spread out, delivering less heat to each spot.",
+      "memoryHook": "T-Rexy says: Straight-down sunshine makes the equator hot.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "climate",
+        "latitude"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1675,19 +1673,18 @@
     },
     {
       "id": "GEO9_084",
-      "question": "Which country has Helsinki as its capital?",
-      "correctAnswer": "Finland",
+      "question": "The Middle East is often called a crossroads region because it connects which three continents?",
+      "correctAnswer": "Asia, Africa, and Europe",
       "distractors": [
-        "Italy",
-        "Ukraine",
-        "China"
+        "Asia, Europe, and North America",
+        "Africa, Asia, and Australia",
+        "Europe, Africa, and South America"
       ],
-      "explanation": "Helsinki is a Baltic port on Finland's southern coast. The white Helsinki Cathedral with its green dome overlooks Senate Square and the harbor.",
-      "memoryHook": "T-Rexy says: Helsinki belongs to Finland.",
+      "explanation": "Most of the Middle East lies in western Asia, Egypt links it to Africa, and Turkey reaches into Europe. For thousands of years, trade routes between the three continents have passed through this region.",
+      "memoryHook": "T-Rexy says: The Middle East is where three continents meet.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "regions"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1695,19 +1692,19 @@
     },
     {
       "id": "GEO9_085",
-      "question": "Which country has Reykjavik as its capital?",
-      "correctAnswer": "Iceland",
+      "question": "The International Date Line roughly follows which line of longitude?",
+      "correctAnswer": "180 degrees",
       "distractors": [
-        "Belgium",
-        "Sweden",
-        "Iran"
+        "0 degrees",
+        "90 degrees east",
+        "90 degrees west"
       ],
-      "explanation": "Reykjavik, on Iceland's southwest coast, is the world's northernmost capital. The concrete Hallgrimskirkja church, shaped like basalt columns, towers over its colorful low-rise houses.",
-      "memoryHook": "T-Rexy says: Reykjavik belongs to Iceland.",
+      "explanation": "The Date Line sits on the opposite side of Earth from the Prime Meridian, near 180 degrees longitude, zigzagging a little to avoid splitting island countries. Cross it traveling west and you jump a day ahead; cross it traveling east and you repeat a day.",
+      "memoryHook": "T-Rexy says: The Date Line hides at 180, opposite Greenwich.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "longitude",
+        "map-skills"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1735,19 +1732,19 @@
     },
     {
       "id": "GEO9_087",
-      "question": "Which country has Lima as its capital?",
-      "correctAnswer": "Peru",
+      "question": "The Mississippi River flows south and empties into which body of water?",
+      "correctAnswer": "The Gulf of Mexico",
       "distractors": [
-        "Morocco",
-        "Germany",
-        "Pakistan"
+        "Hudson Bay",
+        "The Great Lakes",
+        "The Pacific Ocean"
       ],
-      "explanation": "Lima sits on cliffs above the Pacific coast in central Peru; it was founded by Francisco Pizarro in 1535. Its Miraflores district is famous for paragliders launching off the cliff-top parks.",
-      "memoryHook": "T-Rexy says: Lima belongs to Peru.",
+      "explanation": "The Mississippi drains the middle of North America, gathering great tributaries like the Missouri and Ohio rivers before reaching the Gulf of Mexico near New Orleans. Its wide delta is built from sediment carried down the whole system.",
+      "memoryHook": "T-Rexy says: The Mississippi ends in the Gulf of Mexico.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "rivers",
+        "north-america"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1755,19 +1752,19 @@
     },
     {
       "id": "GEO9_088",
-      "question": "Which country has Bogota as its capital?",
-      "correctAnswer": "Colombia",
+      "question": "Mount Kilimanjaro, the highest peak in Africa, is located in which country?",
+      "correctAnswer": "Tanzania",
       "distractors": [
-        "Sweden",
-        "Sri Lanka",
-        "South Korea"
+        "Kenya",
+        "Uganda",
+        "Ethiopia"
       ],
-      "explanation": "Bogota is high in the Andes at about 2,640 meters, making it one of the world's highest capitals. The sanctuary on Monserrate hill looks down over the whole city.",
-      "memoryHook": "T-Rexy says: Bogota belongs to Colombia.",
+      "explanation": "Kilimanjaro rises about 5,895 meters in northeastern Tanzania, close to the Kenyan border - which is why Kenya is a tempting wrong answer. It is a dormant volcano and the tallest free-standing mountain in the world.",
+      "memoryHook": "T-Rexy says: Kilimanjaro stands in Tanzania, near Kenya.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "mountains",
+        "africa"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1775,19 +1772,18 @@
     },
     {
       "id": "GEO9_089",
-      "question": "Which country has Caracas as its capital?",
-      "correctAnswer": "Venezuela",
+      "question": "What is a map projection?",
+      "correctAnswer": "A way of showing Earth's curved surface on a flat map",
       "distractors": [
-        "India",
-        "Chile",
-        "Greece"
+        "A way of predicting the weather",
+        "A method for measuring ocean depth",
+        "A drawing of a mountain's shadow"
       ],
-      "explanation": "Caracas lies in a long valley in northern Venezuela, walled off from the Caribbean coast by the green Avila mountain, which residents treat as the city's lungs.",
-      "memoryHook": "T-Rexy says: Caracas belongs to Venezuela.",
+      "explanation": "Earth is a sphere, so any flat map must stretch or cut something - that flattening process is a projection. Every projection distorts shapes, sizes, distances, or directions in some way, so cartographers choose the distortion that matters least for their purpose.",
+      "memoryHook": "T-Rexy says: A projection flattens the globe - and always bends something.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "map-skills"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1795,19 +1791,20 @@
     },
     {
       "id": "GEO9_090",
-      "question": "Which country has Quito as its capital?",
-      "correctAnswer": "Ecuador",
+      "question": "The Suez Canal connects the Mediterranean Sea to which other body of water?",
+      "correctAnswer": "The Red Sea",
       "distractors": [
-        "Australia",
-        "Norway",
-        "Pakistan"
+        "The Black Sea",
+        "The Caspian Sea",
+        "The Persian Gulf"
       ],
-      "explanation": "Quito is in the Andes of north-central Ecuador at about 2,850 meters, one of the highest capitals in the world. The winged Virgin statue on El Panecillo hill watches over its colonial old town.",
-      "memoryHook": "T-Rexy says: Quito belongs to Ecuador.",
+      "explanation": "Opened in 1869, the Suez Canal lets ships pass between Europe and Asia without sailing all the way around Africa. It runs through Egypt from the Mediterranean at Port Said to the Red Sea at Suez.",
+      "memoryHook": "T-Rexy says: Suez links the Mediterranean to the Red Sea.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "canals",
+        "africa",
+        "asia"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1815,19 +1812,20 @@
     },
     {
       "id": "GEO9_091",
-      "question": "Which country has Rabat as its capital?",
-      "correctAnswer": "Morocco",
+      "question": "The Great Rift Valley, a huge crack in Earth's crust dotted with deep lakes and volcanoes, is found on which continent?",
+      "correctAnswer": "Africa",
       "distractors": [
-        "Netherlands",
-        "Iraq",
-        "Switzerland"
+        "Asia",
+        "South America",
+        "Australia"
       ],
-      "explanation": "Rabat is on Morocco's Atlantic coast where the Bou Regreg River meets the sea, across from the old port of Sale. The unfinished Hassan Tower is its landmark; Casablanca is bigger, but Rabat is the capital.",
-      "memoryHook": "T-Rexy says: Rabat belongs to Morocco.",
+      "explanation": "Eastern Africa is slowly splitting apart along the Great Rift Valley, a process that has formed long, deep lakes such as Lake Tanganyika. Given enough millions of years, the split could open an entirely new ocean.",
+      "memoryHook": "T-Rexy says: Africa is slowly tearing open at the Rift Valley.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "regions",
+        "africa",
+        "physical-features"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1835,19 +1833,18 @@
     },
     {
       "id": "GEO9_092",
-      "question": "Which country has Algiers as its capital?",
-      "correctAnswer": "Algeria",
+      "question": "Which is the smallest of the world's oceans?",
+      "correctAnswer": "The Arctic Ocean",
       "distractors": [
-        "Mexico",
-        "Ecuador",
-        "Spain"
+        "The Indian Ocean",
+        "The Southern Ocean",
+        "The Atlantic Ocean"
       ],
-      "explanation": "Algiers curves around a bay on Algeria's Mediterranean coast, its whitewashed Casbah climbing the hillside - which is why it is nicknamed 'Algiers the White'.",
-      "memoryHook": "T-Rexy says: Algiers belongs to Algeria.",
+      "explanation": "The Arctic Ocean around the North Pole covers about 14 million square kilometers - an area smaller than Russia - and much of it is covered by sea ice. Even the Southern Ocean around Antarctica is larger than the Arctic.",
+      "memoryHook": "T-Rexy says: The Arctic is the smallest ocean, up at the top of the world.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "oceans"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1855,19 +1852,19 @@
     },
     {
       "id": "GEO9_093",
-      "question": "Which country has Addis Ababa as its capital?",
-      "correctAnswer": "Ethiopia",
+      "question": "The Prime Meridian passes through Greenwich, a district of which capital city?",
+      "correctAnswer": "London",
       "distractors": [
-        "Denmark",
-        "Japan",
-        "Thailand"
+        "Paris",
+        "Berlin",
+        "Madrid"
       ],
-      "explanation": "Addis Ababa is in Ethiopia's central highlands at about 2,355 meters, one of Africa's highest capitals. It also hosts the headquarters of the African Union.",
-      "memoryHook": "T-Rexy says: Addis Ababa belongs to Ethiopia.",
+      "explanation": "In 1884, an international conference chose the line through the Royal Observatory in Greenwich, London, as the world's 0-degree longitude. Every place's longitude - and the world's time zones - are still measured from that line today.",
+      "memoryHook": "T-Rexy says: Longitude zero runs through London.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "longitude",
+        "europe"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1895,19 +1892,19 @@
     },
     {
       "id": "GEO9_095",
-      "question": "Which country has Accra as its capital?",
-      "correctAnswer": "Ghana",
+      "question": "The Atacama Desert, famous for being one of the driest places on Earth, is located mainly in which country?",
+      "correctAnswer": "Chile",
       "distractors": [
-        "Denmark",
-        "Thailand",
-        "Sri Lanka"
+        "Peru",
+        "Bolivia",
+        "Argentina"
       ],
-      "explanation": "Accra is Ghana's capital on the Gulf of Guinea coast. Black Star Square, with its giant black star arch, celebrates Ghana's 1957 independence - the first for a sub-Saharan African colony.",
-      "memoryHook": "T-Rexy says: Accra belongs to Ghana.",
+      "explanation": "The Atacama stretches along Chile's Pacific coast, squeezed between the ocean and the Andes, which block rain clouds from both directions. Some of its weather stations have gone years without recording any rain at all.",
+      "memoryHook": "T-Rexy says: Chile's Atacama almost never sees rain.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "deserts",
+        "south-america"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1915,19 +1912,19 @@
     },
     {
       "id": "GEO9_096",
-      "question": "Which country has Seoul as its capital?",
-      "correctAnswer": "South Korea",
+      "question": "Which continent is also a country?",
+      "correctAnswer": "Australia",
       "distractors": [
-        "Germany",
-        "Russia",
-        "Italy"
+        "Antarctica",
+        "Europe",
+        "Africa"
       ],
-      "explanation": "Seoul is in the northwest of South Korea on the Han River, ringed by mountains. Gyeongbokgung Palace sits below Bugaksan mountain, and the N Seoul Tower stands on Namsan hill nearby.",
-      "memoryHook": "T-Rexy says: Seoul belongs to South Korea.",
+      "explanation": "Australia is the only continent that consists of a single country with the same name. Antarctica is also a continent, but no country owns it and it has no permanent population.",
+      "memoryHook": "T-Rexy says: Australia is both continent and country.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "continents",
+        "oceania"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1935,19 +1932,20 @@
     },
     {
       "id": "GEO9_097",
-      "question": "Which country has Ulaanbaatar as its capital?",
-      "correctAnswer": "Mongolia",
+      "question": "The Sinai Peninsula forms a land bridge between Africa and Asia. It belongs to which country?",
+      "correctAnswer": "Egypt",
       "distractors": [
-        "Spain",
-        "Brazil",
-        "Myanmar"
+        "Israel",
+        "Jordan",
+        "Saudi Arabia"
       ],
-      "explanation": "Ulaanbaatar spreads along the Tuul River in a valley in north-central Mongolia, surrounded by steppe. At about 1,350 meters elevation it is often called the world's coldest capital, and ger (yurt) districts ring its center.",
-      "memoryHook": "T-Rexy says: Ulaanbaatar belongs to Mongolia.",
+      "explanation": "The Sinai sits at Egypt's northeastern corner, between the Mediterranean Sea and the Red Sea, with the Suez Canal running along its western edge. It is the only part of Egypt located in Asia rather than Africa.",
+      "memoryHook": "T-Rexy says: Egypt's Sinai is the bridge between two continents.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "peninsulas",
+        "africa",
+        "asia"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1955,19 +1953,21 @@
     },
     {
       "id": "GEO9_098",
-      "question": "Which country has Kathmandu as its capital?",
-      "correctAnswer": "Nepal",
+      "question": "The Ural Mountains are traditionally considered the boundary between which two continents?",
+      "correctAnswer": "Europe and Asia",
       "distractors": [
-        "Belgium",
-        "Norway",
-        "Netherlands"
+        "Asia and Africa",
+        "Europe and Africa",
+        "North America and South America"
       ],
-      "explanation": "Kathmandu fills a bowl-shaped valley in the Himalaya foothills of central Nepal. Its Durbar Square pagoda temples were built under the Malla kings, and the high Himalaya line the horizon on clear days.",
-      "memoryHook": "T-Rexy says: Kathmandu belongs to Nepal.",
+      "explanation": "Europe and Asia are really one giant landmass, sometimes called Eurasia. Geographers draw the dividing line along the Ural Mountains in Russia - which is why Russia is a country that spans two continents.",
+      "memoryHook": "T-Rexy says: The Urals draw the line between Europe and Asia.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "mountains",
+        "continents",
+        "europe",
+        "asia"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1975,19 +1975,19 @@
     },
     {
       "id": "GEO9_099",
-      "question": "Which country has Colombo as its capital?",
-      "correctAnswer": "Sri Lanka",
+      "question": "Cities on the coast usually have milder temperatures than inland cities at the same latitude. What causes this?",
+      "correctAnswer": "Water heats up and cools down more slowly than land",
       "distractors": [
-        "Portugal",
-        "Denmark",
-        "Switzerland"
+        "Coastal cities are always closer to the equator",
+        "Ocean water reflects all sunlight back into space",
+        "Inland cities have thinner air"
       ],
-      "explanation": "Colombo is Sri Lanka's largest city and executive and commercial capital on the island's west coast, with the Lotus Tower rising over Galle Face Green. The legislative capital, Sri Jayawardenepura Kotte, is a separate suburb nearby - a classic trick pairing.",
-      "memoryHook": "T-Rexy says: Colombo belongs to Sri Lanka.",
+      "explanation": "Oceans store heat and release it slowly, so they warm nearby land in winter and cool it in summer. Land heats up and cools down quickly, which is why inland places swing between hotter summers and colder winters.",
+      "memoryHook": "T-Rexy says: The ocean is the coast's slow, steady thermostat.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "climate",
+        "oceans"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1995,19 +1995,18 @@
     },
     {
       "id": "GEO9_100",
-      "question": "Which country has Naypyidaw as its capital?",
-      "correctAnswer": "Myanmar",
+      "question": "On a map with a scale of 1 centimeter = 10 kilometers, two towns are 4 centimeters apart on the map. How far apart are they in reality?",
+      "correctAnswer": "40 kilometers",
       "distractors": [
-        "South Korea",
-        "Chile",
-        "Portugal"
+        "4 kilometers",
+        "14 kilometers",
+        "400 kilometers"
       ],
-      "explanation": "Naypyidaw is a vast planned city in central Myanmar, built by the military government and made the capital in 2005, replacing Yangon. The golden Uppatasanti Pagoda and near-empty 20-lane boulevards are its signatures - most students have never heard of it, which is exactly why it is the trap answer for Myanmar.",
-      "memoryHook": "T-Rexy says: Naypyidaw belongs to Myanmar.",
+      "explanation": "Multiply the map distance by the scale: 4 centimeters times 10 kilometers per centimeter equals 40 kilometers. Map scales turn a quick ruler measurement into a real-world distance.",
+      "memoryHook": "T-Rexy says: Multiply the centimeters by the scale to get the real distance.",
       "imageUrl": "topic:geography",
       "tags": [
-        "capitals",
-        "countries"
+        "map-skills"
       ],
       "difficulty": "hard",
       "dynamic": false,
