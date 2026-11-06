@@ -29,7 +29,7 @@
         "angles",
         "complementary"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -49,7 +49,7 @@
         "angles",
         "supplementary"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -89,7 +89,7 @@
         "angles",
         "supplementary"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -109,7 +109,7 @@
         "angles",
         "complementary"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -129,7 +129,7 @@
         "angles",
         "supplementary"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -189,7 +189,7 @@
         "triangles",
         "angles"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -209,7 +209,7 @@
         "triangles",
         "angles"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -349,7 +349,7 @@
         "pythagorean",
         "triangles"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -369,7 +369,7 @@
         "pythagorean",
         "triangles"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -389,7 +389,7 @@
         "pythagorean",
         "triangles"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -469,7 +469,7 @@
         "pythagorean",
         "triangles"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -489,7 +489,7 @@
         "pythagorean",
         "triangles"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -529,7 +529,7 @@
         "perimeter",
         "rectangles"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -549,7 +549,7 @@
         "area",
         "rectangles"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -569,7 +569,7 @@
         "perimeter",
         "rectangles"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -589,7 +589,7 @@
         "area",
         "rectangles"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -609,7 +609,7 @@
         "perimeter",
         "rectangles"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -649,7 +649,7 @@
         "perimeter",
         "rectangles"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -689,7 +689,7 @@
         "circles",
         "area"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -700,7 +700,7 @@
       "distractors": [
         "314.0 cm",
         "65.94 cm",
-        "31.400000000000002 cm"
+        "31.4 cm"
       ],
       "explanation": "Circumference is 2 times pi times r: 2 times 3.14 times 10 = 62.8.",
       "memoryHook": "T-Rexy says: Circumference is 2 pi r.",
@@ -709,7 +709,7 @@
         "circles",
         "circumference"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -729,7 +729,7 @@
         "circles",
         "area"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -780,7 +780,7 @@
       "distractors": [
         "78.5 cm",
         "34.54 cm",
-        "15.700000000000001 cm"
+        "15.7 cm"
       ],
       "explanation": "Circumference is 2 times pi times r: 2 times 3.14 times 5 = 31.4.",
       "memoryHook": "T-Rexy says: Circumference is 2 pi r.",
@@ -789,7 +789,7 @@
         "circles",
         "circumference"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -809,7 +809,7 @@
         "circles",
         "area"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -849,7 +849,7 @@
         "volume",
         "prisms"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -889,7 +889,7 @@
         "volume",
         "prisms"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -909,7 +909,7 @@
         "volume",
         "prisms"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -929,7 +929,7 @@
         "volume",
         "prisms"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -949,7 +949,7 @@
         "volume",
         "prisms"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -969,7 +969,7 @@
         "volume",
         "prisms"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -989,7 +989,7 @@
         "area",
         "triangles"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1069,7 +1069,7 @@
         "area",
         "triangles"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1149,7 +1149,7 @@
         "polygons",
         "angles"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1169,7 +1169,7 @@
         "polygons",
         "vocabulary"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1182,7 +1182,7 @@
         "Scalene",
         "Right"
       ],
-      "explanation": "Equilateral means all sides equal.",
+      "explanation": "Equilateral means equal sides: all three sides are the same length, so all three angles are also equal, 60 degrees each.",
       "memoryHook": "T-Rexy says: Equi means equal.",
       "imageUrl": "topic:geometry",
       "tags": [
@@ -1202,7 +1202,7 @@
         "Scalene",
         "Obtuse"
       ],
-      "explanation": "Isosceles triangles have exactly two equal sides.",
+      "explanation": "An isosceles triangle has exactly two equal sides, and the angles opposite those sides (the base angles) are equal too. Three equal sides would make it equilateral instead.",
       "memoryHook": "T-Rexy says: Iso means same, two sides match.",
       "imageUrl": "topic:geometry",
       "tags": [
@@ -1249,7 +1249,7 @@
         "coordinate",
         "distance"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1269,7 +1269,7 @@
         "slope",
         "perpendicular"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1289,7 +1289,7 @@
         "slope",
         "parallel"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1349,7 +1349,7 @@
         "triangles",
         "vocabulary"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1362,14 +1362,14 @@
         "Translation",
         "Dilation"
       ],
-      "explanation": "A reflection flips a figure over a line like a mirror.",
+      "explanation": "A reflection creates a mirror image: every point of the figure and its image are the same distance from the mirror line, on opposite sides of it.",
       "memoryHook": "T-Rexy says: Reflection is a mirror flip.",
       "imageUrl": "topic:geometry",
       "tags": [
         "transformations",
         "reflection"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1382,14 +1382,14 @@
         "Translation",
         "Dilation"
       ],
-      "explanation": "A rotation turns a figure around a fixed point.",
+      "explanation": "A rotation turns every point of a figure by the same angle around one fixed point, called the center of rotation, like the hands of a clock.",
       "memoryHook": "T-Rexy says: Rotation spins the figure.",
       "imageUrl": "topic:geometry",
       "tags": [
         "transformations",
         "rotation"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1440,9 +1440,9 @@
       "distractors": [
         "1/2",
         "4",
-        "0.5"
+        "1/4"
       ],
-      "explanation": "Enlarging to twice the size means a scale factor of 2.",
+      "explanation": "The scale factor is image length divided by original length. Doubling every length gives 2/1 = 2; a scale factor under 1 would shrink the figure.",
       "memoryHook": "T-Rexy says: Scale factor 2 doubles every length.",
       "imageUrl": "topic:geometry",
       "tags": [
@@ -1462,14 +1462,14 @@
         "They are similar but different sizes",
         "They share one angle"
       ],
-      "explanation": "Congruent figures are identical in size and shape.",
+      "explanation": "Congruent figures match exactly: every corresponding side and angle is equal, so one figure can be placed on top of the other with no overlap or gap.",
       "memoryHook": "T-Rexy says: Congruent means exactly the same.",
       "imageUrl": "topic:geometry",
       "tags": [
         "triangles",
         "congruence"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1502,7 +1502,7 @@
         "ASA",
         "AAA"
       ],
-      "explanation": "SSS means all three sides match.",
+      "explanation": "SSS = Side-Side-Side: if all three sides of one triangle equal the three sides of another, the triangles are congruent, because three fixed side lengths determine a triangle's shape completely.",
       "memoryHook": "T-Rexy says: Three matching sides prove congruence.",
       "imageUrl": "topic:geometry",
       "tags": [
@@ -1522,7 +1522,7 @@
         "Angle-Side-Angle",
         "Side-Side-Angle"
       ],
-      "explanation": "SSS stands for side-side-side.",
+      "explanation": "SSS stands for Side-Side-Side: the three letters name the three known matching parts, one side of the triangle for each S.",
       "memoryHook": "T-Rexy says: SSS is three sides.",
       "imageUrl": "topic:geometry",
       "tags": [
@@ -1569,7 +1569,7 @@
         "surface-area",
         "cubes"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1589,7 +1589,7 @@
         "area",
         "parallelograms"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1609,7 +1609,7 @@
         "area",
         "trapezoids"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1629,7 +1629,7 @@
         "angles",
         "vertical"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1642,7 +1642,7 @@
         "180 degrees",
         "360 degrees"
       ],
-      "explanation": "A right angle measures exactly 90 degrees.",
+      "explanation": "A right angle is a quarter of a full turn: 360/4 = 90 degrees. It is the corner angle of a square, marked with a small square in diagrams.",
       "memoryHook": "T-Rexy says: Right means 90.",
       "imageUrl": "topic:geometry",
       "tags": [
@@ -1669,7 +1669,7 @@
         "angles",
         "vocabulary"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1689,7 +1689,7 @@
         "pythagorean",
         "triangles"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1749,7 +1749,7 @@
         "polygons",
         "angles"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1769,7 +1769,7 @@
         "coordinate",
         "distance"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1789,7 +1789,7 @@
         "polygons",
         "angles"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1809,7 +1809,7 @@
         "angles",
         "complementary"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1849,7 +1849,7 @@
         "slope",
         "coordinate"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1869,7 +1869,7 @@
         "slope",
         "coordinate"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1909,7 +1909,7 @@
         "slope",
         "coordinate"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1982,14 +1982,14 @@
         "90 degrees",
         "270 degrees"
       ],
-      "explanation": "A full turn is 360 degrees.",
+      "explanation": "A full turn is 360 degrees - four right angles of 90 degrees each. Degrees divide one full rotation into 360 equal parts.",
       "memoryHook": "T-Rexy says: A full circle is 360.",
       "imageUrl": "topic:geometry",
       "tags": [
         "angles",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -2009,7 +2009,7 @@
         "polygons",
         "vocabulary"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     }
