@@ -96,19 +96,20 @@
     },
     {
       "id": "EART3D_005",
-      "question": "In lost-wax casting, what replaces the wax model inside the mold?",
-      "correctAnswer": "Molten bronze",
+      "question": "In the 3-D printing workflow, slicer software is used to",
+      "correctAnswer": "Convert a 3-D model file into stacked layers and machine instructions",
       "distractors": [
-        "Plaster",
-        "Clay slip",
-        "Molten glass"
+        "Photograph the finished print for a portfolio",
+        "Mix two resins into a new printing material",
+        "Sand and polish the surface of a finished print"
       ],
-      "explanation": "The wax is melted out (lost), leaving a cavity that is filled with molten bronze, which hardens into the final sculpture.",
-      "memoryHook": "T-Rexy says: The wax runs away and bronze rushes in to take its place - sneaky swap!",
-      "imageUrl": "topic:lost-wax-casting",
+      "explanation": "A modeling program produces geometry, not machine moves. The slicer cuts that geometry into horizontal layers, decides wall thickness and infill, and writes the toolpath file the printer actually follows.",
+      "memoryHook": "T-Rexy says: The slicer is the translator - it turns your 3-D model into instructions the printer can follow!",
+      "imageUrl": "topic:slicer-workflow-3d-printing",
       "tags": [
-        "sculpture",
-        "technique"
+        "digital-fabrication",
+        "3d-printing",
+        "workflow"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -676,19 +677,20 @@
     },
     {
       "id": "EART3D_034",
-      "question": "An artist who enlarges an everyday object to monumental size is playing with",
-      "correctAnswer": "Scale",
+      "question": "A floor sculpture places one large heavy boulder on the left. On the right, three small stones are grouped with one tall thin pole. The arrangement is best analyzed as",
+      "correctAnswer": "Asymmetrical balance, because different forms carry roughly equal visual weight",
       "distractors": [
-        "Texture",
-        "Glaze",
-        "Patina"
+        "Symmetrical balance, because both sides use identical forms",
+        "Radial balance, because all forms spread from one center point",
+        "No balance, because the two sides are not mirror images"
       ],
-      "explanation": "Claes Oldenburg's giant clothespins and spoons derive their surprise from unexpected monumental scale.",
-      "memoryHook": "T-Rexy says: A toothbrush the size of a bus? That is scale messing with your brain!",
-      "imageUrl": "topic:monumental-scale",
+      "explanation": "Balance is judged by visual weight, not by matching shapes. The single dense mass on the left is countered by the combined weight and height of the grouped forms on the right, so the composition feels stable without being mirrored.",
+      "memoryHook": "T-Rexy says: One big rock can balance a whole team of small ones - weigh with your eyes, not a mirror!",
+      "imageUrl": "topic:formal-analysis-asymmetrical-balance",
       "tags": [
+        "formal-analysis",
         "design",
-        "principles"
+        "balance"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -876,19 +878,20 @@
     },
     {
       "id": "EART3D_044",
-      "question": "The lost-wax process is also called",
-      "correctAnswer": "Cire perdue",
+      "question": "A weft-faced tapestry weave differs from balanced plain weave because in tapestry",
+      "correctAnswer": "The weft completely covers the warp so the image is built from colored weft areas",
       "distractors": [
-        "Terra cotta",
-        "Bas-relief",
-        "Trompe l'oeil"
+        "The warp completely covers the weft on both faces",
+        "No loom is used at any stage of the weaving",
+        "Warp and weft remain equally visible in a checker pattern"
       ],
-      "explanation": "Cire perdue is French for lost wax - the traditional name for this ancient bronze-casting method.",
-      "memoryHook": "T-Rexy says: Cire perdue sounds fancy - it is just French for lost wax!",
-      "imageUrl": "topic:cire-perdue",
+      "explanation": "In tapestry the weaver packs the weft down tightly and changes weft color from area to area, so the warp acts only as a hidden structure. In balanced plain weave both thread systems show equally, which cannot produce a pictorial surface.",
+      "memoryHook": "T-Rexy says: In tapestry the weft wears the costume and the warp hides backstage doing the holding!",
+      "imageUrl": "topic:tapestry-weft-faced-weave",
       "tags": [
-        "sculpture",
-        "technique"
+        "fibers",
+        "textiles",
+        "weaving"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1056,19 +1059,20 @@
     },
     {
       "id": "EART3D_053",
-      "question": "Alexander Calder is best known for",
-      "correctAnswer": "Mobiles - balanced moving sculptures",
+      "question": "In weaving for a soft sculpture, the warp threads are",
+      "correctAnswer": "The lengthwise threads held under tension on the loom",
       "distractors": [
-        "Marble portraits",
-        "Ceramic vessels",
-        "Gothic cathedrals"
+        "The loose threads woven across the width one row at a time",
+        "The dye used to color the finished cloth",
+        "The loose fringe left hanging at the end of the cloth"
       ],
-      "explanation": "Calder invented the mobile - delicately balanced abstract forms that drift in air currents - plus large stationary stabiles.",
-      "memoryHook": "T-Rexy says: Calder's mobiles are sculptures that dance with the wind!",
-      "imageUrl": "topic:calder-mobile",
+      "explanation": "The warp is strung on the loom first and held taut so the weft can pass over and under it. That tension is what lets a woven structure hold a three-dimensional form after it is removed from the loom.",
+      "memoryHook": "T-Rexy says: Warp stays put and holds tight - the weft does the weaving dance across it!",
+      "imageUrl": "topic:weaving-warp-weft",
       "tags": [
-        "art-history",
-        "sculptor"
+        "fibers",
+        "textiles",
+        "weaving"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1116,19 +1120,20 @@
     },
     {
       "id": "EART3D_056",
-      "question": "The Statue of Liberty was a gift from which country?",
-      "correctAnswer": "France",
+      "question": "Six separate vessel forms differ in height and profile, but all are cast in the same translucent pale resin and grouped close together on one low plinth. Their unity comes mainly from",
+      "correctAnswer": "Repeated material, color, and close grouping that make the set read as one work",
       "distractors": [
-        "England",
-        "Spain",
-        "Italy"
+        "Identical size and shape repeated without any variation",
+        "A shared hidden steel armature inside every form",
+        "Matching signatures stamped on the base of each form"
       ],
-      "explanation": "France gave the statue to the United States in 1886 to celebrate American independence and friendship between the nations.",
-      "memoryHook": "T-Rexy says: Merci, France - the biggest gift receipt in history!",
-      "imageUrl": "topic:statue-of-liberty",
+      "explanation": "Unity does not require identical parts. Here variation in profile keeps the group interesting while the shared materiality - the same light-passing resin - and tight proximity bind the separate forms into a single composition.",
+      "memoryHook": "T-Rexy says: Different shapes, same glowing skin, standing close - that family feeling is unity!",
+      "imageUrl": "topic:formal-analysis-unity-materiality",
       "tags": [
-        "art-history",
-        "sculpture"
+        "formal-analysis",
+        "design",
+        "unity"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1176,19 +1181,20 @@
     },
     {
       "id": "EART3D_059",
-      "question": "Marcel Duchamp's Fountain (1917) was",
-      "correctAnswer": "A urinal presented as art, challenging definitions of art",
+      "question": "Many earthworks are described as ephemeral because",
+      "correctAnswer": "Weather, erosion, tides, and plant growth continually change or erase them",
       "distractors": [
-        "A marble water fountain",
-        "A bronze horse statue",
-        "A ceramic vase"
+        "They are made only from ice that is kept frozen indoors",
+        "They are destroyed by the artist at the end of every exhibition day",
+        "They exist only as computer images and are never built"
       ],
-      "explanation": "By submitting a factory-made urinal to an exhibition, Duchamp asked whether the artist's idea matters more than craft.",
-      "memoryHook": "T-Rexy says: A urinal in an art show? Duchamp trolled the art world before trolling existed!",
-      "imageUrl": "topic:duchamp-fountain",
+      "explanation": "An outdoor work made of earth, salt, or vegetation is exposed to natural processes, so change is built into the work rather than being damage to it. Artists plan for growth, flooding, and decay as part of the life of the piece.",
+      "memoryHook": "T-Rexy says: Rain, wind, and weeds keep editing the earthwork - ephemeral art expects to change!",
+      "imageUrl": "topic:earthwork-ephemerality",
       "tags": [
-        "art-history",
-        "concept"
+        "land-art",
+        "environmental",
+        "installation"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1196,19 +1202,19 @@
     },
     {
       "id": "EART3D_060",
-      "question": "Mount Rushmore depicts",
-      "correctAnswer": "Four U.S. presidents",
+      "question": "A fused deposition modeling (FDM) 3-D printer builds a form by",
+      "correctAnswer": "Extruding melted filament in thin layers that fuse as they cool",
       "distractors": [
-        "Native American chiefs",
-        "Civil War generals",
-        "American inventors"
+        "Carving material away from a solid block",
+        "Pouring liquid resin into a reusable mold",
+        "Cutting flat sheets with a focused light beam"
       ],
-      "explanation": "Gutzon Borglum carved Washington, Jefferson, Roosevelt, and Lincoln into the Black Hills of South Dakota.",
-      "memoryHook": "T-Rexy says: Four giant presidential faces staring at you - Mount Rushmore never blinks!",
-      "imageUrl": "topic:mount-rushmore",
+      "explanation": "FDM printing is additive: a heated nozzle lays down one thin layer at a time and each layer bonds to the one below it. Because nothing is cut away, hollow interiors and undercuts that are hard to carve can be built directly.",
+      "memoryHook": "T-Rexy says: The printer squeezes hot filament like toothpaste, one layer at a time, until the form grows!",
+      "imageUrl": "topic:fdm-3d-printing-layers",
       "tags": [
-        "art-history",
-        "sculpture"
+        "digital-fabrication",
+        "3d-printing"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1276,19 +1282,20 @@
     },
     {
       "id": "EART3D_064",
-      "question": "Anish Kapoor's Cloud Gate is located in",
-      "correctAnswer": "Chicago",
+      "question": "Land art (earthworks) is best defined as art that",
+      "correctAnswer": "Is made in and from the landscape itself, using site as material and subject",
       "distractors": [
-        "New York",
-        "Los Angeles",
-        "Paris"
+        "Is painted on canvas in a studio and later hung outdoors",
+        "Must be small enough to move between galleries",
+        "Copies the look of a landscape using bronze and marble"
       ],
-      "explanation": "The mirrored bean in Millennium Park, Chicago, reflects the skyline and has become one of the world's most photographed sculptures.",
-      "memoryHook": "T-Rexy says: The Bean! Chicago's giant mirror where everyone takes selfies!",
-      "imageUrl": "topic:cloud-gate-chicago",
+      "explanation": "Earthwork artists in the late 1960s left the gallery and worked directly with earth, rock, water, and place. The location is not a backdrop - moving the work would destroy it, which is central to how the AP portfolio treats site-based investigation.",
+      "memoryHook": "T-Rexy says: Land art does not sit on the land - the land IS the artwork!",
+      "imageUrl": "topic:land-art-earthwork-site",
       "tags": [
-        "art-history",
-        "sculptor"
+        "land-art",
+        "environmental",
+        "installation"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1396,19 +1403,20 @@
     },
     {
       "id": "EART3D_070",
-      "question": "The Venus de Milo is famously missing",
-      "correctAnswer": "Its arms",
+      "question": "A sculpture is a tall matte-black tower. A single small polished red sphere sits at its top. The sphere is the emphasis (focal point) mainly because of",
+      "correctAnswer": "Strong contrast of color, surface, and scale against the dark tower",
       "distractors": [
-        "Its head",
-        "Its legs",
-        "Its base"
+        "Its position at the exact center of the base",
+        "The weight of the material it is made from",
+        "The title the artist gave to the work"
       ],
-      "explanation": "The ancient Greek statue's arms were lost before its 1820 discovery on the island of Milos - their pose remains a mystery.",
-      "memoryHook": "T-Rexy says: The Venus de Milo lost her arms but kept her fame - beauty needs no arms!",
-      "imageUrl": "topic:venus-de-milo",
+      "explanation": "Emphasis is read from visual evidence, not from titles or materials lists. Here one small glossy warm-colored form interrupts a large matte dark field, so the eye goes to the sphere first even though it is the smallest part of the work.",
+      "memoryHook": "T-Rexy says: One shiny red dot on a big black tower shouts loudest - contrast creates the focal point!",
+      "imageUrl": "topic:formal-analysis-emphasis-contrast",
       "tags": [
-        "art-history",
-        "sculpture"
+        "formal-analysis",
+        "design",
+        "emphasis"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1612,19 +1620,20 @@
     },
     {
       "id": "EART3D_081",
-      "question": "When joining clay slabs, the edges should be",
-      "correctAnswer": "Scored, slipped, and firmly pressed together",
+      "question": "Wet felting forms a solid fabric from loose wool because",
+      "correctAnswer": "Warm soapy water and agitation make the wool fiber scales lock together",
       "distractors": [
-        "Left dry and dusty",
-        "Glued with hot glue",
-        "Welded with a torch"
+        "Heat melts the wool into a single plastic sheet",
+        "Glue bonds the loose fibers into a mat",
+        "Stitches sew the loose fibers together"
       ],
-      "explanation": "Beveled, scored, and slipped slab joints bond into one strong form that survives drying and firing.",
-      "memoryHook": "T-Rexy says: Scratch, slip, squish - the three S's of strong slab joints!",
-      "imageUrl": "topic:slab-joining",
+      "explanation": "Wool fibers have tiny overlapping scales. Moisture, soap, and repeated rubbing open those scales so fibers migrate and tangle irreversibly, shrinking loose roving into dense felt with no weaving or sewing.",
+      "memoryHook": "T-Rexy says: Rub wool with soap and water and the fibers hug so tight they never let go - that is felt!",
+      "imageUrl": "topic:wet-felting-process",
       "tags": [
-        "ceramics",
-        "hand-building"
+        "fibers",
+        "textiles",
+        "felting"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1732,19 +1741,19 @@
     },
     {
       "id": "EART3D_087",
-      "question": "A pyrometer in ceramics is used to",
-      "correctAnswer": "Measure kiln temperature",
+      "question": "On a laser cutter, vector cutting and raster engraving differ because",
+      "correctAnswer": "Vector mode follows outline paths to cut through material, while raster mode scans back and forth to mark the surface",
       "distractors": [
-        "Weigh clay",
-        "Mix glaze",
-        "Center clay on the wheel"
+        "Vector mode uses water while raster mode uses light",
+        "Raster mode cuts through material while vector mode only draws on screen",
+        "Both modes follow the same path at the same speed and power"
       ],
-      "explanation": "A pyrometer is a thermocouple thermometer that reads the kiln's current temperature during a firing; pyrometric cones complement it by showing heat work - temperature sustained over time.",
-      "memoryHook": "T-Rexy says: The pyrometer is the kiln's thermometer - no guessing the heat!",
-      "imageUrl": "topic:pyrometer",
+      "explanation": "The file setup controls the machine: closed vector paths tell the laser where to travel and cut, raster fills tell it where to scan and burn a surface image. Sending a line as raster by mistake leaves an engraved mark instead of a separated part.",
+      "memoryHook": "T-Rexy says: Vector travels the outline and cuts it free - raster sweeps side to side and only marks the skin!",
+      "imageUrl": "topic:laser-vector-vs-raster",
       "tags": [
-        "ceramics",
-        "firing"
+        "digital-fabrication",
+        "laser-cutting"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1910,19 +1919,20 @@
     },
     {
       "id": "EART3D_096",
-      "question": "When photographing a sculpture, a neutral background helps",
-      "correctAnswer": "Keep focus on the form without distraction",
+      "question": "Because large earthworks are remote and change over time, artists most often communicate them to viewers through",
+      "correctAnswer": "Photographs, maps, drawings, and written records of the site",
       "distractors": [
-        "Make the work look smaller",
-        "Hide any flaws completely",
-        "Change the color of the work"
+        "Moving the entire work into a museum gallery",
+        "Rebuilding the work at a smaller size in bronze",
+        "Selling tickets for viewers to rebuild the work themselves"
       ],
-      "explanation": "A seamless gray or white backdrop isolates the form so reviewers judge the sculpture, not the cluttered studio.",
-      "memoryHook": "T-Rexy says: Plain background, star sculpture - no photobombers allowed!",
-      "imageUrl": "topic:photographing-sculpture",
+      "explanation": "Few viewers can travel to a desert lakebed or tidal flat, so documentation carries the work. Robert Smithson called the gallery material linked to a distant site a non-site relationship - the photos and maps point back to a place the viewer cannot stand in.",
+      "memoryHook": "T-Rexy says: You cannot mail a lakebed to a gallery - photos and maps carry the earthwork to you!",
+      "imageUrl": "topic:earthwork-documentation-nonsite",
       "tags": [
-        "ap-portfolio",
-        "technique"
+        "land-art",
+        "environmental",
+        "documentation"
       ],
       "difficulty": "medium",
       "dynamic": false,
