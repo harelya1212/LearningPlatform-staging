@@ -22,7 +22,7 @@
         "Mexico City",
         "Jakarta"
       ],
-      "explanation": "The capital of France is Paris.",
+      "explanation": "Paris sits in north-central France on the River Seine. It is France's largest city and has been its political and cultural center for centuries - picture the Eiffel Tower and you are picturing Paris.",
       "memoryHook": "T-Rexy says: The capital of France is Paris.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -42,14 +42,14 @@
         "Reykjavik",
         "New Delhi"
       ],
-      "explanation": "The capital of Japan is Tokyo.",
+      "explanation": "Tokyo is on the Pacific coast of Honshu, Japan's biggest island. It grew from the shogun's castle town of Edo and is now the heart of the largest metropolitan area on Earth.",
       "memoryHook": "T-Rexy says: The capital of Japan is Tokyo.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -62,7 +62,7 @@
         "New Delhi",
         "Madrid"
       ],
-      "explanation": "The capital of Brazil is Brasilia.",
+      "explanation": "Brasilia was built from scratch in 1960 on Brazil's central plateau, moving the capital inland from Rio de Janeiro to develop the interior. Its modernist Congress buildings - two towers flanked by a dome and a bowl - are the giveaway.",
       "memoryHook": "T-Rexy says: The capital of Brazil is Brasilia.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -82,7 +82,7 @@
         "Hanoi",
         "Bangkok"
       ],
-      "explanation": "The capital of Canada is Ottawa.",
+      "explanation": "Ottawa sits in Ontario where the Ottawa River meets the Rideau Canal, right on the Quebec border. Queen Victoria picked it as a compromise between Toronto and Montreal, which is why Canada's capital is not its biggest city.",
       "memoryHook": "T-Rexy says: The capital of Canada is Ottawa.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -102,7 +102,7 @@
         "Moscow",
         "Copenhagen"
       ],
-      "explanation": "The capital of Australia is Canberra.",
+      "explanation": "Canberra is a planned city in the Australian Capital Territory, created as a compromise because Sydney and Melbourne both wanted to be the capital. Sydney is bigger and more famous, but Parliament sits in Canberra on the shore of Lake Burley Griffin.",
       "memoryHook": "T-Rexy says: The capital of Australia is Canberra.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -122,14 +122,14 @@
         "Addis Ababa",
         "Accra"
       ],
-      "explanation": "The capital of Egypt is Cairo.",
+      "explanation": "Cairo stands on the Nile near where the river spreads into its delta, just northeast of the Giza pyramids. It is the largest city in the Arab world and has been Egypt's capital for over a thousand years.",
       "memoryHook": "T-Rexy says: The capital of Egypt is Cairo.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -142,14 +142,14 @@
         "Kyiv",
         "Mexico City"
       ],
-      "explanation": "The capital of India is New Delhi.",
+      "explanation": "New Delhi is a planned district inside Delhi in northern India, built by the British in the early 1900s around India Gate and the presidential palace. Mumbai is India's financial hub, but New Delhi is the seat of government.",
       "memoryHook": "T-Rexy says: The capital of India is New Delhi.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -162,14 +162,14 @@
         "Tehran",
         "Brasilia"
       ],
-      "explanation": "The capital of China is Beijing.",
+      "explanation": "Beijing is in northern China, not far south of the Great Wall. Its name means 'northern capital', and the Forbidden City palace complex sits at its center.",
       "memoryHook": "T-Rexy says: The capital of China is Beijing.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -182,14 +182,14 @@
         "Kathmandu",
         "Madrid"
       ],
-      "explanation": "The capital of Italy is Rome.",
+      "explanation": "Rome is in west-central Italy on the Tiber River. It was the center of the Roman Empire, and landmarks like the Colosseum and the Roman Forum make it one of the most recognizable capitals in the world.",
       "memoryHook": "T-Rexy says: The capital of Italy is Rome.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -202,14 +202,14 @@
         "Bangkok",
         "Brasilia"
       ],
-      "explanation": "The capital of Spain is Madrid.",
+      "explanation": "Madrid sits almost exactly in the center of Spain on a high plateau, one reason it was chosen as the capital in 1561. Barcelona is a bigger port, but the king and the government are in Madrid.",
       "memoryHook": "T-Rexy says: The capital of Spain is Madrid.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -222,14 +222,14 @@
         "Islamabad",
         "Moscow"
       ],
-      "explanation": "The capital of Germany is Berlin.",
+      "explanation": "Berlin is in northeastern Germany on the Spree River. It was divided by the Berlin Wall during the Cold War and became the capital of a reunified Germany in 1990.",
       "memoryHook": "T-Rexy says: The capital of Germany is Berlin.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -242,7 +242,7 @@
         "Cairo",
         "Rabat"
       ],
-      "explanation": "The capital of Mexico is Mexico City.",
+      "explanation": "Mexico City occupies a high valley in south-central Mexico, built on the ruins of Tenochtitlan, the Aztec capital. It is one of the largest Spanish-speaking cities in the world.",
       "memoryHook": "T-Rexy says: The capital of Mexico is Mexico City.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -262,7 +262,7 @@
         "Copenhagen",
         "Lima"
       ],
-      "explanation": "The capital of Argentina is Buenos Aires.",
+      "explanation": "Buenos Aires faces the Rio de la Plata estuary on Argentina's east coast. Its name means 'fair winds', and its port made it the country's gateway for trade and immigration; the colorful La Boca district and the Obelisk are its landmarks.",
       "memoryHook": "T-Rexy says: The capital of Argentina is Buenos Aires.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -282,7 +282,7 @@
         "Quito",
         "Madrid"
       ],
-      "explanation": "The capital of Kenya is Nairobi.",
+      "explanation": "Nairobi is in south-central Kenya at about 1,800 meters elevation, which keeps it cooler than the coast. It began as a railway depot and is famous for Nairobi National Park, where giraffes roam with the skyline behind them.",
       "memoryHook": "T-Rexy says: The capital of Kenya is Nairobi.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -302,14 +302,14 @@
         "Bern",
         "Hanoi"
       ],
-      "explanation": "The capital of Nigeria is Abuja.",
+      "explanation": "Abuja is a planned city near the geographic center of Nigeria, chosen to replace crowded coastal Lagos and made the capital in 1991. Aso Rock, a huge granite outcrop, towers over the city.",
       "memoryHook": "T-Rexy says: The capital of Nigeria is Abuja.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -322,14 +322,14 @@
         "Pretoria",
         "Amsterdam"
       ],
-      "explanation": "The capital of Turkey is Ankara.",
+      "explanation": "Ankara is on the central Anatolian plateau. Ataturk made it the capital in 1923 because inland Ankara was safer and more central than Istanbul, the old imperial capital on the strait. His mausoleum, Anitkabir, crowns a hill above the city.",
       "memoryHook": "T-Rexy says: The capital of Turkey is Ankara.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -342,14 +342,14 @@
         "Baghdad",
         "Brussels"
       ],
-      "explanation": "The capital of Iran is Tehran.",
+      "explanation": "Tehran spreads across the southern foothills of the snow-capped Alborz Mountains in northern Iran. The Milad Tower against that mountain backdrop is its signature view.",
       "memoryHook": "T-Rexy says: The capital of Iran is Tehran.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -362,14 +362,14 @@
         "Paris",
         "Bogota"
       ],
-      "explanation": "The capital of Iraq is Baghdad.",
+      "explanation": "Baghdad sits on the Tigris River in central Iraq. Founded in the 8th century as a perfectly round city, it was a center of learning during the Islamic Golden Age.",
       "memoryHook": "T-Rexy says: The capital of Iraq is Baghdad.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -382,14 +382,14 @@
         "Lima",
         "Ulaanbaatar"
       ],
-      "explanation": "The capital of Thailand is Bangkok.",
+      "explanation": "Bangkok is on the Chao Phraya River near its mouth on the Gulf of Thailand. Its Grand Palace and temples like Wat Arun mark it out - it is both Thailand's capital and by far its largest city.",
       "memoryHook": "T-Rexy says: The capital of Thailand is Bangkok.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -402,14 +402,14 @@
         "Seoul",
         "Caracas"
       ],
-      "explanation": "The capital of Vietnam is Hanoi.",
+      "explanation": "Hanoi is in northern Vietnam on the Red River, and its Old Quarter surrounds Hoan Kiem Lake with its small Turtle Tower. Ho Chi Minh City (Saigon) in the south is bigger and more commercial, but Hanoi is the capital.",
       "memoryHook": "T-Rexy says: The capital of Vietnam is Hanoi.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -422,14 +422,14 @@
         "Caracas",
         "Islamabad"
       ],
-      "explanation": "The capital of Indonesia is Jakarta.",
+      "explanation": "Jakarta is on the northwest coast of Java, Indonesia's most populous island, and the National Monument (Monas) rises over its center. Indonesia is building a new capital, Nusantara, on Borneo, but the transfer is not complete and Jakarta remains the capital.",
       "memoryHook": "T-Rexy says: The capital of Indonesia is Jakarta.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -442,14 +442,14 @@
         "Berlin",
         "Amsterdam"
       ],
-      "explanation": "The capital of Pakistan is Islamabad.",
+      "explanation": "Islamabad is a planned city at the foot of the Margalla Hills in northern Pakistan, built in the 1960s to replace Karachi as the capital. The Faisal Mosque, shaped like a giant tent, is its landmark.",
       "memoryHook": "T-Rexy says: The capital of Pakistan is Islamabad.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -462,14 +462,14 @@
         "Addis Ababa",
         "Athens"
       ],
-      "explanation": "The capital of Russia is Moscow.",
+      "explanation": "Moscow is in western Russia on the Moskva River. Red Square, the Kremlin walls, and the candy-colored domes of St Basil's Cathedral make it unmistakable - it is Russia's capital and largest city.",
       "memoryHook": "T-Rexy says: The capital of Russia is Moscow.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -482,7 +482,7 @@
         "Kathmandu",
         "Islamabad"
       ],
-      "explanation": "The capital of Ukraine is Kyiv.",
+      "explanation": "Kyiv stands on the Dnipro River in north-central Ukraine. One of the oldest cities in Eastern Europe, it is known for golden-domed churches like St Andrew's rising above the river.",
       "memoryHook": "T-Rexy says: The capital of Ukraine is Kyiv.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -502,14 +502,14 @@
         "Abuja",
         "Addis Ababa"
       ],
-      "explanation": "The capital of Poland is Warsaw.",
+      "explanation": "Warsaw is on the Vistula River in east-central Poland. Almost completely rebuilt after World War II, its Old Town is a UNESCO site and the Royal Castle anchors the riverfront.",
       "memoryHook": "T-Rexy says: The capital of Poland is Warsaw.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -522,14 +522,14 @@
         "Bogota",
         "Madrid"
       ],
-      "explanation": "The capital of Greece is Athens.",
+      "explanation": "Athens is in southern Greece near the Aegean Sea, dominated by the Acropolis hill with the Parthenon on top. It was the birthplace of democracy over 2,500 years ago.",
       "memoryHook": "T-Rexy says: The capital of Greece is Athens.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -542,7 +542,7 @@
         "New Delhi",
         "Baghdad"
       ],
-      "explanation": "The capital of Portugal is Lisbon.",
+      "explanation": "Lisbon is built on hills where the Tagus River meets the Atlantic. Yellow trams climb its old Alfama streets below St George's Castle.",
       "memoryHook": "T-Rexy says: The capital of Portugal is Lisbon.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -555,21 +555,21 @@
     },
     {
       "id": "GEO9_028",
-      "question": "What is the capital of Netherlands?",
+      "question": "What is the capital of the Netherlands?",
       "correctAnswer": "Amsterdam",
       "distractors": [
         "Madrid",
         "Brussels",
         "Mexico City"
       ],
-      "explanation": "The capital of Netherlands is Amsterdam.",
+      "explanation": "Amsterdam is the constitutional capital of the Netherlands, famous for its rings of canals and tall, narrow gabled houses. The Dutch government actually sits in The Hague, but Amsterdam keeps the capital title.",
       "memoryHook": "T-Rexy says: The capital of Netherlands is Amsterdam.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -582,14 +582,14 @@
         "Rabat",
         "Santiago"
       ],
-      "explanation": "The capital of Belgium is Brussels.",
+      "explanation": "Brussels is in central Belgium and hosts the headquarters of the European Union, which is why it is sometimes called the capital of Europe. Its Grand Place is ringed by ornate guildhalls.",
       "memoryHook": "T-Rexy says: The capital of Belgium is Brussels.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -602,7 +602,7 @@
         "Rome",
         "Copenhagen"
       ],
-      "explanation": "The capital of Switzerland is Bern.",
+      "explanation": "Bern is Switzerland's de facto capital, picked in 1848 as a compromise between bigger rivals like Zurich and Geneva. Its medieval old town sits inside a tight loop of the Aare River and is a UNESCO site.",
       "memoryHook": "T-Rexy says: The capital of Switzerland is Bern.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -622,7 +622,7 @@
         "Lima",
         "Nairobi"
       ],
-      "explanation": "The capital of Sweden is Stockholm.",
+      "explanation": "Stockholm is spread across 14 islands where Lake Malaren meets the Baltic Sea. Its old town, Gamla Stan, holds the Royal Palace right on the waterfront.",
       "memoryHook": "T-Rexy says: The capital of Sweden is Stockholm.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -642,7 +642,7 @@
         "Cairo",
         "Quito"
       ],
-      "explanation": "The capital of Norway is Oslo.",
+      "explanation": "Oslo sits at the head of the Oslofjord in southern Norway. Its white, iceberg-shaped Opera House rises straight out of the harbor water.",
       "memoryHook": "T-Rexy says: The capital of Norway is Oslo.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -662,14 +662,14 @@
         "Naypyidaw",
         "Beijing"
       ],
-      "explanation": "The capital of Denmark is Copenhagen.",
+      "explanation": "Copenhagen is on the island of Zealand, facing Sweden across the Oresund strait. The colorful 17th-century townhouses of Nyhavn harbor are its postcard view.",
       "memoryHook": "T-Rexy says: The capital of Denmark is Copenhagen.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -682,14 +682,14 @@
         "Jakarta",
         "Algiers"
       ],
-      "explanation": "The capital of Finland is Helsinki.",
+      "explanation": "Helsinki is a Baltic port on Finland's southern coast. The white Helsinki Cathedral with its green dome overlooks Senate Square and the harbor.",
       "memoryHook": "T-Rexy says: The capital of Finland is Helsinki.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -702,14 +702,14 @@
         "Madrid",
         "Pretoria"
       ],
-      "explanation": "The capital of Iceland is Reykjavik.",
+      "explanation": "Reykjavik, on Iceland's southwest coast, is the world's northernmost capital. The concrete Hallgrimskirkja church, shaped like basalt columns, towers over its colorful low-rise houses.",
       "memoryHook": "T-Rexy says: The capital of Iceland is Reykjavik.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -722,7 +722,7 @@
         "Ulaanbaatar",
         "Tokyo"
       ],
-      "explanation": "The capital of Chile is Santiago.",
+      "explanation": "Santiago fills a valley in central Chile with the snow-capped Andes as its backdrop. The Gran Torre Santiago, the tallest building in South America, marks its skyline.",
       "memoryHook": "T-Rexy says: The capital of Chile is Santiago.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -742,14 +742,14 @@
         "Paris",
         "Madrid"
       ],
-      "explanation": "The capital of Peru is Lima.",
+      "explanation": "Lima sits on cliffs above the Pacific coast in central Peru; it was founded by Francisco Pizarro in 1535. Its Miraflores district is famous for paragliders launching off the cliff-top parks.",
       "memoryHook": "T-Rexy says: The capital of Peru is Lima.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -762,14 +762,14 @@
         "Islamabad",
         "Stockholm"
       ],
-      "explanation": "The capital of Colombia is Bogota.",
+      "explanation": "Bogota is high in the Andes at about 2,640 meters, making it one of the world's highest capitals. The sanctuary on Monserrate hill looks down over the whole city.",
       "memoryHook": "T-Rexy says: The capital of Colombia is Bogota.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -782,14 +782,14 @@
         "Rome",
         "Athens"
       ],
-      "explanation": "The capital of Venezuela is Caracas.",
+      "explanation": "Caracas lies in a long valley in northern Venezuela, walled off from the Caribbean coast by the green Avila mountain, which residents treat as the city's lungs.",
       "memoryHook": "T-Rexy says: The capital of Venezuela is Caracas.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -802,7 +802,7 @@
         "Hanoi",
         "Islamabad"
       ],
-      "explanation": "The capital of Ecuador is Quito.",
+      "explanation": "Quito is in the Andes of north-central Ecuador at about 2,850 meters, one of the highest capitals in the world. The winged Virgin statue on El Panecillo hill watches over its colonial old town.",
       "memoryHook": "T-Rexy says: The capital of Ecuador is Quito.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -822,14 +822,14 @@
         "Kathmandu",
         "Colombo"
       ],
-      "explanation": "The capital of Morocco is Rabat.",
+      "explanation": "Rabat is on Morocco's Atlantic coast where the Bou Regreg River meets the sea, across from the old port of Sale. The unfinished Hassan Tower is its landmark; Casablanca is bigger, but Rabat is the capital.",
       "memoryHook": "T-Rexy says: The capital of Morocco is Rabat.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -842,7 +842,7 @@
         "Warsaw",
         "Lima"
       ],
-      "explanation": "The capital of Algeria is Algiers.",
+      "explanation": "Algiers curves around a bay on Algeria's Mediterranean coast, its whitewashed Casbah climbing the hillside - which is why it is nicknamed 'Algiers the White'.",
       "memoryHook": "T-Rexy says: The capital of Algeria is Algiers.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -862,7 +862,7 @@
         "Ankara",
         "Hanoi"
       ],
-      "explanation": "The capital of Ethiopia is Addis Ababa.",
+      "explanation": "Addis Ababa is in Ethiopia's central highlands at about 2,355 meters, one of Africa's highest capitals. It also hosts the headquarters of the African Union.",
       "memoryHook": "T-Rexy says: The capital of Ethiopia is Addis Ababa.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -882,7 +882,7 @@
         "Islamabad",
         "Kyiv"
       ],
-      "explanation": "The capital of South Africa is Pretoria.",
+      "explanation": "Pretoria, in the Gauteng province, is South Africa's administrative capital - the president works from the Union Buildings there, and its streets turn purple with jacaranda blossoms every spring. South Africa splits its capitals: Cape Town holds Parliament and Bloemfontein the highest courts.",
       "memoryHook": "T-Rexy says: The capital of South Africa is Pretoria.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -902,14 +902,14 @@
         "Lisbon",
         "Buenos Aires"
       ],
-      "explanation": "The capital of Ghana is Accra.",
+      "explanation": "Accra is Ghana's capital on the Gulf of Guinea coast. Black Star Square, with its giant black star arch, celebrates Ghana's 1957 independence - the first for a sub-Saharan African colony.",
       "memoryHook": "T-Rexy says: The capital of Ghana is Accra.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -922,7 +922,7 @@
         "Berlin",
         "Rabat"
       ],
-      "explanation": "The capital of South Korea is Seoul.",
+      "explanation": "Seoul is in the northwest of South Korea on the Han River, ringed by mountains. Gyeongbokgung Palace sits below Bugaksan mountain, and the N Seoul Tower stands on Namsan hill nearby.",
       "memoryHook": "T-Rexy says: The capital of South Korea is Seoul.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -942,14 +942,14 @@
         "Lisbon",
         "Canberra"
       ],
-      "explanation": "The capital of Mongolia is Ulaanbaatar.",
+      "explanation": "Ulaanbaatar spreads along the Tuul River in a valley in north-central Mongolia, surrounded by steppe. At about 1,350 meters elevation it is often called the world's coldest capital, and ger (yurt) districts ring its center.",
       "memoryHook": "T-Rexy says: The capital of Mongolia is Ulaanbaatar.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -962,14 +962,14 @@
         "Berlin",
         "Tehran"
       ],
-      "explanation": "The capital of Nepal is Kathmandu.",
+      "explanation": "Kathmandu fills a bowl-shaped valley in the Himalaya foothills of central Nepal. Its Durbar Square pagoda temples were built under the Malla kings, and the high Himalaya line the horizon on clear days.",
       "memoryHook": "T-Rexy says: The capital of Nepal is Kathmandu.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -982,14 +982,14 @@
         "Athens",
         "Quito"
       ],
-      "explanation": "The capital of Sri Lanka is Colombo.",
+      "explanation": "Colombo is Sri Lanka's largest city and executive and commercial capital on the island's west coast, with the Lotus Tower rising over Galle Face Green. The legislative capital, Sri Jayawardenepura Kotte, is a separate suburb nearby - a classic trick pairing.",
       "memoryHook": "T-Rexy says: The capital of Sri Lanka is Colombo.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1002,14 +1002,14 @@
         "Hanoi",
         "Kyiv"
       ],
-      "explanation": "The capital of Myanmar is Naypyidaw.",
+      "explanation": "Naypyidaw is a vast planned city in central Myanmar, built by the military government and made the capital in 2005, replacing Yangon. The golden Uppatasanti Pagoda and near-empty 20-lane boulevards are its signatures - most students have never heard of it, which is exactly why it is the trap answer for Myanmar.",
       "memoryHook": "T-Rexy says: The capital of Myanmar is Naypyidaw.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1022,14 +1022,14 @@
         "China",
         "Colombia"
       ],
-      "explanation": "Paris is the capital of France.",
+      "explanation": "Paris sits in north-central France on the River Seine. It is France's largest city and has been its political and cultural center for centuries - picture the Eiffel Tower and you are picturing Paris.",
       "memoryHook": "T-Rexy says: Paris belongs to France.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1042,14 +1042,14 @@
         "Indonesia",
         "Brazil"
       ],
-      "explanation": "Tokyo is the capital of Japan.",
+      "explanation": "Tokyo is on the Pacific coast of Honshu, Japan's biggest island. It grew from the shogun's castle town of Edo and is now the heart of the largest metropolitan area on Earth.",
       "memoryHook": "T-Rexy says: Tokyo belongs to Japan.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1062,14 +1062,14 @@
         "Sri Lanka",
         "Iraq"
       ],
-      "explanation": "Brasilia is the capital of Brazil.",
+      "explanation": "Brasilia was built from scratch in 1960 on Brazil's central plateau, moving the capital inland from Rio de Janeiro to develop the interior. Its modernist Congress buildings - two towers flanked by a dome and a bowl - are the giveaway.",
       "memoryHook": "T-Rexy says: Brasilia belongs to Brazil.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1082,7 +1082,7 @@
         "Peru",
         "Japan"
       ],
-      "explanation": "Ottawa is the capital of Canada.",
+      "explanation": "Ottawa sits in Ontario where the Ottawa River meets the Rideau Canal, right on the Quebec border. Queen Victoria picked it as a compromise between Toronto and Montreal, which is why Canada's capital is not its biggest city.",
       "memoryHook": "T-Rexy says: Ottawa belongs to Canada.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1102,7 +1102,7 @@
         "Pakistan",
         "Belgium"
       ],
-      "explanation": "Canberra is the capital of Australia.",
+      "explanation": "Canberra is a planned city in the Australian Capital Territory, created as a compromise because Sydney and Melbourne both wanted to be the capital. Sydney is bigger and more famous, but Parliament sits in Canberra on the shore of Lake Burley Griffin.",
       "memoryHook": "T-Rexy says: Canberra belongs to Australia.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1122,14 +1122,14 @@
         "Netherlands",
         "Italy"
       ],
-      "explanation": "Cairo is the capital of Egypt.",
+      "explanation": "Cairo stands on the Nile near where the river spreads into its delta, just northeast of the Giza pyramids. It is the largest city in the Arab world and has been Egypt's capital for over a thousand years.",
       "memoryHook": "T-Rexy says: Cairo belongs to Egypt.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1142,14 +1142,14 @@
         "Iran",
         "Iraq"
       ],
-      "explanation": "New Delhi is the capital of India.",
+      "explanation": "New Delhi is a planned district inside Delhi in northern India, built by the British in the early 1900s around India Gate and the presidential palace. Mumbai is India's financial hub, but New Delhi is the seat of government.",
       "memoryHook": "T-Rexy says: New Delhi belongs to India.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1162,14 +1162,14 @@
         "France",
         "Vietnam"
       ],
-      "explanation": "Beijing is the capital of China.",
+      "explanation": "Beijing is in northern China, not far south of the Great Wall. Its name means 'northern capital', and the Forbidden City palace complex sits at its center.",
       "memoryHook": "T-Rexy says: Beijing belongs to China.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1182,14 +1182,14 @@
         "Nigeria",
         "Germany"
       ],
-      "explanation": "Rome is the capital of Italy.",
+      "explanation": "Rome is in west-central Italy on the Tiber River. It was the center of the Roman Empire, and landmarks like the Colosseum and the Roman Forum make it one of the most recognizable capitals in the world.",
       "memoryHook": "T-Rexy says: Rome belongs to Italy.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1202,14 +1202,14 @@
         "Poland",
         "Turkey"
       ],
-      "explanation": "Madrid is the capital of Spain.",
+      "explanation": "Madrid sits almost exactly in the center of Spain on a high plateau, one reason it was chosen as the capital in 1561. Barcelona is a bigger port, but the king and the government are in Madrid.",
       "memoryHook": "T-Rexy says: Madrid belongs to Spain.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1222,14 +1222,14 @@
         "Mongolia",
         "Netherlands"
       ],
-      "explanation": "Berlin is the capital of Germany.",
+      "explanation": "Berlin is in northeastern Germany on the Spree River. It was divided by the Berlin Wall during the Cold War and became the capital of a reunified Germany in 1990.",
       "memoryHook": "T-Rexy says: Berlin belongs to Germany.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1242,14 +1242,14 @@
         "France",
         "Switzerland"
       ],
-      "explanation": "Mexico City is the capital of Mexico.",
+      "explanation": "Mexico City occupies a high valley in south-central Mexico, built on the ruins of Tenochtitlan, the Aztec capital. It is one of the largest Spanish-speaking cities in the world.",
       "memoryHook": "T-Rexy says: Mexico City belongs to Mexico.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1262,14 +1262,14 @@
         "Nepal",
         "Ethiopia"
       ],
-      "explanation": "Buenos Aires is the capital of Argentina.",
+      "explanation": "Buenos Aires faces the Rio de la Plata estuary on Argentina's east coast. Its name means 'fair winds', and its port made it the country's gateway for trade and immigration; the colorful La Boca district and the Obelisk are its landmarks.",
       "memoryHook": "T-Rexy says: Buenos Aires belongs to Argentina.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1282,14 +1282,14 @@
         "Iran",
         "Chile"
       ],
-      "explanation": "Nairobi is the capital of Kenya.",
+      "explanation": "Nairobi is in south-central Kenya at about 1,800 meters elevation, which keeps it cooler than the coast. It began as a railway depot and is famous for Nairobi National Park, where giraffes roam with the skyline behind them.",
       "memoryHook": "T-Rexy says: Nairobi belongs to Kenya.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1302,7 +1302,7 @@
         "Finland",
         "Spain"
       ],
-      "explanation": "Abuja is the capital of Nigeria.",
+      "explanation": "Abuja is a planned city near the geographic center of Nigeria, chosen to replace crowded coastal Lagos and made the capital in 1991. Aso Rock, a huge granite outcrop, towers over the city.",
       "memoryHook": "T-Rexy says: Abuja belongs to Nigeria.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1322,14 +1322,14 @@
         "Ecuador",
         "Sri Lanka"
       ],
-      "explanation": "Ankara is the capital of Turkey.",
+      "explanation": "Ankara is on the central Anatolian plateau. Ataturk made it the capital in 1923 because inland Ankara was safer and more central than Istanbul, the old imperial capital on the strait. His mausoleum, Anitkabir, crowns a hill above the city.",
       "memoryHook": "T-Rexy says: Ankara belongs to Turkey.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1342,14 +1342,14 @@
         "Thailand",
         "Mexico"
       ],
-      "explanation": "Tehran is the capital of Iran.",
+      "explanation": "Tehran spreads across the southern foothills of the snow-capped Alborz Mountains in northern Iran. The Milad Tower against that mountain backdrop is its signature view.",
       "memoryHook": "T-Rexy says: Tehran belongs to Iran.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1362,7 +1362,7 @@
         "Mongolia",
         "Morocco"
       ],
-      "explanation": "Baghdad is the capital of Iraq.",
+      "explanation": "Baghdad sits on the Tigris River in central Iraq. Founded in the 8th century as a perfectly round city, it was a center of learning during the Islamic Golden Age.",
       "memoryHook": "T-Rexy says: Baghdad belongs to Iraq.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1382,14 +1382,14 @@
         "Mongolia",
         "Turkey"
       ],
-      "explanation": "Bangkok is the capital of Thailand.",
+      "explanation": "Bangkok is on the Chao Phraya River near its mouth on the Gulf of Thailand. Its Grand Palace and temples like Wat Arun mark it out - it is both Thailand's capital and by far its largest city.",
       "memoryHook": "T-Rexy says: Bangkok belongs to Thailand.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1402,14 +1402,14 @@
         "Iraq",
         "Brazil"
       ],
-      "explanation": "Hanoi is the capital of Vietnam.",
+      "explanation": "Hanoi is in northern Vietnam on the Red River, and its Old Quarter surrounds Hoan Kiem Lake with its small Turtle Tower. Ho Chi Minh City (Saigon) in the south is bigger and more commercial, but Hanoi is the capital.",
       "memoryHook": "T-Rexy says: Hanoi belongs to Vietnam.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1422,14 +1422,14 @@
         "Vietnam",
         "India"
       ],
-      "explanation": "Jakarta is the capital of Indonesia.",
+      "explanation": "Jakarta is on the northwest coast of Java, Indonesia's most populous island, and the National Monument (Monas) rises over its center. Indonesia is building a new capital, Nusantara, on Borneo, but the transfer is not complete and Jakarta remains the capital.",
       "memoryHook": "T-Rexy says: Jakarta belongs to Indonesia.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1442,14 +1442,14 @@
         "Australia",
         "Canada"
       ],
-      "explanation": "Islamabad is the capital of Pakistan.",
+      "explanation": "Islamabad is a planned city at the foot of the Margalla Hills in northern Pakistan, built in the 1960s to replace Karachi as the capital. The Faisal Mosque, shaped like a giant tent, is its landmark.",
       "memoryHook": "T-Rexy says: Islamabad belongs to Pakistan.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1462,14 +1462,14 @@
         "Ethiopia",
         "Morocco"
       ],
-      "explanation": "Moscow is the capital of Russia.",
+      "explanation": "Moscow is in western Russia on the Moskva River. Red Square, the Kremlin walls, and the candy-colored domes of St Basil's Cathedral make it unmistakable - it is Russia's capital and largest city.",
       "memoryHook": "T-Rexy says: Moscow belongs to Russia.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1482,7 +1482,7 @@
         "Sweden",
         "Nigeria"
       ],
-      "explanation": "Kyiv is the capital of Ukraine.",
+      "explanation": "Kyiv stands on the Dnipro River in north-central Ukraine. One of the oldest cities in Eastern Europe, it is known for golden-domed churches like St Andrew's rising above the river.",
       "memoryHook": "T-Rexy says: Kyiv belongs to Ukraine.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1502,14 +1502,14 @@
         "Sweden",
         "Morocco"
       ],
-      "explanation": "Warsaw is the capital of Poland.",
+      "explanation": "Warsaw is on the Vistula River in east-central Poland. Almost completely rebuilt after World War II, its Old Town is a UNESCO site and the Royal Castle anchors the riverfront.",
       "memoryHook": "T-Rexy says: Warsaw belongs to Poland.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1522,7 +1522,7 @@
         "South Korea",
         "Iceland"
       ],
-      "explanation": "Athens is the capital of Greece.",
+      "explanation": "Athens is in southern Greece near the Aegean Sea, dominated by the Acropolis hill with the Parthenon on top. It was the birthplace of democracy over 2,500 years ago.",
       "memoryHook": "T-Rexy says: Athens belongs to Greece.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1542,7 +1542,7 @@
         "Turkey",
         "Thailand"
       ],
-      "explanation": "Lisbon is the capital of Portugal.",
+      "explanation": "Lisbon is built on hills where the Tagus River meets the Atlantic. Yellow trams climb its old Alfama streets below St George's Castle.",
       "memoryHook": "T-Rexy says: Lisbon belongs to Portugal.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1562,7 +1562,7 @@
         "Mongolia",
         "Canada"
       ],
-      "explanation": "Amsterdam is the capital of Netherlands.",
+      "explanation": "Amsterdam is the constitutional capital of the Netherlands, famous for its rings of canals and tall, narrow gabled houses. The Dutch government actually sits in The Hague, but Amsterdam keeps the capital title.",
       "memoryHook": "T-Rexy says: Amsterdam belongs to Netherlands.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1582,7 +1582,7 @@
         "Australia",
         "Vietnam"
       ],
-      "explanation": "Brussels is the capital of Belgium.",
+      "explanation": "Brussels is in central Belgium and hosts the headquarters of the European Union, which is why it is sometimes called the capital of Europe. Its Grand Place is ringed by ornate guildhalls.",
       "memoryHook": "T-Rexy says: Brussels belongs to Belgium.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1602,14 +1602,14 @@
         "India",
         "China"
       ],
-      "explanation": "Bern is the capital of Switzerland.",
+      "explanation": "Bern is Switzerland's de facto capital, picked in 1848 as a compromise between bigger rivals like Zurich and Geneva. Its medieval old town sits inside a tight loop of the Aare River and is a UNESCO site.",
       "memoryHook": "T-Rexy says: Bern belongs to Switzerland.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1622,14 +1622,14 @@
         "Norway",
         "Venezuela"
       ],
-      "explanation": "Stockholm is the capital of Sweden.",
+      "explanation": "Stockholm is spread across 14 islands where Lake Malaren meets the Baltic Sea. Its old town, Gamla Stan, holds the Royal Palace right on the waterfront.",
       "memoryHook": "T-Rexy says: Stockholm belongs to Sweden.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1642,7 +1642,7 @@
         "Brazil",
         "Venezuela"
       ],
-      "explanation": "Oslo is the capital of Norway.",
+      "explanation": "Oslo sits at the head of the Oslofjord in southern Norway. Its white, iceberg-shaped Opera House rises straight out of the harbor water.",
       "memoryHook": "T-Rexy says: Oslo belongs to Norway.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1662,7 +1662,7 @@
         "Kenya",
         "Venezuela"
       ],
-      "explanation": "Copenhagen is the capital of Denmark.",
+      "explanation": "Copenhagen is on the island of Zealand, facing Sweden across the Oresund strait. The colorful 17th-century townhouses of Nyhavn harbor are its postcard view.",
       "memoryHook": "T-Rexy says: Copenhagen belongs to Denmark.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1682,14 +1682,14 @@
         "Ukraine",
         "China"
       ],
-      "explanation": "Helsinki is the capital of Finland.",
+      "explanation": "Helsinki is a Baltic port on Finland's southern coast. The white Helsinki Cathedral with its green dome overlooks Senate Square and the harbor.",
       "memoryHook": "T-Rexy says: Helsinki belongs to Finland.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1702,7 +1702,7 @@
         "Sweden",
         "Iran"
       ],
-      "explanation": "Reykjavik is the capital of Iceland.",
+      "explanation": "Reykjavik, on Iceland's southwest coast, is the world's northernmost capital. The concrete Hallgrimskirkja church, shaped like basalt columns, towers over its colorful low-rise houses.",
       "memoryHook": "T-Rexy says: Reykjavik belongs to Iceland.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1722,14 +1722,14 @@
         "Italy",
         "South Africa"
       ],
-      "explanation": "Santiago is the capital of Chile.",
+      "explanation": "Santiago fills a valley in central Chile with the snow-capped Andes as its backdrop. The Gran Torre Santiago, the tallest building in South America, marks its skyline.",
       "memoryHook": "T-Rexy says: Santiago belongs to Chile.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1742,7 +1742,7 @@
         "Germany",
         "Pakistan"
       ],
-      "explanation": "Lima is the capital of Peru.",
+      "explanation": "Lima sits on cliffs above the Pacific coast in central Peru; it was founded by Francisco Pizarro in 1535. Its Miraflores district is famous for paragliders launching off the cliff-top parks.",
       "memoryHook": "T-Rexy says: Lima belongs to Peru.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1762,7 +1762,7 @@
         "Sri Lanka",
         "South Korea"
       ],
-      "explanation": "Bogota is the capital of Colombia.",
+      "explanation": "Bogota is high in the Andes at about 2,640 meters, making it one of the world's highest capitals. The sanctuary on Monserrate hill looks down over the whole city.",
       "memoryHook": "T-Rexy says: Bogota belongs to Colombia.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1782,14 +1782,14 @@
         "Chile",
         "Greece"
       ],
-      "explanation": "Caracas is the capital of Venezuela.",
+      "explanation": "Caracas lies in a long valley in northern Venezuela, walled off from the Caribbean coast by the green Avila mountain, which residents treat as the city's lungs.",
       "memoryHook": "T-Rexy says: Caracas belongs to Venezuela.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1802,7 +1802,7 @@
         "Norway",
         "Pakistan"
       ],
-      "explanation": "Quito is the capital of Ecuador.",
+      "explanation": "Quito is in the Andes of north-central Ecuador at about 2,850 meters, one of the highest capitals in the world. The winged Virgin statue on El Panecillo hill watches over its colonial old town.",
       "memoryHook": "T-Rexy says: Quito belongs to Ecuador.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1822,7 +1822,7 @@
         "Iraq",
         "Switzerland"
       ],
-      "explanation": "Rabat is the capital of Morocco.",
+      "explanation": "Rabat is on Morocco's Atlantic coast where the Bou Regreg River meets the sea, across from the old port of Sale. The unfinished Hassan Tower is its landmark; Casablanca is bigger, but Rabat is the capital.",
       "memoryHook": "T-Rexy says: Rabat belongs to Morocco.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1842,7 +1842,7 @@
         "Ecuador",
         "Spain"
       ],
-      "explanation": "Algiers is the capital of Algeria.",
+      "explanation": "Algiers curves around a bay on Algeria's Mediterranean coast, its whitewashed Casbah climbing the hillside - which is why it is nicknamed 'Algiers the White'.",
       "memoryHook": "T-Rexy says: Algiers belongs to Algeria.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -1862,14 +1862,14 @@
         "Japan",
         "Thailand"
       ],
-      "explanation": "Addis Ababa is the capital of Ethiopia.",
+      "explanation": "Addis Ababa is in Ethiopia's central highlands at about 2,355 meters, one of Africa's highest capitals. It also hosts the headquarters of the African Union.",
       "memoryHook": "T-Rexy says: Addis Ababa belongs to Ethiopia.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1882,14 +1882,14 @@
         "Mongolia",
         "Norway"
       ],
-      "explanation": "Pretoria is the capital of South Africa.",
+      "explanation": "Pretoria, in the Gauteng province, is South Africa's administrative capital - the president works from the Union Buildings there, and its streets turn purple with jacaranda blossoms every spring. South Africa splits its capitals: Cape Town holds Parliament and Bloemfontein the highest courts.",
       "memoryHook": "T-Rexy says: Pretoria belongs to South Africa.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1902,14 +1902,14 @@
         "Thailand",
         "Sri Lanka"
       ],
-      "explanation": "Accra is the capital of Ghana.",
+      "explanation": "Accra is Ghana's capital on the Gulf of Guinea coast. Black Star Square, with its giant black star arch, celebrates Ghana's 1957 independence - the first for a sub-Saharan African colony.",
       "memoryHook": "T-Rexy says: Accra belongs to Ghana.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1922,14 +1922,14 @@
         "Russia",
         "Italy"
       ],
-      "explanation": "Seoul is the capital of South Korea.",
+      "explanation": "Seoul is in the northwest of South Korea on the Han River, ringed by mountains. Gyeongbokgung Palace sits below Bugaksan mountain, and the N Seoul Tower stands on Namsan hill nearby.",
       "memoryHook": "T-Rexy says: Seoul belongs to South Korea.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1942,14 +1942,14 @@
         "Brazil",
         "Myanmar"
       ],
-      "explanation": "Ulaanbaatar is the capital of Mongolia.",
+      "explanation": "Ulaanbaatar spreads along the Tuul River in a valley in north-central Mongolia, surrounded by steppe. At about 1,350 meters elevation it is often called the world's coldest capital, and ger (yurt) districts ring its center.",
       "memoryHook": "T-Rexy says: Ulaanbaatar belongs to Mongolia.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1962,14 +1962,14 @@
         "Norway",
         "Netherlands"
       ],
-      "explanation": "Kathmandu is the capital of Nepal.",
+      "explanation": "Kathmandu fills a bowl-shaped valley in the Himalaya foothills of central Nepal. Its Durbar Square pagoda temples were built under the Malla kings, and the high Himalaya line the horizon on clear days.",
       "memoryHook": "T-Rexy says: Kathmandu belongs to Nepal.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1982,7 +1982,7 @@
         "Denmark",
         "Switzerland"
       ],
-      "explanation": "Colombo is the capital of Sri Lanka.",
+      "explanation": "Colombo is Sri Lanka's largest city and executive and commercial capital on the island's west coast, with the Lotus Tower rising over Galle Face Green. The legislative capital, Sri Jayawardenepura Kotte, is a separate suburb nearby - a classic trick pairing.",
       "memoryHook": "T-Rexy says: Colombo belongs to Sri Lanka.",
       "imageUrl": "topic:geography",
       "tags": [
@@ -2002,14 +2002,14 @@
         "Chile",
         "Portugal"
       ],
-      "explanation": "Naypyidaw is the capital of Myanmar.",
+      "explanation": "Naypyidaw is a vast planned city in central Myanmar, built by the military government and made the capital in 2005, replacing Yangon. The golden Uppatasanti Pagoda and near-empty 20-lane boulevards are its signatures - most students have never heard of it, which is exactly why it is the trap answer for Myanmar.",
       "memoryHook": "T-Rexy says: Naypyidaw belongs to Myanmar.",
       "imageUrl": "topic:geography",
       "tags": [
         "capitals",
         "countries"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     }
