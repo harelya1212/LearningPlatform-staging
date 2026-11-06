@@ -35,19 +35,19 @@
     },
     {
       "id": "HUG10_002",
-      "question": "What is the latitude of the equator?",
-      "correctAnswer": "0 degrees",
+      "question": "What does Christaller's central place theory explain?",
+      "correctAnswer": "How settlements of different sizes are distributed across a region and how each one provides goods and services to the area around it",
       "distractors": [
-        "90 degrees north",
-        "23.5 degrees south",
-        "180 degrees"
+        "How the boundaries of countries are drawn",
+        "Why some neighborhoods in a city are wealthier than others",
+        "How farmers choose which crops to plant each year"
       ],
-      "explanation": "Latitude measures distance north or south of the equator, so the equator itself sits at 0 degrees; parallels run up to 90 degrees at the poles.",
-      "memoryHook": "T-Rexy says: The equator is zero degrees.",
+      "explanation": "Walter Christaller proposed central place theory in 1933 to explain the size, number, and spacing of towns and cities. Large settlements offer many specialized services, while small settlements offer only basic ones, and together the settlements cover a region like a network of service centers.",
+      "memoryHook": "T-Rexy says: Central places serve the land around them - big towns offer more, small towns offer the basics.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
-        "geography",
-        "latitude"
+        "urban",
+        "central-place"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -55,19 +55,19 @@
     },
     {
       "id": "HUG10_003",
-      "question": "What is the longitude of the Prime Meridian?",
-      "correctAnswer": "0 degrees",
+      "question": "In central place theory, why are market areas usually drawn as hexagons instead of circles?",
+      "correctAnswer": "Hexagons tile a flat surface completely, leaving no gaps and no overlapping areas, unlike circles",
       "distractors": [
-        "90 degrees east",
-        "180 degrees",
-        "23.5 degrees"
+        "Hexagons match the shape of most town boundaries",
+        "Circles cannot be drawn on maps of flat regions",
+        "Hexagons make every trip to the center exactly the same distance"
       ],
-      "explanation": "The Prime Meridian runs through Greenwich, England at 0 degrees longitude.",
-      "memoryHook": "T-Rexy says: The Prime Meridian is zero degrees.",
+      "explanation": "Circles drawn around each central place either leave unserved gaps between them or overlap each other. Hexagons fit together edge to edge with no gaps and no overlaps while staying close to a circular shape, so geographers use them to show each settlement's market area.",
+      "memoryHook": "T-Rexy says: Bees know best - hexagons tile the floor with no gaps.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
-        "geography",
-        "longitude"
+        "urban",
+        "central-place"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -115,19 +115,19 @@
     },
     {
       "id": "HUG10_006",
-      "question": "What is a choropleth map?",
-      "correctAnswer": "A map that uses shading to show data by area",
+      "question": "A convenience store can survive in a village of 300 people, but a specialty heart hospital is found only in the region's largest city. How do the concepts of threshold and range explain this pattern?",
+      "correctAnswer": "The hospital has a high threshold - it needs a very large customer base to be profitable - and a large range, because patients will travel far for specialized care",
       "distractors": [
-        "A map that shows roads",
-        "A map that uses dots for data",
-        "A map that shows elevation only"
+        "The hospital has a low threshold and a short range, so it must be placed in as many towns as possible",
+        "Threshold is the maximum distance to a store, and range is the minimum number of customers it needs",
+        "Both services have the same threshold, and the hospital chose the city only for prestige"
       ],
-      "explanation": "Choropleth maps shade regions by a data value, like population density.",
-      "memoryHook": "T-Rexy says: Choropleth maps shade areas by value.",
+      "explanation": "Threshold is the minimum number of people needed to support a service, and range is the maximum distance people are willing to travel to reach it. Low-order goods like snacks have small thresholds and ranges, so they appear everywhere; high-order services like specialty surgery need huge thresholds and have long ranges, so they locate only in the largest central places.",
+      "memoryHook": "T-Rexy says: Snacks need a few neighbors; heart surgery needs a whole region - and patients will drive for it.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
-        "geography",
-        "maps"
+        "urban",
+        "central-place"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -135,19 +135,19 @@
     },
     {
       "id": "HUG10_007",
-      "question": "What is a dot density map?",
-      "correctAnswer": "A map that uses dots to show the distribution of a phenomenon",
+      "question": "A fast-growing metropolitan area has a traditional downtown, but its airport has attracted hotels, warehouses, and offices, and a large university across town anchors its own district of shops and apartments. Which urban model best explains this pattern?",
+      "correctAnswer": "The multiple nuclei model, because separate activity centers grew up around the airport and the university",
       "distractors": [
-        "A map that shows elevation",
-        "A map that uses colors for categories",
-        "A map that shows only borders"
+        "The concentric zone model, because the whole city is organized as rings around the downtown",
+        "The sector model, because growth follows one main highway out of the center",
+        "The von Thunen model, because land use forms rings based on transportation costs"
       ],
-      "explanation": "Each dot stands for a fixed number of people or things - for example, one dot might equal 10,000 residents - so clusters of dots show where settlement concentrates.",
-      "memoryHook": "T-Rexy says: One dot can stand for many people.",
+      "explanation": "In the multiple nuclei model, activities that benefit from clustering - and activities that repel each other, like heavy industry and expensive housing - produce several centers. An airport and a university are classic nuclei: each pulls in its own supporting businesses and housing, independent of the original CBD.",
+      "memoryHook": "T-Rexy says: Airports and universities are nuclei - each grows its own mini-city around it.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
-        "geography",
-        "maps"
+        "urban",
+        "models"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -415,19 +415,19 @@
     },
     {
       "id": "HUG10_021",
-      "question": "What is the rate of natural increase?",
-      "correctAnswer": "Birth rate minus death rate",
+      "question": "What does the epidemiologic transition model describe?",
+      "correctAnswer": "How the main causes of death in a population change over time, from infectious diseases toward chronic, degenerative diseases",
       "distractors": [
-        "Birth rate plus death rate",
-        "Death rate minus birth rate",
-        "Migration rate only"
+        "How birth rates respond to changes in tax policy",
+        "How languages spread from one region to another",
+        "How the number of farms in a country declines as it develops"
       ],
-      "explanation": "Natural increase is births minus deaths, ignoring migration.",
-      "memoryHook": "T-Rexy says: Natural increase is births minus deaths.",
+      "explanation": "Abdel Omran proposed in 1971 that as societies develop, death is caused less and less by epidemics and infections and more and more by long-term degenerative diseases such as heart disease and cancer. The epidemiologic transition is the health companion to the demographic transition: it explains changes in the death rate by cause, not just by level.",
+      "memoryHook": "T-Rexy says: First germs kill, later hearts and habits do - that is the epidemiologic shift.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
         "population",
-        "rates"
+        "epidemiologic-transition"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -555,19 +555,19 @@
     },
     {
       "id": "HUG10_028",
-      "question": "What does a wide base on a population pyramid mean?",
-      "correctAnswer": "A large share of young people and high birth rates",
+      "question": "In a preindustrial society, most deaths are caused by recurring epidemics, infectious diseases, and periodic famines, and life expectancy swings wildly from year to year. Which stage of the epidemiologic transition is this?",
+      "correctAnswer": "Stage 1, the age of pestilence and famine",
       "distractors": [
-        "An aging population",
-        "Low birth rates",
-        "A declining population"
+        "Stage 2, the age of receding pandemics",
+        "Stage 3, the age of degenerative and man-made diseases",
+        "Stage 4, the age of delayed degenerative diseases"
       ],
-      "explanation": "A wide base with a narrow top is called an expansive pyramid - typical of high-fertility countries in Stage 2 of the demographic transition.",
-      "memoryHook": "T-Rexy says: A wide base means lots of children.",
+      "explanation": "Omran's Stage 1 is defined by pestilence and famine: infectious and parasitic diseases dominate, and wars and food shortages make death rates high and unpredictable. Only in Stage 2 do sanitation, nutrition, and medicine push pandemics into retreat, shifting deaths toward the chronic diseases of Stages 3 and 4.",
+      "memoryHook": "T-Rexy says: Plagues and famines running the show means Stage 1 - pestilence and famine.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
         "population",
-        "pyramids"
+        "epidemiologic-transition"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -635,19 +635,19 @@
     },
     {
       "id": "HUG10_032",
-      "question": "What is the doubling time of a population?",
-      "correctAnswer": "The time it takes for a population to double in size",
+      "question": "In Stage 4 of the epidemiologic transition, the age of delayed degenerative diseases, why do death rates remain low even though heart disease and cancer are the leading causes of death?",
+      "correctAnswer": "Medical advances and healthier behavior delay the onset of these chronic diseases, so people develop them - and die from them - at much older ages",
       "distractors": [
-        "The time it takes to halve",
-        "The average lifespan",
-        "The time between censuses"
+        "Because infectious diseases return and replace chronic diseases entirely",
+        "Because chronic diseases have been completely eliminated",
+        "Because the population is so young that few people reach the age of risk"
       ],
-      "explanation": "Doubling time is how long a population takes to double at its current growth rate.",
-      "memoryHook": "T-Rexy says: Doubling time is how fast a population doubles.",
+      "explanation": "Stage 4 keeps the same leading killers as Stage 3 - cardiovascular disease and cancer - but postponed. Better treatment, screening, and changes such as reduced smoking push serious illness later into life, extending life expectancy. A proposed Stage 5, in which infectious diseases re-emerge, is a separate idea and is not what keeps Stage 4 death rates low.",
+      "memoryHook": "T-Rexy says: Stage 4 does not beat heart disease - it reschedules it to a much older age.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
         "population",
-        "growth"
+        "epidemiologic-transition"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -735,19 +735,19 @@
     },
     {
       "id": "HUG10_037",
-      "question": "What is the difference between immigration and emigration?",
-      "correctAnswer": "Immigration is moving into a place; emigration is moving out of a place",
+      "question": "What does Zelinsky's migration transition model connect?",
+      "correctAnswer": "It links the main types of migration in a country to that country's stage in the demographic transition",
       "distractors": [
-        "They are the same",
-        "Immigration is internal; emigration is international",
-        "Emigration is moving into a place"
+        "It links migration to the phases of the Moon",
+        "It links a migrant's income to the price of airline tickets",
+        "It links the direction of migration to the language spoken at the destination"
       ],
-      "explanation": "The same person is both: an emigrant leaving Mexico is an immigrant arriving in the United States - the word depends on which side of the move you stand.",
-      "memoryHook": "T-Rexy says: Immigration is in, emigration is out.",
+      "explanation": "Wilbur Zelinsky proposed in 1971 that migration patterns change in step with the demographic transition. A country in an early stage shows mostly rural-to-urban moves and emigration, while a country in a late stage shows mostly moves within and between cities, plus immigration from less developed countries.",
+      "memoryHook": "T-Rexy says: As a country moves through the DTM, its moving vans change direction too.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
         "migration",
-        "basics"
+        "zelinsky"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -875,19 +875,19 @@
     },
     {
       "id": "HUG10_044",
-      "question": "What is a remittance?",
-      "correctAnswer": "Money sent home by migrants to family in their country of origin",
+      "question": "A country is in Stage 2 of the demographic transition, with rapid population growth in the countryside. According to Zelinsky's migration transition, which migration pattern should dominate?",
+      "correctAnswer": "Massive rural-to-urban migration within the country, together with emigration to other countries in search of land and work",
       "distractors": [
-        "A tax on migration",
-        "A visa fee",
-        "A type of passport"
+        "Mostly retired people moving to quiet suburbs",
+        "Almost no migration of any kind, because families stay put",
+        "Mostly short daily commutes between suburbs of large cities"
       ],
-      "explanation": "Remittances are a lifeline for many economies - money sent home by migrants exceeds foreign aid worldwide and often pays for food, school, and housing.",
-      "memoryHook": "T-Rexy says: Remittances are money sent home.",
+      "explanation": "In Zelinsky's Stage 2, the same population explosion that defines DTM Stage 2 pushes people off crowded farmland. The model predicts a flood of rural-to-urban migration, colonization of frontier land, and heavy international emigration - the pattern seen in 1800s Europe and in many developing countries today.",
+      "memoryHook": "T-Rexy says: Stage 2 crowds the farm, so the moving vans roll to the city and the port.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
         "migration",
-        "remittances"
+        "zelinsky"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -895,19 +895,19 @@
     },
     {
       "id": "HUG10_045",
-      "question": "What is the largest migration flow in the world today?",
-      "correctAnswer": "Mexico to the United States",
+      "question": "In a wealthy country in Stage 4 of the demographic transition, Zelinsky's model predicts that most movement will consist of what?",
+      "correctAnswer": "Moves within and between cities, immigration of workers from less developed countries, and a great deal of short-term circulation such as commuting",
       "distractors": [
-        "Syria to Turkey",
-        "India to the UAE",
-        "China to the US"
+        "Colonization of empty farmland by rural families",
+        "Mass emigration of the country's own citizens to poorer countries in search of farm work",
+        "Permanent one-way migration from villages to a single primate city"
       ],
-      "explanation": "Corridors are counted between country pairs; Mexico-US leads because about 11 million Mexican-born people live in the United States, more than any other single pairing.",
-      "memoryHook": "T-Rexy says: Mexico to the US is the largest migration flow.",
+      "explanation": "By Stage 4 urbanization is nearly complete, so rural-to-urban migration fades. Zelinsky predicted that movement becomes dominated by intraurban and interurban moves, by immigration that fills labor shortages, and by circulation - repetitive, temporary movement like commuting, business travel, and seasonal trips - rather than permanent relocation.",
+      "memoryHook": "T-Rexy says: Late-stage movers swap suburbs and commute - they circulate more than they relocate.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
         "migration",
-        "flows"
+        "zelinsky"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -935,19 +935,19 @@
     },
     {
       "id": "HUG10_047",
-      "question": "What is forced migration?",
-      "correctAnswer": "Migration caused by war, persecution, or disaster, not by choice",
+      "question": "What does the gravity model predict about interaction between two places, such as migration or trade flows?",
+      "correctAnswer": "Interaction increases as the populations of the two places increase, and decreases as the distance between them increases",
       "distractors": [
-        "Migration for a better job",
-        "Migration for education",
-        "Migration for retirement"
+        "Interaction depends only on whether the two places share a language",
+        "Interaction is the same between all pairs of places, regardless of size or distance",
+        "Interaction increases as distance increases, because distant places are more exotic"
       ],
-      "explanation": "Forced migrants are also called involuntary migrants - unlike voluntary migrants weighing push and pull factors, they leave because staying has become dangerous.",
-      "memoryHook": "T-Rexy says: Forced migration is fleeing, not choosing.",
+      "explanation": "Borrowed from Newton's law of gravitation, the gravity model treats places like masses: big places exert a stronger pull on each other, while distance creates friction that weakens the flow. Geographers use it to estimate migration streams, trade, phone calls, and shopping trips between cities.",
+      "memoryHook": "T-Rexy says: Big places pull hard, far places pull weakly - just like planets.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
         "migration",
-        "forced"
+        "gravity-model"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -955,19 +955,19 @@
     },
     {
       "id": "HUG10_048",
-      "question": "What is a guest worker?",
-      "correctAnswer": "A foreign worker allowed in temporarily to fill labor shortages",
+      "question": "City A has 2 million people and is 50 kilometers from a town. City B has 200,000 people and is 300 kilometers from the same town. According to the gravity model, which city will have stronger migration and shopping flows with the town?",
+      "correctAnswer": "City A, because its much larger population and much shorter distance both strengthen the interaction",
       "distractors": [
-        "A permanent immigrant",
-        "A refugee",
-        "A tourist"
+        "City B, because people prefer longer trips for shopping",
+        "The flows will be equal, because both cities are in the same country",
+        "Neither, because the gravity model applies only to trade between countries"
       ],
-      "explanation": "Guest workers are admitted for a limited time to work, often in agriculture or construction.",
-      "memoryHook": "T-Rexy says: Guest workers come to work for a while.",
+      "explanation": "Both variables point the same way: City A is ten times larger, which multiplies its pull, and six times closer, which sharply reduces the friction of distance. Gravity model predictions grow with population and shrink with distance (often distance squared), so City A's expected flow with the town is far larger.",
+      "memoryHook": "T-Rexy says: Ten times the people and one-sixth the trip - City A wins the pull contest easily.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
         "migration",
-        "guest-workers"
+        "gravity-model"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -995,19 +995,19 @@
     },
     {
       "id": "HUG10_050",
-      "question": "What is step migration?",
-      "correctAnswer": "Moving in stages, from a village to a town to a city",
+      "question": "A town lies 20 km from City A (population 1,000,000) and 10 km from Town B (population 90,000). Using the gravity model formula, interaction = population divided by distance squared, which place should the town interact with more?",
+      "correctAnswer": "City A: 1,000,000 / 400 = 2,500, which is greater than Town B's 90,000 / 100 = 900",
       "distractors": [
-        "Moving directly to a far city",
-        "Moving back home",
-        "Moving across a border"
+        "Town B: 90,000 / 100 = 900, which is greater than City A's 1,000,000 / 400 = 250",
+        "They are exactly equal, because the town is close to both places",
+        "Town B, because in the gravity model distance is the only variable that matters"
       ],
-      "explanation": "Ravenstein described this ladder: each short move upward - village, town, city - is easier than one long jump, and many migrants pause at each rung.",
-      "memoryHook": "T-Rexy says: Step migration is moving in stages.",
+      "explanation": "Work the formula for both places: City A gives 1,000,000 divided by 20 squared (400), which is 2,500. Town B gives 90,000 divided by 10 squared (100), which is 900. City A's population advantage more than overcomes its greater distance, so the model predicts stronger flows to City A - which is why big cities draw shoppers and migrants past smaller, nearer towns.",
+      "memoryHook": "T-Rexy says: Do the division - a million people can out-pull half the distance.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
         "migration",
-        "step"
+        "gravity-model"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1075,19 +1075,19 @@
     },
     {
       "id": "HUG10_054",
-      "question": "What is relocation diffusion?",
-      "correctAnswer": "Diffusion through the physical movement of people",
+      "question": "In Weber's least-cost theory of industrial location, what is the most important factor a factory owner considers?",
+      "correctAnswer": "Transportation costs - the total cost of hauling raw materials to the factory and finished products to market",
       "distractors": [
-        "Diffusion through media",
-        "Diffusion through trade only",
-        "Diffusion that spreads outward"
+        "The cost of advertising in the nearest large city",
+        "The distance to the owner's home",
+        "The price of land, which always outweighs every other cost"
       ],
-      "explanation": "Relocation diffusion explains why languages, religions, and foods appear in new lands - Spanish in Mexico and pizza in New York arrived in migrants' baggage.",
-      "memoryHook": "T-Rexy says: Relocation diffusion moves with people.",
+      "explanation": "Alfred Weber argued that an industry locates where total costs are lowest, and he treated transportation cost as the dominant cost because it depends directly on distance and weight. Labor costs and agglomeration (clustering with related firms) can pull a factory away from the cheapest-transport site, but only when those savings beat the extra transport cost.",
+      "memoryHook": "T-Rexy says: Weber counts the hauling bill first - weight times distance runs the factory map.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
-        "culture",
-        "diffusion"
+        "industry",
+        "weber"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1235,19 +1235,19 @@
     },
     {
       "id": "HUG10_062",
-      "question": "What is a pidgin language?",
-      "correctAnswer": "A simplified language that develops for trade between groups",
+      "question": "Soft-drink syrup is shipped in concentrated form, but the bottled drink sold to customers is mostly water and weighs far more than the syrup. Where do bottling plants tend to locate, and why?",
+      "correctAnswer": "Near their markets, because bottling is a weight-gaining process and shipping the heavier finished drink is the expensive leg",
       "distractors": [
-        "A formal language",
-        "A dead language",
-        "A language with no grammar"
+        "Near the syrup factory, because raw materials always determine factory location",
+        "In rural areas with the cheapest land, because transport costs do not matter for drinks",
+        "Near the sugar plantations, because sugar is the bulkiest ingredient in the drink"
       ],
-      "explanation": "A pidgin has no native speakers; when children grow up speaking it, it expands into a full creole language, like Haitian Creole.",
-      "memoryHook": "T-Rexy says: A pidgin is a simple trade language.",
+      "explanation": "Bottling adds a ubiquitous input - water, available almost everywhere - to a small amount of syrup, so the finished product is bulkier and heavier than the inputs. Weber's model calls this a bulk-gaining industry: the cheapest transport strategy is to ship the light concentrate and do the heavy step beside the customers.",
+      "memoryHook": "T-Rexy says: Add the water at the customer's end - never pay to ship water across the country.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
-        "culture",
-        "language"
+        "industry",
+        "weber"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1255,19 +1255,19 @@
     },
     {
       "id": "HUG10_063",
-      "question": "What is cultural appropriation?",
-      "correctAnswer": "Taking elements of another culture without understanding or respect",
+      "question": "A copper smelter processes 10 tons of ore to produce only 2 tons of refined copper. According to Weber's theory, where should the smelter be located, and why?",
+      "correctAnswer": "Near the copper mine, because smelting is a weight-losing process and it is cheaper to ship the lighter finished metal than the heavy ore",
       "distractors": [
-        "Sharing culture respectfully",
-        "Learning a new language",
-        "Adopting a new religion"
+        "Near the largest market city, because finished products always cost more to transport",
+        "Halfway between the mine and the market, so both trips are equal",
+        "Next to a port, because all industries must locate on the coast"
       ],
-      "explanation": "The line is power and consent: borrowing with credit and context is exchange, but profiting from a minority culture's symbols while its own members are mocked for them is appropriation.",
-      "memoryHook": "T-Rexy says: Appropriation takes without respect.",
+      "explanation": "Weber called industries that lose weight during production bulk-reducing or weight-losing. Because the raw material is much heavier than the finished product, every kilometer of hauling ore costs more than hauling copper, so the least-cost site is pulled toward the raw material source.",
+      "memoryHook": "T-Rexy says: If it shrinks in the oven, build the oven by the mine.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
-        "culture",
-        "appropriation"
+        "industry",
+        "weber"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1355,19 +1355,19 @@
     },
     {
       "id": "HUG10_068",
-      "question": "What is a nation?",
-      "correctAnswer": "A group of people with a shared culture, history, and identity",
+      "question": "In world-systems theory, what is the typical economic role of a peripheral country?",
+      "correctAnswer": "It exports unprocessed raw materials and agricultural goods and provides cheap labor, while importing expensive manufactured goods from the core",
       "distractors": [
-        "A country with a government",
-        "A city",
-        "A province"
+        "It controls most of the world's banks and high-technology firms",
+        "It manufactures finished goods for the core using raw materials imported from the core",
+        "It trades only with other peripheral countries and never with the core"
       ],
-      "explanation": "A nation is a people united by culture and identity, not necessarily a state.",
-      "memoryHook": "T-Rexy says: A nation is a people, not a government.",
+      "explanation": "Wallerstein held that the periphery is kept in a dependent position: its farms and mines ship out low-value raw materials, its workers earn low wages, and profits flow to core firms that sell back high-value finished goods. The semi-periphery both exploits the periphery and is exploited by the core, which helps stabilize the system.",
+      "memoryHook": "T-Rexy says: The periphery ships out beans and buys back chocolate - the profit sails to the core.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
-        "political",
-        "nation"
+        "development",
+        "wallerstein"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1455,19 +1455,19 @@
     },
     {
       "id": "HUG10_073",
-      "question": "What is a frontier?",
-      "correctAnswer": "A zone where no state has clear control",
+      "question": "A country exports almost all of its coffee as unprocessed green beans and its minerals as raw ore, while importing machinery, electronics, and packaged foods at high prices. Foreign companies own most of its mines. How would Wallerstein classify this country?",
+      "correctAnswer": "As part of the periphery, because it supplies raw materials and cheap labor while wealth flows outward to the core",
       "distractors": [
-        "A border wall",
-        "A capital city",
-        "A trade zone"
+        "As part of the core, because it trades with many countries",
+        "As part of the semi-periphery, because it has both mines and farms",
+        "As outside the world system, because it grows its own food"
       ],
-      "explanation": "A frontier is a sparsely settled zone beyond firm state control.",
-      "memoryHook": "T-Rexy says: A frontier is an uncontrolled zone.",
+      "explanation": "The classification depends on a country's role, not its size or how much it trades. Exporting low-value raw materials, importing high-value manufactures, and hosting foreign-owned extraction are the classic marks of the periphery; a semi-peripheral country would also carry out substantial manufacturing of its own, which this country does not.",
+      "memoryHook": "T-Rexy says: Raw out, expensive in, profits gone - that is the periphery pattern.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
-        "political",
-        "borders"
+        "development",
+        "wallerstein"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1535,19 +1535,19 @@
     },
     {
       "id": "HUG10_077",
-      "question": "What is NATO?",
-      "correctAnswer": "A military alliance of North American and European countries",
+      "question": "According to Wallerstein's world-systems theory, the world economy is divided into which three types of regions?",
+      "correctAnswer": "The core, the semi-periphery, and the periphery",
       "distractors": [
-        "A trade union",
-        "A European-only alliance",
-        "A UN agency"
+        "The First World, the Second World, and the Third World",
+        "The developed, the developing, and the underdeveloped continents",
+        "The northern hemisphere, the tropics, and the southern hemisphere"
       ],
-      "explanation": "NATO is a defensive military alliance founded in 1949.",
-      "memoryHook": "T-Rexy says: NATO is a defensive alliance.",
+      "explanation": "Immanuel Wallerstein argued that since about the 1500s a single capitalist world-economy has linked regions in unequal roles. Wealthy core states dominate high-profit manufacturing and finance, the periphery supplies cheap labor and raw materials, and the semi-periphery sits in between - partly industrialized but still dependent on the core.",
+      "memoryHook": "T-Rexy says: Core calls the shots, periphery digs the mines, semi-periphery stands in the middle.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
-        "political",
-        "nato"
+        "development",
+        "wallerstein"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1595,19 +1595,19 @@
     },
     {
       "id": "HUG10_080",
-      "question": "What is devolution?",
-      "correctAnswer": "The transfer of power from a central government to regional governments",
+      "question": "A country's investment rate has jumped sharply, new manufacturing industries are growing rapidly, and modern methods are spreading from cities into the wider economy, although most workers still farm. In Rostow's model, which stage is this country entering?",
+      "correctAnswer": "Stage 3, the take-off",
       "distractors": [
-        "The centralization of power",
-        "The end of a state",
-        "The creation of a new state"
+        "Stage 1, the traditional society",
+        "Stage 4, the drive to maturity",
+        "Stage 5, the age of high mass consumption"
       ],
-      "explanation": "Devolution gives regions more self-rule, as in the UK's devolution to Scotland.",
-      "memoryHook": "T-Rexy says: Devolution moves power downward.",
+      "explanation": "Take-off is Rostow's brief, decisive stage: investment rises to roughly 10 percent or more of national income, a few leading manufacturing sectors expand fast, and modern economic practices begin to spread. In Stage 4 those industries diversify across the whole economy, and Stage 5 comes only when mass consumer goods dominate - neither matches a country where most workers still farm.",
+      "memoryHook": "T-Rexy says: Investment jumps, factories sprout - that is the take-off runway moment.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
-        "political",
-        "devolution"
+        "development",
+        "rostow"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1775,19 +1775,19 @@
     },
     {
       "id": "HUG10_089",
-      "question": "What is the largest city in the world by population?",
-      "correctAnswer": "Tokyo",
+      "question": "What does the multiple nuclei model say about how a city grows?",
+      "correctAnswer": "The city develops around several separate centers, such as an airport district or a university district, instead of growing outward from one single downtown",
       "distractors": [
-        "Delhi",
-        "Shanghai",
-        "Sao Paulo"
+        "The city grows in rings around one central business district",
+        "The city grows in wedge-shaped sectors along transportation routes",
+        "The city grows only after a single port or factory is built at its edge"
       ],
-      "explanation": "Tokyo is the world's largest metropolitan area, with about 37 million people.",
-      "memoryHook": "T-Rexy says: Tokyo is the world's largest city.",
+      "explanation": "Harris and Ullman proposed in 1945 that large cities have many focal points. Airports, universities, ports, and suburban business districts each attract their own cluster of homes and services, so the city ends up with several 'nuclei' rather than one center that explains everything.",
+      "memoryHook": "T-Rexy says: Multiple nuclei means many centers, not one - think several downtowns inside one city.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
         "urban",
-        "cities"
+        "models"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1895,19 +1895,19 @@
     },
     {
       "id": "HUG10_095",
-      "question": "What is a primate city?",
-      "correctAnswer": "A city much larger than any other in its country",
+      "question": "According to Harris and Ullman, why do multiple centers develop in large cities instead of one center dominating?",
+      "correctAnswer": "Some activities naturally cluster together while others repel each other, and specialized facilities such as ports need particular sites, so distinct nodes form",
       "distractors": [
-        "The capital of a country",
-        "A city with a port",
-        "A city with a university"
+        "Because the government zones every city into exactly nine districts",
+        "Because land values always decline at the same rate in every direction from downtown",
+        "Because businesses are required by law to locate next to their competitors"
       ],
-      "explanation": "A primate city, like Bangkok, dominates its country's urban system.",
-      "memoryHook": "T-Rexy says: Bangkok is Thailand's primate city.",
+      "explanation": "Harris and Ullman argued that certain activities require specialized facilities (a port needs deep water), similar activities attract each other (retail districts), and incompatible activities repel each other (heavy industry versus high-income housing). Combined with the automobile, these forces create several nuclei rather than one controlling center.",
+      "memoryHook": "T-Rexy says: Likes attract, opposites repel - that tug-of-war builds the nuclei.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
         "urban",
-        "primate-city"
+        "models"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1935,19 +1935,19 @@
     },
     {
       "id": "HUG10_097",
-      "question": "What is GDP per capita?",
-      "correctAnswer": "The total economic output divided by the population",
+      "question": "What does Rostow's stages of development model claim about how countries develop economically?",
+      "correctAnswer": "Every country passes through the same five stages, from a traditional society to an age of high mass consumption",
       "distractors": [
-        "Total GDP only",
-        "Income of the richest people",
-        "Government spending only"
+        "Countries hold fixed positions as core or periphery that can never change",
+        "Development depends only on how much foreign aid a country receives",
+        "Countries move directly from farming to services without industrializing"
       ],
-      "explanation": "Per capita means per person: dividing by population lets a small rich country like Luxembourg outrank a giant economy like China in average output.",
-      "memoryHook": "T-Rexy says: GDP per capita is output per person.",
+      "explanation": "W. W. Rostow proposed in 1960 that economies advance through five stages: traditional society, preconditions for take-off, take-off, drive to maturity, and the age of high mass consumption. In his model, investment and manufacturing spark the take-off, and mature economies eventually shift toward consumer goods and services.",
+      "memoryHook": "T-Rexy says: Rostow's ladder has five rungs - every country climbs from farming to mass consumption.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
         "development",
-        "gdp"
+        "rostow"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1975,19 +1975,19 @@
     },
     {
       "id": "HUG10_099",
-      "question": "What is a maquiladora?",
-      "correctAnswer": "A factory in Mexico near the US border that assembles goods for export",
+      "question": "What is a major criticism geographers make of Rostow's stages of development model?",
+      "correctAnswer": "It assumes every country must follow the same path taken by Western Europe and North America, ignoring different histories, cultures, and positions in the world economy",
       "distractors": [
-        "A farm in Mexico",
-        "A mine in Mexico",
-        "A tourist resort"
+        "It has too many stages for students to memorize",
+        "It claims that poor countries can never develop at all",
+        "It was based only on the economy of one small island country"
       ],
-      "explanation": "Maquiladoras import parts duty-free, assemble them with lower-cost Mexican labor, and ship finished goods back - mostly to the US market, just across the border.",
-      "memoryHook": "T-Rexy says: Maquiladoras assemble goods for export.",
+      "explanation": "Rostow built his stages from the experience of Britain and the United States and presented them as a universal ladder. Critics - including dependency and world-systems theorists - argue that colonies and peripheral countries face obstacles the early industrializers never faced, so a single Western path cannot explain or predict development everywhere.",
+      "memoryHook": "T-Rexy says: One ladder does not fit every country - Rostow drew his from the West.",
       "imageUrl": "topic:ap-human-geography",
       "tags": [
         "development",
-        "maquiladoras"
+        "rostow"
       ],
       "difficulty": "hard",
       "dynamic": false,
