@@ -22,14 +22,14 @@
         "The molecule",
         "The organ"
       ],
-      "explanation": "All living things are made of cells, the smallest unit of life.",
+      "explanation": "Every living thing - from a bacterium to a whale - is built from cells, and every life process happens inside cells or between them.",
       "memoryHook": "T-Rexy says: Cells are the building blocks of life.",
       "imageUrl": "topic:biology",
       "tags": [
         "cells",
         "basics"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -162,7 +162,7 @@
         "It stores water",
         "It copies DNA"
       ],
-      "explanation": "The Golgi apparatus processes proteins and ships them where they are needed.",
+      "explanation": "The Golgi receives newly made proteins from the ER in small vesicles, adds finishing touches such as sugar tags, then sorts and ships them to their destinations.",
       "memoryHook": "T-Rexy says: The Golgi is the cell's post office.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -202,7 +202,7 @@
         "Serum",
         "Lymph"
       ],
-      "explanation": "Cytoplasm is the jelly-like fluid where organelles sit and reactions occur.",
+      "explanation": "Cytoplasm is a gel of water, salts, and proteins; its watery part, the cytosol, is where many of the cell's chemical reactions take place.",
       "memoryHook": "T-Rexy says: Cytoplasm is the cell's jelly.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -222,7 +222,7 @@
         "The mitochondria",
         "The cell membrane"
       ],
-      "explanation": "Plant cells have a rigid cell wall of cellulose; animal cells do not.",
+      "explanation": "The cell wall lies outside the membrane and is woven from cellulose fibers, giving plant cells a fixed shape and extra protection that animal cells do not have.",
       "memoryHook": "T-Rexy says: Plant cells wear a stiff wall; animal cells do not.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -242,7 +242,7 @@
         "To store calcium",
         "To break down toxins"
       ],
-      "explanation": "The rough ER, studded with ribosomes, helps make and fold proteins.",
+      "explanation": "Ribosomes on its surface start building proteins, and those proteins pass into the rough ER, where they are folded into their working shapes.",
       "memoryHook": "T-Rexy says: Rough ER is rough because ribosomes stud it.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -262,7 +262,7 @@
         "The division of a cell",
         "The making of proteins"
       ],
-      "explanation": "Osmosis is the diffusion of water across a selectively permeable membrane.",
+      "explanation": "Water moves through the membrane toward the side with more dissolved solute, evening out concentrations without the cell spending any energy.",
       "memoryHook": "T-Rexy says: Water follows the salt in osmosis.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -342,7 +342,7 @@
         "Only animals have cells",
         "Cells are made of atoms only"
       ],
-      "explanation": "Cell theory states that all living things are made of cells and new cells arise from existing cells.",
+      "explanation": "Cell theory has three parts: the cell is the basic unit of life, all living things are made of one or more cells, and all cells arise from pre-existing cells.",
       "memoryHook": "T-Rexy says: Every cell comes from another cell.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -362,7 +362,7 @@
         "The nucleus",
         "The ribosome"
       ],
-      "explanation": "The large central vacuole stores water and helps keep the plant cell firm.",
+      "explanation": "When the central vacuole fills with water, it presses the cell contents against the wall; this turgor pressure is what keeps stems and leaves standing upright.",
       "memoryHook": "T-Rexy says: The vacuole is a plant cell's water tank.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -382,7 +382,7 @@
         "Movement against a gradient",
         "Movement requiring ATP"
       ],
-      "explanation": "Diffusion is passive movement down a concentration gradient until evenly spread.",
+      "explanation": "Diffusion needs no energy: constant random motion spreads particles from where they are crowded to where they are sparse, which is how oxygen crosses into the blood in the lungs.",
       "memoryHook": "T-Rexy says: Diffusion spreads things from crowded to empty.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -422,14 +422,14 @@
         "Bacterial cells",
         "All cells"
       ],
-      "explanation": "Eukaryotic cells have a membrane-bound nucleus; prokaryotic cells do not.",
+      "explanation": "Only eukaryotic cells keep their DNA inside a membrane-bound nucleus; bacteria and archaea are prokaryotic and have no nucleus at all.",
       "memoryHook": "T-Rexy says: Eukaryotic means true nucleus.",
       "imageUrl": "topic:biology",
       "tags": [
         "cells",
         "types"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -442,7 +442,7 @@
         "To store DNA",
         "To produce ATP"
       ],
-      "explanation": "The smooth ER makes lipids and helps break down drugs and poisons.",
+      "explanation": "With no ribosomes on its surface, the smooth ER builds lipids and steroid hormones and neutralizes alcohol and other toxins, especially in liver cells.",
       "memoryHook": "T-Rexy says: Smooth ER makes fats and cleans up toxins.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -522,7 +522,7 @@
         "A chromosome pair",
         "A protein that copies DNA"
       ],
-      "explanation": "A gene is a DNA sequence that carries instructions for making a protein.",
+      "explanation": "Most genes spell out the amino-acid sequence of one protein, and switching a gene on or off changes what a cell is able to do.",
       "memoryHook": "T-Rexy says: A gene is a recipe for one protein.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -542,14 +542,14 @@
         "44",
         "48"
       ],
-      "explanation": "Human somatic cells have 46 chromosomes, in 23 pairs.",
+      "explanation": "Human body cells are diploid: 23 chromosomes come from each parent, giving 46 in 23 homologous pairs; gametes carry only 23.",
       "memoryHook": "T-Rexy says: Humans have 46 chromosomes.",
       "imageUrl": "topic:biology",
       "tags": [
         "genetics",
         "chromosomes"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -562,7 +562,7 @@
         "Alanine, thymine, cytosine, guanine",
         "Adenine, thymine, cytosine, glucose"
       ],
-      "explanation": "DNA uses A, T, C, and G; A pairs with T and C pairs with G.",
+      "explanation": "The DNA bases are adenine, thymine, cytosine, and guanine; RNA uses the same set except that uracil replaces thymine.",
       "memoryHook": "T-Rexy says: A pairs with T, C pairs with G.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -582,7 +582,7 @@
         "Dinucleic acid",
         "Deoxyribonucleic amino acid"
       ],
-      "explanation": "DNA stands for deoxyribonucleic acid.",
+      "explanation": "The name describes the molecule itself: a nucleic acid built from the sugar deoxyribose, phosphate groups, and nitrogen bases.",
       "memoryHook": "T-Rexy says: DNA is deoxyribonucleic acid.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -602,7 +602,7 @@
         "Guanine",
         "Uracil"
       ],
-      "explanation": "Base pairing rules: A with T, and C with G.",
+      "explanation": "Base pairing is fixed by hydrogen bonds: adenine always bonds with thymine, and cytosine always bonds with guanine.",
       "memoryHook": "T-Rexy says: A always hugs T.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -622,7 +622,7 @@
         "A triple helix",
         "A flat sheet"
       ],
-      "explanation": "DNA is two strands twisted into a double helix.",
+      "explanation": "A DNA molecule is two strands wound around each other like a twisted ladder, with sugar-phosphate rails and base-pair rungs.",
       "memoryHook": "T-Rexy says: DNA twists like a ladder into a helix.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -662,7 +662,7 @@
         "aa",
         "A"
       ],
-      "explanation": "Heterozygous means two different alleles: Aa.",
+      "explanation": "Heterozygous means the two alleles differ - one dominant (written with a capital A) and one recessive (lowercase a); AA and aa are homozygous instead.",
       "memoryHook": "T-Rexy says: Hetero means different, so Aa.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -689,7 +689,7 @@
         "genetics",
         "punnett"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -742,7 +742,7 @@
         "A protein that repairs DNA",
         "A chromosome pair"
       ],
-      "explanation": "A mutation is a change in the base sequence of DNA.",
+      "explanation": "Mutations range from a single swapped base to whole missing segments, and a changed sequence can change the protein a gene builds.",
       "memoryHook": "T-Rexy says: A mutation is a typo in the DNA.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -782,7 +782,7 @@
         "Cytosine",
         "Guanine"
       ],
-      "explanation": "RNA uses uracil (U) instead of thymine (T).",
+      "explanation": "In RNA, uracil takes thymine's place and pairs with adenine, exactly as thymine does in DNA.",
       "memoryHook": "T-Rexy says: RNA swaps T for U.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -802,7 +802,7 @@
         "The copying of DNA",
         "The fusion of two gametes"
       ],
-      "explanation": "Meiosis makes sex cells with half the chromosome number.",
+      "explanation": "Meiosis uses two divisions to turn one diploid cell into four haploid gametes, each carrying half the usual chromosome number.",
       "memoryHook": "T-Rexy says: Meiosis halves the chromosomes for sex cells.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -822,7 +822,7 @@
         "The death of a cell",
         "The fusion of egg and sperm"
       ],
-      "explanation": "Mitosis produces two genetically identical daughter cells for growth and repair.",
+      "explanation": "Mitosis uses a single division to turn one cell into two daughter cells, each keeping the full set of 46 chromosomes.",
       "memoryHook": "T-Rexy says: Mitosis copies cells for growth and repair.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -842,7 +842,7 @@
         "A trait that skips generations",
         "A trait with two alleles"
       ],
-      "explanation": "Sex-linked traits are carried on the X or Y chromosome, such as color blindness.",
+      "explanation": "Because the gene sits on a sex chromosome, inheritance follows sex: males, who have only one X chromosome, show X-linked recessive traits such as color blindness far more often.",
       "memoryHook": "T-Rexy says: Color blindness rides on the X chromosome.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -862,7 +862,7 @@
         "The number of chromosomes",
         "The order of genes on a chromosome"
       ],
-      "explanation": "A Punnett square predicts the possible allele combinations in offspring.",
+      "explanation": "Each parent supplies one allele to the boxes, so a Punnett square gives the genotype ratios to expect in offspring - probabilities, not guarantees.",
       "memoryHook": "T-Rexy says: A Punnett square predicts the possible kids.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -922,7 +922,7 @@
         "Translation",
         "Mutation"
       ],
-      "explanation": "Replication copies the DNA molecule before cell division.",
+      "explanation": "In replication, enzymes unwind the double helix and build a new matching strand on each old strand, producing two identical DNA molecules.",
       "memoryHook": "T-Rexy says: Replication copies DNA.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -942,7 +942,7 @@
         "Copying DNA into DNA",
         "Joining amino acids"
       ],
-      "explanation": "Transcription makes an RNA copy of a gene's DNA sequence.",
+      "explanation": "In transcription, the enzyme RNA polymerase reads one strand of a gene's DNA and assembles a matching messenger RNA copy.",
       "memoryHook": "T-Rexy says: Transcription writes DNA into RNA.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -982,7 +982,7 @@
         "A type of ribosome",
         "A chromosome segment"
       ],
-      "explanation": "Each codon of three mRNA bases specifies one amino acid.",
+      "explanation": "The ribosome reads mRNA three bases at a time, and each codon matches a transfer RNA carrying one specific amino acid.",
       "memoryHook": "T-Rexy says: Three letters of mRNA code for one amino acid.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1002,7 +1002,7 @@
         "A mutation in one gene",
         "An extra Y chromosome"
       ],
-      "explanation": "Down syndrome is trisomy 21, an extra chromosome 21.",
+      "explanation": "Down syndrome usually comes from nondisjunction: an egg or sperm keeps two copies of chromosome 21, so after fertilization the cells have three - trisomy 21.",
       "memoryHook": "T-Rexy says: Down syndrome is an extra chromosome 21.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1062,7 +1062,7 @@
         "A type of rock only",
         "A modern species"
       ],
-      "explanation": "Fossils are remains or impressions of organisms from the past.",
+      "explanation": "Fossils form when dead organisms are buried in sediment that hardens into rock, preserving bones, shells, or even footprints for millions of years.",
       "memoryHook": "T-Rexy says: Fossils are echoes of ancient life.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1282,7 +1282,7 @@
         "The birth rate of a species",
         "The size of a habitat"
       ],
-      "explanation": "Carrying capacity is the maximum population size an environment can sustain.",
+      "explanation": "A population grows until food, space, water, or predators limit it; that ceiling is the carrying capacity, the flat top of a logistic S-shaped growth curve.",
       "memoryHook": "T-Rexy says: Carrying capacity is the environment's limit.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1302,7 +1302,7 @@
         "A type of reproduction",
         "A migration pattern"
       ],
-      "explanation": "Symbiosis is a close relationship between species, such as mutualism or parasitism.",
+      "explanation": "Symbiosis is the umbrella term for close, long-term living arrangements between species - mutualism, commensalism, and parasitism are its three main forms.",
       "memoryHook": "T-Rexy says: Symbiosis is living closely together.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1522,7 +1522,7 @@
         "To clot blood",
         "To carry nerve signals"
       ],
-      "explanation": "Red blood cells carry oxygen using hemoglobin.",
+      "explanation": "Red blood cells are packed with hemoglobin, which picks up oxygen in the lungs and releases it in the tissues; they have no nucleus, leaving more room for hemoglobin.",
       "memoryHook": "T-Rexy says: Red blood cells deliver oxygen.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1542,7 +1542,7 @@
         "To clot blood",
         "To produce hormones"
       ],
-      "explanation": "White blood cells defend the body against pathogens.",
+      "explanation": "White blood cells patrol the blood and tissues, engulfing microbes and producing antibodies; unlike red blood cells, they keep their nucleus.",
       "memoryHook": "T-Rexy says: White blood cells are the immune system's soldiers.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1562,7 +1562,7 @@
         "The lung",
         "The kidney"
       ],
-      "explanation": "The heart pumps blood through the circulatory system.",
+      "explanation": "With each beat, the heart's ventricles squeeze blood into the arteries - oxygen-rich blood to the body and oxygen-poor blood to the lungs.",
       "memoryHook": "T-Rexy says: The heart is the body's pump.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1582,7 +1582,7 @@
         "To digest food",
         "To filter blood"
       ],
-      "explanation": "Lungs take in oxygen and release carbon dioxide during breathing.",
+      "explanation": "In the lungs' alveoli, oxygen diffuses into the blood while carbon dioxide diffuses out to be exhaled; the diaphragm muscle drives the breathing itself.",
       "memoryHook": "T-Rexy says: Lungs swap oxygen for carbon dioxide.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1649,7 +1649,7 @@
         "plants",
         "photosynthesis"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1660,7 +1660,7 @@
       "distractors": [
         "Hemoglobin",
         "Melanin",
-        "Carotene only"
+        "Cellulose"
       ],
       "explanation": "Chlorophyll in chloroplasts absorbs sunlight, mostly red and blue light.",
       "memoryHook": "T-Rexy says: Chlorophyll makes plants green.",
@@ -1682,7 +1682,7 @@
         "In the nucleus",
         "In the vacuole"
       ],
-      "explanation": "Photosynthesis happens in chloroplasts, mainly in leaf cells.",
+      "explanation": "Photosynthesis runs in the chloroplasts of mesophyll cells inside leaves, close to the light and to the veins that deliver water.",
       "memoryHook": "T-Rexy says: Chloroplasts are the kitchen of the leaf.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1722,7 +1722,7 @@
         "To make seeds",
         "To capture sunlight"
       ],
-      "explanation": "Xylem vessels carry water from roots to leaves.",
+      "explanation": "Xylem is built from dead, hollow vessel cells stacked into tubes; evaporation from the leaves pulls water up these tubes from the roots.",
       "memoryHook": "T-Rexy says: Xylem carries water up.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1742,7 +1742,7 @@
         "To absorb minerals",
         "To make chlorophyll"
       ],
-      "explanation": "Phloem moves sugars made in photosynthesis to where they are needed.",
+      "explanation": "Phloem is living tissue that moves sugars from sources, where they are made (leaves), to sinks, where they are used or stored (roots, fruits, seeds).",
       "memoryHook": "T-Rexy says: Phloem delivers the food.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1782,7 +1782,7 @@
         "To digest food",
         "To make hormones"
       ],
-      "explanation": "The nervous system uses neurons to sense and respond to the environment.",
+      "explanation": "Sensory neurons detect stimuli, interneurons in the brain and spinal cord process the signals, and motor neurons trigger the response in muscles or glands.",
       "memoryHook": "T-Rexy says: Nerves carry the body's messages.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1802,7 +1802,7 @@
         "A muscle cell",
         "A bone cell"
       ],
-      "explanation": "Neurons transmit signals through the nervous system.",
+      "explanation": "A neuron's dendrites receive signals and its long axon carries the electrical impulse onward to other cells; ordinary body cells cannot pass signals this way.",
       "memoryHook": "T-Rexy says: Neurons are the wires of the nervous system.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1842,7 +1842,7 @@
         "The spleen",
         "The pancreas"
       ],
-      "explanation": "Kidneys filter waste from blood and produce urine.",
+      "explanation": "Inside each kidney, about a million nephrons filter blood under pressure, reabsorbing the water and salts the body needs and sending the waste out as urine.",
       "memoryHook": "T-Rexy says: Kidneys filter the blood.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1922,7 +1922,7 @@
         "To filter blood",
         "To produce hormones"
       ],
-      "explanation": "Digestion breaks food into nutrients the body can absorb and use.",
+      "explanation": "Churning and enzymes break food into molecules small enough to pass through the intestinal wall into the blood.",
       "memoryHook": "T-Rexy says: Digestion turns food into fuel.",
       "imageUrl": "topic:biology",
       "tags": [
@@ -1982,7 +1982,7 @@
         "A vitamin",
         "A hormone"
       ],
-      "explanation": "Pathogens are disease-causing microbes such as bacteria and viruses.",
+      "explanation": "Most microbes are harmless or even helpful; pathogens are the minority of microorganisms that invade the body and cause disease.",
       "memoryHook": "T-Rexy says: Pathogens are germs that make you sick.",
       "imageUrl": "topic:biology",
       "tags": [
