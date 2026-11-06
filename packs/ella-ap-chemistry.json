@@ -35,18 +35,19 @@
     },
     {
       "id": "ECHEM_002",
-      "question": "Which of the following subatomic particles has a negative charge and negligible mass?",
-      "correctAnswer": "Electron",
+      "question": "A photoelectron spectrum shows three peaks. From left (highest binding energy) to right, the peaks correspond to the 1s, 2s, and 2p subshells, and their relative heights are 1, 1, and 3. If the smallest peak represents 2 electrons, how many electrons are in the 2p subshell?",
+      "correctAnswer": "6 electrons",
       "distractors": [
-        "Proton",
-        "Neutron",
-        "Alpha particle"
+        "2 electrons",
+        "3 electrons",
+        "10 electrons"
       ],
-      "explanation": "Electrons carry a -1 charge and have about 1/1836 the mass of a proton, effectively negligible in atomic mass calculations.",
-      "memoryHook": "T-Rexy says: Electrons are the speedy, negative, almost-weightless ones zipping around the nucleus!",
+      "explanation": "In a PES spectrum, peak height is proportional to the number of electrons in the subshell. The 2p peak is 3 times as tall as the 1s peak, so it holds 3 x 2 = 6 electrons. The full count is 2 + 2 + 6 = 10 electrons, which is the configuration 1s2 2s2 2p6.",
+      "memoryHook": "T-Rexy says: In PES, taller peak means more electrons - height counts electrons, position shows how tightly they are held!",
       "imageUrl": "topic:chemistry",
       "tags": [
-        "atomic-structure"
+        "atomic-structure",
+        "photoelectron-spectroscopy"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -194,19 +195,19 @@
     },
     {
       "id": "ECHEM_010",
-      "question": "Which isotope is most commonly used as the standard for the atomic mass unit?",
-      "correctAnswer": "Carbon-12",
+      "question": "A photoelectron spectrum has three peaks for the 1s, 2s, and 2p subshells with relative heights 1, 1, and 2, where a height of 1 corresponds to 2 electrons. Which element does the spectrum represent?",
+      "correctAnswer": "Oxygen",
       "distractors": [
-        "Hydrogen-1",
-        "Oxygen-16",
-        "Uranium-238"
+        "Carbon",
+        "Fluorine",
+        "Neon"
       ],
-      "explanation": "One atomic mass unit is defined as exactly 1/12 the mass of a carbon-12 atom, so every atomic mass is measured relative to carbon-12. That is why a single carbon-12 atom is exactly 12 amu, while carbon's periodic-table value of about 12.01 averages over its naturally occurring isotopes.",
-      "memoryHook": "T-Rexy says: Carbon-12 is the gold standard - one twelfth of it defines the amu!",
+      "explanation": "Convert heights to electron counts: 1s holds 2 electrons, 2s holds 2 electrons, and 2p holds 2 x 2 = 4 electrons. The total is 2 + 2 + 4 = 8 electrons, so a neutral atom has atomic number 8, which is oxygen, with configuration 1s2 2s2 2p4.",
+      "memoryHook": "T-Rexy says: Read the heights, count the electrons, and the total is the atomic number!",
       "imageUrl": "topic:chemistry",
       "tags": [
         "atomic-structure",
-        "isotopes"
+        "photoelectron-spectroscopy"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -254,18 +255,19 @@
     },
     {
       "id": "ECHEM_013",
-      "question": "Which type of bond involves the sharing of electron pairs between atoms?",
-      "correctAnswer": "Covalent bond",
+      "question": "The photoelectron spectrum of sodium shows peaks at binding energies of about 107, 6.8, 3.9, and 0.50 MJ/mol, corresponding to the 1s, 2s, 2p, and 3s subshells. Electrons in which subshell require the most energy to remove from the atom?",
+      "correctAnswer": "1s",
       "distractors": [
-        "Ionic bond",
-        "Metallic bond",
-        "Hydrogen bond"
+        "2s",
+        "2p",
+        "3s"
       ],
-      "explanation": "Covalent bonds form when two atoms share one or more pairs of electrons, typically between nonmetals.",
-      "memoryHook": "T-Rexy says: Sharing is caring - covalent bonds share electron pairs!",
+      "explanation": "Peak position in a PES spectrum gives binding energy, the energy needed to remove an electron from that subshell. The 1s peak sits at by far the highest binding energy (about 107 MJ/mol) because 1s electrons are closest to the nucleus and least shielded, so they are held most tightly and are hardest to remove.",
+      "memoryHook": "T-Rexy says: Farther left on the PES plot means larger binding energy - the 1s electrons hug the nucleus tightest!",
       "imageUrl": "topic:chemistry",
       "tags": [
-        "bonding"
+        "atomic-structure",
+        "photoelectron-spectroscopy"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -292,19 +294,19 @@
     },
     {
       "id": "ECHEM_015",
-      "question": "Which element has the highest electronegativity?",
-      "correctAnswer": "Fluorine",
+      "question": "Potassium has the electron configuration 1s2 2s2 2p6 3s2 3p6 4s1. How many peaks appear in the photoelectron spectrum of potassium?",
+      "correctAnswer": "6 peaks",
       "distractors": [
-        "Oxygen",
-        "Chlorine",
-        "Cesium"
+        "5 peaks",
+        "7 peaks",
+        "19 peaks"
       ],
-      "explanation": "Electronegativity increases up and to the right on the periodic table. Fluorine, at the top right (excluding noble gases), is the most electronegative element.",
-      "memoryHook": "T-Rexy says: Fluorine is the greediest electron-grabber on the whole table!",
+      "explanation": "A PES spectrum has one peak for each occupied subshell, not one for each electron. Potassium occupies six subshells: 1s, 2s, 2p, 3s, 3p, and 4s, so its spectrum shows 6 peaks. The 19 electrons are distributed among those peaks, with peak heights in the ratio 2:2:6:2:6:1.",
+      "memoryHook": "T-Rexy says: One peak per subshell - count the subshells in the configuration, not the electrons!",
       "imageUrl": "topic:chemistry",
       "tags": [
-        "periodic-trends",
-        "bonding"
+        "atomic-structure",
+        "photoelectron-spectroscopy"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -411,19 +413,20 @@
     },
     {
       "id": "ECHEM_021",
-      "question": "The bond in HF is best described as:",
-      "correctAnswer": "Polar covalent",
+      "question": "A buffer contains 0.10 M acetic acid, CH3COOH, and 0.20 M sodium acetate, CH3COONa. The pKa of acetic acid is 4.74. What is the pH of the buffer?",
+      "correctAnswer": "5.04",
       "distractors": [
-        "Purely ionic",
-        "Purely covalent (nonpolar)",
-        "Metallic"
+        "4.44",
+        "4.74",
+        "5.34"
       ],
-      "explanation": "Fluorine is much more electronegative than hydrogen, so the shared electrons are pulled strongly toward fluorine, creating a polar covalent bond with partial charges.",
-      "memoryHook": "T-Rexy says: Fluorine hogs the shared electrons - HF is polar covalent, not a fair share!",
+      "explanation": "Use the Henderson-Hasselbalch equation: pH = pKa + log([A-]/[HA]) = 4.74 + log(0.20/0.10) = 4.74 + log(2.0) = 4.74 + 0.30 = 5.04. Because the conjugate base concentration is larger than the acid concentration, the pH sits above the pKa.",
+      "memoryHook": "T-Rexy says: Base over acid inside the log - more base than acid pushes pH above pKa!",
       "imageUrl": "topic:chemistry",
       "tags": [
-        "bonding",
-        "polarity"
+        "acids-bases",
+        "buffers",
+        "henderson-hasselbalch"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -749,19 +752,20 @@
     },
     {
       "id": "ECHEM_038",
-      "question": "What is the value of the ideal gas constant R in L-atm/mol-K?",
-      "correctAnswer": "0.0821",
+      "question": "The molar solubility of calcium fluoride, CaF2, in pure water is 2.0 x 10^-4 M. What is the Ksp of CaF2?",
+      "correctAnswer": "3.2 x 10^-11",
       "distractors": [
-        "8.314",
-        "1.987",
-        "62.4"
+        "8.0 x 10^-12",
+        "4.0 x 10^-8",
+        "1.6 x 10^-11"
       ],
-      "explanation": "R = 0.0821 L-atm/mol-K. (8.314 is J/mol-K; 62.4 is L-torr/mol-K.)",
-      "memoryHook": "T-Rexy says: 0.0821 for L-atm - match your R to your pressure units!",
+      "explanation": "CaF2(s) <=> Ca2+(aq) + 2F-(aq). If the molar solubility is s, then [Ca2+] = s and [F-] = 2s, so Ksp = [Ca2+][F-]^2 = s(2s)^2 = 4s^3. With s = 2.0 x 10^-4: Ksp = 4 x (2.0 x 10^-4)^3 = 4 x 8.0 x 10^-12 = 3.2 x 10^-11. Check: (Ksp/4)^(1/3) = (8.0 x 10^-12)^(1/3) = 2.0 x 10^-4, which returns the given solubility.",
+      "memoryHook": "T-Rexy says: The 2 in front of F- counts twice - once as 2s and once as a squared power, giving 4s cubed!",
       "imageUrl": "topic:chemistry",
       "tags": [
-        "gases",
-        "ideal-gas-law"
+        "equilibrium",
+        "solubility",
+        "ksp"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -869,19 +873,20 @@
     },
     {
       "id": "ECHEM_044",
-      "question": "Which statement is true according to kinetic molecular theory?",
-      "correctAnswer": "Gas particles have negligible volume compared to container volume",
+      "question": "A solution has an absorbance of 0.60 at a wavelength where the molar absorptivity is 2.0 x 10^2 M^-1 cm^-1. The cuvette path length is 1.0 cm. What is the concentration of the solution?",
+      "correctAnswer": "3.0 x 10^-3 M",
       "distractors": [
-        "Gas particles attract each other strongly",
-        "Gas particles move slower at higher temperature",
-        "Collisions between gas particles lose energy"
+        "120 M",
+        "3.0 x 10^-2 M",
+        "6.0 x 10^-3 M"
       ],
-      "explanation": "KMT assumes point particles with no volume and no attractions, moving randomly with elastic collisions; average kinetic energy is proportional to Kelvin temperature.",
-      "memoryHook": "T-Rexy says: Tiny dots, no attractions, bouncy collisions - that is the kinetic theory!",
+      "explanation": "Use the Beer-Lambert law, A = epsilon b c, and solve for c: c = A/(epsilon b) = 0.60 / (2.0 x 10^2 x 1.0) = 0.60/200 = 3.0 x 10^-3 M. Check: 200 x 1.0 x 3.0 x 10^-3 = 0.60, which returns the given absorbance.",
+      "memoryHook": "T-Rexy says: A equals epsilon b c - to find c, divide the absorbance by epsilon times path length!",
       "imageUrl": "topic:chemistry",
       "tags": [
-        "gases",
-        "kinetic-molecular-theory"
+        "solutions",
+        "spectroscopy",
+        "beer-lambert"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -949,19 +954,20 @@
     },
     {
       "id": "ECHEM_048",
-      "question": "The standard enthalpy of formation of an element in its standard state is:",
-      "correctAnswer": "Zero",
+      "question": "The molar solubility of silver chloride, AgCl, in pure water is 2.0 x 10^-5 M. What is the Ksp of AgCl?",
+      "correctAnswer": "4.0 x 10^-10",
       "distractors": [
-        "Always negative",
-        "Always positive",
-        "Equal to its molar mass"
+        "2.0 x 10^-5",
+        "4.0 x 10^-5",
+        "2.0 x 10^-10"
       ],
-      "explanation": "By definition, delta Hf of elements in their standard states (e.g., O2(g), C(graphite)) is 0 kJ/mol.",
-      "memoryHook": "T-Rexy says: Elements start at zero - formation enthalpy is measured from there!",
+      "explanation": "AgCl(s) dissolves as AgCl(s) <=> Ag+(aq) + Cl-(aq), so at saturation [Ag+] = [Cl-] = s = 2.0 x 10^-5 M. Ksp = [Ag+][Cl-] = s^2 = (2.0 x 10^-5)^2 = 4.0 x 10^-10. Check: the square root of 4.0 x 10^-10 is 2.0 x 10^-5, which returns the given molar solubility.",
+      "memoryHook": "T-Rexy says: For a 1-to-1 salt, Ksp is s squared - square the solubility, do not just copy it!",
       "imageUrl": "topic:chemistry",
       "tags": [
-        "thermodynamics",
-        "enthalpy"
+        "equilibrium",
+        "solubility",
+        "ksp"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1049,19 +1055,20 @@
     },
     {
       "id": "ECHEM_053",
-      "question": "Bond breaking is always:",
-      "correctAnswer": "Endothermic",
+      "question": "What is the absorbance of a 2.0 x 10^-5 M solution in a 1.0 cm cuvette if the molar absorptivity at the measurement wavelength is 1.5 x 10^4 M^-1 cm^-1?",
+      "correctAnswer": "0.30",
       "distractors": [
-        "Exothermic",
-        "Spontaneous",
-        "At equilibrium"
+        "3.0",
+        "0.030",
+        "0.60"
       ],
-      "explanation": "Breaking bonds requires energy input to separate atoms, so it is always endothermic (positive delta H).",
-      "memoryHook": "T-Rexy says: Ripping bonds apart costs energy - always endothermic!",
+      "explanation": "Use the Beer-Lambert law: A = epsilon b c = (1.5 x 10^4)(1.0)(2.0 x 10^-5) = 0.30. Absorbance has no units. Check the powers of ten: 10^4 x 10^-5 = 10^-1, and 1.5 x 2.0 x 0.10 = 0.30.",
+      "memoryHook": "T-Rexy says: Multiply epsilon, path, and concentration - and remember absorbance itself carries no units!",
       "imageUrl": "topic:chemistry",
       "tags": [
-        "thermodynamics",
-        "bond-enthalpy"
+        "solutions",
+        "spectroscopy",
+        "beer-lambert"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1169,19 +1176,20 @@
     },
     {
       "id": "ECHEM_059",
-      "question": "The rate-determining step of a reaction mechanism is:",
-      "correctAnswer": "The slowest step",
+      "question": "A current of 1.00 A flows through an electrolytic cell for 965 s. How many moles of electrons are transferred? (Faraday constant = 96,500 C/mol e-)",
+      "correctAnswer": "0.0100 mol",
       "distractors": [
-        "The fastest step",
-        "The first step always",
-        "The step with the most reactants"
+        "0.100 mol",
+        "0.00100 mol",
+        "965 mol"
       ],
-      "explanation": "The overall rate is limited by the slowest elementary step, like the slowest hiker setting the group's pace.",
-      "memoryHook": "T-Rexy says: Slowest step sets the speed limit for the whole reaction!",
+      "explanation": "Charge is current times time: Q = I t = (1.00 A)(965 s) = 965 C. Convert charge to moles of electrons with the Faraday constant: 965 C / 96,500 C per mol e- = 0.0100 mol e-. Check: 0.0100 x 96,500 = 965 C, which returns the starting charge.",
+      "memoryHook": "T-Rexy says: Amps times seconds gives coulombs - then divide by 96,500 to count moles of electrons!",
       "imageUrl": "topic:chemistry",
       "tags": [
-        "kinetics",
-        "mechanisms"
+        "electrochemistry",
+        "electrolysis",
+        "faradays-law"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1189,18 +1197,20 @@
     },
     {
       "id": "ECHEM_060",
-      "question": "Which factor does NOT affect the rate of a chemical reaction?",
-      "correctAnswer": "The physical state of the products",
+      "question": "A calibration graph of absorbance versus concentration is a straight line through the origin. A 4.0 x 10^-4 M standard gives an absorbance of 0.80 in a 1.0 cm cuvette. An unknown solution measured under the same conditions gives an absorbance of 0.50. What is the concentration of the unknown?",
+      "correctAnswer": "2.5 x 10^-4 M",
       "distractors": [
-        "Concentration of reactants",
-        "Temperature",
-        "Surface area of a solid reactant"
+        "6.4 x 10^-4 M",
+        "4.0 x 10^-4 M",
+        "2.0 x 10^-4 M"
       ],
-      "explanation": "Concentration, temperature, surface area, and catalysts affect rate. The state of products after the fact does not change how fast reactants collide.",
-      "memoryHook": "T-Rexy says: Products are the finish line - they do not change how fast you run!",
+      "explanation": "By the Beer-Lambert law, absorbance is directly proportional to concentration when epsilon and path length are unchanged, so c(unknown)/c(standard) = A(unknown)/A(standard). c(unknown) = 4.0 x 10^-4 x (0.50/0.80) = 4.0 x 10^-4 x 0.625 = 2.5 x 10^-4 M. The unknown absorbs less light than the standard, so it must be less concentrated.",
+      "memoryHook": "T-Rexy says: Same cuvette, same substance - concentrations scale with absorbances, like with like!",
       "imageUrl": "topic:chemistry",
       "tags": [
-        "kinetics"
+        "solutions",
+        "spectroscopy",
+        "beer-lambert"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1288,18 +1298,20 @@
     },
     {
       "id": "ECHEM_065",
-      "question": "At equilibrium, the rates of the forward and reverse reactions are:",
-      "correctAnswer": "Equal",
+      "question": "A galvanic cell has Ecell = 1.10 V under standard conditions, with n = 2 electrons transferred. At 25 C the reaction quotient is Q = 0.010. Using E = Ecell - (0.0592/n) log Q, what is the cell potential under these nonstandard conditions?",
+      "correctAnswer": "1.16 V",
       "distractors": [
-        "Both zero",
-        "The forward rate is greater",
-        "The reverse rate is greater"
+        "1.04 V",
+        "1.10 V",
+        "1.22 V"
       ],
-      "explanation": "Dynamic equilibrium means forward and reverse reactions continue at equal rates, so concentrations stay constant.",
-      "memoryHook": "T-Rexy says: Equal speeds in both directions - a perfectly balanced tug of war!",
+      "explanation": "Apply the Nernst equation: E = 1.10 - (0.0592/2) log(0.010) = 1.10 - (0.0296)(-2.00) = 1.10 + 0.0592 = 1.16 V. Because Q is less than 1 (reactants are relatively concentrated compared with products), the cell potential rises above its standard value.",
+      "memoryHook": "T-Rexy says: Q below one boosts the voltage - log of a small Q is negative, and minus a negative adds!",
       "imageUrl": "topic:chemistry",
       "tags": [
-        "equilibrium"
+        "electrochemistry",
+        "nernst-equation",
+        "cell-potential"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1327,19 +1339,20 @@
     },
     {
       "id": "ECHEM_067",
-      "question": "If Kc is very large (>> 1), the equilibrium mixture contains mostly:",
-      "correctAnswer": "Products",
+      "question": "A sparingly soluble salt MX has Ksp = 4.0 x 10^-12 and dissolves as MX(s) <=> M+(aq) + X-(aq). What is the molar solubility of MX in pure water?",
+      "correctAnswer": "2.0 x 10^-6 M",
       "distractors": [
-        "Reactants",
-        "Equal amounts of both",
-        "Only the catalyst"
+        "4.0 x 10^-12 M",
+        "2.0 x 10^-12 M",
+        "4.0 x 10^-6 M"
       ],
-      "explanation": "A large Kc means the numerator (products) dominates, so equilibrium lies far to the right.",
-      "memoryHook": "T-Rexy says: Huge K means products win big - the reaction goes almost to completion!",
+      "explanation": "Let s be the molar solubility. Then [M+] = [X-] = s and Ksp = s^2, so s = square root of Ksp = square root of (4.0 x 10^-12) = 2.0 x 10^-6 M. Check: (2.0 x 10^-6)^2 = 4.0 x 10^-12, which matches the given Ksp.",
+      "memoryHook": "T-Rexy says: To go from Ksp back to solubility for a 1-to-1 salt, take the square root!",
       "imageUrl": "topic:chemistry",
       "tags": [
         "equilibrium",
-        "kc"
+        "solubility",
+        "ksp"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1467,19 +1480,21 @@
     },
     {
       "id": "ECHEM_074",
-      "question": "Pure solids and liquids are omitted from equilibrium constant expressions because:",
-      "correctAnswer": "Their concentrations are constant",
+      "question": "Calcium fluoride, CaF2, has Ksp = 4.0 x 10^-11. What is the molar solubility of CaF2 in a solution that already contains 0.10 M Ca2+ from dissolved Ca(NO3)2?",
+      "correctAnswer": "1.0 x 10^-5 M",
       "distractors": [
-        "They do not participate in the reaction",
-        "They are always reactants",
-        "They have zero concentration"
+        "2.0 x 10^-5 M",
+        "1.0 x 10^-10 M",
+        "4.0 x 10^-6 M"
       ],
-      "explanation": "The concentration (density/molar concentration) of a pure solid or liquid does not change during reaction, so it is folded into the constant K.",
-      "memoryHook": "T-Rexy says: Pure solids and liquids never change concentration - they get absorbed into K!",
+      "explanation": "Let s be the molar solubility in the Ca2+ solution. Then [Ca2+] = 0.10 + s, which is approximately 0.10 because s is very small, and [F-] = 2s. Ksp = [Ca2+][F-]^2 = (0.10)(2s)^2 = 0.40 s^2 = 4.0 x 10^-11, so s^2 = 1.0 x 10^-10 and s = 1.0 x 10^-5 M. The common ion Ca2+ shifts the dissolution equilibrium toward the solid, so this solubility is much lower than in pure water.",
+      "memoryHook": "T-Rexy says: A common ion already in solution squeezes solubility down - set the common ion to its starting value and solve for s!",
       "imageUrl": "topic:chemistry",
       "tags": [
         "equilibrium",
-        "kc"
+        "solubility",
+        "ksp",
+        "common-ion-effect"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1587,19 +1602,20 @@
     },
     {
       "id": "ECHEM_080",
-      "question": "At the equivalence point of a strong acid-strong base titration, the pH is:",
-      "correctAnswer": "7.00",
+      "question": "A buffer contains formic acid, HCOOH, and its conjugate base, formate, HCOO-, with [HCOO-]/[HCOOH] = 0.50. The pKa of formic acid is 3.74. What is the pH of the buffer?",
+      "correctAnswer": "3.44",
       "distractors": [
-        "Less than 7",
-        "Greater than 7",
-        "Equal to the pKa"
+        "4.04",
+        "3.74",
+        "3.14"
       ],
-      "explanation": "Strong acid + strong base neutralize completely to water and a neutral salt, giving pH 7 at equivalence.",
-      "memoryHook": "T-Rexy says: Strong meets strong and they cancel out - neutral pH 7!",
+      "explanation": "Use the Henderson-Hasselbalch equation: pH = pKa + log([A-]/[HA]) = 3.74 + log(0.50) = 3.74 - 0.30 = 3.44. A base-to-acid ratio below 1 gives a negative log term, so the pH sits below the pKa.",
+      "memoryHook": "T-Rexy says: Ratio below one means log below zero - the pH dips below pKa!",
       "imageUrl": "topic:chemistry",
       "tags": [
         "acids-bases",
-        "titrations"
+        "buffers",
+        "henderson-hasselbalch"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1627,19 +1643,20 @@
     },
     {
       "id": "ECHEM_082",
-      "question": "The Ka expression for the weak acid HA is:",
-      "correctAnswer": "[H+][A-] / [HA]",
+      "question": "A buffer is prepared by mixing 0.30 mol of a weak acid HA (pKa = 4.50) with 0.10 mol of NaOH in enough water to make 1.0 L of solution. The NaOH converts part of the HA to A-. What is the pH of the resulting buffer?",
+      "correctAnswer": "4.20",
       "distractors": [
-        "[HA] / ([H+][A-])",
-        "[H+][HA] / [A-]",
-        "[A-] / ([H+][HA])"
+        "4.80",
+        "4.50",
+        "3.90"
       ],
-      "explanation": "Ka = [products of dissociation] / [undissociated acid] = [H+][A-] / [HA].",
-      "memoryHook": "T-Rexy says: Ka puts the dissociated ions on top, the intact acid below!",
+      "explanation": "First do the stoichiometry: OH- converts HA to A- one-to-one, so HA remaining = 0.30 - 0.10 = 0.20 mol and A- formed = 0.10 mol. Then apply Henderson-Hasselbalch with mole amounts (same volume, so moles can replace concentrations): pH = 4.50 + log(0.10/0.20) = 4.50 + log(0.50) = 4.50 - 0.30 = 4.20.",
+      "memoryHook": "T-Rexy says: Neutralize first, then take the log - stoichiometry before Henderson-Hasselbalch!",
       "imageUrl": "topic:chemistry",
       "tags": [
         "acids-bases",
-        "ka"
+        "buffers",
+        "henderson-hasselbalch"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1727,19 +1744,20 @@
     },
     {
       "id": "ECHEM_087",
-      "question": "The standard hydrogen electrode (SHE) is assigned a reduction potential of:",
-      "correctAnswer": "0.00 V",
+      "question": "A galvanic cell has Ecell = 0.50 V under standard conditions, with n = 2 electrons transferred. At 25 C the reaction quotient is Q = 100. Using E = Ecell - (0.0592/n) log Q, what is the cell potential under these nonstandard conditions?",
+      "correctAnswer": "0.44 V",
       "distractors": [
-        "1.00 V",
-        "-1.00 V",
-        "0.76 V"
+        "0.56 V",
+        "0.50 V",
+        "0.38 V"
       ],
-      "explanation": "By definition, the SHE half-reaction (2H+ + 2e- -> H2) has E = 0.00 V under standard conditions; all other potentials are measured relative to it.",
-      "memoryHook": "T-Rexy says: Hydrogen sets the zero mark - every other potential is measured from it!",
+      "explanation": "Apply the Nernst equation: E = 0.50 - (0.0592/2) log(100) = 0.50 - (0.0296)(2.00) = 0.50 - 0.0592 = 0.44 V. Because Q is greater than 1 (products have built up), the cell potential falls below its standard value as the cell moves toward equilibrium.",
+      "memoryHook": "T-Rexy says: Q above one drains the voltage - products piling up push the cell toward equilibrium and E toward zero!",
       "imageUrl": "topic:chemistry",
       "tags": [
         "electrochemistry",
-        "standard-potentials"
+        "nernst-equation",
+        "cell-potential"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1988,19 +2006,20 @@
     },
     {
       "id": "ECHEM_100",
-      "question": "In the electrolysis of water, what gas forms at the cathode?",
-      "correctAnswer": "Hydrogen",
+      "question": "Copper is plated from a Cu2+ solution by a current of 2.00 A applied for 30.0 minutes. The half-reaction is Cu2+ + 2e- -> Cu(s). What mass of copper is deposited? (Faraday constant = 96,500 C/mol e-; molar mass of Cu = 63.5 g/mol)",
+      "correctAnswer": "1.18 g",
       "distractors": [
-        "Oxygen",
-        "Chlorine",
-        "Carbon dioxide"
+        "2.37 g",
+        "0.59 g",
+        "0.037 g"
       ],
-      "explanation": "At the cathode, reduction occurs: 2H2O + 2e- -> H2 + 2OH-. Hydrogen gas bubbles off at the cathode.",
-      "memoryHook": "T-Rexy says: Cathode does reduction - water gains electrons and releases hydrogen!",
+      "explanation": "Work the chain step by step. Charge: Q = I t = (2.00 A)(30.0 x 60 s) = 3600 C. Moles of electrons: 3600 / 96,500 = 0.0373 mol e-. Moles of Cu: each Cu2+ needs 2 electrons, so 0.0373/2 = 0.0187 mol Cu. Mass: 0.0187 x 63.5 = 1.18 g. Skipping the divide-by-2 step would double the answer, which is the most common error on this type of problem.",
+      "memoryHook": "T-Rexy says: Current to charge to electrons to metal - and Cu2+ always takes two electrons per atom!",
       "imageUrl": "topic:chemistry",
       "tags": [
         "electrochemistry",
-        "mixed-review"
+        "electrolysis",
+        "faradays-law"
       ],
       "difficulty": "medium",
       "dynamic": false,
