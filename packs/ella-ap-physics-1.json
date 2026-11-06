@@ -1441,18 +1441,18 @@
     },
     {
       "id": "EPHY_076",
-      "question": "The speed of a wave equals:",
-      "correctAnswer": "Frequency times wavelength",
+      "question": "A mass on a spring is pulled away from equilibrium and released. The motion is simple harmonic because the spring force on the mass is:",
+      "correctAnswer": "Directed toward equilibrium and proportional to the displacement",
       "distractors": [
-        "Frequency divided by wavelength",
-        "Amplitude times frequency",
-        "Period times amplitude"
+        "Constant in magnitude and direction",
+        "Directed away from equilibrium",
+        "Proportional to the mass's velocity"
       ],
-      "explanation": "v = f lambda.",
-      "memoryHook": "T-Rexy says: Wave speed is frequency times wavelength.",
-      "imageUrl": "topic:waves",
+      "explanation": "Simple harmonic motion requires a restoring force: F = -kx. The force is proportional to the displacement x, and the negative sign means it always points back toward equilibrium, which is what keeps the mass oscillating around that point.",
+      "memoryHook": "T-Rexy says: SHM happens when the force always pulls you back, harder the farther you stray.",
+      "imageUrl": "topic:oscillations",
       "tags": [
-        "waves"
+        "oscillations"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1460,18 +1460,18 @@
     },
     {
       "id": "EPHY_077",
-      "question": "If frequency doubles and wave speed stays constant, wavelength:",
-      "correctAnswer": "Halves",
+      "question": "A mass m hangs on a spring and oscillates with period T. If the mass is replaced by one with mass 4m on the same spring, the new period is:",
+      "correctAnswer": "2T",
       "distractors": [
-        "Doubles",
-        "Stays the same",
-        "Quadruples"
+        "4T",
+        "T",
+        "T/2"
       ],
-      "explanation": "lambda = v/f, so doubling f halves lambda.",
-      "memoryHook": "T-Rexy says: Double frequency means half wavelength.",
-      "imageUrl": "topic:waves",
+      "explanation": "For a spring oscillator, T = 2pi sqrt(m/k). The period grows with the square root of the mass, so quadrupling m multiplies the period by sqrt(4) = 2, giving 2T.",
+      "memoryHook": "T-Rexy says: Four times the mass on a spring means only twice the period - square roots shrink big changes.",
+      "imageUrl": "topic:oscillations",
       "tags": [
-        "waves"
+        "oscillations"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1479,18 +1479,18 @@
     },
     {
       "id": "EPHY_078",
-      "question": "The period of a wave is:",
-      "correctAnswer": "The reciprocal of frequency",
+      "question": "The period of a simple pendulum is the time it takes for the pendulum to:",
+      "correctAnswer": "Swing out and back to its starting point once",
       "distractors": [
-        "Equal to frequency",
-        "The distance between crests",
-        "The height of the wave"
+        "Stop moving completely",
+        "Reach its maximum height once",
+        "Swing from one side to the other once"
       ],
-      "explanation": "T = 1/f.",
-      "memoryHook": "T-Rexy says: Period is one over frequency.",
-      "imageUrl": "topic:waves",
+      "explanation": "One period is one complete oscillation: the pendulum leaves a point, swings to the far side, and returns to the same point moving the same way. Going from one side to the other is only half a cycle.",
+      "memoryHook": "T-Rexy says: A period is a full round trip, not just the trip out.",
+      "imageUrl": "topic:oscillations",
       "tags": [
-        "waves"
+        "oscillations"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1498,18 +1498,18 @@
     },
     {
       "id": "EPHY_079",
-      "question": "Sound waves are:",
-      "correctAnswer": "Longitudinal",
+      "question": "Two pendulum bobs of different masses hang from strings of the same length. Compared with the lighter bob, the heavier bob's period is:",
+      "correctAnswer": "The same",
       "distractors": [
-        "Transverse",
-        "Electromagnetic",
-        "Standing only"
+        "Longer",
+        "Shorter",
+        "Twice as long"
       ],
-      "explanation": "Sound travels as compressions and rarefactions along the direction of travel.",
-      "memoryHook": "T-Rexy says: Sound is a longitudinal wave.",
-      "imageUrl": "topic:waves",
+      "explanation": "The pendulum period T = 2pi sqrt(L/g) depends only on the string length L and the gravitational field g. The bob's mass cancels out, so both bobs swing with the same period.",
+      "memoryHook": "T-Rexy says: A pendulum does not care how heavy its bob is - only how long its string is.",
+      "imageUrl": "topic:oscillations",
       "tags": [
-        "waves"
+        "oscillations"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1517,18 +1517,18 @@
     },
     {
       "id": "EPHY_080",
-      "question": "The Doppler effect is a change in observed frequency due to:",
-      "correctAnswer": "Relative motion between source and observer",
+      "question": "A 0.25 kg mass attached to a spring with spring constant 100 N/m oscillates on a frictionless surface. What is the period of oscillation? (Use pi = 3.14.)",
+      "correctAnswer": "0.31 s",
       "distractors": [
-        "Change in amplitude",
-        "Reflection",
-        "The medium heating up"
+        "0.05 s",
+        "0.63 s",
+        "3.1 s"
       ],
-      "explanation": "Motion toward or away shifts the perceived frequency.",
-      "memoryHook": "T-Rexy says: Motion shifts the pitch you hear.",
-      "imageUrl": "topic:waves",
+      "explanation": "T = 2pi sqrt(m/k) = 2(3.14) sqrt(0.25/100) = 6.28 sqrt(0.0025) = 6.28(0.05) = 0.31 s. A stiff spring and a light mass give a fast oscillation.",
+      "memoryHook": "T-Rexy says: Stiff spring, light mass, quick bounce - plug m and k into 2pi sqrt(m/k).",
+      "imageUrl": "topic:oscillations",
       "tags": [
-        "waves"
+        "oscillations"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1536,18 +1536,18 @@
     },
     {
       "id": "EPHY_081",
-      "question": "A wave with greater amplitude carries:",
-      "correctAnswer": "More energy",
+      "question": "A spring oscillator's amplitude is doubled while everything else stays the same. The total mechanical energy of the oscillator becomes:",
+      "correctAnswer": "Four times as great",
       "distractors": [
-        "Less energy",
-        "The same energy",
-        "Higher frequency"
+        "Twice as great",
+        "The same",
+        "Half as great"
       ],
-      "explanation": "Energy is proportional to amplitude squared.",
-      "memoryHook": "T-Rexy says: Bigger amplitude means more energy.",
-      "imageUrl": "topic:waves",
+      "explanation": "The total energy of a spring oscillator is E = (1/2)kA^2, so energy scales with the square of the amplitude. Doubling A multiplies E by 2^2 = 4.",
+      "memoryHook": "T-Rexy says: Double the stretch, quadruple the energy - amplitude is squared in SHM energy.",
+      "imageUrl": "topic:oscillations",
       "tags": [
-        "waves"
+        "oscillations"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1555,18 +1555,18 @@
     },
     {
       "id": "EPHY_082",
-      "question": "When two waves meet and their amplitudes add, it is called:",
-      "correctAnswer": "Constructive interference",
+      "question": "A mass in simple harmonic motion reaches its maximum displacement from equilibrium. At that instant, its speed is:",
+      "correctAnswer": "Zero, while its acceleration is greatest",
       "distractors": [
-        "Destructive interference",
-        "Refraction",
-        "Diffraction"
+        "Greatest, while its acceleration is zero",
+        "Zero, and its acceleration is also zero",
+        "Half its maximum value"
       ],
-      "explanation": "In-phase addition builds a larger wave.",
-      "memoryHook": "T-Rexy says: Adding waves constructively builds bigger ones.",
-      "imageUrl": "topic:waves",
+      "explanation": "At the turning points the mass momentarily stops, so its speed is zero, but the restoring force F = -kx is largest there because x is largest, so the acceleration is at its maximum. Speed and acceleration peak at opposite points of the cycle.",
+      "memoryHook": "T-Rexy says: At the edge of the swing you stop for an instant, but the pull back is strongest.",
+      "imageUrl": "topic:oscillations",
       "tags": [
-        "waves"
+        "oscillations"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1574,18 +1574,18 @@
     },
     {
       "id": "EPHY_083",
-      "question": "The fundamental frequency of a string fixed at both ends has wavelength:",
-      "correctAnswer": "Twice the string length",
+      "question": "What is the period of a simple pendulum with a string length of 0.25 m? (Use g = 10 m/s^2 and pi = 3.14.)",
+      "correctAnswer": "1.0 s",
       "distractors": [
-        "Equal to the string length",
-        "Half the string length",
-        "Four times the string length"
+        "0.50 s",
+        "2.0 s",
+        "6.3 s"
       ],
-      "explanation": "The fundamental fits half a wavelength on the string, so lambda = 2L.",
-      "memoryHook": "T-Rexy says: Fundamental wavelength is twice the string.",
-      "imageUrl": "topic:waves",
+      "explanation": "T = 2pi sqrt(L/g) = 2(3.14) sqrt(0.25/10) = 6.28 sqrt(0.025) = 6.28(0.158) = 1.0 s. A short string gives a quick, one-second swing.",
+      "memoryHook": "T-Rexy says: A quarter-meter pendulum ticks about once per second.",
+      "imageUrl": "topic:oscillations",
       "tags": [
-        "waves"
+        "oscillations"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1593,18 +1593,18 @@
     },
     {
       "id": "EPHY_084",
-      "question": "Sound travels fastest through:",
-      "correctAnswer": "Solids",
+      "question": "A spring oscillator completes 20 full oscillations in 10 seconds. Its frequency is:",
+      "correctAnswer": "2 Hz",
       "distractors": [
-        "Gases",
-        "Vacuum",
-        "Liquids"
+        "0.5 Hz",
+        "20 Hz",
+        "200 Hz"
       ],
-      "explanation": "Particles are closest in solids, transmitting vibrations fastest.",
-      "memoryHook": "T-Rexy says: Sound is fastest in solids.",
-      "imageUrl": "topic:waves",
+      "explanation": "Frequency counts cycles per second: f = 20 cycles / 10 s = 2 Hz. The period would be the inverse, 1/2 = 0.5 s, which is the trap hidden behind the 0.5 Hz distractor.",
+      "memoryHook": "T-Rexy says: Frequency is cycles divided by seconds - count the bounces, divide by the time.",
+      "imageUrl": "topic:oscillations",
       "tags": [
-        "waves"
+        "oscillations"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1612,18 +1612,18 @@
     },
     {
       "id": "EPHY_085",
-      "question": "An echo is an example of:",
-      "correctAnswer": "Reflection",
+      "question": "An object has a mass of 2 kg and a volume of 0.002 m^3. Its density is:",
+      "correctAnswer": "1000 kg/m^3",
       "distractors": [
-        "Refraction",
-        "Diffraction",
-        "Interference"
+        "0.001 kg/m^3",
+        "500 kg/m^3",
+        "4000 kg/m^3"
       ],
-      "explanation": "Echoes are sound waves bouncing back off a surface.",
-      "memoryHook": "T-Rexy says: Echoes are reflected sound.",
-      "imageUrl": "topic:waves",
+      "explanation": "Density is mass per unit volume: rho = m/V = 2 kg / 0.002 m^3 = 1000 kg/m^3, the density of water.",
+      "memoryHook": "T-Rexy says: Density packs mass into volume - divide the kilograms by the cubic meters.",
+      "imageUrl": "topic:fluids",
       "tags": [
-        "waves"
+        "fluids"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1631,18 +1631,18 @@
     },
     {
       "id": "EPHY_086",
-      "question": "The SI unit of electric charge is the:",
-      "correctAnswer": "Coulomb",
+      "question": "A diver descends deeper underwater. The water pressure on the diver:",
+      "correctAnswer": "Increases, because a taller column of water sits above",
       "distractors": [
-        "Ampere",
-        "Volt",
-        "Ohm"
+        "Decreases, because the water is colder",
+        "Stays the same at all depths",
+        "Acts only downward on the diver"
       ],
-      "explanation": "Charge is measured in coulombs (C). Current links charge to time: a flow of 1 C per second is 1 ampere, so 1 C = 1 A s.",
-      "memoryHook": "T-Rexy says: Charge is measured in coulombs.",
-      "imageUrl": "topic:units",
+      "explanation": "Fluid pressure grows with depth: P = rho g h. The deeper the diver, the more water is piled above, and the pressure pushes from every direction, not just down.",
+      "memoryHook": "T-Rexy says: The deeper you dive, the more ocean is standing on you.",
+      "imageUrl": "topic:fluids",
       "tags": [
-        "electricity"
+        "fluids"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1650,18 +1650,18 @@
     },
     {
       "id": "EPHY_087",
-      "question": "Electric current is:",
-      "correctAnswer": "Charge flowing per unit time",
+      "question": "What is the gauge pressure at a depth of 2 m below the surface of a lake? (Density of water = 1000 kg/m^3; use g = 10 m/s^2.)",
+      "correctAnswer": "20,000 Pa",
       "distractors": [
-        "Voltage divided by resistance",
-        "Energy per charge",
-        "Force on a charge"
+        "2,000 Pa",
+        "5,000 Pa",
+        "200,000 Pa"
       ],
-      "explanation": "I = Q/t.",
-      "memoryHook": "T-Rexy says: Current is charge per time.",
-      "imageUrl": "topic:electricity",
+      "explanation": "Gauge pressure from a fluid column is P = rho g h = (1000)(10)(2) = 20,000 Pa. Atmospheric pressure is not included because the question asks for gauge pressure, the pressure due to the water alone.",
+      "memoryHook": "T-Rexy says: rho g h - density times g times depth gives the squeeze of the water alone.",
+      "imageUrl": "topic:fluids",
       "tags": [
-        "electricity"
+        "fluids"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1669,18 +1669,18 @@
     },
     {
       "id": "EPHY_088",
-      "question": "Ohm's law states:",
-      "correctAnswer": "V = IR",
+      "question": "According to Archimedes' principle, the buoyant force on a submerged object equals:",
+      "correctAnswer": "The weight of the fluid the object displaces",
       "distractors": [
-        "V = I/R",
-        "I = VR",
-        "R = VI"
+        "The weight of the object itself",
+        "The object's volume times g",
+        "The pressure at the object's depth"
       ],
-      "explanation": "Voltage equals current times resistance.",
-      "memoryHook": "T-Rexy says: Voltage equals current times resistance.",
-      "imageUrl": "topic:electricity",
+      "explanation": "A fluid pushes up on an object with a force equal to the weight of the fluid pushed aside (displaced) by the object: F_b = rho_fluid V_displaced g. It does not depend on the object's own weight or on how deep it sits.",
+      "memoryHook": "T-Rexy says: The water pushes you up with the weight of the water you pushed out of the way.",
+      "imageUrl": "topic:fluids",
       "tags": [
-        "electricity"
+        "fluids"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1688,18 +1688,18 @@
     },
     {
       "id": "EPHY_089",
-      "question": "A resistor has 6 V across it and 2 A through it. Its resistance is:",
-      "correctAnswer": "3 ohms",
+      "question": "A block with density 500 kg/m^3 floats in water (density 1000 kg/m^3). What fraction of the block's volume is submerged?",
+      "correctAnswer": "1/2",
       "distractors": [
-        "12 ohms",
-        "0.33 ohms",
-        "8 ohms"
+        "1/4",
+        "3/4",
+        "All of it"
       ],
-      "explanation": "R = V/I = 6/2 = 3 ohms.",
-      "memoryHook": "T-Rexy says: Voltage divided by current is resistance.",
-      "imageUrl": "topic:electricity",
+      "explanation": "A floating object displaces its own weight in water, so the submerged fraction equals the density ratio: 500/1000 = 1/2. Half the block sits below the waterline and half above.",
+      "memoryHook": "T-Rexy says: Float fraction is just the density ratio - half as dense as water, half under water.",
+      "imageUrl": "topic:fluids",
       "tags": [
-        "electricity"
+        "fluids"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1707,18 +1707,18 @@
     },
     {
       "id": "EPHY_090",
-      "question": "In a series circuit, the current is:",
-      "correctAnswer": "The same everywhere",
+      "question": "Water flows through a horizontal pipe that narrows to half its original cross-sectional area. In the narrow section, the water's speed:",
+      "correctAnswer": "Doubles",
       "distractors": [
-        "Larger near the battery",
-        "Split between branches",
-        "Zero"
+        "Halves",
+        "Stays the same",
+        "Drops to zero"
       ],
-      "explanation": "Series has one path, so current is identical throughout.",
-      "memoryHook": "T-Rexy says: Series current is the same everywhere.",
-      "imageUrl": "topic:electricity",
+      "explanation": "The continuity equation A1v1 = A2v2 conserves the flow rate: the same volume per second must pass every section of the pipe. Halving the area forces the speed to double.",
+      "memoryHook": "T-Rexy says: Squeeze the pipe and the water hurries - what flows in must flow out.",
+      "imageUrl": "topic:fluids",
       "tags": [
-        "electricity"
+        "fluids"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1726,18 +1726,18 @@
     },
     {
       "id": "EPHY_091",
-      "question": "In a parallel circuit, the voltage across each branch is:",
-      "correctAnswer": "The same",
+      "question": "Two points in a still lake are at the same depth but different horizontal positions. The water pressure at the two points is:",
+      "correctAnswer": "Equal at both points",
       "distractors": [
-        "Split equally",
-        "Proportional to resistance",
-        "Zero"
+        "Greater at the point nearer the shore",
+        "Greater at the point nearer the middle",
+        "Zero at both points"
       ],
-      "explanation": "Parallel branches connect across the same two points.",
-      "memoryHook": "T-Rexy says: Parallel branches share the same voltage.",
-      "imageUrl": "topic:electricity",
+      "explanation": "In a fluid at rest, pressure depends only on depth (P = rho g h), not on horizontal position. Both points have the same depth, so the pressures match.",
+      "memoryHook": "T-Rexy says: Same depth, same squeeze - sideways position does not matter.",
+      "imageUrl": "topic:fluids",
       "tags": [
-        "electricity"
+        "fluids"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1745,18 +1745,18 @@
     },
     {
       "id": "EPHY_092",
-      "question": "Two 6-ohm resistors in series have equivalent resistance of:",
-      "correctAnswer": "12 ohms",
+      "question": "Air flows faster over the top of an airplane wing than underneath it. According to Bernoulli's principle, the air pressure above the wing is:",
+      "correctAnswer": "Lower than the pressure below the wing",
       "distractors": [
-        "3 ohms",
-        "6 ohms",
-        "36 ohms"
+        "Higher than the pressure below the wing",
+        "Equal to the pressure below the wing",
+        "Zero above the wing"
       ],
-      "explanation": "Series resistances add: 6 + 6 = 12 ohms.",
-      "memoryHook": "T-Rexy says: Series resistances add up.",
-      "imageUrl": "topic:electricity",
+      "explanation": "Bernoulli's principle: where a fluid moves faster, its pressure is lower. The faster air on top creates lower pressure above the wing, and the higher pressure below pushes the wing up.",
+      "memoryHook": "T-Rexy says: Fast flow, low pressure - that pressure difference is what lifts the wing.",
+      "imageUrl": "topic:fluids",
       "tags": [
-        "electricity"
+        "fluids"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1764,18 +1764,18 @@
     },
     {
       "id": "EPHY_093",
-      "question": "Two 6-ohm resistors in parallel have equivalent resistance of:",
-      "correctAnswer": "3 ohms",
+      "question": "Two objects attract each other with a gravitational force F. If the distance between their centers is tripled, the new gravitational force is:",
+      "correctAnswer": "F/9",
       "distractors": [
-        "12 ohms",
-        "6 ohms",
-        "36 ohms"
+        "F/3",
+        "F/6",
+        "3F"
       ],
-      "explanation": "1/R = 1/6 + 1/6 = 1/3, so R = 3 ohms.",
-      "memoryHook": "T-Rexy says: Parallel halves equal resistances.",
-      "imageUrl": "topic:electricity",
+      "explanation": "Newton's law of gravitation is an inverse-square law: F = G m1 m2 / r^2. Tripling r divides the force by 3^2 = 9, so the new force is F/9.",
+      "memoryHook": "T-Rexy says: Gravity fades with distance squared - three times farther, nine times weaker.",
+      "imageUrl": "topic:gravitation",
       "tags": [
-        "electricity"
+        "circular-motion"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1783,18 +1783,18 @@
     },
     {
       "id": "EPHY_094",
-      "question": "Electric power can be calculated as:",
-      "correctAnswer": "IV",
+      "question": "A ball on a string moves in a circle at constant speed. Its velocity is:",
+      "correctAnswer": "Constantly changing, because its direction changes",
       "distractors": [
-        "I/V",
-        "V/I",
-        "IR^2 only"
+        "Constant, because its speed is constant",
+        "Zero at the top of the circle",
+        "Directed toward the center of the circle"
       ],
-      "explanation": "P = IV is the general power formula.",
-      "memoryHook": "T-Rexy says: Power is current times voltage.",
-      "imageUrl": "topic:electricity",
+      "explanation": "Velocity is a vector, so direction matters. The ball's speed never changes, but its direction turns continuously, which means the velocity changes and the ball accelerates toward the center.",
+      "memoryHook": "T-Rexy says: Constant speed is not constant velocity - turning is changing.",
+      "imageUrl": "topic:circular",
       "tags": [
-        "electricity"
+        "circular-motion"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1802,18 +1802,18 @@
     },
     {
       "id": "EPHY_095",
-      "question": "A 100 W bulb runs for 2 hours. The energy used is:",
-      "correctAnswer": "200 Wh",
+      "question": "The Moon stays in orbit around Earth mainly because of:",
+      "correctAnswer": "Earth's gravitational pull on the Moon",
       "distractors": [
-        "50 Wh",
-        "100 Wh",
-        "400 Wh"
+        "The Moon's own engine-like thrust",
+        "Earth's magnetic field",
+        "The absence of any forces on the Moon"
       ],
-      "explanation": "Energy = power times time = 100 x 2 = 200 Wh.",
-      "memoryHook": "T-Rexy says: Energy is power times time.",
-      "imageUrl": "topic:electricity",
+      "explanation": "Gravity between Earth and the Moon supplies the centripetal force that continually bends the Moon's path into an orbit. The Moon is always falling toward Earth while its sideways motion carries it around.",
+      "memoryHook": "T-Rexy says: The Moon is forever falling around Earth, held in its circle by gravity.",
+      "imageUrl": "topic:gravitation",
       "tags": [
-        "electricity"
+        "circular-motion"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1821,18 +1821,18 @@
     },
     {
       "id": "EPHY_096",
-      "question": "Like charges:",
-      "correctAnswer": "Repel each other",
+      "question": "A 20 N force acts on a cart for 2 s. The change in the cart's momentum is:",
+      "correctAnswer": "40 kg m/s",
       "distractors": [
-        "Attract each other",
-        "Have no effect",
-        "Cancel out"
+        "10 kg m/s",
+        "22 kg m/s",
+        "80 kg m/s"
       ],
-      "explanation": "Like charges repel; opposites attract.",
-      "memoryHook": "T-Rexy says: Like charges push apart.",
-      "imageUrl": "topic:electricity",
+      "explanation": "Impulse equals the change in momentum: delta p = F delta t = (20 N)(2 s) = 40 N s, and 1 N s is the same unit as 1 kg m/s.",
+      "memoryHook": "T-Rexy says: Push strength times push time tells you the momentum change.",
+      "imageUrl": "topic:momentum",
       "tags": [
-        "electricity"
+        "momentum"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1840,18 +1840,18 @@
     },
     {
       "id": "EPHY_097",
-      "question": "Coulomb's law states force is proportional to:",
-      "correctAnswer": "Product of charges divided by distance squared",
+      "question": "A 4 kg object at rest explodes into two pieces. One piece has mass 1 kg and moves off at 6 m/s. The speed of the other piece (mass 3 kg) is:",
+      "correctAnswer": "2 m/s",
       "distractors": [
-        "Sum of charges",
-        "Distance",
-        "Charge difference"
+        "6 m/s",
+        "3 m/s",
+        "18 m/s"
       ],
-      "explanation": "F = k(q1q2)/r^2.",
-      "memoryHook": "T-Rexy says: Electric force follows an inverse-square law.",
-      "imageUrl": "topic:electricity",
+      "explanation": "Total momentum starts at zero and is conserved: 0 = (1 kg)(6 m/s) + (3 kg)(v), so 3v = -6 and v = -2 m/s. The minus sign means it flies opposite the first piece, at a speed of 2 m/s.",
+      "memoryHook": "T-Rexy says: The explosion starts from zero momentum, so the pieces' momenta must cancel.",
+      "imageUrl": "topic:momentum",
       "tags": [
-        "electricity"
+        "momentum"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1859,18 +1859,18 @@
     },
     {
       "id": "EPHY_098",
-      "question": "An electric field is defined as force per unit:",
-      "correctAnswer": "Charge",
+      "question": "A 10 N force is applied perpendicular to a wrench 0.5 m from the bolt. The torque on the bolt is:",
+      "correctAnswer": "5 N m",
       "distractors": [
-        "Mass",
-        "Distance",
-        "Current"
+        "20 N m",
+        "0.5 N m",
+        "50 N m"
       ],
-      "explanation": "E = F/q.",
-      "memoryHook": "T-Rexy says: Field is force per charge.",
-      "imageUrl": "topic:electricity",
+      "explanation": "For a perpendicular force, torque = rF = (0.5 m)(10 N) = 5 N m. A longer handle would give more torque from the same force.",
+      "memoryHook": "T-Rexy says: Torque is leverage times push - grip the wrench at the end.",
+      "imageUrl": "topic:torque",
       "tags": [
-        "electricity"
+        "rotation"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1878,18 +1878,18 @@
     },
     {
       "id": "EPHY_099",
-      "question": "A capacitor stores energy in:",
-      "correctAnswer": "An electric field",
+      "question": "A rotating platform's moment of inertia is cut in half when the mass on it moves closer to the axis. With no outside torques, its angular speed:",
+      "correctAnswer": "Doubles",
       "distractors": [
-        "A magnetic field",
-        "Heat",
-        "Chemical bonds"
+        "Halves",
+        "Stays the same",
+        "Quadruples"
       ],
-      "explanation": "Capacitors hold charge separated across plates, storing energy in the field between them.",
-      "memoryHook": "T-Rexy says: Capacitors store energy in electric fields.",
-      "imageUrl": "topic:electricity",
+      "explanation": "Angular momentum L = I omega is conserved when no net external torque acts. Halving I forces omega to double so the product I omega stays constant - the same reason spinning skaters speed up when they pull their arms in.",
+      "memoryHook": "T-Rexy says: Pull the mass in and the spin speeds up - angular momentum refuses to change.",
+      "imageUrl": "topic:rotation",
       "tags": [
-        "electricity"
+        "rotation"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1897,18 +1897,18 @@
     },
     {
       "id": "EPHY_100",
-      "question": "The AP Physics 1 exam includes which of the following?",
-      "correctAnswer": "Both multiple-choice and free-response questions",
+      "question": "A net torque applied to a rigid object causes the object to:",
+      "correctAnswer": "Change its angular velocity",
       "distractors": [
-        "Only multiple-choice questions",
-        "Only lab work",
-        "Only essays"
+        "Move in a straight line",
+        "Gain linear momentum only",
+        "Stop rotating immediately"
       ],
-      "explanation": "AP Physics 1 has a multiple-choice section and a free-response section.",
-      "memoryHook": "T-Rexy says: AP Physics 1 mixes multiple-choice and free-response.",
-      "imageUrl": "topic:exam",
+      "explanation": "Torque is the rotational counterpart of force: just as a net force changes linear velocity, a net torque produces angular acceleration and changes the object's angular velocity.",
+      "memoryHook": "T-Rexy says: Torque is the twist that changes how fast something spins.",
+      "imageUrl": "topic:torque",
       "tags": [
-        "electricity"
+        "rotation"
       ],
       "difficulty": "easy",
       "dynamic": false,
