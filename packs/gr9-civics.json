@@ -1615,19 +1615,19 @@
     },
     {
       "id": "CIV9_081",
-      "question": "What is the capital of Arizona?",
-      "correctAnswer": "Phoenix",
+      "question": "What does the Third Amendment protect?",
+      "correctAnswer": "The right not to be forced to house soldiers in your home",
       "distractors": [
-        "Tucson",
-        "Flagstaff",
-        "Mesa"
+        "The right to a speedy trial",
+        "The right to bear arms",
+        "Freedom of speech"
       ],
-      "explanation": "Phoenix has been Arizona's capital since 1889, before statehood; the copper-domed Arizona Capitol building is now a museum next to the modern government towers.",
-      "memoryHook": "T-Rexy says: Phoenix is Arizona's capital.",
+      "explanation": "The Third Amendment bans the government from forcing people to house (\"quarter\") soldiers in their homes during peacetime. It answered a British practice the colonists hated: the Quartering Acts allowed British troops to be lodged in private homes.",
+      "memoryHook": "T-Rexy says: The Third says no soldier sleepovers.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
-        "arizona"
+        "rights"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1635,19 +1635,19 @@
     },
     {
       "id": "CIV9_082",
-      "question": "How many states are in the United States?",
-      "correctAnswer": "50",
+      "question": "What is a presidential pardon?",
+      "correctAnswer": "Forgiveness of a federal crime that erases its punishment",
       "distractors": [
-        "48",
-        "52",
-        "51"
+        "A veto of a bill passed by Congress",
+        "An order directing the military",
+        "A treaty with another nation"
       ],
-      "explanation": "The count has been 50 since Hawaii joined in 1959; before that, Alaska's admission the same year had briefly made it 49.",
-      "memoryHook": "T-Rexy says: 50 states.",
+      "explanation": "A presidential pardon forgives a federal crime and wipes out its legal punishment; presidents can also shorten a sentence, which is called a commutation. In 1974, President Gerald Ford pardoned former President Richard Nixon for any crimes connected to Watergate.",
+      "memoryHook": "T-Rexy says: A pardon forgives a federal crime.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
-        "geography"
+        "president"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1655,19 +1655,19 @@
     },
     {
       "id": "CIV9_083",
-      "question": "What is the largest state by area?",
-      "correctAnswer": "Alaska",
+      "question": "How many amendments does the Constitution have in total?",
+      "correctAnswer": "27",
       "distractors": [
-        "Texas",
-        "California",
-        "Montana"
+        "10",
+        "21",
+        "33"
       ],
-      "explanation": "Alaska is more than twice the size of Texas, the second-largest state - you could fit about 425 Rhode Islands inside it.",
-      "memoryHook": "T-Rexy says: Alaska is biggest.",
+      "explanation": "The Bill of Rights was only the first 10 amendments, added in 1791; 17 more have been added since. The most recent, the 27th Amendment about congressional pay, was finally ratified in 1992 - more than 200 years after it was first proposed.",
+      "memoryHook": "T-Rexy says: The Constitution has 27 amendments.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
-        "geography"
+        "constitution"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1675,19 +1675,19 @@
     },
     {
       "id": "CIV9_084",
-      "question": "What is the smallest state by area?",
-      "correctAnswer": "Rhode Island",
+      "question": "What is the minimum age to serve in the United States Senate?",
+      "correctAnswer": "30 years old",
       "distractors": [
-        "Delaware",
-        "Connecticut",
-        "Hawaii"
+        "25 years old",
+        "35 years old",
+        "21 years old"
       ],
-      "explanation": "Rhode Island covers about 1,214 square miles, smaller than many US counties, and you can drive across it in about an hour.",
-      "memoryHook": "T-Rexy says: Rhode Island is smallest.",
+      "explanation": "The Constitution sets three age floors: 25 for the House, 30 for the Senate, and 35 for President - the higher the office, the higher the bar. Senators must also have been United States citizens for at least nine years.",
+      "memoryHook": "T-Rexy says: Senators must be at least 30.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
-        "geography"
+        "congress"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1695,19 +1695,19 @@
     },
     {
       "id": "CIV9_085",
-      "question": "What ocean is on the west coast of the United States?",
-      "correctAnswer": "Pacific Ocean",
+      "question": "What is one right that only United States citizens have?",
+      "correctAnswer": "The right to vote in federal elections",
       "distractors": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean"
+        "Freedom of speech",
+        "Freedom of religion",
+        "The right to a speedy and fair trial"
       ],
-      "explanation": "Remember it by the sun: the Pacific is the ocean the sun sets into for the West Coast states - California, Oregon, and Washington.",
-      "memoryHook": "T-Rexy says: The Pacific is west.",
+      "explanation": "Most rights in the Constitution protect everyone in the country, citizen or not. Voting in federal elections - and running for federal office - is reserved for citizens, which is one reason naturalization matters.",
+      "memoryHook": "T-Rexy says: Only citizens vote for President and Congress.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
-        "geography"
+        "citizenship"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1715,19 +1715,19 @@
     },
     {
       "id": "CIV9_086",
-      "question": "What ocean is on the east coast of the United States?",
-      "correctAnswer": "Atlantic Ocean",
+      "question": "How many terms can a member of Congress serve?",
+      "correctAnswer": "There is no term limit",
       "distractors": [
-        "Pacific Ocean",
-        "Indian Ocean",
-        "Arctic Ocean"
+        "Two terms",
+        "Three terms",
+        "Six terms"
       ],
-      "explanation": "The Atlantic borders every East Coast state from Maine to Florida; it is also the ocean the first colonists crossed from Europe.",
-      "memoryHook": "T-Rexy says: The Atlantic is east.",
+      "explanation": "Unlike the President, who is capped at two terms by the 22nd Amendment, senators and representatives face no term limits at all. Voters decide at every election whether a member of Congress stays or goes.",
+      "memoryHook": "T-Rexy says: Congress has no term limits - voters decide.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
-        "geography"
+        "congress"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1735,19 +1735,19 @@
     },
     {
       "id": "CIV9_087",
-      "question": "What river forms part of the border between the United States and Mexico?",
-      "correctAnswer": "Rio Grande",
+      "question": "How does the impeachment process work?",
+      "correctAnswer": "The House votes to impeach (bring charges), and the Senate holds the trial",
       "distractors": [
-        "Mississippi River",
-        "Ohio River",
-        "Columbia River"
+        "The Senate votes to impeach, and the House holds the trial",
+        "The Supreme Court brings charges, and the Senate holds the trial",
+        "The Cabinet brings charges, and the House holds the trial"
       ],
-      "explanation": "The Rio Grande runs about 1,255 miles along the Texas-Mexico border, from El Paso to the Gulf of Mexico - the most famous border river in North America.",
-      "memoryHook": "T-Rexy says: The Rio Grande is the border.",
+      "explanation": "Impeachment is Congress's check on presidents and other federal officials: the House impeaches by a majority vote, the Senate then holds the trial, and removal from office requires two-thirds of the Senate. Three presidents have been impeached - Andrew Johnson, Bill Clinton, and Donald Trump - and none was removed.",
+      "memoryHook": "T-Rexy says: The House charges, the Senate tries.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
-        "geography"
+        "congress"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1755,19 +1755,19 @@
     },
     {
       "id": "CIV9_088",
-      "question": "What is the longest river in the United States?",
-      "correctAnswer": "Missouri River",
+      "question": "What does it take to amend the Constitution?",
+      "correctAnswer": "Proposal by two-thirds of Congress and ratification by three-fourths of the states",
       "distractors": [
-        "Mississippi River",
-        "Colorado River",
-        "Rio Grande"
+        "A majority vote in Congress and the President's signature",
+        "Proposal by the President and approval by the Supreme Court",
+        "Ratification by half of the states after Congress proposes it"
       ],
-      "explanation": "It surprises most students: the Missouri River (about 2,341 miles) edges out the Mississippi (about 2,320 miles) as the longest river in the United States, and the two join near St. Louis.",
-      "memoryHook": "T-Rexy says: The Missouri is longest.",
+      "explanation": "Article V makes amendments deliberately hard: two-thirds of both houses of Congress must propose one, and three-fourths of the states (38 of 50) must ratify it. The President plays no role in the process, which is why only 27 amendments have succeeded in more than 230 years.",
+      "memoryHook": "T-Rexy says: Two-thirds propose, three-fourths approve.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
-        "geography"
+        "constitution"
       ],
       "difficulty": "hard",
       "dynamic": false,
