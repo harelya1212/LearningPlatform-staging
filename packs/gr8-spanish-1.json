@@ -22,7 +22,7 @@
         "compra",
         "compramos"
       ],
-      "explanation": "The tu present-tense form of comprar is compras.",
+      "explanation": "Comprar is an -ar verb: drop -ar and add -as for tú (compras), -o for yo (compro), and -a for él (compra).",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -43,7 +43,7 @@
         "cantas",
         "canta"
       ],
-      "explanation": "The nosotros present-tense form of cantar is cantamos.",
+      "explanation": "For -ar verbs, nosotros ends in -amos: cantar → cantamos. Compare yo canto and tú cantas - only the ending changes.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -64,7 +64,7 @@
         "cuatro",
         "siete"
       ],
-      "explanation": "The number fifty in Spanish is cincuenta.",
+      "explanation": "Cincuenta is 50 - the tens run treinta (30), cuarenta (40), cincuenta (50), sesenta (60). It starts like cinco (5) because 50 is five tens.",
       "memoryHook": "T-Rexy says: Count in Spanish every day.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -84,7 +84,7 @@
         "abre",
         "abrimos"
       ],
-      "explanation": "The tu present-tense form of abrir is abres.",
+      "explanation": "Abrir is an -ir verb: for tú, drop -ir and add -es (abres); yo is abro and él is abre.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -105,7 +105,7 @@
         "trabajas",
         "trabaja"
       ],
-      "explanation": "The ellos present-tense form of trabajar is trabajan.",
+      "explanation": "Ellos forms of -ar verbs end in -an: trabajar → trabajan, just as hablar → hablan.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -126,7 +126,7 @@
         "hablas",
         "habla"
       ],
-      "explanation": "The ellos present-tense form of hablar is hablan.",
+      "explanation": "For -ar verbs, ellos ends in -an (hablan) while él ends in -a (habla) - that final -n makes it plural.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -147,7 +147,7 @@
         "miras",
         "miramos"
       ],
-      "explanation": "The el/ella present-tense form of mirar is mira.",
+      "explanation": "Él/ella forms of -ar verbs end in -a: mirar → mira. Add -n for ellos (miran) and -s for tú (miras).",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -168,7 +168,7 @@
         "lees",
         "lee"
       ],
-      "explanation": "The nosotros present-tense form of leer is leemos.",
+      "explanation": "Leer is an -er verb, and nosotros takes -emos: leemos. The other -er endings are -o, -es, -e, -en.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -187,9 +187,9 @@
       "distractors": [
         "el verano",
         "la primavera",
-        "el otono"
+        "el otoño"
       ],
-      "explanation": "Winter in Spanish is el invierno.",
+      "explanation": "The four seasons: la primavera (spring), el verano (summer), el otoño (autumn), el invierno (winter) - invierno is the cold, snowy one.",
       "memoryHook": "T-Rexy says: Invierno is winter.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -209,7 +209,7 @@
         "vende",
         "vendemos"
       ],
-      "explanation": "The yo present-tense form of vender is vendo.",
+      "explanation": "For -er verbs the yo form ends in -o: vender → vendo, comer → como, beber → bebo.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -230,7 +230,7 @@
         "la madre",
         "el maestro"
       ],
-      "explanation": "'milk' in Spanish is 'la leche'.",
+      "explanation": "'La leche' is feminine - nouns ending in -e can be either gender, so learn the article with the word: la leche, la clase, el arte.",
       "memoryHook": "T-Rexy says: Learn words in pairs.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -249,7 +249,7 @@
         "vives",
         "vive"
       ],
-      "explanation": "The nosotros present-tense form of vivir is vivimos.",
+      "explanation": "Vivir is an -ir verb: nosotros ends in -imos (vivimos), while -er verbs use -emos - that vowel is the difference between -er and -ir.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -264,13 +264,13 @@
     {
       "id": "SPA8_013",
       "question": "What is the tu form of 'estar' in the present tense?",
-      "correctAnswer": "estas",
+      "correctAnswer": "estás",
       "distractors": [
         "estoy",
-        "esta",
+        "está",
         "estamos"
       ],
-      "explanation": "The tu form of estar is estas.",
+      "explanation": "Estar is irregular and its forms carry written accents: estoy, estás, está, estamos, están - tú takes estás.",
       "memoryHook": "T-Rexy says: Irregular verbs need memorizing.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -291,7 +291,7 @@
         "rojo",
         "blanco"
       ],
-      "explanation": "'school' in Spanish is 'la escuela'.",
+      "explanation": "'La escuela' is feminine: most nouns ending in -a take la. The school building is la escuela; the classes are las clases.",
       "memoryHook": "T-Rexy says: Learn words in pairs.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -310,7 +310,7 @@
         "va",
         "vamos"
       ],
-      "explanation": "The yo form of ir is voy.",
+      "explanation": "Ir is completely irregular - voy, vas, va, vamos, van share no pattern with the infinitive, so memorize the set; '¡Vamos!' also means 'Let's go!'",
       "memoryHook": "T-Rexy says: Irregular verbs need memorizing.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -331,7 +331,7 @@
         "estudia",
         "estudiamos"
       ],
-      "explanation": "The tu present-tense form of estudiar is estudias.",
+      "explanation": "Estudiar is an -ar verb: tú adds -as (estudias), and the -iar stem keeps its i in every form.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -352,7 +352,7 @@
         "habla",
         "hablamos"
       ],
-      "explanation": "The tu present-tense form of hablar is hablas.",
+      "explanation": "Tú forms of -ar verbs end in -as: hablar → hablas, cantar → cantas - the -s ending marks 'you'.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -373,7 +373,7 @@
         "miras",
         "mira"
       ],
-      "explanation": "The nosotros present-tense form of mirar is miramos.",
+      "explanation": "Nosotros forms of -ar verbs end in -amos (miramos) - for -ar verbs this form looks the same in the past tense, so context tells the time.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -414,7 +414,7 @@
         "the lunch",
         "the desk"
       ],
-      "explanation": "La mochila is the backpack.",
+      "explanation": "'La mochila' (the backpack) is feminine - nouns ending in -a usually take la, and your mochila is what carries your libros to la escuela.",
       "memoryHook": "T-Rexy says: Mochila is the backpack.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -454,7 +454,7 @@
         "recibes",
         "recibe"
       ],
-      "explanation": "The nosotros present-tense form of recibir is recibimos.",
+      "explanation": "Recibir is an -ir verb, so nosotros ends in -imos: recibimos - compare -er verbs, which use -emos.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -475,7 +475,7 @@
         "abre",
         "abrimos"
       ],
-      "explanation": "The yo present-tense form of abrir is abro.",
+      "explanation": "The yo form of -ir verbs ends in -o: abrir → abro, escribir → escribo, vivir → vivo.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -490,14 +490,14 @@
     {
       "id": "SPA8_024",
       "question": "How do you say 'What is your name?' in Spanish?",
-      "correctAnswer": "Como te llamas?",
+      "correctAnswer": "¿Cómo te llamas?",
       "distractors": [
-        "Como estas?",
-        "Donde vives?",
-        "Cuantos anos tienes?"
+        "¿Cómo estás?",
+        "¿Dónde vives?",
+        "¿Cuántos años tienes?"
       ],
-      "explanation": "What is your name? in Spanish is Como te llamas?",
-      "memoryHook": "T-Rexy says: Como te llamas asks your name.",
+      "explanation": "Ask a friend '¿Cómo te llamas?' - literally 'How do you call yourself?' Answer with 'Me llamo...' plus your name.",
+      "memoryHook": "T-Rexy says: ¿Cómo te llamas? asks your name.",
       "imageUrl": "topic:spanish",
       "tags": [
         "greetings"
@@ -515,7 +515,7 @@
         "eres",
         "es"
       ],
-      "explanation": "The nosotros form of ser is somos.",
+      "explanation": "Ser is irregular: soy, eres, es, somos, son. Somos is the nosotros form - 'Nosotros somos amigos' means 'We are friends.'",
       "memoryHook": "T-Rexy says: Irregular verbs need memorizing.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -536,7 +536,7 @@
         "trabaja",
         "trabajamos"
       ],
-      "explanation": "The yo present-tense form of trabajar is trabajo.",
+      "explanation": "The yo form of -ar verbs ends in -o: trabajar → trabajo, hablar → hablo, estudiar → estudio.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -557,7 +557,7 @@
         "lees",
         "leemos"
       ],
-      "explanation": "The el/ella present-tense form of leer is lee.",
+      "explanation": "For -er verbs, él/ella ends in -e: leer → lee, comer → come. Watch the double e in lee - both letters are written.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -578,7 +578,7 @@
         "el pan",
         "azul"
       ],
-      "explanation": "'dog' in Spanish is 'el perro'.",
+      "explanation": "'El perro' is masculine (a female dog is la perra). Most nouns ending in -o take el: el perro, el gato, el libro.",
       "memoryHook": "T-Rexy says: Learn words in pairs.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -617,7 +617,7 @@
         "trabajas",
         "trabaja"
       ],
-      "explanation": "The nosotros present-tense form of trabajar is trabajamos.",
+      "explanation": "Trabajar is an -ar verb: nosotros ends in -amos (trabajamos), the same ending as cantamos and hablamos.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -638,7 +638,7 @@
         "lee",
         "leemos"
       ],
-      "explanation": "The tu present-tense form of leer is lees.",
+      "explanation": "For -er verbs, tú ends in -es: leer → lees, vender → vendes. Leer keeps both e's: le-es.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -659,7 +659,7 @@
         "hablas",
         "habla"
       ],
-      "explanation": "The nosotros present-tense form of hablar is hablamos.",
+      "explanation": "Hablamos is the nosotros form: -ar verbs use -amos for 'we' - 'Hablamos español' means 'We speak Spanish.'",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -680,7 +680,7 @@
         "diez",
         "veinte"
       ],
-      "explanation": "The number five in Spanish is cinco.",
+      "explanation": "The first five: uno, dos, tres, cuatro, cinco. Cinco shares its root with cincuenta (50) and cinco mil (5,000).",
       "memoryHook": "T-Rexy says: Count in Spanish every day.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -700,7 +700,7 @@
         "doce",
         "cincuenta"
       ],
-      "explanation": "The number seven in Spanish is siete.",
+      "explanation": "Count up: cinco (5), seis (6), siete (7), ocho (8), nueve (9) - siete is the one that sounds closest to English 'seven'.",
       "memoryHook": "T-Rexy says: Count in Spanish every day.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -740,7 +740,7 @@
         "recibes",
         "recibe"
       ],
-      "explanation": "The ellos present-tense form of recibir is reciben.",
+      "explanation": "Ellos forms of -ir verbs end in -en: recibir → reciben, vivir → viven, abrir → abren.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -755,14 +755,14 @@
     {
       "id": "SPA8_037",
       "question": "How do you say 'How are you?' in Spanish?",
-      "correctAnswer": "Como estas?",
+      "correctAnswer": "¿Cómo estás?",
       "distractors": [
-        "Como te llamas?",
-        "Donde vives?",
-        "Cuantos anos tienes?"
+        "¿Cómo te llamas?",
+        "¿Dónde vives?",
+        "¿Cuántos años tienes?"
       ],
-      "explanation": "How are you? in Spanish is Como estas?",
-      "memoryHook": "T-Rexy says: Como estas asks how you are.",
+      "explanation": "Ask '¿Cómo estás?' because feelings and health are temporary states, so they use estar. A standard answer: 'Estoy bien, gracias.'",
+      "memoryHook": "T-Rexy says: ¿Cómo estás? asks how you are.",
       "imageUrl": "topic:spanish",
       "tags": [
         "greetings"
@@ -780,7 +780,7 @@
         "once",
         "treinta"
       ],
-      "explanation": "The number six in Spanish is seis.",
+      "explanation": "Seis is 6: uno, dos, tres, cuatro, cinco, seis. Sixteen fuses diez + seis into one word: dieciséis (note the accent).",
       "memoryHook": "T-Rexy says: Count in Spanish every day.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -800,7 +800,7 @@
         "vives",
         "vive"
       ],
-      "explanation": "The ellos present-tense form of vivir is viven.",
+      "explanation": "For -ir verbs, ellos ends in -en: vivir → viven. Only the nosotros form (-imos) separates -ir from -er verbs.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -821,7 +821,7 @@
         "Seville",
         "Valencia"
       ],
-      "explanation": "Madrid is the capital of Spain.",
+      "explanation": "Madrid is Spain's capital and largest city. Barcelona is famous too, but it is the capital of Catalonia, not of Spain.",
       "memoryHook": "T-Rexy says: Madrid is the capital.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -861,7 +861,7 @@
         "verde",
         "el padre"
       ],
-      "explanation": "'friend' in Spanish is 'el amigo'.",
+      "explanation": "'El amigo' is a male friend; a female friend is la amiga. Nouns ending in -o are usually masculine and take el.",
       "memoryHook": "T-Rexy says: Learn words in pairs.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -880,7 +880,7 @@
         "escuchas",
         "escuchamos"
       ],
-      "explanation": "The el/ella present-tense form of escuchar is escucha.",
+      "explanation": "Él/ella forms of -ar verbs end in -a: escuchar → escucha - 'Ella escucha música' means 'She listens to music.'",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -901,7 +901,7 @@
         "vendes",
         "vendemos"
       ],
-      "explanation": "The el/ella present-tense form of vender is vende.",
+      "explanation": "For -er verbs, él/ella ends in -e: vender → vende, exactly like comer → come and beber → bebe.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -922,7 +922,7 @@
         "habla",
         "hablamos"
       ],
-      "explanation": "The yo present-tense form of hablar is hablo.",
+      "explanation": "Every regular yo form ends in -o: hablar → hablo. If a verb form ends in -o, the subject is 'I'.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -943,7 +943,7 @@
         "nadas",
         "nadamos"
       ],
-      "explanation": "The el/ella present-tense form of nadar is nada.",
+      "explanation": "Nadar is an -ar verb, so él takes -a: nada. Careful: 'nada' by itself can also mean 'nothing' - context tells which.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -964,7 +964,7 @@
         "compras",
         "compramos"
       ],
-      "explanation": "The el/ella present-tense form of comprar is compra.",
+      "explanation": "Compra is the él/ella form of comprar (-ar verbs take -a for he/she); the same word, la compra, is also the noun 'shopping/purchase'.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -985,7 +985,7 @@
         "la leche",
         "verde"
       ],
-      "explanation": "'cat' in Spanish is 'el gato'.",
+      "explanation": "'El gato' is masculine (female: la gata). Most -o nouns take el - el gato, el perro, el libro.",
       "memoryHook": "T-Rexy says: Learn words in pairs.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1004,7 +1004,7 @@
         "lee",
         "leemos"
       ],
-      "explanation": "The yo present-tense form of leer is leo.",
+      "explanation": "Leo is the yo form of leer: -er and -ir verbs both use -o for yo (leo, como, vivo).",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1025,7 +1025,7 @@
         "es",
         "somos"
       ],
-      "explanation": "The yo form of ser is soy.",
+      "explanation": "Ser is irregular from the first form: soy, eres, es, somos, son. Use ser for identity and origin - 'Yo soy estudiante' (I am a student).",
       "memoryHook": "T-Rexy says: Irregular verbs need memorizing.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1046,7 +1046,7 @@
         "la manzana",
         "negro"
       ],
-      "explanation": "'house' in Spanish is 'la casa'.",
+      "explanation": "'La casa' is feminine: most nouns ending in -a take la - la casa, la mesa, la puerta.",
       "memoryHook": "T-Rexy says: Learn words in pairs.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1065,7 +1065,7 @@
         "tienes",
         "tenemos"
       ],
-      "explanation": "The el/ella form of tener is tiene.",
+      "explanation": "Tener is stem-changing (e → ie) in most forms: tengo, tienes, tiene, tenemos, tienen - nosotros keeps the plain e, and yo adds a g (tengo).",
       "memoryHook": "T-Rexy says: Irregular verbs need memorizing.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1086,7 +1086,7 @@
         "corres",
         "corre"
       ],
-      "explanation": "The ellos present-tense form of correr is corren.",
+      "explanation": "Ellos forms of -er verbs end in -en: correr → corren, comer → comen, leer → leen.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1107,7 +1107,7 @@
         "nueve",
         "doce"
       ],
-      "explanation": "The number four in Spanish is cuatro.",
+      "explanation": "Cuatro is 4 - it shares the 'cuatr-' root with cuarenta (40) and cuatrocientos (400).",
       "memoryHook": "T-Rexy says: Count in Spanish every day.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1127,7 +1127,7 @@
         "la casa",
         "el agua"
       ],
-      "explanation": "'sun' in Spanish is 'el sol'.",
+      "explanation": "'El sol' is masculine. Sol also appears in English 'solar' - el sol sale en el este (the sun rises in the east).",
       "memoryHook": "T-Rexy says: Learn words in pairs.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1146,7 +1146,7 @@
         "the book",
         "the classroom"
       ],
-      "explanation": "La biblioteca is the library.",
+      "explanation": "'La biblioteca' is the library building - do not confuse it with the book itself, which is el libro. A biblioteca is full of libros.",
       "memoryHook": "T-Rexy says: Biblioteca is the library.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1166,7 +1166,7 @@
         "treinta",
         "uno"
       ],
-      "explanation": "The number nine in Spanish is nueve.",
+      "explanation": "Nueve is 9, between ocho (8) and diez (10); it shares its root with noventa (90).",
       "memoryHook": "T-Rexy says: Count in Spanish every day.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1186,7 +1186,7 @@
         "vive",
         "vivimos"
       ],
-      "explanation": "The tu present-tense form of vivir is vives.",
+      "explanation": "Tú forms of -ir verbs end in -es: vivir → vives, escribir → escribes - the same ending -er verbs use.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1207,7 +1207,7 @@
         "lees",
         "lee"
       ],
-      "explanation": "The ellos present-tense form of leer is leen.",
+      "explanation": "Leen is the ellos form of leer: -er verbs end in -en for 'they' (leen, comen, corren).",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1228,7 +1228,7 @@
         "aprendes",
         "aprende"
       ],
-      "explanation": "The ellos present-tense form of aprender is aprenden.",
+      "explanation": "Aprender is a regular -er verb: ellos ends in -en (aprenden) and yo ends in -o (aprendo).",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1249,7 +1249,7 @@
         "bebe",
         "bebemos"
       ],
-      "explanation": "The yo present-tense form of beber is bebo.",
+      "explanation": "Bebo is the yo form of beber: all regular yo forms end in -o, whatever the verb family.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1270,7 +1270,7 @@
         "corre",
         "corremos"
       ],
-      "explanation": "The yo present-tense form of correr is corro.",
+      "explanation": "Correr → corro for yo: drop -er and add -o. The double r stays, so it is pronounced 'KOH-rroh'.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1291,7 +1291,7 @@
         "veinte",
         "cien"
       ],
-      "explanation": "The number eight in Spanish is ocho.",
+      "explanation": "Ocho is 8, and 18 fuses diez + ocho into a single word: dieciocho.",
       "memoryHook": "T-Rexy says: Count in Spanish every day.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1331,7 +1331,7 @@
         "escucha",
         "escuchamos"
       ],
-      "explanation": "The yo present-tense form of escuchar is escucho.",
+      "explanation": "Escuchar → escucho: -ar verbs use -o for yo, -as for tú, -a for él - one pattern for every regular -ar verb.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1352,7 +1352,7 @@
         "come",
         "comemos"
       ],
-      "explanation": "The tu present-tense form of comer is comes.",
+      "explanation": "For -er verbs, tú ends in -es: comer → comes. All three verb families mark tú with a final -s.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1393,7 +1393,7 @@
         "seis",
         "nueve"
       ],
-      "explanation": "The number one in Spanish is uno.",
+      "explanation": "Uno is 1 - before a masculine noun it shortens to un (un libro, un perro), and the feminine form is una (una casa).",
       "memoryHook": "T-Rexy says: Count in Spanish every day.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1413,7 +1413,7 @@
         "canta",
         "cantamos"
       ],
-      "explanation": "The yo present-tense form of cantar is canto.",
+      "explanation": "Cantar → canto: the yo form of every regular verb ends in -o - canto, bailo, estudio.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1434,7 +1434,7 @@
         "corres",
         "corremos"
       ],
-      "explanation": "The el/ella present-tense form of correr is corre.",
+      "explanation": "Corre is the él form of correr (-er verbs take -e for he/she); '¡Corre!' is also how you shout 'Run!'",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1455,7 +1455,7 @@
         "tiene",
         "tenemos"
       ],
-      "explanation": "The yo form of tener is tengo.",
+      "explanation": "Tengo is irregular - most yo forms just end in -o, but tener adds a g: tengo, like salgo (salir) and vengo (venir).",
       "memoryHook": "T-Rexy says: Irregular verbs need memorizing.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1476,7 +1476,7 @@
         "come",
         "comemos"
       ],
-      "explanation": "The yo present-tense form of comer is como.",
+      "explanation": "Como is the yo form of comer. Careful: 'como' with no accent also means 'like/as', while '¿cómo?' with an accent means 'how?'.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1490,15 +1490,15 @@
     },
     {
       "id": "SPA8_073",
-      "question": "What does 'Tengo trece anos' mean in English?",
+      "question": "What does 'Tengo trece años' mean in English?",
       "correctAnswer": "I am thirteen years old",
       "distractors": [
         "I have thirteen books",
         "I am thirteen feet tall",
         "I like thirteen"
       ],
-      "explanation": "Tengo trece anos means I am thirteen years old.",
-      "memoryHook": "T-Rexy says: Tengo anos tells your age.",
+      "explanation": "Spanish uses tener for age, not ser: 'Tengo trece años' is literally 'I have thirteen years.' And the ñ is essential - años means years.",
+      "memoryHook": "T-Rexy says: Tengo años tells your age.",
       "imageUrl": "topic:spanish",
       "tags": [
         "phrases",
@@ -1517,7 +1517,7 @@
         "siete",
         "diez"
       ],
-      "explanation": "The number two in Spanish is dos.",
+      "explanation": "Dos is 2: uno, dos, tres. The dos root also builds doce (12), veinte (20), and doscientos (200).",
       "memoryHook": "T-Rexy says: Count in Spanish every day.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1537,7 +1537,7 @@
         "escribe",
         "escribimos"
       ],
-      "explanation": "The tu present-tense form of escribir is escribes.",
+      "explanation": "Escribir is an -ir verb: tú ends in -es (escribes); only nosotros (-imos, escribimos) shows it is -ir and not -er.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1558,7 +1558,7 @@
         "trabajas",
         "trabajamos"
       ],
-      "explanation": "The el/ella present-tense form of trabajar is trabaja.",
+      "explanation": "Trabaja is the él/ella form of trabajar: -ar verbs take -a for he/she, as in 'Ella trabaja hoy' (She works today).",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1579,7 +1579,7 @@
         "abres",
         "abre"
       ],
-      "explanation": "The ellos present-tense form of abrir is abren.",
+      "explanation": "Abren is the ellos form of abrir: -ir verbs end in -en for 'they' - abren, escriben, viven.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1596,11 +1596,11 @@
       "question": "What is the yo form of 'estar' in the present tense?",
       "correctAnswer": "estoy",
       "distractors": [
-        "estas",
-        "esta",
+        "estás",
+        "está",
         "estamos"
       ],
-      "explanation": "The yo form of estar is estoy.",
+      "explanation": "Estoy is the yo form of irregular estar: estoy, estás, está, estamos, están - note the written accents on estás, está and están.",
       "memoryHook": "T-Rexy says: Irregular verbs need memorizing.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1619,9 +1619,9 @@
       "distractors": [
         "Guadalajara",
         "Monterrey",
-        "Cancun"
+        "Cancún"
       ],
-      "explanation": "Mexico City is the capital of Mexico.",
+      "explanation": "Mexico City (Ciudad de México) is the capital and largest city of Mexico; Guadalajara and Monterrey are major cities, but neither is the capital.",
       "memoryHook": "T-Rexy says: Mexico City is the capital.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1638,10 +1638,10 @@
       "correctAnswer": "domingo",
       "distractors": [
         "lunes",
-        "sabado",
+        "sábado",
         "viernes"
       ],
-      "explanation": "Sunday in Spanish is domingo.",
+      "explanation": "Days of the week are not capitalized in Spanish: lunes, martes, miércoles, jueves, viernes, sábado, domingo - miércoles and sábado carry written accents.",
       "memoryHook": "T-Rexy says: Domingo is Sunday.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1661,7 +1661,7 @@
         "el estudiante",
         "la ventana"
       ],
-      "explanation": "'black' in Spanish is 'negro'.",
+      "explanation": "'Negro' agrees with its noun: el perro negro, but la casa negra - colors ending in -o change for gender and number (negros, negras).",
       "memoryHook": "T-Rexy says: Learn words in pairs.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1680,7 +1680,7 @@
         "nada",
         "nadamos"
       ],
-      "explanation": "The yo present-tense form of nadar is nado.",
+      "explanation": "Nado is the yo form of nadar: drop -ar, add -o. 'Yo nado' means 'I swim'; the sport itself is la natación.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1701,7 +1701,7 @@
         "bebes",
         "bebe"
       ],
-      "explanation": "The ellos present-tense form of beber is beben.",
+      "explanation": "Beben is the ellos form of beber: -er verbs take -en for 'they' (beben, comen, leen).",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1722,7 +1722,7 @@
         "hablas",
         "hablamos"
       ],
-      "explanation": "The el/ella present-tense form of hablar is habla.",
+      "explanation": "Habla is the él/ella form of hablar: 'Él habla español' (He speaks Spanish) - and '¡Habla!' is the command 'Speak!'",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1743,7 +1743,7 @@
         "ir",
         "tener"
       ],
-      "explanation": "Use estar for location: La escuela esta aqui.",
+      "explanation": "Use estar for location: La escuela está aquí.",
       "memoryHook": "T-Rexy says: Estar is for location.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1763,7 +1763,7 @@
         "nadas",
         "nada"
       ],
-      "explanation": "The ellos present-tense form of nadar is nadan.",
+      "explanation": "Nadan is the ellos form of nadar: -ar verbs take -an for 'they' - nadan, cantan, bailan.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1784,7 +1784,7 @@
         "cinco",
         "ocho"
       ],
-      "explanation": "The number one hundred in Spanish is cien.",
+      "explanation": "Cien is exactly 100; add anything more and it becomes ciento: ciento uno (101), ciento veinte (120). Mil is 1,000.",
       "memoryHook": "T-Rexy says: Count in Spanish every day.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1804,7 +1804,7 @@
         "Ana is my sister",
         "I like Ana"
       ],
-      "explanation": "Me llamo means my name is.",
+      "explanation": "Llamarse is reflexive: 'Me llamo Ana' literally says 'I call myself Ana.' For someone else: 'Se llama...' (His/Her name is...).",
       "memoryHook": "T-Rexy says: Me llamo introduces yourself.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1823,7 +1823,7 @@
         "el maestro",
         "la puerta"
       ],
-      "explanation": "'green' in Spanish is 'verde'.",
+      "explanation": "'Verde' works for both genders because it ends in -e: el libro verde, la casa verde; only the plural changes (verdes).",
       "memoryHook": "T-Rexy says: Learn words in pairs.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1842,7 +1842,7 @@
         "el hermano",
         "la silla"
       ],
-      "explanation": "'blue' in Spanish is 'azul'.",
+      "explanation": "'Azul' is blue for both genders (el cielo azul, la casa azul); its plural adds -es: azules.",
       "memoryHook": "T-Rexy says: Learn words in pairs.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1859,9 +1859,9 @@
       "distractors": [
         "el invierno",
         "la primavera",
-        "el otono"
+        "el otoño"
       ],
-      "explanation": "Summer in Spanish is el verano.",
+      "explanation": "The seasons in order: la primavera (spring), el verano (summer - the hot beach season), el otoño (autumn), el invierno (winter).",
       "memoryHook": "T-Rexy says: Verano is summer.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1881,7 +1881,7 @@
         "escuchas",
         "escucha"
       ],
-      "explanation": "The ellos present-tense form of escuchar is escuchan.",
+      "explanation": "Escuchan is the ellos form of escuchar: -ar verbs end in -an for 'they' (escuchan, miran, nadan).",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1902,7 +1902,7 @@
         "Lo siento",
         "De nada"
       ],
-      "explanation": "Please in Spanish is Por favor.",
+      "explanation": "'Por favor' is literally 'as a favor' - attach it to any request: 'La cuenta, por favor' (The check, please).",
       "memoryHook": "T-Rexy says: Por favor means please.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1921,7 +1921,7 @@
         "excuse me",
         "you are welcome"
       ],
-      "explanation": "Por favor means please.",
+      "explanation": "Keep the polite trio straight: por favor = please (when asking), gracias = thank you, and de nada = you're welcome (when answering).",
       "memoryHook": "T-Rexy says: Por favor means please.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1940,7 +1940,7 @@
         "estudias",
         "estudiamos"
       ],
-      "explanation": "The el/ella present-tense form of estudiar is estudia.",
+      "explanation": "Estudia is the él/ella form of estudiar (-ar verbs take -a): 'Ella estudia mucho' means 'She studies a lot.'",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1961,7 +1961,7 @@
         "vas",
         "va"
       ],
-      "explanation": "The nosotros form of ir is vamos.",
+      "explanation": "Vamos is the nosotros form of ir - and by itself, '¡Vamos!' is the everyday command 'Let's go!'",
       "memoryHook": "T-Rexy says: Irregular verbs need memorizing.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -1982,7 +1982,7 @@
         "tienes",
         "tiene"
       ],
-      "explanation": "The nosotros form of tener is tenemos.",
+      "explanation": "Tenemos is the one calm form of tener: the e → ie stem change skips nosotros - tenemos, never 'tienemos'.",
       "memoryHook": "T-Rexy says: Irregular verbs need memorizing.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -2003,7 +2003,7 @@
         "escribes",
         "escribe"
       ],
-      "explanation": "The ellos present-tense form of escribir is escriben.",
+      "explanation": "Escriben is the ellos form of escribir: -ir verbs end in -en for 'they' - escriben, abren, viven.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -2024,7 +2024,7 @@
         "aprende",
         "aprendemos"
       ],
-      "explanation": "The yo present-tense form of aprender is aprendo.",
+      "explanation": "Aprendo is the yo form of aprender, a regular -er verb: -o for yo, -es for tú, -e for él, -emos for nosotros, -en for ellos.",
       "memoryHook": "T-Rexy says: Conjugate by dropping the ending and adding the right one.",
       "imageUrl": "topic:spanish",
       "tags": [
@@ -2039,14 +2039,14 @@
     {
       "id": "SPA8_100",
       "question": "How do you say 'Goodbye' in Spanish?",
-      "correctAnswer": "Adios",
+      "correctAnswer": "Adiós",
       "distractors": [
         "Hola",
         "Gracias",
-        "Buenos dias"
+        "Buenos días"
       ],
-      "explanation": "Goodbye in Spanish is Adios.",
-      "memoryHook": "T-Rexy says: Adios means goodbye.",
+      "explanation": "'Adiós' (with the accent on the ó) is goodbye; 'hola' is hello, and 'hasta luego' means 'see you later'.",
+      "memoryHook": "T-Rexy says: Adiós means goodbye.",
       "imageUrl": "topic:spanish",
       "tags": [
         "greetings"
