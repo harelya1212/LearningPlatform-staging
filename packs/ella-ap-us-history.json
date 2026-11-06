@@ -73,8 +73,8 @@
    "correctAnswer": "Native societies built complex, settled communities adapted to their regional environments",
    "difficulty": "medium",
    "distractors": [
-    "All Native peoples were nomadic hunters with no permanent settlements",
-    "Native societies had no agriculture until Europeans introduced farming",
+    "It proves that all Native American societies were organized as large urban centers",
+    "Its maize agriculture had been introduced through earlier European contact",
     "Native peoples lived in complete isolation with no trade between regions"
    ],
    "dynamic": false,
@@ -323,24 +323,27 @@
    ]
   },
   {
-   "correctAnswer": "Persuade New Yorkers to ratify the Constitution",
+   "correctAnswer": "The Immigration and Nationality Act of 1965, which abolished the national-origins quota system",
    "difficulty": "medium",
    "distractors": [
-    "Argue for American independence from Britain",
-    "Defend the Alien and Sedition Acts",
-    "Promote Thomas Jefferson's candidacy for president"
+    "The Chinese Exclusion Act of 1882, which barred immigration from Asia",
+    "The Immigration Act of 1924, which set quotas favoring northern and western Europeans",
+    "The end of the Bracero Program in 1964, which cut off legal migration from Mexico"
    ],
    "dynamic": false,
-   "explanation": "Hamilton, Madison, and Jay wrote 85 essays under the name Publius defending the Constitution's design - federalism, separation of powers, and checks and balances. Federalist No. 10 and No. 51 remain foundational American political theory.",
+   "explanation": "Since the 1920s, national-origins quotas had favored northern and western Europeans, producing the 1960 pattern. The 1965 act, passed in the Great Society era (CED Topic 8.9, whose objectives cover post-1965 immigration change; the demographic effects run through Period 9), abolished the quotas and prioritized family reunification and skilled workers. Immigration from Asia and Latin America then rose sharply, transforming the nation's demographics.",
    "id": "EUSH_016",
-   "imageUrl": "topic:federalist-papers",
-   "memoryHook": "T-Rexy says: Publius was three guys with one pen, selling the Constitution to skeptics.",
-   "question": "The Federalist Papers were written primarily to",
+   "imageUrl": "topic:immigration-after-1965",
+   "memoryHook": "T-Rexy says: 1965 tore up the quota map - the next immigrant waves came from Asia and Latin America.",
+   "question": "In 1960, about 84 percent of the foreign-born population of the United States had been born in Europe or Canada. By 2010, Europeans and Canadians made up only about one-eighth of the foreign-born, while roughly four-fifths had been born in Latin America or Asia. The change described in these figures resulted most directly from",
    "source": "original",
    "tags": [
-    "constitution",
-    "ratification",
-    "federalist"
+    "period-8",
+    "period-9",
+    "immigration",
+    "hart-celler",
+    "ced-8.9",
+    "ced-9.5"
    ]
   },
   {
@@ -953,24 +956,25 @@
    ]
   },
   {
-   "correctAnswer": "Breaking up trusts and regulating railroads while preserving capitalism",
+   "correctAnswer": "New federal environmental laws and the creation of the Environmental Protection Agency (EPA) in 1970",
    "difficulty": "easy",
    "distractors": [
-    "Nationalizing all major industries",
-    "Abolishing the federal income tax",
-    "Withdrawing the U.S. from all foreign alliances"
+    "The immediate banning of all pesticide use and industrial production in the United States",
+    "The end of the Cold War arms race between the United States and the Soviet Union",
+    "The withdrawal of the United States from the United Nations"
    ],
    "dynamic": false,
-   "explanation": "Roosevelt's 'Square Deal' used federal power against the Northern Securities trust, pushed the Hepburn Act on railroads, and conserved public lands. He was a progressive regulator, not a socialist.",
+   "explanation": "A growing environmental movement (CED Topic 8.13) turned public alarm over pollution into policy: President Nixon created the EPA in 1970, and Congress passed the modern Clean Air Act (1970), the Clean Water Act (1972), and the Endangered Species Act (1973). DDT itself was banned for most uses in 1972.",
    "id": "EUSH_046",
-   "imageUrl": "topic:teddy-roosevelt",
-   "memoryHook": "T-Rexy says: TR the trust-buster - regulate the giants, don't destroy them.",
-   "question": "Theodore Roosevelt's domestic policy as president focused on",
+   "imageUrl": "topic:environmental-movement",
+   "memoryHook": "T-Rexy says: Silent Spring made noise - Earth Day turned it into the EPA.",
+   "question": "Rachel Carson's book Silent Spring (1962) warned that pesticides such as DDT were poisoning wildlife and food chains. Public concern grew through the decade, and on April 22, 1970, an estimated 20 million Americans joined the first Earth Day. These events most directly led to",
    "source": "original",
    "tags": [
-    "progressive",
-    "roosevelt",
-    "reform"
+    "period-8",
+    "environment",
+    "epa",
+    "ced-8.13"
    ]
   },
   {
@@ -1006,7 +1010,7 @@
    "explanation": "The Columbian Exchange (CED Topic 1.4) transferred plants, animals, and diseases across the Atlantic. American foods such as potatoes and maize later supported population growth in Europe, but smallpox and other epidemic diseases devastated Native communities that had no prior exposure, weakening societies before and during Spanish conquest.",
    "id": "EUSH_048",
    "imageUrl": "topic:columbian-exchange",
-   "memoryHook": "T-Rexy says: Crops crossed both ways after 1492 - disease crossed one way and did the killing.",
+   "memoryHook": "T-Rexy says: Crops crossed both ways after 1492 - the germs from Europe did the killing.",
    "question": "After 1492, horses, cattle, wheat, and sugar moved from Europe to the Americas, while maize, potatoes, and tomatoes moved from the Americas to Europe. Which effect of this Columbian Exchange was most devastating for Native American peoples?",
    "source": "original",
    "tags": [
@@ -1641,8 +1645,8 @@
    "explanation": "The Mexican-American War (1846-1848, CED Topics 5.2 and 5.3) ended with the Treaty of Guadalupe Hidalgo and the Mexican Cession. Wilmot's proviso passed the House but was blocked in the Senate and never became law. Its repeated introduction proved that new western land forced Congress to fight over slavery's expansion, the central sectional conflict of the 1850s.",
    "id": "EUSH_078",
    "imageUrl": "topic:mexican-american-war-wilmot",
-   "memoryHook": "T-Rexy says: Wilmot lost every vote that counted - and still told America exactly what the next decade would be about.",
-   "question": "In 1846, Representative David Wilmot proposed that, in any territory taken from Mexico, 'neither slavery nor involuntary servitude shall ever exist in any part of said territory.' The Wilmot Proviso is historically significant because it",
+   "memoryHook": "T-Rexy says: Wilmot won in the House and lost in the Senate - and still told America exactly what the next decade would be about.",
+   "question": "In 1846, Representative David Wilmot proposed that, in any territory taken from Mexico, 'neither slavery nor involuntary servitude shall ever exist in any part of said territory, except for crime, whereof the party shall first be duly convicted.' The Wilmot Proviso is historically significant because it",
    "source": "original",
    "tags": [
     "period-5",
@@ -1762,24 +1766,26 @@
    ]
   },
   {
-   "correctAnswer": "Claims that Iraq possessed weapons of mass destruction",
+   "correctAnswer": "Resist Soviet expansion in Europe without resorting to direct war with the Soviet Union",
    "difficulty": "medium",
    "distractors": [
-    "Iraq's invasion of Kuwait",
-    "A direct Iraqi attack on the United States",
-    "A United Nations mandate for regime change"
+    "Abandon West Berlin to Soviet control in order to avoid a confrontation",
+    "Use its atomic monopoly to force the Soviet Union out of Eastern Europe",
+    "Withdraw from European affairs and return to isolationism"
    ],
    "dynamic": false,
-   "explanation": "The Bush administration argued Saddam Hussein had WMDs and ties to terrorism. No WMDs were found; the war's rationale, conduct, and aftermath remain deeply controversial.",
+   "explanation": "Berlin was the first major test of containment (CED Topic 8.2). Rather than abandon the city or risk war by forcing an armed convoy through the blockade, Truman supplied West Berlin by air for eleven months. The blockade's failure strengthened the Western alliance - NATO was founded in April 1949, while the airlift was still under way.",
    "id": "EUSH_084",
-   "imageUrl": "topic:iraq-war",
-   "memoryHook": "T-Rexy says: WMDs that weren't there - the Iraq War's premise collapsed.",
-   "question": "The U.S. invasion of Iraq in 2003 was justified by the administration based on",
+   "imageUrl": "topic:berlin-airlift",
+   "memoryHook": "T-Rexy says: Berlin 1948 - America answered a blockade with airplanes full of food, not bombs.",
+   "question": "In June 1948, the Soviet Union blocked all road, rail, and canal routes into the Western sectors of Berlin, which lay deep inside the Soviet occupation zone of Germany. For nearly a year, American and British aircraft flew more than 275,000 flights into the city, delivering about 2.3 million tons of food and fuel, until the Soviets lifted the blockade in May 1949. The Berlin Airlift demonstrated that the United States would",
    "source": "original",
    "tags": [
-    "2000s",
-    "iraq",
-    "bush"
+    "period-8",
+    "cold-war",
+    "berlin-airlift",
+    "containment",
+    "ced-8.2"
    ]
   },
   {
