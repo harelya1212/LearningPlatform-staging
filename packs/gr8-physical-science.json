@@ -22,7 +22,7 @@
         "Na",
         "Si"
       ],
-      "explanation": "The chemical symbol for Hydrogen is H.",
+      "explanation": "Symbols use the first letter of the element's name, capitalized - H is the lightest element, number 1 on the periodic table.",
       "memoryHook": "T-Rexy says: Learn symbols one element at a time.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -42,7 +42,7 @@
         "Mg",
         "S"
       ],
-      "explanation": "The chemical symbol for Helium is He.",
+      "explanation": "When the first letter is already taken, a second letter is added in lowercase - He comes from 'Helium' and is the gas that fills party balloons.",
       "memoryHook": "T-Rexy says: Learn symbols one element at a time.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -62,7 +62,7 @@
         "Al",
         "Cl"
       ],
-      "explanation": "The chemical symbol for Carbon is C.",
+      "explanation": "Carbon takes the single letter C - it is the backbone of all living things, and pure carbon forms both soft graphite and hard diamond.",
       "memoryHook": "T-Rexy says: Learn symbols one element at a time.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -82,7 +82,7 @@
         "Si",
         "K"
       ],
-      "explanation": "The chemical symbol for Nitrogen is N.",
+      "explanation": "Nitrogen is N, not Ni (that is nickel) - nitrogen gas makes up about 78% of the air you breathe.",
       "memoryHook": "T-Rexy says: Learn symbols one element at a time.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -102,7 +102,7 @@
         "S",
         "Ca"
       ],
-      "explanation": "The chemical symbol for Oxygen is O.",
+      "explanation": "Oxygen is the single letter O - your body uses it to release energy from food, and it makes up about 21% of the air.",
       "memoryHook": "T-Rexy says: Learn symbols one element at a time.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -122,7 +122,7 @@
         "Cl",
         "Fe"
       ],
-      "explanation": "The chemical symbol for Sodium is Na.",
+      "explanation": "Na does not match the English name because it comes from sodium's Latin name, natrium - watch for these Latin-based symbols on the table.",
       "memoryHook": "T-Rexy says: Learn symbols one element at a time.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -142,7 +142,7 @@
         "K",
         "Cu"
       ],
-      "explanation": "The chemical symbol for Magnesium is Mg.",
+      "explanation": "Mg is capital M, small g - capitalization matters in symbols, because MG would mean something completely different. Magnesium burns with a bright white flame.",
       "memoryHook": "T-Rexy says: Learn symbols one element at a time.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -162,7 +162,7 @@
         "Ca",
         "Zn"
       ],
-      "explanation": "The chemical symbol for Aluminum is Al.",
+      "explanation": "Aluminum is Al - A plus the second letter l, in lowercase. It is the light metal used for cans and foil.",
       "memoryHook": "T-Rexy says: Learn symbols one element at a time.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -182,7 +182,7 @@
         "Fe",
         "Ag"
       ],
-      "explanation": "The chemical symbol for Silicon is Si.",
+      "explanation": "Si is silicon, the computer-chip element - do not confuse it with S alone (sulfur) or the pair Si written with a capital I, which is not a symbol at all.",
       "memoryHook": "T-Rexy says: Learn symbols one element at a time.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -202,7 +202,7 @@
         "Cu",
         "Au"
       ],
-      "explanation": "The chemical symbol for Sulfur is S.",
+      "explanation": "Sulfur takes the single letter S - a yellow solid famous for its rotten-egg smell near volcanoes and hot springs.",
       "memoryHook": "T-Rexy says: Learn symbols one element at a time.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -222,7 +222,7 @@
         "Zn",
         "H"
       ],
-      "explanation": "The chemical symbol for Chlorine is Cl.",
+      "explanation": "Cl is C plus a lowercase L (never the number 1) - chlorine is the greenish gas used to kill germs in swimming pools.",
       "memoryHook": "T-Rexy says: Learn symbols one element at a time.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -242,7 +242,7 @@
         "Ag",
         "He"
       ],
-      "explanation": "The chemical symbol for Potassium is K.",
+      "explanation": "K comes from potassium's Latin name, kalium - the same Latin root that gives us the word 'alkali'. Bananas are a famous potassium source.",
       "memoryHook": "T-Rexy says: Learn symbols one element at a time.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -262,7 +262,7 @@
         "Au",
         "C"
       ],
-      "explanation": "The chemical symbol for Calcium is Ca.",
+      "explanation": "Ca is calcium, the mineral that builds bones and teeth - C alone is carbon, so the second letter a is what makes this a different element.",
       "memoryHook": "T-Rexy says: Learn symbols one element at a time.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -282,7 +282,7 @@
         "H",
         "N"
       ],
-      "explanation": "The chemical symbol for Iron is Fe.",
+      "explanation": "Fe comes from iron's Latin name, ferrum - that is why iron supplements and the word 'ferrous' start with Fe, not I.",
       "memoryHook": "T-Rexy says: Learn symbols one element at a time.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -302,7 +302,7 @@
         "He",
         "O"
       ],
-      "explanation": "The chemical symbol for Copper is Cu.",
+      "explanation": "Cu comes from copper's Latin name, cuprum - copper's reddish color and excellent conductivity make it the standard metal for electrical wires.",
       "memoryHook": "T-Rexy says: Learn symbols one element at a time.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -322,7 +322,7 @@
         "C",
         "Na"
       ],
-      "explanation": "The chemical symbol for Zinc is Zn.",
+      "explanation": "Zn pairs Z with n - zinc coats steel buckets and nails (galvanizing) to stop them from rusting.",
       "memoryHook": "T-Rexy says: Learn symbols one element at a time.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -342,7 +342,7 @@
         "N",
         "Mg"
       ],
-      "explanation": "The chemical symbol for Silver is Ag.",
+      "explanation": "Ag comes from silver's Latin name, argentum - that is also why Argentina, named for its silver, has the same root.",
       "memoryHook": "T-Rexy says: Learn symbols one element at a time.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -362,7 +362,7 @@
         "O",
         "Al"
       ],
-      "explanation": "The chemical symbol for Gold is Au.",
+      "explanation": "Au comes from gold's Latin name, aurum, meaning 'glow of sunrise' - like Fe and Ag, it is a Latin symbol that does not match the English name.",
       "memoryHook": "T-Rexy says: Learn symbols one element at a time.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -382,7 +382,7 @@
         "A molecule of water",
         "A type of energy"
       ],
-      "explanation": "Atoms are the basic building blocks of matter.",
+      "explanation": "Everything is made of atoms, and what makes one element different from another is its atoms: change the number of protons and you have a completely different element.",
       "memoryHook": "T-Rexy says: Atoms are the building blocks.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -421,7 +421,7 @@
         "Neutral",
         "Zero"
       ],
-      "explanation": "Protons carry a positive charge.",
+      "explanation": "The proton's positive charge is exactly equal and opposite to an electron's negative charge, which is why an atom with equal numbers of both is electrically neutral.",
       "memoryHook": "T-Rexy says: Protons are positive.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -440,7 +440,7 @@
         "Neutral",
         "Zero"
       ],
-      "explanation": "Electrons carry a negative charge.",
+      "explanation": "Because electrons carry the negative charge and sit on the outside of the atom, they are the particles that move during electric current and chemical bonding.",
       "memoryHook": "T-Rexy says: Electrons are negative.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -459,7 +459,7 @@
         "Negative",
         "Variable"
       ],
-      "explanation": "Neutrons have no electric charge.",
+      "explanation": "With no charge, neutrons are ignored when working out an atom's overall charge - but they still add mass, which is why isotopes of an element have different masses.",
       "memoryHook": "T-Rexy says: Neutrons are neutral.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -497,7 +497,7 @@
         "The number of electrons only",
         "Its mass in grams"
       ],
-      "explanation": "Atomic number equals the number of protons.",
+      "explanation": "The atomic number is the element's ID card: every carbon atom has exactly 6 protons, so atomic number 6 always means carbon, no matter how many neutrons it has.",
       "memoryHook": "T-Rexy says: Atomic number counts protons.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -517,7 +517,7 @@
         "Electrons only",
         "Protons minus neutrons"
       ],
-      "explanation": "Mass number is the total of protons and neutrons.",
+      "explanation": "Electrons are left out of the mass number because they are almost 2,000 times lighter than a proton - nearly all of an atom's mass sits in its nucleus.",
       "memoryHook": "T-Rexy says: Mass number adds protons and neutrons.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -752,7 +752,7 @@
         "Catalysts",
         "Solvents"
       ],
-      "explanation": "Products are the new substances formed.",
+      "explanation": "In a word equation the products go on the right side of the arrow: in 'methane + oxygen -> carbon dioxide + water', carbon dioxide and water are the products.",
       "memoryHook": "T-Rexy says: Products are the result.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -791,7 +791,7 @@
         "An equation with no products",
         "An equation that is always true"
       ],
-      "explanation": "Balancing keeps atom counts equal on both sides.",
+      "explanation": "You balance by changing coefficients (the big numbers in front), never the small subscript numbers - changing H2O to H2O2 would change the substance itself, not just its amount.",
       "memoryHook": "T-Rexy says: Balance the atoms.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -811,7 +811,7 @@
         "Water + oxygen -> glucose",
         "Carbon dioxide -> oxygen only"
       ],
-      "explanation": "Plants use carbon dioxide and water to make glucose and oxygen.",
+      "explanation": "Photosynthesis also needs sunlight and chlorophyll to run - the glucose stores the Sun's energy, and the oxygen is released into the air as a waste product.",
       "memoryHook": "T-Rexy says: Plants make glucose and oxygen.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -831,7 +831,7 @@
         "Ice, water, and steam only",
         "Hard, soft, and wet"
       ],
-      "explanation": "The three common states are solid, liquid, and gas.",
+      "explanation": "The same substance can be all three: water appears as ice (solid), liquid water, and steam (gas) - only the energy and spacing of its particles change.",
       "memoryHook": "T-Rexy says: Solid, liquid, gas.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -870,7 +870,7 @@
         "Mass times volume",
         "Weight plus volume"
       ],
-      "explanation": "Density = mass / volume.",
+      "explanation": "Density tells you how tightly mass is packed into a space, and its unit mixes both measurements - for example, grams per milliliter (g/mL). Water's density is 1 g/mL, the comparison standard.",
       "memoryHook": "T-Rexy says: Density is mass over volume.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -968,7 +968,7 @@
         "Every action has an equal opposite reaction",
         "Energy cannot be created"
       ],
-      "explanation": "This is the law of inertia.",
+      "explanation": "Inertia is an object's resistance to changing its motion, and it grows with mass: a loaded truck is much harder to stop or turn than a bicycle because it has far more inertia.",
       "memoryHook": "T-Rexy says: Inertia keeps things going.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -1088,7 +1088,7 @@
         "Distance times time",
         "Force divided by mass"
       ],
-      "explanation": "Speed = distance / time.",
+      "explanation": "The units tell you the formula: speed is measured in distance per time, like meters per second or miles per hour - 'per' is the clue that you divide.",
       "memoryHook": "T-Rexy says: Speed is distance over time.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -1148,7 +1148,7 @@
         "Distance only",
         "Acceleration only"
       ],
-      "explanation": "Velocity includes both speed and direction.",
+      "explanation": "That direction makes a real difference: two cars both going 60 mph have the same speed, but if one heads north and the other south, their velocities are different.",
       "memoryHook": "T-Rexy says: Velocity adds direction.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -1188,7 +1188,7 @@
         "Heat energy",
         "Chemical energy"
       ],
-      "explanation": "Moving objects have kinetic energy.",
+      "explanation": "Kinetic energy depends on mass and speed - and speed counts double: doubling an object's speed gives it four times the kinetic energy, which is why fast crashes are so much more destructive.",
       "memoryHook": "T-Rexy says: Moving means kinetic energy.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -1248,7 +1248,7 @@
         "Watt",
         "Meter"
       ],
-      "explanation": "Energy is measured in joules.",
+      "explanation": "One joule is a small amount - lifting an apple about one meter uses roughly one joule. Food energy is counted in kilojoules, thousands of joules at a time.",
       "memoryHook": "T-Rexy says: Energy is in joules.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -1268,7 +1268,7 @@
         "Watt",
         "Kilogram"
       ],
-      "explanation": "Force is measured in newtons.",
+      "explanation": "The newton is named for Isaac Newton: one newton is about the force of holding a small apple against gravity, and 1 N = 1 kg x m/s^2, straight from F = ma.",
       "memoryHook": "T-Rexy says: Force is in newtons.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -1328,7 +1328,7 @@
         "A kind of force",
         "A water current only"
       ],
-      "explanation": "Waves move energy through a medium or space.",
+      "explanation": "Picture a rope tied to a door: shake your end and the wave travels to the door, but the rope itself stays in your hand - the energy moved, the matter did not.",
       "memoryHook": "T-Rexy says: Waves carry energy.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -1366,7 +1366,7 @@
         "The number of waves per second",
         "The speed of a wave"
       ],
-      "explanation": "Amplitude measures how tall the wave is.",
+      "explanation": "Amplitude is tied to energy: for sound, a bigger amplitude means a louder sound; for light, it means a brighter light - it is measured from the rest position to a crest, not crest to trough.",
       "memoryHook": "T-Rexy says: Amplitude is wave height.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -1404,7 +1404,7 @@
         "Newton",
         "Meter"
       ],
-      "explanation": "Frequency is measured in hertz (Hz).",
+      "explanation": "One hertz means one complete wave passing per second - a sound wave vibrating at 440 Hz completes 440 waves every second, which your ear hears as the musical note A.",
       "memoryHook": "T-Rexy says: Frequency is in hertz.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -1464,7 +1464,7 @@
         "About 3,000 kilometers per second",
         "About 30,000 kilometers per second"
       ],
-      "explanation": "Light travels at about 300,000 km/s.",
+      "explanation": "That speed is so great that sunlight takes about 8 minutes to reach Earth, and light could circle the Earth about 7.5 times in a single second - nothing in the universe travels faster.",
       "memoryHook": "T-Rexy says: Light is super fast.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -1504,7 +1504,7 @@
         "It stops",
         "It speeds up to light speed"
       ],
-      "explanation": "Light bends when it changes medium, which is refraction.",
+      "explanation": "The bend happens because light changes speed: it slows down entering water, which is why a straw in a glass looks broken or shifted at the surface.",
       "memoryHook": "T-Rexy says: Changing medium bends light.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -1581,7 +1581,7 @@
         "Ohm",
         "Watt"
       ],
-      "explanation": "Current is measured in amperes (amps).",
+      "explanation": "Amps count how much charge flows past a point each second - a phone charger moves about 1-2 amps, while a lightning bolt can carry around 30,000 amps.",
       "memoryHook": "T-Rexy says: Current is in amps.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -1601,7 +1601,7 @@
         "Volt",
         "Watt"
       ],
-      "explanation": "Resistance is measured in ohms.",
+      "explanation": "The ohm is named for Georg Ohm: the higher a component's resistance in ohms, the less current a given voltage can push through it - the idea behind Ohm's law, V = I x R.",
       "memoryHook": "T-Rexy says: Resistance is in ohms.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -1621,7 +1621,7 @@
         "A circuit with no battery",
         "A circuit with no wires"
       ],
-      "explanation": "In a series circuit, current has only one path.",
+      "explanation": "That single path has a weakness: if one bulb in a series string burns out, the whole circuit breaks and every bulb goes dark - like old holiday lights.",
       "memoryHook": "T-Rexy says: Series means one path.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -1641,7 +1641,7 @@
         "A circuit with no battery",
         "A circuit that is broken"
       ],
-      "explanation": "In a parallel circuit, current can take several paths.",
+      "explanation": "Each branch in a parallel circuit gets the full battery voltage, and if one bulb burns out the others stay lit - which is why houses are wired in parallel, not series.",
       "memoryHook": "T-Rexy says: Parallel means many paths.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -1680,7 +1680,7 @@
         "They do nothing",
         "They melt"
       ],
-      "explanation": "Like poles repel.",
+      "explanation": "You can feel this rule directly: push two north poles together and the magnets shove your hands apart harder the closer they get - that pushing force is repulsion.",
       "memoryHook": "T-Rexy says: Like poles push apart.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -1779,7 +1779,7 @@
         "14",
         "1"
       ],
-      "explanation": "Pure water has a pH of 7, which is neutral.",
+      "explanation": "Neutral means the solution is neither acidic nor basic - the scale runs 0 to 14 with 7 in the exact middle, and each step is 10 times stronger than the one before.",
       "memoryHook": "T-Rexy says: Neutral is pH 7.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -1799,7 +1799,7 @@
         "Exactly 7",
         "Above 14"
       ],
-      "explanation": "Acids have pH less than 7.",
+      "explanation": "The lower the number, the stronger the acid: lemon juice is about pH 2 and stomach acid about pH 1, while mild acids like tomato juice sit near pH 4.",
       "memoryHook": "T-Rexy says: Acids are below 7.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -1819,7 +1819,7 @@
         "Exactly 7",
         "Below 0"
       ],
-      "explanation": "Bases have pH greater than 7.",
+      "explanation": "The higher above 7, the stronger the base: soap is about pH 10 and feels slippery, while drain cleaner reaches pH 14 - strong bases can be as dangerous as strong acids.",
       "memoryHook": "T-Rexy says: Bases are above 7.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -1919,7 +1919,7 @@
         "Work = force / distance",
         "Work = energy x time"
       ],
-      "explanation": "Work is force applied over a distance.",
+      "explanation": "Both parts must be present: pushing hard on a wall that does not move does zero work in physics, no matter how tired you get - the force must actually move the object.",
       "memoryHook": "T-Rexy says: Work is force times distance.",
       "imageUrl": "topic:physical-science",
       "tags": [
@@ -1959,7 +1959,7 @@
         "Energy stored",
         "Mass times speed"
       ],
-      "explanation": "Power measures how fast work is done.",
+      "explanation": "Two people can do exactly the same work, but the one who finishes sooner has more power - power is measured in watts, and 746 watts make one horsepower.",
       "memoryHook": "T-Rexy says: Power is work over time.",
       "imageUrl": "topic:physical-science",
       "tags": [
