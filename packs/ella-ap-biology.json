@@ -116,19 +116,19 @@
   },
   {
    "id": "EBIO_006",
-   "question": "Which endoplasmic reticulum function is associated with lipid synthesis and detoxification?",
-   "correctAnswer": "Smooth endoplasmic reticulum",
+   "question": "Butter is a fat that stays solid at room temperature because most of its fatty acids are saturated. Saturated fatty acid tails make a fat solid mainly because they:",
+   "correctAnswer": "Have no carbon-carbon double bonds, so the straight tails pack tightly against each other",
    "distractors": [
-    "Rough endoplasmic reticulum",
-    "Lysosome",
-    "Nucleolus"
+    "Have cis double bonds that bend the tails so they cannot pack closely",
+    "Contain a phosphate group that locks neighboring molecules together",
+    "Form hydrogen bonds between the carbon atoms of adjacent tails"
    ],
-   "explanation": "The smooth ER synthesizes lipids and steroids and detoxifies drugs and poisons. The rough ER is studded with ribosomes for protein synthesis.",
-   "memoryHook": "T-Rexy says: smooth makes fats - the smooth ER synthesizes lipids.",
+   "explanation": "Saturated means every carbon in the tail carries the maximum number of hydrogens, so there are no double bonds and the tails stay straight. Straight tails pack closely, maximizing van der Waals interactions, so the fat is solid at room temperature. Double bonds would kink the tails and keep the fat liquid, like plant oils.",
+   "memoryHook": "T-Rexy says: straight tails stack tight - saturated fats sit solid.",
    "imageUrl": "topic:smooth-er-lipids",
    "tags": [
-    "cell-biology",
-    "organelles"
+    "chemistry-of-life",
+    "lipids"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -236,19 +236,19 @@
   },
   {
    "id": "EBIO_012",
-   "question": "Aquaporins facilitate the movement of which substance across membranes?",
-   "correctAnswer": "Water",
+   "question": "On a hot day, a tall tree moves water from its roots to leaves more than 30 meters above the ground with no pump. The upward pull is transmitted through the water column in the xylem mainly because water molecules stick to each other. This property of water is:",
+   "correctAnswer": "Cohesion, caused by hydrogen bonds between water molecules",
    "distractors": [
-    "Sodium ions",
-    "Glucose",
-    "ATP"
+    "Adhesion, caused by water molecules sticking to the leaf surface",
+    "Surface tension, caused by the skin on standing water in the roots",
+    "Root pressure, caused by osmosis pushing water up from below"
    ],
-   "explanation": "Aquaporins are channel proteins that allow rapid facilitated diffusion of water across the plasma membrane.",
-   "memoryHook": "T-Rexy says: aqua for water - aquaporins are water doors.",
+   "explanation": "Transpiration evaporates water from the leaves, putting the water column under tension. Cohesion - hydrogen bonds linking each water molecule to its neighbors - keeps the column continuous so the pull is transmitted all the way down to the roots. Sticking to a different substance would be adhesion, not cohesion.",
+   "memoryHook": "T-Rexy says: water holds hands with water - cohesion pulls the whole column up.",
    "imageUrl": "topic:aquaporins",
    "tags": [
-    "cell-biology",
-    "transport"
+    "chemistry-of-life",
+    "water"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -534,18 +534,19 @@
   },
   {
    "id": "EBIO_027",
-   "question": "Which phase of the cell cycle is DNA replicated?",
-   "correctAnswer": "S phase",
+   "question": "In meiosis, the two members of a homologous chromosome pair move to opposite poles of the cell during:",
+   "correctAnswer": "Anaphase I",
    "distractors": [
-    "G1 phase",
-    "G2 phase",
-    "M phase"
+    "Prophase I",
+    "Anaphase II",
+    "Metaphase II"
    ],
-   "explanation": "The S (synthesis) phase of interphase is when DNA replication produces two sister chromatids per chromosome.",
-   "memoryHook": "T-Rexy says: S stands for synthesis - DNA replicates in S phase.",
+   "explanation": "Meiosis I is the reduction division: homologous chromosomes pair up and then separate at anaphase I, halving the chromosome number. Sister chromatids stay together through meiosis I and separate only at anaphase II.",
+   "memoryHook": "T-Rexy says: partners part in phase one - homologs separate at anaphase I.",
    "imageUrl": "topic:s-phase-dna",
    "tags": [
-    "cell-cycle"
+    "heredity",
+    "meiosis"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -610,18 +611,19 @@
   },
   {
    "id": "EBIO_031",
-   "question": "Cancer cells typically differ from normal cells in that they:",
-   "correctAnswer": "Divide without responding to density-dependent inhibition",
+   "question": "Epinephrine binds to a G protein-coupled receptor (GPCR) on a liver cell, starting the pathway that releases glucose from glycogen. Immediately after the receptor is activated by epinephrine, the next step in the pathway is:",
+   "correctAnswer": "An associated G protein releases GDP and binds GTP, becoming active",
    "distractors": [
-    "Have fewer chromosomes than normal",
-    "Cannot enter S phase",
-    "Lack plasma membranes"
+    "Adenylyl cyclase converts ATP into cyclic AMP",
+    "Protein kinase A phosphorylates enzymes that break down glycogen",
+    "The receptor enters the nucleus and switches on glucose genes"
    ],
-   "explanation": "Cancer cells ignore density-dependent inhibition and anchorage dependence, dividing uncontrollably even when crowded.",
-   "memoryHook": "T-Rexy says: cancer ignores stop signs - cancer cells skip growth inhibition.",
+   "explanation": "The order is: ligand binds GPCR, the receptor activates a G protein (GDP is exchanged for GTP), the active G protein switches on adenylyl cyclase, adenylyl cyclase makes cAMP, and cAMP activates protein kinase A. The G protein step comes first after reception.",
+   "memoryHook": "T-Rexy says: receptor wakes the G protein first - GTP on, signal on.",
    "imageUrl": "topic:cancer-cell-division",
    "tags": [
-    "cell-cycle"
+    "cell-communication",
+    "signaling"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -749,19 +751,19 @@
   },
   {
    "id": "EBIO_038",
-   "question": "In incomplete dominance, the heterozygote phenotype is:",
-   "correctAnswer": "Intermediate between the two homozygotes",
+   "question": "A fruit fly body cell contains 8 chromosomes (2n = 8). After a germ cell completes meiosis, how many chromosomes does each gamete contain?",
+   "correctAnswer": "4 chromosomes",
    "distractors": [
-    "Identical to the dominant homozygote",
-    "Identical to the recessive homozygote",
-    "Always lethal"
+    "8 chromosomes",
+    "2 chromosomes",
+    "16 chromosomes"
    ],
-   "explanation": "Incomplete dominance produces a blended, intermediate phenotype, as in pink snapdragons from red x white crosses.",
-   "memoryHook": "T-Rexy says: blend in the middle - incomplete dominance gives an intermediate.",
+   "explanation": "Meiosis halves the chromosome number: homologous pairs separate in meiosis I, so each product goes from diploid (2n = 8) to haploid (n = 4). Fertilization later restores the diploid number.",
+   "memoryHook": "T-Rexy says: meiosis halves the deck - eight becomes four.",
    "imageUrl": "topic:incomplete-dominance",
    "tags": [
-    "genetics",
-    "non-mendelian"
+    "heredity",
+    "meiosis"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -949,19 +951,19 @@
   },
   {
    "id": "EBIO_048",
-   "question": "Genomic imprinting means that:",
-   "correctAnswer": "Allele expression depends on which parent it came from",
+   "question": "Three derived traits were scored in four species, and the outgroup has none of them. Trait 1 is present in species A and B only. Trait 2 is present in species A and B only. Trait 3 is present in species B and C only. Tree 1 groups (A with B) and (C with D). Tree 2 groups (A with D) and (B with C). Counting each trait gain or loss as one step, which tree is most parsimonious?",
+   "correctAnswer": "Tree 1, with 4 total steps, compared with 5 steps for Tree 2",
    "distractors": [
-    "Genes are permanently silenced",
-    "All genes are expressed equally",
-    "Imprinting only occurs in plants"
+    "Tree 2, with 4 total steps, compared with 5 steps for Tree 1",
+    "Both trees, because each requires exactly 5 total steps",
+    "Tree 1, with 3 total steps, compared with 6 steps for Tree 2"
    ],
-   "explanation": "Imprinted genes are methylated differently in sperm vs egg, so only the maternal or paternal copy is expressed.",
-   "memoryHook": "T-Rexy says: parent stamps the gene - imprinting is parent-of-origin expression.",
+   "explanation": "On Tree 1: Trait 1 evolves once in the ancestor of A and B (1 step), Trait 2 the same (1 step), and Trait 3 must evolve separately in B and in C (2 steps) - total 4. On Tree 2: Trait 1 needs 2 steps (A and B are not grouped), Trait 2 needs 2 steps, and Trait 3 evolves once in the ancestor of B and C (1 step) - total 5. Parsimony prefers Tree 1.",
+   "memoryHook": "T-Rexy says: count every change - the tree with fewer steps wins.",
    "imageUrl": "topic:genomic-imprinting",
    "tags": [
-    "genetics",
-    "non-mendelian"
+    "evolution",
+    "phylogenetics"
    ],
    "difficulty": "hard",
    "dynamic": false,
@@ -1029,19 +1031,19 @@
   },
   {
    "id": "EBIO_052",
-   "question": "Transcription produces:",
-   "correctAnswer": "mRNA from a DNA template",
+   "question": "Cell signaling begins with the reception stage. Reception occurs when:",
+   "correctAnswer": "A signaling molecule (ligand) binds to a specific receptor protein on or in the target cell",
    "distractors": [
-    "DNA from an mRNA template",
-    "Protein from an mRNA template",
-    "tRNA from a protein template"
+    "A relay protein passes a phosphate group to the next protein in a cascade",
+    "The nucleus starts transcribing genes for new enzymes",
+    "The target cell divides to produce signal-producing daughter cells"
    ],
-   "explanation": "RNA polymerase synthesizes mRNA complementary to the DNA template strand during transcription.",
-   "memoryHook": "T-Rexy says: DNA to RNA - transcription makes mRNA.",
+   "explanation": "The three stages of signaling are reception, transduction, and response. In reception, a ligand binds a receptor - at the cell surface for water-soluble signals, or inside the cell for lipid-soluble ones. Phosphate relay belongs to transduction, and gene transcription is part of the response.",
+   "memoryHook": "T-Rexy says: no binding, no beginning - reception starts the signal.",
    "imageUrl": "topic:transcription",
    "tags": [
-    "molecular-biology",
-    "gene-expression"
+    "cell-communication",
+    "signaling"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -1209,19 +1211,19 @@
   },
   {
    "id": "EBIO_061",
-   "question": "CRISPR-Cas9 is primarily used for:",
-   "correctAnswer": "Targeted editing of DNA sequences",
+   "question": "In a population of rabbits in Hardy-Weinberg equilibrium, 16% of the rabbits show the recessive phenotype for coat color. What percentage of the population is heterozygous - carriers of the recessive allele?",
+   "correctAnswer": "48%",
    "distractors": [
-    "Amplifying DNA samples",
-    "Sequencing entire genomes",
-    "Separating DNA by size"
+    "36%",
+    "40%",
+    "84%"
    ],
-   "explanation": "CRISPR-Cas9 uses a guide RNA to direct the Cas9 nuclease to cut a specific DNA sequence for editing.",
-   "memoryHook": "T-Rexy says: CRISPR cuts precisely - guide RNA aims the Cas9 scissors.",
+   "explanation": "The recessive phenotype frequency is q^2 = 0.16, so q = 0.4 and p = 1 - 0.4 = 0.6. Heterozygotes are 2pq = 2 x 0.6 x 0.4 = 0.48, or 48% of the population. (36% is p^2, the dominant homozygotes; 84% is everyone with the dominant phenotype.)",
+   "memoryHook": "T-Rexy says: root of recessive gives q - 0.4 leads to 48 percent carriers.",
    "imageUrl": "topic:crispr",
    "tags": [
-    "molecular-biology",
-    "biotechnology"
+    "evolution",
+    "population-genetics"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -1249,18 +1251,19 @@
   },
   {
    "id": "EBIO_063",
-   "question": "Natural selection acts directly on:",
-   "correctAnswer": "Phenotypes",
+   "question": "A plant species has a diploid number of 2n = 14, or 7 homologous chromosome pairs. Ignoring crossing over, how many genetically different gametes can one plant produce through independent assortment alone?",
+   "correctAnswer": "128",
    "distractors": [
-    "Genotypes",
-    "Alleles",
-    "Chromosomes"
+    "14",
+    "49",
+    "16,384"
    ],
-   "explanation": "Selection acts on phenotypes (expressed traits). It changes allele frequencies indirectly because phenotypes reflect genotypes.",
-   "memoryHook": "T-Rexy says: selection sees traits - natural selection acts on phenotypes.",
+   "explanation": "Each of the 7 pairs can orient two ways at metaphase I, and the pairs assort independently, so the number of combinations is 2^n where n is the number of pairs: 2^7 = 128. (49 is 7^2, and 16,384 is 2^14 - using the diploid number instead of the number of pairs.)",
+   "memoryHook": "T-Rexy says: two to the seventh - 128 gamete combos from assortment alone.",
    "imageUrl": "topic:natural-selection",
    "tags": [
-    "evolution"
+    "heredity",
+    "meiosis"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -1268,18 +1271,19 @@
   },
   {
    "id": "EBIO_064",
-   "question": "Which is a requirement for natural selection to occur?",
-   "correctAnswer": "Heritable variation in a trait",
+   "question": "A single hormone molecule binding to a liver cell can lead to the release of thousands of glucose molecules. A phosphorylation cascade makes this amplification possible because:",
+   "correctAnswer": "At each step, one activated kinase can phosphorylate and activate many copies of the next kinase, so the number of activated molecules multiplies at every level",
    "distractors": [
-    "A stable environment",
-    "Asexual reproduction",
-    "Identical offspring"
+    "Each phosphate group transferred in the cascade is converted into thousands of ATP molecules",
+    "The first receptor is copied thousands of times and inserted into the membrane",
+    "Each kinase produces thousands of new hormone molecules that leave the cell"
    ],
-   "explanation": "Natural selection requires variation, heritability, overproduction, and differential reproductive success.",
-   "memoryHook": "T-Rexy says: no variation, no selection - heritable variation fuels natural selection.",
+   "explanation": "Kinases are enzymes, and enzymes are catalysts that are used over and over. One active kinase can activate many molecules of the next kinase before it is switched off, so a cascade multiplies the signal at every tier - this is why a tiny amount of hormone produces a massive cellular response.",
+   "memoryHook": "T-Rexy says: one kinase, many targets - cascades multiply the message.",
    "imageUrl": "topic:requirements-selection",
    "tags": [
-    "evolution"
+    "cell-communication",
+    "signaling"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -1447,18 +1451,19 @@
   },
   {
    "id": "EBIO_073",
-   "question": "Adaptive radiation is best described as:",
-   "correctAnswer": "Rapid diversification of one lineage into many niches",
+   "question": "Testosterone is a steroid hormone that diffuses straight through the plasma membrane of a target cell. How does testosterone trigger a response in that cell?",
+   "correctAnswer": "It binds a receptor inside the cell, and the hormone-receptor complex acts as a transcription factor in the nucleus, turning on specific genes",
    "distractors": [
-    "Gradual loss of diversity",
-    "Migration to a new continent",
-    "Extinction of competitors"
+    "It binds a G protein-coupled receptor on the cell surface, which activates a G protein",
+    "It opens a ligand-gated ion channel in the plasma membrane, letting calcium rush in",
+    "It activates a membrane enzyme that produces the second messenger cAMP"
    ],
-   "explanation": "Adaptive radiation is the rapid evolution of diverse forms from a common ancestor as lineages exploit new niches, like Darwin's finches.",
-   "memoryHook": "T-Rexy says: one ancestor, many forms - adaptive radiation fills empty niches.",
+   "explanation": "Steroid hormones are hydrophobic, so they cross the membrane and meet their receptors in the cytoplasm or nucleus instead of at the surface. The hormone-receptor complex binds DNA and changes gene expression, which is why steroid responses are slower to start but longer lasting than surface-receptor responses.",
+   "memoryHook": "T-Rexy says: steroids slip inside and switch genes on.",
    "imageUrl": "topic:adaptive-radiation",
    "tags": [
-    "evolution"
+    "cell-communication",
+    "signaling"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -1466,18 +1471,19 @@
   },
   {
    "id": "EBIO_074",
-   "question": "Molecular clocks estimate evolutionary divergence using:",
-   "correctAnswer": "Accumulated neutral mutations over time",
+   "question": "In an F2 dihybrid cross, 160 offspring were counted: 92 showed both dominant traits, 28 showed only the first dominant trait, 31 showed only the second dominant trait, and 9 showed both recessive traits. If the two genes assort independently, the expected counts are 90, 30, 30, and 10. Using chi-square = sum of (observed - expected)^2 / expected, with a critical value of 7.82 at 3 degrees of freedom, what is the correct result?",
+   "correctAnswer": "Chi-square is about 0.31, which is below 7.82, so the data fit the 9:3:3:1 expectation - no evidence against independent assortment",
    "distractors": [
-    "Fossil depth in rock layers",
-    "Body size differences",
-    "Chromosome counts"
+    "Chi-square is about 0.31, which is below 7.82, so the hypothesis is rejected and the genes must be linked",
+    "Chi-square is about 3.1, which is above the critical value, so the hypothesis is rejected",
+    "Chi-square is about 7.82, exactly at the cutoff, so the result is borderline and inconclusive"
    ],
-   "explanation": "Neutral mutations accumulate at roughly constant rates, so sequence differences estimate time since two lineages diverged.",
-   "memoryHook": "T-Rexy says: mutations tick time - molecular clocks use neutral mutation rates.",
+   "explanation": "Term by term: (92-90)^2/90 = 0.04, (28-30)^2/30 = 0.13, (31-30)^2/30 = 0.03, (9-10)^2/10 = 0.10. The sum is about 0.31. Because 0.31 is far below the critical value 7.82, the deviations are consistent with chance, so the data fit the 9:3:3:1 ratio predicted by independent assortment.",
+   "memoryHook": "T-Rexy says: small chi-square, good fit - 0.31 stays well under 7.82.",
    "imageUrl": "topic:molecular-clock",
    "tags": [
-    "evolution"
+    "inquiry",
+    "genetics"
    ],
    "difficulty": "hard",
    "dynamic": false,
@@ -1545,19 +1551,19 @@
   },
   {
    "id": "EBIO_078",
-   "question": "Logistic population growth differs from exponential growth because logistic growth:",
-   "correctAnswer": "Levels off at carrying capacity",
+   "question": "One pair of homologous chromosomes fails to separate during meiosis I - a nondisjunction event. Meiosis II then proceeds normally. The four resulting gametes will be:",
+   "correctAnswer": "All four abnormal: two carry an extra chromosome (n + 1) and two are missing the chromosome (n - 1)",
    "distractors": [
-    "Continues forever",
-    "Has no limiting factors",
-    "Occurs only in bacteria"
+    "Two normal (n), one with an extra chromosome (n + 1), and one missing the chromosome (n - 1)",
+    "All four normal (n), because the error is corrected during meiosis II",
+    "Two diploid (2n) gametes and two gametes with no chromosomes at all"
    ],
-   "explanation": "Logistic growth is density-dependent: growth slows as the population approaches carrying capacity (K), producing an S-shaped curve.",
-   "memoryHook": "T-Rexy says: S-curve stops at K - logistic growth respects carrying capacity.",
+   "explanation": "If homologs fail to separate in meiosis I, both homologs end up in one daughter cell and none in the other. Meiosis II separates sister chromatids normally, so the overloaded cell gives two n + 1 gametes and the empty cell gives two n - 1 gametes - all four are abnormal. (The two-normal pattern is the signature of nondisjunction in meiosis II instead.)",
+   "memoryHook": "T-Rexy says: a first-division slip spoils all four gametes.",
    "imageUrl": "topic:logistic-growth",
    "tags": [
-    "ecology",
-    "populations"
+    "genetics",
+    "chromosomal"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -1565,19 +1571,19 @@
   },
   {
    "id": "EBIO_079",
-   "question": "Density-dependent limiting factors include all EXCEPT:",
-   "correctAnswer": "A volcanic eruption",
+   "question": "Fish that live in very cold water have cell membranes rich in phospholipids with unsaturated fatty acid tails. This helps the fish survive the cold because the unsaturated tails:",
+   "correctAnswer": "Contain double bonds that kink the tails, keeping the membrane fluid when cold would otherwise make it rigid",
    "distractors": [
-    "Competition",
-    "Predation",
-    "Disease"
+    "Pack tightly together, stiffening the membrane so it resists freezing damage",
+    "Carry electric charges that repel ice crystals forming outside the cell",
+    "Add extra phosphate heads that thicken and insulate the bilayer"
    ],
-   "explanation": "Density-dependent factors (competition, predation, disease) intensify with crowding. Volcanic eruptions are density-independent.",
-   "memoryHook": "T-Rexy says: disasters don't discriminate - density-independent factors hit regardless of crowding.",
+   "explanation": "Cold makes membranes rigid as saturated tails pack and lock together. Double bonds put permanent kinks in unsaturated tails, so they cannot pack tightly and the bilayer stays fluid at low temperatures. Many organisms adjust the saturation of membrane lipids to hold fluidity roughly constant.",
+   "memoryHook": "T-Rexy says: kinked tails stay loose - cold fish keep fluid membranes.",
    "imageUrl": "topic:density-dependent",
    "tags": [
-    "ecology",
-    "populations"
+    "chemistry-of-life",
+    "lipids"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -1625,19 +1631,19 @@
   },
   {
    "id": "EBIO_082",
-   "question": "The competitive exclusion principle states that:",
-   "correctAnswer": "Two species competing for the same limiting resource cannot coexist indefinitely",
+   "question": "After a meal, rising blood glucose causes the pancreas to release insulin. Insulin makes muscle and liver cells take up glucose, blood glucose falls back toward its set point, and insulin release slows. This is an example of:",
+   "correctAnswer": "Negative feedback, because the response counteracts the original change and restores the set point",
    "distractors": [
-    "Predators always exclude prey",
-    "Competition increases diversity",
-    "Mutualists cannot compete"
+    "Positive feedback, because the hormone amplifies the rise in blood glucose",
+    "A phosphorylation cascade, because insulin binds a receptor on target cells",
+    "Feedforward control, because the body prepares for the next meal in advance"
    ],
-   "explanation": "Complete competitors cannot coexist: one outcompetes the other unless they partition resources (resource partitioning).",
-   "memoryHook": "T-Rexy says: same niche, one wins - competitive exclusion forbids complete overlap.",
+   "explanation": "In negative feedback, the response reduces or reverses the stimulus: glucose rose, insulin acted to lower it, and as glucose fell the insulin signal faded. Homeostasis variables such as blood glucose, temperature, and pH are held near set points by negative feedback loops like this one.",
+   "memoryHook": "T-Rexy says: when the response cancels the trigger, feedback is negative.",
    "imageUrl": "topic:competitive-exclusion",
    "tags": [
-    "ecology",
-    "interactions"
+    "cell-communication",
+    "feedback"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -1645,19 +1651,19 @@
   },
   {
    "id": "EBIO_083",
-   "question": "Primary succession begins on:",
-   "correctAnswer": "Bare rock with no soil",
+   "question": "A cladogram of five primates shows the gibbon branching off first, then the orangutan, then the gorilla, and finally a split between the chimpanzee and the human. Which two species are sister taxa - the pair that shares the most recent common ancestor?",
+   "correctAnswer": "Chimpanzee and human",
    "distractors": [
-    "Abandoned farmland",
-    "A burned forest",
-    "A cleared meadow"
+    "Gorilla and chimpanzee",
+    "Orangutan and gorilla",
+    "Gibbon and human"
    ],
-   "explanation": "Primary succession starts where no soil exists (bare rock, lava). Secondary succession follows disturbance where soil remains.",
-   "memoryHook": "T-Rexy says: rock first - primary succession starts on bare rock.",
+   "explanation": "Sister taxa branch from the same node, meaning they share a common ancestor that is more recent than any ancestor either shares with the other species. On this cladogram only the chimpanzee and the human share such a node; every other pair joins further back.",
+   "memoryHook": "T-Rexy says: same node, closest kin - sister taxa share the newest ancestor.",
    "imageUrl": "topic:primary-succession",
    "tags": [
-    "ecology",
-    "succession"
+    "evolution",
+    "phylogenetics"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -1704,19 +1710,19 @@
   },
   {
    "id": "EBIO_086",
-   "question": "Biological magnification means that toxins:",
-   "correctAnswer": "Become more concentrated at higher trophic levels",
+   "question": "In many signaling pathways, a membrane receptor causes the cell to produce large amounts of cyclic AMP (cAMP) in the cytoplasm, and the cAMP then activates downstream proteins. In this role, cAMP is called a:",
+   "correctAnswer": "Second messenger",
    "distractors": [
-    "Break down quickly in sunlight",
-    "Affect only producers",
-    "Dilute as they move up food webs"
+    "First messenger",
+    "Receptor protein",
+    "Transcription factor"
    ],
-   "explanation": "Persistent toxins (like DDT or mercury) accumulate in tissues and magnify up the food chain, harming top predators most.",
-   "memoryHook": "T-Rexy says: toxins climb the chain - biomagnification concentrates pollutants upward.",
+   "explanation": "The ligand arriving from outside is the first messenger. Small, nonprotein, water-soluble molecules like cAMP that relay the signal inside the cell - and spread it to many targets at once - are second messengers. cAMP typically works by activating protein kinase A.",
+   "memoryHook": "T-Rexy says: the ligand knocks outside, cAMP spreads the word inside.",
    "imageUrl": "topic:biomagnification",
    "tags": [
-    "ecology",
-    "human-impact"
+    "cell-communication",
+    "signaling"
    ],
    "difficulty": "easy",
    "dynamic": false,
@@ -1744,19 +1750,19 @@
   },
   {
    "id": "EBIO_088",
-   "question": "An ecological footprint measures:",
-   "correctAnswer": "Human demand on Earth's ecosystems",
+   "question": "A character table for five invertebrates shows: segmented body - earthworm, spider, ant, butterfly; jointed legs - spider, ant, butterfly; six legs - ant, butterfly; wings - butterfly only. The snail has none of these traits. Which trait is a shared derived character (synapomorphy) that unites the ant and the butterfly in a clade that excludes the spider?",
+   "correctAnswer": "Six legs",
    "distractors": [
-    "The size of a nature reserve",
-    "Animal track patterns",
-    "Soil erosion rates"
+    "Jointed legs",
+    "Segmented body",
+    "Wings"
    ],
-   "explanation": "The ecological footprint estimates the land and water area needed to sustain a population's consumption and absorb its waste.",
-   "memoryHook": "T-Rexy says: footprint of demand - ecological footprint measures resource demand.",
+   "explanation": "A synapomorphy must be shared by the clade members, newly evolved in their common ancestor, and absent in the groups being excluded. Six legs is shared by ant and butterfly but absent in the spider. Jointed legs also occur in the spider, segmented body also occurs in the earthworm, and wings are found only in the butterfly, so none of those can define the ant-butterfly clade.",
+   "memoryHook": "T-Rexy says: six legs make the team - ant and butterfly share the trait.",
    "imageUrl": "topic:ecological-footprint",
    "tags": [
-    "ecology",
-    "human-impact"
+    "evolution",
+    "phylogenetics"
    ],
    "difficulty": "medium",
    "dynamic": false,
@@ -1784,18 +1790,19 @@
   },
   {
    "id": "EBIO_090",
-   "question": "Island biogeography theory predicts species richness based on:",
-   "correctAnswer": "Island size and distance from the mainland",
+   "question": "A plant cell is placed in an open container at 300 K. The cell's pressure potential (PsiP) is +4.0 bars, and its cytoplasm contains a 0.20 mol/L solution of a solute that does not ionize (i = 1). Using PsiS = -iCRT, where R = 0.0831 L bars/(mol K), and Psi = PsiP + PsiS, what is the cell's total water potential?",
+   "correctAnswer": "About -1.0 bars",
    "distractors": [
-    "Island shape alone",
-    "Latitude alone",
-    "Human population"
+    "About -5.0 bars",
+    "About +9.0 bars",
+    "About -9.0 bars"
    ],
-   "explanation": "Larger islands support more species (more habitats, lower extinction) and nearer islands receive more immigrants.",
-   "memoryHook": "T-Rexy says: big and near means more species - island biogeography balances immigration and extinction.",
+   "explanation": "First the solute potential: PsiS = -(1)(0.20)(0.0831)(300) = -4.99, about -5.0 bars. Then add the pressure potential: Psi = PsiP + PsiS = +4.0 + (-5.0) = -1.0 bars. (-5.0 bars is the solute potential alone, before the pressure potential is added.) Water always moves toward the lower, more negative, water potential.",
+   "memoryHook": "T-Rexy says: pressure pushes back - plus 4 meets minus 5 for minus 1.",
    "imageUrl": "topic:island-biogeography",
    "tags": [
-    "ecology"
+    "cell-biology",
+    "transport"
    ],
    "difficulty": "hard",
    "dynamic": false,
@@ -1923,18 +1930,19 @@
   },
   {
    "id": "EBIO_097",
-   "question": "During which stage of mitosis does the nuclear envelope reform?",
-   "correctAnswer": "Telophase",
+   "question": "Heating an egg white denatures its proteins: the white turns solid and opaque as the protein molecules unfold. Denaturation by heat disrupts the forces holding the folded shape, but it does NOT break the protein's:",
+   "correctAnswer": "Primary structure - the amino acid sequence held together by peptide bonds",
    "distractors": [
-    "Prophase",
-    "Metaphase",
-    "Anaphase"
+    "Hydrogen bonds that hold alpha-helices and beta-pleated sheets in shape",
+    "Hydrophobic interactions that tuck nonpolar side chains into the interior",
+    "Ionic attractions between charged side chains on the folded surface"
    ],
-   "explanation": "In telophase, chromosomes arrive at the poles, decondense, and nuclear envelopes reassemble around each daughter nucleus.",
-   "memoryHook": "T-Rexy says: telophase rebuilds - the nuclear envelope reforms in telophase.",
+   "explanation": "Heat shakes apart the weak interactions - hydrogen bonds, hydrophobic interactions, and ionic attractions - that maintain secondary and tertiary structure, so the protein unfolds and loses function. The primary structure is a chain of covalent peptide bonds, and ordinary heating does not hydrolyze them, so the amino acid sequence stays intact.",
+   "memoryHook": "T-Rexy says: heat unravels the fold, not the chain - the sequence survives.",
    "imageUrl": "topic:telophase",
    "tags": [
-    "cell-cycle"
+    "chemistry-of-life",
+    "proteins"
    ],
    "difficulty": "easy",
    "dynamic": false,
