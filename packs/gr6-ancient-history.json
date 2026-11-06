@@ -29,7 +29,7 @@
         "china",
         "landmarks"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -269,7 +269,7 @@
         "rome",
         "rulers"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -442,7 +442,7 @@
         "The Yellow and the Yangtze",
         "The Indus and the Ganges"
       ],
-      "explanation": "The Tigris and Euphrates rivers watered Mesopotamia.",
+      "explanation": "Mesopotamia means 'the land between the rivers' - the Tigris flows on one side and the Euphrates on the other, and their floods left rich soil for the first farms.",
       "memoryHook": "T-Rexy says: The Tigris and Euphrates fed Mesopotamia.",
       "imageUrl": "topic:ancient-history",
       "tags": [
@@ -475,7 +475,7 @@
     },
     {
       "id": "HIS6_024",
-      "question": "What religion began in ancient India and teaches reincarnation?",
+      "question": "What religion began in ancient India, worships many gods, and teaches reincarnation?",
       "correctAnswer": "Hinduism",
       "distractors": [
         "Judaism",
@@ -729,7 +729,7 @@
         "civilizations",
         "economy"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -769,7 +769,7 @@
         "china",
         "philosophy"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1082,7 +1082,7 @@
         "The study of the future",
         "The study of animals"
       ],
-      "explanation": "History is the record and study of past events.",
+      "explanation": "Historians study the past by examining evidence - documents, artifacts, and buildings - to figure out what happened and why.",
       "memoryHook": "T-Rexy says: History is the story of the past.",
       "imageUrl": "topic:ancient-history",
       "tags": [
@@ -1109,7 +1109,7 @@
         "rome",
         "culture"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1609,7 +1609,7 @@
         "greece",
         "rulers"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1689,7 +1689,7 @@
         "egypt",
         "writing"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1709,7 +1709,7 @@
         "civilizations",
         "agriculture"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1742,7 +1742,7 @@
         "A kind of writing",
         "A city wall"
       ],
-      "explanation": "Dynasties pass rule from one family member to another.",
+      "explanation": "In China, dynasties like the Han and Qin each ruled for centuries; in Egypt, pharaohs passed the throne to their children the same way.",
       "memoryHook": "T-Rexy says: A dynasty is rule by one family.",
       "imageUrl": "topic:ancient-history",
       "tags": [
@@ -1809,7 +1809,7 @@
         "egypt",
         "rulers"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1969,7 +1969,7 @@
         "mesopotamia",
         "wonders"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
