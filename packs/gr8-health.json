@@ -22,7 +22,7 @@
         "At least 30 minutes",
         "At least 120 minutes"
       ],
-      "explanation": "Health experts recommend 60 minutes or more of activity daily for teens.",
+      "explanation": "That hour can be split up - gym class, walking to school, sports, and dancing all add up toward the 60 minutes.",
       "memoryHook": "T-Rexy says: Move 60 minutes a day.",
       "imageUrl": "topic:health",
       "tags": [
@@ -101,7 +101,7 @@
         "It replaces exercise",
         "It makes you taller"
       ],
-      "explanation": "Stretching keeps muscles flexible and helps prevent injuries.",
+      "explanation": "Gentle stretching lengthens tight muscles and improves range of motion, so joints move more freely during activity.",
       "memoryHook": "T-Rexy says: Stretch to stay flexible.",
       "imageUrl": "topic:health",
       "tags": [
@@ -180,7 +180,7 @@
         "Protein only",
         "Dairy only"
       ],
-      "explanation": "MyPlate recommends half the plate be fruits and vegetables.",
+      "explanation": "MyPlate is the USDA guide: fruits and vegetables take half the plate, while grains and protein share the other half, with dairy on the side.",
       "memoryHook": "T-Rexy says: Half your plate: fruits and veggies.",
       "imageUrl": "topic:health",
       "tags": [
@@ -220,7 +220,7 @@
         "To carry oxygen",
         "To replace water"
       ],
-      "explanation": "Carbs are the body's main energy source.",
+      "explanation": "The body breaks carbohydrates down into glucose, the fuel your brain and muscles burn first during activity.",
       "memoryHook": "T-Rexy says: Carbs give energy.",
       "imageUrl": "topic:health",
       "tags": [
@@ -240,7 +240,7 @@
         "To carry oxygen",
         "To help eyesight"
       ],
-      "explanation": "Calcium builds and keeps bones strong.",
+      "explanation": "Teens are still building bone mass, so calcium eaten now is deposited into bones and teeth while they are growing.",
       "memoryHook": "T-Rexy says: Calcium builds bones.",
       "imageUrl": "topic:health",
       "tags": [
@@ -320,7 +320,7 @@
         "About 3 cups",
         "About 20 cups"
       ],
-      "explanation": "Most teens need about 8 cups of water daily, more with exercise or heat.",
+      "explanation": "Thirst, body size, and sweat losses change the exact amount - pale yellow urine is a good sign you are drinking enough.",
       "memoryHook": "T-Rexy says: Drink about 8 cups a day.",
       "imageUrl": "topic:health",
       "tags": [
@@ -655,7 +655,7 @@
         "Only physical health",
         "Only how you look"
       ],
-      "explanation": "Mental health covers emotions, thinking, and coping.",
+      "explanation": "Mental health is shaped by sleep, friendships, stress, and even physical health - the mind and body affect each other.",
       "memoryHook": "T-Rexy says: Mental health is how you feel and cope.",
       "imageUrl": "topic:health",
       "tags": [
@@ -674,7 +674,7 @@
         "Skipping sleep",
         "Avoiding all people"
       ],
-      "explanation": "Healthy coping includes support, movement, and calm breathing.",
+      "explanation": "Coping works because each strategy lowers stress differently: movement burns off tension, breathing slows the heart, and talking helps you solve the problem.",
       "memoryHook": "T-Rexy says: Talk, move, breathe.",
       "imageUrl": "topic:health",
       "tags": [
@@ -694,7 +694,7 @@
         "A broken bone",
         "A lack of sleep only"
       ],
-      "explanation": "Anxiety is worry that can become a problem if it is constant.",
+      "explanation": "Normal worry fades when the test or game is over; anxiety sticks around, shows up often, and can make a teen avoid school, friends, or sleep.",
       "memoryHook": "T-Rexy says: Anxiety is heavy worry.",
       "imageUrl": "topic:health",
       "tags": [
@@ -812,7 +812,7 @@
         "A relationship with no boundaries",
         "A relationship based on fear"
       ],
-      "explanation": "Healthy friendships are respectful and supportive.",
+      "explanation": "In a healthy friendship you can say no, disagree, and be yourself without being teased, controlled, or left out.",
       "memoryHook": "T-Rexy says: Healthy friends respect you.",
       "imageUrl": "topic:health",
       "tags": [
@@ -891,7 +891,7 @@
         "16",
         "25"
       ],
-      "explanation": "The legal drinking age is 21 in all states.",
+      "explanation": "The 1984 federal law pushed every state to set 21 - selling alcohol to anyone younger is illegal everywhere in the U.S.",
       "memoryHook": "T-Rexy says: Drinking age is 21.",
       "imageUrl": "topic:health",
       "tags": [
@@ -911,7 +911,7 @@
         "It has no effect",
         "It improves memory"
       ],
-      "explanation": "Alcohol affects the developing teen brain.",
+      "explanation": "The teen brain is still developing into the mid-20s, and alcohol interferes with the areas that control decisions, impulses, and forming memories.",
       "memoryHook": "T-Rexy says: Alcohol harms the teen brain.",
       "imageUrl": "topic:health",
       "tags": [
@@ -971,7 +971,7 @@
         "Better grades",
         "More energy"
       ],
-      "explanation": "Vaping can addict teens to nicotine and harm their lungs.",
+      "explanation": "Nicotine changes the teen brain so it craves more, and the aerosol's chemicals irritate and inflame the airways.",
       "memoryHook": "T-Rexy says: Vaping risks addiction and lungs.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1030,7 +1030,7 @@
         "Meet strangers from the internet alone",
         "Post your address publicly"
       ],
-      "explanation": "Private information stays safe when you do not share it.",
+      "explanation": "Once a photo, address, or password is shared online you lose control of it - strangers can copy, save, and spread it.",
       "memoryHook": "T-Rexy says: Keep personal info private.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1050,7 +1050,7 @@
         "Send them your photo",
         "Agree to meet secretly"
       ],
-      "explanation": "Meeting online strangers is unsafe; adults can help.",
+      "explanation": "People online can lie about their age and identity, so a 'friend' from a game or app may not be who they claim to be.",
       "memoryHook": "T-Rexy says: Tell an adult, do not meet.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1070,7 +1070,7 @@
         "The word password",
         "Your pet's name"
       ],
-      "explanation": "Strong passwords are long, mixed, and private.",
+      "explanation": "Length matters most: a passphrase like 'tiger-river-7-sky' is easier to remember and far harder to guess than a short word.",
       "memoryHook": "T-Rexy says: Strong passwords are long and private.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1090,7 +1090,7 @@
         "Time spent outside",
         "Time spent sleeping"
       ],
-      "explanation": "Screen time is time on electronic devices.",
+      "explanation": "Screen time counts entertainment and communication on devices - it does not include reading a printed book or playing outside.",
       "memoryHook": "T-Rexy says: Screen time is device time.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1130,7 +1130,7 @@
         "Skipping meals to look thin",
         "Exercising to punish yourself"
       ],
-      "explanation": "Healthy body image means accepting and caring for your body.",
+      "explanation": "A healthy body image focuses on what your body can do - run, learn, heal - instead of comparing it to edited photos online.",
       "memoryHook": "T-Rexy says: Care for your body.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1210,7 +1210,7 @@
         "SPF 10",
         "SPF 100 only"
       ],
-      "explanation": "SPF 30 or higher gives good protection when used correctly.",
+      "explanation": "SPF 30 blocks about 97% of UVB rays; apply a thick layer and reapply every 2 hours, and after swimming or sweating.",
       "memoryHook": "T-Rexy says: Use SPF 30 or higher.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1250,7 +1250,7 @@
         "It keeps you warm",
         "It is only for style"
       ],
-      "explanation": "Helmets reduce the risk of head injury.",
+      "explanation": "In a crash a helmet absorbs and spreads out the impact force, protecting the skull and brain from the hardest hit.",
       "memoryHook": "T-Rexy says: Helmets protect your head.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1330,7 +1330,7 @@
         "It is only illegal for teens",
         "It makes the car slower"
       ],
-      "explanation": "Texting is a major distraction that causes crashes.",
+      "explanation": "Reading one text takes your eyes off the road for about 5 seconds - at highway speed that is like driving the length of a football field blindfolded.",
       "memoryHook": "T-Rexy says: Texting takes your eyes off the road.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1390,7 +1390,7 @@
         "Break things",
         "Keep it all inside forever"
       ],
-      "explanation": "Calm strategies help you handle anger safely.",
+      "explanation": "Anger raises your heart rate and tightens your muscles; slow breathing and a short walk let the body calm down before you speak.",
       "memoryHook": "T-Rexy says: Breathe, walk away, talk calmly.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1410,7 +1410,7 @@
         "Agreeing with everyone",
         "Feeling sorry for yourself"
       ],
-      "explanation": "Empathy means seeing things from another person's view.",
+      "explanation": "Empathy is a skill you can practice: listen, ask how the person feels, and imagine the situation from their side before you respond.",
       "memoryHook": "T-Rexy says: Empathy understands others.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1430,7 +1430,7 @@
         "Avoid all challenges",
         "Pretend to be perfect"
       ],
-      "explanation": "Small wins build real confidence over time.",
+      "explanation": "Confidence grows from evidence - each finished goal proves to your brain that you can handle the next, slightly bigger one.",
       "memoryHook": "T-Rexy says: Small goals build confidence.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1470,7 +1470,7 @@
         "Follow what everyone else does",
         "Ignore the risks"
       ],
-      "explanation": "Good decisions weigh options and outcomes.",
+      "explanation": "A simple method: name your choices, list a plus and a minus for each, then pick the option you would still defend tomorrow.",
       "memoryHook": "T-Rexy says: Think before you act.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1490,7 +1490,7 @@
         "Skip sleep",
         "Avoid all people"
       ],
-      "explanation": "Vaccines and handwashing lower flu risk.",
+      "explanation": "The flu shot trains your immune system before flu season, and soap breaks apart flu germs on your hands so they cannot reach your eyes, nose, or mouth.",
       "memoryHook": "T-Rexy says: Vaccines and handwashing prevent flu.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1530,7 +1530,7 @@
         "Viruses are larger",
         "Bacteria need a host cell"
       ],
-      "explanation": "Bacteria are living cells; viruses must infect a host to reproduce.",
+      "explanation": "Because bacteria are alive, antibiotics can kill them; antibiotics do not work on viruses, which is why most colds just have to run their course.",
       "memoryHook": "T-Rexy says: Viruses need a host, bacteria do not.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1689,7 +1689,7 @@
         "Drink soda during the game",
         "Avoid all fluids"
       ],
-      "explanation": "Regular water breaks prevent dehydration.",
+      "explanation": "Do not wait until you feel thirsty - thirst is a late signal, so drink on a schedule before, during, and after you play.",
       "memoryHook": "T-Rexy says: Drink water throughout.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1729,7 +1729,7 @@
         "Sneezing",
         "Itchy skin"
       ],
-      "explanation": "These signs mean the body needs water.",
+      "explanation": "Urine color is the quickest check: pale yellow means hydrated, while dark yellow or amber means you need fluids soon.",
       "memoryHook": "T-Rexy says: Thirst and dark urine mean dehydration.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1749,7 +1749,7 @@
         "Give them the silent treatment",
         "Spread rumors"
       ],
-      "explanation": "Calm talk and compromise solve conflicts.",
+      "explanation": "Use 'I feel' statements - saying 'I felt left out' starts a conversation, while blaming and yelling usually starts a bigger fight.",
       "memoryHook": "T-Rexy says: Listen, share, compromise.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1769,7 +1769,7 @@
         "Looking at your phone",
         "Interrupting often"
       ],
-      "explanation": "Active listening means focusing and responding thoughtfully.",
+      "explanation": "Show it with your body and words: face the speaker, nod, and repeat back what you heard in your own words to check you got it right.",
       "memoryHook": "T-Rexy says: Active listening is full attention.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1848,7 +1848,7 @@
         "Only at night",
         "Only on weekends"
       ],
-      "explanation": "The best time is the one you can stick with.",
+      "explanation": "Morning, after school, or evening all work - what builds fitness is showing up several days a week, week after week.",
       "memoryHook": "T-Rexy says: The best time is when you will do it.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1867,7 +1867,7 @@
         "Better grades",
         "Stronger bones"
       ],
-      "explanation": "Energy drinks have a lot of caffeine and sugar.",
+      "explanation": "One energy drink can hold as much caffeine as two or three sodas, which can cause a racing heart, jitteriness, and trouble sleeping that night.",
       "memoryHook": "T-Rexy says: Energy drinks have too much caffeine.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1887,7 +1887,7 @@
         "500 mg per day",
         "300 mg per day"
       ],
-      "explanation": "Health experts say teens should avoid energy drinks and limit caffeine.",
+      "explanation": "Pediatric experts put the teen ceiling at about 100 mg of caffeine a day - roughly one small coffee - and say energy drinks should be avoided completely.",
       "memoryHook": "T-Rexy says: Teens should limit caffeine.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1946,7 +1946,7 @@
         "They replace protein completely",
         "They have no nutrients"
       ],
-      "explanation": "Vegetables are rich in nutrients and fiber.",
+      "explanation": "The fiber in vegetables feeds healthy gut bacteria and slows digestion, so you feel full longer and absorb nutrients steadily.",
       "memoryHook": "T-Rexy says: Veggies give vitamins and fiber.",
       "imageUrl": "topic:health",
       "tags": [
