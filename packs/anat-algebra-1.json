@@ -30,7 +30,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -50,7 +50,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -70,7 +70,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -90,7 +90,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -110,7 +110,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -130,7 +130,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -150,7 +150,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -170,7 +170,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -190,7 +190,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -210,7 +210,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -230,7 +230,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -240,7 +240,7 @@
       "correctAnswer": "7x",
       "distractors": [
         "12x",
-        "7",
+        "7x^2",
         "x^7"
       ],
       "explanation": "Combine like terms: 4 + 3 = 7, so 7x.",
@@ -250,7 +250,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -270,7 +270,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -290,7 +290,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -310,7 +310,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -330,18 +330,18 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
     {
       "id": "AALG1_017",
       "question": "Solve the inequality: 2x < 10",
-      "correctAnswer": "5",
+      "correctAnswer": "x < 5",
       "distractors": [
-        "20",
-        "8",
-        "2"
+        "x > 5",
+        "x < 20",
+        "x < 2"
       ],
       "explanation": "Divide by 2: x < 5.",
       "memoryHook": "T-Rexy says: divide both sides, keep the arrow pointing!",
@@ -350,7 +350,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -370,7 +370,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -390,7 +390,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -410,7 +410,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -430,7 +430,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -450,7 +450,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -470,7 +470,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -490,7 +490,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -510,7 +510,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -530,7 +530,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -550,7 +550,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -570,7 +570,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -590,7 +590,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -610,7 +610,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -630,7 +630,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -650,7 +650,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -670,7 +670,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -690,7 +690,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -710,7 +710,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -730,7 +730,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -750,7 +750,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -770,7 +770,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -790,7 +790,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -810,7 +810,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -830,7 +830,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -850,7 +850,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -870,7 +870,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -890,7 +890,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -910,7 +910,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -930,7 +930,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -950,7 +950,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -970,7 +970,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -990,7 +990,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1010,7 +1010,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1030,7 +1030,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1050,7 +1050,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1070,7 +1070,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1090,7 +1090,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1110,7 +1110,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1130,7 +1130,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1150,7 +1150,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1170,7 +1170,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1190,7 +1190,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1210,7 +1210,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1230,7 +1230,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1250,7 +1250,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1270,7 +1270,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1290,7 +1290,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1310,7 +1310,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1330,7 +1330,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1350,7 +1350,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1370,7 +1370,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1390,7 +1390,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1410,7 +1410,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1430,7 +1430,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1450,7 +1450,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1470,7 +1470,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1490,7 +1490,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1510,7 +1510,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1530,7 +1530,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1550,7 +1550,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1570,7 +1570,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1590,7 +1590,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1610,7 +1610,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1630,7 +1630,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1650,7 +1650,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1670,7 +1670,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1690,7 +1690,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1710,7 +1710,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1730,13 +1730,13 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
     {
       "id": "AALG1_087",
-      "question": "Solve for x: If x^2 + 6x + 9 = 0",
+      "question": "Solve for x: x^2 + 6x + 9 = 0",
       "correctAnswer": "-3",
       "distractors": [
         "3",
@@ -1750,7 +1750,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1770,7 +1770,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1790,7 +1790,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1810,7 +1810,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1830,7 +1830,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1850,7 +1850,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1870,7 +1870,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1890,7 +1890,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1910,13 +1910,13 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
     {
       "id": "AALG1_096",
-      "question": "Solve for x: If 2^x = 32",
+      "question": "Solve for x: 2^x = 32",
       "correctAnswer": "5",
       "distractors": [
         "16",
@@ -1930,7 +1930,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1950,7 +1950,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1970,7 +1970,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -1990,7 +1990,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     },
@@ -2010,7 +2010,7 @@
         "Math",
         "Algebra"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Algebra 1"
     }
