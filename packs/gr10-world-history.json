@@ -238,7 +238,7 @@
       "question": "Which empire was ruled by Alexander the Great?",
       "correctAnswer": "The Macedonian Empire",
       "distractors": [
-        "The Persian Empire",
+        "The Carthaginian Empire",
         "The Ottoman Empire",
         "The Byzantine Empire"
       ],
@@ -282,7 +282,7 @@
         "The Spartans",
         "The Etruscans"
       ],
-      "explanation": "The Minoans were a Bronze Age civilization centered on Crete, with the palace of Knossos.",
+      "explanation": "The Minoans were seafaring traders whose great palaces had no defensive walls. Their colorful frescoes of bull-leaping and sea life show a confident island culture that later influenced the Mycenaeans of mainland Greece.",
       "memoryHook": "T-Rexy says: The Minoans built maze-like palaces on Crete.",
       "imageUrl": "topic:world-history",
       "tags": [
@@ -442,7 +442,7 @@
         "Persian religion",
         "Viking ships"
       ],
-      "explanation": "The Byzantine Empire, centered on Constantinople, preserved Roman law and Greek scholarship.",
+      "explanation": "Under Emperor Justinian, Byzantine lawyers reorganized Roman law into the Justinian Code. In Constantinople's monasteries and schools, scholars also kept copying Greek and Roman manuscripts, so classical learning survived there while it faded in the West.",
       "memoryHook": "T-Rexy says: Constantinople kept Roman law alive for a thousand years.",
       "imageUrl": "topic:world-history",
       "tags": [
@@ -455,11 +455,11 @@
     },
     {
       "id": "WH10_023",
-      "question": "Which West African kingdom grew rich from the gold and salt trade?",
+      "question": "Which West African kingdom, ruled by Mansa Musa, grew rich from the gold and salt trade?",
       "correctAnswer": "Mali",
       "distractors": [
-        "Ghana only in name",
-        "Songhai only later",
+        "The Ghana Empire",
+        "The Songhai Empire",
         "The Aztec Empire"
       ],
       "explanation": "Mali, under Mansa Musa, grew wealthy controlling the trans-Saharan gold trade.",
@@ -643,7 +643,7 @@
         "Rembrandt"
       ],
       "explanation": "Michelangelo painted the Sistine Chapel ceiling in the Vatican between 1508 and 1512.",
-      "memoryHook": "T-Rexy says: Michelangelo painted the Sistine ceiling lying on his back.",
+      "memoryHook": "T-Rexy says: Michelangelo spent four years painting the Sistine ceiling on a tall scaffold.",
       "imageUrl": "topic:world-history",
       "tags": [
         "renaissance",
@@ -682,7 +682,7 @@
         "John Milton",
         "Geoffrey Chaucer"
       ],
-      "explanation": "Shakespeare wrote Hamlet, Romeo and Juliet, and many other plays in Elizabethan England.",
+      "explanation": "Writing for London's Globe Theatre, Shakespeare produced about 37 plays and 154 sonnets. He coined or popularized hundreds of English words and phrases, which is one reason his plays are still performed all over the world.",
       "memoryHook": "T-Rexy says: Shakespeare wrote 37 plays that we still perform.",
       "imageUrl": "topic:world-history",
       "tags": [
@@ -755,7 +755,7 @@
     },
     {
       "id": "WH10_038",
-      "question": "Who was the first expedition to circumnavigate the globe?",
+      "question": "Which expedition was the first to circumnavigate the globe?",
       "correctAnswer": "Magellan's expedition",
       "distractors": [
         "Columbus's second voyage",
@@ -802,7 +802,7 @@
         "Roanoke",
         "Boston"
       ],
-      "explanation": "Jamestown, founded in Virginia in 1607, was the first permanent English settlement in North America.",
+      "explanation": "Jamestown nearly collapsed from hunger, disease, and conflict in its first years. Tobacco exports finally made it profitable, and in 1619 its settlers formed the House of Burgesses, the first elected assembly in English America.",
       "memoryHook": "T-Rexy says: Jamestown survived hunger and war to become permanent.",
       "imageUrl": "topic:world-history",
       "tags": [
@@ -882,7 +882,7 @@
         "Raphael",
         "Titian"
       ],
-      "explanation": "Leonardo da Vinci painted the Mona Lisa in the early 1500s.",
+      "explanation": "Leonardo painted this portrait of Lisa del Giocondo using sfumato, thin smoky layers of paint that soften edges. Her direct gaze and slight smile set the pattern for Renaissance portrait painting.",
       "memoryHook": "T-Rexy says: Leonardo's Mona Lisa smiles at millions of visitors each year.",
       "imageUrl": "topic:world-history",
       "tags": [
@@ -1002,7 +1002,7 @@
         "Benjamin Franklin",
         "John Adams"
       ],
-      "explanation": "George Washington commanded the Continental Army and became the first president in 1789.",
+      "explanation": "Washington kept the Continental Army together through eight years of war despite repeated defeats and scarce supplies. As the first president (1789-1797), he set lasting precedents, including serving only two terms and handing power peacefully to his successor.",
       "memoryHook": "T-Rexy says: Washington led the army, then led the nation.",
       "imageUrl": "topic:world-history",
       "tags": [
@@ -1278,9 +1278,9 @@
       "question": "What new weapon caused massive casualties in World War I trench warfare?",
       "correctAnswer": "The machine gun",
       "distractors": [
-        "The tank only",
+        "The tank",
         "The atomic bomb",
-        "The airplane only"
+        "The airplane"
       ],
       "explanation": "Machine guns made frontal attacks deadly and locked armies into trenches.",
       "memoryHook": "T-Rexy says: Machine guns turned charges into massacres.",
@@ -1300,7 +1300,7 @@
       "distractors": [
         "The treaty that ended World War II",
         "A trade deal between France and Britain",
-        "The agreement that created the League of Nations only"
+        "The treaty that ended the Franco-Prussian War"
       ],
       "explanation": "The Treaty of Versailles ended WWI, imposed reparations on Germany, and created the League of Nations.",
       "memoryHook": "T-Rexy says: Versailles blamed Germany and demanded reparations.",
@@ -1422,7 +1422,7 @@
         "A Soviet famine",
         "A Japanese prison camp system"
       ],
-      "explanation": "The Nazis murdered six million Jews and millions of others in the Holocaust.",
+      "explanation": "Between 1933 and 1945, Nazi Germany carried out a systematic, state-run genocide. Six million Jews were murdered in ghettos, mass shootings, and extermination camps such as Auschwitz, alongside millions of Roma, Poles, Soviet prisoners of war, and people with disabilities.",
       "memoryHook": "T-Rexy says: The Holocaust murdered six million Jews.",
       "imageUrl": "topic:world-history",
       "tags": [
@@ -1522,7 +1522,7 @@
         "Britain",
         "France"
       ],
-      "explanation": "New Zealand gave women the vote in 1893, the first country to do so.",
+      "explanation": "Campaigner Kate Sheppard delivered a petition of some 32,000 signatures to parliament, and in 1893 New Zealand passed its Electoral Act. It was the first self-governing country where women could vote in national elections, years ahead of Britain or the United States.",
       "memoryHook": "T-Rexy says: New Zealand led the world on women's votes in 1893.",
       "imageUrl": "topic:world-history",
       "tags": [
@@ -1659,7 +1659,7 @@
       "correctAnswer": "The anti-apartheid leader who became South Africa's first Black president",
       "distractors": [
         "The first president of Kenya",
-        "The founder of the ANC's armed wing only",
+        "The leader of the Mau Mau uprising in Kenya",
         "The prime minister of Rhodesia"
       ],
       "explanation": "Mandela spent 27 years in prison, then became South Africa's president in 1994.",
@@ -1722,7 +1722,7 @@
         "To fund the Korean War",
         "To build the United Nations"
       ],
-      "explanation": "The US Marshall Plan gave billions to rebuild war-torn Western Europe.",
+      "explanation": "Proposed by US Secretary of State George Marshall in 1947, the plan sent about 13 billion dollars in American aid to Western Europe starting in 1948. It sped up economic recovery and was also meant to keep war-weary voters in countries like France and Italy from turning to communism.",
       "memoryHook": "T-Rexy says: The Marshall Plan rebuilt Europe with American aid.",
       "imageUrl": "topic:world-history",
       "tags": [
@@ -1742,7 +1742,7 @@
         "The Warsaw Pact",
         "OPEC"
       ],
-      "explanation": "The European Economic Community, founded in 1957, grew into the European Union.",
+      "explanation": "The Treaty of Rome created the EEC in 1957 with six members: France, West Germany, Italy, Belgium, the Netherlands, and Luxembourg. By removing trade barriers among them, it laid the groundwork for the European Union, formally created by the Maastricht Treaty in 1993.",
       "memoryHook": "T-Rexy says: Six nations started the project that became the EU.",
       "imageUrl": "topic:world-history",
       "tags": [
@@ -1818,11 +1818,11 @@
       "question": "Which country became independent from Britain in 1947 and was partitioned?",
       "correctAnswer": "India",
       "distractors": [
-        "Pakistan only as a separate state",
+        "Pakistan",
         "Burma",
         "Sri Lanka"
       ],
-      "explanation": "British India was partitioned in 1947 into India and Pakistan.",
+      "explanation": "Britain's last viceroy, Lord Mountbatten, rushed the independence timetable, and British India was split along religious lines in August 1947. Partition displaced up to 15 million people and killed hundreds of thousands, one of the largest forced migrations in history.",
       "memoryHook": "T-Rexy says: Partition in 1947 created India and Pakistan.",
       "imageUrl": "topic:world-history",
       "tags": [
@@ -1840,7 +1840,7 @@
       "distractors": [
         "A war between China and Japan",
         "A Korean civil war",
-        "A French colonial war only"
+        "A border war between China and India"
       ],
       "explanation": "The Vietnam War pitted communist North Vietnam against South Vietnam and the US.",
       "memoryHook": "T-Rexy says: The Vietnam War ended with American withdrawal in 1973.",
@@ -1902,7 +1902,7 @@
         "Kenya",
         "Mozambique"
       ],
-      "explanation": "Rhodesia became Zimbabwe after independence in 1980.",
+      "explanation": "In 1965, the white-minority government of Southern Rhodesia under Ian Smith declared independence from Britain to keep power. After a long liberation war and the Lancaster House settlement, the country gained recognized independence in 1980 and took the name Zimbabwe, from a Shona phrase meaning 'houses of stone'.",
       "memoryHook": "T-Rexy says: Rhodesia became Zimbabwe in 1980.",
       "imageUrl": "topic:world-history",
       "tags": [
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "WH10_098",
-      "question": "What was the main cause of World War I's alliance system?",
+      "question": "Why did Europe's alliance system make a continent-wide war more likely in 1914?",
       "correctAnswer": "Mutual defense treaties that turned a local conflict into a continental war",
       "distractors": [
         "Religious differences",
