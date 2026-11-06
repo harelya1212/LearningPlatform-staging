@@ -246,23 +246,23 @@
       ]
     },
     {
-      "correctAnswer": "In the nucleus",
+      "correctAnswer": "First quarter",
       "difficulty": "medium",
       "distractors": [
-        "In the ribosomes",
-        "In the cell membrane",
-        "In the cytoplasm"
+        "Full moon",
+        "Last quarter",
+        "New moon"
       ],
       "dynamic": false,
-      "explanation": "Eukaryotic cells store their DNA inside the nucleus. (A tiny bit is also in mitochondria and chloroplasts.)",
+      "explanation": "At first quarter, the Moon has completed one quarter of its orbit around Earth, and from Earth we see exactly half of the sunlit side - the right half lit as seen from the Northern Hemisphere. A full moon is fully lit, a new moon appears dark, and at last quarter the left half is lit instead.",
       "id": "ASCI8_013",
       "imageUrl": "topic:science-life",
-      "memoryHook": "T-Rexy says: DNA lives in the nucleus vault - the most guarded room in the cell!",
-      "question": "In eukaryotic cells, where is most of the DNA found?",
+      "memoryHook": "T-Rexy says: first quarter, right side bright - the Moon is filling up like a dino's dinner plate!",
+      "question": "An observer on Earth sees the Moon with its right half brightly lit and its left half dark. Which phase is this?",
       "source": "TReps Science 8",
       "tags": [
         "Science",
-        "Cells"
+        "Astronomy"
       ]
     },
     {
@@ -306,23 +306,23 @@
       ]
     },
     {
-      "correctAnswer": "Cell, tissue, organ, organ system",
+      "correctAnswer": "Wave A carries more energy, because a wave's energy increases as its amplitude increases",
       "difficulty": "hard",
       "distractors": [
-        "Tissue, cell, organ, organ system",
-        "Organ, tissue, cell, organ system",
-        "Cell, organ, tissue, organ system"
+        "Wave B carries more energy, because its smaller amplitude lets it travel faster",
+        "Both waves carry the same energy, because their frequencies are equal",
+        "Wave A carries less energy, because energy is used up making the wave taller"
       ],
       "dynamic": false,
-      "explanation": "Cells group into tissues, tissues build organs, and organs work together in organ systems - each level is larger and more complex.",
+      "explanation": "For a wave, energy grows with amplitude: pushing the medium farther from its rest position takes more work, and that extra energy is what the wave carries. With equal frequencies, the wave with twice the amplitude (Wave A) delivers more energy - which is why a loud sound with a large amplitude can rattle a window while a quiet one cannot.",
       "id": "ASCI8_016",
       "imageUrl": "topic:science-life",
-      "memoryHook": "T-Rexy says: think of a dino marching band - players, then sections, then the whole band, then the parade!",
-      "question": "Which is the correct order from smallest to largest?",
+      "memoryHook": "T-Rexy says: taller wave, bigger energy - amplitude is the wave's muscle!",
+      "question": "Two waves travel through the same medium with the same frequency. Wave A has twice the amplitude of Wave B. Which statement is correct?",
       "source": "TReps Science 8",
       "tags": [
         "Science",
-        "Cells"
+        "Waves"
       ]
     },
     {
@@ -606,23 +606,23 @@
       ]
     },
     {
-      "correctAnswer": "46",
+      "correctAnswer": "Gravity",
       "difficulty": "medium",
       "distractors": [
-        "23",
-        "92",
-        "12"
+        "Magnetism",
+        "Friction",
+        "Electric force"
       ],
       "dynamic": false,
-      "explanation": "Human body cells have 46 chromosomes in 23 pairs - one set from each parent.",
+      "explanation": "Gravity is an attractive force between objects that have mass. Earth's gravity constantly pulls the Moon toward Earth, bending its path into an orbit, and the Sun's gravity does the same for all the planets. The Sun's huge mass is why it sits at the center of the solar system with the planets circling it.",
       "id": "ASCI8_031",
       "imageUrl": "topic:genetics",
-      "memoryHook": "T-Rexy says: 46 chromosomes, 23 pairs - the dino's complete instruction set, half from each parent!",
-      "question": "How many chromosomes are found in a typical human body cell?",
+      "memoryHook": "T-Rexy says: gravity is the universe's invisible leash - it keeps every planet walking in a circle around the Sun!",
+      "question": "Which force keeps the Moon in orbit around Earth and the planets in orbit around the Sun?",
       "source": "TReps Science 8",
       "tags": [
         "Science",
-        "Genetics"
+        "Astronomy"
       ]
     },
     {
@@ -806,23 +806,23 @@
       ]
     },
     {
-      "correctAnswer": "Producer",
+      "correctAnswer": "Energy, while the medium itself stays mostly in place",
       "difficulty": "easy",
       "distractors": [
-        "Consumer",
-        "Decomposer",
-        "Predator"
+        "Matter, as the medium travels along with the wave",
+        "Nothing at all - a wave is only a shape",
+        "Sound only, because other waves cannot move through matter"
       ],
       "dynamic": false,
-      "explanation": "Producers like plants make their own food through photosynthesis, forming the base of every food chain.",
+      "explanation": "A wave is a disturbance that carries energy from place to place. The material it passes through - the medium - vibrates in place but does not travel with the wave. A floating cork bobs up and down as water waves pass, yet it stays in nearly the same spot while the wave's energy moves across the pond.",
       "id": "ASCI8_041",
       "imageUrl": "topic:science-life",
-      "memoryHook": "T-Rexy says: producers are the dino chefs - they cook food from sunlight and nobody else has to!",
-      "question": "An organism that makes its own food is best classified as a:",
+      "memoryHook": "T-Rexy says: a wave is energy on the move - the water stays, but the energy travels, like a cheer spreading through a stadium crowd!",
+      "question": "Which statement best describes what a wave transfers as it travels?",
       "source": "TReps Science 8",
       "tags": [
         "Science",
-        "Ecosystems"
+        "Waves"
       ]
     },
     {
@@ -866,23 +866,23 @@
       ]
     },
     {
-      "correctAnswer": "Herbivore",
+      "correctAnswer": "The Moon orbits Earth, so we see different amounts of its sunlit half",
       "difficulty": "easy",
       "distractors": [
-        "Carnivore",
-        "Omnivore",
-        "Decomposer"
+        "Earth's shadow slowly covers and uncovers the Moon",
+        "The Moon produces more or less light at different times of the month",
+        "The Moon spins, showing us a different side each night"
       ],
       "dynamic": false,
-      "explanation": "Herbivores eat only plants. Carnivores eat animals, omnivores eat both, and decomposers break down dead matter.",
+      "explanation": "The Moon does not make its own light; it reflects sunlight, so one half of it is always lit by the Sun. As the Moon orbits Earth over about a month, our viewing angle changes and we see more or less of that sunlit half. Those changing views are the phases. Earth's shadow causes lunar eclipses, not the monthly phases.",
       "id": "ASCI8_044",
       "imageUrl": "topic:science-life",
-      "memoryHook": "T-Rexy says: herbivores are the salad-loving dinos - all veggies, no meat!",
-      "question": "An animal that eats only plants is best classified as a:",
+      "memoryHook": "T-Rexy says: the Moon is a mirror ball in space - as it circles us, we catch different amounts of its sunny side!",
+      "question": "What causes the phases of the Moon?",
       "source": "TReps Science 8",
       "tags": [
         "Science",
-        "Ecosystems"
+        "Astronomy"
       ]
     },
     {
@@ -966,23 +966,23 @@
       ]
     },
     {
-      "correctAnswer": "Carrying capacity",
+      "correctAnswer": "8 m/s",
       "difficulty": "medium",
       "distractors": [
-        "Limiting factor",
-        "Niche",
-        "Biome"
+        "2 m/s",
+        "6 m/s",
+        "0.5 m/s"
       ],
       "dynamic": false,
-      "explanation": "Carrying capacity is set by the scarcest resource: when a population grows past what its food, water, and space can support, deaths rise and births fall until the population drops back to that limit.",
+      "explanation": "Wave speed equals frequency times wavelength: speed = 4 Hz x 2 m = 8 m/s. Each second, 4 complete waves pass a point, and each wave is 2 meters long, so the wave pattern advances 4 x 2 = 8 meters every second.",
       "id": "ASCI8_049",
       "imageUrl": "topic:science-life",
-      "memoryHook": "T-Rexy says: carrying capacity is the dino hotel's max guests - no more rooms, no more dinos!",
-      "question": "The maximum population an environment can support is best defined as its:",
+      "memoryHook": "T-Rexy says: speed is frequency times wavelength - 4 waves a second, each 2 meters long, zooms the energy 8 meters a second!",
+      "question": "A wave in a rope has a frequency of 4 Hz and a wavelength of 2 meters. What is the wave's speed?",
       "source": "TReps Science 8",
       "tags": [
         "Science",
-        "Ecosystems"
+        "Waves"
       ]
     },
     {
@@ -1026,23 +1026,23 @@
       ]
     },
     {
-      "correctAnswer": "Competition",
+      "correctAnswer": "Compressions",
       "difficulty": "medium",
       "distractors": [
-        "Mutualism",
-        "Parasitism",
-        "Commensalism"
+        "Rarefactions",
+        "Crests",
+        "Troughs"
       ],
       "dynamic": false,
-      "explanation": "Two lions fighting over the same zebra are competing for the same limited food resource.",
+      "explanation": "In a longitudinal wave, the medium vibrates back and forth in the same direction the wave travels. Where particles are pushed together they form compressions; where they spread apart they form rarefactions. Crests and troughs belong to transverse waves, not longitudinal waves.",
       "id": "ASCI8_052",
       "imageUrl": "topic:science-life",
-      "memoryHook": "T-Rexy says: two dinos, one snack - may the hungriest dino win!",
-      "question": "Two lions fighting over the same prey is the best example of:",
+      "memoryHook": "T-Rexy says: compressions are the crowded squeeze zones of a sound wave - rarefactions are where everyone gets elbow room!",
+      "question": "Sound travels through air as a longitudinal wave. What are the regions where the air particles are squeezed closest together called?",
       "source": "TReps Science 8",
       "tags": [
         "Science",
-        "Ecosystems"
+        "Waves"
       ]
     },
     {
@@ -1186,23 +1186,23 @@
       ]
     },
     {
-      "correctAnswer": "Keystone species",
+      "correctAnswer": "The Moon's orbit is tilted relative to Earth's orbit, so the Sun, Moon, and Earth line up exactly only at certain times",
       "difficulty": "hard",
       "distractors": [
-        "Invasive species",
-        "Endangered species",
-        "Producer species"
+        "The Moon is too small to cast a shadow in most months",
+        "Earth's shadow is usually too small to cover the Moon",
+        "The Moon's orbit changes shape, so it is too far away in most months"
       ],
       "dynamic": false,
-      "explanation": "A keystone species, like sea otters controlling urchins, holds the ecosystem together - remove it and the whole system collapses.",
+      "explanation": "Eclipses need a nearly perfect straight-line arrangement of the Sun, Moon, and Earth. The Moon's orbit is tilted by about 5 degrees compared with Earth's orbit around the Sun, so at most new and full moons the Moon passes a little above or below the line, and its shadow misses Earth (or Earth's shadow misses the Moon). Only when a new or full moon happens near a place where the two orbits cross do we get an eclipse.",
       "id": "ASCI8_060",
       "imageUrl": "topic:science-life",
-      "memoryHook": "T-Rexy says: the keystone species is the dino arch's center stone - pull it out and everything tumbles!",
-      "question": "A species whose removal would cause an ecosystem to collapse is best described as a:",
+      "memoryHook": "T-Rexy says: the Moon's orbit is tilted like a wobbly hula hoop - only sometimes does everything line up for an eclipse!",
+      "question": "The Moon orbits Earth about once a month, yet solar and lunar eclipses do not happen every month. What is the best explanation?",
       "source": "TReps Science 8",
       "tags": [
         "Science",
-        "Ecosystems"
+        "Astronomy"
       ]
     },
     {
@@ -1306,23 +1306,23 @@
       ]
     },
     {
-      "correctAnswer": "Evaporation, condensation, precipitation",
+      "correctAnswer": "The Moon is directly between the Sun and Earth, and the Moon's shadow falls on Earth",
       "difficulty": "easy",
       "distractors": [
-        "Melting, freezing, boiling",
-        "Erosion, deposition, uplift",
-        "Growth, decay, renewal"
+        "Earth is directly between the Sun and the Moon, and Earth's shadow falls on the Moon",
+        "The Moon is on the far side of Earth from the Sun, fully lit by sunlight",
+        "The Sun moves between the Moon and Earth"
       ],
       "dynamic": false,
-      "explanation": "Water evaporates into vapor, condenses into clouds, and falls back as precipitation - the endless water cycle.",
+      "explanation": "In a solar eclipse the Moon lines up exactly between the Sun and Earth. The Moon blocks sunlight and casts a small shadow on Earth; people inside that shadow see the Sun covered. When Earth is between the Sun and the Moon instead, Earth's shadow falls on the Moon - that is a lunar eclipse.",
       "id": "ASCI8_066",
       "imageUrl": "topic:science-earth",
-      "memoryHook": "T-Rexy says: up as vapor, together as clouds, down as rain - the dino water merry-go-round!",
-      "question": "Which three processes drive the water cycle?",
+      "memoryHook": "T-Rexy says: solar eclipse means the Moon cuts the line - Moon in the middle, shadow on us!",
+      "question": "During a total solar eclipse, how are the Sun, Moon, and Earth arranged?",
       "source": "TReps Science 8",
       "tags": [
         "Science",
-        "Earth Science"
+        "Astronomy"
       ]
     },
     {
@@ -1686,23 +1686,23 @@
       ]
     },
     {
-      "correctAnswer": "Speed = distance / time",
+      "correctAnswer": "The crest",
       "difficulty": "easy",
       "distractors": [
-        "Speed = time / distance",
-        "Speed = distance x time",
-        "Speed = mass x distance"
+        "The trough",
+        "The amplitude",
+        "The wavelength"
       ],
       "dynamic": false,
-      "explanation": "The units give the formula away: speed is measured in distance per time (miles per hour, meters per second), and 'per' means divide - so a car that travels 60 miles in 2 hours averages 60 / 2 = 30 miles per hour.",
+      "explanation": "A transverse wave moves the medium at right angles to the direction the wave travels, making a repeating up-and-down pattern. The highest point is the crest and the lowest point is the trough. Amplitude is the distance from the rest position to a crest, and wavelength is the distance between two matching points on neighboring waves.",
       "id": "ASCI8_085",
       "imageUrl": "topic:science-physical",
-      "memoryHook": "T-Rexy says: speed is the dino's race math - miles divided by hours tells you how fast those legs moved!",
-      "question": "Which formula is used to calculate speed?",
+      "memoryHook": "T-Rexy says: the crest is the top of the wave's mountain - a trough is the valley at the bottom!",
+      "question": "In a transverse wave, what is the highest point of the wave called?",
       "source": "TReps Science 8",
       "tags": [
         "Science",
-        "Physics"
+        "Waves"
       ]
     },
     {
@@ -1826,23 +1826,23 @@
       ]
     },
     {
-      "correctAnswer": "The rate at which velocity changes",
+      "correctAnswer": "It has a higher frequency, so it sounds higher in pitch",
       "difficulty": "medium",
       "distractors": [
-        "The top speed reached",
-        "The distance traveled",
-        "The force applied"
+        "It has a lower frequency, so it sounds lower in pitch",
+        "It becomes louder, because faster vibrations always have larger amplitudes",
+        "It travels through the air much faster than before"
       ],
       "dynamic": false,
-      "explanation": "Acceleration measures how quickly velocity changes - speeding up, slowing down, or turning all count.",
+      "explanation": "Pitch is how high or low a sound seems, and it is set by frequency: faster vibrations mean more waves per second, which we hear as a higher pitch. Loudness depends on amplitude instead, and sound travels through air at about the same speed regardless of its pitch.",
       "id": "ASCI8_092",
       "imageUrl": "topic:science-physical",
-      "memoryHook": "T-Rexy says: acceleration is the dino's pedal - step on it to speed up, ease off to slow down!",
-      "question": "Which statement best defines acceleration?",
+      "memoryHook": "T-Rexy says: faster wiggle, higher note - a tight string sings like a little bird, a loose string growls like a sleepy dino!",
+      "question": "A guitarist tightens a string so it vibrates faster when plucked. How does the sound change?",
       "source": "TReps Science 8",
       "tags": [
         "Science",
-        "Physics"
+        "Waves"
       ]
     },
     {
