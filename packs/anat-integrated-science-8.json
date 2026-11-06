@@ -7,7 +7,7 @@
   "questions": [
     {
       "correctAnswer": "The cell",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "The atom",
         "The tissue",
@@ -27,7 +27,7 @@
     },
     {
       "correctAnswer": "Cell membrane",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Nucleus",
         "Ribosome",
@@ -47,7 +47,7 @@
     },
     {
       "correctAnswer": "Mitochondria",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Nucleus",
         "Chloroplast",
@@ -67,7 +67,7 @@
     },
     {
       "correctAnswer": "Chloroplast",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Mitochondria",
         "Nucleus",
@@ -87,7 +87,7 @@
     },
     {
       "correctAnswer": "Nucleus",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Cytoplasm",
         "Cell wall",
@@ -107,7 +107,7 @@
     },
     {
       "correctAnswer": "Tissue",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Organ",
         "Organism",
@@ -127,7 +127,7 @@
     },
     {
       "correctAnswer": "Ribosome",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Vacuole",
         "Chloroplast",
@@ -147,7 +147,7 @@
     },
     {
       "correctAnswer": "Cytoplasm",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Chlorophyll",
         "Plasma",
@@ -167,7 +167,7 @@
     },
     {
       "correctAnswer": "Cell wall",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Cell membrane",
         "Cytoskeleton",
@@ -187,7 +187,7 @@
     },
     {
       "correctAnswer": "Lysosome",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Ribosome",
         "Vacuole",
@@ -207,7 +207,7 @@
     },
     {
       "correctAnswer": "Golgi apparatus",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Endoplasmic reticulum",
         "Mitochondria",
@@ -227,7 +227,7 @@
     },
     {
       "correctAnswer": "Central vacuole",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Nucleus",
         "Lysosome",
@@ -247,7 +247,7 @@
     },
     {
       "correctAnswer": "In the nucleus",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "In the ribosomes",
         "In the cell membrane",
@@ -267,10 +267,10 @@
     },
     {
       "correctAnswer": "Unicellular",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Multicellular",
-        "Acullular",
+        "Acellular",
         "Colonial"
       ],
       "dynamic": false,
@@ -287,7 +287,7 @@
     },
     {
       "correctAnswer": "Plant cells have both chloroplasts and mitochondria",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "Plant cells have no mitochondria",
         "Animal cells have chloroplasts",
@@ -307,7 +307,7 @@
     },
     {
       "correctAnswer": "Cell, tissue, organ, organ system",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "Tissue, cell, organ, organ system",
         "Organ, tissue, cell, organ system",
@@ -327,7 +327,7 @@
     },
     {
       "correctAnswer": "Its surface area would be too small to supply the large volume inside",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "Cell walls are too weak",
         "DNA cannot stretch that far",
@@ -347,7 +347,7 @@
     },
     {
       "correctAnswer": "Chloroplasts capture energy; mitochondria release energy",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "Chloroplasts make proteins; mitochondria make DNA",
         "Mitochondria capture energy; chloroplasts release energy",
@@ -367,7 +367,7 @@
     },
     {
       "correctAnswer": "The DNA must be copied",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "The cell membrane dissolves",
         "The nucleus leaves the cell",
@@ -387,7 +387,7 @@
     },
     {
       "correctAnswer": "It allows some substances through but blocks others",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "It lets everything pass freely",
         "It blocks everything completely",
@@ -407,7 +407,7 @@
     },
     {
       "correctAnswer": "Double helix",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Single strand",
         "Triple coil",
@@ -427,14 +427,14 @@
     },
     {
       "correctAnswer": "A gene",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "A ribosome",
         "A protein",
         "A lipid"
       ],
       "dynamic": false,
-      "explanation": "A gene is a section of DNA that carries the instructions for one trait, such as eye color.",
+      "explanation": "A gene works because its sequence of DNA bases is read as instructions for building a specific protein, and that protein helps produce the trait - a gene for eye pigment, for example, helps decide eye color.",
       "id": "ASCI8_022",
       "imageUrl": "topic:genetics",
       "memoryHook": "T-Rexy says: a gene is one recipe card in the giant dino cookbook of DNA!",
@@ -447,14 +447,14 @@
     },
     {
       "correctAnswer": "Heredity",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Mitosis",
         "Photosynthesis",
         "Diffusion"
       ],
       "dynamic": false,
-      "explanation": "Heredity is the passing of traits from parents to offspring through genes.",
+      "explanation": "Heredity works through genes on chromosomes: each parent contributes one allele for each gene, so offspring receive a shuffled combination of both parents' traits - which is why children resemble both parents but match neither exactly.",
       "id": "ASCI8_023",
       "imageUrl": "topic:genetics",
       "memoryHook": "T-Rexy says: heredity is why baby dinos look like their dino parents - traits get handed down!",
@@ -467,7 +467,7 @@
     },
     {
       "correctAnswer": "Dominant",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Recessive",
         "Mutated",
@@ -487,7 +487,7 @@
     },
     {
       "correctAnswer": "Two copies of the recessive allele",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "One dominant allele",
         "No alleles at all",
@@ -507,7 +507,7 @@
     },
     {
       "correctAnswer": "A Punnett square",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "A food web",
         "A periodic table",
@@ -527,7 +527,7 @@
     },
     {
       "correctAnswer": "Genotype is the alleles; phenotype is the visible trait",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Genotype is visible; phenotype is hidden",
         "They mean exactly the same thing",
@@ -547,7 +547,7 @@
     },
     {
       "correctAnswer": "Homozygous has two identical alleles; heterozygous has two different alleles",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Homozygous is dominant; heterozygous is recessive",
         "They are the same",
@@ -567,7 +567,7 @@
     },
     {
       "correctAnswer": "50 percent",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "100 percent",
         "25 percent",
@@ -587,7 +587,7 @@
     },
     {
       "correctAnswer": "A change in the DNA sequence",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "A change in diet",
         "A broken bone",
@@ -607,7 +607,7 @@
     },
     {
       "correctAnswer": "46",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "23",
         "92",
@@ -627,7 +627,7 @@
     },
     {
       "correctAnswer": "X and Y",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "A and B",
         "M and N",
@@ -647,7 +647,7 @@
     },
     {
       "correctAnswer": "Asexual reproduction",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Sexual reproduction",
         "Meiosis",
@@ -667,7 +667,7 @@
     },
     {
       "correctAnswer": "Sexual reproduction",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Binary fission",
         "Budding",
@@ -687,7 +687,7 @@
     },
     {
       "correctAnswer": "A-T and C-G",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "A-C and T-G",
         "A-G and C-T",
@@ -707,7 +707,7 @@
     },
     {
       "correctAnswer": "Mitosis makes 2 identical cells; meiosis makes 4 different gametes",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "Mitosis makes 4 cells; meiosis makes 2",
         "They produce the same result",
@@ -727,7 +727,7 @@
     },
     {
       "correctAnswer": "Crossing over during meiosis shuffles genes",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "Siblings get different food",
         "Mutations never happen",
@@ -747,7 +747,7 @@
     },
     {
       "correctAnswer": "Pink",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "Red",
         "White",
@@ -767,7 +767,7 @@
     },
     {
       "correctAnswer": "25 percent",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "50 percent",
         "75 percent",
@@ -787,7 +787,7 @@
     },
     {
       "correctAnswer": "Mutations, crossing over, and random fertilization",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "Mitosis, diffusion, and osmosis",
         "Eating, sleeping, and growing",
@@ -807,7 +807,7 @@
     },
     {
       "correctAnswer": "Producer",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Consumer",
         "Decomposer",
@@ -827,7 +827,7 @@
     },
     {
       "correctAnswer": "Decomposer",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Producer",
         "Herbivore",
@@ -847,7 +847,7 @@
     },
     {
       "correctAnswer": "Consumer",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Producer",
         "Decomposer",
@@ -867,7 +867,7 @@
     },
     {
       "correctAnswer": "Herbivore",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Carnivore",
         "Omnivore",
@@ -887,7 +887,7 @@
     },
     {
       "correctAnswer": "Grass to rabbit to fox",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Fox to rabbit to grass",
         "Rabbit to grass to fox",
@@ -907,7 +907,7 @@
     },
     {
       "correctAnswer": "Habitat is where it lives; niche is its role",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "They mean the same thing",
         "Habitat is the role; niche is the address",
@@ -927,7 +927,7 @@
     },
     {
       "correctAnswer": "A food web shows many connected food chains",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "A food web has only one chain",
         "A food chain has more organisms",
@@ -947,7 +947,7 @@
     },
     {
       "correctAnswer": "Energy is lost as heat at each level",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Producers make less each year",
         "Top predators eat very little",
@@ -967,14 +967,14 @@
     },
     {
       "correctAnswer": "Carrying capacity",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Limiting factor",
         "Niche",
         "Biome"
       ],
       "dynamic": false,
-      "explanation": "Carrying capacity is the largest population an environment can support with its food, water, and space.",
+      "explanation": "Carrying capacity is set by the scarcest resource: when a population grows past what its food, water, and space can support, deaths rise and births fall until the population drops back to that limit.",
       "id": "ASCI8_049",
       "imageUrl": "topic:science-life",
       "memoryHook": "T-Rexy says: carrying capacity is the dino hotel's max guests - no more rooms, no more dinos!",
@@ -987,7 +987,7 @@
     },
     {
       "correctAnswer": "Predator and prey",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Producer and consumer",
         "Host and parasite",
@@ -1007,7 +1007,7 @@
     },
     {
       "correctAnswer": "Mutualism",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Parasitism",
         "Commensalism",
@@ -1027,7 +1027,7 @@
     },
     {
       "correctAnswer": "Competition",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Mutualism",
         "Parasitism",
@@ -1047,7 +1047,7 @@
     },
     {
       "correctAnswer": "It can outcompete native species",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "It always helps the ecosystem",
         "It cannot survive long",
@@ -1067,7 +1067,7 @@
     },
     {
       "correctAnswer": "Carbon dioxide",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Oxygen",
         "Nitrogen",
@@ -1087,7 +1087,7 @@
     },
     {
       "correctAnswer": "About 10 percent",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "About 90 percent",
         "About 50 percent",
@@ -1106,15 +1106,15 @@
       ]
     },
     {
-      "correctAnswer": "Bioaccumulation",
-      "difficulty": 3,
+      "correctAnswer": "Biomagnification",
+      "difficulty": "hard",
       "distractors": [
         "Photosynthesis",
         "Succession",
         "Erosion"
       ],
       "dynamic": false,
-      "explanation": "Toxins concentrate as they move up the food chain because each predator eats many contaminated prey - top predators get the highest dose.",
+      "explanation": "Biomagnification is the increase in toxin concentration at each higher trophic level: each predator eats many contaminated prey and keeps their toxins, so top predators get the highest dose. (Bioaccumulation is different - it is the build-up of a toxin inside one organism over its lifetime.)",
       "id": "ASCI8_056",
       "imageUrl": "topic:science-life",
       "memoryHook": "T-Rexy says: toxins climb the dino food ladder - the top predator gets the biggest poisonous pile!",
@@ -1127,7 +1127,7 @@
     },
     {
       "correctAnswer": "Primary starts on bare rock; secondary starts where soil exists",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "Primary is faster than secondary",
         "Secondary starts on bare rock",
@@ -1147,14 +1147,14 @@
     },
     {
       "correctAnswer": "A limiting factor",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "A renewable resource",
         "A niche",
         "A mutation"
       ],
       "dynamic": false,
-      "explanation": "A limiting factor, like water in a desert, restricts how large a population can grow.",
+      "explanation": "A limiting factor is whatever resource runs out first: desert rabbits can find food and space, but without more water, fewer young survive and the population cannot grow past what the water supply supports.",
       "id": "ASCI8_058",
       "imageUrl": "topic:science-life",
       "memoryHook": "T-Rexy says: a limiting factor is the dino's empty water bowl - no water, no more dinos!",
@@ -1167,7 +1167,7 @@
     },
     {
       "correctAnswer": "Evaporation, condensation, precipitation, collection",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "Erosion, deposition, melting, freezing",
         "Mitosis, meiosis, fission, fusion",
@@ -1187,7 +1187,7 @@
     },
     {
       "correctAnswer": "Keystone species",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "Invasive species",
         "Endangered species",
@@ -1207,7 +1207,7 @@
     },
     {
       "correctAnswer": "Igneous, sedimentary, and metamorphic",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Liquid, solid, and gas",
         "Metal, wood, and plastic",
@@ -1227,7 +1227,7 @@
     },
     {
       "correctAnswer": "Igneous",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Sedimentary",
         "Metamorphic",
@@ -1247,7 +1247,7 @@
     },
     {
       "correctAnswer": "Sedimentary",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Igneous",
         "Metamorphic",
@@ -1267,7 +1267,7 @@
     },
     {
       "correctAnswer": "Metamorphic",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Igneous",
         "Sedimentary",
@@ -1287,7 +1287,7 @@
     },
     {
       "correctAnswer": "Weathering breaks rock down; erosion moves it away",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "They are the same thing",
         "Erosion breaks rock; weathering moves it",
@@ -1307,7 +1307,7 @@
     },
     {
       "correctAnswer": "Evaporation, condensation, precipitation",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Melting, freezing, boiling",
         "Erosion, deposition, uplift",
@@ -1327,7 +1327,7 @@
     },
     {
       "correctAnswer": "Tectonic plates move",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "The moon pulls harder",
         "Rocks shrink as they cool",
@@ -1347,7 +1347,7 @@
     },
     {
       "correctAnswer": "At plate boundaries",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "In the middle of plates",
         "Only under oceans",
@@ -1367,7 +1367,7 @@
     },
     {
       "correctAnswer": "Where plates pull apart or push together",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "In the center of continents",
         "At the North Pole",
@@ -1387,7 +1387,7 @@
     },
     {
       "correctAnswer": "Sedimentary",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Igneous",
         "Metamorphic",
@@ -1407,7 +1407,7 @@
     },
     {
       "correctAnswer": "Physical weathering breaks rock; chemical weathering changes its composition",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "They are identical",
         "Chemical is faster always",
@@ -1427,7 +1427,7 @@
     },
     {
       "correctAnswer": "Broken-down rock mixed with decayed organisms",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Pure sand only",
         "Melted lava",
@@ -1447,7 +1447,7 @@
     },
     {
       "correctAnswer": "They redistribute heat around the planet",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "They make the ocean salty",
         "They stop all rain",
@@ -1467,7 +1467,7 @@
     },
     {
       "correctAnswer": "Earth's tilted axis",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Earth's distance from the sun",
         "The moon's gravity",
@@ -1487,7 +1487,7 @@
     },
     {
       "correctAnswer": "Matching rock layers and fossils on different continents",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "Tides going in and out",
         "Clouds moving west",
@@ -1507,7 +1507,7 @@
     },
     {
       "correctAnswer": "Convergent: plates collide; divergent: plates separate; transform: plates slide past",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "They are all the same",
         "Convergent means separating",
@@ -1527,7 +1527,7 @@
     },
     {
       "correctAnswer": "Igneous to sedimentary to metamorphic and back, in any order",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "Only one direction is possible",
         "Rocks never change type",
@@ -1547,7 +1547,7 @@
     },
     {
       "correctAnswer": "Greenhouse gases trap heat radiating from Earth",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "The sun gets hotter each year",
         "Oceans stop absorbing heat",
@@ -1567,7 +1567,7 @@
     },
     {
       "correctAnswer": "Warm water moves east across the Pacific, shifting weather patterns",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "The Atlantic freezes over",
         "All wind stops worldwide",
@@ -1587,7 +1587,7 @@
     },
     {
       "correctAnswer": "Relative dating compares layers; absolute dating gives an actual age",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "They are the same method",
         "Relative uses clocks; absolute uses fossils",
@@ -1607,7 +1607,7 @@
     },
     {
       "correctAnswer": "A push or a pull",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "A type of energy",
         "A kind of matter",
@@ -1627,7 +1627,7 @@
     },
     {
       "correctAnswer": "Inertia",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Friction",
         "Gravity",
@@ -1647,7 +1647,7 @@
     },
     {
       "correctAnswer": "Force = mass x acceleration",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Force = mass / acceleration",
         "Force = speed x time",
@@ -1667,7 +1667,7 @@
     },
     {
       "correctAnswer": "For every action there is an equal and opposite reaction",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Objects at rest stay at rest",
         "Force equals mass times acceleration",
@@ -1687,14 +1687,14 @@
     },
     {
       "correctAnswer": "Speed = distance / time",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Speed = time / distance",
         "Speed = distance x time",
         "Speed = mass x distance"
       ],
       "dynamic": false,
-      "explanation": "Speed tells how fast something moves: divide the distance traveled by the time it took.",
+      "explanation": "The units give the formula away: speed is measured in distance per time (miles per hour, meters per second), and 'per' means divide - so a car that travels 60 miles in 2 hours averages 60 / 2 = 30 miles per hour.",
       "id": "ASCI8_085",
       "imageUrl": "topic:science-physical",
       "memoryHook": "T-Rexy says: speed is the dino's race math - miles divided by hours tells you how fast those legs moved!",
@@ -1707,7 +1707,7 @@
     },
     {
       "correctAnswer": "Friction",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Gravity",
         "Inertia",
@@ -1727,7 +1727,7 @@
     },
     {
       "correctAnswer": "Toward the center of Earth",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Toward the moon",
         "Away from Earth",
@@ -1747,7 +1747,7 @@
     },
     {
       "correctAnswer": "Kinetic is energy of motion; potential is stored energy",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "They are the same thing",
         "Kinetic is stored; potential is motion",
@@ -1767,7 +1767,7 @@
     },
     {
       "correctAnswer": "It changes form but the total stays the same",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "It disappears completely",
         "It doubles each time",
@@ -1787,7 +1787,7 @@
     },
     {
       "correctAnswer": "It multiplies the force",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "It multiplies the speed",
         "It changes the color",
@@ -1807,7 +1807,7 @@
     },
     {
       "correctAnswer": "Work = force x distance",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "Work = mass x speed",
         "Work = force / time",
@@ -1827,7 +1827,7 @@
     },
     {
       "correctAnswer": "The rate at which velocity changes",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "The top speed reached",
         "The distance traveled",
@@ -1847,7 +1847,7 @@
     },
     {
       "correctAnswer": "Protons, neutrons, and electrons",
-      "difficulty": 1,
+      "difficulty": "easy",
       "distractors": [
         "Cells, tissues, and organs",
         "Solids, liquids, and gases",
@@ -1867,7 +1867,7 @@
     },
     {
       "correctAnswer": "An element has one type of atom; a compound has two or more bonded types",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "They are the same thing",
         "Compounds have one atom type",
@@ -1887,7 +1887,7 @@
     },
     {
       "correctAnswer": "By increasing atomic number",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "Alphabetically by name",
         "By color",
@@ -1907,7 +1907,7 @@
     },
     {
       "correctAnswer": "A chemical change forms a new substance; a physical change does not",
-      "difficulty": 2,
+      "difficulty": "medium",
       "distractors": [
         "They are the same",
         "Physical changes form new substances",
@@ -1927,7 +1927,7 @@
     },
     {
       "correctAnswer": "pH below 7 is acidic; above 7 is basic",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "pH 7 is acidic",
         "Acids and bases have the same pH",
@@ -1947,7 +1947,7 @@
     },
     {
       "correctAnswer": "The total mass stays the same",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "Mass disappears",
         "Mass doubles",
@@ -1967,7 +1967,7 @@
     },
     {
       "correctAnswer": "Their electrons move freely between atoms",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "They are always liquid",
         "They have no protons",
@@ -1987,14 +1987,14 @@
     },
     {
       "correctAnswer": "Gas particles spread far apart and move freely; solid particles vibrate in fixed positions",
-      "difficulty": 3,
+      "difficulty": "hard",
       "distractors": [
         "Solids have no particles at all",
         "Gas particles stop moving",
         "Both behave identically"
       ],
       "dynamic": false,
-      "explanation": "In a solid, particles lock in place and only vibrate. In a gas, particles fly freely and spread out to fill any container.",
+      "explanation": "Particle attractions explain the difference: in a solid, strong attractions hold particles in fixed positions so the solid keeps its shape, while gas particles move fast and far apart, spreading in all directions until they fill the whole container evenly.",
       "id": "ASCI8_100",
       "imageUrl": "topic:science-physical",
       "memoryHook": "T-Rexy says: solid dinos stand frozen in formation, gas dinos run wild and fill the whole room!",
