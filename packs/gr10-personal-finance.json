@@ -235,19 +235,19 @@
     },
     {
       "id": "FIN10_012",
-      "question": "What is the best place to keep an emergency fund?",
-      "correctAnswer": "A high-yield savings account",
+      "question": "An investor wants her savings to double in about 8 years, with no extra deposits. Using the Rule of 72, about what annual interest rate does she need?",
+      "correctAnswer": "9 percent a year",
       "distractors": [
-        "Under your mattress",
-        "In stocks",
-        "In a checking account you spend from"
+        "8 percent a year",
+        "18 percent a year",
+        "64 percent a year"
       ],
-      "explanation": "A high-yield savings account keeps the money safe, accessible, and earning interest.",
-      "memoryHook": "T-Rexy says: A savings account keeps emergency money safe and reachable.",
+      "explanation": "The Rule of 72 works in both directions: the rate you need is 72 divided by the years you can wait. Here, 72 / 8 = 9, so she needs an average return of about 9 percent a year. Check: at 9 percent, money doubles in about 72 / 9 = 8 years.",
+      "memoryHook": "T-Rexy says: 72 divided by the years gives the rate you need.",
       "imageUrl": "topic:personal-finance",
       "tags": [
         "saving",
-        "accounts"
+        "rule-of-72"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -415,19 +415,19 @@
     },
     {
       "id": "FIN10_021",
-      "question": "What is a bank statement?",
-      "correctAnswer": "A record of your account activity over a period",
+      "question": "Mia deposits $500 in a savings account with a 2.00 percent APY. If she leaves the money untouched, how much interest does she earn in one year?",
+      "correctAnswer": "$10",
       "distractors": [
-        "A loan application",
-        "A tax form",
-        "A credit report"
+        "$5",
+        "$20",
+        "$100"
       ],
-      "explanation": "A bank statement lists deposits, withdrawals, and fees for a month.",
-      "memoryHook": "T-Rexy says: A statement shows what went in and out.",
+      "explanation": "APY is the effective yearly rate, so one year of interest is the balance times the APY: $500 x 0.02 = $10. That is the point of APY - it already includes compounding, so you can multiply it straight by your balance.",
+      "memoryHook": "T-Rexy says: APY times balance equals one year of interest.",
       "imageUrl": "topic:personal-finance",
       "tags": [
         "banking",
-        "statements"
+        "apy"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -535,19 +535,19 @@
     },
     {
       "id": "FIN10_027",
-      "question": "What is the range of a FICO credit score?",
-      "correctAnswer": "300 to 850",
+      "question": "You deposit $2,000 in an account that earns 6 percent a year and add nothing more. Using the Rule of 72, about how many years will it take for the account to grow to $4,000?",
+      "correctAnswer": "About 12 years",
       "distractors": [
-        "0 to 100",
-        "100 to 500",
-        "500 to 1000"
+        "About 6 years",
+        "About 17 years",
+        "About 36 years"
       ],
-      "explanation": "On the 300 to 850 scale, scores below about 580 are considered poor, 670 to 739 are good, and 740 and above are very good to excellent - higher scores unlock lower interest rates on loans and cards.",
-      "memoryHook": "T-Rexy says: FICO runs from 300 to 850.",
+      "explanation": "The Rule of 72 estimates doubling time: divide 72 by the annual rate. 72 / 6 = 12, so the deposit doubles in about 12 years. The rule works because compound growth speeds up as the balance grows.",
+      "memoryHook": "T-Rexy says: 72 divided by the rate tells the doubling date.",
       "imageUrl": "topic:personal-finance",
       "tags": [
-        "credit",
-        "score"
+        "saving",
+        "rule-of-72"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -715,19 +715,19 @@
     },
     {
       "id": "FIN10_036",
-      "question": "What is the minimum payment on a credit card?",
-      "correctAnswer": "The smallest amount you must pay each month to stay current",
+      "question": "You carry a $600 balance on a credit card with a 24 percent APR and make no payment for one month. About how much interest is charged for that month?",
+      "correctAnswer": "$12",
       "distractors": [
-        "The full balance",
-        "A fixed $100",
-        "The interest only"
+        "$144",
+        "$24",
+        "$6"
       ],
-      "explanation": "The minimum payment is the lowest payment allowed, but paying only it costs much more in interest.",
-      "memoryHook": "T-Rexy says: Paying only the minimum costs a lot in interest.",
+      "explanation": "APR is a yearly rate, so one month costs 24 / 12 = 2 percent of the balance. 2 percent of $600 is $12. Carrying the balance a full year at that pace would cost about $144 - which is why card balances grow so fast.",
+      "memoryHook": "T-Rexy says: Divide APR by 12 to get the monthly bite.",
       "imageUrl": "topic:personal-finance",
       "tags": [
         "credit",
-        "cards"
+        "interest"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -775,15 +775,15 @@
     },
     {
       "id": "FIN10_039",
-      "question": "What is the difference between a loan and a line of credit?",
-      "correctAnswer": "A loan gives a lump sum; a line of credit lets you borrow as needed up to a limit",
+      "question": "You buy a $12,000 car. With 10 percent down you borrow $10,800, and your payments add up to $12,400. With 20 percent down you borrow $9,600, and your payments add up to $10,900. How much interest do you save with the larger down payment?",
+      "correctAnswer": "$300",
       "distractors": [
-        "They are the same",
-        "A line of credit is a loan only for cars",
-        "A loan has no interest"
+        "$1,500",
+        "$1,200",
+        "$2,900"
       ],
-      "explanation": "Think of a car loan versus a credit card: the loan hands you one fixed sum that you repay on a schedule, while the line of credit lets you borrow, repay, and borrow again up to the limit whenever you need it.",
-      "memoryHook": "T-Rexy says: A loan is one lump sum, a line is borrow-as-needed.",
+      "explanation": "Interest is what you pay above the amount borrowed. Small down payment: $12,400 - $10,800 = $1,600 of interest. Large down payment: $10,900 - $9,600 = $1,300. Saving: $1,600 - $1,300 = $300. A bigger down payment shrinks both the loan and its interest.",
+      "memoryHook": "T-Rexy says: Bigger down payment, smaller interest bill.",
       "imageUrl": "topic:personal-finance",
       "tags": [
         "credit",
@@ -815,15 +815,15 @@
     },
     {
       "id": "FIN10_041",
-      "question": "What is a cosigner?",
-      "correctAnswer": "Someone who agrees to repay a loan if the borrower does not",
+      "question": "You finance a $2,000 laptop with loan payments of $95 a month for 24 months. How much interest do you pay over the life of the loan?",
+      "correctAnswer": "$280",
       "distractors": [
-        "The person who receives the loan",
-        "A bank employee",
-        "A type of interest rate"
+        "$2,280",
+        "$190",
+        "$95"
       ],
-      "explanation": "A cosigner signs the loan too, so the lender can demand payment from the cosigner if the borrower stops paying - and missed payments damage the cosigner's credit score as well as the borrower's.",
-      "memoryHook": "T-Rexy says: A cosigner promises to pay if you cannot.",
+      "explanation": "First find the total repaid: $95 x 24 = $2,280. Interest is the part above the amount borrowed: $2,280 - $2,000 = $280. Lenders advertise the monthly payment, but the total interest is the real price of borrowing.",
+      "memoryHook": "T-Rexy says: Payments times months, minus the loan, equals the interest.",
       "imageUrl": "topic:personal-finance",
       "tags": [
         "credit",
@@ -955,19 +955,19 @@
     },
     {
       "id": "FIN10_048",
-      "question": "What is a good credit utilization rate?",
-      "correctAnswer": "Below 30 percent",
+      "question": "A bank advertises a nominal interest rate of 4 percent compounded quarterly. What is the APY, to the nearest hundredth of a percent?",
+      "correctAnswer": "4.06 percent",
       "distractors": [
-        "Above 90 percent",
-        "100 percent",
-        "It does not matter"
+        "4.00 percent",
+        "4.04 percent",
+        "4.07 percent"
       ],
-      "explanation": "Check the math on your own card: a $300 balance on a $1,000 limit is 30 percent utilization. Lower is even better - people with the highest scores typically use under 10 percent of their limits.",
-      "memoryHook": "T-Rexy says: Stay under 30 percent of your limit.",
+      "explanation": "Quarterly compounding means 4 percent / 4 = 1 percent is added four times: (1.01)^4 = 1.0406, so $1 grows to about $1.0406 in a year. The effective yearly gain - the APY - is 4.06 percent, a bit more than the 4 percent nominal rate because interest earns interest.",
+      "memoryHook": "T-Rexy says: APY is the rate you really earn after compounding.",
       "imageUrl": "topic:personal-finance",
       "tags": [
-        "credit",
-        "score"
+        "banking",
+        "apy"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1035,19 +1035,19 @@
     },
     {
       "id": "FIN10_052",
-      "question": "What is a W-2 form?",
-      "correctAnswer": "A form from your employer showing your yearly wages and taxes withheld",
+      "question": "Social Security tax is 6.2 percent of wages and Medicare tax is 1.45 percent of wages. How much FICA tax is withheld in total from $40,000 of wages?",
+      "correctAnswer": "$3,060",
       "distractors": [
-        "A tax return you file",
-        "A form for independent contractors",
-        "A bank statement"
+        "$2,480",
+        "$580",
+        "$3,200"
       ],
-      "explanation": "Your employer must send your W-2 by January 31, showing the year's wages and exactly how much tax was already withheld. You copy its numbers onto your tax return, so without it you cannot file accurately.",
-      "memoryHook": "T-Rexy says: A W-2 shows your pay and taxes.",
+      "explanation": "Add the two parts. Social Security: 6.2 percent of $40,000 = $2,480. Medicare: 1.45 percent of $40,000 = $580. Total FICA withheld: $2,480 + $580 = $3,060. Together the two taxes take 7.65 percent of wages.",
+      "memoryHook": "T-Rexy says: FICA is 6.2 plus 1.45 - 7.65 percent of pay.",
       "imageUrl": "topic:personal-finance",
       "tags": [
         "taxes",
-        "forms"
+        "fica"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1155,19 +1155,19 @@
     },
     {
       "id": "FIN10_058",
-      "question": "What is a 1099 form?",
-      "correctAnswer": "A form reporting income not from an employer, like freelance work",
+      "question": "Suppose a single filer's federal income tax is 10 percent on the first $10,000 of taxable income and 12 percent on taxable income above $10,000. How much tax is owed on a taxable income of $30,000?",
+      "correctAnswer": "$3,400",
       "distractors": [
-        "A W-2 form",
-        "A tax refund",
-        "A bank statement"
+        "$3,600",
+        "$3,000",
+        "$2,400"
       ],
-      "explanation": "A 1099 (for example the 1099-NEC for freelance work) reports income where no employer withheld tax. Because nothing was held back, you may owe tax on that income when you file - a surprise many first-time freelancers miss.",
-      "memoryHook": "T-Rexy says: A 1099 reports freelance income.",
+      "explanation": "Brackets tax slices of income at different rates, not the whole income at the top rate. First slice: 10 percent of $10,000 = $1,000. Rest: 12 percent of the remaining $20,000 = $2,400. Total tax: $1,000 + $2,400 = $3,400. Moving into a higher bracket never taxes your earlier dollars at the higher rate.",
+      "memoryHook": "T-Rexy says: Brackets tax slices, not the whole pie.",
       "imageUrl": "topic:personal-finance",
       "tags": [
         "taxes",
-        "forms"
+        "brackets"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1755,19 +1755,19 @@
     },
     {
       "id": "FIN10_088",
-      "question": "What is comparison shopping?",
-      "correctAnswer": "Checking prices and features at several sellers before buying",
+      "question": "A video game costs $45 before tax. The sales tax rate is 8 percent. What is the total cost at the register?",
+      "correctAnswer": "$48.60",
       "distractors": [
-        "Buying the first item you see",
-        "Buying the most expensive item",
-        "Buying only online"
+        "$3.60",
+        "$49.50",
+        "$45.36"
       ],
-      "explanation": "Compare the total cost, not just the sticker price: add tax, shipping, and fees, and check the same item at two or three sellers. Five minutes of comparing can save real money on a big purchase.",
-      "memoryHook": "T-Rexy says: Compare before you buy.",
+      "explanation": "Find the tax first: 8 percent of $45 is $45 x 0.08 = $3.60. Then add it to the price: $45 + $3.60 = $48.60. The sticker price is never the final price when sales tax applies.",
+      "memoryHook": "T-Rexy says: Add the tax before you judge the price.",
       "imageUrl": "topic:personal-finance",
       "tags": [
         "consumer",
-        "shopping"
+        "tax"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1775,15 +1775,15 @@
     },
     {
       "id": "FIN10_089",
-      "question": "What is unit price?",
-      "correctAnswer": "The cost per unit, like per ounce, used to compare products",
+      "question": "A jacket with an original price of $80 is on sale for 25 percent off. What is the sale price?",
+      "correctAnswer": "$60",
       "distractors": [
-        "The total price",
-        "The tax on a product",
-        "The sale price"
+        "$20",
+        "$64",
+        "$100"
       ],
-      "explanation": "Do the division: a 16-ounce box at $4.00 costs $0.25 per ounce, while a 32-ounce box at $6.40 costs $0.20 per ounce - the bigger box is the better deal even though its sticker price is higher. Shelf tags often show the unit price for you.",
-      "memoryHook": "T-Rexy says: Unit price shows the cost per ounce.",
+      "explanation": "25 percent off means you pay 75 percent of the price. The discount is $80 x 0.25 = $20 off, so the sale price is $80 - $20 = $60. Always check whether an answer is the discount or the price you actually pay.",
+      "memoryHook": "T-Rexy says: Percent off is not the price - subtract it.",
       "imageUrl": "topic:personal-finance",
       "tags": [
         "consumer",
@@ -1995,19 +1995,19 @@
     },
     {
       "id": "FIN10_100",
-      "question": "What is the main benefit of buying used items?",
-      "correctAnswer": "Lower cost and less waste",
+      "question": "You buy a share of stock for $40 and sell it one year later for $50. What is your rate of return for the year?",
+      "correctAnswer": "25 percent",
       "distractors": [
-        "They are always better quality",
-        "They come with warranties",
-        "They are always newer"
+        "20 percent",
+        "10 percent",
+        "125 percent"
       ],
-      "explanation": "The first owner absorbs the biggest price drop - a new car can lose around 20 percent of its value in its first year - so buying used lets someone else pay for that depreciation. The tradeoff is little or no warranty, so inspect before you buy.",
-      "memoryHook": "T-Rexy says: Used items save money and resources.",
+      "explanation": "Rate of return compares the gain to what you started with. The gain is $50 - $40 = $10, and $10 / $40 = 0.25, a 25 percent return. Dividing by the final price (20 percent) is the classic mistake - returns are always measured against the starting amount.",
+      "memoryHook": "T-Rexy says: Gain divided by the starting amount is the return.",
       "imageUrl": "topic:personal-finance",
       "tags": [
-        "consumer",
-        "shopping"
+        "investing",
+        "returns"
       ],
       "difficulty": "medium",
       "dynamic": false,
