@@ -54,18 +54,20 @@
     },
     {
       "id": "ENG11_003",
-      "question": "What is a metaphor?",
-      "correctAnswer": "A direct comparison between two unlike things without using like or as",
+      "question": "Read this passage from Ralph Waldo Emerson's essay \"Self-Reliance\" (1841), a founding text of Transcendentalism:\n\n\"Trust thyself: every heart vibrates to that iron string. Accept the place the divine providence has found for you, the society of your contemporaries, the connection of events. Great men have always done so, and confided themselves childlike to the genius of their age, betraying their perception that the Eternal was stirring at their heart, working through their hands, predominating in all their being. And we are now men, and must accept in the highest mind the same transcendent destiny; and not pinched in a corner, not cowards fleeing before a revolution, but redeemers and benefactors, pious aspirants to be noble clay under the Almighty effort let us advance on Chaos and the Dark.\"\n\nAccording to the passage, what does Emerson tell each person to accept?",
+      "correctAnswer": "The place divine providence has found for them, the society of their contemporaries, and the connection of events",
       "distractors": [
-        "A comparison using like or as",
-        "An exaggeration for effect",
-        "A reference to another work"
+        "The opinions and customs handed down by earlier generations",
+        "A quiet life of comfort, free from risk and change",
+        "The judgment of critics, who know great work when they see it"
       ],
-      "explanation": "A metaphor states that one thing IS another, unlike a simile which uses like or as.",
-      "memoryHook": "T-Rexy says: A metaphor says it IS - no like, no as, just bold comparison.",
-      "imageUrl": "topic:metaphor",
+      "explanation": "Emerson lists three things to accept: the place the divine providence has found for you, the society of your contemporaries, and the connection of events. Accepting your own time and place is the starting point of self-trust, not a call to copy the past.",
+      "memoryHook": "T-Rexy says: Emerson says trust your own tracks - they were made for the ground you stand on.",
+      "imageUrl": "topic:emerson-self-reliance",
       "tags": [
-        "literary-device"
+        "passage",
+        "transcendentalism",
+        "reading"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -73,18 +75,20 @@
     },
     {
       "id": "ENG11_004",
-      "question": "What is a simile?",
-      "correctAnswer": "A comparison between two unlike things using like or as",
+      "question": "Read this passage from Ralph Waldo Emerson's essay \"Self-Reliance\" (1841), a founding text of Transcendentalism:\n\n\"Trust thyself: every heart vibrates to that iron string. Accept the place the divine providence has found for you, the society of your contemporaries, the connection of events. Great men have always done so, and confided themselves childlike to the genius of their age, betraying their perception that the Eternal was stirring at their heart, working through their hands, predominating in all their being. And we are now men, and must accept in the highest mind the same transcendent destiny; and not pinched in a corner, not cowards fleeing before a revolution, but redeemers and benefactors, pious aspirants to be noble clay under the Almighty effort let us advance on Chaos and the Dark.\"\n\nIn the phrase \"every heart vibrates to that iron string,\" the image of the vibrating string suggests that self-trust is",
+      "correctAnswer": "A deep, responsive chord built into every person",
       "distractors": [
-        "A direct comparison without like or as",
-        "A statement that contradicts itself",
-        "A repeating sound at the start of words"
+        "A skill only trained musicians can develop",
+        "A heavy burden that most people cannot carry",
+        "A rule invented by society to control behavior"
       ],
-      "explanation": "Similes use like or as to compare, for example 'brave as a lion.'",
-      "memoryHook": "T-Rexy says: Like or as is the clue - that's a simile, my friend.",
-      "imageUrl": "topic:simile",
+      "explanation": "A string vibrates when it is struck and answers with sound. Emerson's image says the call to trust yourself strikes a chord that already exists in every heart, so every person is built to respond to it - the string is part of the instrument, not something added later.",
+      "memoryHook": "T-Rexy says: Pluck the string - every heart already knows the note.",
+      "imageUrl": "topic:emerson-self-reliance",
       "tags": [
-        "literary-device"
+        "passage",
+        "transcendentalism",
+        "reading"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -171,18 +175,20 @@
     },
     {
       "id": "ENG11_009",
-      "question": "What is personification?",
-      "correctAnswer": "Giving human qualities to nonhuman things",
+      "question": "Read this passage from Henry David Thoreau's \"Walden\" (1854), in the chapter \"Where I Lived, and What I Lived For.\" Thoreau, a leading Transcendentalist, wrote it after living in a cabin he built himself on Walden Pond:\n\n\"I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived. I did not wish to live what was not life, living is so dear; nor did I wish to practise resignation, unless it was quite necessary. I wanted to live deep and suck out all the marrow of life, to live so sturdily and Spartan-like as to put to rout all that was not life.\"\n\nWhy does Thoreau say he went to the woods?",
+      "correctAnswer": "He wished to live deliberately and face only the essential facts of life",
       "distractors": [
-        "Repeating the same sound",
-        "Contradicting a statement",
-        "Comparing with like or as"
+        "He wanted to escape work and live without any effort",
+        "He hoped to become famous by writing about nature",
+        "He planned to prove that people should never live in towns"
       ],
-      "explanation": "Personification makes objects or ideas act human, like 'the wind whispered.'",
-      "memoryHook": "T-Rexy says: When the wind whispers, that's personification talking.",
-      "imageUrl": "topic:personification",
+      "explanation": "Thoreau gives his reason in the first sentence: he went to the woods because he \"wished to live deliberately, to front only the essential facts of life.\" The move was a deliberate experiment in essential living, not idleness, fame-seeking, or a rule for everyone else.",
+      "memoryHook": "T-Rexy says: Thoreau went to the woods on purpose - deliberately is the keyword.",
+      "imageUrl": "topic:thoreau-walden",
       "tags": [
-        "literary-device"
+        "passage",
+        "transcendentalism",
+        "reading"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -229,18 +235,20 @@
     },
     {
       "id": "ENG11_012",
-      "question": "What is alliteration?",
-      "correctAnswer": "The repetition of initial consonant sounds in nearby words",
+      "question": "Read this passage from Frederick Douglass's \"Narrative of the Life of Frederick Douglass, an American Slave\" (1845):\n\n\"I have often been utterly astonished, since I came to the north, to find persons who could speak of the singing, among slaves, as evidence of their contentment and happiness. It is impossible to conceive of a greater mistake. Slaves sing most when they are most unhappy. The songs of the slave represent the sorrows of his heart; and he is relieved by them, only as an aching heart is relieved by its tears. At least, such is my experience. I have often sung to drown my sorrow, but seldom to express my happiness. Crying for joy, and singing for joy, were alike uncommon to me while in the jaws of slavery. The singing of a man cast away upon a desolate island might be as appropriately considered as evidence of contentment and happiness, as the singing of a slave; the songs of the one and of the other are prompted by the same emotion.\"\n\nWhat mistaken belief is Douglass correcting in this passage?",
+      "correctAnswer": "That the singing of enslaved people proves they are content and happy",
       "distractors": [
-        "The repetition of vowel sounds",
-        "A comparison using like",
-        "An extreme exaggeration"
+        "That enslaved people were forbidden to sing on plantations",
+        "That songs were taught to enslaved people by their masters",
+        "That singing could cure the physical pain of hard labor"
       ],
-      "explanation": "Alliteration repeats starting sounds, as in 'Peter Piper picked.'",
-      "memoryHook": "T-Rexy says: Alliteration loves the same starting sound, again and again.",
-      "imageUrl": "topic:alliteration",
+      "explanation": "Douglass says he was \"utterly astonished\" to find people in the North who took the singing of slaves as \"evidence of their contentment and happiness.\" Correcting that misreading is the passage's whole purpose: he calls it a mistake too great to conceive.",
+      "memoryHook": "T-Rexy says: A song can be a bandage, not a smile - Douglass teaches us to listen closer.",
+      "imageUrl": "topic:douglass-narrative",
       "tags": [
-        "literary-device"
+        "passage",
+        "slave-narrative",
+        "reading"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -267,18 +275,20 @@
     },
     {
       "id": "ENG11_014",
-      "question": "What is the main conflict in Romeo and Juliet?",
-      "correctAnswer": "The feud between the Montague and Capulet families",
+      "question": "Read this passage from Frederick Douglass's \"Narrative of the Life of Frederick Douglass, an American Slave\" (1845):\n\n\"I have often been utterly astonished, since I came to the north, to find persons who could speak of the singing, among slaves, as evidence of their contentment and happiness. It is impossible to conceive of a greater mistake. Slaves sing most when they are most unhappy. The songs of the slave represent the sorrows of his heart; and he is relieved by them, only as an aching heart is relieved by its tears. At least, such is my experience. I have often sung to drown my sorrow, but seldom to express my happiness. Crying for joy, and singing for joy, were alike uncommon to me while in the jaws of slavery. The singing of a man cast away upon a desolate island might be as appropriately considered as evidence of contentment and happiness, as the singing of a slave; the songs of the one and of the other are prompted by the same emotion.\"\n\nAccording to Douglass, when do enslaved people sing most?",
+      "correctAnswer": "When they are most unhappy",
       "distractors": [
-        "A war between England and France",
-        "A struggle for the throne",
-        "A disagreement about money"
+        "When their work is finished for the day",
+        "When they are celebrating a holiday",
+        "When their masters order them to perform"
       ],
-      "explanation": "The family feud drives the tragedy of the young lovers.",
-      "memoryHook": "T-Rexy says: Two families, one feud, and love caught in the middle.",
-      "imageUrl": "topic:romeo-juliet",
+      "explanation": "Douglass states it directly: \"Slaves sing most when they are most unhappy.\" The songs carry sorrow, which is why outsiders who heard music and assumed joy had the truth exactly backwards.",
+      "memoryHook": "T-Rexy says: The loudest song on the plantation was often the saddest one.",
+      "imageUrl": "topic:douglass-narrative",
       "tags": [
-        "drama"
+        "passage",
+        "slave-narrative",
+        "reading"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -286,18 +296,20 @@
     },
     {
       "id": "ENG11_015",
-      "question": "Which sentence is written in active voice?",
-      "correctAnswer": "The student wrote the essay.",
+      "question": "Read this passage from Frederick Douglass's \"Narrative of the Life of Frederick Douglass, an American Slave\" (1845):\n\n\"I have often been utterly astonished, since I came to the north, to find persons who could speak of the singing, among slaves, as evidence of their contentment and happiness. It is impossible to conceive of a greater mistake. Slaves sing most when they are most unhappy. The songs of the slave represent the sorrows of his heart; and he is relieved by them, only as an aching heart is relieved by its tears. At least, such is my experience. I have often sung to drown my sorrow, but seldom to express my happiness. Crying for joy, and singing for joy, were alike uncommon to me while in the jaws of slavery. The singing of a man cast away upon a desolate island might be as appropriately considered as evidence of contentment and happiness, as the singing of a slave; the songs of the one and of the other are prompted by the same emotion.\"\n\nIn the passage, singing relieves the enslaved singer in the same way that",
+      "correctAnswer": "Tears relieve an aching heart",
       "distractors": [
-        "The essay was written by the student.",
-        "The essay was being written.",
-        "The essay had been written."
+        "Rest relieves tired muscles after work",
+        "Laughter relieves a stressful day",
+        "Food relieves hunger on allowance-day"
       ],
-      "explanation": "Active voice puts the doer of the action as the subject of the sentence.",
-      "memoryHook": "T-Rexy says: Active voice - the subject does the doing.",
-      "imageUrl": "topic:active-voice",
+      "explanation": "The comparison hinges on release, not joy: tears do not make an aching heart happy, they let its pain escape. Douglass says singing works the same way for the enslaved singer - which is exactly why a listener who heard singing and assumed happiness had misread what the sound meant.",
+      "memoryHook": "T-Rexy says: Tears and songs both let the sorrow out - neither one means the pain is gone.",
+      "imageUrl": "topic:douglass-narrative",
       "tags": [
-        "grammar"
+        "passage",
+        "slave-narrative",
+        "reading"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -344,18 +356,20 @@
     },
     {
       "id": "ENG11_018",
-      "question": "What is irony?",
-      "correctAnswer": "When the opposite of what is expected happens or is meant",
+      "question": "Read this stanza from Walt Whitman's poem \"O Captain! My Captain!\" (1865), his elegy for Abraham Lincoln:\n\nO Captain! my Captain! our fearful trip is done,\nThe ship has weather'd every rack, the prize we sought is won,\nThe port is near, the bells I hear, the people all exulting,\nWhile follow eyes the steady keel, the vessel grim and daring;\nBut O heart! heart! heart!\nO the bleeding drops of red,\nWhere on the deck my Captain lies,\nFallen cold and dead.\n\nAccording to the speaker, what has the ship accomplished as it nears port?",
+      "correctAnswer": "It has survived every storm and won the prize it sought",
       "distractors": [
-        "When two things are compared",
-        "When sounds repeat",
-        "When a story is funny"
+        "It has lost its way and missed the port entirely",
+        "It has been abandoned by its crew during the voyage",
+        "It has returned home in defeat, to a mourning crowd"
       ],
-      "explanation": "Irony involves a gap between expectation and reality, or between words and meaning.",
-      "memoryHook": "T-Rexy says: Irony - when reality flips the script.",
-      "imageUrl": "topic:irony",
+      "explanation": "The opening lines are triumph: \"our fearful trip is done, the ship has weather'd every rack, the prize we sought is won.\" That victory is why the bells ring and the people exult on the shore.",
+      "memoryHook": "T-Rexy says: The ship made it home - that is why the bells are ringing.",
+      "imageUrl": "topic:whitman-o-captain",
       "tags": [
-        "literary-device"
+        "passage",
+        "poetry",
+        "reading"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -363,18 +377,20 @@
     },
     {
       "id": "ENG11_019",
-      "question": "Which word is a synonym for benevolent?",
-      "correctAnswer": "Kind",
+      "question": "Read this stanza from Walt Whitman's poem \"O Captain! My Captain!\" (1865), his elegy for Abraham Lincoln:\n\nO Captain! my Captain! our fearful trip is done,\nThe ship has weather'd every rack, the prize we sought is won,\nThe port is near, the bells I hear, the people all exulting,\nWhile follow eyes the steady keel, the vessel grim and daring;\nBut O heart! heart! heart!\nO the bleeding drops of red,\nWhere on the deck my Captain lies,\nFallen cold and dead.\n\nWhat does the speaker discover on the deck of the ship?",
+      "correctAnswer": "The captain lies there, fallen cold and dead",
       "distractors": [
-        "Cruel",
-        "Selfish",
-        "Angry"
+        "The captain is asleep after the long voyage",
+        "The prize the ship sought has been stolen",
+        "The crew is preparing a celebration dinner"
       ],
-      "explanation": "Benevolent means well-meaning and kindly.",
-      "memoryHook": "T-Rexy says: Benevolent = big heart, kind deeds.",
-      "imageUrl": "topic:vocabulary-benevolent",
+      "explanation": "Against the celebration, the speaker's heart turns to the deck: \"Where on the deck my Captain lies, fallen cold and dead.\" The victory and the loss arrive in the very same moment, which is the stanza's shock.",
+      "memoryHook": "T-Rexy says: Triumph on the shore, grief on the deck - hold both, like the poem does.",
+      "imageUrl": "topic:whitman-o-captain",
       "tags": [
-        "vocabulary"
+        "passage",
+        "poetry",
+        "reading"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -421,18 +437,20 @@
     },
     {
       "id": "ENG11_022",
-      "question": "What is foreshadowing?",
-      "correctAnswer": "Hints or clues about what will happen later in a story",
+      "question": "Read this poem by Emily Dickinson, published in 1890 under the title \"The Chariot\":\n\nBecause I could not stop for Death,\nHe kindly stopped for me;\nThe carriage held but just ourselves\nAnd Immortality.\n\nWe slowly drove, he knew no haste,\nAnd I had put away\nMy labor, and my leisure too,\nFor his civility.\n\nWe passed the school where children played,\nTheir lessons scarcely done;\nWe passed the fields of gazing grain,\nWe passed the setting sun.\n\nWe paused before a house that seemed\nA swelling of the ground;\nThe roof was scarcely visible,\nThe cornice but a mound.\n\nSince then 't is centuries; but each\nFeels shorter than the day\nI first surmised the horses' heads\nWere toward eternity.\n\nWho comes for the speaker in the poem?",
+      "correctAnswer": "Death, who kindly stops his carriage for her",
       "distractors": [
-        "A flashback to earlier events",
-        "The moral of the story",
-        "A description of the setting"
+        "A doctor arriving to treat her illness",
+        "Her husband returning from a long journey",
+        "A friend inviting her on a holiday ride"
       ],
-      "explanation": "Foreshadowing plants clues that hint at future events.",
-      "memoryHook": "T-Rexy says: Foreshadowing whispers what's coming - listen closely.",
-      "imageUrl": "topic:foreshadowing",
+      "explanation": "\"Because I could not stop for Death, he kindly stopped for me\" - Death himself is the carriage driver. His courtesy, repeated in the word \"civility,\" is what gives the poem its calm, unhurried tone.",
+      "memoryHook": "T-Rexy says: Death knocks politely in this poem - that calm voice is the whole trick.",
+      "imageUrl": "topic:dickinson-the-chariot",
       "tags": [
-        "literary-device"
+        "passage",
+        "poetry",
+        "reading"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -479,19 +497,20 @@
     },
     {
       "id": "ENG11_025",
-      "question": "Who wrote The Crucible?",
-      "correctAnswer": "Arthur Miller",
+      "question": "Read this poem by Emily Dickinson, published in 1890 under the title \"The Chariot\":\n\nBecause I could not stop for Death,\nHe kindly stopped for me;\nThe carriage held but just ourselves\nAnd Immortality.\n\nWe slowly drove, he knew no haste,\nAnd I had put away\nMy labor, and my leisure too,\nFor his civility.\n\nWe passed the school where children played,\nTheir lessons scarcely done;\nWe passed the fields of gazing grain,\nWe passed the setting sun.\n\nWe paused before a house that seemed\nA swelling of the ground;\nThe roof was scarcely visible,\nThe cornice but a mound.\n\nSince then 't is centuries; but each\nFeels shorter than the day\nI first surmised the horses' heads\nWere toward eternity.\n\nBesides the speaker and Death, who rides in the carriage?",
+      "correctAnswer": "Immortality",
       "distractors": [
-        "Tennessee Williams",
-        "Eugene O'Neill",
-        "Thornton Wilder"
+        "Her children",
+        "The setting sun",
+        "A choir of angels"
       ],
-      "explanation": "Arthur Miller wrote The Crucible in 1953 as an allegory for McCarthyism.",
-      "memoryHook": "T-Rexy says: Miller turned Salem into a mirror of his own time.",
-      "imageUrl": "topic:crucible-author",
+      "explanation": "\"The carriage held but just ourselves and Immortality.\" The third passenger is the poem's quiet clue that this ride leads beyond death, not merely to it - the destination is eternal life.",
+      "memoryHook": "T-Rexy says: Count the passengers: speaker, Death, and Immortality - the destination is in the guest list.",
+      "imageUrl": "topic:dickinson-the-chariot",
       "tags": [
-        "drama",
-        "author"
+        "passage",
+        "poetry",
+        "reading"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -499,18 +518,20 @@
     },
     {
       "id": "ENG11_026",
-      "question": "What is the denotation of a word?",
-      "correctAnswer": "Its literal dictionary definition",
+      "question": "Read this poem by Emily Dickinson, published in 1890 under the title \"The Chariot\":\n\nBecause I could not stop for Death,\nHe kindly stopped for me;\nThe carriage held but just ourselves\nAnd Immortality.\n\nWe slowly drove, he knew no haste,\nAnd I had put away\nMy labor, and my leisure too,\nFor his civility.\n\nWe passed the school where children played,\nTheir lessons scarcely done;\nWe passed the fields of gazing grain,\nWe passed the setting sun.\n\nWe paused before a house that seemed\nA swelling of the ground;\nThe roof was scarcely visible,\nThe cornice but a mound.\n\nSince then 't is centuries; but each\nFeels shorter than the day\nI first surmised the horses' heads\nWere toward eternity.\n\nThe \"house that seemed a swelling of the ground,\" whose roof was scarcely visible and whose cornice was \"but a mound,\" is the speaker's",
+      "correctAnswer": "Grave",
       "distractors": [
-        "Its emotional association",
-        "Its historical origin",
-        "Its sound pattern"
+        "Childhood home",
+        "New house, still being built",
+        "Schoolhouse seen from the road"
       ],
-      "explanation": "Denotation is the literal meaning, while connotation is the emotional association.",
-      "memoryHook": "T-Rexy says: Denotation is the dictionary - plain and literal.",
-      "imageUrl": "topic:denotation",
+      "explanation": "A house sunk into the earth, its roof barely visible and its cornice a mere mound of dirt, is a burial mound described as a dwelling. The carriage pauses before the grave as if it were simply the speaker's new home.",
+      "memoryHook": "T-Rexy says: A house sunk into the ground with a roof of earth - that address is the grave.",
+      "imageUrl": "topic:dickinson-the-chariot",
       "tags": [
-        "vocabulary"
+        "passage",
+        "poetry",
+        "reading"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -537,18 +558,20 @@
     },
     {
       "id": "ENG11_028",
-      "question": "What is hyperbole?",
-      "correctAnswer": "Deliberate exaggeration for emphasis or effect",
+      "question": "Read this informational passage about the first national park:\n\n\"On March 1, 1872, President Ulysses S. Grant signed the law that created Yellowstone National Park, the first national park in the world. The park covers more than two million acres, mostly in Wyoming, with smaller parts in Montana and Idaho. Congress set the land aside to preserve its geysers, hot springs, canyons, and wildlife for the benefit and enjoyment of the people, rather than allowing it to be sold or settled. One of its most famous features is Old Faithful, a geyser that erupts at fairly regular intervals and sends a column of hot water high into the air. Yellowstone's example showed that a government could protect a remarkable landscape so that future generations could visit and study it, an idea that later spread to hundreds of national parks around the world.\"\n\nAccording to the passage, when was Yellowstone National Park created, and by what action?",
+      "correctAnswer": "On March 1, 1872, when President Grant signed the law creating it",
       "distractors": [
-        "A subtle understatement",
-        "A comparison using like",
-        "A sound effect word"
+        "In 1872, when explorers first mapped its geysers and canyons",
+        "On March 1, 1872, when Wyoming became a state",
+        "In 1916, when the National Park Service was founded"
       ],
-      "explanation": "Hyperbole exaggerates, as in 'I've told you a million times.'",
-      "memoryHook": "T-Rexy says: Hyperbole goes big - a million times bigger.",
-      "imageUrl": "topic:hyperbole",
+      "explanation": "The passage opens with the fact: \"On March 1, 1872, President Ulysses S. Grant signed the law that created Yellowstone National Park.\" The date and the signing of the law are stated together, so both parts of the key come straight from the text.",
+      "memoryHook": "T-Rexy says: 1872, a president's signature - the first park starts with a date and a law.",
+      "imageUrl": "topic:yellowstone-national-park",
       "tags": [
-        "literary-device"
+        "passage",
+        "informational",
+        "reading"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -556,18 +579,20 @@
     },
     {
       "id": "ENG11_029",
-      "question": "Which sentence uses correct subject-verb agreement?",
-      "correctAnswer": "Neither of the books is available.",
+      "question": "Read this informational passage about the first national park:\n\n\"On March 1, 1872, President Ulysses S. Grant signed the law that created Yellowstone National Park, the first national park in the world. The park covers more than two million acres, mostly in Wyoming, with smaller parts in Montana and Idaho. Congress set the land aside to preserve its geysers, hot springs, canyons, and wildlife for the benefit and enjoyment of the people, rather than allowing it to be sold or settled. One of its most famous features is Old Faithful, a geyser that erupts at fairly regular intervals and sends a column of hot water high into the air. Yellowstone's example showed that a government could protect a remarkable landscape so that future generations could visit and study it, an idea that later spread to hundreds of national parks around the world.\"\n\nAccording to the passage, why did Congress set the Yellowstone land aside?",
+      "correctAnswer": "To preserve its geysers, hot springs, canyons, and wildlife for the benefit and enjoyment of the people",
       "distractors": [
-        "Neither of the books are available.",
-        "Neither of the book is available.",
-        "Neither of the books be available."
+        "To reserve the land for mining and railroad companies",
+        "To create a hunting ground reserved for government officials",
+        "To keep visitors out so the land would stay completely untouched"
       ],
-      "explanation": "Neither takes a singular verb when followed by 'of the' plus a plural noun.",
-      "memoryHook": "T-Rexy says: Neither is singular - match it with is.",
-      "imageUrl": "topic:subject-verb-agreement",
+      "explanation": "The passage states the purpose directly: Congress set the land aside \"to preserve its geysers, hot springs, canyons, and wildlife for the benefit and enjoyment of the people, rather than allowing it to be sold or settled.\" Preservation for public enjoyment - not sale, private hunting, or total exclusion - is the stated reason.",
+      "memoryHook": "T-Rexy says: Preserved for the people - that purpose is written right into the passage.",
+      "imageUrl": "topic:yellowstone-national-park",
       "tags": [
-        "grammar"
+        "passage",
+        "informational",
+        "reading"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -693,18 +718,20 @@
     },
     {
       "id": "ENG11_036",
-      "question": "What is a motif?",
-      "correctAnswer": "A recurring image, idea, or symbol that reinforces a theme",
+      "question": "Read this passage from Henry David Thoreau's \"Walden\" (1854), in the chapter \"Where I Lived, and What I Lived For.\" Thoreau, a leading Transcendentalist, wrote it after living in a cabin he built himself on Walden Pond:\n\n\"I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived. I did not wish to live what was not life, living is so dear; nor did I wish to practise resignation, unless it was quite necessary. I wanted to live deep and suck out all the marrow of life, to live so sturdily and Spartan-like as to put to rout all that was not life.\"\n\nWhat does Thoreau mean when he says he wanted to \"suck out all the marrow of life\"?",
+      "correctAnswer": "He wanted to experience life fully and intensely, stripped of everything inessential",
       "distractors": [
-        "A type of poem",
-        "A character's name",
-        "The climax of a story"
+        "He wanted to hunt and eat whatever the woods provided",
+        "He wanted to study the bones of animals found near the pond",
+        "He wanted to write a cookbook based on simple cabin meals"
       ],
-      "explanation": "Motifs repeat throughout a work, deepening its meaning.",
-      "memoryHook": "T-Rexy says: A motif repeats - a pattern that builds meaning.",
-      "imageUrl": "topic:motif",
+      "explanation": "\"Marrow\" is the rich, nourishing center inside a bone. To suck out the marrow of life is to take in all of life's richness and meaning. Thoreau pairs the image with driving out \"all that was not life,\" so the point is full, intense experience of what is essential - not food or hunting.",
+      "memoryHook": "T-Rexy says: Marrow is the rich center - Thoreau wanted the richest part of life itself.",
+      "imageUrl": "topic:thoreau-walden",
       "tags": [
-        "literary-term"
+        "passage",
+        "transcendentalism",
+        "reading"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -751,18 +778,20 @@
     },
     {
       "id": "ENG11_039",
-      "question": "Which word best fits: The author's argument was _____, supported by extensive evidence.",
-      "correctAnswer": "Compelling",
+      "question": "Read this informational passage about the first national park:\n\n\"On March 1, 1872, President Ulysses S. Grant signed the law that created Yellowstone National Park, the first national park in the world. The park covers more than two million acres, mostly in Wyoming, with smaller parts in Montana and Idaho. Congress set the land aside to preserve its geysers, hot springs, canyons, and wildlife for the benefit and enjoyment of the people, rather than allowing it to be sold or settled. One of its most famous features is Old Faithful, a geyser that erupts at fairly regular intervals and sends a column of hot water high into the air. Yellowstone's example showed that a government could protect a remarkable landscape so that future generations could visit and study it, an idea that later spread to hundreds of national parks around the world.\"\n\nWhich statement best expresses the main idea of the passage?",
+      "correctAnswer": "Yellowstone's creation in 1872 introduced the idea of protecting remarkable landscapes for the public, an idea that later spread worldwide",
       "distractors": [
-        "Trivial",
-        "Vague",
-        "Irrelevant"
+        "Yellowstone is visited mainly because Old Faithful erupts at regular intervals",
+        "Yellowstone National Park is the largest national park in the United States",
+        "President Grant created Yellowstone mainly to reward explorers of the West"
       ],
-      "explanation": "Compelling means convincing and forceful, fitting an argument backed by evidence.",
-      "memoryHook": "T-Rexy says: Compelling - evidence that convinces.",
-      "imageUrl": "topic:vocabulary-compelling",
+      "explanation": "Every detail serves one idea: the 1872 law protected a remarkable landscape \"for the benefit and enjoyment of the people,\" and the closing sentence says this idea \"later spread to hundreds of national parks around the world.\" The geyser is a supporting detail, and the passage never calls Yellowstone the largest park or ties it to rewarding explorers.",
+      "memoryHook": "T-Rexy says: One park, one big idea - protect it for everyone, and the world copied it.",
+      "imageUrl": "topic:yellowstone-national-park",
       "tags": [
-        "vocabulary"
+        "passage",
+        "informational",
+        "reading"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -790,18 +819,20 @@
     },
     {
       "id": "ENG11_041",
-      "question": "What is stream of consciousness narration?",
-      "correctAnswer": "Writing that follows the continuous flow of a character's thoughts",
+      "question": "Read this passage from Frederick Douglass's \"Narrative of the Life of Frederick Douglass, an American Slave\" (1845):\n\n\"I have often been utterly astonished, since I came to the north, to find persons who could speak of the singing, among slaves, as evidence of their contentment and happiness. It is impossible to conceive of a greater mistake. Slaves sing most when they are most unhappy. The songs of the slave represent the sorrows of his heart; and he is relieved by them, only as an aching heart is relieved by its tears. At least, such is my experience. I have often sung to drown my sorrow, but seldom to express my happiness. Crying for joy, and singing for joy, were alike uncommon to me while in the jaws of slavery. The singing of a man cast away upon a desolate island might be as appropriately considered as evidence of contentment and happiness, as the singing of a slave; the songs of the one and of the other are prompted by the same emotion.\"\n\nWhy does Douglass end the passage with the image of \"a man cast away upon a desolate island\"?",
+      "correctAnswer": "To show that singing grows out of sorrow and loneliness, not contentment, in both cases",
       "distractors": [
-        "Writing in chronological order",
-        "Writing with short sentences only",
-        "Writing dialogue without tags"
+        "To argue that enslaved people should be sent to live on islands",
+        "To prove that sailors and enslaved people sang the same songs",
+        "To suggest that the castaway is happier than the enslaved man"
       ],
-      "explanation": "Stream of consciousness mimics the unstructured flow of inner thought.",
-      "memoryHook": "T-Rexy says: Stream of consciousness - thoughts flowing, unfiltered.",
-      "imageUrl": "topic:stream-of-consciousness",
+      "explanation": "No one would call a shipwrecked, isolated man's singing evidence of contentment - it plainly comes from grief and longing. Douglass says the two songs are \"prompted by the same emotion,\" so the slave's singing must be read the same way: as sorrow, not joy.",
+      "memoryHook": "T-Rexy says: A castaway's song is a cry for rescue - hear the slave's song the same way.",
+      "imageUrl": "topic:douglass-narrative",
       "tags": [
-        "literary-term"
+        "passage",
+        "slave-narrative",
+        "reading"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -907,18 +938,20 @@
     },
     {
       "id": "ENG11_047",
-      "question": "What is situational irony?",
-      "correctAnswer": "When the outcome is the opposite of what was expected",
+      "question": "Read this stanza from Walt Whitman's poem \"O Captain! My Captain!\" (1865), his elegy for Abraham Lincoln:\n\nO Captain! my Captain! our fearful trip is done,\nThe ship has weather'd every rack, the prize we sought is won,\nThe port is near, the bells I hear, the people all exulting,\nWhile follow eyes the steady keel, the vessel grim and daring;\nBut O heart! heart! heart!\nO the bleeding drops of red,\nWhere on the deck my Captain lies,\nFallen cold and dead.\n\nThe captain is the center of an extended metaphor. In Whitman's elegy, the captain stands for",
+      "correctAnswer": "President Abraham Lincoln, killed just as the Civil War ended in Union victory",
       "distractors": [
-        "When words mean the opposite",
-        "When the audience knows more",
-        "When a character lies"
+        "An unnamed ship captain who died in a storm at sea",
+        "General Ulysses S. Grant, who won the war and survived",
+        "Whitman himself, looking back over his own life"
       ],
-      "explanation": "Situational irony is about unexpected outcomes, like a fire station burning down.",
-      "memoryHook": "T-Rexy says: Situational irony - expect one thing, get the opposite.",
-      "imageUrl": "topic:situational-irony",
+      "explanation": "Whitman wrote the poem in 1865, after Lincoln's assassination. The ship is the Union, the fearful trip is the Civil War, and the captain who dies at the very moment of victory is Lincoln - the metaphor lets one man's death carry a whole nation's grief.",
+      "memoryHook": "T-Rexy says: One captain, one president - the whole ship of state mourns him.",
+      "imageUrl": "topic:whitman-o-captain",
       "tags": [
-        "literary-device"
+        "passage",
+        "poetry",
+        "reading"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1122,18 +1155,20 @@
     },
     {
       "id": "ENG11_058",
-      "question": "What is verbal irony?",
-      "correctAnswer": "Saying the opposite of what one means, often sarcastically",
+      "question": "Read this stanza from Walt Whitman's poem \"O Captain! My Captain!\" (1865), his elegy for Abraham Lincoln:\n\nO Captain! my Captain! our fearful trip is done,\nThe ship has weather'd every rack, the prize we sought is won,\nThe port is near, the bells I hear, the people all exulting,\nWhile follow eyes the steady keel, the vessel grim and daring;\nBut O heart! heart! heart!\nO the bleeding drops of red,\nWhere on the deck my Captain lies,\nFallen cold and dead.\n\nThe stanza sets the cheering shore against the silent deck. What effect does this contrast create?",
+      "correctAnswer": "It sets public triumph against private grief, so the victory itself feels wounded",
       "distractors": [
-        "A character knowing less than the audience",
-        "An unexpected plot twist",
-        "A repeated phrase"
+        "It proves the people on shore did not care about the captain",
+        "It shows the speaker is deaf to the celebration around him",
+        "It suggests the voyage was not really successful after all"
       ],
-      "explanation": "Verbal irony is in the words themselves, like saying 'great weather' in a storm.",
-      "memoryHook": "T-Rexy says: Verbal irony - words that mean the opposite.",
-      "imageUrl": "topic:verbal-irony",
+      "explanation": "Bells, exulting crowds, and a won prize fill the shore while the captain lies cold and dead a few feet away. Neither scene cancels the other; the clash between them is what makes the elegy ache - joy and mourning at the same time.",
+      "memoryHook": "T-Rexy says: Confetti outside, silence inside - contrast is the engine of this poem.",
+      "imageUrl": "topic:whitman-o-captain",
       "tags": [
-        "literary-device"
+        "passage",
+        "poetry",
+        "reading"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1180,18 +1215,20 @@
     },
     {
       "id": "ENG11_061",
-      "question": "What is the function of exposition in a story?",
-      "correctAnswer": "To introduce characters, setting, and background information",
+      "question": "Read this poem by Emily Dickinson, published in 1890 under the title \"The Chariot\":\n\nBecause I could not stop for Death,\nHe kindly stopped for me;\nThe carriage held but just ourselves\nAnd Immortality.\n\nWe slowly drove, he knew no haste,\nAnd I had put away\nMy labor, and my leisure too,\nFor his civility.\n\nWe passed the school where children played,\nTheir lessons scarcely done;\nWe passed the fields of gazing grain,\nWe passed the setting sun.\n\nWe paused before a house that seemed\nA swelling of the ground;\nThe roof was scarcely visible,\nThe cornice but a mound.\n\nSince then 't is centuries; but each\nFeels shorter than the day\nI first surmised the horses' heads\nWere toward eternity.\n\nThe scenes the carriage passes - children at school, fields of gazing grain, the setting sun - most likely represent",
+      "correctAnswer": "The stages of a human life, from childhood through maturity to old age and death",
       "distractors": [
-        "To resolve the conflict",
-        "To create the climax",
-        "To end the story"
+        "The four seasons of a single year on a farm",
+        "Places the speaker plans to visit after the ride",
+        "Scenes from one particular afternoon in the speaker's childhood"
       ],
-      "explanation": "Exposition sets up the world before the conflict begins.",
-      "memoryHook": "T-Rexy says: Exposition sets the stage before the action.",
-      "imageUrl": "topic:exposition",
+      "explanation": "The route moves in life order: playing children stand for youth, the ripened grain for the working maturity of life, and the setting sun for life's close. Dickinson compresses an entire lifetime into one slow carriage ride.",
+      "memoryHook": "T-Rexy says: School, fields, sunset - read the ride as a lifetime rolling past the window.",
+      "imageUrl": "topic:dickinson-the-chariot",
       "tags": [
-        "literary-term"
+        "passage",
+        "poetry",
+        "reading"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1278,18 +1315,20 @@
     },
     {
       "id": "ENG11_066",
-      "question": "Which word is an antonym for candid?",
-      "correctAnswer": "Evasive",
+      "question": "Read this informational passage about the first national park:\n\n\"On March 1, 1872, President Ulysses S. Grant signed the law that created Yellowstone National Park, the first national park in the world. The park covers more than two million acres, mostly in Wyoming, with smaller parts in Montana and Idaho. Congress set the land aside to preserve its geysers, hot springs, canyons, and wildlife for the benefit and enjoyment of the people, rather than allowing it to be sold or settled. One of its most famous features is Old Faithful, a geyser that erupts at fairly regular intervals and sends a column of hot water high into the air. Yellowstone's example showed that a government could protect a remarkable landscape so that future generations could visit and study it, an idea that later spread to hundreds of national parks around the world.\"\n\nIn the passage, the word \"preserve\" is used to describe what Congress wanted to do with Yellowstone's features. In this context, \"preserve\" most nearly means",
+      "correctAnswer": "Protect something so that it stays in its existing condition",
       "distractors": [
-        "Honest",
-        "Frank",
-        "Open"
+        "Store food so that it does not spoil",
+        "Keep a written record of something in an archive",
+        "Reserve a ticket or seat for a future visit"
       ],
-      "explanation": "Candid means frank and honest; evasive is its opposite.",
-      "memoryHook": "T-Rexy says: Candid is frank - evasive dodges the truth.",
-      "imageUrl": "topic:vocabulary-candid",
+      "explanation": "Context decides the meaning: Congress acted so the geysers, hot springs, canyons, and wildlife would not be sold or settled away. Here \"preserve\" means to protect a place so it remains as it is. The food, archive, and ticket senses do not fit a landscape protected by law.",
+      "memoryHook": "T-Rexy says: Same word, different job - let the sentences around it pick the meaning.",
+      "imageUrl": "topic:yellowstone-national-park",
       "tags": [
-        "vocabulary"
+        "passage",
+        "informational",
+        "reading"
       ],
       "difficulty": "medium",
       "dynamic": false,
