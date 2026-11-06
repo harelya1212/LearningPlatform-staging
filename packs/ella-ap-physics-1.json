@@ -29,7 +29,7 @@
       "tags": [
         "kinematics"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -48,7 +48,7 @@
       "tags": [
         "kinematics"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -67,7 +67,7 @@
       "tags": [
         "kinematics"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -86,7 +86,7 @@
       "tags": [
         "kinematics"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -105,7 +105,7 @@
       "tags": [
         "kinematics"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -124,7 +124,7 @@
       "tags": [
         "kinematics"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -143,7 +143,7 @@
       "tags": [
         "kinematics"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -162,7 +162,7 @@
       "tags": [
         "kinematics"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -181,7 +181,7 @@
       "tags": [
         "kinematics"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -200,7 +200,7 @@
       "tags": [
         "kinematics"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -219,7 +219,7 @@
       "tags": [
         "kinematics"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -238,7 +238,7 @@
       "tags": [
         "kinematics"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -251,8 +251,8 @@
         "10 m/s",
         "15 m/s"
       ],
-      "explanation": "Average velocity = total distance / total time = 200 m / 15 s = 13.3 m/s.",
-      "memoryHook": "T-Rexy says: Total distance over total time, not an average of speeds.",
+      "explanation": "Average velocity is total displacement divided by total time. The car keeps moving the same way, so displacement is 100 + 100 = 200 m and time is 5 + 10 = 15 s: 200 / 15 = 13.3 m/s. Do not average 20 m/s and 10 m/s - the car spends longer at the slower speed.",
+      "memoryHook": "T-Rexy says: Total displacement over total time, not an average of speeds.",
       "imageUrl": "topic:velocity",
       "tags": [
         "kinematics"
@@ -276,7 +276,7 @@
       "tags": [
         "kinematics"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -295,7 +295,7 @@
       "tags": [
         "kinematics"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -314,7 +314,7 @@
       "tags": [
         "dynamics"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -333,7 +333,7 @@
       "tags": [
         "dynamics"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -352,7 +352,7 @@
       "tags": [
         "dynamics"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -371,7 +371,7 @@
       "tags": [
         "dynamics"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -384,13 +384,13 @@
         "Watt",
         "Pascal"
       ],
-      "explanation": "Force is measured in newtons (N).",
+      "explanation": "Force is measured in newtons (N). From F = ma, 1 N is the force that gives 1 kg an acceleration of 1 m/s^2, so 1 N = 1 kg m/s^2.",
       "memoryHook": "T-Rexy says: Force is measured in newtons.",
       "imageUrl": "topic:units",
       "tags": [
         "dynamics"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -428,7 +428,7 @@
       "tags": [
         "dynamics"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -447,7 +447,7 @@
       "tags": [
         "dynamics"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -485,7 +485,7 @@
       "tags": [
         "dynamics"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -504,7 +504,7 @@
       "tags": [
         "dynamics"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -523,7 +523,7 @@
       "tags": [
         "dynamics"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -542,7 +542,7 @@
       "tags": [
         "dynamics"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -561,7 +561,7 @@
       "tags": [
         "dynamics"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -593,13 +593,13 @@
         "Along the velocity",
         "Opposite the velocity"
       ],
-      "explanation": "Centripetal means center-seeking.",
+      "explanation": "Centripetal acceleration comes from the change in the direction of velocity as the object moves around the circle. That change points toward the center, so a_c = v^2/r is always directed toward the center.",
       "memoryHook": "T-Rexy says: Centripetal points to the center.",
       "imageUrl": "topic:circular",
       "tags": [
         "circular-motion"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -612,13 +612,13 @@
         "mv^2",
         "2(pi)r/T"
       ],
-      "explanation": "a_c = v^2/r.",
+      "explanation": "Centripetal acceleration grows with the square of the tangential speed and shrinks with radius: a_c = v^2/r. Check the units: (m/s)^2 / m = m/s^2, as an acceleration must be.",
       "memoryHook": "T-Rexy says: Centripetal acceleration is speed squared over radius.",
       "imageUrl": "topic:circular",
       "tags": [
         "circular-motion"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -669,13 +669,13 @@
         "The radius of the circle",
         "The speed of the object"
       ],
-      "explanation": "Period T is the time for one full cycle.",
+      "explanation": "The period T is the time for one complete revolution. Its partner is frequency: f = 1/T, the number of revolutions per second, so T = 2(pi)r/v for motion at speed v around a circle of radius r.",
       "memoryHook": "T-Rexy says: Period is time per revolution.",
       "imageUrl": "topic:circular",
       "tags": [
         "circular-motion"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -694,7 +694,7 @@
       "tags": [
         "circular-motion"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -751,7 +751,7 @@
       "tags": [
         "circular-motion"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -770,7 +770,7 @@
       "tags": [
         "circular-motion"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -783,13 +783,13 @@
         "Watt",
         "Volt"
       ],
-      "explanation": "Energy is measured in joules.",
+      "explanation": "Energy is measured in joules (J). One joule is the work done by a 1 N force moving an object 1 m in the force direction, so 1 J = 1 N m.",
       "memoryHook": "T-Rexy says: Energy is measured in joules.",
       "imageUrl": "topic:units",
       "tags": [
         "energy"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -808,7 +808,7 @@
       "tags": [
         "energy"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -884,7 +884,7 @@
       "tags": [
         "energy"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -916,7 +916,7 @@
         "Newton",
         "Horsepower"
       ],
-      "explanation": "Power is measured in watts.",
+      "explanation": "Power is measured in watts (W). One watt is one joule of work done per second, so 1 W = 1 J/s.",
       "memoryHook": "T-Rexy says: Power is measured in watts.",
       "imageUrl": "topic:units",
       "tags": [
@@ -960,7 +960,7 @@
       "tags": [
         "energy"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -979,7 +979,7 @@
       "tags": [
         "energy"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1011,13 +1011,13 @@
         "mgh",
         "Fd"
       ],
-      "explanation": "PE_spring = (1/2)kx^2.",
+      "explanation": "Stretching or compressing a spring by x stores PE = (1/2)kx^2. The factor 1/2 appears because the spring force grows from 0 to kx as it stretches, so the average force is kx/2 and the work done is (kx/2)(x).",
       "memoryHook": "T-Rexy says: Spring energy is half k x squared.",
       "imageUrl": "topic:energy",
       "tags": [
         "energy"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1084,10 +1084,10 @@
       "correctAnswer": "kg m/s",
       "distractors": [
         "kg m/s^2",
-        "N s",
+        "kg/s",
         "J"
       ],
-      "explanation": "kg m/s is the unit; N s is equivalent but kg m/s is standard.",
+      "explanation": "Momentum p = mv, so its unit combines mass and velocity units: kg times m/s, giving kg m/s.",
       "memoryHook": "T-Rexy says: Momentum units are kilogram meters per second.",
       "imageUrl": "topic:units",
       "tags": [
@@ -1169,7 +1169,7 @@
       "tags": [
         "momentum"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1188,7 +1188,7 @@
       "tags": [
         "momentum"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1245,7 +1245,7 @@
       "tags": [
         "momentum"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1277,7 +1277,7 @@
         "J/s",
         "kg m^2"
       ],
-      "explanation": "Torque is measured in newton-meters.",
+      "explanation": "Torque is measured in newton-meters (N m), from torque = rF sin(theta): meters times newtons. It is written N m, not J, because torque is a rotational effect, not an amount of energy.",
       "memoryHook": "T-Rexy says: Torque is measured in newton-meters.",
       "imageUrl": "topic:units",
       "tags": [
@@ -1321,7 +1321,7 @@
       "tags": [
         "rotation"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1340,7 +1340,7 @@
       "tags": [
         "rotation"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1372,7 +1372,7 @@
         "rev",
         "Hz"
       ],
-      "explanation": "Angular velocity is radians per second.",
+      "explanation": "Angular velocity omega = (change in angle)/(time) is measured in radians per second (rad/s). A full turn is 2(pi) rad, so an object with omega = 2(pi) rad/s completes one revolution every second.",
       "memoryHook": "T-Rexy says: Angular velocity is radians per second.",
       "imageUrl": "topic:units",
       "tags": [
@@ -1391,13 +1391,13 @@
         "v = r / omega",
         "v = omega r^2"
       ],
-      "explanation": "v = omega r for circular motion.",
+      "explanation": "In one period the object travels the circumference 2(pi)r, so v = 2(pi)r/T. Since omega = 2(pi)/T, this gives v = omega r: points farther from the axis move faster at the same spin rate.",
       "memoryHook": "T-Rexy says: Linear speed is angular speed times radius.",
       "imageUrl": "topic:rotation",
       "tags": [
         "rotation"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1473,7 +1473,7 @@
       "tags": [
         "waves"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1530,7 +1530,7 @@
       "tags": [
         "waves"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1549,7 +1549,7 @@
       "tags": [
         "waves"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1587,7 +1587,7 @@
       "tags": [
         "waves"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1606,7 +1606,7 @@
       "tags": [
         "waves"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1638,7 +1638,7 @@
         "Volt",
         "Ohm"
       ],
-      "explanation": "Charge is measured in coulombs.",
+      "explanation": "Charge is measured in coulombs (C). Current links charge to time: a flow of 1 C per second is 1 ampere, so 1 C = 1 A s.",
       "memoryHook": "T-Rexy says: Charge is measured in coulombs.",
       "imageUrl": "topic:units",
       "tags": [
@@ -1777,7 +1777,7 @@
       "tags": [
         "electricity"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1796,7 +1796,7 @@
       "tags": [
         "electricity"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1815,7 +1815,7 @@
       "tags": [
         "electricity"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1853,7 +1853,7 @@
       "tags": [
         "electricity"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1872,7 +1872,7 @@
       "tags": [
         "electricity"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1891,7 +1891,7 @@
       "tags": [
         "electricity"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
