@@ -461,7 +461,7 @@
     "probability",
     "combinations"
    ],
-   "difficulty": "hard",
+   "difficulty": "medium",
    "dynamic": false,
    "source": "original"
   },
@@ -1283,12 +1283,12 @@
     "5/36"
    ],
    "explanation": "There are 6 * 6 = 36 equally likely outcomes. The pairs that sum to 7 are (1, 6), (2, 5), (3, 4), (4, 3), (5, 2), and (6, 1) - exactly 6 pairs. So P(sum of 7) = 6/36 = 1/6. In fact 7 is the most likely sum of two dice.",
-   "memoryHook": "T-Rexy says: Build the 6 by 6 grid of outcomes - the sum of 7 fills the whole main diagonal.",
+   "memoryHook": "T-Rexy says: Build the 6 by 6 grid of outcomes - the pairs that sum to 7 fill the whole anti-diagonal, corner to corner.",
    "imageUrl": "topic:algebra2",
    "tags": [
     "probability"
    ],
-   "difficulty": "hard",
+   "difficulty": "medium",
    "dynamic": false,
    "source": "original"
   },
@@ -1825,7 +1825,7 @@
     "statistics",
     "normal distribution"
    ],
-   "difficulty": "hard",
+   "difficulty": "medium",
    "dynamic": false,
    "source": "original"
   },
