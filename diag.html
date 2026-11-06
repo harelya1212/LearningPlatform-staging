@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Push Diag</title>
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="PushDiag" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="theme-color" content="#0A0F1D" />
+<link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+<link rel="manifest" href="./diag.webmanifest" />
+<style>
+  body { background:#0A0F1D; color:#fff; font-family:-apple-system, Arial; padding:20px; font-size:19px; line-height:1.75; }
+  b { color:#F5C518; }
+  button { font-size:19px; padding:14px 20px; border-radius:12px; border:1.5px solid #F5C518; background:#101828; color:#fff; margin:10px 0; }
+  .small { font-size:14px; color:#9fb3c8; word-break:break-all; }
+</style>
+</head>
+<body>
+<div id="out">Running checks...</div>
+<button id="perm">1. Request notification permission</button><br/>
+<button id="sw">2. Register service worker</button>
+<div id="res"></div>
+<script>
+function yn(v){ return v ? 'YES' : 'NO'; }
+var lines = [];
+lines.push('Notification in window: <b>' + yn('Notification' in window) + '</b>');
+lines.push('PushManager in window: <b>' + yn('PushManager' in window) + '</b>');
+lines.push('serviceWorker in navigator: <b>' + yn('serviceWorker' in navigator) + '</b>');
+lines.push('navigator.standalone: <b>' + String(navigator.standalone) + '</b>');
+lines.push('display-mode standalone: <b>' + yn(window.matchMedia('(display-mode: standalone)').matches) + '</b>');
+if ('Notification' in window) lines.push('Notification.permission: <b>' + Notification.permission + '</b>');
+document.getElementById('out').innerHTML = lines.join('<br/>') + '<br/><span class="small">' + navigator.userAgent + '</span>';
+document.getElementById('perm').onclick = async function(){
+  var r = document.getElementById('res');
+  try {
+    var p = await Notification.requestPermission();
+    r.innerHTML = 'requestPermission result: <b>' + p + '</b>';
+  } catch(e){ r.innerHTML = 'requestPermission error: <b>' + e.message + '</b>'; }
+};
+document.getElementById('sw').onclick = async function(){
+  var r = document.getElementById('res');
+  try {
+    var reg = await navigator.serviceWorker.register('./firebase-messaging-sw.js');
+    r.innerHTML = 'SW registered: <b>' + (reg ? 'YES' : 'NO') + '</b> scope: ' + (reg && reg.scope);
+  } catch(e){ r.innerHTML = 'SW register error: <b>' + e.message + '</b>'; }
+};
+</script>
+</body>
+</html>
