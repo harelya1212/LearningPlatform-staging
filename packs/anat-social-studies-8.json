@@ -116,19 +116,19 @@
     },
     {
       "id": "ASS8_006",
-      "question": "Which foreign officer helped train the Continental Army at Valley Forge?",
-      "correctAnswer": "Baron von Steuben",
+      "question": "Which statement best explains how geography shaped the economy of the New England Colonies?",
+      "correctAnswer": "Rocky soil and a cold climate made large farms difficult, so colonists turned to fishing, shipbuilding, and trade",
       "distractors": [
-        "Napoleon Bonaparte",
-        "Simon Bolivar",
-        "Horatio Nelson"
+        "Warm weather and rich soil led to huge tobacco plantations",
+        "Rich gold deposits made mining the main industry",
+        "Flat grasslands were perfect for huge cattle ranches"
       ],
-      "explanation": "Baron von Steuben, a Prussian officer, drilled Washington's troops at Valley Forge and turned them into a disciplined fighting force.",
-      "memoryHook": "T-Rexy says: von Steuben turned shivering campers into a real army - drill, drill, drill!",
+      "explanation": "New England's thin, rocky soil and long winters limited farming. Its forests and harbors instead supported shipbuilding, fishing, whaling, and overseas trade.",
+      "memoryHook": "T-Rexy says: New England could not farm its rocks, so it sailed the seas instead!",
       "imageUrl": "topic:history",
       "tags": [
         "History",
-        "American Revolution"
+        "Colonization"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -156,19 +156,19 @@
     },
     {
       "id": "ASS8_008",
-      "question": "Source analysis: the Declaration of Independence - which Enlightenment idea most directly influenced it?",
-      "correctAnswer": "Governments get their power from the consent of the governed",
+      "question": "Which statement best explains how the end of the French and Indian War in 1763 helped lead to the American Revolution?",
+      "correctAnswer": "Britain gained French land but was deep in debt, so it taxed the colonies - and its Proclamation of 1763 blocked colonial settlement west of the Appalachians, angering colonists",
       "distractors": [
-        "Kings rule by divine right",
-        "Only the wealthy should vote",
-        "Colonies must always obey the mother country"
+        "France won the war and forced Britain to abandon its colonies",
+        "The war ended with the colonies winning their independence in 1763",
+        "Britain lowered colonial taxes and gave colonists seats in Parliament"
       ],
-      "explanation": "John Locke's idea that government power comes from the people's consent shaped Jefferson's argument that people can overthrow an unjust government.",
-      "memoryHook": "T-Rexy says: the people are the boss - the government just works for them!",
-      "imageUrl": "topic:civics",
+      "explanation": "The Treaty of Paris (1763) gave Britain Canada and the French land east of the Mississippi, but victory left Britain with huge war debts. New taxes on the colonies and the Proclamation Line of 1763, which reserved western land for Native Americans, fed the resentment that grew into revolution.",
+      "memoryHook": "T-Rexy says: winning the war emptied Britain's wallet - so it reached into colonial pockets!",
+      "imageUrl": "topic:history",
       "tags": [
         "History",
-        "American Revolution"
+        "Colonization"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -776,19 +776,19 @@
     },
     {
       "id": "ASS8_039",
-      "question": "Where did Confederate General Robert E. Lee surrender to end the Civil War?",
-      "correctAnswer": "Appomattox Court House",
+      "question": "Causes of the American Revolution: the French and Indian War (1754-1763) began mainly because Britain and France both claimed which land?",
+      "correctAnswer": "The Ohio River Valley",
       "distractors": [
-        "Gettysburg",
-        "Richmond",
-        "Fort Sumter"
+        "The Louisiana Territory",
+        "Florida",
+        "The Oregon Country"
       ],
-      "explanation": "Lee surrendered to Ulysses S. Grant at Appomattox Court House, Virginia, in April 1865, effectively ending the Civil War.",
-      "memoryHook": "T-Rexy says: Appomattox was the handshake that ended the fighting!",
+      "explanation": "Both empires wanted the fertile Ohio River Valley - France for its fur trade and Britain for colonial expansion. Fighting there grew into a wider war that Britain finally won in 1763.",
+      "memoryHook": "T-Rexy says: two empires, one river valley - the Ohio was worth fighting over!",
       "imageUrl": "topic:history",
       "tags": [
         "History",
-        "Civil War"
+        "Colonization"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -816,19 +816,19 @@
     },
     {
       "id": "ASS8_041",
-      "question": "Reconstruction: which statement best describes its main goal after the Civil War?",
-      "correctAnswer": "To rebuild the South and bring formerly enslaved people into American life",
+      "question": "Which statement best describes life for many American families during the Great Depression?",
+      "correctAnswer": "Millions lost their jobs and homes, and Dust Bowl droughts forced many Plains farmers to abandon their land",
       "distractors": [
-        "To punish the North for starting the war",
-        "To rebuild European cities",
-        "To expand into South America"
+        "Most families quickly became wealthy from rising stock prices",
+        "Unemployment fell to record lows as factories hired more workers",
+        "The government guaranteed every family a house and a job"
       ],
-      "explanation": "Reconstruction (1865-1877) aimed to reunite the nation, rebuild the Southern economy, and protect the rights of freed people.",
-      "memoryHook": "T-Rexy says: Reconstruction was America's big repair job after the war!",
+      "explanation": "By 1933 about one in four American workers was unemployed. In the Great Plains, drought and worn-out soil turned fields to dust, and the storms drove thousands of farm families to migrate, many of them to California.",
+      "memoryHook": "T-Rexy says: dust in the air and empty pockets - the Depression hit wallets and farms at once!",
       "imageUrl": "topic:history",
       "tags": [
         "History",
-        "Reconstruction"
+        "Great Depression"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -936,19 +936,19 @@
     },
     {
       "id": "ASS8_047",
-      "question": "Who invented the telephone?",
-      "correctAnswer": "Alexander Graham Bell",
+      "question": "Which colonial region was nicknamed the 'breadbasket' colonies because its fertile soil and mild climate were ideal for growing wheat and other grains?",
+      "correctAnswer": "The Middle Colonies",
       "distractors": [
-        "Thomas Edison",
-        "Henry Ford",
-        "Eli Whitney"
+        "The New England Colonies",
+        "The Southern Colonies",
+        "The French colonies in Canada"
       ],
-      "explanation": "Alexander Graham Bell patented the telephone in 1876, revolutionizing long-distance communication.",
-      "memoryHook": "T-Rexy says: Bell rang in the age of talking across miles - hello!",
+      "explanation": "New York, New Jersey, Pennsylvania, and Delaware had rich soil and a longer growing season than New England, so their farms produced so much grain that the region helped feed all the other colonies.",
+      "memoryHook": "T-Rexy says: the Middle Colonies baked the bread for all thirteen - breadbasket!",
       "imageUrl": "topic:history",
       "tags": [
         "History",
-        "Industrial Revolution"
+        "Colonization"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1096,19 +1096,19 @@
     },
     {
       "id": "ASS8_055",
-      "question": "Who was the US president for most of World War II?",
-      "correctAnswer": "Franklin D. Roosevelt",
+      "question": "Which event in October 1929 is known as the start of the Great Depression?",
+      "correctAnswer": "The stock market crash",
       "distractors": [
-        "Herbert Hoover",
-        "Dwight Eisenhower",
-        "Harry Truman"
+        "The attack on Pearl Harbor",
+        "The signing of the Treaty of Versailles",
+        "The completion of the first transcontinental railroad"
       ],
-      "explanation": "FDR led the nation through the Great Depression and almost all of WWII; Truman took over after FDR died in 1945.",
-      "memoryHook": "T-Rexy says: FDR's fireside chats guided America through depression and war!",
+      "explanation": "On 'Black Tuesday,' October 29, 1929, stock prices collapsed after years of risky speculation and buying on credit. Banks failed, businesses closed, and the economy spiraled into the Great Depression.",
+      "memoryHook": "T-Rexy says: in 1929 the stock market fell off a cliff - and the whole economy tumbled after it!",
       "imageUrl": "topic:history",
       "tags": [
         "History",
-        "World Wars"
+        "Great Depression"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1796,19 +1796,19 @@
     },
     {
       "id": "ASS8_090",
-      "question": "What is Arizona's nickname?",
-      "correctAnswer": "The Grand Canyon State",
+      "question": "The Pilgrims founded Plymouth Colony in 1620. Before leaving their ship, they signed the Mayflower Compact, which was important because it:",
+      "correctAnswer": "Created a government based on the agreement of the settlers - an early step toward self-government",
       "distractors": [
-        "The Sunshine State",
-        "The Lone Star State",
-        "The Empire State"
+        "Declared the colonies independent from England",
+        "Gave all land in America to the king",
+        "Freed the Pilgrims from ever paying taxes"
       ],
-      "explanation": "Arizona is called the Grand Canyon State after its most famous natural wonder.",
-      "memoryHook": "T-Rexy says: Arizona's nickname is grand - just like its canyon!",
-      "imageUrl": "topic:geography",
+      "explanation": "Signed aboard the Mayflower in 1620, the compact was an agreement to form a government and obey its laws for the good of the colony. It is remembered as an early example of self-government in America.",
+      "memoryHook": "T-Rexy says: before stepping off the boat, the Pilgrims promised to govern themselves - democracy packed in a suitcase!",
+      "imageUrl": "topic:history",
       "tags": [
-        "Geography",
-        "Arizona History"
+        "History",
+        "Colonization"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1916,19 +1916,19 @@
     },
     {
       "id": "ASS8_096",
-      "question": "Which statement best describes the Bill of Rights?",
-      "correctAnswer": "It lists individual freedoms the government cannot take away",
+      "question": "Which settlement, founded in 1607, was the first permanent English colony in North America?",
+      "correctAnswer": "Jamestown, Virginia",
       "distractors": [
-        "It lists the duties of the president",
-        "It describes how to build a house",
-        "It names all 50 states"
+        "Plymouth, founded by the Pilgrims in 1620",
+        "St. Augustine, founded by Spain in 1565",
+        "Roanoke, the English colony that disappeared"
       ],
-      "explanation": "The first ten amendments protect freedoms like speech, religion, and fair trials from government abuse.",
-      "memoryHook": "T-Rexy says: the Bill of Rights is your freedom shield - ten amendments strong!",
-      "imageUrl": "topic:civics",
+      "explanation": "English settlers sent by the Virginia Company founded Jamestown in 1607. Despite a deadly 'starving time,' the colony survived, and growing tobacco later made it profitable - it became England's first lasting foothold in North America.",
+      "memoryHook": "T-Rexy says: 1607 - Jamestown stuck! England's first permanent toehold in America.",
+      "imageUrl": "topic:history",
       "tags": [
-        "Civics",
-        "Constitution"
+        "History",
+        "Colonization"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1976,19 +1976,19 @@
     },
     {
       "id": "ASS8_099",
-      "question": "Which statement best describes how the 26th Amendment changed voting in America?",
-      "correctAnswer": "It lowered the voting age to 18",
+      "question": "Which statement best explains how slavery became central to the economy of the Southern Colonies?",
+      "correctAnswer": "Labor-hungry tobacco and rice plantations led colonists to rely increasingly on enslaved Africans, brought by force across the Atlantic",
       "distractors": [
-        "It raised the voting age to 30",
-        "It ended voting entirely",
-        "It gave voting rights to non-citizens"
+        "Small family farms in the South banned all forms of forced labor",
+        "Enslaved people worked mainly as shipbuilders in Southern ports",
+        "Plantation owners hired only paid workers from England"
       ],
-      "explanation": "Ratified in 1971 during the Vietnam War, it set 18 as the national voting age with the logic that those old enough to be drafted could vote.",
-      "memoryHook": "T-Rexy says: old enough to fight, old enough to vote - the 26th Amendment at 18!",
-      "imageUrl": "topic:civics",
+      "explanation": "A warm climate and long growing season made plantation crops profitable, but they demanded huge amounts of labor. After early reliance on indentured servants, Southern planters turned to the transatlantic slave trade, and slavery became the foundation of the plantation economy.",
+      "memoryHook": "T-Rexy says: plantations demanded endless labor - and that demand built the tragedy of slavery in the South.",
+      "imageUrl": "topic:history",
       "tags": [
-        "Civics",
-        "Constitution"
+        "History",
+        "Colonization"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1996,19 +1996,19 @@
     },
     {
       "id": "ASS8_100",
-      "question": "Which generalization about westward expansion is most accurate?",
-      "correctAnswer": "It brought opportunity for settlers but hardship for Native Americans",
+      "question": "Which statement best describes President Franklin D. Roosevelt's New Deal?",
+      "correctAnswer": "A set of programs for relief, recovery, and reform - such as the CCC jobs program, FDIC bank insurance, and Social Security - that greatly expanded the federal government's role in the economy",
       "distractors": [
-        "It helped everyone equally",
-        "It harmed only the settlers",
-        "It had no lasting effects"
+        "A plan to cut all government programs and let the economy fix itself",
+        "A military alliance with European nations before World War II",
+        "A single law that ended the Great Depression overnight"
       ],
-      "explanation": "Expansion offered land and a fresh start to many settlers while displacing Native peoples and sparking conflict over slavery's spread.",
-      "memoryHook": "T-Rexy says: westward expansion was a two-sided coin - progress and pain together.",
+      "explanation": "Starting in 1933, the New Deal attacked the Depression with relief for the unemployed, recovery for business and farming, and reforms such as the FDIC, which insures bank deposits, and the Securities and Exchange Commission. The Social Security Act of 1935 still shapes American life today.",
+      "memoryHook": "T-Rexy says: relief, recovery, reform - FDR's three R's gave the government a whole new job!",
       "imageUrl": "topic:history",
       "tags": [
         "History",
-        "Westward Expansion"
+        "Great Depression"
       ],
       "difficulty": "hard",
       "dynamic": false,
