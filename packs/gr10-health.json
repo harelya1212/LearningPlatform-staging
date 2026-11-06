@@ -343,7 +343,7 @@
         "It is dangerous to give if the person is not overdosing"
       ],
       "explanation": "Naloxone blocks opioids in the brain and can restore breathing within 2 to 3 minutes. It wears off in 30 to 90 minutes, so call 911 first - and it does no harm if opioids turn out not to be involved.",
-      "memoryHook": "T-Rexy says: Naloxone restarts breathing - then call 911.",
+      "memoryHook": "T-Rexy says: Call 911, then naloxone restarts breathing.",
       "imageUrl": "topic:health",
       "tags": [
         "substances",
