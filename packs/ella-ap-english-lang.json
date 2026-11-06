@@ -182,7 +182,7 @@
         "A rhetorical question",
         "The conclusion of an essay"
       ],
-      "explanation": "Evidence gives a claim its support and credibility.",
+      "explanation": "Evidence is the support you can point to: a statistic, a quotation, an example, or expert testimony. Unlike the writer's own opinion, it can be checked by the reader, which is why a claim backed by evidence is harder to dismiss.",
       "memoryHook": "T-Rexy says: Claims need backup, or they fall flat.",
       "imageUrl": "topic:evidence",
       "tags": [
@@ -457,7 +457,7 @@
         "The emotional appeal",
         "The logical structure"
       ],
-      "explanation": "Kairos is about timing: saying the right thing at the right moment.",
+      "explanation": "Kairos is why the same speech can fail in January and succeed in June: the audience must be ready to hear it. A speech about new beginnings lands at a graduation because the moment itself is already about change and moving on.",
       "memoryHook": "T-Rexy says: Timing turns a good point into a great one.",
       "imageUrl": "topic:kairos",
       "tags": [
@@ -636,7 +636,7 @@
         "Logos",
         "Kairos"
       ],
-      "explanation": "The image targets emotion, which is pathos.",
+      "explanation": "The ad offers no statistics and no expert credentials; it works entirely by making viewers feel pity and compassion for the child. When feelings, not facts or trust, do the persuading, the appeal is pathos.",
       "memoryHook": "T-Rexy says: A single image can carry the whole appeal.",
       "imageUrl": "topic:pathos-example",
       "tags": [
@@ -656,7 +656,7 @@
         "Pathos",
         "Kairos"
       ],
-      "explanation": "Statistics and data are appeals to logic and reason.",
+      "explanation": "The writer does not ask you to trust a speaker or to feel an emotion; the 40 percent figure is offered as measurable proof that the law worked. An argument built on data and measurable results appeals to logos.",
       "memoryHook": "T-Rexy says: Numbers argue with logic.",
       "imageUrl": "topic:logos-example",
       "tags": [
@@ -1035,7 +1035,7 @@
         "It only affects grammar",
         "It makes sentences longer"
       ],
-      "explanation": "Choosing 'thrifty' over 'cheap' changes the tone from positive to negative.",
+      "explanation": "Words can share a denotation but carry opposite connotations: 'thrifty' and 'cheap' both describe saving money, but choosing 'thrifty' makes the tone positive and approving, while 'cheap' makes it negative and insulting.",
       "memoryHook": "T-Rexy says: Pick the word, pick the feeling.",
       "imageUrl": "topic:connotation-tone",
       "tags": [
@@ -1198,7 +1198,7 @@
       "tags": [
         "exam"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1237,7 +1237,7 @@
         "rhetoric",
         "analysis"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1257,7 +1257,7 @@
         "rhetoric",
         "analysis"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1270,14 +1270,14 @@
         "The speaker's job",
         "The tone of voice"
       ],
-      "explanation": "Purpose is the goal behind the message.",
+      "explanation": "Purpose answers the question 'why was this written?' A speech meant to make voters angry aims at feelings, one meant to explain a policy aims at thinking, and one meant to collect signatures aims at action.",
       "memoryHook": "T-Rexy says: Every message wants something from its audience.",
       "imageUrl": "topic:soapstone-purpose",
       "tags": [
         "rhetoric",
         "analysis"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1348,7 +1348,7 @@
         "It removes the audience",
         "It tells a story about others"
       ],
-      "explanation": "Second person ('you') pulls the reader into the argument.",
+      "explanation": "Second person turns the audience into a participant: instead of reading about someone else's problem, the reader is told 'you' are part of it and 'you' must act, which makes the message much harder to ignore.",
       "memoryHook": "T-Rexy says: 'You' makes the reader part of the argument.",
       "imageUrl": "topic:second-person",
       "tags": [
@@ -1435,7 +1435,7 @@
         "argument",
         "fallacies"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1455,7 +1455,7 @@
         "argument",
         "fallacies"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1475,7 +1475,7 @@
         "argument",
         "fallacies"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1495,7 +1495,7 @@
         "argument",
         "fallacies"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1515,7 +1515,7 @@
         "argument",
         "fallacies"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1535,7 +1535,7 @@
         "argument",
         "fallacies"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1555,7 +1555,7 @@
         "argument",
         "fallacies"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1575,7 +1575,7 @@
         "argument",
         "fallacies"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1594,7 +1594,7 @@
       "tags": [
         "argument"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1626,13 +1626,13 @@
         "A claim about what is good or bad",
         "A claim with no evidence"
       ],
-      "explanation": "Policy claims argue that something should be done.",
+      "explanation": "Policy claims use 'should': 'The school should start later' is a claim of policy because it demands a decision and a change. A fact claim can be checked against evidence, and a value claim only judges - neither one proposes action.",
       "memoryHook": "T-Rexy says: Policy claims answer 'what should we do?'",
       "imageUrl": "topic:claim-of-policy",
       "tags": [
         "argument"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1651,7 +1651,7 @@
       "tags": [
         "argument"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1670,7 +1670,7 @@
       "tags": [
         "argument"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1690,7 +1690,7 @@
         "rhetoric",
         "syntax"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1710,7 +1710,7 @@
         "rhetoric",
         "devices"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1730,7 +1730,7 @@
         "rhetoric",
         "devices"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1750,7 +1750,7 @@
         "rhetoric",
         "devices"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1770,7 +1770,7 @@
         "rhetoric",
         "devices"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1790,7 +1790,7 @@
         "rhetoric",
         "devices"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1809,7 +1809,7 @@
       "tags": [
         "rhetoric"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1829,7 +1829,7 @@
         "rhetoric",
         "argument"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1887,7 +1887,7 @@
         "rhetoric",
         "analysis"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1906,7 +1906,7 @@
       "tags": [
         "argument"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1926,7 +1926,7 @@
         "exam",
         "writing"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1946,7 +1946,7 @@
         "exam",
         "writing"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1966,7 +1966,7 @@
         "exam",
         "writing"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
