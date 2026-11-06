@@ -15,18 +15,18 @@
   "questions": [
     {
       "id": "CHEM_001",
-      "question": "What is the smallest particle of an element that retains the chemical properties of that element?",
-      "correctAnswer": "An atom",
+      "question": "An alpha particle given off during radioactive decay is best described as:",
+      "correctAnswer": "A helium nucleus with 2 protons and 2 neutrons",
       "distractors": [
-        "A molecule",
-        "A compound",
-        "An ion"
+        "A high-speed electron",
+        "A single proton",
+        "A burst of pure energy with no particles"
       ],
-      "explanation": "An atom is the smallest unit of an element that still has the element's chemical properties. Molecules and compounds are made of atoms.",
-      "memoryHook": "T-Rexy says: Atoms are the building blocks - everything else is built from them!",
-      "imageUrl": "topic:atomic-structure",
+      "explanation": "Alpha decay releases a particle made of 2 protons and 2 neutrons - exactly the nucleus of a helium atom. Because the parent nucleus loses those 2 protons, it becomes a different element whose mass number is 4 lower.",
+      "memoryHook": "T-Rexy says: An alpha particle is a helium nucleus on the move - 2 protons, 2 neutrons!",
+      "imageUrl": "topic:nuclear",
       "tags": [
-        "atomic-structure"
+        "nuclear"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -34,18 +34,18 @@
     },
     {
       "id": "CHEM_002",
-      "question": "Which subatomic particle has a negative charge?",
-      "correctAnswer": "Electron",
+      "question": "Dry ice is solid carbon dioxide. On a warm day it turns straight into a gas without ever becoming a liquid. This change of state is called:",
+      "correctAnswer": "Sublimation",
       "distractors": [
-        "Proton",
-        "Neutron",
-        "Nucleus"
+        "Condensation",
+        "Evaporation",
+        "Deposition"
       ],
-      "explanation": "Electrons carry a negative charge, protons are positive, and neutrons are neutral.",
-      "memoryHook": "T-Rexy says: Electrons are negative - they orbit the nucleus like tiny moons!",
-      "imageUrl": "topic:atomic-structure",
+      "explanation": "Sublimation is the change from a solid directly to a gas, skipping the liquid state: the particles gain enough energy to break free of the solid all at once. Deposition is the reverse change, from a gas directly to a solid.",
+      "memoryHook": "T-Rexy says: Sublimation skips the line - solid straight to gas, no liquid stop!",
+      "imageUrl": "topic:states-of-matter",
       "tags": [
-        "atomic-structure"
+        "states-of-matter"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -91,18 +91,18 @@
     },
     {
       "id": "CHEM_005",
-      "question": "What is the mass number of an atom?",
-      "correctAnswer": "The total number of protons and neutrons",
+      "question": "How much heat is absorbed when 50 g of water warms by 10 degrees C? (The specific heat of water is 4.18 J/g degrees C.)",
+      "correctAnswer": "2090 J",
       "distractors": [
-        "The number of protons only",
-        "The number of electrons only",
-        "The number of electron shells"
+        "209 J",
+        "418 J",
+        "20,900 J"
       ],
-      "explanation": "Mass number = protons + neutrons. Electrons are so light they contribute almost nothing to the mass.",
-      "memoryHook": "T-Rexy says: Add protons and neutrons together and you get the mass number!",
-      "imageUrl": "topic:atomic-structure",
+      "explanation": "Use q = m x c x delta T. q = 50 g x 4.18 J/g degrees C x 10 degrees C = 2090 J. The grams and the degrees C cancel, leaving joules. (Check: 50 x 4.18 = 209, and 209 x 10 = 2090.)",
+      "memoryHook": "T-Rexy says: q = m c delta T - mass times specific heat times the temperature change!",
+      "imageUrl": "topic:thermochemistry",
       "tags": [
-        "atomic-structure"
+        "thermochemistry"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -129,18 +129,18 @@
     },
     {
       "id": "CHEM_007",
-      "question": "How many electrons can the first energy level (shell) of an atom hold?",
-      "correctAnswer": "2",
+      "question": "A 25 g sample of an unknown metal absorbs 200 J of heat, and its temperature rises by 8 degrees C. What is the specific heat of the metal?",
+      "correctAnswer": "1.0 J/g degrees C",
       "distractors": [
-        "8",
-        "18",
-        "32"
+        "0.50 J/g degrees C",
+        "8.0 J/g degrees C",
+        "25 J/g degrees C"
       ],
-      "explanation": "The first shell holds a maximum of 2 electrons (2n^2 where n=1 gives 2).",
-      "memoryHook": "T-Rexy says: The first shell is small - only 2 electrons fit!",
-      "imageUrl": "topic:atomic-structure",
+      "explanation": "Rearrange q = m x c x delta T to get c = q / (m x delta T). Then c = 200 J / (25 g x 8 degrees C) = 200 / 200 = 1.0 J/g degrees C. Dividing by only the mass gives 8.0, and dividing by only the temperature change gives 25 - both forget one of the two factors.",
+      "memoryHook": "T-Rexy says: To find specific heat, divide the heat by mass AND temperature change - both of them!",
+      "imageUrl": "topic:thermochemistry",
       "tags": [
-        "atomic-structure"
+        "thermochemistry"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -243,18 +243,18 @@
     },
     {
       "id": "CHEM_013",
-      "question": "The rows on the periodic table are called:",
-      "correctAnswer": "Periods",
+      "question": "Organic chemistry is the branch of chemistry that studies compounds built around which element?",
+      "correctAnswer": "Carbon",
       "distractors": [
-        "Groups",
-        "Families",
-        "Blocks"
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen"
       ],
-      "explanation": "Horizontal rows are periods; vertical columns are groups (or families).",
-      "memoryHook": "T-Rexy says: Rows are periods, columns are groups - easy to mix up, but now you know!",
-      "imageUrl": "topic:periodic-table",
+      "explanation": "Organic compounds are based on carbon, whose atoms form four bonds and can link into long chains, branches and rings. Hydrocarbons, fuels, plastics and most molecules of living things are organic because of their carbon skeletons.",
+      "memoryHook": "T-Rexy says: No carbon, no organic chemistry - carbon is the backbone of it all!",
+      "imageUrl": "topic:organic-intro",
       "tags": [
-        "periodic-table"
+        "organic-intro"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -262,18 +262,18 @@
     },
     {
       "id": "CHEM_014",
-      "question": "The columns on the periodic table are called:",
-      "correctAnswer": "Groups",
+      "question": "A reaction between two solutions goes noticeably faster when the mixture is warmed. Raising the temperature speeds up the reaction because:",
+      "correctAnswer": "The particles move faster, so they collide more often and with more energy",
       "distractors": [
-        "Periods",
-        "Series",
-        "Shells"
+        "Warming creates extra reactant particles",
+        "The particles move slower and stay in contact longer",
+        "Heat removes the products as soon as they form"
       ],
-      "explanation": "Vertical columns are groups. Elements in the same group share similar chemical properties.",
-      "memoryHook": "T-Rexy says: Columns are groups - elements in a group are chemical cousins!",
-      "imageUrl": "topic:periodic-table",
+      "explanation": "Reaction rate depends on collisions between particles. At a higher temperature the particles have more kinetic energy, so collisions happen more frequently, and a larger fraction of those collisions have enough energy to break bonds and react.",
+      "memoryHook": "T-Rexy says: Heat them up and the particles zoom - more collisions, more reactions!",
+      "imageUrl": "topic:kinetics-equilibrium",
       "tags": [
-        "periodic-table"
+        "kinetics-equilibrium"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -509,18 +509,18 @@
     },
     {
       "id": "CHEM_027",
-      "question": "What type of bond is in a water molecule (H2O)?",
-      "correctAnswer": "Polar covalent",
+      "question": "The reaction 2NO2(g) <-> N2O4(g) is at equilibrium in a closed container. If the pressure on the mixture is increased, which way does the equilibrium shift?",
+      "correctAnswer": "Toward N2O4, the side with fewer gas molecules",
       "distractors": [
-        "Ionic",
-        "Metallic",
-        "Nonpolar covalent"
+        "Toward NO2, the side with more gas molecules",
+        "It does not shift, because pressure never affects an equilibrium",
+        "Toward NO2, because higher pressure pushes molecules apart"
       ],
-      "explanation": "Oxygen pulls the shared electrons more strongly than hydrogen, creating a polar covalent bond with partial charges.",
-      "memoryHook": "T-Rexy says: Water has polar covalent bonds - oxygen hogs the electrons!",
-      "imageUrl": "topic:bonding",
+      "explanation": "By Le Chatelier's principle, the equilibrium shifts to relieve the stress. Squeezing the mixture is relieved by having fewer gas molecules. The left side has 2 gas molecules for every 1 on the right, so the shift is toward N2O4.",
+      "memoryHook": "T-Rexy says: Squeeze an equilibrium and it dodges to the side with fewer gas molecules!",
+      "imageUrl": "topic:kinetics-equilibrium",
       "tags": [
-        "bonding"
+        "kinetics-equilibrium"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -547,18 +547,18 @@
     },
     {
       "id": "CHEM_029",
-      "question": "What is the chemical formula for water?",
-      "correctAnswer": "H2O",
+      "question": "Butane is a hydrocarbon fuel with the formula C4H10. How many carbon atoms are in each molecule of butane?",
+      "correctAnswer": "4",
       "distractors": [
-        "CO2",
-        "O2",
-        "NaCl"
+        "10",
+        "14",
+        "2"
       ],
-      "explanation": "Water has two hydrogen atoms and one oxygen atom: H2O.",
-      "memoryHook": "T-Rexy says: H2O - two hydrogens, one oxygen. The most famous formula in chemistry!",
-      "imageUrl": "topic:bonding",
+      "explanation": "In a chemical formula, the subscript written after an element counts that element's atoms. C4 means 4 carbon atoms, and H10 means 10 hydrogen atoms. The name agrees: the prefix but- stands for a chain of four carbons.",
+      "memoryHook": "T-Rexy says: Read the subscript - C4 means four carbons, just like but- means four!",
+      "imageUrl": "topic:organic-intro",
       "tags": [
-        "bonding"
+        "organic-intro"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -566,18 +566,18 @@
     },
     {
       "id": "CHEM_030",
-      "question": "What is the chemical formula for carbon dioxide?",
-      "correctAnswer": "CO2",
+      "question": "A student heats a beaker of ice and water. While the ice is melting, the temperature stays at 0 degrees C even though heat is still being added. Why does the temperature stay constant during melting?",
+      "correctAnswer": "The added energy is used to break apart the ordered structure of the solid instead of raising the temperature",
       "distractors": [
-        "CO",
-        "H2O",
-        "O2"
+        "Heat stops flowing into the beaker while ice is present",
+        "The added energy speeds up the particles, but a thermometer cannot show it",
+        "Melting is the one phase change that needs no energy at all"
       ],
-      "explanation": "Carbon dioxide has one carbon atom and two oxygen atoms: CO2.",
-      "memoryHook": "T-Rexy says: CO2 - one carbon, two oxygens, the gas we breathe out!",
-      "imageUrl": "topic:bonding",
+      "explanation": "During a phase change, added energy goes into separating the particles - loosening the solid's ordered structure - rather than into the kinetic energy that temperature measures. Only after all the ice has melted can further heating raise the temperature.",
+      "memoryHook": "T-Rexy says: On the melting plateau, heat is busy breaking the ice apart - the temperature has to wait!",
+      "imageUrl": "topic:states-of-matter",
       "tags": [
-        "bonding"
+        "states-of-matter"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -699,18 +699,18 @@
     },
     {
       "id": "CHEM_037",
-      "question": "What is a chemical reaction?",
-      "correctAnswer": "A process where substances change into new substances",
+      "question": "Wood burning in a campfire makes the air around it warmer. Burning wood is an example of:",
+      "correctAnswer": "An exothermic process, because it releases heat to the surroundings",
       "distractors": [
-        "A physical change in shape",
-        "A change in temperature only",
-        "A change in state of matter"
+        "An endothermic process, because it absorbs heat from the surroundings",
+        "An exothermic process, because it absorbs heat from the surroundings",
+        "An endothermic process, because it releases heat to the surroundings"
       ],
-      "explanation": "A chemical reaction rearranges atoms to form new substances with different properties.",
-      "memoryHook": "T-Rexy says: Chemical reactions make new substances - atoms get rearranged!",
-      "imageUrl": "topic:chemical-reactions",
+      "explanation": "Exothermic processes release energy to the surroundings, so the surroundings warm up - exactly what a campfire does. Endothermic processes absorb energy from the surroundings and would make them cooler. The name has to match what the heat actually does.",
+      "memoryHook": "T-Rexy says: Exo means exit - in an exothermic process, heat exits into the surroundings!",
+      "imageUrl": "topic:thermochemistry",
       "tags": [
-        "chemical-reactions"
+        "thermochemistry"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -718,18 +718,18 @@
     },
     {
       "id": "CHEM_038",
-      "question": "In a chemical equation, the substances on the left side are called:",
-      "correctAnswer": "Reactants",
+      "question": "The Sun shines because of nuclear fusion in its core. In a fusion reaction:",
+      "correctAnswer": "Light nuclei join together to form a heavier nucleus, releasing energy",
       "distractors": [
-        "Products",
-        "Catalysts",
-        "Coefficients"
+        "A heavy nucleus splits into two lighter nuclei",
+        "Atoms lose their electrons and become ions",
+        "Protons are destroyed and turned into neutrons"
       ],
-      "explanation": "Reactants are the starting substances on the left; products are on the right.",
-      "memoryHook": "T-Rexy says: Left side is reactants - they react to make products on the right!",
-      "imageUrl": "topic:chemical-reactions",
+      "explanation": "Fusion combines small nuclei, such as hydrogen nuclei, into a larger nucleus such as helium. A tiny amount of mass is converted into a huge amount of energy. Splitting a heavy nucleus apart is the opposite process, called fission.",
+      "memoryHook": "T-Rexy says: Fusion fuses - small nuclei join into a bigger one, and the Sun cashes in the energy!",
+      "imageUrl": "topic:nuclear",
       "tags": [
-        "chemical-reactions"
+        "nuclear"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -775,18 +775,18 @@
     },
     {
       "id": "CHEM_041",
-      "question": "What is the coefficient in a chemical equation?",
-      "correctAnswer": "The number in front of a formula showing how many units are involved",
+      "question": "For the equilibrium reaction N2 + 3H2 <-> 2NH3, which expression gives the equilibrium constant, Keq?",
+      "correctAnswer": "[NH3]^2 / ([N2][H2]^3)",
       "distractors": [
-        "The small number after an element symbol",
-        "The arrow in the equation",
-        "The state symbol"
+        "[NH3] / ([N2][H2])",
+        "[NH3]^2 / ([N2][H2])",
+        "([N2][H2]^3) / [NH3]^2"
       ],
-      "explanation": "Coefficients are the numbers placed before formulas to balance equations. Subscripts are the small numbers within formulas.",
-      "memoryHook": "T-Rexy says: Coefficients are the big numbers in front - they balance the equation!",
-      "imageUrl": "topic:chemical-reactions",
+      "explanation": "Keq is products over reactants, with each concentration raised to the power of its coefficient in the balanced equation. NH3 has coefficient 2, so [NH3] is squared; H2 has coefficient 3, so [H2] is cubed; N2 has coefficient 1, so it appears to the first power.",
+      "memoryHook": "T-Rexy says: Products on top, reactants below, and every coefficient becomes a power!",
+      "imageUrl": "topic:kinetics-equilibrium",
       "tags": [
-        "chemical-reactions"
+        "kinetics-equilibrium"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -927,18 +927,18 @@
     },
     {
       "id": "CHEM_049",
-      "question": "What is a mole in chemistry?",
-      "correctAnswer": "6.02 x 10^23 particles",
+      "question": "A radioactive isotope has a half-life of 5 days. A sample starts with 80 g of the isotope. How much of the isotope is left after 15 days?",
+      "correctAnswer": "10 g",
       "distractors": [
-        "6.02 x 10^12 particles",
-        "1 gram of a substance",
-        "1000 particles"
+        "20 g",
+        "40 g",
+        "26.7 g"
       ],
-      "explanation": "Think of a mole like a dozen, but far bigger: just as a dozen always means 12 of anything, a mole always means 6.02 x 10^23 particles (atoms, molecules, or ions). So 1 mol of water contains 6.02 x 10^23 water molecules.",
-      "memoryHook": "T-Rexy says: A mole is 6.02 x 10^23 particles - Avogadro's number!",
-      "imageUrl": "topic:stoichiometry",
+      "explanation": "15 days is 15 / 5 = 3 half-lives. The amount halves at each one: 80 g -> 40 g -> 20 g -> 10 g. Dividing 80 by 3 (giving 26.7 g) is a common trap - decay halves the amount, it does not split it into equal parts.",
+      "memoryHook": "T-Rexy says: Half-life means halve, wait, halve again - 80, 40, 20, 10!",
+      "imageUrl": "topic:nuclear",
       "tags": [
-        "stoichiometry"
+        "nuclear"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1041,18 +1041,18 @@
     },
     {
       "id": "CHEM_055",
-      "question": "What is the limiting reactant in a chemical reaction?",
-      "correctAnswer": "The reactant that runs out first and limits the amount of product",
+      "question": "On a potential energy diagram for a chemical reaction, the products sit at a LOWER energy level than the reactants. What does this show about the reaction?",
+      "correctAnswer": "It is exothermic, and its enthalpy change is negative",
       "distractors": [
-        "The reactant present in the largest amount",
-        "The catalyst",
-        "The product"
+        "It is endothermic, and its enthalpy change is positive",
+        "It is endothermic, and its enthalpy change is negative",
+        "No energy was exchanged with the surroundings"
       ],
-      "explanation": "The limiting reactant is consumed first and determines how much product can form.",
-      "memoryHook": "T-Rexy says: The limiting reactant runs out first - it sets the limit on product!",
-      "imageUrl": "topic:stoichiometry",
+      "explanation": "The enthalpy change is the products' energy minus the reactants' energy. When the products are lower, that difference is negative, and the missing energy has been released to the surroundings as heat - which is what makes a reaction exothermic.",
+      "memoryHook": "T-Rexy says: Products downhill from reactants? The energy rolled out as heat - exothermic, delta H negative!",
+      "imageUrl": "topic:thermochemistry",
       "tags": [
-        "stoichiometry"
+        "thermochemistry"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1250,18 +1250,18 @@
     },
     {
       "id": "CHEM_066",
-      "question": "What is the value of the ideal gas constant R when pressure is in atm and volume in liters?",
-      "correctAnswer": "0.0821 L-atm/mol-K",
+      "question": "A whole antacid tablet fizzes slowly in water, but the same tablet crushed to a powder fizzes away much faster. Crushing the tablet speeds up the reaction because it:",
+      "correctAnswer": "Increases the surface area, exposing more particles so collisions can happen in more places",
       "distractors": [
-        "8.314 L-atm/mol-K",
-        "1.00 L-atm/mol-K",
-        "0.0821 J/mol-K"
+        "Turns the tablet into a catalyst for the reaction",
+        "Raises the temperature of the water",
+        "Increases the concentration of the water"
       ],
-      "explanation": "Use R = 0.0821 L-atm/mol-K only when pressure is in atm and volume is in liters, so the units cancel in PV = nRT. The larger value 8.314 goes with joules (8.314 J/mol-K) and must not be used with atm and liters.",
-      "memoryHook": "T-Rexy says: R is 0.0821 when you use atmospheres and liters!",
-      "imageUrl": "topic:gases",
+      "explanation": "A reaction can only happen where particles actually meet. A whole tablet exposes only its outer surface, while a powder exposes the surfaces of thousands of tiny pieces, so far more collisions per second become possible. The mass of tablet, the water and its temperature are all unchanged.",
+      "memoryHook": "T-Rexy says: Crush it and every tiny piece joins the action - more surface, faster fizz!",
+      "imageUrl": "topic:kinetics-equilibrium",
       "tags": [
-        "gases"
+        "kinetics-equilibrium"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1402,18 +1402,18 @@
     },
     {
       "id": "CHEM_074",
-      "question": "In a salt water solution, what is the solute?",
-      "correctAnswer": "Salt",
+      "question": "Ethanol, CH3CH2OH, is a member of the alcohol family of organic compounds. Which part of the molecule is the functional group that makes it an alcohol?",
+      "correctAnswer": "The -OH group at the end of the molecule",
       "distractors": [
-        "Water",
-        "The container",
-        "The air"
+        "The CH3 group at the start of the molecule",
+        "The carbon-hydrogen bonds along the chain",
+        "The carbon chain as a whole"
       ],
-      "explanation": "The solute is the substance being dissolved (salt); the solvent is what does the dissolving (water).",
-      "memoryHook": "T-Rexy says: Salt is the solute - it dissolves into the water!",
-      "imageUrl": "topic:solutions",
+      "explanation": "A functional group is the atom or group of atoms that gives a family of organic compounds its characteristic properties. For alcohols that group is the hydroxyl group, -OH. Ethanol's carbon skeleton is the carrier; the -OH is what makes it behave as an alcohol.",
+      "memoryHook": "T-Rexy says: Spot the -OH and you have found an alcohol - that little group runs the whole family!",
+      "imageUrl": "topic:organic-intro",
       "tags": [
-        "solutions"
+        "organic-intro"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1478,18 +1478,18 @@
     },
     {
       "id": "CHEM_078",
-      "question": "What is molarity?",
-      "correctAnswer": "Moles of solute per liter of solution",
+      "question": "On the heating curve of a pure substance, the temperature stays constant during boiling even though heat is added steadily. At the particle level, the added energy is being used to:",
+      "correctAnswer": "Overcome the attractions between particles so they can separate into a gas",
       "distractors": [
-        "Grams of solute per liter",
-        "Moles of solvent per liter",
-        "Liters of solution per mole"
+        "Increase the average kinetic energy of the particles",
+        "Break the chemical bonds inside each molecule",
+        "Destroy some of the particles so fewer are left to heat"
       ],
-      "explanation": "Molarity (M) = moles of solute / liters of solution.",
-      "memoryHook": "T-Rexy says: Molarity is moles per liter - the chemist's concentration!",
-      "imageUrl": "topic:solutions",
+      "explanation": "Temperature measures average kinetic energy, and it cannot rise while the added energy is being spent pulling particles apart against their intermolecular attractions. The molecules themselves stay intact - it is the spacing between them, not the bonds inside them, that changes.",
+      "memoryHook": "T-Rexy says: On the flat part of the curve, the heat is prying particles apart, not speeding them up!",
+      "imageUrl": "topic:states-of-matter",
       "tags": [
-        "solutions"
+        "states-of-matter"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1592,18 +1592,18 @@
     },
     {
       "id": "CHEM_084",
-      "question": "What is the dilution equation?",
-      "correctAnswer": "M1V1 = M2V2",
+      "question": "Uranium-238 (atomic number 92) undergoes alpha decay. What is the mass number of the nucleus that is formed?",
+      "correctAnswer": "234",
       "distractors": [
-        "M1 + V1 = M2 + V2",
-        "M1/V1 = M2/V2",
-        "M1 x M2 = V1 x V2"
+        "242",
+        "236",
+        "238"
       ],
-      "explanation": "The dilution equation M1V1 = M2V2 relates the initial and final molarities and volumes.",
-      "memoryHook": "T-Rexy says: M1V1 equals M2V2 - the dilution equation!",
-      "imageUrl": "topic:solutions",
+      "explanation": "An alpha particle carries away 4 mass units (2 protons and 2 neutrons), so the new mass number is 238 - 4 = 234. The atomic number also falls by 2, from 92 to 90, so the new nucleus is thorium-234.",
+      "memoryHook": "T-Rexy says: An alpha particle out the door takes 4 from the mass number and 2 from the atomic number!",
+      "imageUrl": "topic:nuclear",
       "tags": [
-        "solutions"
+        "nuclear"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1763,18 +1763,18 @@
     },
     {
       "id": "CHEM_093",
-      "question": "What ion do acids release in water?",
-      "correctAnswer": "Hydrogen ion (H+)",
+      "question": "A liquid starts to boil when:",
+      "correctAnswer": "Its vapor pressure becomes equal to the atmospheric pressure pushing down on it",
       "distractors": [
-        "Hydroxide ion (OH-)",
-        "Sodium ion (Na+)",
-        "Chloride ion (Cl-)"
+        "Its temperature reaches 100 degrees C",
+        "Its vapor pressure drops to zero",
+        "Every one of its particles has turned into a gas"
       ],
-      "explanation": "Acids release H+ ions in water (Arrhenius definition).",
-      "memoryHook": "T-Rexy says: Acids release H+ ions - that is what makes them acidic!",
-      "imageUrl": "topic:acids-bases",
+      "explanation": "Bubbles of vapor can only form and survive inside a liquid when the vapor pressure inside them matches the pressure of the air pushing on the surface. This is why water boils below 100 degrees C high on a mountain, where the air pressure is lower.",
+      "memoryHook": "T-Rexy says: Boiling starts when vapor pressure fights the air pressure to a draw!",
+      "imageUrl": "topic:states-of-matter",
       "tags": [
-        "acids-bases"
+        "states-of-matter"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -1820,18 +1820,18 @@
     },
     {
       "id": "CHEM_096",
-      "question": "What is a buffer solution?",
-      "correctAnswer": "A solution that resists changes in pH",
+      "question": "Alkanes follow the general formula CnH2n+2. Pentane is the alkane with 5 carbon atoms. How many hydrogen atoms does a molecule of pentane have?",
+      "correctAnswer": "12",
       "distractors": [
-        "A solution with pH exactly 7",
-        "A solution that is always acidic",
-        "A solution with no ions"
+        "10",
+        "14",
+        "7"
       ],
-      "explanation": "A buffer contains a weak acid and its conjugate base (or vice versa) and resists pH changes when small amounts of acid or base are added.",
-      "memoryHook": "T-Rexy says: A buffer resists pH changes - it keeps things steady!",
-      "imageUrl": "topic:acids-bases",
+      "explanation": "Substitute n = 5 into CnH2n+2: the number of hydrogen atoms is 2(5) + 2 = 12, so pentane is C5H12. Forgetting the +2 is the common slip that gives 10.",
+      "memoryHook": "T-Rexy says: Double the carbons and add two - pentane has twelve hydrogens, not ten!",
+      "imageUrl": "topic:organic-intro",
       "tags": [
-        "acids-bases"
+        "organic-intro"
       ],
       "difficulty": "medium",
       "dynamic": false,
