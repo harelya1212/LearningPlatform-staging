@@ -359,7 +359,7 @@
     },
     {
       "id": "ESP_016",
-      "question": "Completa la oración: «Con una computadora más rápida, yo ______ todos mis proyectos en menos tiempo».",
+      "question": "Completa la oración: «Con una computadora más rápida, yo ______ todos mis proyectos en menos tiempo, pero mi computadora actual es muy lenta».",
       "correctAnswer": "terminaría",
       "distractors": [
         "termino",
