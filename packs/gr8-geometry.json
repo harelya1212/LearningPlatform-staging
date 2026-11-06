@@ -402,7 +402,7 @@
         "270 degrees",
         "360 degrees"
       ],
-      "explanation": "The interior angles of any triangle add to 180 degrees.",
+      "explanation": "Tear off the three corners of any paper triangle and line them up - they form a straight line, and a straight line is 180 degrees. That is why every triangle's angles total 180.",
       "memoryHook": "T-Rexy says: Triangles always total 180.",
       "imageUrl": "topic:geometry",
       "tags": [
@@ -449,7 +449,7 @@
         "polygons",
         "interior-angles"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -469,7 +469,7 @@
         "polygons",
         "interior-angles"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -489,7 +489,7 @@
         "polygons",
         "interior-angles"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -509,7 +509,7 @@
         "polygons",
         "interior-angles"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -529,7 +529,7 @@
         "polygons",
         "regular"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -569,7 +569,7 @@
         "triangles",
         "pythagorean"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -629,7 +629,7 @@
         "triangles",
         "pythagorean"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -649,7 +649,7 @@
         "triangles",
         "pythagorean"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -669,7 +669,7 @@
         "distance",
         "coordinate-plane"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -789,7 +789,7 @@
         "transformations",
         "rotations"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -809,7 +809,7 @@
         "transformations",
         "rotations"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -882,13 +882,13 @@
         "Shape only",
         "Area only"
       ],
-      "explanation": "Congruent figures match exactly in size and shape.",
+      "explanation": "Congruent means one figure can be placed exactly on top of the other with nothing sticking out - same side lengths AND same angles. Same shape with a bigger size is only similar, not congruent.",
       "memoryHook": "T-Rexy says: Congruent means identical in size and shape.",
       "imageUrl": "topic:geometry",
       "tags": [
         "congruence"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -927,7 +927,7 @@
         "similarity",
         "scale-factor"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -947,7 +947,7 @@
         "similarity",
         "scale-factor"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1027,7 +1027,7 @@
         "circles",
         "area"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1046,7 +1046,7 @@
       "tags": [
         "circles"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1166,7 +1166,7 @@
         "volume",
         "cylinders"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1186,7 +1186,7 @@
         "surface-area",
         "cubes"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1279,7 +1279,7 @@
         "Pentagon",
         "Heptagon"
       ],
-      "explanation": "An 8-sided polygon is an octagon.",
+      "explanation": "Count the sides: oct- means 8, like an octopus with 8 arms. A stop sign is the classic octagon - count its 8 edges.",
       "memoryHook": "T-Rexy says: Oct means eight.",
       "imageUrl": "topic:geometry",
       "tags": [
@@ -1298,7 +1298,7 @@
         "Octagon",
         "Quadrilateral"
       ],
-      "explanation": "A 5-sided polygon is a pentagon.",
+      "explanation": "Pent- means 5, like the Pentagon building in Washington, which has 5 sides. Count the sides to name the polygon: 5 sides, pentagon.",
       "memoryHook": "T-Rexy says: Pent means five.",
       "imageUrl": "topic:geometry",
       "tags": [
@@ -1317,7 +1317,7 @@
         "Scalene triangle",
         "Right triangle"
       ],
-      "explanation": "Equilateral means all sides are equal.",
+      "explanation": "Equi- means equal and -lateral means sides, so equilateral literally says 'equal sides.' All three angles are equal too - 60 degrees each.",
       "memoryHook": "T-Rexy says: Equi means equal.",
       "imageUrl": "topic:geometry",
       "tags": [
@@ -1337,7 +1337,7 @@
         "Scalene triangle",
         "Right triangle"
       ],
-      "explanation": "Isosceles triangles have two equal sides.",
+      "explanation": "The two equal sides are called legs, and the angles at the base between them are also equal. If you fold an isosceles triangle along the middle, the two halves match exactly.",
       "memoryHook": "T-Rexy says: Iso means two equal sides.",
       "imageUrl": "topic:geometry",
       "tags": [
@@ -1357,7 +1357,7 @@
         "Isosceles triangle",
         "Right triangle"
       ],
-      "explanation": "Scalene triangles have all different side lengths.",
+      "explanation": "Scalene is the leftover case: no two sides equal and no two angles equal. If a triangle is not equilateral and not isosceles, it must be scalene.",
       "memoryHook": "T-Rexy says: Scalene means all different.",
       "imageUrl": "topic:geometry",
       "tags": [
@@ -1384,7 +1384,7 @@
         "triangles",
         "exterior-angles"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1404,7 +1404,7 @@
         "slope",
         "perpendicular"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1424,7 +1424,7 @@
         "slope",
         "parallel"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1523,7 +1523,7 @@
       "tags": [
         "coordinate-plane"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1543,7 +1543,7 @@
         "coordinate-plane",
         "quadrants"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1563,7 +1563,7 @@
         "coordinate-plane",
         "quadrants"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1576,7 +1576,7 @@
         "Origin",
         "Slope"
       ],
-      "explanation": "The x-coordinate is called the abscissa.",
+      "explanation": "Abscissa is the formal name for the first number in a pair - how far across (left-right) the point sits. In (7, 3) the abscissa is 7; the second number, 3, is the ordinate.",
       "memoryHook": "T-Rexy says: X is the abscissa.",
       "imageUrl": "topic:geometry",
       "tags": [
@@ -1596,7 +1596,7 @@
         "Origin",
         "Intercept"
       ],
-      "explanation": "The y-coordinate is called the ordinate.",
+      "explanation": "Ordinate is the formal name for the second number in a pair - how far up (vertical) the point sits. In (7, 3) the ordinate is 3; the first number, 7, is the abscissa.",
       "memoryHook": "T-Rexy says: Y is the ordinate.",
       "imageUrl": "topic:geometry",
       "tags": [
@@ -1662,7 +1662,7 @@
         "area",
         "rectangles"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1682,7 +1682,7 @@
         "circles",
         "circumference"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1702,7 +1702,7 @@
         "area",
         "squares"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1722,7 +1722,7 @@
         "perimeter",
         "squares"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1742,7 +1742,7 @@
         "circles",
         "circumference"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1782,7 +1782,7 @@
         "area",
         "triangles"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1842,7 +1842,7 @@
         "coordinate-plane",
         "midpoint"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1862,7 +1862,7 @@
         "transformations",
         "reflections"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1882,7 +1882,7 @@
         "transformations",
         "dilations"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1902,7 +1902,7 @@
         "volume",
         "prisms"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1982,7 +1982,7 @@
         "angles",
         "types"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -2001,7 +2001,7 @@
       "tags": [
         "polygons"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     }
