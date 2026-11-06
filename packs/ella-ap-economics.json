@@ -275,7 +275,7 @@
     },
     {
       "correctAnswer": "Percentage change in quantity demanded divided by percentage change in price",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "distractors": [
         "Change in price divided by change in quantity demanded",
         "Total revenue divided by quantity sold",
@@ -1462,7 +1462,7 @@
         "The tax rate on bank profits"
       ],
       "dynamic": false,
-      "explanation": "The Fed sets the required reserve ratio, limiting how much banks can lend from each deposit.",
+      "explanation": "Banks must hold the required fraction of deposits as reserves and cannot lend that portion - the ratio caps how far lending and deposit creation can go.",
       "id": "EECON_073",
       "imageUrl": "topic:reserve-ratio",
       "memoryHook": "T-Rexy says: Banks must keep a slice parked - that is the reserve ratio!",
@@ -1702,7 +1702,7 @@
         "The government runs a budget surplus"
       ],
       "dynamic": false,
-      "explanation": "A trade deficit (negative net exports) means the nation buys more from abroad than it sells.",
+      "explanation": "Net exports (exports minus imports) are negative in a deficit: the value of what the nation buys from abroad exceeds the value of what it sells abroad, so Xn pulls GDP down.",
       "id": "EECON_085",
       "imageUrl": "topic:trade-deficit",
       "memoryHook": "T-Rexy says: Buying more than selling abroad? Trade deficit!",

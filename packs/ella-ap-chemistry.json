@@ -68,7 +68,7 @@
         "atomic-structure",
         "electron-config"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -201,7 +201,7 @@
         "Oxygen-16",
         "Uranium-238"
       ],
-      "explanation": "One atomic mass unit is defined as exactly 1/12 the mass of a carbon-12 atom.",
+      "explanation": "One atomic mass unit is defined as exactly 1/12 the mass of a carbon-12 atom, so every atomic mass is measured relative to carbon-12. That is why a single carbon-12 atom is exactly 12 amu, while carbon's periodic-table value of about 12.01 averages over its naturally occurring isotopes.",
       "memoryHook": "T-Rexy says: Carbon-12 is the gold standard - one twelfth of it defines the amu!",
       "imageUrl": "topic:chemistry",
       "tags": [
@@ -239,7 +239,7 @@
       "distractors": [
         "Wave model only",
         "Neither model",
-        "The Bohr model"
+        "The refraction model"
       ],
       "explanation": "Einstein explained the photoelectric effect by treating light as discrete packets of energy (photons). Light below a threshold frequency cannot eject electrons regardless of intensity, which the wave model cannot explain.",
       "memoryHook": "T-Rexy says: Light arrives in photon punches - too weak a punch and no electron pops out!",
@@ -357,9 +357,9 @@
       "distractors": [
         "London dispersion forces",
         "Dipole-dipole forces",
-        "Ion-dipole forces are weaker than all"
+        "Ion-induced dipole forces"
       ],
-      "explanation": "Hydrogen bonding (a strong dipole-dipole interaction involving H bonded to N, O, or F) is the strongest common intermolecular force, though still weaker than covalent or ionic bonds.",
+      "explanation": "Among neutral-molecule intermolecular forces, hydrogen bonding is the strongest: it occurs when H bonded directly to N, O, or F is attracted to a lone pair on another N, O, or F, and it is much stronger than ordinary dipole-dipole forces or London dispersion forces, though still far weaker than covalent or ionic bonds.",
       "memoryHook": "T-Rexy says: H stuck to N, O, or F makes the mightiest intermolecular hug!",
       "imageUrl": "topic:chemistry",
       "tags": [
@@ -524,7 +524,7 @@
         "stoichiometry",
         "percent-composition"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -563,7 +563,7 @@
         "stoichiometry",
         "limiting-reactant"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -603,7 +603,7 @@
         "stoichiometry",
         "percent-yield"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -623,7 +623,7 @@
         "reactions",
         "precipitation"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -683,7 +683,7 @@
         "stoichiometry",
         "moles"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -723,7 +723,7 @@
         "solutions",
         "dilution"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -783,7 +783,7 @@
         "gases",
         "gas-laws"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -896,7 +896,7 @@
         "No heat change occurs",
         "Entropy always decreases"
       ],
-      "explanation": "Exothermic reactions release energy, so the enthalpy change of the system is negative.",
+      "explanation": "Exothermic reactions release energy because the products sit lower in enthalpy than the reactants: forming the product bonds releases more energy than breaking the reactant bonds costs, the surplus leaves the system as heat, and delta H (enthalpy of products minus reactants) is therefore negative.",
       "memoryHook": "T-Rexy says: Exo exits - heat leaves the system and delta H goes negative!",
       "imageUrl": "topic:chemistry",
       "tags": [
@@ -916,7 +916,7 @@
         "25 C and 2 atm",
         "0 K and 1 atm"
       ],
-      "explanation": "Standard state: 1 atm pressure, 25 C (298 K), 1 M concentration for aqueous species, pure solids/liquids.",
+      "explanation": "Standard state is the reference condition every standard formation value is measured against: 1 atm pressure, 298 K (25 C), elements and compounds in their most stable pure form, and 1 M concentration for species in solution. A value measured at any other pressure, temperature, or concentration is not the standard value.",
       "memoryHook": "T-Rexy says: Standard means 1 atm, room temp 25 C, 1 molar - memorize it!",
       "imageUrl": "topic:chemistry",
       "tags": [
@@ -1023,7 +1023,7 @@
         "thermodynamics",
         "calorimetry"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1043,7 +1043,7 @@
         "thermodynamics",
         "calorimetry"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1222,7 +1222,7 @@
         "kinetics",
         "half-life"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1242,7 +1242,7 @@
         "kinetics",
         "rate-laws"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1401,7 +1401,7 @@
         "equilibrium",
         "le-chatelier"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1541,7 +1541,7 @@
         "acids-bases",
         "ph"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1761,7 +1761,7 @@
         "electrochemistry",
         "gibbs"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1881,7 +1881,7 @@
         "intermolecular-forces",
         "mixed-review"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1892,7 +1892,7 @@
       "distractors": [
         "Tetrahedral",
         "Square planar",
-        "Trigonal bipyramidal (molecular shape)"
+        "Trigonal pyramidal"
       ],
       "explanation": "SF4 has 4 bonding pairs + 1 lone pair (AX4E). Electron geometry is trigonal bipyramidal; molecular shape is seesaw.",
       "memoryHook": "T-Rexy says: Four bonds plus one lone pair - sulfur sits on a seesaw!",
@@ -1922,7 +1922,7 @@
         "solutions",
         "mixed-review"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1982,7 +1982,7 @@
         "thermodynamics",
         "mixed-review"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },

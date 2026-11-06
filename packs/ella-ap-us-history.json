@@ -36,10 +36,10 @@
         "The authority of the English king over all colonial legislation"
       ],
       "dynamic": false,
-      "explanation": "The Mayflower Compact was a social contract in which the male settlers agreed to form a government and obey its laws. It is an early example of American self-governance and the consent of the governed, even though it was limited to male church members.",
+      "explanation": "The Mayflower Compact was a social contract in which the male settlers agreed to form a government and obey its laws. It is an early example of American self-governance and the consent of the governed, even though only adult male colonists signed it.",
       "id": "EUSH_002",
       "imageUrl": "topic:mayflower-compact",
-      "memoryHook": "T-Rexy says: The Pilgrims landed outside Virginia's charter zone, so they wrote their own rules - the first American constitution!",
+      "memoryHook": "T-Rexy says: The Pilgrims landed outside Virginia's charter zone, so they wrote their own rules - an early written agreement for self-government!",
       "question": "The Mayflower Compact of 1620 is most significant because it established which principle?",
       "source": "original",
       "tags": [
@@ -519,7 +519,7 @@
         "Prohibiting slavery in all new states admitted after 1820"
       ],
       "dynamic": false,
-      "explanation": "Henry Clay's compromise preserved the Senate balance (11-11) and drew a geographic line for slavery's expansion. It held for 34 years until the Kansas-Nebraska Act repealed the 36°30' line.",
+      "explanation": "Henry Clay's compromise preserved the Senate balance (12 free states and 12 slave states once Maine and Missouri were both admitted) and drew a geographic line for slavery's expansion. It held for 34 years until the Kansas-Nebraska Act repealed the 36°30' line.",
       "id": "EUSH_025",
       "imageUrl": "topic:missouri-compromise",
       "memoryHook": "T-Rexy says: Clay drew a line across the map - slavery south of it, freedom north. Lines on maps don't hold forever.",
@@ -847,7 +847,7 @@
       ]
     },
     {
-      "correctAnswer": "Nativist opposition to immigration from Southern and Eastern Europe",
+      "correctAnswer": "Hostility toward 'new immigrants' from Southern and Eastern Europe, who were widely viewed as racially and culturally inferior",
       "difficulty": "hard",
       "distractors": [
         "Support for unrestricted immigration from all countries",
@@ -974,7 +974,7 @@
     },
     {
       "correctAnswer": "Direct election of senators, initiative, referendum, and recall",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "distractors": [
         "Abolition of the Electoral College",
         "Nationalization of the railroad industry",
@@ -985,7 +985,7 @@
       "id": "EUSH_047",
       "imageUrl": "topic:progressive-democracy",
       "memoryHook": "T-Rexy says: Progressives gave voters the steering wheel - initiative, referendum, recall.",
-      "question": "Progressive Era reformers advocated which measures to make government more democratic?",
+      "question": "Which measures did Progressive Era reformers advocate to make government more democratic?",
       "source": "original",
       "tags": [
         "progressive",
@@ -1226,7 +1226,7 @@
     },
     {
       "correctAnswer": "It created jobs through public works while reforming the banking and securities industries",
-      "difficulty": "medium",
+      "difficulty": "hard",
       "distractors": [
         "It ended the Depression within its first year",
         "It was declared entirely unconstitutional by the Supreme Court",
@@ -1908,7 +1908,7 @@
       "explanation": "Floyd's 2020 murder by Minneapolis police sparked the largest protests in American history, reviving Black Lives Matter. The movement forced a national reckoning on policing, monuments, and systemic racism.",
       "id": "EUSH_091",
       "imageUrl": "topic:blm-movement",
-      "memoryHook": "T-Rexy says: 8 minutes 46 seconds - one video ignited a global movement.",
+      "memoryHook": "T-Rexy says: 9 minutes 29 seconds under an officer's knee - one video ignited a global movement.",
       "question": "The Black Lives Matter protests of 2020 were sparked by",
       "source": "original",
       "tags": [
@@ -1939,12 +1939,12 @@
       ]
     },
     {
-      "correctAnswer": "It abolished the federal Bureau of Indian Affairs",
+      "correctAnswer": "It broke up tribal lands into individual allotments",
       "difficulty": "hard",
       "distractors": [
         "It granted citizenship to all Native Americans",
         "It established the reservation system",
-        "It broke up tribal lands into individual allotments"
+        "It abolished the federal Bureau of Indian Affairs"
       ],
       "dynamic": false,
       "explanation": "The Dawes Act (1887) divided reservations into 160-acre individual plots, selling 'surplus' to whites. It destroyed tribal land bases - 90 million acres lost - under the guise of assimilation.",

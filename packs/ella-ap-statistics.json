@@ -223,7 +223,7 @@
         "Minimum, mean, median, maximum, range",
         "Q1, Q2, Q3, Q4, Q5"
       ],
-      "explanation": "The five-number summary is minimum, first quartile, median, third quartile, and maximum.",
+      "explanation": "Picture a boxplot: the five numbers are its two whisker ends (minimum and maximum), the two box edges (Q1 and Q3), and the line inside the box (the median). Together they show center and spread at a glance.",
       "memoryHook": "T-Rexy says: Five numbers, low to high - min, Q1, median, Q3, max!",
       "imageUrl": "topic:descriptive-statistics",
       "tags": [
@@ -263,7 +263,7 @@
         "A sample with equal numbers from each group",
         "A sample of volunteers"
       ],
-      "explanation": "In a simple random sample, every possible sample of size n has the same chance of selection.",
+      "explanation": "A chance process does the choosing - for example, numbering everyone and drawing numbers at random - so no individual or group is favored. Convenience samples and volunteer samples are not simple random samples, because the choice is not left entirely to chance.",
       "memoryHook": "T-Rexy says: Simple random means everybody gets a fair lottery ticket!",
       "imageUrl": "topic:sampling",
       "tags": [
@@ -570,7 +570,7 @@
         "probability",
         "conditional"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -863,7 +863,7 @@
         "2",
         "25"
       ],
-      "explanation": "The sampling distribution of x-bar is centered at the population mean: 50.",
+      "explanation": "x-bar is an unbiased estimator of the population mean, so the sampling distribution of x-bar is centered at the same value as the population itself - here 50. Larger samples cluster tighter around 50, but the center does not move.",
       "memoryHook": "T-Rexy says: Sample means cluster around the true mean - center stays 50!",
       "imageUrl": "topic:sampling-distributions",
       "tags": [
@@ -879,7 +879,7 @@
       "question": "The Central Limit Theorem says the sampling distribution of the sample mean becomes approximately normal when:",
       "correctAnswer": "The sample size is large (typically n >= 30)",
       "distractors": [
-        "The population is normal",
+        "The population standard deviation is known",
         "The sample size is small",
         "The data has no outliers"
       ],
@@ -970,7 +970,7 @@
         "inference",
         "proportion-interval"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1010,7 +1010,7 @@
         "inference",
         "sample-size"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1030,7 +1030,7 @@
         "inference",
         "hypothesis-test"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1203,7 +1203,7 @@
         "The correlation coefficient",
         "The maximum y-value"
       ],
-      "explanation": "The y-intercept is the predicted value when the explanatory variable equals zero.",
+      "explanation": "Set x = 0 in y-hat = 2 + 3x and you get y-hat = 2. That starting value is the intercept - useful for reading the line, though it only makes sense if x = 0 is realistic in context.",
       "memoryHook": "T-Rexy says: Intercept is where the line hits the y-axis - x equals zero!",
       "imageUrl": "topic:regression",
       "tags": [
@@ -1260,7 +1260,7 @@
       "correctAnswer": "That ice cream causes drowning",
       "distractors": [
         "That they are associated",
-        "That summer is a lurking variable",
+        "That higher ice cream sales tend to occur alongside more drowning deaths",
         "That correlation exists"
       ],
       "explanation": "Correlation does not imply causation; a lurking variable (hot weather) explains both.",
@@ -1481,7 +1481,7 @@
       "distractors": [
         "A z-test for proportions",
         "A chi-square test",
-        "An ANOVA F-test only"
+        "A paired t-test"
       ],
       "explanation": "Inference for the slope uses t = b/SE_b with n-2 degrees of freedom.",
       "memoryHook": "T-Rexy says: Slope significance? T-test with n minus 2 degrees of freedom!",
@@ -1503,7 +1503,7 @@
         "Testing goodness-of-fit for one variable",
         "Estimating a single proportion"
       ],
-      "explanation": "The independence test uses one sample classified by two categorical variables.",
+      "explanation": "Use it when ONE sample is cross-classified two ways - for example, one group of students sorted by both gender and favorite subject. The test then asks whether the two variables are independent or associated. Two separate samples would call for homogeneity instead.",
       "memoryHook": "T-Rexy says: Two categorical variables, one sample - test for independence!",
       "imageUrl": "topic:inference",
       "tags": [
@@ -1523,7 +1523,7 @@
         "Comparing paired means",
         "Testing a regression slope"
       ],
-      "explanation": "Homogeneity compares distributions of one categorical variable across multiple independent groups.",
+      "explanation": "Use it when SEPARATE samples are drawn from each population - for example, sophomores, juniors, and seniors each sampled on their own - and the same categorical variable is compared across them. One pooled sample cross-classified two ways would call for independence instead.",
       "memoryHook": "T-Rexy says: Same variable, several groups - are the distributions homogeneous?",
       "imageUrl": "topic:inference",
       "tags": [
@@ -1730,7 +1730,7 @@
         "sampling-distributions",
         "standard-error"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1970,7 +1970,7 @@
         "study-design",
         "blinding"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -2003,7 +2003,7 @@
         "One-proportion z-test",
         "Regression t-test for slope"
       ],
-      "explanation": "Two categorical variables from a single sample: chi-square test for independence.",
+      "explanation": "First check the data type: exercise habit and heart-health status are both categorical, and every person in the single sample supplies one value of each. Two categorical variables in one sample point to chi-square - a t-test would need a quantitative response, and a proportion z-test only handles one categorical variable.",
       "memoryHook": "T-Rexy says: Two categories, one sample - chi-square independence test!",
       "imageUrl": "topic:inference",
       "tags": [

@@ -70,7 +70,7 @@
         "cell-biology",
         "membranes"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -110,7 +110,7 @@
         "cell-biology",
         "transport"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -409,7 +409,7 @@
         "energetics",
         "photosynthesis"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -661,7 +661,7 @@
         "genetics",
         "mendelian"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -674,14 +674,14 @@
         "9:3:3:1",
         "1:1:1:1"
       ],
-      "explanation": "The genotypes are 1 AA : 2 Aa : 1 aa, a 1:2:1 genotypic ratio.",
+      "explanation": "A Punnett square for Aa x Aa gives 1/4 AA, 2/4 Aa, and 1/4 aa. Counted by genotype instead of grouped by appearance, that is a 1:2:1 ratio - unlike the 3:1 phenotypic ratio, the heterozygotes are counted separately here.",
       "memoryHook": "T-Rexy says: genotypes one-two-one - Aa x Aa gives 1:2:1 genotypes.",
       "imageUrl": "topic:genotypic-ratio",
       "tags": [
         "genetics",
         "mendelian"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -741,7 +741,7 @@
         "genetics",
         "mendelian"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1001,7 +1001,7 @@
         "molecular-biology",
         "dna"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1061,7 +1061,7 @@
         "molecular-biology",
         "gene-expression"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1260,7 +1260,7 @@
       "tags": [
         "evolution"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1312,7 +1312,7 @@
         "The mutation rate",
         "The selection coefficient"
       ],
-      "explanation": "2pq is the expected frequency of heterozygous genotypes under Hardy-Weinberg equilibrium.",
+      "explanation": "In p^2 + 2pq + q^2 = 1, p and q are the dominant and recessive allele frequencies. The 2pq term counts both heterozygote orders (Aa and aA), so it gives the expected heterozygote frequency - for example, p = 0.8 and q = 0.2 gives 2pq = 0.32.",
       "memoryHook": "T-Rexy says: two p q is hetero - 2pq is the heterozygote frequency.",
       "imageUrl": "topic:hardy-weinberg-equation",
       "tags": [
@@ -1359,7 +1359,7 @@
         "evolution",
         "evidence"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1410,7 +1410,7 @@
       "distractors": [
         "Hybrid inviability",
         "Hybrid sterility",
-        "Gametic mortality"
+        "Hybrid breakdown"
       ],
       "explanation": "Prezygotic barriers (habitat, temporal, behavioral, mechanical, gametic) prevent mating or fertilization; postzygotic barriers act after.",
       "memoryHook": "T-Rexy says: before the zygote - prezygotic barriers block fertilization.",
@@ -1496,7 +1496,7 @@
       "tags": [
         "ecology"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1670,7 +1670,7 @@
         "Increases biodiversity"
       ],
       "explanation": "Keystone species (like sea otters or wolves) have outsized ecological impact relative to their numbers.",
-      "memoryHook": "T-Rexy says: small role, huge impact - keystone species hold ecosystems together.",
+      "memoryHook": "T-Rexy says: few in number, huge in impact - keystone species hold ecosystems together.",
       "imageUrl": "topic:keystone-species",
       "tags": [
         "ecology"

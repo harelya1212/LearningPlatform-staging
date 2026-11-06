@@ -45,7 +45,7 @@
         "Does not exist",
         "Infinity"
       ],
-      "explanation": "This is the fundamental trigonometric limit. lim (x -> 0) sin(x)/x = 1.",
+      "explanation": "This is the fundamental trigonometric limit. On the unit circle, cos(x) < sin(x)/x < 1 for small nonzero x, and both bounds approach 1, so by the Squeeze Theorem lim (x -> 0) sin(x)/x = 1.",
       "memoryHook": "T-Rexy says: sine over x near zero always lands at one - memorize it like a dino roar!",
       "imageUrl": "topic:limits",
       "tags": [
@@ -185,7 +185,7 @@
     },
     {
       "id": "EACALC_009",
-      "question": "Find lim (x -> 0-) 1 / x.",
+      "question": "Find the left-hand limit of 1 / x as x approaches 0.",
       "correctAnswer": "-Infinity",
       "distractors": [
         "0",
@@ -620,7 +620,7 @@
         "Calculus",
         "Derivatives"
       ],
-      "difficulty": 2,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps AP Calc AB"
     },
@@ -662,7 +662,7 @@
         "Calculus",
         "Derivatives"
       ],
-      "difficulty": 1,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps AP Calc AB"
     },
@@ -738,7 +738,7 @@
         "e^x",
         "ln(x)/x"
       ],
-      "explanation": "d/dx [ln(x)] = 1/x.",
+      "explanation": "d/dx [ln(x)] = 1/x for x > 0. Reason: ln is the inverse of e^x, and differentiating the inverse gives 1 divided by e^(ln(x)), which is 1/x.",
       "memoryHook": "T-Rexy says: derivative of ln is one-over-x - short, sweet, unforgettable!",
       "imageUrl": "topic:derivatives",
       "tags": [
@@ -801,7 +801,7 @@
         "csc^2(x)",
         "1"
       ],
-      "explanation": "d/dx [tan(x)] = sec^2(x).",
+      "explanation": "Write tan(x) = sin(x)/cos(x) and apply the quotient rule: (cos^2(x) + sin^2(x)) / cos^2(x) = 1 / cos^2(x) = sec^2(x).",
       "memoryHook": "T-Rexy says: tan becomes sec-squared - remember the sassy secant!",
       "imageUrl": "topic:derivatives",
       "tags": [
@@ -1005,13 +1005,13 @@
     {
       "id": "EACALC_048",
       "question": "If f(x) = sqrt(4x^3 + 2), find f'(x).",
-      "correctAnswer": "3x^2 / sqrt(4x^3 + 2)",
+      "correctAnswer": "6x^2 / sqrt(4x^3 + 2)",
       "distractors": [
         "12x^2 / sqrt(4x^3 + 2)",
         "1 / (2*sqrt(4x^3 + 2))",
         "6x^2"
       ],
-      "explanation": "Write as (4x^3+2)^(1/2). Chain rule: (1/2)(4x^3+2)^(-1/2) * 12x^2 = 6x^2 / sqrt(4x^3+2). Simplify: 6x^2/(2*sqrt(...)) = 3x^2/sqrt(4x^3+2).",
+      "explanation": "Write as (4x^3 + 2)^(1/2). Chain rule: (1/2)(4x^3 + 2)^(-1/2) * 12x^2 = 6x^2 / sqrt(4x^3 + 2). The 1/2 and the 12 multiply to 6 - do not divide by 2 a second time.",
       "memoryHook": "T-Rexy says: root chain rule - half comes down, inside derivative multiplies, then simplify!",
       "imageUrl": "topic:derivatives",
       "tags": [
@@ -1095,7 +1095,7 @@
         "-1 / (1 + x^2)",
         "arctan(x)/x"
       ],
-      "explanation": "d/dx [arctan(x)] = 1/(1 + x^2).",
+      "explanation": "Let y = arctan(x), so x = tan(y). Differentiate implicitly: 1 = sec^2(y) * dy/dx. Since sec^2(y) = 1 + tan^2(y) = 1 + x^2, dy/dx = 1 / (1 + x^2).",
       "memoryHook": "T-Rexy says: arctan derivative is one over one-plus-x-squared - memorize this gem!",
       "imageUrl": "topic:derivatives",
       "tags": [
@@ -1133,9 +1133,9 @@
       "question": "Use implicit differentiation: if x^3 + y^3 = 6xy, find dy/dx.",
       "correctAnswer": "(2y - x^2) / (y^2 - 2x)",
       "distractors": [
-        "(x^2 - 2y) / (2x - y^2)",
+        "(x^2 + 2y) / (y^2 - 2x)",
         "3x^2 + 3y^2",
-        "(6y - 3x^2) / (3y^2 - 6x)"
+        "(2y - x^2) / (y^2 + 2x)"
       ],
       "explanation": "3x^2 + 3y^2(dy/dx) = 6y + 6x(dy/dx). Collect dy/dx terms: dy/dx(3y^2 - 6x) = 6y - 3x^2. So dy/dx = (6y - 3x^2)/(3y^2 - 6x) = (2y - x^2)/(y^2 - 2x).",
       "memoryHook": "T-Rexy says: product rule on 6xy, gather dy/dx terms, then divide - implicit victory!",
@@ -1355,7 +1355,7 @@
         "Calculus",
         "Extrema"
       ],
-      "difficulty": 2,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps AP Calc AB"
     },
@@ -1376,7 +1376,7 @@
         "Calculus",
         "Extrema"
       ],
-      "difficulty": 2,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps AP Calc AB"
     },
@@ -1418,7 +1418,7 @@
         "Calculus",
         "Concavity"
       ],
-      "difficulty": 2,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps AP Calc AB"
     },
@@ -1460,7 +1460,7 @@
         "Calculus",
         "MVT"
       ],
-      "difficulty": 2,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps AP Calc AB"
     },
@@ -1523,7 +1523,7 @@
         "Calculus",
         "Optimization"
       ],
-      "difficulty": 2,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps AP Calc AB"
     },
@@ -1565,7 +1565,7 @@
         "Calculus",
         "Extrema"
       ],
-      "difficulty": 2,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps AP Calc AB"
     },
@@ -1796,13 +1796,13 @@
         "Calculus",
         "Integrals"
       ],
-      "difficulty": 2,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps AP Calc AB"
     },
     {
       "id": "EACALC_086",
-      "question": "State the conclusion of the Fundamental Theorem of Calculus Part 1 for F(x) = integral from a to x of f(t) dt:",
+      "question": "If F(x) = integral from a to x of f(t) dt with f continuous, find F'(x).",
       "correctAnswer": "f(x)",
       "distractors": [
         "F(x)",
@@ -1964,7 +1964,7 @@
         "Calculus",
         "Area"
       ],
-      "difficulty": 2,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps AP Calc AB"
     },
