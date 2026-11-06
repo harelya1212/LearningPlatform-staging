@@ -22,14 +22,14 @@
         "A loan from a bank",
         "A tax form"
       ],
-      "explanation": "A budget is a plan that tracks income and spending.",
+      "explanation": "A budget lists your income and assigns every dollar a job - bills, spending, and savings - before the month starts, so you can see whether your plan fits what you earn.",
       "memoryHook": "T-Rexy says: A budget is a plan for your money.",
       "imageUrl": "topic:personal-finance",
       "tags": [
         "budgeting",
         "basics"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -42,14 +42,14 @@
         "50 percent taxes, 30 percent savings, 20 percent wants",
         "50 percent wants, 30 percent needs, 20 percent taxes"
       ],
-      "explanation": "The 50/30/20 rule splits after-tax income into needs, wants, and savings or debt.",
+      "explanation": "Apply the percentages to your take-home pay: on $2,000 a month, about $1,000 goes to needs like rent and groceries, $600 to wants, and $400 to savings and extra debt payments.",
       "memoryHook": "T-Rexy says: 50 needs, 30 wants, 20 savings.",
       "imageUrl": "topic:personal-finance",
       "tags": [
         "budgeting",
         "rule"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -82,7 +82,7 @@
         "Your hourly wage only",
         "Your bonus only"
       ],
-      "explanation": "Gross pay is earnings before taxes and other deductions.",
+      "explanation": "Gross pay is the full amount you earn - hours worked times your hourly rate, or your salary - before Social Security, Medicare, income tax, and other deductions are taken out.",
       "memoryHook": "T-Rexy says: Gross is before taxes take a cut.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -102,7 +102,7 @@
         "Your salary only",
         "Your overtime pay"
       ],
-      "explanation": "Net pay is what you actually receive after deductions.",
+      "explanation": "Net pay equals gross pay minus all deductions (taxes, Social Security, Medicare, benefits). It is the amount actually deposited in your account, and it is the number your budget should be built on.",
       "memoryHook": "T-Rexy says: Net pay is what lands in your account.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -142,7 +142,7 @@
         "1 month",
         "12 months"
       ],
-      "explanation": "Experts recommend 3 to 6 months of expenses in an emergency fund.",
+      "explanation": "Add up one month of essential bills - rent, food, transport, and minimum payments - and aim to save three to six times that amount, so losing a job or facing a big repair does not force you into debt.",
       "memoryHook": "T-Rexy says: Three to six months is the emergency target.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -222,7 +222,7 @@
         "Spend everything first",
         "Save only what is left over"
       ],
-      "explanation": "Pay yourself first means moving money to savings immediately when paid.",
+      "explanation": "Treat savings like a bill that is due first: set an automatic transfer to savings on payday, before rent, shopping, or fun spending can use the money up.",
       "memoryHook": "T-Rexy says: Save first, spend the rest.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -269,7 +269,7 @@
         "economics",
         "opportunity-cost"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -282,7 +282,7 @@
         "A rise in wages only",
         "A type of tax"
       ],
-      "explanation": "Inflation means money buys less over time as prices rise.",
+      "explanation": "Inflation is measured as a yearly percentage: at 3 percent inflation, something that costs $100 today costs about $103 next year, so cash that does not grow slowly loses value.",
       "memoryHook": "T-Rexy says: Inflation makes money buy less.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -302,7 +302,7 @@
         "It stays the same",
         "It doubles"
       ],
-      "explanation": "When prices rise faster than your interest, your money buys less.",
+      "explanation": "Compare the two rates: 1 percent interest minus 3 percent inflation equals about minus 2 percent. Your balance grows in dollars but shrinks in what it can buy, which is why savings need to earn at least as much as inflation.",
       "memoryHook": "T-Rexy says: If prices rise faster than your interest, you lose ground.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -322,7 +322,7 @@
         "Savings is for spending daily",
         "Checking earns more interest"
       ],
-      "explanation": "Checking accounts handle daily transactions; savings accounts hold money and earn interest.",
+      "explanation": "Use checking for money that moves - paychecks in, bills and card purchases out. Use savings for money that sits: it stays separate from daily spending and earns interest.",
       "memoryHook": "T-Rexy says: Checking is for spending, savings is for saving.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -342,14 +342,14 @@
         "A credit card",
         "A gift card"
       ],
-      "explanation": "A debit card spends money you already have in your account.",
+      "explanation": "A debit card pulls money straight out of your checking account at the moment you pay, so you can only spend what is already in the account - unlike a credit card, nothing is borrowed.",
       "memoryHook": "T-Rexy says: Debit spends your own money.",
       "imageUrl": "topic:personal-finance",
       "tags": [
         "banking",
         "cards"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -382,7 +382,7 @@
         "A charge for depositing cash",
         "A fee for writing checks"
       ],
-      "explanation": "Using an out-of-network ATM often costs a fee.",
+      "explanation": "Another bank's ATM can charge you its own fee (often around $3), and your own bank may add a second fee, so one withdrawal can cost $5 or more. Your own bank's ATMs are free.",
       "memoryHook": "T-Rexy says: Out-of-network ATMs charge a fee.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -402,7 +402,7 @@
         "A cash payment",
         "A wire transfer to another country"
       ],
-      "explanation": "Direct deposit puts your pay straight into your account on payday.",
+      "explanation": "Your employer sends your pay electronically into your account using its routing and account numbers - no paper check to carry to the bank, and the money is usually available on the morning of payday.",
       "memoryHook": "T-Rexy says: Direct deposit puts pay straight in your account.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -462,7 +462,7 @@
         "Your debit card number",
         "Your Social Security number"
       ],
-      "explanation": "A routing number identifies the bank in electronic transfers.",
+      "explanation": "The routing number is the 9-digit code printed at the bottom left of a check. Together with your account number, it tells payment systems which bank to send money to or take money from.",
       "memoryHook": "T-Rexy says: A routing number identifies your bank.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -482,7 +482,7 @@
         "Saving money",
         "Paying a bill early"
       ],
-      "explanation": "An overdraft happens when you spend more than you have, and banks often charge a fee.",
+      "explanation": "If a payment takes your balance below zero, the bank may cover it and charge an overdraft fee (often $30 or more per item), or decline the payment. Keeping a small cushion in the account prevents both.",
       "memoryHook": "T-Rexy says: Overdraft is spending money you do not have.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -502,7 +502,7 @@
         "A credit card company",
         "A tax agency"
       ],
-      "explanation": "The FDIC insures deposits at member banks up to $250,000 per depositor.",
+      "explanation": "If an FDIC-insured bank fails, the federal government returns your deposits up to $250,000 per depositor, per bank, per account category - so your savings stay protected even if the bank itself goes out of business.",
       "memoryHook": "T-Rexy says: FDIC insurance protects your bank deposits.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -542,7 +542,7 @@
         "100 to 500",
         "500 to 1000"
       ],
-      "explanation": "FICO scores range from 300 (poor) to 850 (excellent).",
+      "explanation": "On the 300 to 850 scale, scores below about 580 are considered poor, 670 to 739 are good, and 740 and above are very good to excellent - higher scores unlock lower interest rates on loans and cards.",
       "memoryHook": "T-Rexy says: FICO runs from 300 to 850.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -562,7 +562,7 @@
         "Your job title",
         "Your address"
       ],
-      "explanation": "Payment history is the biggest factor in credit scores.",
+      "explanation": "Payment history counts for about 35 percent of a FICO score, more than any other factor. Even one payment 30 days late can drop a good score noticeably and stays on your report for years.",
       "memoryHook": "T-Rexy says: Paying on time matters most for credit.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -595,14 +595,14 @@
     },
     {
       "id": "FIN10_030",
-      "question": "How often can you get a free credit report from each bureau?",
+      "question": "Under federal law, how often are you entitled to a free credit report from each bureau?",
       "correctAnswer": "Once a year from each of the three bureaus at annualcreditreport.com",
       "distractors": [
         "Once a month",
         "Never",
         "Only when you apply for a loan"
       ],
-      "explanation": "You can get a free report yearly from Equifax, Experian, and TransUnion.",
+      "explanation": "Federal law entitles you to one free report every 12 months from each of Equifax, Experian, and TransUnion at annualcreditreport.com, and the bureaus currently also offer free weekly reports there. Spreading requests out lets you watch your credit all year.",
       "memoryHook": "T-Rexy says: You get one free report per bureau per year.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -622,7 +622,7 @@
         "A bank fee",
         "A penalty only"
       ],
-      "explanation": "Interest is what borrowers pay lenders, and what savers earn.",
+      "explanation": "Interest is stated as a percentage of the amount involved: a borrower pays it as the price of using someone else's money, while a saver earns it as payment for letting the bank use theirs.",
       "memoryHook": "T-Rexy says: Interest is the price of borrowing.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -702,7 +702,7 @@
         "A monthly payment",
         "A credit score"
       ],
-      "explanation": "APR shows the total yearly cost of a loan, including interest and fees.",
+      "explanation": "Because APR rolls the interest rate and lender fees into one yearly percentage, it lets you compare loans fairly - a loan with a lower APR costs less overall than one with a higher APR, even if their advertised rates look similar.",
       "memoryHook": "T-Rexy says: APR is the true yearly cost of borrowing.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -742,7 +742,7 @@
         "It closes your account",
         "It has no downside"
       ],
-      "explanation": "Paying only the minimum leaves a balance that accrues interest for years.",
+      "explanation": "A minimum payment is usually only about 2 to 3 percent of the balance, so the rest keeps collecting interest month after month. On a $1,000 balance at an APR above 20 percent, minimum-only payments can take many years to pay off and can cost more in interest than the original purchase.",
       "memoryHook": "T-Rexy says: Minimum payments let interest pile up.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -762,7 +762,7 @@
         "A card for businesses only",
         "A card that cannot be used online"
       ],
-      "explanation": "A secured card requires a deposit as collateral and helps build credit history.",
+      "explanation": "You hand the issuer a refundable deposit, often $200 to $500, and that deposit usually becomes your credit limit. The issuer reports your payments to the credit bureaus, so paying on time builds a real credit history.",
       "memoryHook": "T-Rexy says: A secured card uses your deposit as collateral.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -782,7 +782,7 @@
         "A line of credit is a loan only for cars",
         "A loan has no interest"
       ],
-      "explanation": "A loan is a one-time amount; a line of credit is reusable borrowing up to a limit.",
+      "explanation": "Think of a car loan versus a credit card: the loan hands you one fixed sum that you repay on a schedule, while the line of credit lets you borrow, repay, and borrow again up to the limit whenever you need it.",
       "memoryHook": "T-Rexy says: A loan is one lump sum, a line is borrow-as-needed.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -822,7 +822,7 @@
         "A bank employee",
         "A type of interest rate"
       ],
-      "explanation": "A cosigner is legally responsible for the debt if the borrower defaults.",
+      "explanation": "A cosigner signs the loan too, so the lender can demand payment from the cosigner if the borrower stops paying - and missed payments damage the cosigner's credit score as well as the borrower's.",
       "memoryHook": "T-Rexy says: A cosigner promises to pay if you cannot.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -842,7 +842,7 @@
         "Paying all debts equally",
         "Ignoring small debts"
       ],
-      "explanation": "The snowball method targets the smallest balance first to build momentum.",
+      "explanation": "List debts by balance, smallest first, pay minimums on all of them, and throw every extra dollar at the smallest. Quick wins keep people motivated, even though this method can cost more in total interest than the avalanche method.",
       "memoryHook": "T-Rexy says: Snowball starts with the smallest debt.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -862,7 +862,7 @@
         "Paying debts randomly",
         "Paying only minimums"
       ],
-      "explanation": "The avalanche method targets the highest interest rate first, saving the most money.",
+      "explanation": "List debts by interest rate, highest first, pay minimums on all of them, and attack the most expensive debt. Mathematically this pays the least total interest, which is why it beats the snowball method on cost.",
       "memoryHook": "T-Rexy says: Avalanche attacks the highest interest first.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -882,7 +882,7 @@
         "Your card is cancelled immediately",
         "Your balance is forgiven"
       ],
-      "explanation": "A missed payment can bring fees, penalty interest, and a lower credit score.",
+      "explanation": "Expect three hits: a late fee (often $25 to $40), interest on the balance, and - once a payment is 30 or more days late - a mark on your credit report that can lower your score and stay there for up to seven years.",
       "memoryHook": "T-Rexy says: A missed payment costs fees and credit points.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -922,7 +922,7 @@
         "Your credit score",
         "The interest rate"
       ],
-      "explanation": "A credit limit is the most the issuer will let you borrow.",
+      "explanation": "The issuer sets your limit based on your income and credit history. Spending up to or over the limit can mean declined purchases or fees, and using a large share of the limit can hurt your credit score.",
       "memoryHook": "T-Rexy says: A credit limit is your borrowing ceiling.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -962,7 +962,7 @@
         "100 percent",
         "It does not matter"
       ],
-      "explanation": "Keeping utilization under 30 percent is generally good for your credit score.",
+      "explanation": "Check the math on your own card: a $300 balance on a $1,000 limit is 30 percent utilization. Lower is even better - people with the highest scores typically use under 10 percent of their limits.",
       "memoryHook": "T-Rexy says: Stay under 30 percent of your limit.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1002,7 +1002,7 @@
         "Change your name",
         "Close all accounts immediately"
       ],
-      "explanation": "Report identity theft to the FTC, alert the bureaus, and review your accounts.",
+      "explanation": "Act in order: report at IdentityTheft.gov (the FTC site) to get a recovery plan, place a free fraud alert or credit freeze with the bureaus so no new accounts can be opened in your name, then review every account for charges you do not recognize.",
       "memoryHook": "T-Rexy says: Report it and freeze your credit.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1022,7 +1022,7 @@
         "A tax on property",
         "A tax on gifts"
       ],
-      "explanation": "Income tax is charged on wages, salaries, and other earnings.",
+      "explanation": "The federal government and most states take a percentage of what you earn - wages, salary, tips, and self-employment income - to pay for public services. The percentage grows in steps as income rises.",
       "memoryHook": "T-Rexy says: Income tax is a tax on what you earn.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1042,7 +1042,7 @@
         "A form for independent contractors",
         "A bank statement"
       ],
-      "explanation": "A W-2 reports your annual earnings and tax withholding.",
+      "explanation": "Your employer must send your W-2 by January 31, showing the year's wages and exactly how much tax was already withheld. You copy its numbers onto your tax return, so without it you cannot file accurately.",
       "memoryHook": "T-Rexy says: A W-2 shows your pay and taxes.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1062,7 +1062,7 @@
         "A form for the IRS only",
         "A pay stub"
       ],
-      "explanation": "A W-4 tells your employer how much tax to withhold from your pay.",
+      "explanation": "You fill out a W-4 when you start a job, and you can redo it anytime. It tells payroll how much to hold back: too little withheld means a tax bill in April; too much means a bigger refund but smaller paychecks all year.",
       "memoryHook": "T-Rexy says: A W-4 sets your withholding.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1082,7 +1082,7 @@
         "A tax refund",
         "A type of tax credit"
       ],
-      "explanation": "Deductions lower the income that tax is calculated on.",
+      "explanation": "Work an example: if your taxable income is $40,000 and you claim a $1,000 deduction, you are taxed on $39,000. In the 12 percent tax bracket that saves you $120 - a deduction is worth your tax rate times its size.",
       "memoryHook": "T-Rexy says: A deduction shrinks your taxable income.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1122,7 +1122,7 @@
         "A credit lowers income",
         "A deduction lowers the tax owed directly"
       ],
-      "explanation": "Deductions shrink the income taxed; credits shrink the tax itself.",
+      "explanation": "Compare the same $1,000 two ways: as a deduction it saves only your tax rate times $1,000 (for example $120 in the 12 percent bracket), but as a credit it takes a full $1,000 off your tax bill - which is why credits are usually worth more.",
       "memoryHook": "T-Rexy says: Deductions cut income, credits cut tax.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1162,7 +1162,7 @@
         "A tax refund",
         "A bank statement"
       ],
-      "explanation": "A 1099 reports income from freelance, contract, or investment sources.",
+      "explanation": "A 1099 (for example the 1099-NEC for freelance work) reports income where no employer withheld tax. Because nothing was held back, you may owe tax on that income when you file - a surprise many first-time freelancers miss.",
       "memoryHook": "T-Rexy says: A 1099 reports freelance income.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1182,7 +1182,7 @@
         "July 4",
         "December 31"
       ],
-      "explanation": "Federal income tax returns are generally due April 15.",
+      "explanation": "Tax Day is April 15; if it falls on a weekend or holiday, the deadline moves to the next business day. You can request an extension to file the paperwork, but any tax you owe is still due on the April date.",
       "memoryHook": "T-Rexy says: Tax Day is April 15.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1202,7 +1202,7 @@
         "A sales tax",
         "A property tax"
       ],
-      "explanation": "FICA taxes fund Social Security and Medicare programs.",
+      "explanation": "FICA appears on every pay stub: employees pay 7.65 percent of wages (6.2 percent for Social Security plus 1.45 percent for Medicare), and the employer pays another 7.65 percent on top.",
       "memoryHook": "T-Rexy says: FICA funds Social Security and Medicare.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1222,7 +1222,7 @@
         "A savings account",
         "A type of bond"
       ],
-      "explanation": "A stock is a small piece of ownership in a business.",
+      "explanation": "Each share makes you a part-owner of the company: if the company grows and profits, your shares can rise in value and may pay dividends; if it does badly, shares can lose value - there is no guaranteed return.",
       "memoryHook": "T-Rexy says: A stock is a slice of a company.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1282,7 +1282,7 @@
         "A government office",
         "A type of savings account"
       ],
-      "explanation": "The stock market is where investors trade shares of public companies.",
+      "explanation": "On exchanges like the New York Stock Exchange and Nasdaq, buyers and sellers trade shares all day, and prices move with supply and demand - how much investors are willing to pay for a piece of each company.",
       "memoryHook": "T-Rexy says: The stock market is where shares trade.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1342,7 +1342,7 @@
         "Interest paid once",
         "Growth that never changes"
       ],
-      "explanation": "Compound growth means returns generate their own returns, growing faster over time.",
+      "explanation": "Growth builds on growth: a 10 percent return on $100 makes $110, and the next 10 percent applies to the whole $110, not just the original $100. Over decades, this snowball effect does most of the work in long-term investing.",
       "memoryHook": "T-Rexy says: Compounding makes growth snowball.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1402,7 +1402,7 @@
         "A pension only for teachers",
         "A type of loan"
       ],
-      "explanation": "A Roth IRA uses after-tax dollars, and withdrawals in retirement are tax-free.",
+      "explanation": "You open a Roth IRA yourself, not through an employer, and put in money that was already taxed. Because you paid the tax going in, both your contributions and decades of earnings can come out tax-free in retirement.",
       "memoryHook": "T-Rexy says: A Roth IRA grows tax-free.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1422,7 +1422,7 @@
         "Roth is for employers only",
         "Traditional is tax-free at withdrawal"
       ],
-      "explanation": "Roth IRAs are taxed now and tax-free later; traditional IRAs are tax-deferred.",
+      "explanation": "Follow one $1,000 contribution: in a traditional IRA it may be deducted from taxes now but is taxed when withdrawn in retirement; in a Roth IRA it is taxed now and never taxed again. Which one wins depends on whether your tax rate is lower today or in retirement.",
       "memoryHook": "T-Rexy says: Roth is taxed now, traditional is taxed later.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1442,7 +1442,7 @@
         "A type of fee",
         "A tax on gains"
       ],
-      "explanation": "Risk is the possibility of losing money or earning less than expected.",
+      "explanation": "Every investment sits somewhere on the risk scale: a savings account risks almost nothing but may lose ground to inflation, while a single company's stock can gain or lose 20 percent in a year. Risk means the outcome is not guaranteed.",
       "memoryHook": "T-Rexy says: Higher returns usually mean higher risk.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1462,7 +1462,7 @@
         "There is no relationship",
         "Low risk always earns more"
       ],
-      "explanation": "Investments with higher expected returns typically carry more risk.",
+      "explanation": "The pattern shows up everywhere: insured savings pay a little with almost no risk, bonds pay more with some risk, and stocks have paid the most over long periods, with the deepest drops along the way. A promise of high returns with no risk is a warning sign of a scam.",
       "memoryHook": "T-Rexy says: More risk, more potential reward.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1482,7 +1482,7 @@
         "A tax",
         "A fee for trading"
       ],
-      "explanation": "Dividends are cash payments companies share with stockholders.",
+      "explanation": "When a profitable company pays a dividend, each share you own earns a set amount (for example $0.50 per share), often paid every three months. You can take the cash or reinvest it to buy more shares.",
       "memoryHook": "T-Rexy says: Dividends are profit shared with owners.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1542,7 +1542,7 @@
         "A type of claim",
         "A discount on insurance"
       ],
-      "explanation": "A premium is the regular payment that keeps your insurance active.",
+      "explanation": "Premiums are usually billed monthly or yearly, and they buy coverage for that period only - stop paying and the policy lapses, leaving you unprotected even if you paid faithfully for years before.",
       "memoryHook": "T-Rexy says: A premium is what you pay for coverage.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1582,7 +1582,7 @@
         "A policy renewal",
         "A discount"
       ],
-      "explanation": "A claim asks the insurer to pay for damage or loss covered by your policy.",
+      "explanation": "After a covered event, such as a car crash, you file a claim describing what happened, and the insurer decides whether the policy covers it and how much to pay, minus your deductible.",
       "memoryHook": "T-Rexy says: A claim asks the insurer to pay up.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1602,7 +1602,7 @@
         "Theft of your car",
         "Your medical bills only"
       ],
-      "explanation": "Liability coverage pays for harm you cause to other people or their property.",
+      "explanation": "If you rear-end another car, your liability coverage pays for their repairs and medical bills, not yours. Because one accident can cost far more than a car is worth, states require drivers to carry a minimum amount of it.",
       "memoryHook": "T-Rexy says: Liability covers what you do to others.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1622,7 +1622,7 @@
         "Theft only",
         "Medical bills only"
       ],
-      "explanation": "Collision coverage pays to repair your own car after a crash.",
+      "explanation": "Collision pays for your own car when you hit another vehicle or an object, after your deductible: if the deductible is $500 and repairs cost $2,000, the insurer pays $1,500. Lenders usually require it on financed cars.",
       "memoryHook": "T-Rexy says: Collision covers your own car.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1642,7 +1642,7 @@
         "It pays for all costs",
         "It replaces savings"
       ],
-      "explanation": "Health insurance shares the cost of medical care between you and the insurer.",
+      "explanation": "Without insurance, one emergency room visit can cost thousands of dollars. With it, you pay premiums plus smaller set shares - copays, a deductible, and part of big bills - while the insurer covers the rest up to your plan's limits.",
       "memoryHook": "T-Rexy says: Health insurance shares medical costs.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1662,7 +1662,7 @@
         "Your deductible",
         "The insurer's payment"
       ],
-      "explanation": "A copay is a set fee you pay at the time of a visit or prescription.",
+      "explanation": "Your insurance card lists copays, such as $25 for a doctor visit or $10 for a generic prescription. You pay that flat amount at the counter no matter what the provider's full price is, and the insurer handles the rest of the covered cost.",
       "memoryHook": "T-Rexy says: A copay is a fixed fee per visit.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1722,7 +1722,7 @@
         "A receipt",
         "A sales tax"
       ],
-      "explanation": "A warranty is the maker's promise to fix or replace a faulty product.",
+      "explanation": "Warranties come free with the product and cover defects for a set time, often 90 days to a few years: if the product stops working because it was made badly, the maker must repair, replace, or refund it.",
       "memoryHook": "T-Rexy says: A warranty is a promise to fix it.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1742,7 +1742,7 @@
         "A warranty costs more",
         "Insurance covers defects only"
       ],
-      "explanation": "Warranties cover product defects; insurance covers accidents, theft, and other losses.",
+      "explanation": "Use the cause to tell them apart: a phone battery that dies on its own is a defect (warranty), but a phone dropped in a lake is an accident (insurance). Warranties come from the maker; insurance is a separate contract you buy.",
       "memoryHook": "T-Rexy says: Warranties cover defects, insurance covers losses.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1762,7 +1762,7 @@
         "Buying the most expensive item",
         "Buying only online"
       ],
-      "explanation": "Comparison shopping means looking at options to find the best value.",
+      "explanation": "Compare the total cost, not just the sticker price: add tax, shipping, and fees, and check the same item at two or three sellers. Five minutes of comparing can save real money on a big purchase.",
       "memoryHook": "T-Rexy says: Compare before you buy.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1782,7 +1782,7 @@
         "The tax on a product",
         "The sale price"
       ],
-      "explanation": "Unit price lets you compare different sizes fairly.",
+      "explanation": "Do the division: a 16-ounce box at $4.00 costs $0.25 per ounce, while a 32-ounce box at $6.40 costs $0.20 per ounce - the bigger box is the better deal even though its sticker price is higher. Shelf tags often show the unit price for you.",
       "memoryHook": "T-Rexy says: Unit price shows the cost per ounce.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1802,7 +1802,7 @@
         "A coupon",
         "A gift card"
       ],
-      "explanation": "A refund returns your money after a return.",
+      "explanation": "A refund puts the purchase price back onto your original payment method. It is different from an exchange (swapping for another item) or store credit (money you can only spend at that store), so check the store's return policy first.",
       "memoryHook": "T-Rexy says: A refund gives your money back.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1822,7 +1822,7 @@
         "A type of advertisement",
         "A bank fee"
       ],
-      "explanation": "A scam is a fraud designed to steal money or personal information.",
+      "explanation": "Scams share a recipe: an unexpected message, a story that creates fear or excitement, and pressure to pay or share information fast. If an offer sounds too good to be true, it almost always is.",
       "memoryHook": "T-Rexy says: A scam is a trick to steal your money.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1842,7 +1842,7 @@
         "A known company name",
         "A receipt"
       ],
-      "explanation": "Scammers rush you and demand unusual payment methods like gift cards.",
+      "explanation": "Real companies and government agencies never demand payment by gift card, wire transfer, or cryptocurrency, and never threaten arrest for instant payment. Pressure is the tool: hang up and check the real organization through its official number or website.",
       "memoryHook": "T-Rexy says: Scammers rush you and want gift cards.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1862,7 +1862,7 @@
         "A computer virus only",
         "A bank service"
       ],
-      "explanation": "Phishing messages pretend to be trusted sources to steal passwords or money.",
+      "explanation": "Phishing emails and texts copy the logos of banks, delivery companies, or schools to look real. Spot them by checking the sender's actual address, looking at links before clicking, and watching for urgent threats about your account.",
       "memoryHook": "T-Rexy says: Phishing is a fake message fishing for your info.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1902,7 +1902,7 @@
         "A gift",
         "A tax form"
       ],
-      "explanation": "A receipt proves you bought something, which you need for returns and warranties.",
+      "explanation": "Keep receipts (a photo on your phone works), because stores can refuse a return without one, warranty claims ask for proof of the purchase date, and receipts let you check your statements for billing errors at the end of the month.",
       "memoryHook": "T-Rexy says: Keep receipts for returns and warranties.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1922,7 +1922,7 @@
         "To use more paper",
         "There is no reason"
       ],
-      "explanation": "Records help you budget, file taxes, and handle disputes.",
+      "explanation": "Keep pay stubs, statements, and tax returns organized - the IRS generally recommends holding tax records for at least three years. Records are also your proof in a dispute: the person with documents usually wins.",
       "memoryHook": "T-Rexy says: Records prove what you spent and earned.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1942,7 +1942,7 @@
         "Pay it without question",
         "Cancel all accounts"
       ],
-      "explanation": "Dispute billing errors in writing and keep copies of everything.",
+      "explanation": "Federal law (the Fair Credit Billing Act) protects you on credit card billing errors: dispute in writing within 60 days of the statement date, and you do not have to pay the disputed amount while the company investigates. Writing creates a paper trail a phone call cannot.",
       "memoryHook": "T-Rexy says: Dispute errors in writing and keep copies.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -1962,7 +1962,7 @@
         "A loan",
         "A gift"
       ],
-      "explanation": "A subscription charges you regularly for ongoing access to a service.",
+      "explanation": "Subscriptions renew automatically until you cancel, including free trials that quietly turn into paid plans. A $12 monthly service you forget about costs $144 a year, which is why subscriptions belong in your budget as a fixed expense.",
       "memoryHook": "T-Rexy says: Subscriptions charge you again and again.",
       "imageUrl": "topic:personal-finance",
       "tags": [
@@ -2002,7 +2002,7 @@
         "They come with warranties",
         "They are always newer"
       ],
-      "explanation": "Used items cost less and reuse resources.",
+      "explanation": "The first owner absorbs the biggest price drop - a new car can lose around 20 percent of its value in its first year - so buying used lets someone else pay for that depreciation. The tradeoff is little or no warranty, so inspect before you buy.",
       "memoryHook": "T-Rexy says: Used items save money and resources.",
       "imageUrl": "topic:personal-finance",
       "tags": [
