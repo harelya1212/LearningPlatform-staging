@@ -16,20 +16,22 @@
   "questions": [
     {
       "id": "ESP_001",
-      "question": "Which Spanish verb means 'to speak'?",
-      "correctAnswer": "hablar",
+      "question": "En muchas zonas rurales, los estudiantes no tienen acceso a Internet de alta velocidad. Esta «brecha digital» limita sus oportunidades educativas. ¿Qué significa «brecha digital»?",
+      "correctAnswer": "La desigualdad en el acceso a la tecnología y a Internet",
       "distractors": [
-        "comer",
-        "vivir",
-        "escribir"
+        "Un tipo de computadora muy rápida",
+        "Un programa para aprender idiomas en línea",
+        "La velocidad máxima de una conexión inalámbrica"
       ],
-      "explanation": "Hablar means 'to speak' or 'to talk' in Spanish. It is a regular -ar verb.",
-      "memoryHook": "T-Rexy says: Hablar is how you start every conversation!",
-      "imageUrl": "topic:spanish-verb-hablar",
+      "explanation": "«Brecha» means a gap or divide, so «brecha digital» is the digital divide: the unequal access to technology and the Internet between different groups or regions. It is a central idea in the AP theme La ciencia y la tecnología, under the context El acceso a la tecnología.",
+      "memoryHook": "T-Rexy says: Picture a canyon (una brecha) between two towns - one side has fast Wi-Fi and the other has none. That gap is la brecha digital.",
+      "imageUrl": "topic:ap-spanish-brecha-digital",
       "tags": [
         "spanish",
+        "ciencia-y-tecnologia",
+        "acceso-a-la-tecnologia",
         "vocabulary",
-        "verbs"
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -37,20 +39,22 @@
     },
     {
       "id": "ESP_002",
-      "question": "What is the Spanish word for 'house'?",
-      "correctAnswer": "casa",
+      "question": "Gracias a la telemedicina, los pacientes de pueblos pequeños pueden hablar con un médico sin viajar a la ciudad. ¿Qué es la telemedicina?",
+      "correctAnswer": "La atención médica a distancia por medio de la tecnología",
       "distractors": [
-        "perro",
-        "libro",
-        "mesa"
+        "Un hospital especializado en tecnología",
+        "Un medicamento nuevo para enfermedades graves",
+        "El estudio de las plantas medicinales"
       ],
-      "explanation": "Casa means 'house' in Spanish. It is a feminine noun, so it takes 'la'.",
-      "memoryHook": "T-Rexy says: Mi casa is your casa too!",
-      "imageUrl": "topic:spanish-word-casa",
+      "explanation": "La telemedicina (tele- = distance, as in teléfono) is medical care provided remotely through video calls, apps, and messages. It belongs to the context El cuidado de la salud y la medicina within the AP theme La ciencia y la tecnología.",
+      "memoryHook": "T-Rexy says: Tele- means 'far away' - la telemedicina is a doctor's visit from far away, through a screen.",
+      "imageUrl": "topic:ap-spanish-telemedicina",
       "tags": [
         "spanish",
+        "ciencia-y-tecnologia",
+        "cuidado-de-la-salud",
         "vocabulary",
-        "nouns"
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -58,20 +62,22 @@
     },
     {
       "id": "ESP_003",
-      "question": "Which form of 'ser' goes with 'yo' (I)?",
-      "correctAnswer": "soy",
+      "question": "El aumento de la temperatura del planeta, causado por los gases de efecto invernadero, se conoce como ______.",
+      "correctAnswer": "el calentamiento global",
       "distractors": [
-        "eres",
-        "es",
-        "son"
+        "la deforestación",
+        "el reciclaje",
+        "la contaminación del agua"
       ],
-      "explanation": "Soy is the yo form of ser in the present tense. Ser is used for identity and origin.",
-      "memoryHook": "T-Rexy says: Yo soy means I am - start with soy!",
-      "imageUrl": "topic:spanish-ser-yo",
+      "explanation": "El calentamiento global is global warming: the rise in the planet's temperature caused by greenhouse gases (los gases de efecto invernadero). It is a core topic of Los temas del medio ambiente in the AP theme Los desafíos mundiales.",
+      "memoryHook": "T-Rexy says: Calentamiento = warming up - el calentamiento global is the planet running a fever.",
+      "imageUrl": "topic:ap-spanish-calentamiento-global",
       "tags": [
         "spanish",
-        "grammar",
-        "ser"
+        "desafios-mundiales",
+        "medio-ambiente",
+        "vocabulary",
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -79,20 +85,22 @@
     },
     {
       "id": "ESP_004",
-      "question": "How do you say 'thank you' in Spanish?",
-      "correctAnswer": "gracias",
+      "question": "En la Amazonía, la destrucción de grandes áreas de bosque para la agricultura amenaza a miles de especies. ¿Cómo se llama este problema ambiental?",
+      "correctAnswer": "La deforestación",
       "distractors": [
-        "hola",
-        "adiós",
-        "perdón"
+        "La reforestación",
+        "La erosión del suelo",
+        "El reciclaje de plásticos"
       ],
-      "explanation": "Gracias means 'thank you' in Spanish and is one of the most useful polite words.",
-      "memoryHook": "T-Rexy says: Gracias opens every door!",
-      "imageUrl": "topic:spanish-word-gracias",
+      "explanation": "La deforestación is the destruction or clearing of forests; note the trap la reforestación, which means the opposite - planting trees again (re-). The Amazon rainforest is a classic AP example in Los temas del medio ambiente.",
+      "memoryHook": "T-Rexy says: De- takes the forest away; re- (reforestación) puts it back.",
+      "imageUrl": "topic:ap-spanish-deforestacion-amazonia",
       "tags": [
         "spanish",
+        "desafios-mundiales",
+        "medio-ambiente",
         "vocabulary",
-        "politeness"
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -121,20 +129,22 @@
     },
     {
       "id": "ESP_006",
-      "question": "Which Spanish verb means 'to eat'?",
-      "correctAnswer": "comer",
+      "question": "Lee la frase: «Aunque las redes sociales facilitan la comunicación, también pueden causar adicción en los adolescentes». Según la frase, ¿cuál es un efecto negativo de las redes sociales?",
+      "correctAnswer": "Pueden crear dependencia en los jóvenes",
       "distractors": [
-        "beber",
-        "dormir",
-        "correr"
+        "Facilitan la comunicación instantánea",
+        "Conectan a personas de diferentes países",
+        "Ayudan a compartir información rápidamente"
       ],
-      "explanation": "Comer means 'to eat' in Spanish. It is a regular -er verb.",
-      "memoryHook": "T-Rexy says: Comer comes before siesta!",
-      "imageUrl": "topic:spanish-verb-comer",
+      "explanation": "The sentence concedes a benefit (facilitan la comunicación), but the negative effect comes after «también»: pueden causar adicción. Adicción and dependencia are synonyms here. This is the context Los efectos de la tecnología en el individuo y en la sociedad.",
+      "memoryHook": "T-Rexy says: «Aunque» signals a contrast coming - the downside hides after it. Here the downside is la adicción.",
+      "imageUrl": "topic:ap-spanish-redes-sociales-efectos",
       "tags": [
         "spanish",
-        "vocabulary",
-        "verbs"
+        "ciencia-y-tecnologia",
+        "efectos-de-la-tecnologia",
+        "reading",
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -142,20 +152,22 @@
     },
     {
       "id": "ESP_007",
-      "question": "What does 'hola' mean in English?",
-      "correctAnswer": "hello",
+      "question": "Lee el texto: «En muchos países, la población está envejeciendo: hay más personas mayores y menos nacimientos. Como resultado, los gobiernos deben pensar en cómo pagar las pensiones y cuidar la salud de los ancianos». Según el texto, ¿cuál es una consecuencia del envejecimiento de la población?",
+      "correctAnswer": "Los gobiernos deben planear el pago de pensiones y el cuidado de los mayores",
       "distractors": [
-        "goodbye",
-        "please",
-        "sorry"
+        "Aumenta rápidamente el número de nacimientos",
+        "Hay más niños en las escuelas primarias",
+        "Disminuye la necesidad de servicios de salud"
       ],
-      "explanation": "Hola is the standard Spanish greeting meaning 'hello' or 'hi'.",
-      "memoryHook": "T-Rexy says: Hola starts every friendship!",
-      "imageUrl": "topic:spanish-word-hola",
+      "explanation": "The text gives the consequence directly: governments must plan for las pensiones and la salud de los ancianos. The other options contradict the text - births are falling (menos nacimientos) and health needs grow, not shrink. This is La población y la demografía in Los desafíos mundiales.",
+      "memoryHook": "T-Rexy says: More abuelos, fewer bebés - la población está envejeciendo.",
+      "imageUrl": "topic:ap-spanish-poblacion-envejecimiento",
       "tags": [
         "spanish",
-        "vocabulary",
-        "greetings"
+        "desafios-mundiales",
+        "poblacion-y-demografia",
+        "reading",
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -163,20 +175,22 @@
     },
     {
       "id": "ESP_008",
-      "question": "Which article goes with 'libro' (book)?",
-      "correctAnswer": "el",
+      "question": "Cuando una familia no tiene suficientes recursos para cubrir sus necesidades básicas, como la comida y la vivienda, vive en ______.",
+      "correctAnswer": "la pobreza",
       "distractors": [
-        "la",
-        "los",
-        "las"
+        "la abundancia",
+        "la riqueza",
+        "la estabilidad"
       ],
-      "explanation": "Libro is masculine, so it takes 'el'. El libro means 'the book'.",
-      "memoryHook": "T-Rexy says: El libro is masculine - remember el!",
-      "imageUrl": "topic:spanish-article-libro",
+      "explanation": "La pobreza (poverty) is the lack of resources to cover basic needs - food (la comida), housing (la vivienda), health. It is the opposite of la riqueza (wealth) and la abundancia (abundance), and a central topic in Los temas económicos.",
+      "memoryHook": "T-Rexy says: Pobreza is when the basics - comida, vivienda - are out of reach.",
+      "imageUrl": "topic:ap-spanish-pobreza",
       "tags": [
         "spanish",
-        "grammar",
-        "articles"
+        "desafios-mundiales",
+        "temas-economicos",
+        "vocabulary",
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -184,20 +198,22 @@
     },
     {
       "id": "ESP_009",
-      "question": "What is the Spanish word for 'dog'?",
-      "correctAnswer": "perro",
+      "question": "Un programa de computadora que aprende de la información y puede reconocer voces e imágenes es un ejemplo de ______.",
+      "correctAnswer": "inteligencia artificial",
       "distractors": [
-        "gato",
-        "pájaro",
-        "pez"
+        "realidad virtual",
+        "correo electrónico",
+        "red social"
       ],
-      "explanation": "Perro means 'dog' in Spanish. Gato is cat, pájaro is bird, pez is fish.",
-      "memoryHook": "T-Rexy says: El perro is man's best amigo!",
-      "imageUrl": "topic:spanish-word-perro",
+      "explanation": "La inteligencia artificial (IA) refers to computer systems that learn from data and perform tasks such as recognizing speech and images. It is one of Las innovaciones tecnológicas in the AP theme La ciencia y la tecnología.",
+      "memoryHook": "T-Rexy says: If the program aprende (learns) by itself, think IA - inteligencia artificial.",
+      "imageUrl": "topic:ap-spanish-inteligencia-artificial",
       "tags": [
         "spanish",
+        "ciencia-y-tecnologia",
+        "innovaciones-tecnologicas",
         "vocabulary",
-        "animals"
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -205,20 +221,23 @@
     },
     {
       "id": "ESP_010",
-      "question": "Which form of 'tener' goes with 'tú' (you, informal)?",
-      "correctAnswer": "tienes",
+      "question": "Completa la oración: «Es importante que todos nosotros ______ el agua en casa».",
+      "correctAnswer": "ahorremos",
       "distractors": [
-        "tengo",
-        "tiene",
-        "tenemos"
+        "ahorramos",
+        "ahorrar",
+        "ahorraron"
       ],
-      "explanation": "Tienes is the tú form of tener. Tener is irregular in the present tense.",
-      "memoryHook": "T-Rexy says: Tú tienes - you have it!",
-      "imageUrl": "topic:spanish-tener-tu",
+      "explanation": "Impersonal expressions of importance (es importante que) trigger the subjunctive, and with the subject nosotros the form is ahorremos, from ahorrar (to save). Ahorramos is indicative, ahorrar is the infinitive, and ahorraron is preterite.",
+      "memoryHook": "T-Rexy says: Es importante que opens the subjunctive door - ahorrar steps through as ahorremos.",
+      "imageUrl": "topic:ap-spanish-ahorrar-agua",
       "tags": [
         "spanish",
+        "desafios-mundiales",
+        "medio-ambiente",
         "grammar",
-        "tener"
+        "subjunctive",
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -226,20 +245,22 @@
     },
     {
       "id": "ESP_011",
-      "question": "How do you say 'good morning' in Spanish?",
-      "correctAnswer": "buenos días",
+      "question": "La cantidad de gases contaminantes que produce una persona o una actividad se llama ______.",
+      "correctAnswer": "la huella de carbono",
       "distractors": [
-        "buenas noches",
-        "buenas tardes",
-        "hasta luego"
+        "la capa de ozono",
+        "el nivel del mar",
+        "la biodiversidad"
       ],
-      "explanation": "Buenos días means 'good morning' and is used until around noon.",
-      "memoryHook": "T-Rexy says: Buenos días starts the day right!",
-      "imageUrl": "topic:spanish-greeting-morning",
+      "explanation": "La huella de carbono (carbon footprint) measures the greenhouse gases produced by a person, a product, or an activity. Una huella is a footprint or trace - the mark our activities leave on the atmosphere. It belongs to Los temas del medio ambiente.",
+      "memoryHook": "T-Rexy says: Huella = footprint. Your huella de carbono is the mark your day leaves on the sky.",
+      "imageUrl": "topic:ap-spanish-huella-de-carbono",
       "tags": [
         "spanish",
+        "desafios-mundiales",
+        "medio-ambiente",
         "vocabulary",
-        "greetings"
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -247,20 +268,23 @@
     },
     {
       "id": "ESP_012",
-      "question": "What is the Spanish word for 'water'?",
-      "correctAnswer": "agua",
+      "question": "Completa la oración: «Si los gobiernos invirtieran más en infraestructura digital, más estudiantes ______ acceso a clases en línea».",
+      "correctAnswer": "tendrían",
       "distractors": [
-        "leche",
-        "pan",
-        "arroz"
+        "tienen",
+        "tuvieron",
+        "tengan"
       ],
-      "explanation": "Agua means 'water' in Spanish. It is feminine but takes 'el' in singular for pronunciation.",
-      "memoryHook": "T-Rexy says: Agua is life - drink it up!",
-      "imageUrl": "topic:spanish-word-agua",
+      "explanation": "This is a hypothetical si-clause: si + imperfect subjunctive (invirtieran) pairs with the conditional in the result clause, so the correct form is tendrían (they would have). Tienen is present, tuvieron is preterite, and tengan is present subjunctive - none of them completes the hypothetical pattern si + imperfecto de subjuntivo → condicional.",
+      "memoryHook": "T-Rexy says: Si + -ra form (invirtieran) always calls for the -ría form (tendrían) - they travel as a pair.",
+      "imageUrl": "topic:ap-spanish-inversion-digital",
       "tags": [
         "spanish",
-        "vocabulary",
-        "food"
+        "ciencia-y-tecnologia",
+        "acceso-a-la-tecnologia",
+        "grammar",
+        "si-clauses",
+        "ap-theme"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -289,20 +313,22 @@
     },
     {
       "id": "ESP_014",
-      "question": "What does 'adiós' mean?",
-      "correctAnswer": "goodbye",
+      "question": "Lee el texto: «En un barrio de la ciudad, un grupo de voluntarios abrió un comedor comunitario donde las personas sin hogar pueden comer gratis todos los días. También ofrecen clases para ayudar a los visitantes a buscar empleo». ¿Cuál es el propósito principal del comedor comunitario?",
+      "correctAnswer": "Ayudar a las personas necesitadas con comida y apoyo para encontrar trabajo",
       "distractors": [
-        "hello",
-        "thank you",
-        "please"
+        "Enseñar a cocinar platos tradicionales",
+        "Vender comida barata a los vecinos del barrio",
+        "Crear un restaurante para los turistas"
       ],
-      "explanation": "Adiós means 'goodbye' in Spanish, used when parting.",
-      "memoryHook": "T-Rexy says: Adiós means see you later!",
-      "imageUrl": "topic:spanish-word-adios",
+      "explanation": "The text says the volunteers feed las personas sin hogar (homeless people) for free and help them buscar empleo (look for work) - food plus job support. Community programs like this are part of El bienestar social in Los desafíos mundiales.",
+      "memoryHook": "T-Rexy says: Un comedor comunitario feeds the body and the future - comida hoy, empleo mañana.",
+      "imageUrl": "topic:ap-spanish-comedor-comunitario",
       "tags": [
         "spanish",
-        "vocabulary",
-        "greetings"
+        "desafios-mundiales",
+        "bienestar-social",
+        "reading",
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -310,20 +336,22 @@
     },
     {
       "id": "ESP_015",
-      "question": "Which verb means 'to live' in Spanish?",
-      "correctAnswer": "vivir",
+      "question": "Los paneles solares convierten la luz del sol en electricidad. ¿Cómo se clasifica esta fuente de energía?",
+      "correctAnswer": "Es una energía renovable",
       "distractors": [
-        "morir",
-        "salir",
-        "venir"
+        "Es un combustible fósil",
+        "Es energía nuclear",
+        "Es un fenómeno natural sin uso práctico"
       ],
-      "explanation": "Vivir means 'to live' in Spanish. It is a regular -ir verb.",
-      "memoryHook": "T-Rexy says: Vivir is to live life fully!",
-      "imageUrl": "topic:spanish-verb-vivir",
+      "explanation": "Solar energy is una energía renovable because the sun's light is naturally replenished and does not run out, unlike los combustibles fósiles (coal, oil, gas). Solar technology is part of Las innovaciones tecnológicas in La ciencia y la tecnología.",
+      "memoryHook": "T-Rexy says: If nature refills it for free - sol, viento, agua - it is renovable.",
+      "imageUrl": "topic:ap-spanish-energia-renovable",
       "tags": [
         "spanish",
+        "ciencia-y-tecnologia",
+        "innovaciones-tecnologicas",
         "vocabulary",
-        "verbs"
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -331,20 +359,23 @@
     },
     {
       "id": "ESP_016",
-      "question": "What is the plural of 'el libro'?",
-      "correctAnswer": "los libros",
+      "question": "Completa la oración: «Con una computadora más rápida, yo ______ todos mis proyectos en menos tiempo».",
+      "correctAnswer": "terminaría",
       "distractors": [
-        "las libros",
-        "el libros",
-        "los libro"
+        "termino",
+        "terminé",
+        "termine"
       ],
-      "explanation": "Masculine plural takes 'los' and the noun adds -s: los libros.",
-      "memoryHook": "T-Rexy says: Los libros - add s and switch to los!",
-      "imageUrl": "topic:spanish-plural-libros",
+      "explanation": "The phrase «con una computadora más rápida» sets up a hypothetical situation, so Spanish uses the conditional: terminaría (I would finish). The conditional of regular verbs is formed with the infinitive + -ía: terminar + ía = terminaría.",
+      "memoryHook": "T-Rexy says: The -ría ending is the 'would' ending - terminaría = I would finish.",
+      "imageUrl": "topic:ap-spanish-computadora-rapida",
       "tags": [
         "spanish",
+        "ciencia-y-tecnologia",
+        "efectos-de-la-tecnologia",
         "grammar",
-        "plurals"
+        "conditional",
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -373,20 +404,22 @@
     },
     {
       "id": "ESP_018",
-      "question": "What does 'por favor' mean?",
-      "correctAnswer": "please",
+      "question": "Un movimiento social lucha para que todas las personas tengan los mismos derechos y oportunidades, sin importar su origen. ¿Qué valor defiende el movimiento?",
+      "correctAnswer": "La igualdad",
       "distractors": [
-        "excuse me",
-        "thank you",
-        "sorry"
+        "La competencia",
+        "La tradición",
+        "La autoridad"
       ],
-      "explanation": "Por favor means 'please' in Spanish and is essential for polite requests.",
-      "memoryHook": "T-Rexy says: Por favor makes requests polite!",
-      "imageUrl": "topic:spanish-word-por-favor",
+      "explanation": "Los mismos derechos y oportunidades para todos is la igualdad (equality). Social movements that defend equality are an expression of La conciencia social in the AP theme Los desafíos mundiales.",
+      "memoryHook": "T-Rexy says: Mismos derechos, mismas oportunidades - that is la igualdad.",
+      "imageUrl": "topic:ap-spanish-igualdad-derechos",
       "tags": [
         "spanish",
+        "desafios-mundiales",
+        "conciencia-social",
         "vocabulary",
-        "politeness"
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -394,20 +427,22 @@
     },
     {
       "id": "ESP_019",
-      "question": "Which form of 'ir' goes with 'nosotros' (we)?",
-      "correctAnswer": "vamos",
+      "question": "Lee el texto: «Los científicos usan satélites para observar los huracanes desde el espacio. Con estas imágenes, pueden predecir la trayectoria de la tormenta y avisar a las comunidades costeras con varios días de anticipación». ¿Cuál es el propósito principal de los satélites según el texto?",
+      "correctAnswer": "Ayudar a predecir las tormentas y proteger a las comunidades",
       "distractors": [
-        "voy",
-        "vas",
-        "van"
+        "Fotografiar las costas para los turistas",
+        "Reemplazar a los científicos en la Tierra",
+        "Controlar el clima de la región"
       ],
-      "explanation": "Vamos is the nosotros form of ir. Ir is highly irregular in the present.",
-      "memoryHook": "T-Rexy says: Vamos - let's go together!",
-      "imageUrl": "topic:spanish-ir-nosotros",
+      "explanation": "The text states that the satellites let scientists predecir la trayectoria (predict the path) and avisar a las comunidades (warn the communities) - prediction and protection, not control of the weather. This connects technology with Los fenómenos naturales.",
+      "memoryHook": "T-Rexy says: Los satélites are the sky's weather reporters - they watch la tormenta so people can prepare.",
+      "imageUrl": "topic:ap-spanish-satelites-huracanes",
       "tags": [
         "spanish",
-        "grammar",
-        "ir"
+        "ciencia-y-tecnologia",
+        "fenomenos-naturales",
+        "reading",
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -415,20 +450,22 @@
     },
     {
       "id": "ESP_020",
-      "question": "What is the Spanish word for 'friend' (male)?",
-      "correctAnswer": "amigo",
+      "question": "Cuando miles de personas se trasladan del campo a la ciudad para vivir y trabajar, participan en un proceso de ______.",
+      "correctAnswer": "migración",
       "distractors": [
-        "hermano",
-        "padre",
-        "hijo"
+        "urbanización",
+        "globalización",
+        "deforestación"
       ],
-      "explanation": "Amigo means 'friend' (male). Hermano is brother, padre is father, hijo is son.",
-      "memoryHook": "T-Rexy says: Un amigo is a treasure!",
-      "imageUrl": "topic:spanish-word-amigo",
+      "explanation": "La migración is the movement of people from one place to another in order to live and work. La urbanización describes the growth of cities themselves, while la migración names the people's movement - a key idea in La población y la demografía.",
+      "memoryHook": "T-Rexy says: People on the move = migración. The growing city they build = urbanización.",
+      "imageUrl": "topic:ap-spanish-migracion-campo-ciudad",
       "tags": [
         "spanish",
+        "desafios-mundiales",
+        "poblacion-y-demografia",
         "vocabulary",
-        "people"
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -457,20 +494,22 @@
     },
     {
       "id": "ESP_022",
-      "question": "What does 'la escuela' mean?",
-      "correctAnswer": "the school",
+      "question": "Antes de instalar una aplicación, es importante leer cómo la empresa usa tus datos personales. ¿Qué concepto se relaciona con la protección de tu información personal?",
+      "correctAnswer": "La privacidad",
       "distractors": [
-        "the house",
-        "the church",
-        "the store"
+        "La pantalla",
+        "La batería",
+        "La actualización"
       ],
-      "explanation": "Escuela is a feminine noun, so it takes the feminine article la. The same agreement pattern gives la casa and la mesa - the article must match the noun's gender.",
-      "memoryHook": "T-Rexy says: La escuela is where you learn!",
-      "imageUrl": "topic:spanish-word-escuela",
+      "explanation": "La privacidad (privacy) is the concept behind protecting your datos personales - who can see and use your information. Debates about privacy and data are part of La ciencia y la ética in the AP theme La ciencia y la tecnología.",
+      "memoryHook": "T-Rexy says: Tus datos personales are your digital diary - la privacidad is the lock on it.",
+      "imageUrl": "topic:ap-spanish-privacidad-datos",
       "tags": [
         "spanish",
+        "ciencia-y-tecnologia",
+        "ciencia-y-etica",
         "vocabulary",
-        "places"
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -478,20 +517,22 @@
     },
     {
       "id": "ESP_023",
-      "question": "Which verb means 'to write' in Spanish?",
-      "correctAnswer": "escribir",
+      "question": "Guardar documentos en «la nube» permite acceder a ellos desde cualquier dispositivo con Internet. ¿Qué significa «la nube» en este contexto?",
+      "correctAnswer": "Un sistema de almacenamiento de datos en Internet",
       "distractors": [
-        "leer",
-        "hablar",
-        "escuchar"
+        "Una parte física de la computadora",
+        "Un tipo de pantalla para tabletas",
+        "Un programa para editar fotografías"
       ],
-      "explanation": "Escribir means 'to write' in Spanish. Leer is to read, hablar to speak, escuchar to listen.",
-      "memoryHook": "T-Rexy says: Escribir writes your story!",
-      "imageUrl": "topic:spanish-verb-escribir",
+      "explanation": "In technology, la nube (the cloud) is not weather: it is remote storage on Internet servers, so files can be opened from any connected device. Almacenamiento means storage.",
+      "memoryHook": "T-Rexy says: La nube here is not in the sky - your files float on servers, not on water vapor.",
+      "imageUrl": "topic:ap-spanish-la-nube",
       "tags": [
         "spanish",
+        "ciencia-y-tecnologia",
+        "innovaciones-tecnologicas",
         "vocabulary",
-        "verbs"
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -499,20 +540,23 @@
     },
     {
       "id": "ESP_024",
-      "question": "How do you say 'I am from Mexico' in Spanish?",
-      "correctAnswer": "Soy de México",
+      "question": "Completa la oración: «Los ciudadanos esperan que el gobierno ______ nuevas leyes para proteger los ríos y los bosques».",
+      "correctAnswer": "apruebe",
       "distractors": [
-        "Estoy de México",
-        "Vivo de México",
-        "Tengo de México"
+        "aprueba",
+        "aprobar",
+        "aprobó"
       ],
-      "explanation": "Soy de México uses ser for origin. Ser is used for where someone is from.",
-      "memoryHook": "T-Rexy says: Soy de... tells where you're from!",
-      "imageUrl": "topic:spanish-origin-ser",
+      "explanation": "Esperar que (to hope that) expresses hope about another subject's action, so it requires the present subjunctive: apruebe, from aprobar (to pass or approve a law). Aprueba is indicative, aprobar is the infinitive, and aprobó is preterite.",
+      "memoryHook": "T-Rexy says: Esperan que = fingers crossed - hope triggers the subjunctive: apruebe.",
+      "imageUrl": "topic:ap-spanish-leyes-ambientales",
       "tags": [
         "spanish",
+        "desafios-mundiales",
+        "medio-ambiente",
         "grammar",
-        "ser"
+        "subjunctive",
+        "ap-theme"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -520,20 +564,22 @@
     },
     {
       "id": "ESP_025",
-      "question": "What is the Spanish word for 'red'?",
-      "correctAnswer": "rojo",
+      "question": "Cuando la fábrica cerró, cientos de personas perdieron su trabajo y el nivel de ______ en la región aumentó.",
+      "correctAnswer": "desempleo",
       "distractors": [
-        "azul",
-        "verde",
-        "amarillo"
+        "empleo",
+        "salario",
+        "comercio"
       ],
-      "explanation": "Rojo means 'red' in Spanish. Azul is blue, verde is green, amarillo is yellow.",
-      "memoryHook": "T-Rexy says: Rojo is the color of passion!",
-      "imageUrl": "topic:spanish-color-rojo",
+      "explanation": "El desempleo is unemployment - the lack of jobs. Note the prefix des-, which reverses empleo (employment): when the factory closed, empleo fell and desempleo rose. Unemployment is a central topic in Los temas económicos.",
+      "memoryHook": "T-Rexy says: Des- undoes it: empleo is a job, desempleo is the job that disappeared.",
+      "imageUrl": "topic:ap-spanish-desempleo",
       "tags": [
         "spanish",
+        "desafios-mundiales",
+        "temas-economicos",
         "vocabulary",
-        "colors"
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -562,20 +608,22 @@
     },
     {
       "id": "ESP_027",
-      "question": "What does 'muchas gracias' mean?",
-      "correctAnswer": "thank you very much",
+      "question": "Lee el texto: «El cambio climático afecta directamente a los agricultores: las sequías más largas reducen las cosechas de maíz y frijoles. Sin ingresos suficientes, muchas familias del campo deben decidir entre quedarse o emigrar». Según el texto, ¿por qué emigran algunas familias del campo?",
+      "correctAnswer": "Porque las sequías reducen sus cosechas y sus ingresos",
       "distractors": [
-        "you are welcome",
-        "good luck",
-        "see you soon"
+        "Porque prefieren el clima de las ciudades",
+        "Porque el gobierno les ofrece casas nuevas",
+        "Porque ya no necesitan trabajar la tierra"
       ],
-      "explanation": "Muchas agrees with gracias in gender and number - both are feminine plural. The standard reply to gracias is de nada (you're welcome).",
-      "memoryHook": "T-Rexy says: Muchas gracias is extra grateful!",
-      "imageUrl": "topic:spanish-word-muchas-gracias",
+      "explanation": "The text gives a cause chain: longer droughts (las sequías) → smaller harvests (las cosechas) → insufficient income (sin ingresos suficientes) → families emigrate. Climate pressure on food and income is where Los temas del medio ambiente meet Los temas económicos.",
+      "memoryHook": "T-Rexy says: Sin lluvia no hay cosecha; sin cosecha no hay ingresos - so families se van.",
+      "imageUrl": "topic:ap-spanish-sequia-agricultores",
       "tags": [
         "spanish",
-        "vocabulary",
-        "politeness"
+        "desafios-mundiales",
+        "medio-ambiente",
+        "reading",
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -583,20 +631,22 @@
     },
     {
       "id": "ESP_028",
-      "question": "Which form of 'estar' goes with 'ella' (she)?",
-      "correctAnswer": "está",
+      "question": "Lee el texto: «Un estudio reciente muestra que muchos adolescentes revisan su teléfono más de cien veces al día. Los expertos recomiendan apagar las notificaciones por la noche para dormir mejor, porque la luz de la pantalla puede afectar el sueño». Según el texto, ¿qué recomiendan los expertos?",
+      "correctAnswer": "Apagar las notificaciones durante la noche",
       "distractors": [
-        "estoy",
-        "estás",
-        "están"
+        "Revisar el teléfono con más frecuencia",
+        "Usar la pantalla justo antes de dormir",
+        "Comprar un teléfono más moderno"
       ],
-      "explanation": "Está is the ella form of estar. Estar is used for location and temporary states.",
-      "memoryHook": "T-Rexy says: Ella está - she is there!",
-      "imageUrl": "topic:spanish-estar-ella",
+      "explanation": "The recommendation is stated directly: recomiendan apagar las notificaciones por la noche para dormir mejor (to sleep better). The text describes an effect of technology on health - Los efectos de la tecnología en el individuo y en la sociedad.",
+      "memoryHook": "T-Rexy says: Apagar las notificaciones = silence the buzz, save el sueño.",
+      "imageUrl": "topic:ap-spanish-telefono-sueno",
       "tags": [
         "spanish",
-        "grammar",
-        "estar"
+        "ciencia-y-tecnologia",
+        "efectos-de-la-tecnologia",
+        "reading",
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -604,20 +654,23 @@
     },
     {
       "id": "ESP_029",
-      "question": "What is the Spanish word for 'book'?",
-      "correctAnswer": "libro",
+      "question": "Completa la oración: «Los médicos recomiendan que la gente ______ menos tiempo frente a las pantallas».",
+      "correctAnswer": "pase",
       "distractors": [
-        "lápiz",
-        "papel",
-        "mesa"
+        "pasan",
+        "pasar",
+        "pasaban"
       ],
-      "explanation": "Libro means 'book' in Spanish. Lápiz is pencil, papel is paper, mesa is table.",
-      "memoryHook": "T-Rexy says: El libro opens new worlds!",
-      "imageUrl": "topic:spanish-word-libro",
+      "explanation": "After recomiendan que with a change of subject (los médicos → la gente), Spanish requires the present subjunctive: pase. La gente is grammatically singular, so the form is pase, not pasan. Pase is the present subjunctive of pasar.",
+      "memoryHook": "T-Rexy says: Recomiendan que flips the switch to subjunctive - pasar becomes pase.",
+      "imageUrl": "topic:ap-spanish-recomendacion-medica",
       "tags": [
         "spanish",
-        "vocabulary",
-        "school"
+        "ciencia-y-tecnologia",
+        "cuidado-de-la-salud",
+        "grammar",
+        "subjunctive",
+        "ap-theme"
       ],
       "difficulty": "easy",
       "dynamic": false,
