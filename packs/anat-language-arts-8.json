@@ -31,7 +31,7 @@
         "Reading",
         "Main Idea"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -52,7 +52,7 @@
         "Reading",
         "Supporting Details"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -73,7 +73,7 @@
         "Reading",
         "Inference"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -94,7 +94,7 @@
         "Reading",
         "Main Idea"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -115,7 +115,7 @@
         "Vocabulary",
         "Context Clues"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -136,20 +136,20 @@
         "Reading",
         "Inference"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
     {
       "id": "ALA8_007",
-      "question": "Read the passage: \"Volcanoes form when melted rock rises to Earth's surface. Some erupt violently, while others ooze lava slowly. Volcanic ash can enrich soil for farming.\" Which sentence states the main idea?",
-      "correctAnswer": "The first sentence about how volcanoes form, since the rest gives details about eruptions and ash.",
+      "question": "Read the passage: \"Volcanoes form when melted rock rises to Earth's surface. Some erupt violently, while others ooze lava slowly. Volcanic ash can enrich soil for farming.\" Which sentence best states the central idea of the passage?",
+      "correctAnswer": "Volcanoes form from melted rock that reaches Earth's surface, and their eruptions and ash affect the land in different ways.",
       "distractors": [
-        "The last sentence about soil, since farming is most important.",
-        "The middle sentence about violent eruptions.",
-        "None of the sentences states a main idea."
+        "Volcanic ash is the only important effect a volcano has.",
+        "Every volcano erupts violently.",
+        "Farming is impossible on land near volcanoes."
       ],
-      "explanation": "The passage is about volcanoes in general - how they form, how they erupt, and their effects. The opening sentence introduces the topic, and the rest supports it.",
+      "explanation": "A central idea must cover the whole passage, not just one sentence. This passage covers three points - how volcanoes form (melted rock rising), how they erupt (violently or slowly), and one effect (ash enriching soil) - and the correct answer is the only one that combines formation with effects. Each distractor takes one detail and makes it absolute ('only', 'every', 'impossible'), which the passage does not say.",
       "memoryHook": "T-Rexy says: the main idea is usually the umbrella - all the other sentences stand under it!",
       "imageUrl": "topic:reading",
       "tags": [
@@ -157,7 +157,7 @@
         "Reading",
         "Main Idea"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -178,13 +178,13 @@
         "Vocabulary",
         "Context Clues"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
     {
       "id": "ALA8_009",
-      "question": "Choose the sentence with correct subject-verb agreement.",
+      "question": "Choose the sentence with correct subject-verb agreement for a plural subject.",
       "correctAnswer": "The dogs bark loudly every morning.",
       "distractors": [
         "The dogs barks loudly every morning.",
@@ -199,20 +199,20 @@
         "Grammar",
         "Subject-Verb Agreement"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
     {
       "id": "ALA8_010",
-      "question": "Choose the sentence with correct subject-verb agreement.",
+      "question": "Choose the sentence with correct subject-verb agreement for the singular subject \"she\".",
       "correctAnswer": "She runs to school every day.",
       "distractors": [
         "She run to school every day.",
         "She running to school every day.",
         "She have run to school every day."
       ],
-      "explanation": "Singular subject \"she\" needs the singular verb \"runs\" (with -s). \"Run\" is plural form, and \"running\" alone cannot be the main verb.",
+      "explanation": "The singular subject \"she\" needs the singular verb form \"runs\" (with -s). \"Run\" is the form used with plural subjects and with I/you, \"running\" alone has no helping verb so it cannot be the main verb, and \"have\" does not agree with she - the present perfect form would be \"she has run.\"",
       "memoryHook": "T-Rexy says: he, she, and it love the letter S - he runs, she jumps, it roars!",
       "imageUrl": "topic:grammar",
       "tags": [
@@ -220,7 +220,7 @@
         "Grammar",
         "Subject-Verb Agreement"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -241,7 +241,7 @@
         "Grammar",
         "Pronouns"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -262,7 +262,7 @@
         "Punctuation",
         "Commas"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -283,7 +283,7 @@
         "Literary Devices",
         "Personification"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -304,7 +304,7 @@
         "Literary Devices",
         "Simile"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -325,7 +325,7 @@
         "Literary Devices",
         "Metaphor"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -346,7 +346,7 @@
         "Reading",
         "Main Idea"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -367,7 +367,7 @@
         "Vocabulary",
         "Synonyms"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -388,7 +388,7 @@
         "Vocabulary",
         "Antonyms"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -408,7 +408,7 @@
         "ELA",
         "Spelling"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -429,7 +429,7 @@
         "Literary Devices",
         "Theme"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -450,7 +450,7 @@
         "Punctuation",
         "Apostrophes"
       ],
-      "difficulty": 1,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -471,7 +471,7 @@
         "Grammar",
         "Verb Tenses"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -492,7 +492,7 @@
         "Reading",
         "Main Idea"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -513,7 +513,7 @@
         "Vocabulary",
         "Context Clues"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -534,7 +534,7 @@
         "Grammar",
         "Verb Tenses"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -555,7 +555,7 @@
         "Reading",
         "Supporting Details"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -576,7 +576,7 @@
         "Sentence Structure",
         "Fragments"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -597,7 +597,7 @@
         "Writing",
         "Thesis"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -618,7 +618,7 @@
         "Writing",
         "Transitions"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -639,7 +639,7 @@
         "Literary Devices",
         "Theme"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -660,7 +660,7 @@
         "Reading",
         "Inference"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -681,7 +681,7 @@
         "Reading",
         "Main Idea"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -702,7 +702,7 @@
         "Vocabulary",
         "Context Clues"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -711,11 +711,11 @@
       "question": "Choose the sentence with correct pronoun-antecedent agreement.",
       "correctAnswer": "Each student must bring his or her own lunch.",
       "distractors": [
-        "Each student must bring their own lunch.",
-        "Each student must bring his own lunch.",
-        "Each students must bring his or her own lunch."
+        "Each student must bring they own lunch.",
+        "Each students must bring his or her own lunch.",
+        "Each student must bring him or her own lunch."
       ],
-      "explanation": "\"Each\" is singular, so it needs a singular pronoun. \"His or her\" is the formally correct singular pair. (Note: \"their\" as singular is common in speech but this question tests formal agreement.)",
+      "explanation": "\"Each\" is a singular subject, so the pronoun that refers back to it must also be singular and possessive: \"his or her.\" \"They\" and \"him or her\" are not possessive forms, and \"students\" wrongly makes the subject plural. That leaves \"his or her own lunch\" as the only correct sentence.",
       "memoryHook": "T-Rexy says: each, every, and anyone are lonely singulars - they need his or her, not their!",
       "imageUrl": "topic:grammar",
       "tags": [
@@ -723,7 +723,7 @@
         "Grammar",
         "Pronouns"
       ],
-      "difficulty": 2,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -744,7 +744,7 @@
         "Punctuation",
         "Semicolons"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -765,7 +765,7 @@
         "Reading",
         "Inference"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -786,7 +786,7 @@
         "Literary Devices",
         "Personification"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -807,7 +807,7 @@
         "Punctuation",
         "Quotation Marks"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -828,7 +828,7 @@
         "Writing",
         "Evidence"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -849,7 +849,7 @@
         "Vocabulary",
         "Context Clues"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -870,7 +870,7 @@
         "Reading",
         "Supporting Details"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -891,13 +891,13 @@
         "Reading",
         "Inference"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
     {
       "id": "ALA8_043",
-      "question": "Choose the sentence with correct subject-verb agreement.",
+      "question": "Choose the sentence with correct subject-verb agreement after the word \"Neither\".",
       "correctAnswer": "Neither of the answers is correct.",
       "distractors": [
         "Neither of the answers are correct.",
@@ -912,7 +912,7 @@
         "Grammar",
         "Subject-Verb Agreement"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -933,7 +933,7 @@
         "Grammar",
         "Pronouns"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -954,7 +954,7 @@
         "Reading",
         "Main Idea"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -975,7 +975,7 @@
         "Sentence Structure",
         "Run-ons"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -996,7 +996,7 @@
         "Sentence Structure",
         "Run-ons"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1017,7 +1017,7 @@
         "Vocabulary",
         "Word Roots"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1038,7 +1038,7 @@
         "Punctuation",
         "Colons"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1059,7 +1059,7 @@
         "Reading",
         "Inference"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1080,7 +1080,7 @@
         "Literary Devices",
         "Simile"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1101,7 +1101,7 @@
         "Grammar",
         "Verb Tenses"
       ],
-      "difficulty": 3,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1122,7 +1122,7 @@
         "Reading",
         "Main Idea"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1143,7 +1143,7 @@
         "Vocabulary",
         "Context Clues"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1164,7 +1164,7 @@
         "Vocabulary",
         "Prefixes"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1185,7 +1185,7 @@
         "Vocabulary",
         "Suffixes"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1206,7 +1206,7 @@
         "Reading",
         "Supporting Details"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1227,7 +1227,7 @@
         "Punctuation",
         "Commas"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1248,7 +1248,7 @@
         "Literary Devices",
         "Alliteration"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1269,7 +1269,7 @@
         "Reading",
         "Inference"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1290,7 +1290,7 @@
         "Literary Devices",
         "Alliteration"
       ],
-      "difficulty": 1,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1311,7 +1311,7 @@
         "Grammar",
         "Voice"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1321,10 +1321,10 @@
       "correctAnswer": "The student completed the homework.",
       "distractors": [
         "The homework completed the student.",
-        "The student was completing the homework.",
+        "The homework was being completed by the student.",
         "Completed was the homework by the student."
       ],
-      "explanation": "Active voice puts the doer first: the student (doer) completed (action) the homework (receiver). This is clearer and more direct than passive.",
+      "explanation": "Active voice puts the doer first: the student (doer) completed (action) the homework (receiver), keeping the simple past tense of the original. \"The homework was being completed by the student\" is still passive - the homework is still the subject receiving the action - so it is not a rewrite in active voice.",
       "memoryHook": "T-Rexy says: active voice leads with the doer - the dino CHASES, not IS CHASED!",
       "imageUrl": "topic:grammar",
       "tags": [
@@ -1332,7 +1332,7 @@
         "Grammar",
         "Voice"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1353,7 +1353,7 @@
         "Reading",
         "Main Idea"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1374,7 +1374,7 @@
         "Literary Devices",
         "Hyperbole"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1395,7 +1395,7 @@
         "Literary Devices",
         "Hyperbole"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1416,7 +1416,7 @@
         "Grammar",
         "Modifiers"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1437,7 +1437,7 @@
         "Vocabulary",
         "Context Clues"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1458,7 +1458,7 @@
         "Writing",
         "Argument"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1479,7 +1479,7 @@
         "Literary Devices",
         "Theme"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1500,7 +1500,7 @@
         "Sentence Structure",
         "Parallelism"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1521,7 +1521,7 @@
         "Reading",
         "Mood"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1542,7 +1542,7 @@
         "Literary Devices",
         "Mood and Tone"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1563,7 +1563,7 @@
         "Vocabulary",
         "Context Clues"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1584,7 +1584,7 @@
         "Punctuation",
         "Commas"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1605,7 +1605,7 @@
         "Reading",
         "Inference"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1626,7 +1626,7 @@
         "Literary Devices",
         "Onomatopoeia"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1647,7 +1647,7 @@
         "Literary Devices",
         "Onomatopoeia"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1668,7 +1668,7 @@
         "Grammar",
         "Pronouns"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1689,7 +1689,7 @@
         "Reading",
         "Main Idea"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1710,7 +1710,7 @@
         "Sentence Structure",
         "Complex Sentences"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1731,7 +1731,7 @@
         "Sentence Structure",
         "Complex Sentences"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1752,7 +1752,7 @@
         "Sentence Structure",
         "Sentence Types"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1773,7 +1773,7 @@
         "Reading",
         "Inference"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1794,7 +1794,7 @@
         "Vocabulary",
         "Prefixes"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1815,7 +1815,7 @@
         "Writing",
         "Sentence Combining"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1836,7 +1836,7 @@
         "Writing",
         "Organization"
       ],
-      "difficulty": 2,
+      "difficulty": "easy",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1857,7 +1857,7 @@
         "Sentence Structure",
         "Parallelism"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1878,7 +1878,7 @@
         "Reading",
         "Evaluating Evidence"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1899,7 +1899,7 @@
         "Vocabulary",
         "Connotation"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1920,7 +1920,7 @@
         "Grammar",
         "Mood"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1941,7 +1941,7 @@
         "Reading",
         "Tone"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1962,7 +1962,7 @@
         "Literary Devices",
         "Irony"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -1983,7 +1983,7 @@
         "Writing",
         "Thesis"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -2004,7 +2004,7 @@
         "Vocabulary",
         "Context Clues"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -2025,7 +2025,7 @@
         "Grammar",
         "Adverbs"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -2046,7 +2046,7 @@
         "Reading",
         "Evaluating Evidence"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -2067,7 +2067,7 @@
         "Literary Devices",
         "Plot"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -2088,7 +2088,7 @@
         "Writing",
         "Transitions"
       ],
-      "difficulty": 2,
+      "difficulty": "medium",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     },
@@ -2109,7 +2109,7 @@
         "Reading",
         "Author's Purpose"
       ],
-      "difficulty": 3,
+      "difficulty": "hard",
       "dynamic": false,
       "source": "TReps Language Arts 8"
     }
