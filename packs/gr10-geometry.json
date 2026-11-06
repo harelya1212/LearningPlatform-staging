@@ -1518,9 +1518,9 @@
       "question": "What is the center of the circle with equation (x - 0)^2 + (y - 0)^2 = 25?",
       "correctAnswer": "(0, 0)",
       "distractors": [
-        "Not (0, 0)",
+        "(0, 5)",
         "(5, 5)",
-        "Not (0, 0) (alt)"
+        "(5, 0)"
       ],
       "explanation": "The standard form (x - h)^2 + (y - k)^2 = r^2 has center (h, k) = (0, 0).",
       "memoryHook": "T-Rexy says: In circle form, the center hides behind the minus signs.",
@@ -1620,7 +1620,7 @@
       "distractors": [
         "60 degrees",
         "120 degrees",
-        "120 degrees (alt)"
+        "90 degrees"
       ],
       "explanation": "An inscribed angle is half the measure of its intercepted arc: 60/2 = 30.",
       "memoryHook": "T-Rexy says: An inscribed angle is half its arc.",
@@ -1800,7 +1800,7 @@
       "distractors": [
         "113.04 cubic units",
         "452.16 cubic units",
-        "452.16 cubic units (alt)"
+        "226.08 cubic units"
       ],
       "explanation": "Volume is (4/3) x pi x r^3 = (4/3) x 3.14 x 6^3 = 904.32.",
       "memoryHook": "T-Rexy says: Sphere volume is four-thirds pi r cubed.",
@@ -1820,7 +1820,7 @@
       "distractors": [
         "254.34 cubic units",
         "91.78 cubic units",
-        "254.34 cubic units (alt)"
+        "169.56 cubic units"
       ],
       "explanation": "Volume is (1/3) x pi x r^2 x h = (1/3) x 3.14 x 3^2 x 9 = 84.78.",
       "memoryHook": "T-Rexy says: A cone is one third of its cylinder.",
@@ -1840,7 +1840,7 @@
       "distractors": [
         "452.16 cubic units",
         "75.36 cubic units",
-        "452.16 cubic units (alt)"
+        "301.44 cubic units"
       ],
       "explanation": "Volume is (1/3) x pi x r^2 x h = (1/3) x 3.14 x 6^2 x 4 = 150.72.",
       "memoryHook": "T-Rexy says: A cone is one third of its cylinder.",
@@ -1940,7 +1940,7 @@
       "distractors": [
         "50.24 square units",
         "32.12 square units",
-        "50.24 square units (alt)"
+        "12.56 square units"
       ],
       "explanation": "Sector area is (180/360) x pi x r^2 = 25.12.",
       "memoryHook": "T-Rexy says: A sector is a fraction of the whole circle.",
@@ -1980,7 +1980,7 @@
       "distractors": [
         "60 square units",
         "47 square units",
-        "47 square units (alt)"
+        "84 square units"
       ],
       "explanation": "Surface area is 2(lw + lh + wh) = 2(12 + 20 + 15) = 94.",
       "memoryHook": "T-Rexy says: Add all six faces, then double the three pairs.",
@@ -2000,7 +2000,7 @@
       "distractors": [
         "96 square units",
         "76 square units",
-        "76 square units (alt)"
+        "112 square units"
       ],
       "explanation": "Surface area is 2(lw + lh + wh) = 2(12 + 48 + 16) = 152.",
       "memoryHook": "T-Rexy says: Add all six faces, then double the three pairs.",
