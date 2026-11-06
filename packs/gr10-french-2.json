@@ -35,19 +35,19 @@
     },
     {
       "id": "FRE10_002",
-      "question": "What does 'merci' mean in English?",
-      "correctAnswer": "Thank you",
+      "question": "Choose the partitive article ('some') that completes the sentence: 'Je mange ___ pain.'",
+      "correctAnswer": "du",
       "distractors": [
-        "Please",
-        "Hello",
-        "Goodbye"
+        "de la",
+        "des",
+        "de l'"
       ],
-      "explanation": "Merci is how you thank someone; the common reply is de rien (you're welcome).",
-      "memoryHook": "T-Rexy says: Merci means thank you.",
+      "explanation": "The partitive article means 'some' and matches the noun's gender and number: du for masculine singular, de la for feminine singular, de l' before a vowel, and des for plurals. Pain is masculine singular, so the form is du: je mange du pain.",
+      "memoryHook": "T-Rexy says: Du pain - some bread, masculine style.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "vocabulary",
-        "common"
+        "grammar",
+        "partitive"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -75,19 +75,19 @@
     },
     {
       "id": "FRE10_004",
-      "question": "What does 'la maison' mean?",
-      "correctAnswer": "The house",
+      "question": "Choose the partitive article ('some') that completes the sentence: 'Elle met ___ confiture sur sa tartine.'",
+      "correctAnswer": "de la",
       "distractors": [
-        "The car",
-        "The school",
-        "The dog"
+        "du",
+        "des",
+        "de l'"
       ],
-      "explanation": "La maison is feminine, so it takes la; contrast la maison (house) with l'appartement (apartment).",
-      "memoryHook": "T-Rexy says: La maison is the house.",
+      "explanation": "Confiture is a feminine singular noun, and for 'some' of a feminine singular noun French uses de la. It only shrinks to de l' when the noun starts with a vowel sound, which confiture does not.",
+      "memoryHook": "T-Rexy says: De la confiture - some jam, feminine style.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "vocabulary",
-        "home"
+        "grammar",
+        "partitive"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -95,19 +95,19 @@
     },
     {
       "id": "FRE10_005",
-      "question": "What does 'le chien' mean?",
-      "correctAnswer": "The dog",
+      "question": "Choose the partitive article ('some') that completes the sentence: 'Nous buvons ___ eau fraîche.'",
+      "correctAnswer": "de l'",
       "distractors": [
-        "The cat",
-        "The bird",
-        "The horse"
+        "de la",
+        "du",
+        "des"
       ],
-      "explanation": "Le chien is masculine, so it takes le; the feminine form is la chienne.",
-      "memoryHook": "T-Rexy says: Le chien is the dog.",
+      "explanation": "Eau is feminine, so you expect de la - but eau starts with a vowel sound, and de la must elide before a vowel: it becomes de l'. French avoids the clashing vowels of 'de la eau'.",
+      "memoryHook": "T-Rexy says: Before a vowel, de la melts into de l'.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "vocabulary",
-        "animals"
+        "grammar",
+        "partitive"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -135,19 +135,19 @@
     },
     {
       "id": "FRE10_007",
-      "question": "How do you say 'water' in French?",
-      "correctAnswer": "L'eau",
+      "question": "Choose the partitive article ('some') that completes the sentence: 'Ils achètent ___ pommes au marché.'",
+      "correctAnswer": "des",
       "distractors": [
-        "Le lait",
-        "Le pain",
-        "Le riz"
+        "du",
+        "de la",
+        "de l'"
       ],
-      "explanation": "Eau is feminine but starts with a vowel, so it becomes l'eau; un verre d'eau is a glass of water.",
-      "memoryHook": "T-Rexy says: L'eau is water.",
+      "explanation": "Pommes is plural, and the partitive article for plural nouns is des, whatever the gender: des pommes, des livres, des idées. The singular forms du, de la and de l' cannot stand in front of a plural noun.",
+      "memoryHook": "T-Rexy says: Plural 'some' is always des.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "vocabulary",
-        "food"
+        "grammar",
+        "partitive"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -155,19 +155,19 @@
     },
     {
       "id": "FRE10_008",
-      "question": "What does 'rouge' mean?",
-      "correctAnswer": "Red",
+      "question": "Choose the partitive article ('some') that completes the sentence: 'Je voudrais ___ café, s'il vous plaît.'",
+      "correctAnswer": "du",
       "distractors": [
-        "Blue",
-        "Green",
-        "Yellow"
+        "de la",
+        "des",
+        "de l'"
       ],
-      "explanation": "Rouge comes after the noun it describes: une pomme rouge, a red apple.",
-      "memoryHook": "T-Rexy says: Rouge is red.",
+      "explanation": "Café is masculine singular, so 'some coffee' is du café. De la is the feminine form, de l' is only used before a vowel sound, and des is reserved for plural nouns.",
+      "memoryHook": "T-Rexy says: Du café, s'il vous plaît - polite and masculine.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "vocabulary",
-        "colors"
+        "grammar",
+        "partitive"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -175,19 +175,19 @@
     },
     {
       "id": "FRE10_009",
-      "question": "What does 'grand' mean?",
-      "correctAnswer": "Big",
+      "question": "Choose the partitive article ('some') that completes the sentence: 'Pour le petit déjeuner, je prends ___ thé.'",
+      "correctAnswer": "du",
       "distractors": [
-        "Small",
-        "Loud",
-        "Fast"
+        "de la",
+        "des",
+        "de l'"
       ],
-      "explanation": "Grand describes size: for things it means big or large (une grande maison), and for people it means tall (un homme grand).",
-      "memoryHook": "T-Rexy says: Grand means big.",
+      "explanation": "Thé is a masculine singular noun, and French uses the partitive du when you mean an unspecified amount of something: je prends du thé - I have some tea. Use de la only with feminine nouns, de l' before vowels, and des with plurals.",
+      "memoryHook": "T-Rexy says: Du thé at breakfast - tea is masculine.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "vocabulary",
-        "adjectives"
+        "grammar",
+        "partitive"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -215,19 +215,19 @@
     },
     {
       "id": "FRE10_011",
-      "question": "What does 'la famille' mean?",
-      "correctAnswer": "The family",
+      "question": "How do you say 'I am going to eat' in French?",
+      "correctAnswer": "Je vais manger",
       "distractors": [
-        "The friend",
-        "The teacher",
-        "The student"
+        "Je va manger",
+        "Je vais mangé",
+        "Je vais mange"
       ],
-      "explanation": "Famille is feminine: la famille. Related words: le père (father), la mère (mother).",
-      "memoryHook": "T-Rexy says: La famille is the family.",
+      "explanation": "The futur proche (near future) is built with aller in the present plus an infinitive: je vais + manger. The second verb never changes its form - no conjugated ending like mange and no past participle like mangé.",
+      "memoryHook": "T-Rexy says: Aller plus infinitive - the future is close.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "vocabulary",
-        "people"
+        "verbs",
+        "futur-proche"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -255,19 +255,19 @@
     },
     {
       "id": "FRE10_013",
-      "question": "How do you say 'Monday' in French?",
-      "correctAnswer": "Lundi",
+      "question": "Choose the word that completes this quantity expression ('a kilo of oranges', in general): 'Je voudrais un kilo ___ oranges.'",
+      "correctAnswer": "d'",
       "distractors": [
-        "Mardi",
-        "Dimanche",
-        "Vendredi"
+        "des",
+        "du",
+        "de la"
       ],
-      "explanation": "French days of the week are not capitalized: lundi, mardi, mercredi. Lundi is Monday.",
-      "memoryHook": "T-Rexy says: Lundi is Monday.",
+      "explanation": "After an expression of quantity - un kilo, un litre, beaucoup, trop - French drops the partitive article and uses only de, which becomes d' before a vowel: un kilo d'oranges, beaucoup de pain, un litre de lait. Des here would mean 'of the oranges', one specific batch.",
+      "memoryHook": "T-Rexy says: After a quantity, keep it simple: de, de, de.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "vocabulary",
-        "time"
+        "grammar",
+        "partitive"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -275,19 +275,19 @@
     },
     {
       "id": "FRE10_014",
-      "question": "What does 'le livre' mean?",
-      "correctAnswer": "The book",
+      "question": "Complete the sentence with the futur proche: 'Demain soir, nous ___ étudier pour l'examen.'",
+      "correctAnswer": "allons",
       "distractors": [
-        "The pencil",
-        "The desk",
-        "The paper"
+        "allez",
+        "vont",
+        "aller"
       ],
-      "explanation": "Livre is masculine: le livre. Watch out: la livre is a different word meaning a pound (weight).",
-      "memoryHook": "T-Rexy says: Le livre is the book.",
+      "explanation": "In the futur proche, only aller is conjugated, and it must agree with the subject: nous takes allons (nous allons étudier). Allez belongs to vous, vont belongs to ils/elles, and the infinitive aller cannot follow nous here.",
+      "memoryHook": "T-Rexy says: Nous allons - we are going.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "vocabulary",
-        "school"
+        "verbs",
+        "futur-proche"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -295,19 +295,19 @@
     },
     {
       "id": "FRE10_015",
-      "question": "What does 'manger' mean?",
-      "correctAnswer": "To eat",
+      "question": "Complete the sentence with the futur proche: 'Elle ___ partir en vacances demain.'",
+      "correctAnswer": "va",
       "distractors": [
-        "To drink",
-        "To sleep",
-        "To run"
+        "vais",
+        "allons",
+        "allez"
       ],
-      "explanation": "Manger is a regular -er verb: je mange, tu manges. It keeps a soft g before a and o: nous mangeons.",
-      "memoryHook": "T-Rexy says: Manger is to eat.",
+      "explanation": "The futur proche is aller conjugated for the subject plus the infinitive. Elle takes the third-person singular form va: elle va partir. Vais is for je, allons for nous and allez for vous.",
+      "memoryHook": "T-Rexy says: Elle va partir - off she goes.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "vocabulary",
-        "verbs"
+        "verbs",
+        "futur-proche"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -355,19 +355,19 @@
     },
     {
       "id": "FRE10_018",
-      "question": "What does 'la table' mean?",
-      "correctAnswer": "The table",
+      "question": "What does 'Vous allez regarder un film' mean?",
+      "correctAnswer": "You are going to watch a film",
       "distractors": [
-        "The chair",
-        "The bed",
-        "The door"
+        "You watched a film",
+        "You want to watch a film",
+        "You watch films every day"
       ],
-      "explanation": "Table is feminine: la table. Most nouns ending in -e are feminine, though there are exceptions.",
-      "memoryHook": "T-Rexy says: La table is the table.",
+      "explanation": "Aller in the present followed by an infinitive forms the futur proche, the 'going to' future: vous allez regarder = you are going to watch. It is not a past tense, and vouloir (to want) is a different verb altogether.",
+      "memoryHook": "T-Rexy says: Aller + infinitive = going to.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "vocabulary",
-        "home"
+        "verbs",
+        "futur-proche"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -375,19 +375,19 @@
     },
     {
       "id": "FRE10_019",
-      "question": "What does 'heureux' mean?",
-      "correctAnswer": "Happy",
+      "question": "How do you say 'I do not speak Spanish' in French?",
+      "correctAnswer": "Je ne parle pas espagnol",
       "distractors": [
-        "Sad",
-        "Angry",
-        "Tired"
+        "Je parle ne pas espagnol",
+        "Je ne parle espagnol pas",
+        "Je pas parle espagnol"
       ],
-      "explanation": "Heureux is the masculine form; the feminine is heureuse. It describes a feeling, so it is used with être: je suis heureux.",
-      "memoryHook": "T-Rexy says: Heureux is happy.",
+      "explanation": "A French negation has two parts that wrap around the verb like a sandwich: ne before the verb and pas right after it - je ne parle pas. Neither part can move elsewhere: pas cannot jump after the object, and ne never follows the verb.",
+      "memoryHook": "T-Rexy says: Ne before, pas after - a verb sandwich.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "vocabulary",
-        "adjectives"
+        "grammar",
+        "negation"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -415,19 +415,19 @@
     },
     {
       "id": "FRE10_021",
-      "question": "What does 'la ville' mean?",
-      "correctAnswer": "The city",
+      "question": "Choose the word that completes the sentence ('a lot of friends', in general): 'Il a beaucoup ___ amis.'",
+      "correctAnswer": "d'",
       "distractors": [
-        "The suburb",
-        "The village",
-        "The country"
+        "des",
+        "du",
+        "de la"
       ],
-      "explanation": "La ville is the standard word for a city (une grande ville, a big city); un village is a village and la campagne is the countryside.",
-      "memoryHook": "T-Rexy says: La ville is the city.",
+      "explanation": "Beaucoup is an expression of quantity, and quantity expressions are followed by de alone - never by du, de la or des. Amis starts with a vowel sound, so de elides: beaucoup d'amis. The same pattern gives beaucoup de livres and beaucoup d'eau.",
+      "memoryHook": "T-Rexy says: Beaucoup d'amis - quantity takes de.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "vocabulary",
-        "places"
+        "grammar",
+        "partitive"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -435,19 +435,19 @@
     },
     {
       "id": "FRE10_022",
-      "question": "What does 'le train' mean?",
-      "correctAnswer": "The train",
+      "question": "Choose the partitive article ('some') that completes the sentence: 'Elle prépare ___ soupe pour le dîner.'",
+      "correctAnswer": "de la",
       "distractors": [
-        "The bus",
-        "The car",
-        "The plane"
+        "du",
+        "des",
+        "de l'"
       ],
-      "explanation": "Train is masculine: le train. Related travel words: la gare (station), le billet (ticket).",
-      "memoryHook": "T-Rexy says: Le train is the train.",
+      "explanation": "Soupe is a feminine singular noun, so 'some soup' is de la soupe. It does not elide to de l' because soupe starts with a consonant sound; elision happens only before vowels, as in de l'eau.",
+      "memoryHook": "T-Rexy says: De la soupe - feminine, consonant, no elision.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "vocabulary",
-        "travel"
+        "grammar",
+        "partitive"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -455,19 +455,19 @@
     },
     {
       "id": "FRE10_023",
-      "question": "What does 'la fenêtre' mean?",
-      "correctAnswer": "The window",
+      "question": "How do you say 'They are going to do their homework' in French?",
+      "correctAnswer": "Ils vont faire leurs devoirs",
       "distractors": [
-        "The door",
-        "The wall",
-        "The roof"
+        "Ils allez faire leurs devoirs",
+        "Ils vont fait leurs devoirs",
+        "Ils vont faisons leurs devoirs"
       ],
-      "explanation": "Fenêtre is feminine: la fenêtre. The ê in French often marks a lost historical s (compare the old spelling fenestre).",
-      "memoryHook": "T-Rexy says: La fenêtre is the window.",
+      "explanation": "Futur proche formula: conjugate aller for the subject, then add the infinitive unchanged. Ils takes vont, and faire stays in the infinitive - the participle fait and the conjugated faisons can never follow vont.",
+      "memoryHook": "T-Rexy says: Ils vont faire - aller carries the tense.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "vocabulary",
-        "home"
+        "verbs",
+        "futur-proche"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -475,19 +475,19 @@
     },
     {
       "id": "FRE10_024",
-      "question": "What does 'vite' mean?",
-      "correctAnswer": "Fast",
+      "question": "Choose the correct futur proche sentence:",
+      "correctAnswer": "Demain, je vais téléphoner à ma grand-mère.",
       "distractors": [
-        "Slow",
-        "Strong",
-        "Quiet"
+        "Demain, je vas téléphoner à ma grand-mère.",
+        "Demain, je vais téléphoné à ma grand-mère.",
+        "Demain, je vais téléphone à ma grand-mère."
       ],
-      "explanation": "Vite is an adverb meaning fast or quickly: cours vite! (run fast!). The adjective for fast is rapide.",
-      "memoryHook": "T-Rexy says: Vite means fast.",
+      "explanation": "For je, aller becomes vais (never vas - that is the tu form), and the verb after it stays in the infinitive: téléphoner. Forms like téléphoné (past participle) or téléphone (present tense) break the futur proche pattern.",
+      "memoryHook": "T-Rexy says: Je vais plus the whole verb, untouched.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "vocabulary",
-        "adjectives"
+        "verbs",
+        "futur-proche"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -495,19 +495,19 @@
     },
     {
       "id": "FRE10_025",
-      "question": "What does 'les devoirs' mean?",
-      "correctAnswer": "The homework",
+      "question": "How do you say 'He never drinks coffee' in French?",
+      "correctAnswer": "Il ne boit jamais de café",
       "distractors": [
-        "The test",
-        "The lesson",
-        "The grade"
+        "Il ne boit plus de café",
+        "Il ne jamais boit de café",
+        "Il ne boit jamais du café"
       ],
-      "explanation": "Devoirs is almost always plural for homework: les devoirs. The singular le devoir means a duty.",
-      "memoryHook": "T-Rexy says: Les devoirs is homework.",
+      "explanation": "Never is ne... jamais, and jamais sits right after the verb, exactly where pas goes: il ne boit jamais. Jamais cannot stand before the verb. And after any negation, du café shrinks to de café.",
+      "memoryHook": "T-Rexy says: Jamais takes the seat of pas, right after the verb.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "vocabulary",
-        "school"
+        "grammar",
+        "negation"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -515,19 +515,19 @@
     },
     {
       "id": "FRE10_026",
-      "question": "What is the correct present tense form of 'parler' for 'je'?",
-      "correctAnswer": "je parle",
+      "question": "To build the futur proche of 'nous chantons', you say: 'Nous ___ chanter.'",
+      "correctAnswer": "allons",
       "distractors": [
-        "je parles",
-        "je parlons",
-        "je parlent"
+        "vont",
+        "allez",
+        "vas"
       ],
-      "explanation": "For -er verbs, the je form ends in -e: je parle.",
-      "memoryHook": "T-Rexy says: Je parle, I speak.",
+      "explanation": "Building the futur proche means taking the infinitive (chanter) and putting aller in front of it, conjugated for the same subject. Nous chantons gives nous allons chanter; vont is for ils/elles, allez for vous and vas for tu.",
+      "memoryHook": "T-Rexy says: Same subject, same aller: nous allons.",
       "imageUrl": "topic:french-2",
       "tags": [
         "verbs",
-        "present"
+        "futur-proche"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -535,19 +535,19 @@
     },
     {
       "id": "FRE10_027",
-      "question": "What is the correct present tense form of 'manger' for 'tu'?",
-      "correctAnswer": "tu manges",
+      "question": "Complete the negative sentence (simple negation - 'We are not hungry'): 'Nous n'avons ___ faim.'",
+      "correctAnswer": "pas",
       "distractors": [
-        "tu mange",
-        "tu mangeons",
-        "tu mangent"
+        "ne",
+        "plus",
+        "jamais"
       ],
-      "explanation": "For -er verbs, the tu form ends in -es: tu manges.",
-      "memoryHook": "T-Rexy says: Tu manges, you eat.",
+      "explanation": "The ordinary negation is ne... pas: n'avons pas faim. The other negative words change the meaning - ne... plus means 'no longer' and ne... jamais means 'never' - and ne cannot appear twice in the same negation.",
+      "memoryHook": "T-Rexy says: Pas is the plain 'not'.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "verbs",
-        "present"
+        "grammar",
+        "negation"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -555,19 +555,19 @@
     },
     {
       "id": "FRE10_028",
-      "question": "What is the correct present tense form of 'finir' for 'il'?",
-      "correctAnswer": "il finit",
+      "question": "In the sentence 'Il ne comprend pas', which pair of words makes the sentence negative?",
+      "correctAnswer": "ne... pas",
       "distractors": [
-        "il finis",
-        "il finissons",
-        "il finissent"
+        "ne... plus",
+        "ne... jamais",
+        "ne... rien"
       ],
-      "explanation": "For -ir verbs, the il form ends in -it: il finit.",
-      "memoryHook": "T-Rexy says: Il finit, he finishes.",
+      "explanation": "French negatives come in two pieces around the verb: ne in front and a second word after it. In this sentence the second word is pas, the basic 'not'. Plus would mean 'no longer', jamais 'never' and rien 'nothing' - none of them appears here.",
+      "memoryHook": "T-Rexy says: Spot both halves: ne... pas.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "verbs",
-        "present"
+        "grammar",
+        "negation"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -575,19 +575,19 @@
     },
     {
       "id": "FRE10_029",
-      "question": "What is the correct present tense form of 'parler' for 'nous'?",
-      "correctAnswer": "nous parlons",
+      "question": "Complete the sentence (simple negation - 'The film is not interesting'): 'Ce film n'est ___ intéressant.'",
+      "correctAnswer": "pas",
       "distractors": [
-        "nous parlez",
-        "nous parlent",
-        "nous parle"
+        "plus",
+        "jamais",
+        "rien"
       ],
-      "explanation": "For -er verbs, the nous form ends in -ons: nous parlons.",
-      "memoryHook": "T-Rexy says: Nous parlons, we speak.",
+      "explanation": "For a plain 'is not', French wraps être with ne... pas: ce film n'est pas intéressant. Ne... rien cannot describe an adjective like this, and plus/jamais would say the film is no longer or never interesting - different claims.",
+      "memoryHook": "T-Rexy says: N'est pas - the everyday not.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "verbs",
-        "present"
+        "grammar",
+        "negation"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -595,19 +595,19 @@
     },
     {
       "id": "FRE10_030",
-      "question": "What is the correct present tense form of 'finir' for 'ils'?",
-      "correctAnswer": "ils finissent",
+      "question": "Choose the sentence that means 'We no longer live in Paris':",
+      "correctAnswer": "Nous n'habitons plus à Paris.",
       "distractors": [
-        "ils finit",
-        "ils finis",
-        "ils finissons"
+        "Nous n'habitons jamais à Paris.",
+        "Nous ne habitons plus à Paris.",
+        "Nous n'habitons pas plus à Paris."
       ],
-      "explanation": "For -ir verbs, the ils form ends in -issent: ils finissent.",
-      "memoryHook": "T-Rexy says: Ils finissent, they finish.",
+      "explanation": "'No longer' is ne... plus, placed after the verb like pas. Habiter starts with a silent h, so ne must elide: n'habitons, never 'ne habitons'. Jamais would claim the opposite history - that you never lived there at all.",
+      "memoryHook": "T-Rexy says: Plus means the habit stopped.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "verbs",
-        "present"
+        "grammar",
+        "negation"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -615,19 +615,19 @@
     },
     {
       "id": "FRE10_031",
-      "question": "What is the correct present tense form of 'être' for 'je'?",
-      "correctAnswer": "je suis",
+      "question": "After a negation, the partitive article changes to de. Choose the correct completion: 'Nous n'avons pas ___ argent.'",
+      "correctAnswer": "d'",
       "distractors": [
-        "je es",
-        "je est",
-        "je sont"
+        "de l'",
+        "du",
+        "des"
       ],
-      "explanation": "Être is the most irregular French verb; its present forms are je suis, tu es, il est, nous sommes, vous êtes, ils sont - learn them by heart.",
-      "memoryHook": "T-Rexy says: Je suis, I am.",
+      "explanation": "In a negative sentence, the partitive articles du, de la, de l' and des all collapse to de: je n'ai pas de pain, elle ne boit pas de lait. Argent begins with a vowel sound, so de elides to d': pas d'argent.",
+      "memoryHook": "T-Rexy says: No money, no article: pas d'argent.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "verbs",
-        "etre"
+        "grammar",
+        "partitive"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -695,19 +695,19 @@
     },
     {
       "id": "FRE10_035",
-      "question": "What is the correct present tense form of 'faire' for 'il'?",
-      "correctAnswer": "il fait",
+      "question": "Choose the correct form: 'Elle ne mange jamais ___ légumes.'",
+      "correctAnswer": "de",
       "distractors": [
-        "il fais",
-        "il font",
-        "il faisons"
+        "des",
+        "du",
+        "de la"
       ],
-      "explanation": "Faire present: je fais, tu fais, il fait, nous faisons, vous faites, ils font. The singular forms fais/fais/fait are pronounced the same.",
-      "memoryHook": "T-Rexy says: Il fait, he does or makes.",
+      "explanation": "Jamais is a negative word, and like pas it forces the partitive and indefinite articles to become de: des légumes becomes de légumes after ne... jamais. Compare the positive sentence: elle mange des légumes - she eats vegetables.",
+      "memoryHook": "T-Rexy says: After jamais, des turns into de.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "verbs",
-        "faire"
+        "grammar",
+        "partitive"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -775,19 +775,19 @@
     },
     {
       "id": "FRE10_039",
-      "question": "What is the correct present tense form of 'pouvoir' for 'il'?",
-      "correctAnswer": "il peut",
+      "question": "Complete the sentence so it means 'I understand nothing': 'Je ne comprends ___.'",
+      "correctAnswer": "rien",
       "distractors": [
-        "il peux",
-        "il pouvons",
-        "il peuvent"
+        "personne",
+        "jamais",
+        "pas"
       ],
-      "explanation": "Pouvoir follows the same pattern as vouloir: je peux, tu peux, il peut. Both verbs switch to a -t ending for il.",
-      "memoryHook": "T-Rexy says: Il peut, he can.",
+      "explanation": "Ne... rien means 'nothing' and drops pas completely: je ne comprends rien. Personne would talk about people (I understand nobody), jamais about frequency, and pas alone only says 'I do not understand' - a weaker claim.",
+      "memoryHook": "T-Rexy says: Rien = nothing, and rien stands alone.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "verbs",
-        "irregular"
+        "grammar",
+        "negation"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -795,19 +795,19 @@
     },
     {
       "id": "FRE10_040",
-      "question": "What is the correct present tense form of 'dormir' for 'nous'?",
-      "correctAnswer": "nous dormons",
+      "question": "Which sentence correctly says 'I am not going to sleep' in the futur proche?",
+      "correctAnswer": "Je ne vais pas dormir.",
       "distractors": [
-        "nous dorment",
-        "nous dors",
-        "nous dormez"
+        "Je ne vais dormir pas.",
+        "Je vais ne pas dormir.",
+        "Je ne dors pas vais."
       ],
-      "explanation": "Dormir belongs to the -mir family (dormir, partir, sortir): the singular drops the last stem consonant - je dors, tu dors, il dort - but nous dormons keeps it.",
-      "memoryHook": "T-Rexy says: Nous dormons, we sleep.",
+      "explanation": "In the futur proche, the negation wraps around the conjugated verb aller only: ne + vais + pas, and the infinitive dormir follows after pas. Putting pas after the infinitive (ne vais dormir pas) or splitting aller (vais ne pas) is ungrammatical.",
+      "memoryHook": "T-Rexy says: The sandwich hugs aller, not the infinitive.",
       "imageUrl": "topic:french-2",
       "tags": [
         "verbs",
-        "irregular"
+        "futur-proche"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -835,19 +835,19 @@
     },
     {
       "id": "FRE10_042",
-      "question": "What is the correct present tense form of 'savoir' for 'je'?",
-      "correctAnswer": "je sais",
+      "question": "Complete the sentence so it means 'Nothing is ready': '___ n'est prêt.'",
+      "correctAnswer": "Rien",
       "distractors": [
-        "je savons",
-        "je sait",
-        "je savez"
+        "Personne",
+        "Jamais",
+        "Pas"
       ],
-      "explanation": "Savoir present: je sais, tu sais, il sait, nous savons, vous savez, ils savent. The je/tu forms end in -s, not -x like vouloir.",
-      "memoryHook": "T-Rexy says: Je sais, I know.",
+      "explanation": "Rien can be the subject of a sentence, and then it pairs with ne alone - there is no pas: rien n'est prêt. Personne as subject would mean 'nobody is ready', a statement about people, not about things being unprepared.",
+      "memoryHook": "T-Rexy says: Rien as subject needs ne, and only ne.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "verbs",
-        "irregular"
+        "grammar",
+        "negation"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -875,19 +875,19 @@
     },
     {
       "id": "FRE10_044",
-      "question": "What is the correct present tense form of 'voir' for 'tu'?",
-      "correctAnswer": "tu vois",
+      "question": "What is the passé composé of 'partir' for 'elles'?",
+      "correctAnswer": "elles sont parties",
       "distractors": [
-        "tu voit",
-        "tu voyons",
-        "tu voient"
+        "elles sont partis",
+        "elles ont parti",
+        "elles sont partir"
       ],
-      "explanation": "Voir present: je vois, tu vois, il voit, nous voyons, vous voyez, ils voient. Note the y in the nous and vous forms.",
-      "memoryHook": "T-Rexy says: Tu vois, you see.",
+      "explanation": "Partir is an être verb in the passé composé, and with être the past participle agrees with the subject: elles are feminine plural, so parti gains an -e and an -s: elles sont parties. Avoir is never the auxiliary for partir.",
+      "memoryHook": "T-Rexy says: Être verbs dress the participle to match.",
       "imageUrl": "topic:french-2",
       "tags": [
         "verbs",
-        "irregular"
+        "passe-compose"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -975,19 +975,19 @@
     },
     {
       "id": "FRE10_049",
-      "question": "What is the present tense form of 'être' for 'vous'?",
-      "correctAnswer": "vous êtes",
+      "question": "Complete: 'Nous sommes ___ à la maison.' (The speakers are a boy and a girl - a mixed group; rester = to stay)",
+      "correctAnswer": "restés",
       "distractors": [
-        "vous est",
-        "vous sommes",
-        "vous sont"
+        "restées",
+        "resté",
+        "rester"
       ],
-      "explanation": "Être present: vous êtes. The circumflex in êtes is required - etes is not a correct French spelling.",
-      "memoryHook": "T-Rexy says: Vous êtes, you are.",
+      "explanation": "Rester forms its passé composé with être, so the participle agrees with the subject. A mixed group of boys and girls counts as masculine in French grammar, and plural adds -s: nous sommes restés. Restées would mean the speakers are all female.",
+      "memoryHook": "T-Rexy says: Mixed group? Masculine wins, add the -s.",
       "imageUrl": "topic:french-2",
       "tags": [
         "verbs",
-        "etre"
+        "passe-compose"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -1775,19 +1775,19 @@
     },
     {
       "id": "FRE10_089",
-      "question": "What does 'à demain' mean?",
-      "correctAnswer": "See you tomorrow",
+      "question": "Choose the correct passé composé: 'Marie ___ arrivée à la maison hier soir.'",
+      "correctAnswer": "est",
       "distractors": [
-        "See you later",
-        "Goodbye forever",
-        "See you yesterday"
+        "a",
+        "es",
+        "suis"
       ],
-      "explanation": "Demain means tomorrow, so à demain is the natural parting phrase: see you tomorrow.",
-      "memoryHook": "T-Rexy says: À demain is see you tomorrow.",
+      "explanation": "Arriver belongs to the group of movement verbs that form the passé composé with être, not avoir: je suis arrivé, elle est arrivée. Marie is third-person singular, so the auxiliary is est - and the participle arrivée takes an extra -e for a feminine subject.",
+      "memoryHook": "T-Rexy says: Arriver travels with être.",
       "imageUrl": "topic:french-2",
       "tags": [
-        "vocabulary",
-        "common"
+        "verbs",
+        "passe-compose"
       ],
       "difficulty": "medium",
       "dynamic": false,
