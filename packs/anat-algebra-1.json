@@ -96,16 +96,16 @@
     },
     {
       "id": "AALG1_005",
-      "question": "Solve for x: 12 - x = 5",
-      "correctAnswer": "7",
+      "question": "Find the mean of the data set: 3, 6, 9, 10, 12.",
+      "correctAnswer": "8",
       "distractors": [
-        "17",
-        "5",
-        "6"
+        "9",
+        "12",
+        "40"
       ],
-      "explanation": "Move x to the right and 5 to the left: 12 - 5 = x, so x = 7.",
-      "memoryHook": "T-Rexy says: watch the signs when things swap sides!",
-      "imageUrl": "topic:equations",
+      "explanation": "Add the values first: 3 + 6 + 9 + 10 + 12 = 40. Then divide by how many values there are: 40 / 5 = 8.",
+      "memoryHook": "T-Rexy says: mean means share fairly - add them all, then split evenly!",
+      "imageUrl": "topic:graphing",
       "tags": [
         "Math",
         "Algebra"
@@ -396,15 +396,15 @@
     },
     {
       "id": "AALG1_020",
-      "question": "Evaluate: 5^2",
-      "correctAnswer": "25",
+      "question": "What is the square root of 81?",
+      "correctAnswer": "9",
       "distractors": [
-        "10",
-        "15",
-        "7"
+        "8",
+        "18",
+        "40.5"
       ],
-      "explanation": "5^2 = 5 * 5 = 25.",
-      "memoryHook": "T-Rexy says: squared means the number times itself!",
+      "explanation": "A square root asks which number multiplied by itself gives 81. Since 9 * 9 = 81, the square root of 81 is 9.",
+      "memoryHook": "T-Rexy says: a square root runs squaring in reverse - 9 stomps twice to make 81!",
       "imageUrl": "topic:algebra",
       "tags": [
         "Math",
@@ -536,16 +536,16 @@
     },
     {
       "id": "AALG1_027",
-      "question": "Solve for x: x + (-5) = 3",
-      "correctAnswer": "8",
+      "question": "For the expression 5 / (x - 3), which value of x is not allowed?",
+      "correctAnswer": "3",
       "distractors": [
-        "-2",
-        "-8",
-        "2"
+        "0",
+        "-3",
+        "5"
       ],
-      "explanation": "x - 5 = 3, so x = 3 + 5 = 8.",
-      "memoryHook": "T-Rexy says: plus a negative is just subtraction in disguise!",
-      "imageUrl": "topic:equations",
+      "explanation": "A fraction's denominator can never equal 0. If x = 3, then x - 3 = 0, and division by 0 is undefined, so x = 3 is the excluded value.",
+      "memoryHook": "T-Rexy says: never divide by zero - nobody can split a snack into zero piles!",
+      "imageUrl": "topic:algebra",
       "tags": [
         "Math",
         "Algebra"
@@ -596,15 +596,15 @@
     },
     {
       "id": "AALG1_030",
-      "question": "Find the slope of the line through (0,0) and (2,6).",
-      "correctAnswer": "3",
+      "question": "Find the median of the data set: 4, 8, 15, 16, 23.",
+      "correctAnswer": "15",
       "distractors": [
-        "2",
-        "6",
-        "1/3"
+        "13.2",
+        "8",
+        "23"
       ],
-      "explanation": "Slope = rise/run = (6-0)/(2-0) = 6/2 = 3.",
-      "memoryHook": "T-Rexy says: rise over run - climb up, then walk across!",
+      "explanation": "The values are already in order: 4, 8, 15, 16, 23. The median is the middle value, which is 15.",
+      "memoryHook": "T-Rexy says: the median is the dino standing exactly in the middle of the line!",
       "imageUrl": "topic:graphing",
       "tags": [
         "Math",
@@ -796,16 +796,16 @@
     },
     {
       "id": "AALG1_040",
-      "question": "y = 2x + 1 and y = x + 4. What is x?",
-      "correctAnswer": "3",
+      "question": "A scatter plot shows the hours students studied and their quiz scores. The points trend upward from left to right. Which statement best describes the association?",
+      "correctAnswer": "As study time increases, quiz scores tend to increase.",
       "distractors": [
-        "5",
-        "2",
-        "-3"
+        "As study time increases, quiz scores tend to decrease.",
+        "There is no association between study time and quiz scores.",
+        "Studying more causes every student to score higher."
       ],
-      "explanation": "Set equal: 2x + 1 = x + 4. Subtract x: x + 1 = 4. So x = 3.",
-      "memoryHook": "T-Rexy says: when both equal y, set them equal to each other!",
-      "imageUrl": "topic:equations",
+      "explanation": "Points that trend upward show a positive association: larger study times go with higher scores. A scatter plot shows association, not proof that one variable causes the other.",
+      "memoryHook": "T-Rexy says: points climbing uphill grow together - but that alone does not prove cause!",
+      "imageUrl": "topic:graphing",
       "tags": [
         "Math",
         "Algebra"
@@ -816,16 +816,16 @@
     },
     {
       "id": "AALG1_041",
-      "question": "Evaluate: (3x^2 + 2x) + (x^2 - 5x)",
-      "correctAnswer": "4x^2 - 3x",
+      "question": "Simplify: (x^2 + 5x) / x",
+      "correctAnswer": "x + 5",
       "distractors": [
-        "4x^2 + 7x",
-        "3x^2 - 3x",
-        "4x^4 - 3x"
+        "x^2 + 5",
+        "5",
+        "x - 5"
       ],
-      "explanation": "Combine x^2 terms: 3x^2 + x^2 = 4x^2. Combine x terms: 2x - 5x = -3x. Result: 4x^2 - 3x.",
-      "memoryHook": "T-Rexy says: only add twins - x^2 hangs with x^2, x hangs with x!",
-      "imageUrl": "topic:polynomials",
+      "explanation": "Divide each term on top by x: x^2 / x + 5x / x = x + 5. This holds for every x except 0, where the original fraction is undefined.",
+      "memoryHook": "T-Rexy says: every term on top gets its own equal share of the bottom!",
+      "imageUrl": "topic:algebra",
       "tags": [
         "Math",
         "Algebra"
@@ -856,16 +856,16 @@
     },
     {
       "id": "AALG1_043",
-      "question": "(2x + 3y) + (4x - y) = ?",
-      "correctAnswer": "6x + 2y",
+      "question": "Add: 3/x + 4/x",
+      "correctAnswer": "7/x",
       "distractors": [
-        "6x + 4y",
-        "2x + 2y",
-        "6xy"
+        "7/(2x)",
+        "12/x",
+        "7/x^2"
       ],
-      "explanation": "Combine x: 2x + 4x = 6x. Combine y: 3y - y = 2y. Result: 6x + 2y.",
-      "memoryHook": "T-Rexy says: x and y are different species - never mix them!",
-      "imageUrl": "topic:polynomials",
+      "explanation": "The denominators are already the same, so keep the denominator and add only the numerators: (3 + 4) / x = 7/x.",
+      "memoryHook": "T-Rexy says: same bottom? Keep it frozen and add only the tops!",
+      "imageUrl": "topic:algebra",
       "tags": [
         "Math",
         "Algebra"
@@ -1016,16 +1016,16 @@
     },
     {
       "id": "AALG1_051",
-      "question": "Evaluate f(2) for f(x) = x^2 - 3x.",
-      "correctAnswer": "-2",
+      "question": "Solve for x: √x = 7",
+      "correctAnswer": "49",
       "distractors": [
-        "2",
-        "-10",
-        "10"
+        "14",
+        "7",
+        "3.5"
       ],
-      "explanation": "f(2) = 2^2 - 3(2) = 4 - 6 = -2.",
-      "memoryHook": "T-Rexy says: replace every x, then follow order of operations!",
-      "imageUrl": "topic:functions",
+      "explanation": "Square both sides to undo the square root: (√x)^2 = 7^2, so x = 49. Check: √49 = 7, so it works.",
+      "memoryHook": "T-Rexy says: to free x from under a root, square both sides with equal stomps!",
+      "imageUrl": "topic:algebra",
       "tags": [
         "Math",
         "Algebra"
@@ -1176,16 +1176,16 @@
     },
     {
       "id": "AALG1_059",
-      "question": "Solve the system: x + 2y = 10 and 3x - 2y = 2. What is x?",
-      "correctAnswer": "3",
+      "question": "Simplify: √50",
+      "correctAnswer": "5√2",
       "distractors": [
-        "10",
-        "2",
-        "7"
+        "2√5",
+        "25√2",
+        "10√5"
       ],
-      "explanation": "Add: 4x = 12, so x = 3. (Then 3 + 2y = 10, y = 3.5.)",
-      "memoryHook": "T-Rexy says: line them up and add - watch terms vanish!",
-      "imageUrl": "topic:equations",
+      "explanation": "Find the largest perfect square that divides 50: 50 = 25 * 2. Take its square root out front: √50 = √25 * √2 = 5√2.",
+      "memoryHook": "T-Rexy says: hunt for the hidden perfect square and let it escape the root!",
+      "imageUrl": "topic:algebra",
       "tags": [
         "Math",
         "Algebra"
@@ -1236,15 +1236,15 @@
     },
     {
       "id": "AALG1_062",
-      "question": "Evaluate: x^5 / x^2",
-      "correctAnswer": "x^3",
+      "question": "Find the mode of the data set: 5, 8, 5, 12, 8, 5, 9.",
+      "correctAnswer": "5",
       "distractors": [
-        "x^7",
-        "x^2.5",
-        "x^10"
+        "8",
+        "9",
+        "12"
       ],
-      "explanation": "Divide same bases: subtract exponents 5 - 2 = 3, so x^3.",
-      "memoryHook": "T-Rexy says: division shrinks the exponent!",
+      "explanation": "Count the repeats: 5 appears 3 times, 8 appears 2 times, and 9 and 12 appear once each. The mode is the value that appears most often, so the mode is 5.",
+      "memoryHook": "T-Rexy says: the mode is the value that shows up to the party most often!",
       "imageUrl": "topic:algebra",
       "tags": [
         "Math",
@@ -1256,15 +1256,15 @@
     },
     {
       "id": "AALG1_063",
-      "question": "Which point lies on the line y = 2x - 3?",
-      "correctAnswer": "(2, 1)",
+      "question": "The box plot shows the ages of the members of a chess club. What is the median age shown in the box plot?",
+      "correctAnswer": "24",
       "distractors": [
-        "(0, 3)",
-        "(1, 2)",
-        "(3, 2)"
+        "18",
+        "33",
+        "27"
       ],
-      "explanation": "Test (2,1): 2(2) - 3 = 1. Matches, so (2,1) is on the line.",
-      "memoryHook": "T-Rexy says: plug in and check - the point must satisfy the equation!",
+      "explanation": "In a box plot, the line inside the box marks the median. In this plot that line is at 24, so the median age is 24.",
+      "memoryHook": "T-Rexy says: the line inside the box points straight at the median!",
       "imageUrl": "topic:graphing",
       "tags": [
         "Math",
@@ -1856,15 +1856,15 @@
     },
     {
       "id": "AALG1_093",
-      "question": "Simplify: (x^2 * y^3)(2x * y^2)",
-      "correctAnswer": "2x^3y^5",
+      "question": "Simplify: √48 + √27",
+      "correctAnswer": "7√3",
       "distractors": [
-        "2x^2y^5",
-        "2x^3y^6",
-        "x^3y^5"
+        "√75",
+        "12√3",
+        "7√6"
       ],
-      "explanation": "Multiply coefficients: 2. Add x exponents: 2+1 = 3. Add y exponents: 3+2 = 5. So 2x^3y^5.",
-      "memoryHook": "T-Rexy says: handle numbers, x, and y separately!",
+      "explanation": "Simplify each radical first: √48 = √(16 * 3) = 4√3 and √27 = √(9 * 3) = 3√3. The radicands now match, so add the coefficients: 4√3 + 3√3 = 7√3.",
+      "memoryHook": "T-Rexy says: radicals can only team up when the number under the root matches!",
       "imageUrl": "topic:algebra",
       "tags": [
         "Math",
@@ -1876,15 +1876,15 @@
     },
     {
       "id": "AALG1_094",
-      "question": "Evaluate: (4x^3) / (2x)",
-      "correctAnswer": "2x^2",
+      "question": "Divide: (x^2 / 5) / (x / 10)",
+      "correctAnswer": "2x",
       "distractors": [
-        "2x^3",
-        "2x^4",
-        "8x^2"
+        "x/2",
+        "2x^2",
+        "1/(2x)"
       ],
-      "explanation": "Divide coefficients: 4/2 = 2. Subtract exponents: 3 - 1 = 2. So 2x^2.",
-      "memoryHook": "T-Rexy says: divide numbers, subtract exponents!",
+      "explanation": "Keep the first fraction, change division to multiplication, and flip the second fraction: (x^2 / 5) * (10 / x) = 10x^2 / 5x = 2x.",
+      "memoryHook": "T-Rexy says: dividing fractions means keep, change, flip - then multiply straight across!",
       "imageUrl": "topic:algebra",
       "tags": [
         "Math",
@@ -1976,16 +1976,16 @@
     },
     {
       "id": "AALG1_099",
-      "question": "Solve for x: 3^(x+1) = 81",
-      "correctAnswer": "3",
+      "question": "A survey asked 120 students whether they play a sport and whether they play an instrument. The results are in the two-way table. Of the students who play an instrument, what percent also play a sport?",
+      "correctAnswer": "60%",
       "distractors": [
-        "4",
-        "2",
-        "80"
+        "25%",
+        "50%",
+        "55%"
       ],
-      "explanation": "81 = 3^4, so x + 1 = 4, giving x = 3.",
-      "memoryHook": "T-Rexy says: rewrite both sides with the same base!",
-      "imageUrl": "topic:algebra",
+      "explanation": "The words 'of the students who play an instrument' limit the group to the 50 instrument players (30 + 20). Of those, 30 also play a sport, so the percent is 30 / 50 = 60%.",
+      "memoryHook": "T-Rexy says: 'of the' shrinks the herd - only count the group named after it!",
+      "imageUrl": "topic:graphing",
       "tags": [
         "Math",
         "Algebra"
