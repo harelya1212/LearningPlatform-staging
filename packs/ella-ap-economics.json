@@ -194,19 +194,19 @@
    ]
   },
   {
-   "correctAnswer": "A surplus, and price will be pushed downward",
+   "correctAnswer": "A surplus of 300 units, putting downward pressure on the price",
    "difficulty": "medium",
    "distractors": [
-    "A shortage, and price will be pushed upward",
-    "A surplus, and price will be pushed upward",
-    "Neither a surplus nor a shortage"
+    "A shortage of 300 units, putting upward pressure on the price",
+    "A surplus of 150 units, putting downward pressure on the price",
+    "Equilibrium, because the price will adjust instantly"
    ],
    "dynamic": false,
-   "explanation": "Above equilibrium, quantity supplied exceeds quantity demanded. Sellers cut prices to clear excess inventory.",
+   "explanation": "At a price above equilibrium, quantity supplied exceeds quantity demanded. Surplus = Qs - Qd = 450 - 150 = 300 units. Unsold stock piles up, so sellers cut prices and the market moves back toward the $8 equilibrium.",
    "id": "EECON_010",
    "imageUrl": "topic:surplus",
-   "memoryHook": "T-Rexy says: Price too high? Shelves overflow and prices fall!",
-   "question": "If the price is above equilibrium, the market experiences:",
+   "memoryHook": "T-Rexy says: Above equilibrium, sellers outnumber buyers - surplus equals quantity supplied minus quantity demanded!",
+   "question": "The graph shows the market for headphones, with equilibrium at a price of $8 and a quantity of 300 units. If the current market price is $11, quantity demanded is 150 units and quantity supplied is 450 units. The market experiences:",
    "source": "original",
    "tags": [
     "microeconomics",
@@ -274,19 +274,19 @@
    ]
   },
   {
-   "correctAnswer": "Percentage change in quantity demanded divided by percentage change in price",
+   "correctAnswer": "3.0 - restaurant meals are a normal good, and demand is income-elastic (a luxury)",
    "difficulty": "medium",
    "distractors": [
-    "Change in price divided by change in quantity demanded",
-    "Total revenue divided by quantity sold",
-    "Percentage change in income divided by percentage change in quantity"
+    "0.33 - a normal good with an income-inelastic response",
+    "-3.0 - restaurant meals are an inferior good",
+    "0.3 - restaurant meals are a necessity"
    ],
    "dynamic": false,
-   "explanation": "Elasticity measures responsiveness: %ΔQd / %ΔP. Values above 1 (in absolute value) mean elastic demand.",
+   "explanation": "Income elasticity = percent change in quantity demanded / percent change in income. Quantity rises by 600/2,000 = 30 percent; income rises by 5,000/50,000 = 10 percent; 30 / 10 = 3.0. A positive value means a normal good, and a value above 1 means quantity responds more than proportionally to income - a luxury.",
    "id": "EECON_014",
    "imageUrl": "topic:elasticity",
-   "memoryHook": "T-Rexy says: Elasticity is a ratio of percents - how much buyers flinch when price moves!",
-   "question": "The price elasticity of demand is calculated as:",
+   "memoryHook": "T-Rexy says: Income elasticity is percent change in quantity over percent change in income - positive means normal, above 1 means luxury!",
+   "question": "When average household income in a city rises from $50,000 to $55,000, the quantity demanded of restaurant meals rises from 2,000 to 2,600 meals per week. The income elasticity of demand for restaurant meals is:",
    "source": "original",
    "tags": [
     "microeconomics",
@@ -574,19 +574,19 @@
    ]
   },
   {
-   "correctAnswer": "A benefit to third parties not involved in the transaction",
+   "correctAnswer": "Underproduces vaccinations by 300 per day, because buyers ignore the benefits their vaccination gives to others",
    "difficulty": "easy",
    "distractors": [
-    "A cost imposed on the buyer of a product",
-    "A tax collected by the government",
-    "A benefit captured only by the seller"
+    "Overproduces vaccinations by 300 per day, because buyers ignore the costs of vaccination",
+    "Produces the socially optimal quantity of vaccinations",
+    "Underproduces vaccinations by 700 per day, because buyers ignore the benefits to others"
    ],
    "dynamic": false,
-   "explanation": "Education creates spillover benefits for society (lower crime, better citizenship) beyond the student - a positive externality.",
+   "explanation": "A positive externality means marginal social benefit exceeds marginal private benefit, so the market stops at 700 while society would benefit from 1,000. Underproduction = 1,000 - 700 = 300 per day. A subsidy to buyers or producers could move the market to the social optimum.",
    "id": "EECON_029",
    "imageUrl": "topic:positive-externality",
-   "memoryHook": "T-Rexy says: Your schooling helps everyone - spillover benefits are positive externalities!",
-   "question": "A positive externality is best described as:",
+   "memoryHook": "T-Rexy says: Spillover benefits push MSB above MPB - the market stops too early, so the good is underproduced!",
+   "question": "The graph shows the market for flu vaccinations, which create spillover benefits for people other than the person vaccinated. The free market produces 700 vaccinations per day, while the socially optimal quantity - where the marginal social benefit curve meets supply - is 1,000 per day. Without government action, the market:",
    "source": "original",
    "tags": [
     "microeconomics",
@@ -594,19 +594,19 @@
    ]
   },
   {
-   "correctAnswer": "The market produces too much of the good",
+   "correctAnswer": "200 units - the socially optimal quantity is 800 units",
    "difficulty": "easy",
    "distractors": [
-    "The market produces too little of the good",
-    "The market produces the socially optimal amount",
-    "The government must ban the good entirely"
+    "0 units - the market outcome is already socially optimal",
+    "200 units - the socially optimal quantity is 1,200 units",
+    "800 units - the market produces 800 more units than is optimal"
    ],
    "dynamic": false,
-   "explanation": "Polluters ignore costs imposed on others, so their private cost is below social cost - leading to overproduction relative to the optimum.",
+   "explanation": "Pollution adds an external cost, so marginal social cost lies above marginal private cost. The market settles where demand meets MPC at 1,000 units, but the social optimum is where demand meets MSC at 800 units. Overproduction = 1,000 - 800 = 200 units. A per-unit tax equal to the external cost would close the gap.",
    "id": "EECON_030",
    "imageUrl": "topic:negative-externality",
-   "memoryHook": "T-Rexy says: Polluters skip the bill and make too much - negative externality!",
-   "question": "With an uncorrected negative externality in production:",
+   "memoryHook": "T-Rexy says: When MSC sits above MPC, the market makes too much - compare where demand crosses each cost curve!",
+   "question": "The graph shows a market with a negative production externality (pollution). The unregulated market produces 1,000 units, where demand (marginal private benefit) meets marginal private cost. The socially optimal quantity is where demand meets the marginal social cost curve. Based on the graph, by how much does the market overproduce?",
    "source": "original",
    "tags": [
     "microeconomics",
@@ -654,23 +654,23 @@
    ]
   },
   {
-   "correctAnswer": "Charging different prices to different buyers for the same good",
+   "correctAnswer": "No - capital yields more output per dollar (0.25 units vs 0.20 units), so the firm should shift spending toward capital until output per dollar is equal for both inputs",
    "difficulty": "easy",
    "distractors": [
-    "Charging one price to every buyer",
-    "Setting price equal to marginal cost",
-    "Giving the product away for free"
+    "Yes - the marginal product per dollar is already equal for both inputs",
+    "No - labor yields more output per dollar (0.20 units vs 0.25 units), so the firm should shift spending toward labor",
+    "Yes - because the last unit of capital adds more output than the last worker"
    ],
    "dynamic": false,
-   "explanation": "Airlines charge business travelers more than vacationers for the same seat - capturing more consumer surplus.",
+   "explanation": "The least-cost rule compares marginal product per dollar, not marginal product alone. Labor: 20 units / $100 = 0.20 units per dollar. Capital: 50 units / $200 = 0.25 units per dollar. Because a dollar spent on capital buys more extra output, the firm can produce the same output for less by using more capital and less labor, until MP/P is equal for both inputs.",
    "id": "EECON_033",
    "imageUrl": "topic:price-discrimination",
-   "memoryHook": "T-Rexy says: Same seat, different price tag - that is price discrimination!",
-   "question": "Price discrimination means:",
+   "memoryHook": "T-Rexy says: Compare output per dollar, not output per input - equal bang per buck is the least-cost rule!",
+   "question": "A firm hires labor and rents capital. The last worker hired adds 20 units of output and is paid $100 per day. The last unit of capital adds 50 units of output and rents for $200 per day. Is the firm using the cost-minimizing combination of inputs?",
    "source": "original",
    "tags": [
     "microeconomics",
-    "market-structures"
+    "factor-markets"
    ]
   },
   {
@@ -694,19 +694,19 @@
    ]
   },
   {
-   "correctAnswer": "Marginal revenue product equals marginal factor cost",
+   "correctAnswer": "MRP is $100 per day; hire the worker, because MRP exceeds the $90 wage",
    "difficulty": "hard",
    "distractors": [
-    "Wage equals average total cost",
-    "Marginal product equals zero",
-    "Total revenue equals total cost"
+    "MRP is $100 per day; do not hire, because the wage exceeds MRP",
+    "MRP is $625 per day; hire the worker",
+    "MRP is $29 per day; do not hire the worker"
    ],
    "dynamic": false,
-   "explanation": "Hire each worker whose added revenue (MRP) covers their added cost (MFC) - the factor-market version of MR = MC.",
+   "explanation": "Marginal revenue product = marginal product x price of output = 25 chairs x $4 = $100 per day. A profit-maximizing firm hires an additional worker whenever MRP is at least the marginal factor cost. Since $100 > $90, hiring this worker adds more to revenue than to cost.",
    "id": "EECON_035",
    "imageUrl": "topic:mrp-mfc",
-   "memoryHook": "T-Rexy says: Hire while the worker earns more than they cost - MRP equals MFC!",
-   "question": "A firm maximizes profit by hiring labor up to the point where:",
+   "memoryHook": "T-Rexy says: MRP = marginal product x price - hire while the worker brings in more than the wage costs!",
+   "question": "A worker at a furniture shop has a marginal product of 25 chairs per day, and each chair sells for $4. The daily wage the firm must pay (the marginal factor cost) is $90. What is the worker's marginal revenue product, and what should the firm do?",
    "source": "original",
    "tags": [
     "microeconomics",
@@ -874,19 +874,19 @@
    ]
   },
   {
-   "correctAnswer": "(Nominal GDP / Real GDP) x 100",
+   "correctAnswer": "$10.0 trillion",
    "difficulty": "hard",
    "distractors": [
-    "(Real GDP / Nominal GDP) x 100",
-    "Nominal GDP minus Real GDP",
-    "CPI multiplied by the unemployment rate"
+    "$15.63 trillion",
+    "$12.5 trillion",
+    "$12.38 trillion"
    ],
    "dynamic": false,
-   "explanation": "The GDP deflator is a broad price index covering everything in GDP - it rises when the price level rises.",
+   "explanation": "Real GDP = nominal GDP / (GDP deflator / 100) = 12.5 / 1.25 = $10.0 trillion. A deflator of 125 means the overall price level is 25 percent higher than in the base year, so removing inflation shrinks the nominal figure. Multiplying by 1.25 instead would inflate it the wrong way.",
    "id": "EECON_044",
    "imageUrl": "topic:gdp-deflator",
-   "memoryHook": "T-Rexy says: Nominal over real times 100 - the deflator reveals the price level!",
-   "question": "The GDP deflator is calculated as:",
+   "memoryHook": "T-Rexy says: Deflate it! Divide nominal GDP by the deflator as a decimal - 12.5 / 1.25 = 10!",
+   "question": "In 2024 a country's nominal GDP is $12.5 trillion and its GDP deflator is 125, with the base year set at 100. The country's real GDP in 2024 is:",
    "source": "original",
    "tags": [
     "macroeconomics",
@@ -974,19 +974,19 @@
    ]
   },
   {
-   "correctAnswer": "(Number unemployed / Labor force) x 100",
+   "correctAnswer": "5 percent",
    "difficulty": "easy",
    "distractors": [
-    "(Number unemployed / Total population) x 100",
-    "(Labor force / Number employed) x 100",
-    "Number employed minus number unemployed"
+    "5.3 percent",
+    "0.8 percent",
+    "95 percent"
    ],
    "dynamic": false,
-   "explanation": "Only people in the labor force (employed + actively seeking) count in the denominator.",
+   "explanation": "The labor force = employed + unemployed = 15.2 + 0.8 = 16.0 million. The unemployment rate = unemployed / labor force x 100 = 0.8 / 16.0 x 100 = 5 percent. Dividing by only the employed (0.8 / 15.2) gives the incorrect 5.3 percent.",
    "id": "EECON_049",
    "imageUrl": "topic:unemployment-rate",
-   "memoryHook": "T-Rexy says: Unemployed divided by labor force - the official jobless rate!",
-   "question": "The unemployment rate is calculated as:",
+   "memoryHook": "T-Rexy says: Divide the unemployed by the whole labor force - employed plus unemployed - never by the employed alone!",
+   "question": "A country has 15.2 million employed workers and 0.8 million unemployed workers who are actively looking for work. The unemployment rate is:",
    "source": "original",
    "tags": [
     "macroeconomics",
@@ -1014,23 +1014,23 @@
    ]
   },
   {
-   "correctAnswer": "Short-term joblessness between positions",
+   "correctAnswer": "6 units of output",
    "difficulty": "easy",
    "distractors": [
-    "Joblessness from obsolete skills",
-    "Joblessness caused by recessions",
-    "Permanent withdrawal from the labor force"
+    "42 units of output",
+    "10 units of output",
+    "10.5 units of output"
    ],
    "dynamic": false,
-   "explanation": "A graduate searching for a first job or a worker moving cities is frictionally unemployed - usually brief and voluntary.",
+   "explanation": "Marginal product = change in total product from hiring one more worker. Total product rises from 36 units with 3 workers to 42 units with 4 workers, so the fourth worker's marginal product is 42 - 36 = 6 units. The sequence of marginal products (12, 14, 10, 6, 2) also shows diminishing marginal returns. The 42 is total product and 10.5 is average product (42 / 4).",
    "id": "EECON_051",
    "imageUrl": "topic:frictional-unemployment",
-   "memoryHook": "T-Rexy says: Between jobs and looking around? That is frictional!",
-   "question": "Frictional unemployment refers to:",
+   "memoryHook": "T-Rexy says: Marginal means the change from the last worker hired - subtract the row above!",
+   "question": "The table in the image shows total product for each number of workers at a bakery. The marginal product of the fourth worker is:",
    "source": "original",
    "tags": [
-    "macroeconomics",
-    "unemployment"
+    "microeconomics",
+    "production-costs"
    ]
   },
   {
@@ -1134,23 +1134,23 @@
    ]
   },
   {
-   "correctAnswer": "Peak, contraction, trough, expansion",
+   "correctAnswer": "CPI of 110 and an inflation rate of 10 percent",
    "difficulty": "medium",
    "distractors": [
-    "Inflation, deflation, stagnation, growth",
-    "Boom, bust, recovery, depression only",
-    "Trough, peak, inflation, recession"
+    "CPI of 110 and an inflation rate of 25 percent",
+    "CPI of 90 and an inflation rate of -10 percent",
+    "CPI of 275 and an inflation rate of 275 percent"
    ],
    "dynamic": false,
-   "explanation": "The economy cycles through high points (peaks), downturns (contractions), low points (troughs), and recoveries (expansions).",
+   "explanation": "CPI = (cost of basket in the later year / cost in the base year) x 100 = (275 / 250) x 100 = 110. The inflation rate is the percent change in the CPI: (110 - 100) / 100 = 10 percent. The $25 price rise is measured against the $250 base, not treated as 25 percent itself.",
    "id": "EECON_057",
    "imageUrl": "topic:business-cycle",
-   "memoryHook": "T-Rexy says: Peak, fall, bottom, climb - the business cycle loop!",
-   "question": "The four phases of the business cycle are:",
+   "memoryHook": "T-Rexy says: CPI is basket cost now over basket cost in the base year, times 100 - 275 over 250 gives 110, a 10 percent rise!",
+   "question": "The market basket used for the consumer price index (CPI) costs $250 in the base year and $275 one year later. The CPI for the later year (base year = 100) and the inflation rate are:",
    "source": "original",
    "tags": [
     "macroeconomics",
-    "gdp"
+    "inflation"
    ]
   },
   {
@@ -1174,19 +1174,19 @@
    ]
   },
   {
-   "correctAnswer": "Real GDP divided by population",
+   "correctAnswer": "$32,000",
    "difficulty": "medium",
    "distractors": [
-    "Nominal GDP divided by the price level only",
-    "Total GDP multiplied by population",
-    "GDP minus government spending"
+    "$3,200",
+    "$320,000",
+    "$8,000"
    ],
    "dynamic": false,
-   "explanation": "Per capita output adjusts for population size, giving a rough measure of average living standards.",
+   "explanation": "Real GDP per capita = real GDP / population = $8,000,000,000,000 / 250,000,000 = $32,000 per person. It is the standard measure of average living standards because it adjusts total output for the size of the population.",
    "id": "EECON_059",
    "imageUrl": "topic:gdp-per-capita",
-   "memoryHook": "T-Rexy says: Split GDP among everyone - per capita living standards!",
-   "question": "Real GDP per capita is calculated as:",
+   "memoryHook": "T-Rexy says: Per capita means per person - divide total real GDP by the whole population!",
+   "question": "A country's real GDP is $8 trillion and its population is 250 million. Real GDP per capita is:",
    "source": "original",
    "tags": [
     "macroeconomics",
@@ -1194,19 +1194,19 @@
    ]
   },
   {
-   "correctAnswer": "70 divided by the annual growth rate",
+   "correctAnswer": "Country A doubles in about 20 years - twice as long as Country B's 10 years",
    "difficulty": "hard",
    "distractors": [
-    "The growth rate divided by 70",
-    "70 multiplied by the growth rate",
-    "100 divided by the inflation rate"
+    "Country A doubles in about 10 years, the same as Country B",
+    "Country A doubles in about 2 years",
+    "Country A doubles in about 24.5 years"
    ],
    "dynamic": false,
-   "explanation": "At 7% growth, GDP doubles in about 10 years (70/7) - a handy approximation for compounding.",
+   "explanation": "Rule of 70: doubling time = 70 / annual growth rate. Country A: 70 / 3.5 = 20 years. Country B: 70 / 7 = 10 years. Half the growth rate means twice the doubling time, which is why small growth-rate differences matter enormously over a generation.",
    "id": "EECON_060",
    "imageUrl": "topic:rule-of-70",
-   "memoryHook": "T-Rexy says: 70 over growth rate - doubling time in a snap!",
-   "question": "The rule of 70 estimates doubling time as:",
+   "memoryHook": "T-Rexy says: 70 divided by the growth rate gives doubling years - half the growth rate means twice the wait!",
+   "question": "Country A's real GDP grows at 3.5 percent per year and Country B's grows at 7 percent per year. Using the rule of 70, how long will it take Country A's real GDP to double, and how does that compare with Country B?",
    "source": "original",
    "tags": [
     "macroeconomics",
@@ -1274,19 +1274,19 @@
    ]
   },
   {
-   "correctAnswer": "1 / (1 - MPC)",
+   "correctAnswer": "$120 billion",
    "difficulty": "hard",
    "distractors": [
-    "MPC / (1 - MPC)",
-    "1 / MPC",
-    "(1 - MPC) / MPC"
+    "$160 billion",
+    "$30 billion",
+    "$40 billion"
    ],
    "dynamic": false,
-   "explanation": "Each spending round re-spends a fraction (MPC), creating a geometric series that sums to the multiplier.",
+   "explanation": "The tax multiplier = -MPC / (1 - MPC) = -0.75 / 0.25 = -3. A $40 billion tax cut therefore raises real GDP by 3 x $40 billion = $120 billion. It is smaller than the spending multiplier (4, which would give $160 billion) because households save part of the tax cut before any spending round begins; the $30 billion is only the first round of spending (0.75 x $40 billion).",
    "id": "EECON_064",
    "imageUrl": "topic:spending-multiplier",
-   "memoryHook": "T-Rexy says: One over one-minus-MPC - the spending multiplier!",
-   "question": "The government spending multiplier equals:",
+   "memoryHook": "T-Rexy says: The tax multiplier is MPC over MPS with a minus sign - part of every tax cut leaks into saving first!",
+   "question": "The marginal propensity to consume is 0.75. The government cuts taxes by $40 billion, with no change in government spending. Assuming a fixed price level and no crowding out, the tax cut ultimately increases equilibrium real GDP by:",
    "source": "original",
    "tags": [
     "macroeconomics",
@@ -1294,19 +1294,19 @@
    ]
   },
   {
-   "correctAnswer": "MPC + MPS = 1",
+   "correctAnswer": "$100 - the MPS is 0.2, so one-fifth of the extra $500 is saved",
    "difficulty": "medium",
    "distractors": [
-    "MPC x MPS = 1",
-    "MPC - MPS = 1",
-    "MPC / MPS = 1"
+    "$400 - four-fifths of the extra $500 is saved",
+    "$500 - all of the extra income is saved",
+    "$80 - the MPS is 0.2, applied to the original $400"
    ],
    "dynamic": false,
-   "explanation": "Every extra dollar of income is either consumed or saved - the two propensities sum to one.",
+   "explanation": "MPC = change in consumption / change in income = 800 / 1,000 = 0.8, so MPS = 1 - MPC = 0.2. The extra saving from another $500 of income is 0.2 x $500 = $100. The $400 figure applies the MPC (the consumption share) instead of the MPS.",
    "id": "EECON_065",
    "imageUrl": "topic:mpc-mps",
-   "memoryHook": "T-Rexy says: Spend it or save it - MPC plus MPS always equals one!",
-   "question": "The relationship between the marginal propensity to consume and to save is:",
+   "memoryHook": "T-Rexy says: MPC + MPS = 1 - find the saving slice first, then multiply by the new income!",
+   "question": "When households' disposable income rises by $1,000, their consumption rises by $800. If disposable income then rises by another $500, by how much does household saving rise?",
    "source": "original",
    "tags": [
     "macroeconomics",
@@ -1474,19 +1474,19 @@
    ]
   },
   {
-   "correctAnswer": "1 / required reserve ratio",
+   "correctAnswer": "$9,000 - its excess reserves",
    "difficulty": "hard",
    "distractors": [
-    "Required reserve ratio x deposits",
-    "Deposits minus required reserves",
-    "1 - required reserve ratio"
+    "$10,000 - the whole deposit",
+    "$100,000 - the maximum expansion for the banking system as a whole",
+    "$1,000 - its required reserves"
    ],
    "dynamic": false,
-   "explanation": "With a 10% ratio, each $1 of reserves can support $10 of deposits through repeated lending.",
+   "explanation": "Required reserves = 10 percent x $10,000 = $1,000 must be kept. The bank can lend only its excess reserves: $10,000 - $1,000 = $9,000. The $100,000 figure is the maximum total money creation by the entire banking system (multiplier 1 / 0.10 = 10 applied to the deposit through many banks), not what one bank can lend.",
    "id": "EECON_074",
    "imageUrl": "topic:money-multiplier",
-   "memoryHook": "T-Rexy says: Flip the reserve ratio - that is the money multiplier!",
-   "question": "The simple money multiplier equals:",
+   "memoryHook": "T-Rexy says: One bank lends only its excess reserves - the big multiplier number belongs to the whole banking system!",
+   "question": "A bank receives a brand-new deposit of $10,000. The required reserve ratio is 10 percent, and the bank holds no excess reserves before the deposit. What is the maximum amount this single bank can lend out?",
    "source": "original",
    "tags": [
     "macroeconomics",
@@ -1694,19 +1694,19 @@
    ]
   },
   {
-   "correctAnswer": "Imports exceed exports in value",
+   "correctAnswer": "The current account deficit of $150 billion is exactly offset by a financial account surplus of $150 billion, so the balance of payments balances",
    "difficulty": "hard",
    "distractors": [
-    "Exports exceed imports in value",
-    "The currency is appreciating",
-    "The government runs a budget surplus"
+    "The financial account surplus is $50 billion, so the two accounts do not offset each other",
+    "The current account is in surplus by $150 billion because foreigners are investing in the country",
+    "The country must also be running a government budget surplus of $150 billion"
    ],
    "dynamic": false,
-   "explanation": "Net exports (exports minus imports) are negative in a deficit: the value of what the nation buys from abroad exceeds the value of what it sells abroad, so Xn pulls GDP down.",
+   "explanation": "Current account = exports - imports = 600 - 750 = -$150 billion. Financial account = foreign purchases of domestic assets - domestic purchases of foreign assets = 200 - 50 = +$150 billion. The two sum to zero: a current account deficit is financed by net asset sales to foreigners. The budget balance is a separate government concept, not part of this identity.",
    "id": "EECON_085",
    "imageUrl": "topic:trade-deficit",
-   "memoryHook": "T-Rexy says: Buying more than selling abroad? Trade deficit!",
-   "question": "A trade deficit means:",
+   "memoryHook": "T-Rexy says: A trade deficit is paid for with asset sales - the current and financial accounts always offset!",
+   "question": "In one year a country exports $600 billion of goods and services and imports $750 billion. Ignoring income and transfer flows, its current account balance is a deficit of $150 billion. During the same year, foreigners buy $200 billion of the country's assets while its residents buy $50 billion of foreign assets. Which statement correctly describes the balance of payments?",
    "source": "original",
    "tags": [
     "macroeconomics",
@@ -1754,19 +1754,19 @@
    ]
   },
   {
-   "correctAnswer": "An inverse relationship between inflation and unemployment in the short run",
+   "correctAnswer": "Unemployment returns to 5 percent but inflation stays at 5 percent - the short-run Phillips curve shifts up",
    "difficulty": "hard",
    "distractors": [
-    "A direct relationship between inflation and GDP",
-    "No relationship between inflation and unemployment",
-    "A vertical curve at the natural rate in the short run"
+    "Unemployment returns to 5 percent and inflation returns to 2 percent",
+    "Unemployment stays at 3 percent with 5 percent inflation permanently",
+    "Unemployment returns to 5 percent and inflation falls to zero"
    ],
    "dynamic": false,
-   "explanation": "In the short run, boosting demand lowers unemployment but raises inflation - policymakers face a tradeoff.",
+   "explanation": "Moving to 3 percent unemployment is a movement along the original short-run Phillips curve: unexpectedly high inflation of 5 percent. Once expected inflation rises from 2 to 5 percent, the short-run Phillips curve shifts up, and the economy settles back on the vertical long-run Phillips curve at 5 percent unemployment - but now with 5 percent inflation. There is no long-run tradeoff.",
    "id": "EECON_088",
    "imageUrl": "topic:phillips-curve",
-   "memoryHook": "T-Rexy says: Short run? Less joblessness costs more inflation - the tradeoff!",
-   "question": "The short-run Phillips curve shows:",
+   "memoryHook": "T-Rexy says: Surprise inflation only works once - when expectations catch up, the SRPC shifts up and only the higher inflation remains!",
+   "question": "The graph shows an economy starting at the natural rate of unemployment (5 percent) with inflation of 2 percent. Policymakers push unemployment down to 3 percent and inflation rises to 5 percent along the short-run Phillips curve. After workers and firms fully adjust their inflation expectations and unemployment returns to the natural rate, what happens?",
    "source": "original",
    "tags": [
     "macroeconomics",
@@ -1854,19 +1854,19 @@
    ]
   },
   {
-   "correctAnswer": "Vertical at the full-employment level of output",
+   "correctAnswer": "Increasing government spending (or cutting taxes) shifts aggregate demand to the right, raising output toward $1,000 billion and raising the price level",
    "difficulty": "hard",
    "distractors": [
-    "Horizontal at the current price level",
-    "Downward sloping like demand",
-    "Upward sloping like short-run supply"
+    "The Federal Reserve selling bonds shifts aggregate demand to the right and closes the gap",
+    "Raising income taxes shifts aggregate demand to the right toward full employment",
+    "Increasing government spending shifts short-run aggregate supply to the right with no change in the price level"
    ],
    "dynamic": false,
-   "explanation": "In the long run, wages and prices fully adjust, so output returns to potential regardless of the price level.",
+   "explanation": "Output of $800 billion is below the $1,000 billion full-employment level - a recessionary gap of $200 billion. Expansionary fiscal policy (more government spending or lower taxes) shifts aggregate demand right, moving equilibrium output toward LRAS; the price level rises as the gap closes. Selling bonds is contractionary monetary policy and raising taxes is contractionary fiscal policy - both shift AD the wrong way.",
    "id": "EECON_093",
    "imageUrl": "topic:lras",
-   "memoryHook": "T-Rexy says: Long run? Output stands tall at full employment - vertical LRAS!",
-   "question": "The long-run aggregate supply curve is:",
+   "memoryHook": "T-Rexy says: Recessionary gap? Push AD right with more spending or lower taxes until output meets LRAS!",
+   "question": "The graph shows an economy with short-run equilibrium output of $800 billion and full-employment output of $1,000 billion, where the long-run aggregate supply curve is located. Which policy action would help close this gap, and what is its effect in the AD-AS model?",
    "source": "original",
    "tags": [
     "macroeconomics",
@@ -1954,19 +1954,19 @@
    ]
   },
   {
-   "correctAnswer": "Money supply times velocity equals price level times real output",
+   "correctAnswer": "$5",
    "difficulty": "medium",
    "distractors": [
-    "Money supply plus velocity equals inflation",
-    "Velocity always equals the interest rate",
-    "Prices times output equals unemployment"
+    "$1.25",
+    "$0.80",
+    "$125"
    ],
    "dynamic": false,
-   "explanation": "MV = PQ is the quantity equation - with stable velocity, money growth drives nominal GDP.",
+   "explanation": "MV = 500 x 4 = $2,000 billion of nominal spending, so PY = $2,000 billion. With Y = 400 billion units, P = 2,000 / 400 = $5 per unit. The $1.25 distractor forgets to multiply by velocity (500 / 400).",
    "id": "EECON_098",
    "imageUrl": "topic:quantity-equation",
-   "memoryHook": "T-Rexy says: MV equals PQ - money times speed equals prices times stuff!",
-   "question": "The quantity equation of money states:",
+   "memoryHook": "T-Rexy says: MV = PY - multiply money by velocity first, then divide by real output to find the price level!",
+   "question": "The money supply is $500 billion and the velocity of money is 4. Real GDP is 400 billion units of output. According to the quantity equation of money (MV = PY), the average price level is:",
    "source": "original",
    "tags": [
     "macroeconomics",
@@ -1974,19 +1974,19 @@
    ]
   },
   {
-   "correctAnswer": "People respond to incentives",
+   "correctAnswer": "200 tons of grain",
    "difficulty": "easy",
    "distractors": [
-    "People ignore prices completely",
-    "Government planning always works best",
-    "Scarcity does not exist"
+    "100 tons of grain",
+    "700 tons of grain",
+    "400 tons of grain"
    ],
    "dynamic": false,
-   "explanation": "A core principle: taxes, subsidies, and prices change behavior because incentives matter.",
+   "explanation": "Moving from B to C raises car production from 100 to 200, while grain production falls from 900 to 700 tons. The opportunity cost of those extra 100 cars is what is given up: 900 - 700 = 200 tons of grain. Rising opportunity cost along the curve is why the PPC bows outward.",
    "id": "EECON_099",
    "imageUrl": "topic:incentives",
-   "memoryHook": "T-Rexy says: Dangle a reward and watch behavior change - incentives rule!",
-   "question": "Which statement best captures a core principle of economics?",
+   "memoryHook": "T-Rexy says: Opportunity cost is what disappears between two points on the curve - count what you give up, not what you keep!",
+   "question": "The production possibilities table in the image shows the maximum combinations of cars and grain a country can produce. If the country moves from point B to point C, what is the opportunity cost of the additional cars?",
    "source": "original",
    "tags": [
     "microeconomics",
