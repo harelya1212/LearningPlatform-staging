@@ -29,7 +29,7 @@
         "nutrition",
         "nutrients"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -109,7 +109,7 @@
         "nutrition",
         "hydration"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -122,7 +122,7 @@
         "Strong bones",
         "Sharp vision"
       ],
-      "explanation": "Fiber keeps digestion moving and helps you feel full.",
+      "explanation": "Fiber adds bulk that moves food through the intestines, feeds gut bacteria, and slows digestion so meals satisfy longer.",
       "memoryHook": "T-Rexy says: Fiber keeps your digestion on track.",
       "imageUrl": "topic:health",
       "tags": [
@@ -149,7 +149,7 @@
         "nutrition",
         "fats"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -169,7 +169,7 @@
         "nutrition",
         "fats"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -189,7 +189,7 @@
         "nutrition",
         "minerals"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -222,14 +222,14 @@
         "A type of fat",
         "A mineral"
       ],
-      "explanation": "A calorie measures the energy food provides.",
+      "explanation": "A calorie measures energy: carbs and protein give about 4 per gram, fat about 9, and your body spends them on movement, growth, and basic functions like breathing.",
       "memoryHook": "T-Rexy says: A calorie is a unit of food energy.",
       "imageUrl": "topic:health",
       "tags": [
         "nutrition",
         "basics"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -262,7 +262,7 @@
         "Meat and eggs",
         "Butter and oil"
       ],
-      "explanation": "Vitamin C is abundant in citrus fruits, bell peppers, and broccoli.",
+      "explanation": "Vitamin C supports the immune system, helps build collagen for skin and healing, and acts as an antioxidant; citrus fruits, bell peppers, and broccoli are rich sources.",
       "memoryHook": "T-Rexy says: Oranges and peppers are packed with vitamin C.",
       "imageUrl": "topic:health",
       "tags": [
@@ -289,7 +289,7 @@
         "nutrition",
         "nutrients"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -302,7 +302,7 @@
         "One tenth",
         "All of it"
       ],
-      "explanation": "MyPlate recommends filling about half your plate with fruits and vegetables.",
+      "explanation": "MyPlate divides the plate into food groups; filling half with fruits and vegetables packs in fiber, vitamins, and water without many calories.",
       "memoryHook": "T-Rexy says: Half your plate should be fruits and veggies.",
       "imageUrl": "topic:health",
       "tags": [
@@ -329,7 +329,7 @@
         "nutrition",
         "sodium"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -342,14 +342,14 @@
         "1 tablespoon",
         "3 cups"
       ],
-      "explanation": "A standard vegetable serving is about 1 cup raw or half a cup cooked.",
+      "explanation": "Cooking shrinks vegetables, so half a cup cooked equals about a cup raw; use your fist as a rough guide for one cup.",
       "memoryHook": "T-Rexy says: One cup raw is a serving of veggies.",
       "imageUrl": "topic:health",
       "tags": [
         "nutrition",
         "servings"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -389,7 +389,7 @@
         "nutrition",
         "hydration"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -409,7 +409,7 @@
         "nutrition",
         "conditions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -422,7 +422,7 @@
         "A measure of fat content",
         "A measure of protein quality"
       ],
-      "explanation": "The glycemic index ranks foods by how fast they raise blood glucose.",
+      "explanation": "High-GI foods like white bread digest fast and spike blood sugar, while low-GI foods like beans release glucose slowly and keep energy steadier.",
       "memoryHook": "T-Rexy says: High glycemic foods spike blood sugar fast.",
       "imageUrl": "topic:health",
       "tags": [
@@ -469,7 +469,7 @@
         "nutrition",
         "minerals"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -482,7 +482,7 @@
         "Eating the same food every day",
         "Avoiding all fats"
       ],
-      "explanation": "A balanced diet includes foods from all groups in proper proportions.",
+      "explanation": "No single food has every nutrient, so a balanced diet mixes all the food groups in the amounts your age, size, and activity level need.",
       "memoryHook": "T-Rexy says: Balance means variety in the right amounts.",
       "imageUrl": "topic:health",
       "tags": [
@@ -509,7 +509,7 @@
         "nutrition",
         "exercise"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -522,7 +522,7 @@
         "30 minutes",
         "120 minutes"
       ],
-      "explanation": "Health guidelines recommend at least 60 minutes of physical activity daily for teens.",
+      "explanation": "The 60 minutes can mix moderate and vigorous activity, including sports, walking, and play; it strengthens the heart, bones, and mood.",
       "memoryHook": "T-Rexy says: Sixty minutes a day keeps teens healthy.",
       "imageUrl": "topic:health",
       "tags": [
@@ -562,14 +562,14 @@
         "120 to 140",
         "150 to 180"
       ],
-      "explanation": "A normal resting heart rate for teens is roughly 60 to 100 beats per minute.",
+      "explanation": "Measure it first thing in the morning before getting up; trained athletes often rest below 60, while a resting rate regularly over 100 is worth a checkup.",
       "memoryHook": "T-Rexy says: Resting heart rate is usually 60 to 100.",
       "imageUrl": "topic:health",
       "tags": [
         "fitness",
         "heart"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -602,7 +602,7 @@
         "To burn more calories",
         "To skip stretching"
       ],
-      "explanation": "Cooling down lets your heart rate and breathing return to normal gradually.",
+      "explanation": "Stopping suddenly lets blood pool in the legs, which can cause dizziness; a few minutes of easy movement keeps it circulating while your heart rate falls.",
       "memoryHook": "T-Rexy says: Cool down to let your body settle.",
       "imageUrl": "topic:health",
       "tags": [
@@ -642,14 +642,14 @@
         "How fast you can run",
         "How flexible you are"
       ],
-      "explanation": "Muscular strength is the most force a muscle can exert at once.",
+      "explanation": "Think of one all-out effort, like a single heavy lift; strength depends on muscle size and how many fibers the nerves can recruit at once.",
       "memoryHook": "T-Rexy says: Strength is max force in one effort.",
       "imageUrl": "topic:health",
       "tags": [
         "fitness",
         "strength"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -662,7 +662,7 @@
         "How flexible joints are",
         "How fast the heart beats"
       ],
-      "explanation": "Muscular endurance is how long muscles can keep working.",
+      "explanation": "Endurance shows in repetitions, like many push-ups in a row; it depends on the muscle's ability to keep contracting and clear waste products.",
       "memoryHook": "T-Rexy says: Endurance is lasting power.",
       "imageUrl": "topic:health",
       "tags": [
@@ -682,7 +682,7 @@
         "90 to 100 percent",
         "5 to 10 percent"
       ],
-      "explanation": "Moderate exercise targets about 50 to 70 percent of your maximum heart rate.",
+      "explanation": "In the moderate zone you can talk but not sing; for a 16-year-old with a max near 204, that is roughly 100 to 143 beats per minute.",
       "memoryHook": "T-Rexy says: Moderate exercise is 50 to 70 percent of max.",
       "imageUrl": "topic:health",
       "tags": [
@@ -702,7 +702,7 @@
         "Age times 2",
         "220 plus your age"
       ],
-      "explanation": "Maximum heart rate is often estimated as 220 minus age.",
+      "explanation": "The 220-minus-age formula is only a rough estimate - real maximums vary by about 10 to 12 beats either way - but it is a handy starting point for training zones.",
       "memoryHook": "T-Rexy says: Max heart rate is about 220 minus your age.",
       "imageUrl": "topic:health",
       "tags": [
@@ -722,7 +722,7 @@
         "Fitness, Injury, Treatment, and Therapy",
         "Flexibility, Intensity, Training, and Time"
       ],
-      "explanation": "FITT stands for Frequency, Intensity, Time, and Type, the parts of a workout plan.",
+      "explanation": "FITT lets you adjust a plan one piece at a time: how often, how hard, how long, and what activity; changing one part is how you progress safely.",
       "memoryHook": "T-Rexy says: FITT is frequency, intensity, time, type.",
       "imageUrl": "topic:health",
       "tags": [
@@ -749,7 +749,7 @@
         "fitness",
         "safety"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -769,7 +769,7 @@
         "fitness",
         "first-aid"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -782,14 +782,14 @@
         "Once a month",
         "Never"
       ],
-      "explanation": "Guidelines recommend muscle-strengthening activities at least 3 days a week.",
+      "explanation": "Muscle and bone strengthening can count inside the daily 60 minutes, and muscles need rest days between hard sessions to rebuild.",
       "memoryHook": "T-Rexy says: Strength training three days a week.",
       "imageUrl": "topic:health",
       "tags": [
         "fitness",
         "strength"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -822,7 +822,7 @@
         "A measure of flexibility",
         "A blood test"
       ],
-      "explanation": "BMI, body mass index, compares weight to height as a screening tool.",
+      "explanation": "BMI cannot tell muscle from fat, so it only screens for possible risk; for teens the number is read as a percentile for age and sex, not the adult scale.",
       "memoryHook": "T-Rexy says: BMI compares weight to height.",
       "imageUrl": "topic:health",
       "tags": [
@@ -849,7 +849,7 @@
         "fitness",
         "recovery"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -869,7 +869,7 @@
         "fitness",
         "hydration"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -882,7 +882,7 @@
         "It replaces sleep",
         "It cures all disease"
       ],
-      "explanation": "Exercise improves mood, memory, and concentration.",
+      "explanation": "Exercise increases blood flow to the brain and releases chemicals like endorphins, which lift mood and sharpen memory and focus.",
       "memoryHook": "T-Rexy says: Exercise boosts mood and focus.",
       "imageUrl": "topic:health",
       "tags": [
@@ -909,7 +909,7 @@
         "fitness",
         "injuries"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -942,7 +942,7 @@
         "Skipping meals",
         "Staying up all night"
       ],
-      "explanation": "Healthy coping includes exercise, rest, social support, and relaxation techniques.",
+      "explanation": "Healthy coping lowers stress hormones instead of just distracting you: movement burns off tension, sleep resets mood, and talking or slow breathing calms the stress response.",
       "memoryHook": "T-Rexy says: Move, sleep, talk, breathe.",
       "imageUrl": "topic:health",
       "tags": [
@@ -989,7 +989,7 @@
         "mental-health",
         "depression"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1009,7 +1009,7 @@
         "mental-health",
         "safety"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1022,7 +1022,7 @@
         "411",
         "311"
       ],
-      "explanation": "988 is the Suicide and Crisis Lifeline in the United States.",
+      "explanation": "You can call or text 988 any time, day or night, for free and confidential support from trained counselors during a mental health crisis.",
       "memoryHook": "T-Rexy says: 988 is the crisis lifeline.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1042,7 +1042,7 @@
         "Judging others",
         "Ignoring others' problems"
       ],
-      "explanation": "Empathy means understanding what someone else feels.",
+      "explanation": "Empathy goes beyond feeling sorry for someone: you imagine the situation from their side, which is why it helps you respond with real support.",
       "memoryHook": "T-Rexy says: Empathy is feeling with someone.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1062,14 +1062,14 @@
         "One with no disagreements",
         "One where you never say no"
       ],
-      "explanation": "Healthy relationships feature mutual respect, trust, and open communication.",
+      "explanation": "In a healthy relationship both people keep their own friends and opinions, listen to each other, and can disagree without fear or control.",
       "memoryHook": "T-Rexy says: Healthy means respect, trust, and honesty.",
       "imageUrl": "topic:health",
       "tags": [
         "relationships",
         "healthy"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1089,7 +1089,7 @@
         "relationships",
         "consent"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1102,14 +1102,14 @@
         "A joke between friends",
         "Constructive criticism"
       ],
-      "explanation": "Bullying is repeated aggressive behavior where one side has more power.",
+      "explanation": "Bullying can be physical, verbal, or social, like hitting, name-calling, or spreading rumors; the repetition and power gap are what separate it from a normal conflict.",
       "memoryHook": "T-Rexy says: Bullying is repeated and one-sided.",
       "imageUrl": "topic:health",
       "tags": [
         "relationships",
         "bullying"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1149,7 +1149,7 @@
         "relationships",
         "bullying"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1162,7 +1162,7 @@
         "A type of bullying only",
         "A school rule"
       ],
-      "explanation": "Peer pressure is the influence of friends or classmates on your choices.",
+      "explanation": "Peer pressure can be negative, like daring you to vape, or positive, like friends pulling you into studying or trying out for a team.",
       "memoryHook": "T-Rexy says: Peer pressure is friends pushing you to follow.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1202,7 +1202,7 @@
         "Your grades",
         "Your appearance only"
       ],
-      "explanation": "Self-esteem is your overall sense of self-worth.",
+      "explanation": "Self-esteem grows from competence and how you talk to yourself; it affects whether you try new things and how you bounce back from setbacks.",
       "memoryHook": "T-Rexy says: Self-esteem is how you see yourself.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1262,14 +1262,14 @@
         "It has no effect",
         "It replaces studying"
       ],
-      "explanation": "Sleep helps the brain store memories and stay focused the next day.",
+      "explanation": "During deep sleep the brain replays and consolidates the day's learning, moving it into long-term memory, which is why all-night cramming backfires.",
       "memoryHook": "T-Rexy says: Sleep locks in what you learned.",
       "imageUrl": "topic:health",
       "tags": [
         "mental-health",
         "sleep"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1282,7 +1282,7 @@
         "Avoiding challenges",
         "Giving up easily"
       ],
-      "explanation": "A growth mindset holds that effort and practice can grow your abilities.",
+      "explanation": "With a growth mindset, mistakes are information, not proof of failure, so students persist longer and choose harder challenges.",
       "memoryHook": "T-Rexy says: A growth mindset says you can get better.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1309,7 +1309,7 @@
         "mental-health",
         "emotions"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1369,7 +1369,7 @@
         "substances",
         "vaping"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1409,7 +1409,7 @@
         "substances",
         "alcohol"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1449,7 +1449,7 @@
         "health",
         "sti"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1469,7 +1469,7 @@
         "health",
         "disease"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1489,7 +1489,7 @@
         "health",
         "disease"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1509,7 +1509,7 @@
         "health",
         "disease"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1569,7 +1569,7 @@
         "first-aid",
         "cuts"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1582,7 +1582,7 @@
         "Blow your nose hard",
         "Put ice on your neck only"
       ],
-      "explanation": "Leaning forward and pinching the nose helps a nosebleed stop.",
+      "explanation": "Pinch the soft part of the nose for 10 to 15 minutes while leaning forward so blood does not run down the throat; leaning back only makes you swallow blood.",
       "memoryHook": "T-Rexy says: Lean forward and pinch for a nosebleed.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1609,7 +1609,7 @@
         "first-aid",
         "choking"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1622,7 +1622,7 @@
         "A way to stop bleeding",
         "A treatment for burns"
       ],
-      "explanation": "CPR uses chest compressions to circulate blood when someone's heart has stopped.",
+      "explanation": "Call 911 and start compressions in the center of the chest, hard and fast; hands-only CPR from a bystander can double or triple survival until help arrives.",
       "memoryHook": "T-Rexy says: CPR keeps blood moving when the heart stops.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1669,7 +1669,7 @@
         "first-aid",
         "burns"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1729,7 +1729,7 @@
         "health",
         "food-safety"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1749,7 +1749,7 @@
         "health",
         "food-safety"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1802,14 +1802,14 @@
         "Cancer",
         "Diabetes"
       ],
-      "explanation": "Car crashes and other unintentional injuries are the top cause of teen deaths.",
+      "explanation": "Most of these deaths, from crashes, drowning, and poisoning, are preventable with seatbelts, sober driving, and basic safety habits.",
       "memoryHook": "T-Rexy says: Crashes are the top killer of teens.",
       "imageUrl": "topic:health",
       "tags": [
         "safety",
         "teens"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1829,7 +1829,7 @@
         "safety",
         "driving"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1849,7 +1849,7 @@
         "safety",
         "online"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1862,7 +1862,7 @@
         "Your pet's name",
         "The word password"
       ],
-      "explanation": "Strong passwords are long, varied, and different for each account.",
+      "explanation": "Aim for at least 12 characters or a passphrase of random words, use a password manager to keep each one unique, and turn on two-factor authentication.",
       "memoryHook": "T-Rexy says: Long, mixed, and unique makes a strong password.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1902,7 +1902,7 @@
         "Type 2 affects only children",
         "They are the same disease"
       ],
-      "explanation": "In type 1 the body stops making insulin; in type 2 the body resists insulin's effects.",
+      "explanation": "Type 1 is autoimmune and is not caused by diet, so it needs insulin every day; type 2 develops over time as cells respond less to insulin and is strongly tied to weight and activity.",
       "memoryHook": "T-Rexy says: Type 1 makes no insulin, type 2 resists it.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1922,14 +1922,14 @@
         "Avoid all fat",
         "Exercise once a month"
       ],
-      "explanation": "Regular exercise, a healthy diet, no smoking, and controlled blood pressure lower heart risk.",
+      "explanation": "Aim for about 150 minutes of moderate activity a week, limit sodium and saturated fat, never smoke, and keep blood pressure in range; together these habits protect arteries for decades.",
       "memoryHook": "T-Rexy says: Move, eat well, do not smoke.",
       "imageUrl": "topic:health",
       "tags": [
         "health",
         "heart"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1962,7 +1962,7 @@
         "To digest food",
         "To filter blood"
       ],
-      "explanation": "The respiratory system exchanges gases between air and blood.",
+      "explanation": "Air travels down the trachea into the lungs, where tiny air sacs called alveoli pass oxygen into the blood and take carbon dioxide out with each breath.",
       "memoryHook": "T-Rexy says: Breathing brings in oxygen and removes CO2.",
       "imageUrl": "topic:health",
       "tags": [
@@ -1982,7 +1982,7 @@
         "To make insulin",
         "To store fat"
       ],
-      "explanation": "Kidneys filter blood and remove waste as urine.",
+      "explanation": "Each day the kidneys filter about 180 liters of fluid, keeping what the body needs and sending waste, extra water, and salts out as urine; they also help control blood pressure.",
       "memoryHook": "T-Rexy says: Kidneys filter your blood.",
       "imageUrl": "topic:health",
       "tags": [
@@ -2002,7 +2002,7 @@
         "Avoid all people",
         "Drink orange juice only"
       ],
-      "explanation": "Annual flu vaccination and handwashing are the best flu prevention.",
+      "explanation": "The flu virus changes every year, which is why the vaccine is updated annually; handwashing with soap removes viruses picked up from surfaces and hands.",
       "memoryHook": "T-Rexy says: Flu shots and handwashing beat the flu.",
       "imageUrl": "topic:health",
       "tags": [
