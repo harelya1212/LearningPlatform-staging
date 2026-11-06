@@ -22,7 +22,7 @@
         "The Bill of Rights only",
         "State laws"
       ],
-      "explanation": "The Constitution is the supreme law of the land.",
+      "explanation": "The Constitution sits above every other law: federal statutes, state constitutions, and state laws must all agree with it, and courts strike down laws that conflict with it.",
       "memoryHook": "T-Rexy says: The Constitution is supreme.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -42,14 +42,14 @@
         "1800",
         "1865"
       ],
-      "explanation": "The Constitution was written in 1787.",
+      "explanation": "Delegates at the Philadelphia Convention wrote the Constitution in the summer of 1787; it replaced the weaker Articles of Confederation and was ratified in 1788.",
       "memoryHook": "T-Rexy says: The Constitution was written in 1787.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "constitution"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -62,7 +62,7 @@
         "The Articles",
         "The Federalist Papers"
       ],
-      "explanation": "The first ten amendments are the Bill of Rights.",
+      "explanation": "The Bill of Rights was added in 1791 to win support for ratification, because many states demanded written protection for individual liberties.",
       "memoryHook": "T-Rexy says: The Bill of Rights is the first ten.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -82,14 +82,14 @@
         "The right to a fair trial",
         "The right to vote only"
       ],
-      "explanation": "The First Amendment protects speech, religion, press, assembly, and petition.",
+      "explanation": "These five freedoms limit government power over expression: Congress cannot establish a religion, ban speech or newspapers, stop peaceful gatherings, or punish people for petitioning.",
       "memoryHook": "T-Rexy says: The First Amendment protects freedoms.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "rights"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -102,14 +102,14 @@
         "The right to vote",
         "Freedom of religion"
       ],
-      "explanation": "The Second Amendment protects the right to bear arms.",
+      "explanation": "The Second Amendment protects an individual's right to own firearms, a right the Supreme Court confirmed for self-defense in the home in District of Columbia v. Heller (2008).",
       "memoryHook": "T-Rexy says: The Second Amendment is about arms.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "rights"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -122,14 +122,14 @@
         "The right to vote",
         "The right to bear arms"
       ],
-      "explanation": "The Fourth Amendment guards against unreasonable searches.",
+      "explanation": "Police generally need a warrant based on probable cause before searching your home or belongings; evidence from an illegal search can be thrown out of court.",
       "memoryHook": "T-Rexy says: The Fourth Amendment protects privacy.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "rights"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -142,7 +142,7 @@
         "The right to vote",
         "The right to bear arms"
       ],
-      "explanation": "The Fifth Amendment protects due process and silence.",
+      "explanation": "The Fifth Amendment bundles several protections: no self-incrimination, no double jeopardy, grand jury indictment for serious crimes, due process, and fair payment when government takes property.",
       "memoryHook": "T-Rexy says: The Fifth Amendment protects due process.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -162,14 +162,14 @@
         "The right to vote",
         "The right to bear arms"
       ],
-      "explanation": "The Sixth Amendment guarantees a speedy public trial.",
+      "explanation": "The Sixth Amendment makes trials fair and fast: the accused gets a speedy public trial, an impartial jury, notice of the charges, witnesses, and a lawyer (free if they cannot pay).",
       "memoryHook": "T-Rexy says: The Sixth Amendment is about trials.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "rights"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -182,7 +182,7 @@
         "Unreasonable taxes",
         "The right to vote"
       ],
-      "explanation": "The Eighth Amendment bans cruel and unusual punishment.",
+      "explanation": "The Eighth Amendment also bans excessive bail and excessive fines, so punishment and money penalties must fit the crime.",
       "memoryHook": "T-Rexy says: The Eighth Amendment bans cruel punishment.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -202,14 +202,14 @@
         "Senate, House, and Court",
         "President, governor, and mayor"
       ],
-      "explanation": "The three branches are legislative, executive, and judicial.",
+      "explanation": "The Constitution splits federal power three ways on purpose: giving lawmaking, enforcing, and judging to different hands prevents any one group from ruling alone.",
       "memoryHook": "T-Rexy says: Three branches: legislative, executive, judicial.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "branches"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -222,7 +222,7 @@
         "Judicial",
         "Military"
       ],
-      "explanation": "The legislative branch makes laws.",
+      "explanation": "Only Congress can pass federal laws, levy federal taxes, and declare war; the president can sign or veto a bill but cannot write one.",
       "memoryHook": "T-Rexy says: Congress makes laws.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -242,14 +242,14 @@
         "Judicial",
         "Military"
       ],
-      "explanation": "The executive branch enforces laws.",
+      "explanation": "The executive branch carries out the laws through the president, the Cabinet departments, and federal agencies such as the FBI and the EPA.",
       "memoryHook": "T-Rexy says: The president enforces laws.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "branches"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -262,7 +262,7 @@
         "Executive",
         "Military"
       ],
-      "explanation": "The judicial branch interprets laws.",
+      "explanation": "Federal courts decide what laws mean and whether they conflict with the Constitution; their rulings settle disputes that lower courts disagree on.",
       "memoryHook": "T-Rexy says: Courts interpret laws.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -282,7 +282,7 @@
         "The Supreme Court",
         "The White House"
       ],
-      "explanation": "Congress is the legislative branch.",
+      "explanation": "Congress is the legislature created by Article I of the Constitution; it is the only branch that can pass federal laws and approve the federal budget.",
       "memoryHook": "T-Rexy says: Congress is legislative.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -302,7 +302,7 @@
         "The House and the Cabinet",
         "The Senate and the Cabinet"
       ],
-      "explanation": "Congress has the Senate and the House.",
+      "explanation": "This two-house (bicameral) design was the Great Compromise of 1787: big states got House seats by population, small states got equal Senate seats.",
       "memoryHook": "T-Rexy says: Congress has two houses.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -342,7 +342,7 @@
         "3",
         "4"
       ],
-      "explanation": "Each state has two senators.",
+      "explanation": "Equal Senate representation was the small states' price for joining the Union; it is the one feature of the Constitution that an amendment cannot take from a state without its consent.",
       "memoryHook": "T-Rexy says: Two senators per state.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -362,7 +362,7 @@
         "4 years",
         "8 years"
       ],
-      "explanation": "Senators serve six-year terms.",
+      "explanation": "Six-year terms insulate senators from short-term passions, and elections are staggered so only one-third of the Senate is chosen every two years.",
       "memoryHook": "T-Rexy says: Senators serve six years.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -382,7 +382,7 @@
         "50",
         "535"
       ],
-      "explanation": "The House has 435 members.",
+      "explanation": "House seats are divided among the states by population after each census, so growing states gain seats and shrinking states lose them.",
       "memoryHook": "T-Rexy says: The House has 435.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -402,7 +402,7 @@
         "6 years",
         "8 years"
       ],
-      "explanation": "Representatives serve two-year terms.",
+      "explanation": "The short two-year term keeps representatives close to the voters: the entire House faces re-election every two years, unlike the staggered Senate.",
       "memoryHook": "T-Rexy says: Representatives serve two years.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -422,14 +422,14 @@
         "The Speaker of the House",
         "The Secretary of State"
       ],
-      "explanation": "The President heads the executive branch.",
+      "explanation": "As head of the executive branch, the president is commander in chief of the military, signs or vetoes bills, and represents the nation to other countries.",
       "memoryHook": "T-Rexy says: The president leads the executive.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "president"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -442,7 +442,7 @@
         "6 years",
         "8 years"
       ],
-      "explanation": "A president serves a four-year term.",
+      "explanation": "The four-year term balances stability with accountability: a president gets time to govern but must face the voters again sooner than a senator does.",
       "memoryHook": "T-Rexy says: Presidents serve four years.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -482,14 +482,14 @@
         "The Chief Justice",
         "The Secretary of State"
       ],
-      "explanation": "The Vice President succeeds the President.",
+      "explanation": "Succession is automatic: the vice president takes the oath and becomes president immediately, as Lyndon Johnson did after John F. Kennedy was assassinated in 1963.",
       "memoryHook": "T-Rexy says: The vice president is next.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "president"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -502,14 +502,14 @@
         "30",
         "40"
       ],
-      "explanation": "A president must be at least 35 years old.",
+      "explanation": "Article II adds two more requirements: the president must be a natural-born citizen and must have lived in the United States for at least 14 years.",
       "memoryHook": "T-Rexy says: Presidents must be 35.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "president"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -522,14 +522,14 @@
         "The District Court",
         "The State Supreme Court"
       ],
-      "explanation": "The Supreme Court is the highest court.",
+      "explanation": "The Supreme Court sits at the top of the judicial branch; its decisions are final and bind every lower federal and state court.",
       "memoryHook": "T-Rexy says: The Supreme Court is highest.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "courts"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -542,7 +542,7 @@
         "7",
         "11"
       ],
-      "explanation": "The Supreme Court has nine justices.",
+      "explanation": "Congress sets the Court's size by law: it has had nine justices since 1869 - one chief justice and eight associate justices.",
       "memoryHook": "T-Rexy says: Nine justices.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -562,7 +562,7 @@
         "6 years",
         "8 years"
       ],
-      "explanation": "Justices serve for life.",
+      "explanation": "Life tenure protects judicial independence: justices can decide unpopular cases without fearing voters, and they leave only by retiring, dying, or being impeached and removed.",
       "memoryHook": "T-Rexy says: Justices serve for life.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -582,14 +582,14 @@
         "The voters directly",
         "The Chief Justice"
       ],
-      "explanation": "The President nominates justices, and the Senate confirms them.",
+      "explanation": "Nomination plus Senate confirmation is checks and balances in action: the Senate can reject a nominee, as it did with Robert Bork in 1987.",
       "memoryHook": "T-Rexy says: The president nominates, the Senate confirms.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "courts"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -602,14 +602,14 @@
         "The states control the federal government",
         "The people control the courts only"
       ],
-      "explanation": "Checks and balances let each branch limit the others.",
+      "explanation": "Real examples: the president vetoes bills, Congress overrides vetoes and controls spending, and courts can declare laws unconstitutional - each branch can block the others.",
       "memoryHook": "T-Rexy says: Branches check each other.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "principles"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -622,7 +622,7 @@
         "Giving all power to Congress",
         "Dividing power between states only"
       ],
-      "explanation": "Separation of powers divides power among branches.",
+      "explanation": "The framers split power because they feared concentrated power; Montesquieu's writings on separating government functions strongly influenced this design.",
       "memoryHook": "T-Rexy says: Power is divided.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -642,7 +642,7 @@
         "Power held only by the states",
         "Power held by the courts"
       ],
-      "explanation": "Federalism shares power between national and state governments.",
+      "explanation": "Federalism means two levels of government rule the same people: Washington handles defense and interstate trade, while states run schools, police, and driver's licenses.",
       "memoryHook": "T-Rexy says: Federalism shares power.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -662,7 +662,7 @@
         "The last article",
         "A state law"
       ],
-      "explanation": "The Preamble introduces the Constitution.",
+      "explanation": "The Preamble states the Constitution's goals - justice, domestic tranquility, defense, general welfare, and liberty - and says power comes from 'We the People,' not a king.",
       "memoryHook": "T-Rexy says: The Preamble introduces.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -682,7 +682,7 @@
         "The United States",
         "All men are created"
       ],
-      "explanation": "The Preamble begins 'We the People'.",
+      "explanation": "Those three words announce popular sovereignty: the government's authority comes from the people, a sharp break from the divine right of kings.",
       "memoryHook": "T-Rexy says: We the People begins it.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -702,7 +702,7 @@
         "The Bill of Rights",
         "The Articles of Confederation"
       ],
-      "explanation": "The Declaration of Independence declared independence.",
+      "explanation": "Adopted on July 4, 1776, the Declaration listed the colonies' grievances against King George III and announced that the thirteen colonies were free and independent states.",
       "memoryHook": "T-Rexy says: The Declaration declared independence.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -722,14 +722,14 @@
         "December 25, 1776",
         "July 4, 1789"
       ],
-      "explanation": "The Declaration was adopted on July 4, 1776.",
+      "explanation": "Congress approved the Declaration on July 4, 1776 - the date celebrated as Independence Day - though most delegates signed the engrossed copy in August.",
       "memoryHook": "T-Rexy says: July 4, 1776.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "history"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -742,14 +742,14 @@
         "Benjamin Franklin",
         "John Adams"
       ],
-      "explanation": "Thomas Jefferson wrote the Declaration.",
+      "explanation": "Jefferson, then 33, was the principal author; a five-man committee (including John Adams and Benjamin Franklin) presented his draft to Congress.",
       "memoryHook": "T-Rexy says: Jefferson wrote it.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "history"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -762,14 +762,14 @@
         "21",
         "25"
       ],
-      "explanation": "Citizens can vote at 18.",
+      "explanation": "The 26th Amendment (1971) set 18 as the minimum voting age nationwide, after protests that men old enough to be drafted for Vietnam were old enough to vote.",
       "memoryHook": "T-Rexy says: Voting age is 18.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "voting"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -782,14 +782,14 @@
         "The 26th Amendment",
         "The 13th Amendment"
       ],
-      "explanation": "The 19th Amendment gave women the vote.",
+      "explanation": "Ratified in 1920 after a 70-year suffrage movement, the 19th Amendment forbids denying the vote 'on account of sex' in every state.",
       "memoryHook": "T-Rexy says: The 19th gave women the vote.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "amendments"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -802,14 +802,14 @@
         "The 15th Amendment",
         "The 24th Amendment"
       ],
-      "explanation": "The 26th Amendment lowered the voting age to 18.",
+      "explanation": "The 26th Amendment (1971) is the fastest-ratified amendment in US history - it took effect in about 100 days during the Vietnam War era.",
       "memoryHook": "T-Rexy says: The 26th lowered voting age.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "amendments"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -822,14 +822,14 @@
         "The 15th Amendment",
         "The 19th Amendment"
       ],
-      "explanation": "The 13th Amendment abolished slavery.",
+      "explanation": "Ratified in December 1865, months after the Civil War ended, the 13th Amendment ended slavery everywhere in the United States, except as punishment for a crime.",
       "memoryHook": "T-Rexy says: The 13th ended slavery.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "amendments"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -842,14 +842,14 @@
         "The 15th Amendment",
         "The 19th Amendment"
       ],
-      "explanation": "The 14th Amendment defines citizenship.",
+      "explanation": "The 14th Amendment (1868) also guarantees due process and equal protection against state governments, not just the federal government.",
       "memoryHook": "T-Rexy says: The 14th defines citizenship.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "amendments"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -862,14 +862,14 @@
         "The 14th Amendment",
         "The 19th Amendment"
       ],
-      "explanation": "The 15th Amendment protected voting rights regardless of race.",
+      "explanation": "The 15th Amendment (1870) banned denying the vote because of 'race, color, or previous condition of servitude,' though poll taxes and literacy tests later blocked many Black voters until 1965.",
       "memoryHook": "T-Rexy says: The 15th protected voting.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "amendments"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -882,7 +882,7 @@
         "The right to vote",
         "The right to bear arms"
       ],
-      "explanation": "Due process is fair legal treatment.",
+      "explanation": "Due process has two sides: procedural (fair steps - notice, a hearing, a chance to respond) and substantive (some rights are so basic government cannot take them away at all).",
       "memoryHook": "T-Rexy says: Due process is fair treatment.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -902,14 +902,14 @@
         "Leaders are above the law",
         "Laws do not apply to the government"
       ],
-      "explanation": "The rule of law means everyone follows the law.",
+      "explanation": "The rule of law is the opposite of rule by whim: even a president can be investigated, sued, and forced to obey court orders, as happened in the Watergate case.",
       "memoryHook": "T-Rexy says: Everyone follows the law.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "principles"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -922,7 +922,7 @@
         "Government by a small group only",
         "Government with no voting"
       ],
-      "explanation": "Democracy is government by the people.",
+      "explanation": "In a democracy the people hold the power: citizens choose their leaders in free elections and can vote them out - no one rules for life by birthright.",
       "memoryHook": "T-Rexy says: Democracy is rule by the people.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -942,7 +942,7 @@
         "A government with no elections",
         "A government by judges only"
       ],
-      "explanation": "A republic elects representatives.",
+      "explanation": "The United States is a republic because citizens do not vote on every law; they elect representatives who make laws in their name.",
       "memoryHook": "T-Rexy says: A republic elects representatives.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -962,14 +962,14 @@
         "A republic has no voting",
         "A democracy has no representatives"
       ],
-      "explanation": "The United States is a democratic republic.",
+      "explanation": "The two ideas combine: 'democratic' describes who holds power (the people), and 'republic' describes how it is exercised (through elected representatives instead of direct votes on every issue).",
       "memoryHook": "T-Rexy says: The US is a democratic republic.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "principles"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -982,7 +982,7 @@
         "Philadelphia",
         "Boston"
       ],
-      "explanation": "The capital is Washington, D.C.",
+      "explanation": "Washington, D.C. is a federal district, not a state: the Constitution created it so the national government would not depend on any single state for its home.",
       "memoryHook": "T-Rexy says: The capital is Washington, D.C.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1002,7 +1002,7 @@
         "God Bless America",
         "My Country, Tis of Thee"
       ],
-      "explanation": "The national anthem is The Star-Spangled Banner.",
+      "explanation": "Francis Scott Key wrote the words in 1814 after watching the British bombard Fort McHenry and seeing the US flag still flying at dawn; it became the official anthem in 1931.",
       "memoryHook": "T-Rexy says: The anthem is The Star-Spangled Banner.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1022,14 +1022,14 @@
         "The branches of government",
         "The amendments"
       ],
-      "explanation": "The stars stand for the 50 states.",
+      "explanation": "One star for each state: the star field grows when a state joins - the current 50-star flag dates to 1960, when Hawaii became the 50th state.",
       "memoryHook": "T-Rexy says: Stars are states.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "symbols"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1042,7 +1042,7 @@
         "The branches of government",
         "The amendments"
       ],
-      "explanation": "The stripes stand for the 13 original colonies.",
+      "explanation": "The 13 stripes honor the thirteen colonies that declared independence in 1776; the flag's design has kept 13 stripes ever since 1818.",
       "memoryHook": "T-Rexy says: Stripes are the 13 colonies.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1062,7 +1062,7 @@
         "15",
         "10"
       ],
-      "explanation": "The flag has 13 stripes.",
+      "explanation": "Count them on any current flag: 7 red stripes and 6 white stripes make 13, one for each original colony.",
       "memoryHook": "T-Rexy says: 13 stripes.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1082,14 +1082,14 @@
         "To lead the Supreme Court",
         "To command the national army"
       ],
-      "explanation": "A governor leads a state's executive branch.",
+      "explanation": "A governor is a state's president-like leader: signing or vetoing state bills, commanding the state National Guard, and running state agencies.",
       "memoryHook": "T-Rexy says: Governors lead states.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "state-government"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1102,7 +1102,7 @@
         "To make federal laws",
         "To lead the Supreme Court"
       ],
-      "explanation": "A mayor leads a city.",
+      "explanation": "A mayor runs a city the way a governor runs a state: overseeing police, budgets, and city services, and signing or vetoing local ordinances.",
       "memoryHook": "T-Rexy says: Mayors lead cities.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1122,7 +1122,7 @@
         "A visitor",
         "A person without rights"
       ],
-      "explanation": "A citizen is a legal member of a country.",
+      "explanation": "Citizenship is a two-way relationship: the country protects the citizen's rights, and the citizen owes duties such as obeying laws and defending the country if called.",
       "memoryHook": "T-Rexy says: Citizens are legal members.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1142,14 +1142,14 @@
         "By voting",
         "By working here"
       ],
-      "explanation": "Birth in the United States grants citizenship.",
+      "explanation": "This is birthright citizenship under the 14th Amendment: nearly everyone born on US soil is a citizen at birth, regardless of their parents' status.",
       "memoryHook": "T-Rexy says: Born here means citizen.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "citizenship"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1162,14 +1162,14 @@
         "Voting in an election",
         "Moving to another state"
       ],
-      "explanation": "Naturalization is the process of becoming a citizen.",
+      "explanation": "Naturalization usually requires years of legal residence, an English and civics test, and an oath of allegiance that renounces loyalty to other countries.",
       "memoryHook": "T-Rexy says: Naturalization makes citizens.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "citizenship"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1182,14 +1182,14 @@
         "Paying taxes only",
         "Going to school only"
       ],
-      "explanation": "Citizen duties include obeying laws and jury service.",
+      "explanation": "Duties are mandatory, not optional: citizens must obey the law, pay taxes, serve on juries when summoned, and males must register for Selective Service at 18.",
       "memoryHook": "T-Rexy says: Citizens obey laws and serve juries.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "citizenship"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1202,7 +1202,7 @@
         "Ignoring elections",
         "Avoiding jury duty"
       ],
-      "explanation": "Voting is a key citizen responsibility.",
+      "explanation": "Voting is a responsibility rather than a legal duty - no one is punished for skipping an election - but it is how citizens steer the government between jury summonses and tax days.",
       "memoryHook": "T-Rexy says: Voting is a responsibility.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1222,14 +1222,14 @@
         "A court",
         "A state legislature"
       ],
-      "explanation": "The Electoral College formally elects the President.",
+      "explanation": "Each state gets electors equal to its members of Congress (House plus Senate); a candidate needs 270 of the 538 electoral votes to win the presidency.",
       "memoryHook": "T-Rexy says: The Electoral College elects the president.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "elections"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1242,14 +1242,14 @@
         "Every 6 years",
         "Every year"
       ],
-      "explanation": "Presidential elections happen every four years.",
+      "explanation": "Presidential elections fall every four years, in years divisible by four (2024, 2028, 2032); members of Congress are elected every two years in between as well.",
       "memoryHook": "T-Rexy says: Presidential elections are every four years.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "elections"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1262,7 +1262,7 @@
         "A court",
         "A state"
       ],
-      "explanation": "A political party shares political ideas.",
+      "explanation": "Parties organize voters and candidates around a shared platform; they raise money, recruit candidates, and try to win control of government through elections.",
       "memoryHook": "T-Rexy says: Parties share ideas.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1282,14 +1282,14 @@
         "Republican and Libertarian",
         "Green and Libertarian"
       ],
-      "explanation": "The two major parties are Democratic and Republican.",
+      "explanation": "The Democratic and Republican parties have dominated US politics since the 1850s; third parties like the Greens and Libertarians run candidates but rarely win major offices.",
       "memoryHook": "T-Rexy says: Democratic and Republican are the major parties.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "elections"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1302,7 +1302,7 @@
         "Congress",
         "A state legislature"
       ],
-      "explanation": "The Cabinet advises the President.",
+      "explanation": "The Cabinet is the president's team of department heads - State, Treasury, Defense, and twelve others - who both advise the president and run the executive departments.",
       "memoryHook": "T-Rexy says: The Cabinet advises the president.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1322,14 +1322,14 @@
         "The Chief Justice",
         "The Vice President"
       ],
-      "explanation": "The Speaker leads the House.",
+      "explanation": "The Speaker is elected by the whole House, is usually the majority party's leader, and stands second in the line of presidential succession after the vice president.",
       "memoryHook": "T-Rexy says: The Speaker leads the House.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "congress"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1342,14 +1342,14 @@
         "The Chief Justice",
         "The President"
       ],
-      "explanation": "The Vice President presides over the Senate.",
+      "explanation": "The vice president's only constitutional Senate job is to preside and break tie votes; day-to-day presiding usually falls to junior senators.",
       "memoryHook": "T-Rexy says: The vice president presides over the Senate.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "congress"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1362,7 +1362,7 @@
         "A court decision",
         "A tax only"
       ],
-      "explanation": "A bill is a proposed law.",
+      "explanation": "A bill is just a proposal until it survives committee votes, both chambers, and the president's signature - most of the thousands introduced each session never become law.",
       "memoryHook": "T-Rexy says: A bill is a proposed law.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1382,7 +1382,7 @@
         "It is voted on by the states only",
         "It is announced by the President only"
       ],
-      "explanation": "A bill passes Congress and is signed by the President.",
+      "explanation": "There are two paths: the president signs the bill, or Congress overrides a veto by two-thirds in both houses; a bill can also become law if the president ignores it for ten days while Congress is in session.",
       "memoryHook": "T-Rexy says: Pass Congress, sign by president.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1402,7 +1402,7 @@
         "A court decision",
         "A state law"
       ],
-      "explanation": "A veto is the President rejecting a bill.",
+      "explanation": "The veto (Latin for 'I forbid') is the president's main check on Congress; presidents have used it more than 2,500 times since George Washington.",
       "memoryHook": "T-Rexy says: A veto rejects a bill.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1422,14 +1422,14 @@
         "Ask the Supreme Court to sign it",
         "Pass it with a simple majority"
       ],
-      "explanation": "Congress can override a veto with two-thirds votes.",
+      "explanation": "The override threshold is deliberately high - two-thirds of both the House and the Senate - so overrides are rare, succeeding only about 7 percent of the time.",
       "memoryHook": "T-Rexy says: Two-thirds overrides a veto.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "lawmaking"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1442,7 +1442,7 @@
         "To enforce laws",
         "To elect the President"
       ],
-      "explanation": "The Supreme Court checks laws against the Constitution.",
+      "explanation": "The Court's core power is judicial review: when a law conflicts with the Constitution, the Court's interpretation wins and the law falls.",
       "memoryHook": "T-Rexy says: The Court checks the Constitution.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1462,7 +1462,7 @@
         "The power to veto bills",
         "The power to elect judges"
       ],
-      "explanation": "Judicial review lets courts strike down unconstitutional laws.",
+      "explanation": "Judicial review is not spelled out in the Constitution; the Court claimed it in Marbury v. Madison (1803), the most important case in US legal history.",
       "memoryHook": "T-Rexy says: Judicial review checks laws.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1482,7 +1482,7 @@
         "The Articles of Confederation",
         "A state constitution"
       ],
-      "explanation": "The Bill of Rights is the first ten amendments.",
+      "explanation": "The Bill of Rights was ratified in 1791 as amendments 1-10; it limits the federal government, and the 14th Amendment later applied most of these rights against state governments too.",
       "memoryHook": "T-Rexy says: The Bill of Rights is the first ten.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1502,14 +1502,14 @@
         "The right to bear arms",
         "The right to a trial"
       ],
-      "explanation": "Freedom of religion is the right to practice any faith or none.",
+      "explanation": "The First Amendment both forbids an official state religion (establishment clause) and protects personal worship (free exercise clause) - government must stay neutral toward faith.",
       "memoryHook": "T-Rexy says: Freedom of religion is a choice.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "rights"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1522,14 +1522,14 @@
         "The right to vote",
         "The right to a trial"
       ],
-      "explanation": "Freedom of assembly is the right to gather peacefully.",
+      "explanation": "Assembly protects peaceful marches, protests, and rallies; the government can require permits for safety but cannot ban a gathering just because it dislikes the message.",
       "memoryHook": "T-Rexy says: Assembly means gathering.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "rights"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1542,7 +1542,7 @@
         "The right to bear arms",
         "The right to a trial"
       ],
-      "explanation": "Freedom of petition is asking government to act.",
+      "explanation": "Petitioning means asking government to change something - from signing a petition to speaking at a city council meeting - and the First Amendment protects it alongside speech and press.",
       "memoryHook": "T-Rexy says: Petition means asking government.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1562,7 +1562,7 @@
         "The right to vote",
         "The right to bear arms"
       ],
-      "explanation": "The 10th Amendment reserves powers to states and people.",
+      "explanation": "The 10th Amendment is the Constitution's leftovers rule: education, marriage laws, and local police powers stayed with the states because the Constitution never handed them to Washington.",
       "memoryHook": "T-Rexy says: The 10th reserves powers.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1582,14 +1582,14 @@
         "Voting age",
         "Abolishing slavery"
       ],
-      "explanation": "The 22nd Amendment limits presidents to two terms.",
+      "explanation": "Before the 22nd Amendment (1951), only tradition limited presidents to two terms; Franklin D. Roosevelt broke it by winning four elections (1932-1944).",
       "memoryHook": "T-Rexy says: The 22nd limits terms.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "amendments"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1602,14 +1602,14 @@
         "Voting age",
         "Abolishing slavery"
       ],
-      "explanation": "The 24th Amendment banned poll taxes.",
+      "explanation": "The 24th Amendment (1964) banned poll taxes in federal elections; the Supreme Court later struck down state poll taxes too, in Harper v. Virginia (1966).",
       "memoryHook": "T-Rexy says: The 24th banned poll taxes.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "amendments"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1622,14 +1622,14 @@
         "Flagstaff",
         "Mesa"
       ],
-      "explanation": "Phoenix is the capital of Arizona.",
+      "explanation": "Phoenix has been Arizona's capital since 1889, before statehood; the copper-domed Arizona Capitol building is now a museum next to the modern government towers.",
       "memoryHook": "T-Rexy says: Phoenix is Arizona's capital.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "arizona"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1642,7 +1642,7 @@
         "52",
         "51"
       ],
-      "explanation": "There are 50 states.",
+      "explanation": "The count has been 50 since Hawaii joined in 1959; before that, Alaska's admission the same year had briefly made it 49.",
       "memoryHook": "T-Rexy says: 50 states.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1662,7 +1662,7 @@
         "California",
         "Montana"
       ],
-      "explanation": "Alaska is the largest state.",
+      "explanation": "Alaska is more than twice the size of Texas, the second-largest state - you could fit about 425 Rhode Islands inside it.",
       "memoryHook": "T-Rexy says: Alaska is biggest.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1682,7 +1682,7 @@
         "Connecticut",
         "Hawaii"
       ],
-      "explanation": "Rhode Island is the smallest state.",
+      "explanation": "Rhode Island covers about 1,214 square miles, smaller than many US counties, and you can drive across it in about an hour.",
       "memoryHook": "T-Rexy says: Rhode Island is smallest.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1702,7 +1702,7 @@
         "Indian Ocean",
         "Arctic Ocean"
       ],
-      "explanation": "The Pacific is on the west coast.",
+      "explanation": "Remember it by the sun: the Pacific is the ocean the sun sets into for the West Coast states - California, Oregon, and Washington.",
       "memoryHook": "T-Rexy says: The Pacific is west.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1722,14 +1722,14 @@
         "Indian Ocean",
         "Arctic Ocean"
       ],
-      "explanation": "The Atlantic is on the east coast.",
+      "explanation": "The Atlantic borders every East Coast state from Maine to Florida; it is also the ocean the first colonists crossed from Europe.",
       "memoryHook": "T-Rexy says: The Atlantic is east.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "geography"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1739,17 +1739,17 @@
       "correctAnswer": "Rio Grande",
       "distractors": [
         "Mississippi River",
-        "Colorado River",
+        "Ohio River",
         "Columbia River"
       ],
-      "explanation": "The Rio Grande forms part of the southern border.",
+      "explanation": "The Rio Grande runs about 1,255 miles along the Texas-Mexico border, from El Paso to the Gulf of Mexico - the most famous border river in North America.",
       "memoryHook": "T-Rexy says: The Rio Grande is the border.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "geography"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1762,7 +1762,7 @@
         "Colorado River",
         "Rio Grande"
       ],
-      "explanation": "The Missouri River is the longest in the United States.",
+      "explanation": "It surprises most students: the Missouri River (about 2,341 miles) edges out the Mississippi (about 2,320 miles) as the longest river in the United States, and the two join near St. Louis.",
       "memoryHook": "T-Rexy says: The Missouri is longest.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1782,7 +1782,7 @@
         "Thomas Jefferson",
         "John Adams"
       ],
-      "explanation": "George Washington was the first President.",
+      "explanation": "Washington led the Continental Army to victory, presided over the Constitutional Convention, and set the two-term tradition by voluntarily stepping down in 1797.",
       "memoryHook": "T-Rexy says: Washington was first.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1802,14 +1802,14 @@
         "Thomas Jefferson",
         "Ulysses S. Grant"
       ],
-      "explanation": "Abraham Lincoln gave the Gettysburg Address.",
+      "explanation": "Lincoln delivered the Gettysburg Address on November 19, 1863, dedicating a cemetery for Union soldiers; its roughly 272 words redefined the war as a fight for equality.",
       "memoryHook": "T-Rexy says: Lincoln gave it.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "history"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1822,7 +1822,7 @@
         "World War I",
         "The War of 1812"
       ],
-      "explanation": "The Civil War ended slavery.",
+      "explanation": "The Civil War (1861-1865) preserved the Union and destroyed slavery: Lincoln's Emancipation Proclamation (1863) freed enslaved people in the rebelling states, and the 13th Amendment finished the job nationwide.",
       "memoryHook": "T-Rexy says: The Civil War ended slavery.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1842,7 +1842,7 @@
         "To collect taxes",
         "To make laws"
       ],
-      "explanation": "The census counts the population every ten years.",
+      "explanation": "The census does real work: its counts reapportion House seats among the states and guide hundreds of billions of dollars in federal funding each year.",
       "memoryHook": "T-Rexy says: The census counts people.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1862,14 +1862,14 @@
         "A court fee only",
         "A fine only"
       ],
-      "explanation": "Taxes fund government services.",
+      "explanation": "Taxes are compulsory payments - income, sales, and property taxes - that fund shared services no one could buy alone, like roads, schools, police, and the military.",
       "memoryHook": "T-Rexy says: Taxes fund services.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "government"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1882,14 +1882,14 @@
         "To make everyone equal in wealth",
         "To rule without laws"
       ],
-      "explanation": "Government protects rights and provides order.",
+      "explanation": "Governments exist to do together what people cannot do alone: keep order, protect rights, settle disputes, and provide public goods like roads and clean water.",
       "memoryHook": "T-Rexy says: Government protects and serves.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "principles"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1902,7 +1902,7 @@
         "A group of lawyers",
         "A group of police officers"
       ],
-      "explanation": "A jury is citizens who decide a case.",
+      "explanation": "A jury of ordinary citizens - usually 12 in criminal cases - weighs the evidence and decides guilt or innocence, keeping the justice system partly in the people's hands.",
       "memoryHook": "T-Rexy says: Juries decide cases.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1922,14 +1922,14 @@
         "A civil case is always about murder",
         "A criminal case is about money only"
       ],
-      "explanation": "Criminal cases are government prosecutions; civil cases are disputes.",
+      "explanation": "Two courtroom tracks: criminal cases are prosecutions where the government must prove guilt beyond a reasonable doubt (a burglary trial), while civil cases are private disputes decided by a preponderance of evidence (a lawsuit over a broken contract).",
       "memoryHook": "T-Rexy says: Criminal is government, civil is dispute.",
       "imageUrl": "topic:civics",
       "tags": [
         "civics",
         "courts"
       ],
-      "difficulty": "easy",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1942,7 +1942,7 @@
         "A court decision only",
         "A voting rule"
       ],
-      "explanation": "Miranda warnings tell arrested people their rights.",
+      "explanation": "The warning comes from Miranda v. Arizona (1966): before questioning a suspect in custody, police must state the rights to silence and to an attorney, or the answers may be unusable in court.",
       "memoryHook": "T-Rexy says: Miranda tells rights.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1969,7 +1969,7 @@
         "civics",
         "rights"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1982,7 +1982,7 @@
         "A court hearing",
         "A census"
       ],
-      "explanation": "A primary picks a party's candidate.",
+      "explanation": "Primaries narrow the field: Democrats vote for the Democratic nominee and Republicans for the Republican nominee, and the winners face each other in the general election.",
       "memoryHook": "T-Rexy says: Primaries pick candidates.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -2002,7 +2002,7 @@
         "A court hearing",
         "A census"
       ],
-      "explanation": "A general election chooses who holds office.",
+      "explanation": "The general election is the final round, held on the Tuesday after the first Monday in November, when voters pick the actual officeholders - president (via electors), Congress, governors, and more.",
       "memoryHook": "T-Rexy says: General elections choose leaders.",
       "imageUrl": "topic:civics",
       "tags": [
