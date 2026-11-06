@@ -259,7 +259,7 @@
       "correctAnswer": "4.5 x 10^3",
       "distractors": [
         "4.5 x 10^4",
-        "45 x 10^2",
+        "45 x 10^4",
         "4.5 x 10^2"
       ],
       "explanation": "Move the decimal 3 places left: 4.5 x 10^3.",
@@ -278,7 +278,7 @@
       "correctAnswer": "3 x 10^-3",
       "distractors": [
         "3 x 10^3",
-        "0.3 x 10^-2",
+        "0.3 x 10^-4",
         "3 x 10^-2"
       ],
       "explanation": "Move the decimal 3 places right, so the exponent is -3.",
@@ -620,7 +620,7 @@
       "question": "What is 0.6 as a fraction in lowest terms?",
       "correctAnswer": "3/5",
       "distractors": [
-        "6/10",
+        "6/100",
         "2/3",
         "3/4"
       ],
@@ -770,14 +770,14 @@
     },
     {
       "id": "PAL8_040",
-      "question": "Solve for x: 4x - 5 = 29.",
+      "question": "Solve for x: 4x - 5 = 19.",
       "correctAnswer": "x = 6",
       "distractors": [
         "x = 7",
         "x = 5",
         "x = 9"
       ],
-      "explanation": "Add 5 to get 4x = 34, then divide by 4 to get x = 6.",
+      "explanation": "Add 5 to get 4x = 24, then divide by 4 to get x = 6.",
       "memoryHook": "T-Rexy says: Undo subtraction first, then divide.",
       "imageUrl": "topic:pre-algebra",
       "tags": [
@@ -951,7 +951,7 @@
         "Change it to an equals sign",
         "Add 1 to both sides"
       ],
-      "explanation": "Multiplying or dividing by a negative flips the inequality direction.",
+      "explanation": "Flipping keeps the inequality true: for example, -2x < 6 becomes x > -3 after dividing by -2 and flipping the sign.",
       "memoryHook": "T-Rexy says: Negative flips the sign.",
       "imageUrl": "topic:pre-algebra",
       "tags": [
@@ -1143,7 +1143,7 @@
         "An x repeats with different y values",
         "The y values repeat"
       ],
-      "explanation": "A function gives each input exactly one output.",
+      "explanation": "Check each x value: if any x is paired with two different y values, the table is not a function. Repeated y values are fine.",
       "memoryHook": "T-Rexy says: One input, one output.",
       "imageUrl": "topic:pre-algebra",
       "tags": [
@@ -1531,7 +1531,7 @@
         "To find the exact answer",
         "To hide outliers"
       ],
-      "explanation": "A line of best fit summarizes the trend so you can predict values.",
+      "explanation": "The line passes as close as possible to all the points, balancing the points above and below it, and you read predictions off the line for new x values.",
       "memoryHook": "T-Rexy says: The trend line predicts.",
       "imageUrl": "topic:pre-algebra",
       "tags": [
@@ -1728,7 +1728,7 @@
         "A curve through the origin",
         "A horizontal line"
       ],
-      "explanation": "Proportional relationships graph as straight lines through (0, 0).",
+      "explanation": "The ratio y/x stays constant, so when x = 0, y must be 0 too - that is why the straight line is pinned to the origin.",
       "memoryHook": "T-Rexy says: Proportional lines pass through the origin.",
       "imageUrl": "topic:pre-algebra",
       "tags": [
@@ -1822,7 +1822,7 @@
       "question": "What is 0.25 as a fraction in lowest terms?",
       "correctAnswer": "1/4",
       "distractors": [
-        "25/100",
+        "25/1000",
         "1/2",
         "2/5"
       ],
@@ -1905,7 +1905,7 @@
         "1/5",
         "-1/5"
       ],
-      "explanation": "Parallel lines have the same slope.",
+      "explanation": "Parallel lines never meet and stay the same distance apart, so they climb at exactly the same rate - this line also has slope 5.",
       "memoryHook": "T-Rexy says: Parallel means same slope.",
       "imageUrl": "topic:pre-algebra",
       "tags": [
