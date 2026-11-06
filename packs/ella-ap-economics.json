@@ -664,7 +664,7 @@
       "dynamic": false,
       "explanation": "The least-cost rule compares marginal product per dollar, not marginal product alone. Labor: 20 units / $100 = 0.20 units per dollar. Capital: 50 units / $200 = 0.25 units per dollar. Because a dollar spent on capital buys more extra output, the firm can produce the same output for less by using more capital and less labor, until MP/P is equal for both inputs.",
       "id": "EECON_033",
-      "imageUrl": "topic:price-discrimination",
+      "imageUrl": "topic:least-cost-rule",
       "memoryHook": "T-Rexy says: Compare output per dollar, not output per input - equal bang per buck is the least-cost rule!",
       "question": "A firm hires labor and rents capital. The last worker hired adds 20 units of output and is paid $100 per day. The last unit of capital adds 50 units of output and rents for $200 per day. Is the firm using the cost-minimizing combination of inputs?",
       "source": "original",
@@ -1024,7 +1024,7 @@
       "dynamic": false,
       "explanation": "Marginal product = change in total product from hiring one more worker. Total product rises from 36 units with 3 workers to 42 units with 4 workers, so the fourth worker's marginal product is 42 - 36 = 6 units. The sequence of marginal products (12, 14, 10, 6, 2) also shows diminishing marginal returns. The 42 is total product and 10.5 is average product (42 / 4).",
       "id": "EECON_051",
-      "imageUrl": "topic:frictional-unemployment",
+      "imageUrl": "topic:marginal-product",
       "memoryHook": "T-Rexy says: Marginal means the change from the last worker hired - subtract the row above!",
       "question": "The table in the image shows total product for each number of workers at a bakery. The marginal product of the fourth worker is:",
       "source": "original",
@@ -1144,7 +1144,7 @@
       "dynamic": false,
       "explanation": "CPI = (cost of basket in the later year / cost in the base year) x 100 = (275 / 250) x 100 = 110. The inflation rate is the percent change in the CPI: (110 - 100) / 100 = 10 percent. The $25 price rise is measured against the $250 base, not treated as 25 percent itself.",
       "id": "EECON_057",
-      "imageUrl": "topic:business-cycle",
+      "imageUrl": "topic:cpi-inflation",
       "memoryHook": "T-Rexy says: CPI is basket cost now over basket cost in the base year, times 100 - 275 over 250 gives 110, a 10 percent rise!",
       "question": "The market basket used for the consumer price index (CPI) costs $250 in the base year and $275 one year later. The CPI for the later year (base year = 100) and the inflation rate are:",
       "source": "original",
@@ -1299,7 +1299,7 @@
       "distractors": [
         "$400 - four-fifths of the extra $500 is saved",
         "$500 - all of the extra income is saved",
-        "$80 - the MPS is 0.2, applied to the original $400"
+        "$80 - the MPS of 0.2 applied to the $400 consumption increase instead of the $500 income increase"
       ],
       "dynamic": false,
       "explanation": "MPC = change in consumption / change in income = 800 / 1,000 = 0.8, so MPS = 1 - MPC = 0.2. The extra saving from another $500 of income is 0.2 x $500 = $100. The $400 figure applies the MPC (the consumption share) instead of the MPS.",
@@ -1478,11 +1478,11 @@
       "difficulty": "hard",
       "distractors": [
         "$10,000 - the whole deposit",
-        "$100,000 - the maximum expansion for the banking system as a whole",
+        "$100,000 - the maximum total deposits the banking system could support from this deposit",
         "$1,000 - its required reserves"
       ],
       "dynamic": false,
-      "explanation": "Required reserves = 10 percent x $10,000 = $1,000 must be kept. The bank can lend only its excess reserves: $10,000 - $1,000 = $9,000. The $100,000 figure is the maximum total money creation by the entire banking system (multiplier 1 / 0.10 = 10 applied to the deposit through many banks), not what one bank can lend.",
+      "explanation": "Required reserves = 10 percent x $10,000 = $1,000 must be kept. The bank can lend only its excess reserves: $10,000 - $1,000 = $9,000. The $100,000 figure is the maximum total deposits the banking system as a whole could support from this deposit (multiplier 1 / 0.10 = 10 applied through many banks), not what one bank can lend.",
       "id": "EECON_074",
       "imageUrl": "topic:money-multiplier",
       "memoryHook": "T-Rexy says: One bank lends only its excess reserves - the big multiplier number belongs to the whole banking system!",
@@ -1984,7 +1984,7 @@
       "dynamic": false,
       "explanation": "Moving from B to C raises car production from 100 to 200, while grain production falls from 900 to 700 tons. The opportunity cost of those extra 100 cars is what is given up: 900 - 700 = 200 tons of grain. Rising opportunity cost along the curve is why the PPC bows outward.",
       "id": "EECON_099",
-      "imageUrl": "topic:incentives",
+      "imageUrl": "topic:ppc-opportunity-cost",
       "memoryHook": "T-Rexy says: Opportunity cost is what disappears between two points on the curve - count what you give up, not what you keep!",
       "question": "The production possibilities table in the image shows the maximum combinations of cars and grain a country can produce. If the country moves from point B to point C, what is the opportunity cost of the additional cars?",
       "source": "original",
