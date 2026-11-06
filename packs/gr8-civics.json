@@ -22,7 +22,7 @@
         "State constitutions",
         "The Bill of Rights"
       ],
-      "explanation": "The Constitution is the highest law in the United States.",
+      "explanation": "The Constitution was written in 1787, and it outranks every other law - if a law conflicts with it, courts can strike that law down.",
       "memoryHook": "T-Rexy says: The Constitution is supreme.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -98,7 +98,7 @@
         "Ten",
         "Twenty-seven"
       ],
-      "explanation": "The Constitution has seven articles.",
+      "explanation": "The seven articles set up the three branches of government, describe how the states relate to the nation, and explain how the Constitution itself can be changed.",
       "memoryHook": "T-Rexy says: Seven articles.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -117,7 +117,7 @@
         "7",
         "50"
       ],
-      "explanation": "There are 27 amendments to the Constitution.",
+      "explanation": "The first ten amendments, the Bill of Rights, were added in 1791, and 17 more have been added since - the most recent in 1992.",
       "memoryHook": "T-Rexy says: 27 amendments.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -137,7 +137,7 @@
         "A court decision",
         "A presidential order"
       ],
-      "explanation": "Amendments change or add to the Constitution.",
+      "explanation": "An amendment must be proposed by two-thirds of Congress or a national convention, then ratified by three-fourths of the states.",
       "memoryHook": "T-Rexy says: Amendments change the Constitution.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -157,7 +157,7 @@
         "House, Senate, and Court",
         "President, governor, and mayor"
       ],
-      "explanation": "The three branches are legislative, executive, and judicial.",
+      "explanation": "Congress makes the laws, the president enforces them, and the courts interpret them - and each branch can check the others.",
       "memoryHook": "T-Rexy says: Three branches share power.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -176,7 +176,7 @@
         "The courts, which interpret laws",
         "The states, which vote"
       ],
-      "explanation": "Congress is the legislative branch.",
+      "explanation": "Congress is made of the Senate and the House of Representatives, and only Congress can pass federal laws.",
       "memoryHook": "T-Rexy says: Congress makes laws.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -196,7 +196,7 @@
         "The Supreme Court and lower courts",
         "The cabinet and the Senate"
       ],
-      "explanation": "Congress has the Senate and the House.",
+      "explanation": "Every state gets two senators, while House seats are divided by population - so big states have more representatives.",
       "memoryHook": "T-Rexy says: Senate plus House is Congress.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -256,7 +256,7 @@
         "Four years",
         "Eight years"
       ],
-      "explanation": "Senators serve six-year terms.",
+      "explanation": "Senators serve six years so they can take a longer view, and only one-third of the Senate is up for election every two years.",
       "memoryHook": "T-Rexy says: Senators serve six years.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -276,7 +276,7 @@
         "Four years",
         "Eight years"
       ],
-      "explanation": "House members serve two-year terms.",
+      "explanation": "House members face voters every two years, so they stay close to what people in their districts want right now.",
       "memoryHook": "T-Rexy says: House members serve two years.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -296,7 +296,7 @@
         "The Speaker of the House",
         "The Secretary of State"
       ],
-      "explanation": "The president leads the executive branch.",
+      "explanation": "The executive branch carries out the laws Congress passes, and it includes the president, the cabinet, and federal agencies.",
       "memoryHook": "T-Rexy says: The president leads the executive.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -316,7 +316,7 @@
         "Six years",
         "Eight years"
       ],
-      "explanation": "A president serves a four-year term.",
+      "explanation": "Presidential elections are held every four years, in November of leap years.",
       "memoryHook": "T-Rexy says: Presidents serve four years.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -343,7 +343,7 @@
         "branches",
         "executive"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -383,7 +383,7 @@
         "branches",
         "judicial"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -396,7 +396,7 @@
         "The District Court",
         "The State Supreme Court"
       ],
-      "explanation": "The Supreme Court is the highest court in the land.",
+      "explanation": "The Supreme Court is the final word on what the Constitution means, and lower courts must follow its decisions.",
       "memoryHook": "T-Rexy says: The Supreme Court is highest.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -416,7 +416,7 @@
         "Five",
         "Twelve"
       ],
-      "explanation": "The Supreme Court has nine justices.",
+      "explanation": "The Court has had nine justices since 1869, including one Chief Justice and eight Associate Justices.",
       "memoryHook": "T-Rexy says: Nine justices.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -443,7 +443,7 @@
         "branches",
         "judicial"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -463,7 +463,7 @@
         "branches",
         "judicial"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -476,7 +476,7 @@
         "To interpret laws",
         "To write the Constitution"
       ],
-      "explanation": "The president carries out laws and leads the executive branch.",
+      "explanation": "The president signs bills into law or vetoes them, commands the armed forces, and appoints judges and cabinet members.",
       "memoryHook": "T-Rexy says: The president enforces laws.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -523,7 +523,7 @@
         "branches",
         "checks-balances"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -536,14 +536,14 @@
         "Voters checking the president",
         "Courts checking states only"
       ],
-      "explanation": "Checks and balances keep any branch from becoming too powerful.",
+      "explanation": "For example, the president can veto a bill, Congress can override that veto with two-thirds, and the courts can strike the law down.",
       "memoryHook": "T-Rexy says: Branches check each other.",
       "imageUrl": "topic:civics",
       "tags": [
         "branches",
         "checks-balances"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -556,14 +556,14 @@
         "Giving all power to the president",
         "Sharing power with other countries"
       ],
-      "explanation": "Separation of powers splits government into legislative, executive, and judicial branches.",
+      "explanation": "The Framers split power this way so no one person or group could control the whole government.",
       "memoryHook": "T-Rexy says: Power is split three ways.",
       "imageUrl": "topic:civics",
       "tags": [
         "branches",
         "separation-of-powers"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -576,13 +576,13 @@
         "Power held only by the states",
         "Rule by the military"
       ],
-      "explanation": "Federalism divides power between national and state governments.",
+      "explanation": "The national government handles defense and interstate trade, while states run schools and local police - and some powers, like taxing, are shared.",
       "memoryHook": "T-Rexy says: Federalism shares power.",
       "imageUrl": "topic:civics",
       "tags": [
         "federalism"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -620,7 +620,7 @@
       "tags": [
         "bill-of-rights"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -639,7 +639,7 @@
       "tags": [
         "bill-of-rights"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -658,7 +658,7 @@
       "tags": [
         "bill-of-rights"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -677,7 +677,7 @@
       "tags": [
         "bill-of-rights"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -690,13 +690,13 @@
         "Fourth Amendment",
         "Fifth Amendment"
       ],
-      "explanation": "The Eighth Amendment bans cruel and unusual punishment.",
+      "explanation": "It also bans excessive bail and fines, so punishment must fit the crime.",
       "memoryHook": "T-Rexy says: The Eighth bans cruel punishment.",
       "imageUrl": "topic:civics",
       "tags": [
         "bill-of-rights"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -715,7 +715,7 @@
       "tags": [
         "bill-of-rights"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -728,7 +728,7 @@
         "Justice",
         "Due process"
       ],
-      "explanation": "Suffrage is the right to vote in elections.",
+      "explanation": "The word comes from Latin 'suffragium,' meaning a vote, and Americans fought for over a century to extend it to all adult citizens.",
       "memoryHook": "T-Rexy says: Suffrage is the vote.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -748,7 +748,7 @@
         "21",
         "25"
       ],
-      "explanation": "Citizens can vote at age 18.",
+      "explanation": "You can register to vote at 18, and in most states you can pre-register at 16 or 17 so you are ready on your birthday.",
       "memoryHook": "T-Rexy says: Vote at 18.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -774,7 +774,7 @@
         "voting",
         "amendments"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -794,7 +794,7 @@
         "voting",
         "amendments"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -814,7 +814,7 @@
         "citizenship",
         "duties"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -834,7 +834,7 @@
         "citizenship",
         "responsibilities"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -847,7 +847,7 @@
         "Volunteering",
         "Joining a political party"
       ],
-      "explanation": "Obeying the law is a required duty.",
+      "explanation": "Unlike voting, which is a responsibility you should do, obeying the law is a duty the law itself requires.",
       "memoryHook": "T-Rexy says: Obey the law.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -887,13 +887,13 @@
         "By buying property",
         "By getting a job"
       ],
-      "explanation": "People become citizens by birth or by completing naturalization.",
+      "explanation": "A child born in the United States is a citizen at birth, and an immigrant can become one by living here, passing a test, and taking an oath.",
       "memoryHook": "T-Rexy says: Birth or naturalization makes citizens.",
       "imageUrl": "topic:civics",
       "tags": [
         "citizenship"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -912,7 +912,7 @@
       "tags": [
         "citizenship"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -931,7 +931,7 @@
       "tags": [
         "elections"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -944,7 +944,7 @@
         "Every six years",
         "Every year"
       ],
-      "explanation": "Presidential elections happen every four years.",
+      "explanation": "Voters pick a president every four years, and the winner takes office on January 20 of the following year.",
       "memoryHook": "T-Rexy says: Presidents are picked every four years.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -970,7 +970,7 @@
         "elections",
         "parties"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -983,7 +983,7 @@
         "Federalist and Anti-Federalist",
         "Democratic and Federalist"
       ],
-      "explanation": "The two major parties are Democrats and Republicans.",
+      "explanation": "The two parties have dominated American politics since the 1850s, though smaller parties like the Libertarian and Green parties also run candidates.",
       "memoryHook": "T-Rexy says: Democrats and Republicans are the majors.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1022,7 +1022,7 @@
         "A vote in Congress",
         "A vote by the Supreme Court"
       ],
-      "explanation": "General elections choose the officeholder.",
+      "explanation": "The general election comes after the primaries, and it is the vote that actually fills the office.",
       "memoryHook": "T-Rexy says: General elections decide office.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1048,7 +1048,7 @@
         "rights",
         "due-process"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1061,14 +1061,14 @@
         "Leaders are above the law",
         "Laws apply only in courts"
       ],
-      "explanation": "The rule of law means no one is above the law.",
+      "explanation": "It means laws apply equally to everyone, leaders are not exempt, and the government itself must follow its own laws.",
       "memoryHook": "T-Rexy says: No one is above the law.",
       "imageUrl": "topic:civics",
       "tags": [
         "rights",
         "rule-of-law"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1101,7 +1101,7 @@
         "To make the president rich",
         "To fund political parties"
       ],
-      "explanation": "Taxes fund public services.",
+      "explanation": "Federal income tax pays for defense, highways, and national parks, while state and local taxes pay for schools and police.",
       "memoryHook": "T-Rexy says: Taxes pay for services.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1121,14 +1121,14 @@
         "State governors",
         "The Federal Reserve"
       ],
-      "explanation": "The president submits a budget, and Congress decides spending.",
+      "explanation": "The president sends a budget plan to Congress each year, but only Congress has the power to actually approve spending.",
       "memoryHook": "T-Rexy says: The president proposes, Congress approves.",
       "imageUrl": "topic:civics",
       "tags": [
         "government",
         "budget"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1141,14 +1141,14 @@
         "A democracy has no voting",
         "A republic has a king"
       ],
-      "explanation": "The U.S. is a republic: citizens elect representatives to govern.",
+      "explanation": "In a pure democracy citizens would vote on every law themselves; in a republic like the United States, they elect representatives to vote for them.",
       "memoryHook": "T-Rexy says: The U.S. is a republic.",
       "imageUrl": "topic:civics",
       "tags": [
         "government",
         "democracy"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1187,7 +1187,7 @@
       "tags": [
         "founding"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1200,13 +1200,13 @@
         "To end slavery",
         "To elect Washington"
       ],
-      "explanation": "The essays argued for ratifying the Constitution.",
+      "explanation": "The 85 essays were published in New York newspapers in 1787-1788 to persuade voters to approve the new Constitution.",
       "memoryHook": "T-Rexy says: They argued for the Constitution.",
       "imageUrl": "topic:civics",
       "tags": [
         "founding"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1219,7 +1219,7 @@
         "Philadelphia",
         "Boston"
       ],
-      "explanation": "Washington, D.C. is the nation's capital.",
+      "explanation": "Washington, D.C. was built as a new capital city on the Potomac River, and it is not part of any state.",
       "memoryHook": "T-Rexy says: D.C. is the capital.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1239,7 +1239,7 @@
         "Flagstaff",
         "Mesa"
       ],
-      "explanation": "Phoenix is the capital of Arizona.",
+      "explanation": "Phoenix became Arizona's capital when Arizona became a state in 1912, and it is now the largest city in the state.",
       "memoryHook": "T-Rexy says: Phoenix is Arizona's capital.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1259,7 +1259,7 @@
         "A member of Congress",
         "The mayor of the capital"
       ],
-      "explanation": "The governor leads the state's executive branch.",
+      "explanation": "Like the president at the national level, the governor signs or vetoes state laws and runs state agencies.",
       "memoryHook": "T-Rexy says: The governor leads the state.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1279,7 +1279,7 @@
         "A member of Congress",
         "A judge"
       ],
-      "explanation": "A mayor leads a city or town government.",
+      "explanation": "A mayor works with a city council to pass local laws, run police and fire departments, and fix roads.",
       "memoryHook": "T-Rexy says: A mayor leads a city.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1377,7 +1377,7 @@
         "The right to a trial",
         "The right to own property"
       ],
-      "explanation": "Citizens can petition the government for change.",
+      "explanation": "Petitioning can mean signing a petition, writing to a representative, or speaking at a public meeting.",
       "memoryHook": "T-Rexy says: Petition asks government to act.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1396,14 +1396,14 @@
         "Volunteering at a food bank",
         "Joining a club"
       ],
-      "explanation": "Jury service is a required duty when summoned.",
+      "explanation": "If you are called for jury duty and skip it, a court can fine you - unlike voting, which is a responsibility, not a legal duty.",
       "memoryHook": "T-Rexy says: Jury duty is a duty.",
       "imageUrl": "topic:civics",
       "tags": [
         "citizenship",
         "duties"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1416,14 +1416,14 @@
         "Obeying traffic laws",
         "Serving on a jury"
       ],
-      "explanation": "Attending meetings is a way to take part in government.",
+      "explanation": "At a town hall you can ask local officials questions face to face and speak up about new laws before they pass.",
       "memoryHook": "T-Rexy says: Town halls are participation.",
       "imageUrl": "topic:civics",
       "tags": [
         "citizenship",
         "participation"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1436,14 +1436,14 @@
         "To collect taxes",
         "To count votes"
       ],
-      "explanation": "The census counts people every ten years.",
+      "explanation": "The census count decides how many House seats each state gets and how billions of dollars in federal funding are shared out.",
       "memoryHook": "T-Rexy says: The census counts people.",
       "imageUrl": "topic:civics",
       "tags": [
         "government",
         "census"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1456,14 +1456,14 @@
         "Every four years",
         "Every twenty years"
       ],
-      "explanation": "The census happens once a decade.",
+      "explanation": "The Constitution orders a count every ten years, and the next ones fall in years ending in zero, like 2030.",
       "memoryHook": "T-Rexy says: The census is every ten years.",
       "imageUrl": "topic:civics",
       "tags": [
         "government",
         "census"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1476,7 +1476,7 @@
         "Registering voters",
         "Choosing electors"
       ],
-      "explanation": "Gerrymandering manipulates district lines for political advantage.",
+      "explanation": "The name comes from Governor Elbridge Gerry of Massachusetts, whose 1812 district was said to look like a salamander.",
       "memoryHook": "T-Rexy says: Gerrymandering rigs district lines.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1488,20 +1488,20 @@
     },
     {
       "id": "CIV8_076",
-      "question": "What is the Bill of Rights' purpose?",
-      "correctAnswer": "To protect individual freedoms from the government",
+      "question": "What does the Second Amendment protect?",
+      "correctAnswer": "The right to keep and bear arms",
       "distractors": [
-        "To create the presidency",
-        "To set up courts",
-        "To tax the states"
+        "The right to a fair trial",
+        "The right to vote",
+        "Freedom of religion"
       ],
-      "explanation": "The Bill of Rights limits what the government can do to people.",
-      "memoryHook": "T-Rexy says: The Bill of Rights protects freedoms.",
+      "explanation": "The Second Amendment protects the right to keep and bear arms, and courts still debate exactly what limits apply.",
+      "memoryHook": "T-Rexy says: The Second protects arms.",
       "imageUrl": "topic:civics",
       "tags": [
-        "bill-of-rights"
+        "amendments"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1520,7 +1520,7 @@
       "tags": [
         "amendments"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1552,13 +1552,13 @@
         "It gave women the vote",
         "It lowered the voting age"
       ],
-      "explanation": "The 15th Amendment protected the vote regardless of race.",
+      "explanation": "It was ratified in 1870, after the Civil War, but poll taxes and literacy tests still blocked Black voters for nearly another century.",
       "memoryHook": "T-Rexy says: The 15th protected voting.",
       "imageUrl": "topic:civics",
       "tags": [
         "amendments"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1571,13 +1571,13 @@
         "It abolished slavery",
         "It lowered the voting age"
       ],
-      "explanation": "The 22nd Amendment set the two-term limit.",
+      "explanation": "It was ratified in 1951, after Franklin Roosevelt won four terms - no president before him had served more than two.",
       "memoryHook": "T-Rexy says: The 22nd limits terms.",
       "imageUrl": "topic:civics",
       "tags": [
         "amendments"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1590,13 +1590,13 @@
         "It abolished slavery",
         "It lowered the voting age"
       ],
-      "explanation": "The 24th Amendment ended poll taxes in federal elections.",
+      "explanation": "Poll taxes charged voters a fee to vote, and they were used mostly in the South to keep poor people from voting.",
       "memoryHook": "T-Rexy says: The 24th banned poll taxes.",
       "imageUrl": "topic:civics",
       "tags": [
         "amendments"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1609,7 +1609,7 @@
         "The Senate is based on population",
         "The House gives each state two seats"
       ],
-      "explanation": "House seats follow population; Senate seats are equal per state.",
+      "explanation": "The House has 435 seats divided by population, while the Senate gives Wyoming and California two seats each.",
       "memoryHook": "T-Rexy says: House follows population, Senate is equal.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1629,14 +1629,14 @@
         "A Supreme Court justice",
         "A governor"
       ],
-      "explanation": "Only members of Congress can introduce bills.",
+      "explanation": "The president can suggest a bill, but only a senator or representative can formally introduce it.",
       "memoryHook": "T-Rexy says: Members introduce bills.",
       "imageUrl": "topic:civics",
       "tags": [
         "branches",
         "legislative"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1649,14 +1649,14 @@
         "It goes to the Supreme Court",
         "It goes to the states"
       ],
-      "explanation": "The president signs it into law or vetoes it.",
+      "explanation": "If the president does nothing for ten days while Congress is in session, the bill becomes law without a signature.",
       "memoryHook": "T-Rexy says: The president signs or vetoes.",
       "imageUrl": "topic:civics",
       "tags": [
         "branches",
         "legislative"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1669,7 +1669,7 @@
         "A presidential veto",
         "A court ruling"
       ],
-      "explanation": "A filibuster delays Senate action by extended debate.",
+      "explanation": "Senators can talk for hours to block a vote, and it takes 60 votes to end a filibuster and move on.",
       "memoryHook": "T-Rexy says: Filibusters delay votes.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1689,14 +1689,14 @@
         "To veto bills",
         "To lead debates only"
       ],
-      "explanation": "The vice president breaks ties in the Senate.",
+      "explanation": "The Senate has 100 seats, so a 50-50 tie is possible, and the vice president's vote decides it.",
       "memoryHook": "T-Rexy says: The vice president breaks ties.",
       "imageUrl": "topic:civics",
       "tags": [
         "branches",
         "legislative"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1709,14 +1709,14 @@
         "The vice president",
         "The Chief Justice"
       ],
-      "explanation": "The Speaker leads the House.",
+      "explanation": "The Speaker is chosen by the majority party, runs House debates, and is second in line for the presidency.",
       "memoryHook": "T-Rexy says: The Speaker leads the House.",
       "imageUrl": "topic:civics",
       "tags": [
         "branches",
         "legislative"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1729,14 +1729,14 @@
         "To run the Treasury",
         "To lead the courts"
       ],
-      "explanation": "The Secretary of State handles relations with other countries.",
+      "explanation": "The Secretary of State is the president's chief diplomat and is first in the cabinet line of succession after the vice president.",
       "memoryHook": "T-Rexy says: The Secretary handles diplomacy.",
       "imageUrl": "topic:civics",
       "tags": [
         "branches",
         "executive"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1749,14 +1749,14 @@
         "To run schools",
         "To collect taxes"
       ],
-      "explanation": "The Secretary of Defense oversees the armed forces.",
+      "explanation": "The Secretary of Defense runs the Army, Navy, Air Force, and Marines, and answers to the president as commander in chief.",
       "memoryHook": "T-Rexy says: Defense leads the military.",
       "imageUrl": "topic:civics",
       "tags": [
         "branches",
         "executive"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1796,7 +1796,7 @@
         "government",
         "foreign-policy"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1816,7 +1816,7 @@
         "government",
         "foreign-policy"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1829,7 +1829,7 @@
         "Federal courts handle local crimes only",
         "State courts handle federal law only"
       ],
-      "explanation": "Federal courts hear federal cases; state courts hear state cases.",
+      "explanation": "Federal courts handle cases about the Constitution, federal laws, and disputes between states, while state courts handle most crimes, divorces, and wills.",
       "memoryHook": "T-Rexy says: Federal courts hear federal law.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1856,7 +1856,7 @@
         "rights",
         "courts"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1869,14 +1869,14 @@
         "A sentence",
         "A pardon"
       ],
-      "explanation": "An indictment formally accuses someone of a crime.",
+      "explanation": "A grand jury issues an indictment only if it finds enough evidence - it does not decide guilt, a trial jury does that.",
       "memoryHook": "T-Rexy says: An indictment is a formal charge.",
       "imageUrl": "topic:civics",
       "tags": [
         "rights",
         "courts"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1889,14 +1889,14 @@
         "A new trial",
         "A fine"
       ],
-      "explanation": "A pardon forgives a crime and its punishment.",
+      "explanation": "A president can pardon federal crimes, and a governor can pardon state crimes - but neither can pardon someone impeached by Congress.",
       "memoryHook": "T-Rexy says: A pardon forgives.",
       "imageUrl": "topic:civics",
       "tags": [
         "rights",
         "courts"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1928,7 +1928,7 @@
         "Police never need a warrant",
         "Police can search only homes"
       ],
-      "explanation": "The Fourth Amendment requires warrants for searches and seizures.",
+      "explanation": "Police need a judge to approve a warrant first, and the warrant must name the place to be searched and what officers are looking for.",
       "memoryHook": "T-Rexy says: The Fourth needs a warrant.",
       "imageUrl": "topic:civics",
       "tags": [
@@ -1947,7 +1947,7 @@
         "A feeling",
         "A rumor"
       ],
-      "explanation": "Probable cause is a reasonable belief based on facts.",
+      "explanation": "A hunch is not enough - officers need facts, like seeing a crime happen or finding evidence, before they can search or arrest.",
       "memoryHook": "T-Rexy says: Probable cause is reasonable belief.",
       "imageUrl": "topic:civics",
       "tags": [
