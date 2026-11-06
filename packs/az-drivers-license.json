@@ -50,7 +50,7 @@
         "signs",
         "regulatory"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -71,7 +71,7 @@
         "regulatory",
         "speed"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -111,7 +111,7 @@
         "signs",
         "regulatory"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -131,7 +131,7 @@
         "signs",
         "regulatory"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -172,7 +172,7 @@
         "signs",
         "regulatory"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -192,7 +192,7 @@
         "signs",
         "regulatory"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -205,7 +205,7 @@
         "Only trucks must wait for green",
         "You may turn on red after 10 seconds"
       ],
-      "explanation": "NO TURN ON RED overrides the usual rule. You must remain stopped until the light turns green.",
+      "explanation": "Normally you may turn right on red after a complete stop. This sign removes that option at this intersection - no turning at all until the light turns green.",
       "memoryHook": "T-Rexy says: no turn on red means your turn waits - patience, driver!",
       "imageUrl": "topic:no-turn-on-red-sign",
       "tags": [
@@ -213,7 +213,7 @@
         "regulatory",
         "signals"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -233,7 +233,7 @@
         "signs",
         "regulatory"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -253,7 +253,7 @@
         "signs",
         "regulatory"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -274,7 +274,7 @@
         "regulatory",
         "railroad"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -295,7 +295,7 @@
         "regulatory",
         "signals"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -316,7 +316,7 @@
         "regulatory",
         "arizona"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -357,7 +357,7 @@
         "warning",
         "school"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -398,7 +398,7 @@
         "warning",
         "railroad"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -418,7 +418,7 @@
         "signs",
         "warning"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -439,7 +439,7 @@
         "warning",
         "weather"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -479,7 +479,7 @@
         "signs",
         "warning"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -499,7 +499,7 @@
         "signs",
         "warning"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -519,7 +519,7 @@
         "signs",
         "warning"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -601,7 +601,7 @@
         "signals",
         "right-of-way"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -620,7 +620,7 @@
       "tags": [
         "signals"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -692,7 +692,7 @@
         "The vehicle turning left",
         "The vehicle on the left"
       ],
-      "explanation": "At a four-way stop, the first vehicle to arrive and stop goes first. Take turns in order of arrival.",
+      "explanation": "Arrival order decides it - whoever completes their stop first goes first. If you cannot tell who was first, wave the other driver through: courtesy prevents the both-go-at-once crash.",
       "memoryHook": "T-Rexy says: first come, first served - four-way stops are polite democracy!",
       "imageUrl": "topic:four-way-stop",
       "tags": [
@@ -800,7 +800,7 @@
         "signals",
         "right-of-way"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -841,7 +841,7 @@
         "signals",
         "right-of-way"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -881,7 +881,7 @@
         "speed",
         "arizona"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -902,7 +902,7 @@
         "school",
         "arizona"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -922,7 +922,7 @@
         "speed",
         "arizona"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -956,14 +956,14 @@
         "10 mph slower than other lanes",
         "There is no speed limit in HOV lanes"
       ],
-      "explanation": "HOV lanes do not have a special speed limit. The posted limit applies equally to every lane.",
+      "explanation": "The diamond changes WHO may use the lane, not how fast anyone may drive. The speed limit sign sets the limit for the HOV lane too - carpooling buys you a clearer lane, not a higher limit.",
       "memoryHook": "T-Rexy says: HOV saves time, not speed limits - same rules apply!",
       "imageUrl": "topic:hov-speed",
       "tags": [
         "speed",
         "arizona"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -976,7 +976,7 @@
         "At all times, day and night",
         "Only when a crossing guard is visible"
       ],
-      "explanation": "Arizona school zones are enforceable at 15 mph when children are present or when the flashing warning lights are operating.",
+      "explanation": "The 15 mph limit is not in force 24/7 - it switches on when children are coming or going, which is exactly what the flashing beacons announce. Outside those times the regular posted limit applies, but stay alert near schools anyway.",
       "memoryHook": "T-Rexy says: kids present or lights flashing means 15 - no excuses!",
       "imageUrl": "topic:school-zone-when",
       "tags": [
@@ -984,7 +984,7 @@
         "school",
         "arizona"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -997,14 +997,14 @@
         "Halved",
         "Only warnings are given"
       ],
-      "explanation": "Arizona doubles fines for traffic violations in work zones. Workers' lives depend on your caution.",
+      "explanation": "A violation that costs $100 elsewhere costs $200 in a work zone - Arizona doubles fines to protect workers standing feet from live traffic, and the doubling applies even when you cannot see a crew at that moment.",
       "memoryHook": "T-Rexy says: work zone fines DOUBLE - slow down, it is cheaper and safer!",
       "imageUrl": "topic:work-zone-fines",
       "tags": [
         "speed",
         "work-zone"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1024,7 +1024,7 @@
         "speed",
         "arizona"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1037,7 +1037,7 @@
         "24 inches",
         "36 inches"
       ],
-      "explanation": "Arizona requires parked vehicles to be within 12 inches of the curb or edge of the roadway.",
+      "explanation": "Picture one standard ruler: if the gap between your tires and the curb is wider than 12 inches, you are parked too far into the lane and can be cited under A.R.S. 28-874. (Note: some states allow 18 inches - Arizona does not.)",
       "memoryHook": "T-Rexy says: 12 inches from the curb - about one shoe length!",
       "imageUrl": "topic:parking-curb-distance",
       "tags": [
@@ -1189,7 +1189,7 @@
         "0.05% or higher",
         "Any detectable amount"
       ],
-      "explanation": "Arizona's per se DUI limit is 0.08% blood alcohol concentration for drivers 21 and older.",
+      "explanation": "'Per se' means the number itself is the crime: at 0.08% the state does not have to prove you felt drunk. And you can still be charged below 0.08 if an officer observes impairment - many drivers are dangerous well under the line.",
       "memoryHook": "T-Rexy says: 0.08 is the line - cross it and you are DUI!",
       "imageUrl": "topic:bac-limit",
       "tags": [
@@ -1197,7 +1197,7 @@
         "alcohol",
         "arizona"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1218,7 +1218,7 @@
         "alcohol",
         "arizona"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1339,7 +1339,7 @@
         "alcohol",
         "arizona"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1439,7 +1439,7 @@
         "seat-belt",
         "arizona"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1502,7 +1502,7 @@
         "child",
         "arizona"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1523,7 +1523,7 @@
         "child",
         "arizona"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1565,7 +1565,7 @@
         "bicycles",
         "arizona"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1605,7 +1605,7 @@
         "sharing-road",
         "school"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1646,7 +1646,7 @@
         "emergency",
         "arizona"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1765,7 +1765,7 @@
         "defensive",
         "safety"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1806,7 +1806,7 @@
         "defensive",
         "safety"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1847,7 +1847,7 @@
         "emergency",
         "weather"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1908,7 +1908,7 @@
         "emergency",
         "railroad"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1929,7 +1929,7 @@
         "weather",
         "emergency"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1950,7 +1950,7 @@
         "weather",
         "emergency"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1969,7 +1969,7 @@
       "tags": [
         "arizona"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1989,7 +1989,7 @@
         "arizona",
         "distracted"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -2008,7 +2008,7 @@
       "tags": [
         "arizona"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
