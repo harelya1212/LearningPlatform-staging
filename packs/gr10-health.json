@@ -55,19 +55,19 @@
     },
     {
       "id": "HEA10_003",
-      "question": "Which vitamin does sunlight help the body make?",
-      "correctAnswer": "Vitamin D",
+      "question": "What is an eating disorder?",
+      "correctAnswer": "A serious medical and mental illness that disrupts eating behaviors and body image",
       "distractors": [
-        "Vitamin C",
-        "Vitamin B12",
-        "Vitamin A"
+        "A diet people choose just to look better",
+        "A phase that all teens grow out of on their own",
+        "Eating one very large meal"
       ],
-      "explanation": "Sunlight on skin triggers vitamin D production.",
-      "memoryHook": "T-Rexy says: Sunshine makes vitamin D in your skin.",
+      "explanation": "Eating disorders are real illnesses, not choices or vanity. They damage the heart, bones, and other organs, but they are treatable, especially when help starts early.",
+      "memoryHook": "T-Rexy says: An eating disorder is an illness, not a choice.",
       "imageUrl": "topic:health",
       "tags": [
-        "nutrition",
-        "vitamins"
+        "mental-health",
+        "eating-disorders"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -195,19 +195,19 @@
     },
     {
       "id": "HEA10_010",
-      "question": "Which foods are good sources of iron?",
-      "correctAnswer": "Red meat, beans, and leafy greens",
+      "question": "Why is marijuana especially risky for teenagers?",
+      "correctAnswer": "The teen brain is still developing, and marijuana can harm memory, learning, and attention",
       "distractors": [
-        "Milk and cheese",
-        "White bread",
-        "Candy"
+        "It is natural, so it cannot affect the brain",
+        "It improves concentration for schoolwork",
+        "It only affects the lungs, never the brain"
       ],
-      "explanation": "Iron is found in meat, beans, spinach, and fortified foods.",
-      "memoryHook": "T-Rexy says: Beans and spinach are iron-rich.",
+      "explanation": "Brain development continues into the mid-20s. Marijuana interferes with memory, learning, and attention during that window, and teens who use it regularly can fall behind in school.",
+      "memoryHook": "T-Rexy says: A growing brain and marijuana do not mix.",
       "imageUrl": "topic:health",
       "tags": [
-        "nutrition",
-        "minerals"
+        "substances",
+        "marijuana"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -255,19 +255,19 @@
     },
     {
       "id": "HEA10_013",
-      "question": "What is the best source of vitamin C?",
-      "correctAnswer": "Citrus fruits, peppers, and broccoli",
+      "question": "What does an AED do?",
+      "correctAnswer": "It analyzes the heart's rhythm and can deliver an electric shock to restore a normal rhythm",
       "distractors": [
-        "Bread and pasta",
-        "Meat and eggs",
-        "Butter and oil"
+        "It pumps blood through the body like CPR does",
+        "Only doctors and paramedics are allowed to use one",
+        "It restarts every stopped heart automatically"
       ],
-      "explanation": "Vitamin C supports the immune system, helps build collagen for skin and healing, and acts as an antioxidant; citrus fruits, bell peppers, and broccoli are rich sources.",
-      "memoryHook": "T-Rexy says: Oranges and peppers are packed with vitamin C.",
+      "explanation": "An AED is a portable device with voice prompts that guide any bystander step by step. It checks the rhythm and shocks only when a shock can help, so it cannot be used wrong by a rescuer.",
+      "memoryHook": "T-Rexy says: An AED talks you through saving a life.",
       "imageUrl": "topic:health",
       "tags": [
-        "nutrition",
-        "vitamins"
+        "first-aid",
+        "aed"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -335,19 +335,19 @@
     },
     {
       "id": "HEA10_017",
-      "question": "What is a serving of vegetables roughly equal to?",
-      "correctAnswer": "About 1 cup raw or 1/2 cup cooked",
+      "question": "What does naloxone (Narcan) do?",
+      "correctAnswer": "It temporarily reverses an opioid overdose and restores breathing",
       "distractors": [
-        "5 cups",
-        "1 tablespoon",
-        "3 cups"
+        "It permanently cures opioid addiction",
+        "It reverses overdoses from alcohol and stimulants too",
+        "It is dangerous to give if the person is not overdosing"
       ],
-      "explanation": "Cooking shrinks vegetables, so half a cup cooked equals about a cup raw; use your fist as a rough guide for one cup.",
-      "memoryHook": "T-Rexy says: One cup raw is a serving of veggies.",
+      "explanation": "Naloxone blocks opioids in the brain and can restore breathing within 2 to 3 minutes. It wears off in 30 to 90 minutes, so call 911 first - and it does no harm if opioids turn out not to be involved.",
+      "memoryHook": "T-Rexy says: Naloxone restarts breathing - then call 911.",
       "imageUrl": "topic:health",
       "tags": [
-        "nutrition",
-        "servings"
+        "substances",
+        "opioids"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -375,19 +375,19 @@
     },
     {
       "id": "HEA10_019",
-      "question": "What is the main ingredient in most sports drinks?",
-      "correctAnswer": "Water with sugar and electrolytes",
+      "question": "Why is fentanyl so dangerous?",
+      "correctAnswer": "It is about 50 times stronger than heroin, so even a tiny amount can stop a person's breathing",
       "distractors": [
-        "Caffeine only",
-        "Protein",
-        "Vitamins only"
+        "It is weaker than morphine and only used in hospitals",
+        "It is dangerous only when injected by doctors",
+        "You can spot it easily by its color or taste"
       ],
-      "explanation": "Sports drinks are mostly water with sugar and salts to replace what sweat loses.",
-      "memoryHook": "T-Rexy says: Sports drinks replace water and salts.",
+      "explanation": "Fentanyl is a synthetic opioid about 50 times stronger than heroin and 100 times stronger than morphine. It is often mixed into counterfeit pills and other drugs, so people can overdose without knowing they took it.",
+      "memoryHook": "T-Rexy says: Fentanyl is tiny but deadly - 50 times stronger than heroin.",
       "imageUrl": "topic:health",
       "tags": [
-        "nutrition",
-        "hydration"
+        "substances",
+        "opioids"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -415,19 +415,19 @@
     },
     {
       "id": "HEA10_021",
-      "question": "What is the glycemic index?",
-      "correctAnswer": "A measure of how quickly a food raises blood sugar",
+      "question": "Which methods of birth control are the most effective at preventing pregnancy?",
+      "correctAnswer": "Long-acting methods - the implant and the IUD - which work for years without daily effort",
       "distractors": [
-        "A measure of calories",
-        "A measure of fat content",
-        "A measure of protein quality"
+        "Condoms used on their own",
+        "Taking the pill only on days you remember it",
+        "The withdrawal method"
       ],
-      "explanation": "High-GI foods like white bread digest fast and spike blood sugar, while low-GI foods like beans release glucose slowly and keep energy steadier.",
-      "memoryHook": "T-Rexy says: High glycemic foods spike blood sugar fast.",
+      "explanation": "The implant and hormonal or copper IUDs are over 99 percent effective because there is almost no room for human error. Pills and condoms work well only when used correctly every single time.",
+      "memoryHook": "T-Rexy says: Set-it-and-forget-it methods prevent the most pregnancies.",
       "imageUrl": "topic:health",
       "tags": [
-        "nutrition",
-        "blood-sugar"
+        "health",
+        "contraception"
       ],
       "difficulty": "hard",
       "dynamic": false,
@@ -455,19 +455,19 @@
     },
     {
       "id": "HEA10_023",
-      "question": "What is the function of calcium?",
-      "correctAnswer": "Building strong bones and teeth",
+      "question": "What are the signs of an opioid overdose?",
+      "correctAnswer": "Pinpoint pupils, slow or stopped breathing, and being unconscious or unable to wake up",
       "distractors": [
-        "Carrying oxygen",
-        "Making energy",
-        "Fighting infection"
+        "A racing heartbeat, sweating, and talking very fast",
+        "Sudden hunger and uncontrollable giggling",
+        "Hives and swelling of the lips and tongue"
       ],
-      "explanation": "Calcium builds and maintains bones and teeth and helps muscles and nerves work.",
-      "memoryHook": "T-Rexy says: Calcium builds strong bones.",
+      "explanation": "Opioids slow the part of the brain that controls breathing. Pinpoint pupils plus slow or stopped breathing is a medical emergency: call 911, give naloxone if available, and start rescue breathing or CPR.",
+      "memoryHook": "T-Rexy says: Pinpoint pupils and slow breathing - act fast.",
       "imageUrl": "topic:health",
       "tags": [
-        "nutrition",
-        "minerals"
+        "substances",
+        "opioids"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -535,19 +535,19 @@
     },
     {
       "id": "HEA10_027",
-      "question": "What is aerobic exercise?",
-      "correctAnswer": "Exercise that raises heart rate and uses oxygen, like running or swimming",
+      "question": "Which behavior could be a warning sign of an eating disorder in a friend?",
+      "correctAnswer": "Skipping meals, avoiding eating around others, and constantly worrying about weight",
       "distractors": [
-        "Lifting weights only",
-        "Stretching only",
-        "Sitting still"
+        "Eating a big meal after a sports game",
+        "Trying out a new sport for fun",
+        "Cooking dinner for friends on weekends"
       ],
-      "explanation": "Aerobic exercise uses large muscles rhythmically and improves heart and lung fitness.",
-      "memoryHook": "T-Rexy says: Aerobic exercise gets your heart pumping.",
+      "explanation": "Warning signs include skipping meals, secretive eating, frequent bathroom trips after meals, and intense focus on calories or body shape. A caring response is to share your concern and encourage the person to talk to a trusted adult or counselor.",
+      "memoryHook": "T-Rexy says: Skipped meals plus weight worry - check on your friend.",
       "imageUrl": "topic:health",
       "tags": [
-        "fitness",
-        "aerobic"
+        "mental-health",
+        "eating-disorders"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -615,19 +615,19 @@
     },
     {
       "id": "HEA10_031",
-      "question": "What is flexibility?",
-      "correctAnswer": "The ability of joints to move through their full range of motion",
+      "question": "What makes counterfeit (fake) prescription pills so dangerous?",
+      "correctAnswer": "They look like real medicine but can secretly contain fentanyl",
       "distractors": [
-        "Muscle strength",
-        "Heart fitness",
-        "Balance only"
+        "They are made safely in licensed pharmacies",
+        "They are weaker than real pills, so they do less harm",
+        "Only one type of pill is ever faked"
       ],
-      "explanation": "Flexibility is how far joints can move, improved by stretching.",
-      "memoryHook": "T-Rexy says: Flexibility is how far your joints can move.",
+      "explanation": "Counterfeit pills are pressed to look exactly like real prescriptions such as painkillers or study drugs, but many contain fentanyl. The only safe pill is one dispensed by a pharmacy from your own prescription.",
+      "memoryHook": "T-Rexy says: A pill from a friend or online could hide fentanyl.",
       "imageUrl": "topic:health",
       "tags": [
-        "fitness",
-        "flexibility"
+        "substances",
+        "opioids"
       ],
       "difficulty": "easy",
       "dynamic": false,
@@ -635,19 +635,19 @@
     },
     {
       "id": "HEA10_032",
-      "question": "What is muscular strength?",
-      "correctAnswer": "The maximum force a muscle can produce in one effort",
+      "question": "At what rate and depth should chest compressions be given to an adult or teen?",
+      "correctAnswer": "100 to 120 compressions per minute, pushing about 2 inches deep",
       "distractors": [
-        "How long a muscle can work",
-        "How fast you can run",
-        "How flexible you are"
+        "60 to 80 per minute, about 1 inch deep",
+        "100 to 120 per minute, about 4 inches deep",
+        "As fast as possible, at any depth"
       ],
-      "explanation": "Think of one all-out effort, like a single heavy lift; strength depends on muscle size and how many fibers the nerves can recruit at once.",
-      "memoryHook": "T-Rexy says: Strength is max force in one effort.",
+      "explanation": "The American Heart Association sets the rate at 100 to 120 compressions per minute - roughly the beat of a fast song - with a depth of at least 2 inches for adults, letting the chest fully recoil between pushes.",
+      "memoryHook": "T-Rexy says: Push hard, push fast - 100 to 120 a minute, 2 inches deep.",
       "imageUrl": "topic:health",
       "tags": [
-        "fitness",
-        "strength"
+        "first-aid",
+        "cpr"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -655,19 +655,19 @@
     },
     {
       "id": "HEA10_033",
-      "question": "What is muscular endurance?",
-      "correctAnswer": "The ability of muscles to work repeatedly without tiring",
+      "question": "What is the difference between bulimia and anorexia?",
+      "correctAnswer": "Bulimia involves binge eating followed by purging; anorexia involves extreme food restriction and significant weight loss",
       "distractors": [
-        "The maximum force in one lift",
-        "How flexible joints are",
-        "How fast the heart beats"
+        "Bulimia involves extreme restriction; anorexia involves bingeing and purging",
+        "They are two names for exactly the same illness",
+        "Anorexia only affects the stomach, and bulimia only affects the teeth"
       ],
-      "explanation": "Endurance shows in repetitions, like many push-ups in a row; it depends on the muscle's ability to keep contracting and clear waste products.",
-      "memoryHook": "T-Rexy says: Endurance is lasting power.",
+      "explanation": "Both are serious eating disorders. People with bulimia cycle between eating large amounts and purging, often at a typical weight, while anorexia involves severe restriction and dangerously low weight - both need professional treatment.",
+      "memoryHook": "T-Rexy says: Bulimia binges and purges; anorexia restricts.",
       "imageUrl": "topic:health",
       "tags": [
-        "fitness",
-        "endurance"
+        "mental-health",
+        "eating-disorders"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -795,19 +795,19 @@
     },
     {
       "id": "HEA10_040",
-      "question": "What is body composition?",
-      "correctAnswer": "The proportion of fat and lean tissue in the body",
+      "question": "Which of these is prescription drug misuse?",
+      "correctAnswer": "Taking a prescription medicine that was prescribed to someone else",
       "distractors": [
-        "Your height only",
-        "Your weight only",
-        "Your BMI only"
+        "Taking your own medicine exactly as your doctor directed",
+        "Using an over-the-counter pain reliever as the label says",
+        "Refilling your own prescription at the pharmacy"
       ],
-      "explanation": "Body composition is the ratio of fat mass to lean mass like muscle and bone.",
-      "memoryHook": "T-Rexy says: Body composition is fat versus lean tissue.",
+      "explanation": "Prescription drugs are dosed for one person's body and condition. Taking someone else's - or taking extra doses of your own - is misuse, and sharing prescription opioids is a common path to overdose.",
+      "memoryHook": "T-Rexy says: A prescription with someone else's name is never yours to take.",
       "imageUrl": "topic:health",
       "tags": [
-        "fitness",
-        "body"
+        "substances",
+        "prescription-drugs"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -875,19 +875,19 @@
     },
     {
       "id": "HEA10_044",
-      "question": "What is the main benefit of regular exercise for the brain?",
-      "correctAnswer": "Better mood, memory, and focus",
+      "question": "What are the two steps of Hands-Only CPR for a teen or adult who suddenly collapses?",
+      "correctAnswer": "Call 911 (and send someone for an AED), then push hard and fast in the center of the chest",
       "distractors": [
-        "It makes you taller",
-        "It replaces sleep",
-        "It cures all disease"
+        "Give mouth-to-mouth breaths first, then decide about compressions",
+        "Check for a pulse for a full minute before doing anything",
+        "Do nothing until paramedics arrive if you are not certified"
       ],
-      "explanation": "Exercise increases blood flow to the brain and releases chemicals like endorphins, which lift mood and sharpen memory and focus.",
-      "memoryHook": "T-Rexy says: Exercise boosts mood and focus.",
+      "explanation": "For bystanders, the American Heart Association recommends just two steps: call 911, then push hard and fast in the center of the chest. Hands-Only CPR can double or triple a person's chance of survival.",
+      "memoryHook": "T-Rexy says: Call 911, then push hard and fast.",
       "imageUrl": "topic:health",
       "tags": [
-        "fitness",
-        "brain"
+        "first-aid",
+        "cpr"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1955,19 +1955,19 @@
     },
     {
       "id": "HEA10_098",
-      "question": "What is the function of the respiratory system?",
-      "correctAnswer": "To bring oxygen in and remove carbon dioxide",
+      "question": "Why do health experts recommend using a condom together with another contraceptive method?",
+      "correctAnswer": "The condom protects against STIs while the other method adds stronger pregnancy protection",
       "distractors": [
-        "To pump blood",
-        "To digest food",
-        "To filter blood"
+        "Two condoms at the same time work even better",
+        "Birth control pills also protect against STIs",
+        "Using two methods cancels out side effects"
       ],
-      "explanation": "Air travels down the trachea into the lungs, where tiny air sacs called alveoli pass oxygen into the blood and take carbon dioxide out with each breath.",
-      "memoryHook": "T-Rexy says: Breathing brings in oxygen and removes CO2.",
+      "explanation": "Only condoms reduce STI risk, while methods like the pill, implant, or IUD prevent pregnancy more reliably. Using both together - called dual protection - covers both risks at once; never wear two condoms, since friction makes them more likely to break.",
+      "memoryHook": "T-Rexy says: Condom for infections, plus a method for pregnancy - both covered.",
       "imageUrl": "topic:health",
       "tags": [
         "health",
-        "body"
+        "contraception"
       ],
       "difficulty": "medium",
       "dynamic": false,
@@ -1975,19 +1975,19 @@
     },
     {
       "id": "HEA10_099",
-      "question": "What is the main job of the kidneys?",
-      "correctAnswer": "To filter waste from the blood and make urine",
+      "question": "Why is driving after using marijuana dangerous and illegal?",
+      "correctAnswer": "Marijuana slows reaction time and impairs coordination and judgment behind the wheel",
       "distractors": [
-        "To pump blood",
-        "To make insulin",
-        "To store fat"
+        "It is safe to drive because marijuana is not alcohol",
+        "It only affects driving if alcohol was also used",
+        "Its effects on driving wear off within a few minutes"
       ],
-      "explanation": "Each day the kidneys filter about 180 liters of fluid, keeping what the body needs and sending waste, extra water, and salts out as urine; they also help control blood pressure.",
-      "memoryHook": "T-Rexy says: Kidneys filter your blood.",
+      "explanation": "Marijuana impairs the reaction time, coordination, and judgment driving demands, and driving under its influence is treated as DUI. The risk rises even higher when it is combined with alcohol.",
+      "memoryHook": "T-Rexy says: High driving is impaired driving.",
       "imageUrl": "topic:health",
       "tags": [
-        "health",
-        "body"
+        "substances",
+        "marijuana"
       ],
       "difficulty": "medium",
       "dynamic": false,
