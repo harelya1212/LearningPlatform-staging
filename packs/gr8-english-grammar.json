@@ -22,7 +22,7 @@
         "Adjective",
         "Adverb"
       ],
-      "explanation": "A noun names a person, place, thing, or idea.",
+      "explanation": "Test it: if you can put 'the' or 'a' in front of it - the dog, a city, the idea - it is a noun. People, places, things, and ideas all pass that test.",
       "memoryHook": "T-Rexy says: Nouns name things.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -42,7 +42,7 @@
         "Adjective",
         "Preposition"
       ],
-      "explanation": "A verb shows action or a state of being.",
+      "explanation": "Ask what the subject does or is: in 'She runs,' runs is the action; in 'She is tall,' is shows her state of being. Every sentence needs a verb.",
       "memoryHook": "T-Rexy says: Verbs show action.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -62,7 +62,7 @@
         "Verb",
         "Pronoun"
       ],
-      "explanation": "An adjective describes or modifies a noun.",
+      "explanation": "Adjectives answer which one, what kind, or how many: the red ball, a brave girl, three apples. They always sit with a noun.",
       "memoryHook": "T-Rexy says: Adjectives describe nouns.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -82,7 +82,7 @@
         "Noun",
         "Pronoun"
       ],
-      "explanation": "An adverb modifies verbs, adjectives, or other adverbs.",
+      "explanation": "Adverbs answer how, when, where, or to what extent: ran quickly, very tall, arrived yesterday. Many end in -ly, but not all - fast and well do not.",
       "memoryHook": "T-Rexy says: Adverbs describe actions.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -102,7 +102,7 @@
         "Adverb",
         "Interjection"
       ],
-      "explanation": "A pronoun replaces a noun, like he, she, or they.",
+      "explanation": "Pronouns stop sentences from repeating the same noun: 'Ana lost her book' instead of 'Ana lost Ana's book.' The pronoun must match its noun in number and gender.",
       "memoryHook": "T-Rexy says: Pronouns stand in for nouns.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -122,7 +122,7 @@
         "Interjection",
         "Article"
       ],
-      "explanation": "A preposition like in, on, or under shows a relationship.",
+      "explanation": "A preposition plus its noun makes a phrase that tells where or when: under the table, after lunch, beside Ana. Anything a rabbit can do to a box - in, on, under, beside, over - is a preposition.",
       "memoryHook": "T-Rexy says: Prepositions show relationships.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -142,7 +142,7 @@
         "Interjection",
         "Adverb"
       ],
-      "explanation": "A conjunction like and, but, or or joins words or clauses.",
+      "explanation": "Remember FANBOYS - for, and, nor, but, or, yet, so - the seven words that join equal parts of a sentence. 'And' adds, 'but' contrasts, 'or' offers a choice.",
       "memoryHook": "T-Rexy says: Conjunctions join things.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -262,14 +262,14 @@
         "A phrase with no verb",
         "A group of words that ends in a question mark only"
       ],
-      "explanation": "A complete sentence needs a subject, a verb, and a complete thought.",
+      "explanation": "Check three things: a subject (who or what), a verb (what happens), and a complete thought that makes sense alone. 'The dog ran' passes all three; 'Running down the street' fails two.",
       "memoryHook": "T-Rexy says: Complete sentences need subject plus verb.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "sentence-structure",
         "complete-sentences"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -289,7 +289,7 @@
         "sentence-structure",
         "fragments"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -302,14 +302,14 @@
         "I went to the store. I bought milk.",
         "I went to the store because I needed milk."
       ],
-      "explanation": "Two sentences joined without punctuation or a conjunction is a run-on.",
+      "explanation": "Fix a run-on three ways: add a period ('I went to the store. I bought milk.'), add a comma plus and/but/so, or add a semicolon between the two complete thoughts.",
       "memoryHook": "T-Rexy says: Run-ons jam sentences together.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "sentence-structure",
         "run-ons"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -322,14 +322,14 @@
         "A sentence with a dependent clause",
         "A sentence with no verb"
       ],
-      "explanation": "A simple sentence has one subject and one predicate, one clause.",
+      "explanation": "Simple does not mean short - 'The tall, tired dog slept soundly all afternoon' is one clause, so it is still a simple sentence. Count the clauses, not the words.",
       "memoryHook": "T-Rexy says: Simple means one clause.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "sentence-structure",
         "types"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -342,14 +342,14 @@
         "A sentence with a dependent clause only",
         "A sentence with no subject"
       ],
-      "explanation": "A compound sentence joins two complete thoughts.",
+      "explanation": "Each half must be a sentence on its own: 'I went to the store' and 'I bought milk' both stand alone, so joining them with 'and' makes a compound sentence.",
       "memoryHook": "T-Rexy says: Compound means two complete thoughts.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "sentence-structure",
         "types"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -362,14 +362,14 @@
         "A sentence with one clause",
         "A sentence with no verb"
       ],
-      "explanation": "A complex sentence mixes a main clause with a dependent clause.",
+      "explanation": "Look for the subordinating word - because, when, although, if - that starts the dependent part: 'Because it rained, we stayed home' is complex, not compound.",
       "memoryHook": "T-Rexy says: Complex mixes main and dependent.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "sentence-structure",
         "types"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -382,14 +382,14 @@
         "A sentence with two dependent clauses only",
         "A sentence with no conjunction"
       ],
-      "explanation": "A compound-complex sentence has at least two main clauses plus a dependent clause.",
+      "explanation": "It needs both parts: at least two independent clauses (the compound part) and at least one dependent clause (the complex part). 'Because it rained, we stayed home, and we played games' has all three.",
       "memoryHook": "T-Rexy says: Compound-complex has it all.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "sentence-structure",
         "types"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -402,13 +402,13 @@
         "A phrase with no verb",
         "A group of words that is a fragment"
       ],
-      "explanation": "An independent clause has a subject and verb and expresses a complete thought.",
+      "explanation": "The test is simple: cover the rest of the sentence - if the words left can stand alone as a sentence, the clause is independent.",
       "memoryHook": "T-Rexy says: Independent clauses stand alone.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "clauses"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -427,7 +427,7 @@
       "tags": [
         "clauses"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -460,14 +460,14 @@
         "A group with a subject and verb",
         "A run-on sentence"
       ],
-      "explanation": "A phrase lacks either a subject or a verb, or both.",
+      "explanation": "Phrases are word groups that do a job - 'on the table' tells where, 'running fast' describes - but they never have both a subject and a verb, so they can never stand alone as a sentence.",
       "memoryHook": "T-Rexy says: Phrases are missing a subject or verb.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "phrases",
         "clauses"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -480,7 +480,7 @@
         "A phrase that is a complete sentence",
         "A phrase with a subject and verb"
       ],
-      "explanation": "A prepositional phrase starts with a word like in, on, or under.",
+      "explanation": "It always ends with the object of the preposition - the noun or pronoun after it: in the box, under Ana's bed, beside the tall tree. Find the preposition, then read to the next noun.",
       "memoryHook": "T-Rexy says: Prepositional phrases start with prepositions.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -520,14 +520,14 @@
         "A clause that starts a sentence",
         "A type of adjective"
       ],
-      "explanation": "An appositive renames a nearby noun, like 'my friend, Maya.'",
+      "explanation": "Appositives sit right next to the noun they rename, usually between commas: 'My dog, a golden retriever, loves to swim.' Remove it and the sentence still works.",
       "memoryHook": "T-Rexy says: Appositives rename nouns.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "phrases",
         "appositives"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -560,14 +560,14 @@
         "A noun used as a verb",
         "A type of conjunction"
       ],
-      "explanation": "Participles are verb forms that describe nouns.",
+      "explanation": "Spot them by their endings: present participles end in -ing ('the running dog'), past participles often end in -ed or -en ('the broken window'). They act as adjectives, not as the sentence's main verb.",
       "memoryHook": "T-Rexy says: Participles describe like adjectives.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "verbals",
         "participles"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -580,7 +580,7 @@
         "A noun used as a verb",
         "A type of adverb"
       ],
-      "explanation": "A gerund acts as a noun, like 'Swimming is fun.'",
+      "explanation": "A gerund is an -ing verb doing a noun's job - subject, object, or after a preposition: 'Swimming is fun' (subject), 'I love swimming' (object), 'good at swimming' (after a preposition).",
       "memoryHook": "T-Rexy says: Gerunds are -ing nouns.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -620,7 +620,7 @@
         "A verb in the past tense",
         "A noun phrase"
       ],
-      "explanation": "An infinitive is 'to' plus the verb.",
+      "explanation": "Infinitives can act as nouns ('To read is fun'), adjectives ('a book to read'), or adverbs ('I came to help'). The 'to' plus base verb never changes form.",
       "memoryHook": "T-Rexy says: Infinitives start with to.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -723,7 +723,7 @@
       "tags": [
         "voice"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -783,7 +783,7 @@
         "mood",
         "verbs"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -803,7 +803,7 @@
         "mood",
         "verbs"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -816,7 +816,7 @@
         "The object of a sentence",
         "The number of verbs"
       ],
-      "explanation": "Tense shows past, present, or future time.",
+      "explanation": "English has three simple tenses - walked (past), walk (present), will walk (future) - and perfect and progressive forms built on them. The tense must stay consistent inside one sentence.",
       "memoryHook": "T-Rexy says: Tense shows time.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -836,7 +836,7 @@
         "gone",
         "going"
       ],
-      "explanation": "The past tense of go is went.",
+      "explanation": "Go is irregular - it does not add -ed. Its three main forms are go, went, gone: 'I go today, I went yesterday, I have gone already.'",
       "memoryHook": "T-Rexy says: Went is the past of go.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -856,7 +856,7 @@
         "eating",
         "eats"
       ],
-      "explanation": "The past participle of eat is eaten.",
+      "explanation": "Eat is irregular: eat, ate, eaten. The past participle always follows have or be - 'I have eaten,' 'It was eaten' - never 'I have ate.'",
       "memoryHook": "T-Rexy says: Eaten is the past participle.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -883,7 +883,7 @@
         "verbs",
         "tense"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -916,7 +916,7 @@
         "The subject must match the adjective",
         "The verb must be in the past tense"
       ],
-      "explanation": "A singular subject takes a singular verb; a plural subject takes a plural verb.",
+      "explanation": "Watch out for words between the subject and the verb: 'The box of chocolates is on the table' - box is singular, so the verb is 'is,' even though chocolates is plural.",
       "memoryHook": "T-Rexy says: Subjects and verbs must agree.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -954,7 +954,7 @@
         "The adjective in a sentence",
         "The object of a preposition"
       ],
-      "explanation": "The antecedent is the noun the pronoun stands for.",
+      "explanation": "Every pronoun must point clearly to one noun. If two nouns could fit - 'Ana told Maya she won' - the reader cannot tell whose win it was, so the antecedent is unclear.",
       "memoryHook": "T-Rexy says: The antecedent is the noun replaced.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -1001,7 +1001,7 @@
         "pronouns",
         "case"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1021,7 +1021,7 @@
         "pronouns",
         "case"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1041,7 +1041,7 @@
         "pronouns",
         "intensive"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1061,7 +1061,7 @@
         "pronouns",
         "reflexive"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1081,7 +1081,7 @@
         "pronouns",
         "reflexive"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1094,7 +1094,7 @@
         "Only in questions",
         "After every word"
       ],
-      "explanation": "Use a comma after an introductory element, like 'After dinner, we went home.'",
+      "explanation": "The comma marks where the introduction ends and the main clause begins. Read it aloud: the natural pause after 'After dinner' is where the comma goes.",
       "memoryHook": "T-Rexy says: Intro phrases get a comma.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -1121,7 +1121,7 @@
         "punctuation",
         "commas"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1134,7 +1134,7 @@
         "To join a dependent clause only",
         "To replace a comma in a list of two items"
       ],
-      "explanation": "A semicolon joins two complete thoughts without a conjunction.",
+      "explanation": "A semicolon is a soft period: it joins two complete sentences that belong together, but it never joins a fragment - 'I love reading; because it is fun' is wrong because 'because it is fun' cannot stand alone.",
       "memoryHook": "T-Rexy says: Semicolons join complete thoughts.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -1161,7 +1161,7 @@
         "punctuation",
         "semicolons"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1174,7 +1174,7 @@
         "To join two sentences",
         "To show possession"
       ],
-      "explanation": "A colon comes before a list or explanation.",
+      "explanation": "A colon needs a complete sentence before it: 'Bring these items: a notebook...' works because 'Bring these items' is complete. A colon never splits a verb from its object.",
       "memoryHook": "T-Rexy says: Colons introduce lists.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -1201,7 +1201,7 @@
         "punctuation",
         "colons"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1214,7 +1214,7 @@
         "To end a sentence",
         "To join two sentences"
       ],
-      "explanation": "Apostrophes show ownership or missing letters in contractions.",
+      "explanation": "Two jobs only: possession (the dog's bone) and contractions (don't = do not). Apostrophes never make a word plural - 'apple's' for more than one apple is wrong.",
       "memoryHook": "T-Rexy says: Apostrophes show possession or contractions.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -1241,17 +1241,17 @@
         "punctuation",
         "apostrophes"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "GRA8_063",
       "question": "Which sentence uses quotation marks correctly?",
-      "correctAnswer": "She said, 'I will be there soon.'",
+      "correctAnswer": "She said, \"I will be there soon.\"",
       "distractors": [
         "She said, I will be there soon.",
-        "She said 'I will be there soon'.",
+        "She said \"I will be there soon\".",
         "She said, I will be there soon.'"
       ],
       "explanation": "Quotation marks go around the exact words spoken.",
@@ -1261,7 +1261,7 @@
         "punctuation",
         "quotation-marks"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1274,7 +1274,7 @@
         "Using only short sentences",
         "Using only long sentences"
       ],
-      "explanation": "Parallel structure keeps list items in the same form.",
+      "explanation": "Read the list out loud: 'reading, writing, and swimming' flows because all three are -ing words. Mix in 'to write' and the rhythm breaks - that is how you spot a parallel-structure error.",
       "memoryHook": "T-Rexy says: Parallel lists match in form.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -1301,7 +1301,7 @@
         "style",
         "parallel-structure"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1314,14 +1314,14 @@
         "A clause that is too short",
         "A sentence with no verb"
       ],
-      "explanation": "A dangling modifier is misplaced, like 'Running late, the bus left without me.'",
+      "explanation": "The phrase at the start must describe the subject that follows it. 'Running late' must be followed by the person who was late - 'Running late, I missed the bus' - not by the bus.",
       "memoryHook": "T-Rexy says: Dangling modifiers point at the wrong word.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "style",
         "modifiers"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1341,7 +1341,7 @@
         "style",
         "modifiers"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1354,14 +1354,14 @@
         "Their shows place, there shows possession",
         "They're shows possession"
       ],
-      "explanation": "Their is possessive, there is a place, and they're is a contraction.",
+      "explanation": "Test it: if you can replace the word with 'they are,' use they're. If it shows ownership, use their. For a place, use there - it even contains the word 'here' inside it.",
       "memoryHook": "T-Rexy says: Their, there, they're are different.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "commonly-confused",
         "homophones"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1374,14 +1374,14 @@
         "Your means you are; you're shows possession",
         "Your is a verb"
       ],
-      "explanation": "Your is possessive and you're is a contraction of you are.",
+      "explanation": "Test it: if you can replace the word with 'you are,' use you're - 'You're late' means 'You are late.' If it shows ownership, use your - 'your book.'",
       "memoryHook": "T-Rexy says: Your owns, you're means you are.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "commonly-confused",
         "homophones"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1394,14 +1394,14 @@
         "Its means it is; it's shows possession",
         "Its is a verb"
       ],
-      "explanation": "Its is possessive and it's is a contraction.",
+      "explanation": "Test it: if you can replace the word with 'it is,' use it's - 'It's raining' means 'It is raining.' Possessive its never has an apostrophe - 'The dog wagged its tail.'",
       "memoryHook": "T-Rexy says: Its owns, it's means it is.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "commonly-confused",
         "homophones"
       ],
-      "difficulty": "medium",
+      "difficulty": "hard",
       "dynamic": false,
       "source": "original"
     },
@@ -1414,14 +1414,14 @@
         "To is the number, too is a preposition",
         "Two means also"
       ],
-      "explanation": "To, too, and two sound alike but have different meanings.",
+      "explanation": "To is a direction word ('go to school'), too means 'also' or 'very' ('me too,' 'too hot'), and two is the number 2. Too is the only one with the extra o - it means 'one too many.'",
       "memoryHook": "T-Rexy says: To, too, two are different.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "commonly-confused",
         "homophones"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1434,14 +1434,14 @@
         "A sound word",
         "An exaggeration"
       ],
-      "explanation": "A simile compares with like or as: 'brave as a lion.'",
+      "explanation": "Similes always signal the comparison with like or as - 'brave as a lion,' 'runs like the wind.' If neither word appears, it is not a simile.",
       "memoryHook": "T-Rexy says: Similes use like or as.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "figurative-language",
         "similes"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1454,14 +1454,14 @@
         "A sound word",
         "An exaggeration"
       ],
-      "explanation": "A metaphor says one thing is another: 'Time is money.'",
+      "explanation": "A metaphor skips like and as and states the comparison directly: 'The classroom was a zoo' means the classroom was wild and noisy, not that it really had animals.",
       "memoryHook": "T-Rexy says: Metaphors say it is.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "figurative-language",
         "metaphors"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1514,14 +1514,14 @@
         "Exaggerating for effect",
         "Repeating a sound"
       ],
-      "explanation": "Personification gives human traits to objects, like 'The wind whispered.'",
+      "explanation": "Look for a human action done by something nonhuman: the wind cannot whisper, the sun cannot smile, the alarm cannot scream. That human verb is the giveaway.",
       "memoryHook": "T-Rexy says: Personification makes things human.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "figurative-language",
         "personification"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1534,14 +1534,14 @@
         "A sound word",
         "A word that imitates a sound"
       ],
-      "explanation": "Hyperbole exaggerates, like 'I have told you a million times.'",
+      "explanation": "Hyperbole is exaggeration no one is meant to take literally - 'I'm so hungry I could eat a horse' is not a real meal plan. It is used for humor or emphasis.",
       "memoryHook": "T-Rexy says: Hyperbole is a big exaggeration.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "figurative-language",
         "hyperbole"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1554,14 +1554,14 @@
         "An exaggeration",
         "A type of verb"
       ],
-      "explanation": "Onomatopoeia words sound like what they describe.",
+      "explanation": "Say the word out loud: buzz, crash, sizzle, pop - each one sounds like the noise it names. If the word imitates a sound, it is onomatopoeia.",
       "memoryHook": "T-Rexy says: Buzz sounds like buzzing.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "figurative-language",
         "onomatopoeia"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1574,7 +1574,7 @@
         "separete",
         "seprate"
       ],
-      "explanation": "Separate is spelled s-e-p-a-r-a-t-e.",
+      "explanation": "Remember the middle: sep-AR-ate - there is 'a rat' hiding in the middle of separate. The wrong spelling 'seperate' puts an e where the a belongs.",
       "memoryHook": "T-Rexy says: Separate has par in the middle.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -1612,7 +1612,7 @@
         "definitly",
         "definetly"
       ],
-      "explanation": "Definitely is spelled d-e-f-i-n-i-t-e-l-y.",
+      "explanation": "Build it from 'definite' plus '-ly': definite + ly = definitely. The common error 'definately' comes from mixing it up with 'finite' - think definite, not definate.",
       "memoryHook": "T-Rexy says: Definitely ends in -itely.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -1631,14 +1631,14 @@
         "Before",
         "With"
       ],
-      "explanation": "Un- means not, as in unhappy.",
+      "explanation": "Un- flips a word to its opposite: happy becomes unhappy, kind becomes unkind, lucky becomes unlucky. It is the most common way English makes a negative.",
       "memoryHook": "T-Rexy says: Un- means not.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "vocabulary",
         "prefixes"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1651,14 +1651,14 @@
         "Before",
         "Under"
       ],
-      "explanation": "Re- means again, as in redo.",
+      "explanation": "Re- means to do something again: redo means do again, rewrite means write again, return means turn again. If the word means 'back' or 'again,' re- is usually the prefix.",
       "memoryHook": "T-Rexy says: Re- means again.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "vocabulary",
         "prefixes"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1671,14 +1671,14 @@
         "Not",
         "Again"
       ],
-      "explanation": "Pre- means before, as in preview.",
+      "explanation": "Pre- means before in time or place: preview (see before), prepay (pay before), prehistoric (before written history). Its opposite is post-, which means after.",
       "memoryHook": "T-Rexy says: Pre- means before.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "vocabulary",
         "prefixes"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1691,14 +1691,14 @@
         "Able to",
         "One who"
       ],
-      "explanation": "The suffix -ful means full of, as in helpful.",
+      "explanation": "-ful turns a noun into an adjective meaning 'full of' that thing: helpful is full of help, joyful is full of joy, careful is full of care. Its opposite is -less.",
       "memoryHook": "T-Rexy says: -ful means full of.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "vocabulary",
         "suffixes"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1711,14 +1711,14 @@
         "Able to",
         "One who"
       ],
-      "explanation": "The suffix -less means without, as in hopeless.",
+      "explanation": "-less means 'without': hopeless is without hope, fearless is without fear, homeless is without a home. It is the opposite of -ful.",
       "memoryHook": "T-Rexy says: -less means without.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "vocabulary",
         "suffixes"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1731,14 +1731,14 @@
         "Without",
         "One who"
       ],
-      "explanation": "The suffix -able means able to be, as in readable.",
+      "explanation": "-able turns a verb into an adjective meaning 'can be done': readable (can be read), washable (can be washed), breakable (can be broken). It usually follows a verb.",
       "memoryHook": "T-Rexy says: -able means able to be.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "vocabulary",
         "suffixes"
       ],
-      "difficulty": "hard",
+      "difficulty": "easy",
       "dynamic": false,
       "source": "original"
     },
@@ -1751,7 +1751,7 @@
         "To see",
         "To hear"
       ],
-      "explanation": "Dict means to say, as in dictate and predict.",
+      "explanation": "Dict comes from Latin dicere, to say. You hear it in dictate (say aloud for someone to write), predict (say before it happens), and dictionary (a book of words people say).",
       "memoryHook": "T-Rexy says: Dict means to say.",
       "imageUrl": "topic:english-grammar",
       "tags": [
@@ -1771,14 +1771,14 @@
         "To hear",
         "To say"
       ],
-      "explanation": "Graph means to write, as in autograph.",
+      "explanation": "Graph comes from Greek graphein, to write. You see it in autograph (a person's own writing), biography (written life story), and paragraph (a written section).",
       "memoryHook": "T-Rexy says: Graph means to write.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "vocabulary",
         "roots"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1791,14 +1791,14 @@
         "To see",
         "To say"
       ],
-      "explanation": "Port means to carry, as in transport and portable.",
+      "explanation": "Port comes from Latin portare, to carry. Transport carries things across, portable can be carried, and import carries goods into a country.",
       "memoryHook": "T-Rexy says: Port means to carry.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "vocabulary",
         "roots"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1811,14 +1811,14 @@
         "angry",
         "tired"
       ],
-      "explanation": "Joyful means the same as happy.",
+      "explanation": "Synonyms are different words with nearly the same meaning - joyful, glad, cheerful, delighted. Writers use them to avoid repeating the same word.",
       "memoryHook": "T-Rexy says: Joyful is like happy.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "vocabulary",
         "synonyms"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1831,14 +1831,14 @@
         "fearless",
         "heroic"
       ],
-      "explanation": "Cowardly is the opposite of brave.",
+      "explanation": "Antonyms are word pairs with opposite meanings - brave/cowardly, hot/cold, fast/slow. Many antonyms are made by adding un-, in-, or dis- to the base word.",
       "memoryHook": "T-Rexy says: Cowardly is the opposite of brave.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "vocabulary",
         "antonyms"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1898,7 +1898,7 @@
         "adjectives",
         "comparatives"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1911,14 +1911,14 @@
         "gooder",
         "most good"
       ],
-      "explanation": "The superlative of good is best.",
+      "explanation": "Good is irregular: good, better, best. Use better to compare two things and best to compare three or more - 'the best of all' is never 'the better of all.'",
       "memoryHook": "T-Rexy says: Best is the most.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "adjectives",
         "comparatives"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1938,7 +1938,7 @@
         "adjectives",
         "comparatives"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
@@ -1971,27 +1971,27 @@
         "A word with the opposite meaning",
         "A word with the same spelling"
       ],
-      "explanation": "Homophones like to, too, and two sound alike but differ.",
+      "explanation": "Homophones sound the same but are spelled differently and mean different things: to/too/two, their/there/they're, your/you're. The only way to choose is by meaning, not by sound.",
       "memoryHook": "T-Rexy says: Homophones sound alike.",
       "imageUrl": "topic:english-grammar",
       "tags": [
         "vocabulary",
         "homophones"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "dynamic": false,
       "source": "original"
     },
     {
       "id": "GRA8_100",
-      "question": "What is the main idea of a story's theme?",
+      "question": "What is a story's theme?",
       "correctAnswer": "The lesson or message the story teaches",
       "distractors": [
         "The first sentence",
         "The setting only",
         "The number of characters"
       ],
-      "explanation": "Theme is the central message or lesson.",
+      "explanation": "Theme is what the story teaches about life - friendship, courage, honesty - and it is never stated as one sentence in the text; the reader has to infer it from what the characters learn.",
       "memoryHook": "T-Rexy says: Theme is the lesson.",
       "imageUrl": "topic:english-grammar",
       "tags": [
