@@ -1,7 +1,7 @@
 {
   "packId": "az-drivers-license",
-  "title": "Arizona Driver's License",
-  "description": "Arizona Driver's License practice - 100 questions",
+  "title": "Driver's License Theory",
+  "description": "Driver's License Theory practice - 100 questions",
   "version": "1.0",
   "language": "en",
   "passingScore": 80,
