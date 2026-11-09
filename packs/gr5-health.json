@@ -1,11 +1,11 @@
 {
  "packId": "gr5-health",
  "title": "Health (5th Grade)",
- "description": "Health (5th Grade) practice - 109 questions",
+ "description": "Health (5th Grade) practice - 112 questions",
  "version": "1.0",
  "language": "en",
  "passingScore": 60,
- "totalQuestions": 109,
+ "totalQuestions": 112,
  "addedAt": "2026-11-05",
  "tags": [
   "health",
@@ -2186,6 +2186,66 @@
     "online-safety"
    ],
    "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_110",
+   "question": "An adult gives a child special gifts and extra attention, asks the child to keep their time together a secret, and slowly tests the child's boundaries. Why is this pattern a warning sign?",
+   "correctAnswer": "It can be grooming - a way someone slowly makes unsafe behavior seem normal - and the child should tell a trusted adult right away",
+   "distractors": [
+    "It just means the adult is extra friendly, so the child should keep the secrets to be polite",
+    "It is only a problem if the adult has already touched the child in an unsafe way",
+    "It means the child did something wrong and should try to handle it alone"
+   ],
+   "explanation": "Grooming is when someone slowly builds trust and tests boundaries - with special attention, gifts, and secrets - so unsafe behavior starts to feel normal. Recognizing the pattern early helps keep children safe: tell a trusted adult right away. Connecticut law (CGS 17a-101q) requires schools to teach students to recognize grooming and other warning signs.",
+   "memoryHook": "T-Rexy says: special gifts plus secrets plus testing boundaries is a warning pattern - spot it and tell!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "grooming"
+   ],
+   "difficulty": "medium",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_111",
+   "question": "Your friend tells you that someone has been making them feel uncomfortable and asks you to keep it a secret. What is the best way to help your friend?",
+   "correctAnswer": "Support your friend, and tell a trusted adult right away - a friend never keeps a secret that could keep someone unsafe",
+   "distractors": [
+    "Promise to keep the secret, because good friends never tell what a friend asked them to hide",
+    "Try to handle it alone by confronting the person yourself",
+    "Wait and do nothing unless your friend brings it up again"
+   ],
+   "explanation": "A bystander is someone who sees or hears that something is wrong and chooses to help. Believe and support your friend, and tell a trusted adult right away - even if your friend asked you to keep it secret. Unsafe secrets are never kept, and telling an adult is how friends protect each other. Connecticut's statewide safety program teaches students to help as bystanders (CGS 17a-101q).",
+   "memoryHook": "T-Rexy says: a good friend never keeps an unsafe secret - support your friend and tell a trusted adult!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "bystander"
+   ],
+   "difficulty": "easy",
+   "dynamic": false,
+   "source": "original"
+  },
+  {
+   "id": "HEA5_112",
+   "question": "A child tells a trusted adult about unsafe behavior, but worries that telling was wrong because someone might get in trouble. What should the child remember?",
+   "correctAnswer": "Telling is always the right and brave thing to do - it is never the child's fault, and if one adult does not help, keep telling other trusted adults until someone does",
+   "distractors": [
+    "Telling was a mistake if it gets someone in trouble, so the child should take it back",
+    "The child should feel ashamed, because speaking up causes problems for everyone",
+    "One try is enough - if the first adult does not help, the child should stop telling"
+   ],
+   "explanation": "Telling is never wrong. A child who speaks up is brave, and unsafe behavior is never the child's fault - not ever. If the first adult does not listen or help, keep telling other trusted adults until someone does help. Connecticut law (CGS 17a-101q) requires schools to teach that disclosure - telling a trusted adult - is how children get help and stay safe.",
+   "memoryHook": "T-Rexy says: telling is brave and always right - and keep telling until someone helps!",
+   "imageUrl": "topic:health",
+   "tags": [
+    "safety",
+    "disclosure"
+   ],
+   "difficulty": "easy",
    "dynamic": false,
    "source": "original"
   }
