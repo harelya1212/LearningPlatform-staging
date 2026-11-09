@@ -1,0 +1,3045 @@
+{
+  "packId": "gr10-health",
+  "title": "Health (10th Grade)",
+  "description": "Health (10th Grade) practice - 144 questions",
+  "version": "1.0",
+  "language": "en",
+  "passingScore": 60,
+  "totalQuestions": 147,
+  "addedAt": "2026-11-05",
+  "tags": [
+    "health",
+    "wellness",
+    "10th"
+  ],
+  "questions": [
+    {
+      "id": "HEA10_001",
+      "question": "Which nutrient is the body's main source of energy?",
+      "correctAnswer": "Carbohydrates",
+      "distractors": [
+        "Protein",
+        "Fat",
+        "Vitamins"
+      ],
+      "explanation": "Carbohydrates are broken down into glucose, the body's main fuel.",
+      "memoryHook": "T-Rexy says: Carbs are the body's main fuel.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_002",
+      "question": "Which nutrient builds and repairs body tissues?",
+      "correctAnswer": "Protein",
+      "distractors": [
+        "Carbohydrates",
+        "Water",
+        "Fiber"
+      ],
+      "explanation": "Protein provides amino acids to build and repair muscles and tissues.",
+      "memoryHook": "T-Rexy says: Protein builds and repairs the body.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_003",
+      "question": "What is an eating disorder?",
+      "correctAnswer": "A serious medical and mental illness that disrupts eating behaviors and body image",
+      "distractors": [
+        "A diet people choose just to look better",
+        "A phase that all teens grow out of on their own",
+        "Eating one very large meal"
+      ],
+      "explanation": "Eating disorders are real illnesses, not choices or vanity. They damage the heart, bones, and other organs, but they are treatable, especially when help starts early.",
+      "memoryHook": "T-Rexy says: An eating disorder is an illness, not a choice.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "eating-disorders"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_004",
+      "question": "Which food group is the best source of calcium?",
+      "correctAnswer": "Dairy foods like milk and yogurt",
+      "distractors": [
+        "Grains",
+        "Fruits",
+        "Oils"
+      ],
+      "explanation": "Dairy products are rich in calcium for bones and teeth.",
+      "memoryHook": "T-Rexy says: Milk and yogurt build strong bones.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "food-groups"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_005",
+      "question": "How many cups of water should teens aim to drink each day?",
+      "correctAnswer": "About 8 cups (64 ounces), more when active",
+      "distractors": [
+        "2 cups",
+        "4 cups",
+        "16 cups"
+      ],
+      "explanation": "Teens need roughly 8 cups of water a day, more in heat or exercise.",
+      "memoryHook": "T-Rexy says: Eight cups a day keeps you hydrated.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "hydration"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_006",
+      "question": "What is fiber good for?",
+      "correctAnswer": "Healthy digestion and feeling full",
+      "distractors": [
+        "Building muscle",
+        "Strong bones",
+        "Sharp vision"
+      ],
+      "explanation": "Fiber adds bulk that moves food through the intestines, feeds gut bacteria, and slows digestion so meals satisfy longer.",
+      "memoryHook": "T-Rexy says: Fiber keeps your digestion on track.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "fiber"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_007",
+      "question": "Which type of fat is considered the healthiest?",
+      "correctAnswer": "Unsaturated fat",
+      "distractors": [
+        "Saturated fat",
+        "Trans fat",
+        "Hydrogenated fat"
+      ],
+      "explanation": "Unsaturated fats from plants, fish, and nuts support heart health.",
+      "memoryHook": "T-Rexy says: Unsaturated fats are the heart-friendly ones.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "fats"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_008",
+      "question": "What is the main problem with trans fats?",
+      "correctAnswer": "They raise bad cholesterol and lower good cholesterol",
+      "distractors": [
+        "They provide no energy",
+        "They cause dehydration",
+        "They have no flavor"
+      ],
+      "explanation": "Trans fats raise LDL cholesterol and lower HDL, increasing heart disease risk.",
+      "memoryHook": "T-Rexy says: Trans fats are the worst for your heart.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "fats"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_009",
+      "question": "What does the body use iron for?",
+      "correctAnswer": "Making hemoglobin to carry oxygen in blood",
+      "distractors": [
+        "Building bones",
+        "Making vitamin D",
+        "Digesting food"
+      ],
+      "explanation": "Iron is needed to make hemoglobin, which carries oxygen in red blood cells.",
+      "memoryHook": "T-Rexy says: Iron helps your blood carry oxygen.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "minerals"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_010",
+      "question": "Why is marijuana especially risky for teenagers?",
+      "correctAnswer": "The teen brain is still developing, and marijuana can harm memory, learning, and attention",
+      "distractors": [
+        "It is natural, so it cannot affect the brain",
+        "It improves concentration for schoolwork",
+        "It only affects the lungs, never the brain"
+      ],
+      "explanation": "Brain development continues into the mid-20s. Marijuana interferes with memory, learning, and attention during that window, and teens who use it regularly can fall behind in school.",
+      "memoryHook": "T-Rexy says: A growing brain and marijuana do not mix.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "marijuana"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_011",
+      "question": "What is a calorie?",
+      "correctAnswer": "A unit of energy in food",
+      "distractors": [
+        "A vitamin",
+        "A type of fat",
+        "A mineral"
+      ],
+      "explanation": "A calorie measures energy: carbs and protein give about 4 per gram, fat about 9, and your body spends them on movement, growth, and basic functions like breathing.",
+      "memoryHook": "T-Rexy says: A calorie is a unit of food energy.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_012",
+      "question": "What is the difference between whole grains and refined grains?",
+      "correctAnswer": "Whole grains keep the bran, germ, and endosperm; refined grains lose the bran and germ",
+      "distractors": [
+        "Whole grains have more sugar",
+        "Refined grains have more fiber",
+        "There is no difference"
+      ],
+      "explanation": "Whole grains keep all parts of the grain, including fiber and nutrients.",
+      "memoryHook": "T-Rexy says: Whole grains keep the whole grain.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "grains"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_013",
+      "question": "What does an AED do?",
+      "correctAnswer": "It analyzes the heart's rhythm and can deliver an electric shock to restore a normal rhythm",
+      "distractors": [
+        "It pumps blood through the body like CPR does",
+        "Only doctors and paramedics are allowed to use one",
+        "It restarts every stopped heart automatically"
+      ],
+      "explanation": "An AED is a portable device with voice prompts that guide any bystander step by step. It checks the rhythm and shocks only when a shock can help, so it cannot be used wrong by a rescuer.",
+      "memoryHook": "T-Rexy says: An AED talks you through saving a life.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "aed"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_014",
+      "question": "What does protein provide that carbs and fats do not?",
+      "correctAnswer": "Amino acids for building tissue",
+      "distractors": [
+        "Energy only",
+        "Water",
+        "Fiber"
+      ],
+      "explanation": "Protein supplies amino acids, the building blocks for muscles, enzymes, and more.",
+      "memoryHook": "T-Rexy says: Protein supplies the building blocks.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "nutrients"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_015",
+      "question": "How much of your plate should be fruits and vegetables?",
+      "correctAnswer": "About half",
+      "distractors": [
+        "One quarter",
+        "One tenth",
+        "All of it"
+      ],
+      "explanation": "MyPlate divides the plate into food groups; filling half with fruits and vegetables packs in fiber, vitamins, and water without many calories.",
+      "memoryHook": "T-Rexy says: Half your plate should be fruits and veggies.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "myplate"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_016",
+      "question": "What is the main risk of eating too much sodium?",
+      "correctAnswer": "High blood pressure",
+      "distractors": [
+        "Low blood sugar",
+        "Weak bones",
+        "Poor vision"
+      ],
+      "explanation": "Too much sodium raises blood pressure, increasing heart and stroke risk.",
+      "memoryHook": "T-Rexy says: Too much salt raises blood pressure.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "sodium"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_017",
+      "question": "What does naloxone (Narcan) do?",
+      "correctAnswer": "It temporarily reverses an opioid overdose and restores breathing",
+      "distractors": [
+        "It permanently cures opioid addiction",
+        "It reverses overdoses from alcohol and stimulants too",
+        "It is dangerous to give if the person is not overdosing"
+      ],
+      "explanation": "Naloxone blocks opioids in the brain and can restore breathing within 2 to 3 minutes. It wears off in 30 to 90 minutes, so call 911 first - and it does no harm if opioids turn out not to be involved.",
+      "memoryHook": "T-Rexy says: Call 911, then naloxone restarts breathing.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "opioids"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_018",
+      "question": "Which drink is healthiest?",
+      "correctAnswer": "Water",
+      "distractors": [
+        "Soda",
+        "Energy drinks",
+        "Sweet tea"
+      ],
+      "explanation": "Water hydrates without sugar or calories.",
+      "memoryHook": "T-Rexy says: Water is the healthiest drink.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "hydration"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_019",
+      "question": "Why is fentanyl so dangerous?",
+      "correctAnswer": "It is about 50 times stronger than heroin, so even a tiny amount can stop a person's breathing",
+      "distractors": [
+        "It is weaker than morphine and only used in hospitals",
+        "It is dangerous only when injected by doctors",
+        "You can spot it easily by its color or taste"
+      ],
+      "explanation": "Fentanyl is a synthetic opioid about 50 times stronger than heroin and 100 times stronger than morphine. It is often mixed into counterfeit pills and other drugs, so people can overdose without knowing they took it.",
+      "memoryHook": "T-Rexy says: Fentanyl is tiny but deadly - 50 times stronger than heroin.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "opioids"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_020",
+      "question": "What is anemia?",
+      "correctAnswer": "A condition where blood lacks enough healthy red blood cells",
+      "distractors": [
+        "High blood pressure",
+        "A broken bone",
+        "A food allergy"
+      ],
+      "explanation": "Anemia means too few red blood cells or too little hemoglobin, often from low iron.",
+      "memoryHook": "T-Rexy says: Anemia means your blood is short on red cells.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "conditions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_021",
+      "question": "Which methods of birth control are the most effective at preventing pregnancy?",
+      "correctAnswer": "Long-acting methods - the implant and the IUD - which work for years without daily effort",
+      "distractors": [
+        "Condoms used on their own",
+        "Taking the pill only on days you remember it",
+        "The withdrawal method"
+      ],
+      "explanation": "The implant and hormonal or copper IUDs are over 99 percent effective because there is almost no room for human error. Pills and condoms work well only when used correctly every single time.",
+      "memoryHook": "T-Rexy says: Set-it-and-forget-it methods prevent the most pregnancies.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "contraception"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_022",
+      "question": "Which nutrient is needed in the largest amount each day?",
+      "correctAnswer": "Water",
+      "distractors": [
+        "Vitamin C",
+        "Iron",
+        "Calcium"
+      ],
+      "explanation": "Water is the nutrient needed in the largest quantity for hydration and body functions.",
+      "memoryHook": "T-Rexy says: Water is your biggest daily need.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "hydration"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_023",
+      "question": "What are the signs of an opioid overdose?",
+      "correctAnswer": "Pinpoint pupils, slow or stopped breathing, and being unconscious or unable to wake up",
+      "distractors": [
+        "A racing heartbeat, sweating, and talking very fast",
+        "Sudden hunger and uncontrollable giggling",
+        "Hives and swelling of the lips and tongue"
+      ],
+      "explanation": "Opioids slow the part of the brain that controls breathing. Pinpoint pupils plus slow or stopped breathing is a medical emergency: call 911, give naloxone if available, and start rescue breathing or CPR.",
+      "memoryHook": "T-Rexy says: Pinpoint pupils and slow breathing - act fast.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "opioids"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_024",
+      "question": "What is a balanced diet?",
+      "correctAnswer": "Eating a variety of foods in the right amounts for your needs",
+      "distractors": [
+        "Eating only vegetables",
+        "Eating the same food every day",
+        "Avoiding all fats"
+      ],
+      "explanation": "No single food has every nutrient, so a balanced diet mixes all the food groups in the amounts your age, size, and activity level need.",
+      "memoryHook": "T-Rexy says: Balance means variety in the right amounts.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "basics"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_025",
+      "question": "What is the best time to eat before exercise?",
+      "correctAnswer": "About 1 to 3 hours before, with carbs and some protein",
+      "distractors": [
+        "Right before starting",
+        "Only after exercise",
+        "Never eat before exercise"
+      ],
+      "explanation": "Eating 1 to 3 hours before exercise gives fuel without stomach discomfort.",
+      "memoryHook": "T-Rexy says: Fuel up one to three hours before exercise.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "nutrition",
+        "exercise"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_026",
+      "question": "How many minutes of physical activity should teens get each day?",
+      "correctAnswer": "At least 60 minutes",
+      "distractors": [
+        "10 minutes",
+        "30 minutes",
+        "120 minutes"
+      ],
+      "explanation": "The 60 minutes can mix moderate and vigorous activity, including sports, walking, and play; it strengthens the heart, bones, and mood.",
+      "memoryHook": "T-Rexy says: Sixty minutes a day keeps teens healthy.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "activity"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_027",
+      "question": "Which behavior could be a warning sign of an eating disorder in a friend?",
+      "correctAnswer": "Skipping meals, avoiding eating around others, and constantly worrying about weight",
+      "distractors": [
+        "Eating a big meal after a sports game",
+        "Trying out a new sport for fun",
+        "Cooking dinner for friends on weekends"
+      ],
+      "explanation": "Warning signs include skipping meals, secretive eating, frequent bathroom trips after meals, and intense focus on calories or body shape. A caring response is to share your concern and encourage the person to talk to a trusted adult or counselor.",
+      "memoryHook": "T-Rexy says: Skipped meals plus weight worry - check on your friend.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "eating-disorders"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_028",
+      "question": "What is the resting heart rate range for a healthy teen?",
+      "correctAnswer": "About 60 to 100 beats per minute",
+      "distractors": [
+        "20 to 40",
+        "120 to 140",
+        "150 to 180"
+      ],
+      "explanation": "Measure it first thing in the morning before getting up; trained athletes often rest below 60, while a resting rate regularly over 100 is worth a checkup.",
+      "memoryHook": "T-Rexy says: Resting heart rate is usually 60 to 100.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "heart"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_029",
+      "question": "What does warming up before exercise do?",
+      "correctAnswer": "It prepares muscles and reduces injury risk",
+      "distractors": [
+        "It makes you tired",
+        "It replaces cooling down",
+        "It builds muscle"
+      ],
+      "explanation": "Warming up raises blood flow and loosens muscles before harder activity.",
+      "memoryHook": "T-Rexy says: Warm up to protect your muscles.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "safety"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_030",
+      "question": "What is the purpose of cooling down after exercise?",
+      "correctAnswer": "To gradually lower heart rate and prevent dizziness",
+      "distractors": [
+        "To build muscle faster",
+        "To burn more calories",
+        "To skip stretching"
+      ],
+      "explanation": "Stopping suddenly lets blood pool in the legs, which can cause dizziness; a few minutes of easy movement keeps it circulating while your heart rate falls.",
+      "memoryHook": "T-Rexy says: Cool down to let your body settle.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "safety"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_031",
+      "question": "What makes counterfeit (fake) prescription pills so dangerous?",
+      "correctAnswer": "They look like real medicine but can secretly contain fentanyl",
+      "distractors": [
+        "They are made safely in licensed pharmacies",
+        "They are weaker than real pills, so they do less harm",
+        "Only one type of pill is ever faked"
+      ],
+      "explanation": "Counterfeit pills are pressed to look exactly like real prescriptions such as painkillers or study drugs, but many contain fentanyl. The only safe pill is one dispensed by a pharmacy from your own prescription.",
+      "memoryHook": "T-Rexy says: A pill from a friend or online could hide fentanyl.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "opioids"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_032",
+      "question": "At what rate and depth should chest compressions be given to an adult or teen?",
+      "correctAnswer": "100 to 120 compressions per minute, pushing about 2 inches deep",
+      "distractors": [
+        "60 to 80 per minute, about 1 inch deep",
+        "100 to 120 per minute, about 4 inches deep",
+        "As fast as possible, at any depth"
+      ],
+      "explanation": "The American Heart Association sets the rate at 100 to 120 compressions per minute - roughly the beat of a fast song - with a depth of at least 2 inches for adults, letting the chest fully recoil between pushes.",
+      "memoryHook": "T-Rexy says: Push hard, push fast - 100 to 120 a minute, 2 inches deep.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "cpr"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_033",
+      "question": "What is the difference between bulimia and anorexia?",
+      "correctAnswer": "Bulimia involves binge eating followed by purging; anorexia involves extreme food restriction and significant weight loss",
+      "distractors": [
+        "Bulimia involves extreme restriction; anorexia involves bingeing and purging",
+        "They are two names for exactly the same illness",
+        "Anorexia only affects the stomach, and bulimia only affects the teeth"
+      ],
+      "explanation": "Both are serious eating disorders. People with bulimia cycle between eating large amounts and purging, often at a typical weight, while anorexia involves severe restriction and dangerously low weight - both need professional treatment.",
+      "memoryHook": "T-Rexy says: Bulimia binges and purges; anorexia restricts.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "eating-disorders"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_034",
+      "question": "What is the target heart rate zone for moderate exercise?",
+      "correctAnswer": "About 50 to 70 percent of maximum heart rate",
+      "distractors": [
+        "10 to 20 percent",
+        "90 to 100 percent",
+        "5 to 10 percent"
+      ],
+      "explanation": "In the moderate zone you can talk but not sing; for a 16-year-old with a max near 204, that is roughly 100 to 143 beats per minute.",
+      "memoryHook": "T-Rexy says: Moderate exercise is 50 to 70 percent of max.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "heart"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_035",
+      "question": "What is maximum heart rate roughly calculated as?",
+      "correctAnswer": "220 minus your age",
+      "distractors": [
+        "Age plus 100",
+        "Age times 2",
+        "220 plus your age"
+      ],
+      "explanation": "The 220-minus-age formula is only a rough estimate - real maximums vary by about 10 to 12 beats either way - but it is a handy starting point for training zones.",
+      "memoryHook": "T-Rexy says: Max heart rate is about 220 minus your age.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "heart"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_036",
+      "question": "What is the FITT principle?",
+      "correctAnswer": "Frequency, Intensity, Time, and Type of exercise",
+      "distractors": [
+        "Food, Intake, Training, and Time",
+        "Fitness, Injury, Treatment, and Therapy",
+        "Flexibility, Intensity, Training, and Time"
+      ],
+      "explanation": "FITT lets you adjust a plan one piece at a time: how often, how hard, how long, and what activity; changing one part is how you progress safely.",
+      "memoryHook": "T-Rexy says: FITT is frequency, intensity, time, type.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "planning"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_037",
+      "question": "What is the best way to prevent sports injuries?",
+      "correctAnswer": "Warm up, use proper technique, and wear protective gear",
+      "distractors": [
+        "Exercise through pain",
+        "Skip stretching",
+        "Train every day without rest"
+      ],
+      "explanation": "Proper warm-up, technique, rest, and gear reduce injury risk.",
+      "memoryHook": "T-Rexy says: Warm up, use good form, wear gear.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "safety"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_038",
+      "question": "What is the RICE method for injuries?",
+      "correctAnswer": "Rest, Ice, Compression, Elevation",
+      "distractors": [
+        "Run, Ice, Climb, Exercise",
+        "Rest, Inject, Compress, Elevate",
+        "Run, Ice, Compression, Energy"
+      ],
+      "explanation": "RICE stands for Rest, Ice, Compression, and Elevation for soft tissue injuries.",
+      "memoryHook": "T-Rexy says: RICE is rest, ice, compression, elevation.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "first-aid"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_039",
+      "question": "How many days per week should teens do muscle-strengthening activities?",
+      "correctAnswer": "At least 3 days per week",
+      "distractors": [
+        "Every day without rest",
+        "Once a month",
+        "Never"
+      ],
+      "explanation": "Muscle and bone strengthening can count inside the daily 60 minutes, and muscles need rest days between hard sessions to rebuild.",
+      "memoryHook": "T-Rexy says: Strength training three days a week.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "strength"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_040",
+      "question": "Which of these is prescription drug misuse?",
+      "correctAnswer": "Taking a prescription medicine that was prescribed to someone else",
+      "distractors": [
+        "Taking your own medicine exactly as your doctor directed",
+        "Using an over-the-counter pain reliever as the label says",
+        "Refilling your own prescription at the pharmacy"
+      ],
+      "explanation": "Prescription drugs are dosed for one person's body and condition. Taking someone else's - or taking extra doses of your own - is misuse, and sharing prescription opioids is a common path to overdose.",
+      "memoryHook": "T-Rexy says: A prescription with someone else's name is never yours to take.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "prescription-drugs"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_041",
+      "question": "What is BMI?",
+      "correctAnswer": "A ratio of weight to height used to screen for weight categories",
+      "distractors": [
+        "A measure of muscle strength",
+        "A measure of flexibility",
+        "A blood test"
+      ],
+      "explanation": "BMI cannot tell muscle from fat, so it only screens for possible risk; for teens the number is read as a percentile for age and sex, not the adult scale.",
+      "memoryHook": "T-Rexy says: BMI compares weight to height.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_042",
+      "question": "Why is rest important in a fitness plan?",
+      "correctAnswer": "Muscles recover and grow stronger during rest",
+      "distractors": [
+        "Rest makes you weaker",
+        "Rest is not needed",
+        "Rest burns calories"
+      ],
+      "explanation": "Recovery days let muscles repair and adapt, preventing overuse injuries.",
+      "memoryHook": "T-Rexy says: Rest is when muscles rebuild.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "recovery"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_043",
+      "question": "What is the best way to stay hydrated during exercise?",
+      "correctAnswer": "Drink water before, during, and after activity",
+      "distractors": [
+        "Drink only after exercise",
+        "Drink soda during exercise",
+        "Avoid drinking during exercise"
+      ],
+      "explanation": "Drinking water throughout exercise replaces sweat losses.",
+      "memoryHook": "T-Rexy says: Sip water before, during, and after.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "hydration"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_044",
+      "question": "What are the two steps of Hands-Only CPR for a teen or adult who suddenly collapses?",
+      "correctAnswer": "Call 911 (and send someone for an AED), then push hard and fast in the center of the chest",
+      "distractors": [
+        "Give mouth-to-mouth breaths first, then decide about compressions",
+        "Check for a pulse for a full minute before doing anything",
+        "Do nothing until paramedics arrive if you are not certified"
+      ],
+      "explanation": "For bystanders, the American Heart Association recommends just two steps: call 911, then push hard and fast in the center of the chest. Hands-Only CPR can double or triple a person's chance of survival.",
+      "memoryHook": "T-Rexy says: Call 911, then push hard and fast.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "cpr"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_045",
+      "question": "What is a sprain?",
+      "correctAnswer": "An injury to a ligament from stretching or tearing",
+      "distractors": [
+        "A broken bone",
+        "A muscle tear",
+        "A bruise only"
+      ],
+      "explanation": "A sprain injures ligaments, the bands connecting bones at joints.",
+      "memoryHook": "T-Rexy says: A sprain hurts a ligament.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "fitness",
+        "injuries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_046",
+      "question": "What is stress?",
+      "correctAnswer": "The body's response to a demand or challenge",
+      "distractors": [
+        "A type of disease",
+        "A lack of sleep",
+        "A physical injury"
+      ],
+      "explanation": "Stress is how the body reacts to pressure, with physical and emotional changes.",
+      "memoryHook": "T-Rexy says: Stress is your body's alarm to pressure.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "stress"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_047",
+      "question": "What is a healthy way to manage stress?",
+      "correctAnswer": "Exercise, sleep, talking to someone, and relaxation",
+      "distractors": [
+        "Ignoring it completely",
+        "Skipping meals",
+        "Staying up all night"
+      ],
+      "explanation": "Healthy coping lowers stress hormones instead of just distracting you: movement burns off tension, sleep resets mood, and talking or slow breathing calms the stress response.",
+      "memoryHook": "T-Rexy says: Move, sleep, talk, breathe.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "stress"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_048",
+      "question": "What is anxiety?",
+      "correctAnswer": "A feeling of worry or fear that can affect daily life",
+      "distractors": [
+        "Happiness",
+        "Excitement only",
+        "A physical injury"
+      ],
+      "explanation": "Anxiety is worry or fear that can become a problem when it is strong or lasting.",
+      "memoryHook": "T-Rexy says: Anxiety is worry that will not quit.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "anxiety"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_049",
+      "question": "What is depression?",
+      "correctAnswer": "A persistent low mood and loss of interest lasting weeks or more",
+      "distractors": [
+        "Feeling sad for one day",
+        "Being tired after exercise",
+        "A bad grade"
+      ],
+      "explanation": "Depression is a lasting low mood with loss of interest and energy, not just a bad day.",
+      "memoryHook": "T-Rexy says: Depression is sadness that stays for weeks.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "depression"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_050",
+      "question": "What should you do if a friend talks about self-harm?",
+      "correctAnswer": "Take it seriously, stay with them, and tell a trusted adult immediately",
+      "distractors": [
+        "Keep it a secret",
+        "Ignore it",
+        "Tell them to get over it"
+      ],
+      "explanation": "Thoughts of self-harm need immediate help from a trusted adult or crisis line.",
+      "memoryHook": "T-Rexy says: If a friend talks about self-harm, get help right away.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "safety"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_051",
+      "question": "What is the US Suicide and Crisis Lifeline number?",
+      "correctAnswer": "988",
+      "distractors": [
+        "911",
+        "411",
+        "311"
+      ],
+      "explanation": "You can call or text 988 any time, day or night, for free and confidential support from trained counselors during a mental health crisis.",
+      "memoryHook": "T-Rexy says: 988 is the crisis lifeline.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "safety"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_052",
+      "question": "What is empathy?",
+      "correctAnswer": "Understanding and sharing another person's feelings",
+      "distractors": [
+        "Feeling sorry for yourself",
+        "Judging others",
+        "Ignoring others' problems"
+      ],
+      "explanation": "Empathy goes beyond feeling sorry for someone: you imagine the situation from their side, which is why it helps you respond with real support.",
+      "memoryHook": "T-Rexy says: Empathy is feeling with someone.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships",
+        "empathy"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_053",
+      "question": "What is a healthy relationship?",
+      "correctAnswer": "One built on respect, trust, honesty, and communication",
+      "distractors": [
+        "One where one person controls the other",
+        "One with no disagreements",
+        "One where you never say no"
+      ],
+      "explanation": "In a healthy relationship both people keep their own friends and opinions, listen to each other, and can disagree without fear or control.",
+      "memoryHook": "T-Rexy says: Healthy means respect, trust, and honesty.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships",
+        "healthy"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_054",
+      "question": "What is consent?",
+      "correctAnswer": "Clear, freely given agreement to do something",
+      "distractors": [
+        "Assuming someone agrees",
+        "Agreeing under pressure",
+        "Silence"
+      ],
+      "explanation": "Consent must be clear, voluntary, and can be withdrawn at any time.",
+      "memoryHook": "T-Rexy says: Consent means a clear yes, freely given.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships",
+        "consent"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_055",
+      "question": "What is bullying?",
+      "correctAnswer": "Repeated, intentional harm or intimidation with a power imbalance",
+      "distractors": [
+        "A single argument",
+        "A joke between friends",
+        "Constructive criticism"
+      ],
+      "explanation": "Bullying can be physical, verbal, or social, like hitting, name-calling, or spreading rumors; the repetition and power gap are what separate it from a normal conflict.",
+      "memoryHook": "T-Rexy says: Bullying is repeated and one-sided.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships",
+        "bullying"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_056",
+      "question": "What is cyberbullying?",
+      "correctAnswer": "Bullying that happens online or through digital devices",
+      "distractors": [
+        "Bullying at school only",
+        "A computer virus",
+        "A prank call"
+      ],
+      "explanation": "Cyberbullying is harassment through texts, social media, or other digital means.",
+      "memoryHook": "T-Rexy says: Cyberbullying is bullying through screens.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships",
+        "bullying"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_057",
+      "question": "What should you do if you are being cyberbullied?",
+      "correctAnswer": "Save evidence, block the person, and tell a trusted adult",
+      "distractors": [
+        "Reply with insults",
+        "Delete everything and stay silent",
+        "Share your passwords"
+      ],
+      "explanation": "Save messages, block the bully, and report it to an adult or the platform.",
+      "memoryHook": "T-Rexy says: Save it, block it, report it.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships",
+        "bullying"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_058",
+      "question": "What is peer pressure?",
+      "correctAnswer": "Influence from peers to act or think a certain way",
+      "distractors": [
+        "Pressure from teachers only",
+        "A type of bullying only",
+        "A school rule"
+      ],
+      "explanation": "Peer pressure can be negative, like daring you to vape, or positive, like friends pulling you into studying or trying out for a team.",
+      "memoryHook": "T-Rexy says: Peer pressure is friends pushing you to follow.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships",
+        "peer-pressure"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_059",
+      "question": "What is a good way to resist negative peer pressure?",
+      "correctAnswer": "Say no clearly, suggest another activity, and walk away",
+      "distractors": [
+        "Go along to fit in",
+        "Argue aggressively",
+        "Lie about your plans"
+      ],
+      "explanation": "Assertive refusal, offering alternatives, and leaving are effective strategies.",
+      "memoryHook": "T-Rexy says: A clear no plus a better plan works.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "relationships",
+        "peer-pressure"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_060",
+      "question": "What is self-esteem?",
+      "correctAnswer": "How you value and feel about yourself",
+      "distractors": [
+        "How others rate you",
+        "Your grades",
+        "Your appearance only"
+      ],
+      "explanation": "Self-esteem grows from competence and how you talk to yourself; it affects whether you try new things and how you bounce back from setbacks.",
+      "memoryHook": "T-Rexy says: Self-esteem is how you see yourself.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "self-esteem"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_061",
+      "question": "What is mindfulness?",
+      "correctAnswer": "Paying attention to the present moment without judgment",
+      "distractors": [
+        "Ignoring your feelings",
+        "Daydreaming",
+        "Meditating for hours only"
+      ],
+      "explanation": "Mindfulness is focusing on the here and now, noticing thoughts without judging them.",
+      "memoryHook": "T-Rexy says: Mindfulness is noticing the present moment.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "mindfulness"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_062",
+      "question": "How much sleep do teens need each night?",
+      "correctAnswer": "8 to 10 hours",
+      "distractors": [
+        "4 to 5 hours",
+        "6 hours",
+        "12 hours"
+      ],
+      "explanation": "Teens need 8 to 10 hours of sleep for growth, learning, and health.",
+      "memoryHook": "T-Rexy says: Teens need 8 to 10 hours of sleep.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "sleep"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_063",
+      "question": "What does sleep do for learning?",
+      "correctAnswer": "It helps consolidate memories and improve focus",
+      "distractors": [
+        "It makes you forget",
+        "It has no effect",
+        "It replaces studying"
+      ],
+      "explanation": "During deep sleep the brain replays and consolidates the day's learning, moving it into long-term memory, which is why all-night cramming backfires.",
+      "memoryHook": "T-Rexy says: Sleep locks in what you learned.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "sleep"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_064",
+      "question": "What is a growth mindset?",
+      "correctAnswer": "Believing abilities can improve with effort and learning",
+      "distractors": [
+        "Believing talent is fixed",
+        "Avoiding challenges",
+        "Giving up easily"
+      ],
+      "explanation": "With a growth mindset, mistakes are information, not proof of failure, so students persist longer and choose harder challenges.",
+      "memoryHook": "T-Rexy says: A growth mindset says you can get better.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "mindset"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_065",
+      "question": "What is emotional intelligence?",
+      "correctAnswer": "The ability to recognize, understand, and manage emotions",
+      "distractors": [
+        "A high IQ score",
+        "Ignoring emotions",
+        "Always being happy"
+      ],
+      "explanation": "Emotional intelligence is understanding your own and others' feelings and managing them well.",
+      "memoryHook": "T-Rexy says: Emotional intelligence is knowing feelings and handling them.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "mental-health",
+        "emotions"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_066",
+      "question": "What is the legal drinking age in the United States?",
+      "correctAnswer": "21",
+      "distractors": [
+        "18",
+        "16",
+        "25"
+      ],
+      "explanation": "The legal drinking age is 21 in all US states.",
+      "memoryHook": "T-Rexy says: The drinking age is 21.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "alcohol"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_067",
+      "question": "What is the main effect of nicotine?",
+      "correctAnswer": "It is addictive and stimulates the nervous system",
+      "distractors": [
+        "It helps you sleep",
+        "It improves memory",
+        "It has no effect"
+      ],
+      "explanation": "Nicotine is the addictive chemical in tobacco that raises heart rate and blood pressure.",
+      "memoryHook": "T-Rexy says: Nicotine is the addictive part of tobacco.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "tobacco"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_068",
+      "question": "What is the main risk of vaping?",
+      "correctAnswer": "Nicotine addiction and lung damage",
+      "distractors": [
+        "It is completely safe",
+        "It only affects teeth",
+        "It has no risks"
+      ],
+      "explanation": "Vaping exposes lungs to nicotine and chemicals that can cause serious lung injury.",
+      "memoryHook": "T-Rexy says: Vaping can damage lungs and addict you.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "vaping"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_069",
+      "question": "What is the main effect of alcohol on the brain?",
+      "correctAnswer": "It slows brain function and impairs judgment",
+      "distractors": [
+        "It improves coordination",
+        "It sharpens memory",
+        "It increases alertness"
+      ],
+      "explanation": "Alcohol is a depressant that slows the brain, impairing judgment and coordination.",
+      "memoryHook": "T-Rexy says: Alcohol slows the brain and clouds judgment.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "alcohol"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_070",
+      "question": "What is binge drinking?",
+      "correctAnswer": "Drinking a large amount of alcohol in a short time",
+      "distractors": [
+        "Drinking one beer",
+        "Drinking water quickly",
+        "Drinking over a whole day"
+      ],
+      "explanation": "Binge drinking is typically 4 to 5 or more drinks within about two hours.",
+      "memoryHook": "T-Rexy says: Binge drinking is a lot, fast.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "alcohol"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_071",
+      "question": "What is the most common sexually transmitted infection in US teens?",
+      "correctAnswer": "HPV (human papillomavirus)",
+      "distractors": [
+        "HIV",
+        "Syphilis",
+        "Hepatitis B"
+      ],
+      "explanation": "HPV is the most common STI, and a vaccine can prevent the types that cause cancer.",
+      "memoryHook": "T-Rexy says: HPV is the most common STI, and there is a vaccine.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "sti"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_072",
+      "question": "What is the best way to prevent STIs?",
+      "correctAnswer": "Abstinence, or consistent and correct condom use",
+      "distractors": [
+        "Washing after sex",
+        "Taking vitamins",
+        "Avoiding kissing only"
+      ],
+      "explanation": "Abstinence is the only sure prevention; condoms greatly reduce risk when used correctly.",
+      "memoryHook": "T-Rexy says: Condoms and abstinence are the best protection.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "sti"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_073",
+      "question": "What is HIV?",
+      "correctAnswer": "A virus that attacks the immune system",
+      "distractors": [
+        "A type of cancer",
+        "A bacterial infection",
+        "A flu virus"
+      ],
+      "explanation": "HIV infects immune cells and, untreated, can lead to AIDS.",
+      "memoryHook": "T-Rexy says: HIV attacks the immune system.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "disease"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_074",
+      "question": "What is the difference between a virus and a bacterium?",
+      "correctAnswer": "Viruses need a host cell to reproduce; bacteria can reproduce on their own",
+      "distractors": [
+        "They are the same",
+        "Bacteria need a host; viruses do not",
+        "Viruses are larger"
+      ],
+      "explanation": "Bacteria are single cells that can live independently; viruses must infect host cells.",
+      "memoryHook": "T-Rexy says: Bacteria live alone, viruses need a host.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "disease"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_075",
+      "question": "Why do antibiotics not work on colds?",
+      "correctAnswer": "Colds are caused by viruses, and antibiotics kill bacteria",
+      "distractors": [
+        "Antibiotics are too weak",
+        "Colds are not infections",
+        "Antibiotics only work on children"
+      ],
+      "explanation": "Antibiotics target bacteria, so they do nothing against viral colds.",
+      "memoryHook": "T-Rexy says: Antibiotics fight bacteria, not viruses.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "disease"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_076",
+      "question": "What is a vaccine?",
+      "correctAnswer": "A substance that trains the immune system to fight a disease",
+      "distractors": [
+        "A cure for all diseases",
+        "A type of antibiotic",
+        "A vitamin supplement"
+      ],
+      "explanation": "Vaccines expose the immune system to a harmless form of a germ so it can respond fast later.",
+      "memoryHook": "T-Rexy says: Vaccines teach your immune system.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "vaccines"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_077",
+      "question": "What is herd immunity?",
+      "correctAnswer": "Protection of a community when enough people are immune",
+      "distractors": [
+        "Immunity that only affects herds",
+        "A type of vaccine",
+        "Immunity from one person to another"
+      ],
+      "explanation": "When enough people are immune, diseases cannot spread easily, protecting those who cannot be vaccinated.",
+      "memoryHook": "T-Rexy says: When most are immune, everyone is safer.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "vaccines"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_078",
+      "question": "What is the first step in treating a minor cut?",
+      "correctAnswer": "Clean it with soap and water",
+      "distractors": [
+        "Apply a tourniquet",
+        "Cover it with dirt",
+        "Ignore it"
+      ],
+      "explanation": "Wash a minor cut with soap and water, then cover it with a clean bandage.",
+      "memoryHook": "T-Rexy says: Clean it first, then cover it.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "cuts"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_079",
+      "question": "What should you do for a nosebleed?",
+      "correctAnswer": "Lean forward and pinch the soft part of the nose",
+      "distractors": [
+        "Lean back and tilt your head",
+        "Blow your nose hard",
+        "Put ice on your neck only"
+      ],
+      "explanation": "Pinch the soft part of the nose for 10 to 15 minutes while leaning forward so blood does not run down the throat; leaning back only makes you swallow blood.",
+      "memoryHook": "T-Rexy says: Lean forward and pinch for a nosebleed.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "nosebleed"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_080",
+      "question": "What is the first thing to do if an adult is choking and cannot speak?",
+      "correctAnswer": "Give 5 back blows, then abdominal thrusts",
+      "distractors": [
+        "Give them water",
+        "Do a blind finger sweep in their mouth",
+        "Wait for them to cough"
+      ],
+      "explanation": "An adult who cannot speak or cough needs the blockage cleared right away: give 5 back blows, then 5 abdominal thrusts, and keep repeating the cycle until the object comes out (American Heart Association and Red Cross guidance).",
+      "memoryHook": "T-Rexy says: If they cannot speak, back blows first, then abdominal thrusts.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "choking"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_081",
+      "question": "What is CPR?",
+      "correctAnswer": "Chest compressions and rescue breaths to keep blood flowing when the heart stops",
+      "distractors": [
+        "A treatment for broken bones",
+        "A way to stop bleeding",
+        "A treatment for burns"
+      ],
+      "explanation": "Call 911 and start compressions in the center of the chest, hard and fast; hands-only CPR from a bystander can double or triple survival until help arrives.",
+      "memoryHook": "T-Rexy says: CPR keeps blood moving when the heart stops.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "cpr"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_082",
+      "question": "What number do you call for emergencies in the US?",
+      "correctAnswer": "911",
+      "distractors": [
+        "411",
+        "311",
+        "988 for emergencies only"
+      ],
+      "explanation": "911 is the US emergency number for police, fire, and ambulance.",
+      "memoryHook": "T-Rexy says: 911 is the emergency number.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "emergency"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_083",
+      "question": "What is the best first aid for a minor burn?",
+      "correctAnswer": "Cool it with running water",
+      "distractors": [
+        "Apply butter",
+        "Cover it with ice directly",
+        "Pop any blisters"
+      ],
+      "explanation": "Cool a minor burn under running water, then cover it loosely.",
+      "memoryHook": "T-Rexy says: Cool a burn with running water.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "burns"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_084",
+      "question": "What is the main cause of skin cancer?",
+      "correctAnswer": "Ultraviolet radiation from the Sun",
+      "distractors": [
+        "Cold weather",
+        "Lack of water",
+        "Eating sugar"
+      ],
+      "explanation": "UV radiation damages skin cells and is the main cause of skin cancer.",
+      "memoryHook": "T-Rexy says: UV rays are the main cause of skin cancer.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "skin"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_085",
+      "question": "What SPF should sunscreen be for good protection?",
+      "correctAnswer": "At least SPF 30",
+      "distractors": [
+        "SPF 5",
+        "SPF 10",
+        "SPF 100 only"
+      ],
+      "explanation": "Dermatologists recommend sunscreen of SPF 30 or higher, reapplied every two hours.",
+      "memoryHook": "T-Rexy says: SPF 30 or higher is the standard.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "skin"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_086",
+      "question": "What is the main way to prevent food poisoning?",
+      "correctAnswer": "Cook food to safe temperatures and wash hands",
+      "distractors": [
+        "Eat food quickly",
+        "Store food at room temperature",
+        "Avoid all meat"
+      ],
+      "explanation": "Safe cooking temperatures, clean hands, and proper storage prevent most food poisoning.",
+      "memoryHook": "T-Rexy says: Cook it right and wash your hands.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "food-safety"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_087",
+      "question": "What temperature should a refrigerator be?",
+      "correctAnswer": "At or below 40 degrees Fahrenheit (4 degrees Celsius)",
+      "distractors": [
+        "50 degrees Fahrenheit",
+        "60 degrees Fahrenheit",
+        "32 degrees Fahrenheit exactly"
+      ],
+      "explanation": "Refrigerators should stay at or below 40 F to slow bacterial growth.",
+      "memoryHook": "T-Rexy says: Keep the fridge at or below 40 F.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "food-safety"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_088",
+      "question": "What is the difference between a sprain and a strain?",
+      "correctAnswer": "A sprain injures a ligament; a strain injures a muscle or tendon",
+      "distractors": [
+        "They are the same injury",
+        "A sprain injures a bone",
+        "A strain injures a joint only"
+      ],
+      "explanation": "Sprains affect ligaments at joints; strains affect muscles or tendons.",
+      "memoryHook": "T-Rexy says: Sprain is ligament, strain is muscle.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "first-aid",
+        "injuries"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_089",
+      "question": "What is the main purpose of a seatbelt?",
+      "correctAnswer": "To keep you in place and spread crash forces across strong parts of the body",
+      "distractors": [
+        "To make driving comfortable",
+        "To replace airbags",
+        "To prevent all injuries"
+      ],
+      "explanation": "Seatbelts restrain occupants and distribute crash forces, greatly reducing injury.",
+      "memoryHook": "T-Rexy says: Seatbelts spread crash forces and keep you in place.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "driving"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_090",
+      "question": "What is the leading cause of death for US teens?",
+      "correctAnswer": "Unintentional injuries, especially car crashes",
+      "distractors": [
+        "Heart disease",
+        "Cancer",
+        "Diabetes"
+      ],
+      "explanation": "Most of these deaths, from crashes, drowning, and poisoning, are preventable with seatbelts, sober driving, and basic safety habits.",
+      "memoryHook": "T-Rexy says: Crashes are the top killer of teens.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "teens"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_091",
+      "question": "What is the main risk of texting while driving?",
+      "correctAnswer": "It takes eyes, hands, and mind off the road",
+      "distractors": [
+        "It drains the battery",
+        "It uses data",
+        "It annoys passengers"
+      ],
+      "explanation": "Texting distracts visually, manually, and mentally, greatly raising crash risk.",
+      "memoryHook": "T-Rexy says: Texting while driving is three kinds of distraction.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "driving"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_092",
+      "question": "What is the best way to protect your privacy online?",
+      "correctAnswer": "Use strong passwords, limit sharing, and check privacy settings",
+      "distractors": [
+        "Share your password with friends",
+        "Post your location always",
+        "Use the same password everywhere"
+      ],
+      "explanation": "Strong unique passwords and careful sharing protect your online privacy.",
+      "memoryHook": "T-Rexy says: Strong passwords and careful sharing protect you.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "online"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_093",
+      "question": "What is a strong password?",
+      "correctAnswer": "A long mix of letters, numbers, and symbols, unique to each account",
+      "distractors": [
+        "Your birthday",
+        "Your pet's name",
+        "The word password"
+      ],
+      "explanation": "Aim for at least 12 characters or a passphrase of random words, use a password manager to keep each one unique, and turn on two-factor authentication.",
+      "memoryHook": "T-Rexy says: Long, mixed, and unique makes a strong password.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "safety",
+        "online"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_094",
+      "question": "What is the main function of the immune system?",
+      "correctAnswer": "To defend the body against germs and disease",
+      "distractors": [
+        "To carry oxygen",
+        "To digest food",
+        "To make hormones"
+      ],
+      "explanation": "The immune system recognizes and attacks pathogens.",
+      "memoryHook": "T-Rexy says: The immune system defends you from germs.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "immune"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_095",
+      "question": "What is the difference between type 1 and type 2 diabetes?",
+      "correctAnswer": "Type 1 is an autoimmune loss of insulin; type 2 is insulin resistance, often linked to lifestyle",
+      "distractors": [
+        "Type 1 is caused by eating sugar",
+        "Type 2 affects only children",
+        "They are the same disease"
+      ],
+      "explanation": "Type 1 is autoimmune and is not caused by diet, so it needs insulin every day; type 2 develops over time as cells respond less to insulin and is strongly tied to weight and activity.",
+      "memoryHook": "T-Rexy says: Type 1 makes no insulin, type 2 resists it.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "diabetes"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_096",
+      "question": "What is the best way to reduce the risk of heart disease?",
+      "correctAnswer": "Exercise, eat well, avoid smoking, and manage blood pressure",
+      "distractors": [
+        "Take vitamins only",
+        "Avoid all fat",
+        "Exercise once a month"
+      ],
+      "explanation": "Aim for about 150 minutes of moderate activity a week, limit sodium and saturated fat, never smoke, and keep blood pressure in range; together these habits protect arteries for decades.",
+      "memoryHook": "T-Rexy says: Move, eat well, do not smoke.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "heart"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_097",
+      "question": "What is the main purpose of the skeletal system?",
+      "correctAnswer": "To support the body and protect organs",
+      "distractors": [
+        "To pump blood",
+        "To carry oxygen",
+        "To digest food"
+      ],
+      "explanation": "Bones support the body, protect organs, and make blood cells.",
+      "memoryHook": "T-Rexy says: Bones support and protect.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "body"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_098",
+      "question": "Why do health experts recommend using a condom together with another contraceptive method?",
+      "correctAnswer": "The condom protects against STIs while the other method adds stronger pregnancy protection",
+      "distractors": [
+        "Two condoms at the same time work even better",
+        "Birth control pills also protect against STIs",
+        "Using two methods cancels out side effects"
+      ],
+      "explanation": "Only condoms reduce STI risk, while methods like the pill, implant, or IUD prevent pregnancy more reliably. Using both together - called dual protection - covers both risks at once; never wear two condoms, since friction makes them more likely to break.",
+      "memoryHook": "T-Rexy says: Condom for infections, plus a method for pregnancy - both covered.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "contraception"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_099",
+      "question": "Why is driving after using marijuana dangerous and illegal?",
+      "correctAnswer": "Marijuana slows reaction time and impairs coordination and judgment behind the wheel",
+      "distractors": [
+        "It is safe to drive because marijuana is not alcohol",
+        "It only affects driving if alcohol was also used",
+        "Its effects on driving wear off within a few minutes"
+      ],
+      "explanation": "Marijuana impairs the reaction time, coordination, and judgment driving demands, and driving under its influence is treated as DUI. The risk rises even higher when it is combined with alcohol.",
+      "memoryHook": "T-Rexy says: High driving is impaired driving.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "substances",
+        "marijuana"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_100",
+      "question": "What is the best way to avoid the flu?",
+      "correctAnswer": "Get a flu vaccine and wash hands often",
+      "distractors": [
+        "Take antibiotics",
+        "Avoid all people",
+        "Drink orange juice only"
+      ],
+      "explanation": "The flu virus changes every year, which is why the vaccine is updated annually; handwashing with soap removes viruses picked up from surfaces and hands.",
+      "memoryHook": "T-Rexy says: Flu shots and handwashing beat the flu.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "health",
+        "flu"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original"
+    },
+    {
+      "id": "HEA10_101",
+      "question": "What is PrEP?",
+      "correctAnswer": "A medicine that greatly reduces the risk of getting HIV when taken as prescribed",
+      "distractors": [
+        "A vaccine that cures HIV",
+        "A test for sexually transmitted infections",
+        "A type of birth control pill"
+      ],
+      "explanation": "PrEP (pre-exposure prophylaxis) is a medicine people at higher risk take to prevent HIV. It is highly effective when taken as prescribed, but it does not prevent other STIs or pregnancy.",
+      "memoryHook": "T-Rexy says: PrEP prevents HIV before exposure - it is prevention, not a cure.",
+      "tags": [
+        "sexual-health",
+        "hiv"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_102",
+      "question": "Which contraceptive methods are the most effective at preventing pregnancy?",
+      "correctAnswer": "Long-acting methods like the implant and IUDs - over 99 percent effective",
+      "distractors": [
+        "Condoms used on their own",
+        "The rhythm (calendar) method",
+        "Withdrawal"
+      ],
+      "explanation": "Implants and IUDs are over 99 percent effective because they do not depend on daily or per-act use. Typical-use effectiveness of condoms and fertility tracking is much lower.",
+      "memoryHook": "T-Rexy says: Implant and IUD top the chart - over 99 percent.",
+      "tags": [
+        "sexual-health",
+        "contraception"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_103",
+      "question": "Untreated chlamydia or gonorrhea can lead to which serious outcome?",
+      "correctAnswer": "Infertility caused by pelvic inflammatory disease",
+      "distractors": [
+        "Permanent hair loss",
+        "Diabetes",
+        "Broken bones"
+      ],
+      "explanation": "Untreated infections can spread to the reproductive organs and cause pelvic inflammatory disease, which can scar tissue and lead to infertility. Both infections are curable when caught early.",
+      "memoryHook": "T-Rexy says: Untreated today, infertility tomorrow - early treatment prevents it.",
+      "tags": [
+        "sexual-health",
+        "sti"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_104",
+      "question": "Why do health experts recommend STI testing even when a person has no symptoms?",
+      "correctAnswer": "Silent infections can cause permanent harm and spread unknowingly; testing finds them early",
+      "distractors": [
+        "Testing is only needed before marriage",
+        "Symptoms always appear before damage happens",
+        "Testing once in a lifetime is enough for everyone"
+      ],
+      "explanation": "Most STIs cause no symptoms while still damaging the body and spreading to partners. Regular testing finds infections early, when treatment works best.",
+      "memoryHook": "T-Rexy says: Test before trouble - silent infections still spread.",
+      "tags": [
+        "sexual-health",
+        "testing"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_105",
+      "question": "What is the core of valid consent?",
+      "correctAnswer": "A clear, voluntary yes from everyone involved, every time",
+      "distractors": [
+        "Silence, as long as nobody says no",
+        "A yes given once that covers all future times",
+        "A yes obtained after repeated pressure"
+      ],
+      "explanation": "Consent must be freely given, clear, and ongoing. Silence is not consent, a past yes does not carry forward, and pressure invalidates it.",
+      "memoryHook": "T-Rexy says: Clear, voluntary, every time - that is consent.",
+      "tags": [
+        "sexual-health",
+        "relationships"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_106",
+      "question": "A friend tells you they were sexually assaulted. What is the best response?",
+      "correctAnswer": "Believe them, listen without blame, and help them reach a trusted adult or support service",
+      "distractors": [
+        "Ask what they did to cause it",
+        "Tell them to keep it quiet to avoid drama",
+        "Demand every detail before believing them"
+      ],
+      "explanation": "Survivors need belief and support, never blame. Listening calmly and connecting them with a trusted adult, counselor, or support service helps them get care and options.",
+      "memoryHook": "T-Rexy says: Believe, listen, connect - blame never helps.",
+      "tags": [
+        "sexual-health",
+        "relationships"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_107",
+      "question": "Which combination most reduces a person's overall STI risk?",
+      "correctAnswer": "Consistent condom use, regular testing, and fewer partners",
+      "distractors": [
+        "Relying on a partner's appearance",
+        "Using two hormonal methods at once",
+        "Douching after sex"
+      ],
+      "explanation": "No single habit removes all risk. Combining consistent condom use, regular testing, and fewer partners lowers overall risk the most.",
+      "memoryHook": "T-Rexy says: Condoms plus testing plus fewer partners - layers protect.",
+      "tags": [
+        "sexual-health",
+        "prevention"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_108",
+      "question": "What is the key fact about emergency contraception?",
+      "correctAnswer": "It prevents pregnancy after unprotected sex; it does not end an existing pregnancy",
+      "distractors": [
+        "It works at any point during pregnancy",
+        "It protects against sexually transmitted infections",
+        "It is the same as a surgical abortion"
+      ],
+      "explanation": "Emergency contraception, such as the morning-after pill, works by preventing pregnancy after unprotected sex, mainly by delaying ovulation. It does not end an established pregnancy and gives no STI protection.",
+      "memoryHook": "T-Rexy says: Emergency contraception prevents pregnancy - sooner works better.",
+      "tags": [
+        "sexual-health",
+        "contraception"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_109",
+      "question": "Which resource gives teens accurate, confidential sexual health help?",
+      "correctAnswer": "A school nurse, clinic, or trusted health provider",
+      "distractors": [
+        "Social media influencers",
+        "Friends with more experience",
+        "Anonymous internet forums"
+      ],
+      "explanation": "Health professionals give medically accurate answers and, in California, many confidential services for minors. Online sources and peers often repeat myths.",
+      "memoryHook": "T-Rexy says: Ask a nurse or clinic - skip the myths online.",
+      "tags": [
+        "sexual-health",
+        "resources"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_110",
+      "question": "Which resource can a teen contact for free, confidential help with dating abuse?",
+      "correctAnswer": "The National Domestic Violence Hotline (thehotline.org) or a local domestic-violence program",
+      "distractors": [
+        "Only a police station, in person",
+        "A teacher at a different school",
+        "Anonymous social media followers"
+      ],
+      "explanation": "Hotlines such as the National Domestic Violence Hotline (call, chat, or text via thehotline.org) and love is respect give free, confidential support and safety planning. Local domestic-violence programs and school counselors can help too - no one has to handle abuse alone.",
+      "memoryHook": "T-Rexy says: confidential help exists - thehotline.org is a start.",
+      "tags": [
+        "dating-violence",
+        "resources"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_111",
+      "question": "How can someone report suspected human trafficking in the United States?",
+      "correctAnswer": "Call the National Human Trafficking Hotline at 1-888-373-7888 (or text HELP to 233733)",
+      "distractors": [
+        "Post about it on social media and wait for a response",
+        "Confront the suspected trafficker directly",
+        "Only by walking into a police station in person"
+      ],
+      "explanation": "The National Human Trafficking Hotline (1-888-373-7888, or text HELP to 233733) takes reports and connects victims with help, day and night. Never confront a suspected trafficker yourself - report what you saw and let trained responders act.",
+      "memoryHook": "T-Rexy says: 1-888-373-7888 - the trafficking hotline, any time.",
+      "tags": [
+        "trafficking-prevention",
+        "reporting"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_112",
+      "question": "A partner threatens to share your private images if you break up with them. This is best described as:",
+      "correctAnswer": "Coercion and digital abuse - a form of dating violence, whether or not they ever send the images",
+      "distractors": [
+        "A normal breakup argument",
+        "Only a problem if they actually send them",
+        "Something you caused by taking the photo"
+      ],
+      "explanation": "Threatening to expose private images to control a partner is coercive digital abuse - sometimes called image-based abuse or sextortion. The threat itself is the abuse, and responsibility always lies with the person making the threat, never with the person in the photo.",
+      "memoryHook": "T-Rexy says: threats to share images are abuse - never your fault.",
+      "tags": [
+        "dating-violence",
+        "digital-abuse"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_113",
+      "question": "What is a safety plan for someone leaving an abusive relationship?",
+      "correctAnswer": "A personal plan for staying safe - telling trusted people, choosing safe places and routes, and keeping essentials and key contacts ready",
+      "distractors": [
+        "A plan to make the abusive partner change their behavior",
+        "A written agreement both partners sign",
+        "Permanently deleting every social media account"
+      ],
+      "explanation": "A safety plan prepares for the riskiest moments around leaving: who knows, where is safe, how to get there, what to have ready (phone, keys, documents, money), and which adults or hotlines to contact. Counselors and hotlines help people build one.",
+      "memoryHook": "T-Rexy says: trusted people, safe places, essentials ready - that is a plan.",
+      "tags": [
+        "dating-violence",
+        "safety-planning"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_114",
+      "question": "You regularly see a classmate's partner screaming at them and shoving them in the hallway. What is the most responsible action?",
+      "correctAnswer": "Do not step in physically - tell a trusted adult or counselor what you have seen, and let your classmate know support is available",
+      "distractors": [
+        "Record it and post the video so everyone knows",
+        "Get between them and break it up yourself",
+        "Stay completely out of it - it is their private business"
+      ],
+      "explanation": "Direct physical intervention can put you and the victim in more danger, and posting video humiliates the victim. Bystanders still have power: report to a trusted adult or counselor, and quietly let the classmate know you believe them and that help exists.",
+      "memoryHook": "T-Rexy says: bystanders help best through trusted adults.",
+      "tags": [
+        "dating-violence",
+        "bystanders"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_115",
+      "question": "Which sequence best describes how groomers and recruiters operate?",
+      "correctAnswer": "They spot a need, build trust and affection, isolate the teen, then introduce control, demands, or sexual content",
+      "distractors": [
+        "They threaten first, then ask to be friends",
+        "They offer a job, then immediately call the police",
+        "They kidnap the teen in a public place"
+      ],
+      "explanation": "Recruitment is usually gradual: attention and gifts create trust, the teen is separated from friends and family, boundaries are tested and pushed, and only then do demands and exploitation begin. Recognizing the early stages is the best defense.",
+      "memoryHook": "T-Rexy says: trust, isolation, then control - spot the sequence early.",
+      "tags": [
+        "trafficking-prevention",
+        "grooming"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_116",
+      "question": "Which fact corrects a common myth about human trafficking?",
+      "correctAnswer": "Most victims are not kidnapped - traffickers more often use lies, false promises, and trusted relationships",
+      "distractors": [
+        "Victims are always moved across national borders",
+        "Trafficking happens only in very large cities",
+        "If a victim does not try to escape, it is not trafficking"
+      ],
+      "explanation": "The kidnapping image is mostly a myth. Traffickers typically recruit through fraud and coercion - fake jobs, fake romances, false promises - and it happens in suburbs and small towns as well as big cities. Victims who seem 'free to leave' are often held by threats, debt, or fear.",
+      "memoryHook": "T-Rexy says: most traffickers manipulate - they do not kidnap.",
+      "tags": [
+        "trafficking-prevention",
+        "myths"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_117",
+      "question": "Under US law, when a person under 18 is involved in commercial sex, it is automatically considered trafficking because:",
+      "correctAnswer": "Minors cannot legally consent, so no force, fraud, or coercion needs to be proven",
+      "distractors": [
+        "All work by minors is illegal",
+        "It only counts if a state line was crossed",
+        "The law treats it as a curfew violation"
+      ],
+      "explanation": "Under the federal Trafficking Victims Protection Act, anyone under 18 in commercial sex is a trafficking victim by definition - prosecutors never have to prove force, fraud, or coercion. The minor is a victim to be protected, never a criminal.",
+      "memoryHook": "T-Rexy says: under 18 means victim by law - no exceptions.",
+      "tags": [
+        "trafficking-prevention",
+        "law"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_118",
+      "question": "Setting a boundary in a dating relationship means:",
+      "correctAnswer": "Clearly stating what you are and are not comfortable with - and a respectful partner accepts it",
+      "distractors": [
+        "Giving your partner rules they must obey",
+        "Ending the relationship immediately",
+        "Testing your partner to see how much they care"
+      ],
+      "explanation": "Boundaries are about your own comfort and safety - around time, touch, phones, photos, anything. Stating them clearly is healthy, and how a partner reacts tells you a lot: respect means the boundary is accepted the first time.",
+      "memoryHook": "T-Rexy says: state your limits - respect accepts them the first time.",
+      "tags": [
+        "dating-violence",
+        "boundaries"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_119",
+      "question": "In Illinois, teachers, counselors, and coaches are 'mandated reporters.' This means they must:",
+      "correctAnswer": "Report suspected child abuse or neglect to DCFS - they cannot legally keep the suspicion to themselves",
+      "distractors": [
+        "Investigate the family themselves before telling anyone",
+        "Keep a student's disclosure confidential if the student asks",
+        "Report only if they personally witness the abuse"
+      ],
+      "explanation": "Illinois law makes school staff mandated reporters: a reasonable suspicion is enough, and the report goes to the DCFS hotline. Their job is to report, not to investigate or to sit on a disclosure.",
+      "memoryHook": "T-Rexy says: mandated reporters must report - suspicion is enough.",
+      "tags": [
+        "erins-law",
+        "reporting",
+        "illinois"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_120",
+      "question": "A teen anywhere in the U.S. can reach free, confidential sexual assault support through:",
+      "correctAnswer": "The National Sexual Assault Hotline (RAINN) at 1-800-656-4673, or online at rainn.org",
+      "distractors": [
+        "Only a local police station's front desk",
+        "A school's general attendance office",
+        "Any large social media account with 'help' in its name"
+      ],
+      "explanation": "RAINN's hotline connects callers to trained staff and local service providers, by phone or chat, free and confidential - whether the assault was recent or years ago.",
+      "memoryHook": "T-Rexy says: 1-800-656-4673 - confidential help, day or night.",
+      "tags": [
+        "erins-law",
+        "resources"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_121",
+      "question": "If sexual abuse or assault happens to you, the most important thing to know is:",
+      "correctAnswer": "It is never the victim's fault - no matter what they wore, drank, or agreed to earlier - and help is available whenever they are ready",
+      "distractors": [
+        "It only counts if there are visible injuries",
+        "Nothing can be done unless it is reported within 24 hours",
+        "Staying silent is best if the person is well liked"
+      ],
+      "explanation": "Responsibility rests entirely with the offender. There is no deadline on deserving support: medical care, counseling, and reporting options remain open, and disclosure can happen whenever the survivor is ready.",
+      "memoryHook": "T-Rexy says: never the victim's fault - help waits for no deadline.",
+      "tags": [
+        "erins-law",
+        "facts"
+      ],
+      "difficulty": "easy",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_122",
+      "question": "Grooming by a person in authority - a coach, teacher, or employer - is especially dangerous because:",
+      "correctAnswer": "The authority figure controls grades, playing time, or a job, so refusing or reporting feels risky - and that power is exactly what the grooming exploits",
+      "distractors": [
+        "Adults in authority are legally allowed unlimited private contact with teens",
+        "Teens always exaggerate about authority figures",
+        "It is only a problem if the gifts involved are expensive"
+      ],
+      "explanation": "Authority adds leverage: the teen fears losing a team spot, a grade, or a job, and the offender knows it. That power imbalance is a feature of the abuse, not a defense of it.",
+      "memoryHook": "T-Rexy says: power over your future is the groomer's lever - name it.",
+      "tags": [
+        "erins-law",
+        "grooming",
+        "authority"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_123",
+      "question": "'Sextortion' targeting teens usually works by:",
+      "correctAnswer": "An offender obtains private images - or pretends to have them - and threatens to share them unless the teen sends more images or money; the right move is to stop responding, save the evidence, and tell a trusted adult or report it",
+      "distractors": [
+        "A stranger politely asking for photos one time",
+        "Guessing the teen's password correctly on the first attempt",
+        "Something that can only happen to adults with bank accounts"
+      ],
+      "explanation": "Sextortion runs on panic and secrecy. Complying never ends the threats - offenders escalate. Stopping contact, preserving evidence, and involving an adult or a report (for example through the CyberTipline) is how teens get out of it.",
+      "memoryHook": "T-Rexy says: threats feed on secrecy - stop, save, and tell an adult.",
+      "tags": [
+        "erins-law",
+        "online-safety",
+        "sextortion"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_124",
+      "question": "A common reason older teens do not disclose abuse by a family member or close family friend is:",
+      "correctAnswer": "Fear of breaking up the family, being blamed, or losing housing and financial support",
+      "distractors": [
+        "A rule that abuse inside families is not reportable",
+        "Teens generally not understanding that it is wrong",
+        "Disclosure being illegal until both parents agree"
+      ],
+      "explanation": "When the offender is inside the family circle, disclosure can feel like detonating the teen's whole life - home, income, holidays, loyalties. Understanding that pressure is why believing and supporting the teen matters so much.",
+      "memoryHook": "T-Rexy says: fear of fallout silences teens - support lowers the cost of truth.",
+      "tags": [
+        "erins-law",
+        "disclosure"
+      ],
+      "difficulty": "medium",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_125",
+      "question": "Which school response best supports a student who discloses sexual abuse?",
+      "correctAnswer": "Believe the student, ensure immediate safety, report to DCFS as required, and connect the student with counseling - without making the student repeat the account to many different people",
+      "distractors": [
+        "Have the student retell the details in a staff group meeting",
+        "Wait a week to see if the student changes the story",
+        "Notify the accused adult first so they can give their side"
+      ],
+      "explanation": "Good practice protects and limits re-traumatizing: one supportive conversation, the mandated report, safety planning, and counseling referrals. Repeated retellings and tipping off the accused both cause harm.",
+      "memoryHook": "T-Rexy says: believe, protect, report, support - and spare the retelling.",
+      "tags": [
+        "erins-law",
+        "disclosure",
+        "schools"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_126",
+      "question": "A senior says: 'It can't be abuse - he never hit me, and I went along with the meetings.' The accurate correction is:",
+      "correctAnswer": "Abuse does not require violence or physical resistance - manipulation, authority, and grooming can produce compliance, and responsibility still rests entirely with the offender",
+      "distractors": [
+        "Correct - without force, it cannot be abuse",
+        "It is abuse only if the teen said the word 'no' out loud",
+        "Going along with meetings makes the teen partly responsible"
+      ],
+      "explanation": "Freezing, complying, or even returning are common survival responses engineered by grooming. The law and prevention education both place responsibility on the offender who created the situation.",
+      "memoryHook": "T-Rexy says: compliance under manipulation is not consent - blame stays with the offender.",
+      "tags": [
+        "erins-law",
+        "facts",
+        "grooming"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_127",
+      "question": "Why does Illinois's Erin's Law require abuse-prevention instruction through grade 12 instead of ending it in elementary school?",
+      "correctAnswer": "Because risks change as teens age - dating, jobs, teams, and online contact create new settings for grooming and assault - so prevention skills must mature with students through high school",
+      "distractors": [
+        "Because younger children cannot learn any safety concepts at all",
+        "Because the law only applies to high school seniors",
+        "Because elementary schools are exempt from all safety education"
+      ],
+      "explanation": "Erin's Law was written in Illinois to run through grade 12 precisely because the threat changes shape: authority figures, workplaces, relationships, and phones. Age-appropriate prevention has to keep pace.",
+      "memoryHook": "T-Rexy says: risks grow up - so the lessons grow up too, through grade 12.",
+      "tags": [
+        "erins-law",
+        "illinois",
+        "facts"
+      ],
+      "difficulty": "hard",
+      "imageUrl": "topic:health"
+    },
+    {
+      "id": "HEA10_128",
+      "question": "Virginia's 2024 hazing law (Code 22.1-207(B)) requires the state to develop what for schools?",
+      "correctAnswer": "Standards and curriculum guidance for research-based hazing prevention instruction in grade 9 or 10 health or physical education",
+      "distractors": [
+        "A statewide tryout rubric for school sports teams",
+        "A list of approved initiation ceremonies for school clubs",
+        "A hazing reporting hotline run by student captains only"
+      ],
+      "explanation": "The 2024 law directs the Board of Education to develop Standards of Learning and curriculum guidelines for research-based hazing prevention as part of health or physical education instruction in grade 9 or 10.",
+      "memoryHook": "T-Rexy says: The law orders research-based hazing prevention teaching for grades 9-10.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "hazing-prevention"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of an open curriculum binder and a teacher planning a lesson at a desk, blank pages and a school building visible through a window. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Virginia's 2024 law requires hazing prevention curriculum guidance for grades 9-10.",
+        "title": "THE 2024 HAZING LAW"
+      }
+    },
+    {
+      "id": "HEA10_129",
+      "question": "Which situation is hazing, even though nobody is physically injured?",
+      "correctAnswer": "New band members are forced to perform humiliating acts in front of the group as the price of being accepted",
+      "distractors": [
+        "Section leaders run a difficult but standard conditioning session",
+        "Returning members organize a voluntary welcome picnic for newcomers",
+        "A director assigns extra practice to students who missed rehearsal"
+      ],
+      "explanation": "Hazing includes forced humiliation tied to membership, not only physical harm. Conditioning, assigned practice, and voluntary welcome events are legitimate group activities.",
+      "memoryHook": "T-Rexy says: Forced humiliation to earn membership is hazing, injury or not.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "hazing-prevention"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a new student standing uncomfortably in front of a laughing group in a rehearsal room, a teacher entering with a concerned expression. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Forced humiliation for membership is hazing even without injury.",
+        "title": "HUMILIATION IS HAZING"
+      }
+    },
+    {
+      "id": "HEA10_130",
+      "question": "Why do prevention programs teach that 'everyone in the group agreed' does not settle a hazing question?",
+      "correctAnswer": "Group pressure makes agreement unreliable, and Virginia hazing law does not accept a victim's consent as a defense",
+      "distractors": [
+        "Because only a coach can ever consent on behalf of a team",
+        "Because written waivers are required for all club activities",
+        "Because new members are legally unable to join any group"
+      ],
+      "explanation": "Initiation settings carry intense pressure to belong, so apparent agreement is not free choice - and under Virginia law consent is not a defense to hazing that endangers health or safety.",
+      "memoryHook": "T-Rexy says: Pressure corrupts agreement, and consent is no defense to hazing.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "hazing-prevention",
+        "consent"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a lone student facing a semicircle of teammates in shadow, spotlight emphasizing social pressure, no violence shown. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Peer pressure makes 'they agreed' unreliable - and consent is no defense to hazing.",
+        "title": "PRESSURE IS NOT PERMISSION"
+      }
+    },
+    {
+      "id": "HEA10_131",
+      "question": "During an initiation, a student who was pressured to drink becomes unresponsive. What should bystanders do first?",
+      "correctAnswer": "Call 911 immediately and stay with the student - getting medical help fast matters more than avoiding trouble",
+      "distractors": [
+        "Wait an hour to see whether the student sleeps it off",
+        "Move the student to a car and drive around to sober them up",
+        "Give the student coffee and a cold shower, then decide"
+      ],
+      "explanation": "Unresponsiveness after drinking signals possible alcohol poisoning, a medical emergency. Prevention instruction stresses calling 911 at once; delayed help is a recurring factor in hazing deaths.",
+      "memoryHook": "T-Rexy says: Unresponsive after drinking means call 911 now.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "hazing-prevention",
+        "alcohol",
+        "bystander"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of students urgently calling emergency services while one kneels beside an unresponsive friend at a gathering, alarmed expressions. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Call 911 immediately for an unresponsive student - never wait it out.",
+        "title": "CALL 911 FIRST"
+      }
+    },
+    {
+      "id": "HEA10_132",
+      "question": "A club leader wants a bonding tradition that builds belonging without hazing. Which choice fits prevention guidance?",
+      "correctAnswer": "A voluntary team service project and shared meal where newcomers can opt out of any activity without penalty",
+      "distractors": [
+        "A secret ritual newcomers must complete to be accepted",
+        "A ranking ceremony where newcomers are publicly graded by seniors",
+        "A challenge night where newcomers prove loyalty by taking risks"
+      ],
+      "explanation": "Research-based prevention replaces hazing with inclusive bonding: shared goals, service, and mentoring where participation is genuinely voluntary and nobody must endure harm or humiliation to belong.",
+      "memoryHook": "T-Rexy says: Real bonding is voluntary and safe - nobody pays for belonging with harm.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "hazing-prevention"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a mixed group of new and returning students planting trees together and sharing a meal outdoors, relaxed and inclusive atmosphere. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Voluntary, safe shared activities build belonging without hazing.",
+        "title": "BELONGING WITHOUT HAZING"
+      }
+    },
+    {
+      "id": "HEA10_133",
+      "question": "Which online behavior is sexual harassment using electronic means?",
+      "correctAnswer": "Creating a group chat that rates classmates' bodies and shares sexual comments about them after being asked to stop",
+      "distractors": [
+        "Messaging a classmate once to ask about a group project",
+        "Posting team celebration photos with everyone's permission",
+        "Blocking someone whose messages make you uncomfortable"
+      ],
+      "explanation": "Virginia's prevention standards name sexual harassment including sexual harassment using electronic means: sexual comments, ratings, or images directed at someone through phones or social media, especially when repeated or after refusal, are harassment.",
+      "memoryHook": "T-Rexy says: Sexual comments about classmates online are electronic sexual harassment.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "sexual-harassment",
+        "electronic-means"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a student showing a trusted adult a phone screen with blurred generic chat bubbles, serious conversation in a school office. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Online sexual comments and ratings about classmates are sexual harassment.",
+        "title": "ONLINE HARASSMENT IS HARASSMENT"
+      }
+    },
+    {
+      "id": "HEA10_134",
+      "question": "A student keeps pressuring a dating partner by message to send intimate photos, saying 'if you loved me you would.' This is best identified as:",
+      "correctAnswer": "Coercion and sexual harassment using electronic means - pressure tied to the relationship is not consent",
+      "distractors": [
+        "Normal persuasion that partners are expected to accept",
+        "Consent, because the partner has not blocked the sender",
+        "A private matter that schools never treat as harassment"
+      ],
+      "explanation": "Using a relationship as leverage to demand intimate images is coercion delivered by electronic means. Consent obtained by pressure is not consent, and the behavior falls under the sexual harassment Virginia instruction must teach students to recognize.",
+      "memoryHook": "T-Rexy says: Love used as leverage for photos is coercion, not consent.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "sexual-harassment",
+        "electronic-means",
+        "consent"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a student looking upset reading messages on a phone at home, a parent sitting down beside them to talk supportively. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Pressuring a partner for intimate photos is coercion and electronic sexual harassment.",
+        "title": "PRESSURE IS NOT CONSENT"
+      }
+    },
+    {
+      "id": "HEA10_135",
+      "question": "Which scenario shows consent as Virginia law and instruction define it?",
+      "correctAnswer": "Both people clearly and freely agree, either can change their mind at any point, and the agreement stops the moment one person withdraws it",
+      "distractors": [
+        "One person stops protesting after repeated pressure, so the other proceeds",
+        "A person who is asleep is assumed to agree because they agreed on another occasion",
+        "A dating partner agrees once, which settles every future occasion"
+      ],
+      "explanation": "Consent is freely given, specific, and revocable: it must be present for each activity, it ends when withdrawn, and it cannot come from pressure, past agreement, or a person who is asleep or incapacitated.",
+      "memoryHook": "T-Rexy says: Consent is free, specific, and can be withdrawn at any time.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "virginia-law",
+        "consent"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two young adults talking openly on a park bench, relaxed body language showing mutual respect and clear communication. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Consent is freely given, specific, and revocable at any time.",
+        "title": "FREE, SPECIFIC, REVOCABLE"
+      }
+    },
+    {
+      "id": "HEA10_136",
+      "question": "A person agrees to an activity while sober, then becomes heavily intoxicated and is drifting in and out of awareness. Why can the earlier agreement not be relied on?",
+      "correctAnswer": "Consent must be present and ongoing - a person who becomes incapacitated can no longer consent or withdraw consent, so the activity must stop",
+      "distractors": [
+        "The earlier agreement lasts for the rest of the evening once given",
+        "The earlier agreement lasts unless the person manages to say no again",
+        "The earlier agreement can be relied on if witnesses heard it given"
+      ],
+      "explanation": "Affirmative consent is not a one-time contract. Because an incapacitated person cannot monitor the situation, communicate, or withdraw agreement, earlier consent loses its force the moment capacity is lost - a principle Washington CSHE teaching applies to alcohol, drugs, sleep, and illness alike.",
+      "memoryHook": "T-Rexy says: Consent must be ongoing - incapacitation ends its force at once.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "affirmative-consent",
+        "incapacitation"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a school nurse talking calmly with two older students in a health office about looking out for one another, reassuring atmosphere. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "When a person becomes incapacitated, earlier agreement can no longer be relied on.",
+        "title": "CONSENT MUST BE ONGOING"
+      }
+    },
+    {
+      "id": "HEA10_137",
+      "question": "Washington law (RCW 28A.300.475) requires comprehensive sexual health education for grades 9-12 to include which two topics by name?",
+      "correctAnswer": "Affirmative consent and bystander training",
+      "distractors": [
+        "Affirmative consent and driver safety",
+        "Bystander training and first aid certification",
+        "Nutrition planning and bystander training"
+      ],
+      "explanation": "The Comprehensive Sexual Health Education law names affirmative consent and bystander training as required content within CSHE. Under RCW 28A.300.475(2)(c), CSHE as a whole must be provided at least twice in grades 6-8 and twice in grades 9-12 - that frequency applies to the program overall, not as a separate schedule for these two topics alone. The pairing is deliberate: students learn both how consent works and how to intervene when someone else's boundaries are at risk.",
+      "memoryHook": "T-Rexy says: Washington names two required topics: affirmative consent and bystander training.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "affirmative-consent",
+        "bystander-intervention"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of an open curriculum binder and a teacher planning a lesson at a desk, blank pages and a school building visible through a window. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "RCW 28A.300.475 names affirmative consent and bystander training.",
+        "title": "TWO TOPICS NAMED IN LAW"
+      }
+    },
+    {
+      "id": "HEA10_138",
+      "question": "A student starts dating someone new and assumes the boundaries from a previous relationship carry over. What is wrong with that assumption?",
+      "correctAnswer": "Consent and boundaries are personal and specific - they must be communicated and agreed with this person, and cannot be imported from another relationship",
+      "distractors": [
+        "Nothing, as long as the previous relationship lasted a long time",
+        "The only problem is failing to tell the new partner about the old boundaries",
+        "Boundaries carry over, but only for the first few weeks of a new relationship"
+      ],
+      "explanation": "Every person's limits are their own: what a previous partner welcomed, a new partner may not, and the reverse is also true. Healthy relationships rebuild agreement through communication rather than assumption - which is also why a current partner's past activity with someone else is never consent to anything.",
+      "memoryHook": "T-Rexy says: Boundaries belong to the person - they never transfer from an ex.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "affirmative-consent",
+        "boundaries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two young adults talking openly on a park bench, relaxed body language showing mutual respect and clear communication. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Consent and boundaries must be agreed with this person - never imported.",
+        "title": "BOUNDARIES DO NOT TRANSFER"
+      }
+    },
+    {
+      "id": "HEA10_139",
+      "question": "At a gathering, you notice one guest repeatedly ignoring another guest's clear attempts to end a conversation and move away. Which bystander action is direct and appropriate?",
+      "correctAnswer": "Check in with the uncomfortable guest directly - ask if they are okay and offer to walk with them to rejoin their friends",
+      "distractors": [
+        "Announce loudly to the whole room what you think the first guest is doing",
+        "Ignore it, because a conversation is never a bystander situation",
+        "Pull the first guest aside and threaten them so they back off"
+      ],
+      "explanation": "Direct intervention does not have to mean confrontation: addressing the person who needs help - checking in, offering an exit, staying with them - is a direct strategy that lowers risk for everyone. Bystander training reserves accusation and threats, which escalate situations, in favor of support for the person whose signals are being ignored.",
+      "memoryHook": "T-Rexy says: Direct can mean checking in with the person who needs the exit.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "bystander-intervention"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a group of older students chatting together in a bright school atrium, one student warmly welcoming a classmate into the group. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "A direct bystander move: check in with the uncomfortable person and offer an exit.",
+        "title": "CHECK IN DIRECTLY"
+      }
+    },
+    {
+      "id": "HEA10_140",
+      "question": "You are the youngest person in a group where an older student is pressuring a peer, and stepping in directly feels unsafe. Which plan best fits bystander training?",
+      "correctAnswer": "Delegate promptly - get the host, a coach, or another trusted adult - and stay nearby to support the peer until help arrives",
+      "distractors": [
+        "Wait until the gathering ends and then text the peer to ask if it was serious",
+        "Step in directly anyway, because delegating does not count as intervening",
+        "Leave the gathering so you cannot be blamed for what happens"
+      ],
+      "explanation": "Delegating is a complete intervention, not a fallback for people who failed to act: the delegate brings authority the bystander may not have. Staying nearby matters too - it supports the peer in the moment and lets the bystander tell the adult exactly what was observed.",
+      "memoryHook": "T-Rexy says: Delegate promptly and stay nearby - that is full intervention.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "bystander-intervention"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of an older student speaking seriously and privately with a coach at the edge of a school gym, calm and purposeful atmosphere. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "When direct action feels unsafe, delegate to an adult and stay to support.",
+        "title": "DELEGATE AND STAY"
+      }
+    },
+    {
+      "id": "HEA10_141",
+      "question": "Online, an anonymous account is urging students to share a classmate's private photo and to keep the sharing secret from adults. What is the best bystander plan?",
+      "correctAnswer": "Refuse to share, report the account and its posts to the platform, tell a trusted adult, and support the classmate - without downloading or forwarding the photo as 'evidence'",
+      "distractors": [
+        "Download the photo so you can prove what was being shared",
+        "Forward the posts to a large group chat so more students can condemn them",
+        "Stay silent, because anonymous accounts cannot be reported effectively"
+      ],
+      "explanation": "Secrecy demanded by the person doing harm is itself a warning sign. Platforms act on reports of non-consensual image sharing, and a trusted adult can involve the school - while every download or forward, whatever the motive, spreads the image further and can deepen the harm and the legal exposure.",
+      "memoryHook": "T-Rexy says: Report and tell an adult - never download or forward the photo.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "bystander-intervention",
+        "online-safety"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of a student showing a trusted adult a phone screen with blurred generic chat bubbles, serious conversation in a school office. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Report the account, tell a trusted adult, and never forward the photo.",
+        "title": "REPORT, NEVER FORWARD"
+      }
+    },
+    {
+      "id": "HEA10_142",
+      "question": "In a long-term relationship, one partner posts photos of the other and shares their private messages as jokes, despite being asked to stop. How should this pattern be judged?",
+      "correctAnswer": "Repeatedly ignoring a stated digital boundary is disrespectful and controlling - the length of the relationship does not reduce the need for consent online",
+      "distractors": [
+        "It is harmless, because the partner describes it as joking and says no harm was intended, even though the posts keep appearing after a clear request to stop",
+        "It is acceptable, because long-term partners give up separate digital privacy and are expected to let each other share their photos and private messages freely",
+        "It only matters if strangers, rather than friends and family, see the posts and messages, because a familiar audience cannot misuse or spread private material further"
+      ],
+      "explanation": "Digital boundaries work like any others: agreement is needed to post someone's photo or share their messages, and a request to stop must be honored. A pattern of 'jokes' that continues after a clear no is a recognized form of digital control, whatever the relationship's history.",
+      "memoryHook": "T-Rexy says: A clear no online binds partners too - 'joking' is no exception.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "healthy-relationships",
+        "digital-boundaries"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two young adults sitting at a cafe table with phones face down, talking seriously and respectfully with each other. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Ignoring a partner's digital boundary after a clear no is controlling behavior.",
+        "title": "DIGITAL BOUNDARIES BIND"
+      }
+    },
+    {
+      "id": "HEA10_143",
+      "question": "A friend tells you a partner has been pressuring them and ignoring their boundaries, and asks you to keep it completely secret. What is the best balance of support and safety?",
+      "correctAnswer": "Listen and respect their choices about next steps, but be honest that if someone may be unsafe you will involve a trusted adult or counselor, and offer concrete help contacting support services",
+      "distractors": [
+        "Promise total secrecy no matter what happens later, even if the pressure escalates or your friend becomes unsafe, so that your friend keeps trusting and confiding in you",
+        "Tell several classmates what your friend shared, without their permission, so that the partner faces social pressure from the group to stop the behavior on their own",
+        "Insist that your friend report it that same day on your timetable, and withdraw your support and friendship if they are not ready to take that step yet"
+      ],
+      "explanation": "Supporting a friend means respecting their autonomy - they decide the pace of most next steps - while being honest about the one limit: safety. A supporter who names that limit in advance, and who offers practical help such as sitting with the friend while they call a counselor or a support service, protects both trust and safety.",
+      "memoryHook": "T-Rexy says: Respect their choices, be honest about safety, offer concrete help.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "healthy-relationships",
+        "helping-a-friend"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two older students talking quietly with a counselor in a welcoming office, the counselor listening with care and offering a tissue box on the desk. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Support autonomy, be honest about safety limits, and help contact services.",
+        "title": "SUPPORT WITH HONEST LIMITS"
+      }
+    },
+    {
+      "id": "HEA10_144",
+      "question": "Which description best captures a healthy relationship at any age?",
+      "correctAnswer": "Both people can say no, set and reset boundaries, disagree, and make their own decisions - and each person's limits are honored without punishment or pressure",
+      "distractors": [
+        "Partners merge their lives completely, share every account and password, and check with each other before making even small personal decisions on their own",
+        "Disagreement almost never happens because one partner usually defers to the other, keeps their own preferences quiet, and accepts the final decision without further discussion",
+        "Each partner keeps a careful score of favors, money and time given, repays every imbalance promptly, and treats the relationship as an exchange that must balance exactly"
+      ],
+      "explanation": "The through-line of Washington's healthy relationships teaching is autonomy inside connection: two whole people who communicate, keep their own friendships and decisions, and can change a boundary without being punished for it. Control, scorekeeping, and one-sided deference are warning signs, not closeness.",
+      "memoryHook": "T-Rexy says: Healthy means two whole people whose nos are honored.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "washington-cshe",
+        "healthy-relationships",
+        "boundaries"
+      ],
+      "difficulty": "easy",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration of two young adults walking side by side on a tree-lined path, relaxed conversation and comfortable body language. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "A healthy relationship honors both people's boundaries without punishment.",
+        "title": "TWO WHOLE PEOPLE"
+      }
+    },
+    {
+      "id": "HEA10_145",
+      "question": "Research on shaken baby syndrome shows that shaking most often happens in which situation?",
+      "correctAnswer": "A caregiver who is exhausted, stressed, or unsupported reaches a breaking point when a baby cries inconsolably for a long time - inconsolable crying is the most common trigger",
+      "distractors": [
+        "During planned activities, when a caregiver decides in advance to discipline a baby for crying",
+        "Mostly in hospitals, when trained medical staff handle infants roughly during check-ups",
+        "When babies are unusually quiet, which frustrates caregivers who expect more interaction"
+      ],
+      "explanation": "Shaken baby syndrome is usually an impulsive reaction, not a planned act: the strongest known trigger is prolonged, inconsolable crying, especially when the caregiver is sleep-deprived, stressed, alone without support, or dealing with other pressures such as money worries or substance use. Recognizing those risk factors and stressors in advance - in yourself or in another caregiver - is a core part of the prevention instruction Wisconsin requires in one of grades 10 to 12 (ss.121.02(1)(L)6 and 253.15(5)).",
+      "memoryHook": "T-Rexy says: inconsolable crying plus an exhausted caregiver is the danger zone - plan for it.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "wisconsin-law",
+        "shaken-baby-syndrome",
+        "risk-factors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration: a tired young parent sitting on the edge of a couch at night with head in hands while a baby rests safely in a crib in the same room, a supportive grandparent arriving at the doorway with a bag, suggesting relief and support. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Exhaustion, stress, and nonstop crying together are the classic risk situation.",
+        "title": "KNOW THE RISK MOMENT"
+      }
+    },
+    {
+      "id": "HEA10_146",
+      "question": "Before a babysitting job caring for an infant, which plan best follows shaken baby prevention guidance?",
+      "correctAnswer": "Prepare a crying plan in advance: check basic needs first (feeding, diaper, burping, temperature), use gentle soothing (rocking, quiet talking, a walk), and if frustration rises, place the baby safely in the crib, take a short break, and phone the parents or another trusted adult",
+      "distractors": [
+        "Decide that if the baby cries for more than a few minutes, a firm shake will reset the crying and settle the baby",
+        "Plan to keep the baby awake the whole time with constant bouncing and tossing games so the baby is too tired to cry later",
+        "Avoid picking the baby up at all, since holding a crying baby is what leads to shaking injuries"
+      ],
+      "explanation": "Prevention works best as a plan made before frustration hits. Wisconsin's statutory content list (s.253.15(2)) names exactly this: appropriate ways to manage crying, fussing, and other causes that can lead a person to shake or throw an infant, and ways to reduce the risks. A written or rehearsed crying plan - needs check, soothing steps, a safe place to put the baby down, and a person to call - protects both the baby and the caregiver, and asking for relief is a strength, not a failure.",
+      "memoryHook": "T-Rexy says: make the crying plan before the crying starts - needs, soothe, safe place, phone call.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "wisconsin-law",
+        "shaken-baby-syndrome",
+        "caregiving"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration: a teenage babysitter in a living room calmly rocking a baby in a chair, a notepad with a simple checklist shape (no readable writing) and a phone on the side table, a crib visible nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "A crying plan made in advance keeps both baby and caregiver safe.",
+        "title": "MAKE A CRYING PLAN"
+      }
+    },
+    {
+      "id": "HEA10_147",
+      "question": "Why do health and law treat shaking a baby as such a serious act, beyond the moment itself?",
+      "correctAnswer": "Because it is a form of child abuse that can leave a child with permanent brain injury or kill them - and a caregiver who shakes a baby faces serious criminal consequences, on top of harm that can never be undone",
+      "distractors": [
+        "Because babies who are shaken usually recover fully, but hospitals must document every incident for insurance reasons",
+        "Because the main risk is a fine for the caregiver, while the baby is very unlikely to be seriously hurt",
+        "Because shaking is only a concern for newborns in their first week, and older infants are strong enough that it cannot injure them"
+      ],
+      "explanation": "An infant's brain is fragile and the neck muscles are weak, so shaking tears blood vessels and brain tissue. Survivors can face lifelong blindness, cerebral palsy, seizures, and intellectual disability, and many shaken babies die. Shaking or throwing a child is child abuse under the law, with severe criminal penalties - but no legal outcome can reverse the injury. That combination of lifelong harm to the child and life-changing legal consequences for the caregiver is why Wisconsin law requires this instruction twice: once in grades 5 to 8 and again in grades 10 to 12.",
+      "memoryHook": "T-Rexy says: shaking is abuse with lifelong costs - for the baby and for the person who does it.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "wisconsin-law",
+        "shaken-baby-syndrome",
+        "consequences"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Serious mature educational illustration: a high school health teacher leading a solemn classroom discussion, students listening attentively, a blank presentation screen behind the teacher, respectful and somber mood. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Shaking a baby is child abuse - the harm and the legal consequences last a lifetime.",
+        "title": "HARM THAT CANNOT BE UNDONE"
+      }
+    }
+  ]
+}
