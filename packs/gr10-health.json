@@ -5,7 +5,7 @@
   "version": "1.0",
   "language": "en",
   "passingScore": 60,
-  "totalQuestions": 144,
+  "totalQuestions": 147,
   "addedAt": "2026-11-05",
   "tags": [
     "health",
@@ -2958,6 +2958,87 @@
         "scene": "Mature educational illustration of two young adults walking side by side on a tree-lined path, relaxed conversation and comfortable body language. No readable text, no words, no letters, no numbers anywhere in the image.",
         "tip": "A healthy relationship honors both people's boundaries without punishment.",
         "title": "TWO WHOLE PEOPLE"
+      }
+    },
+    {
+      "id": "HEA10_145",
+      "question": "Research on shaken baby syndrome shows that shaking most often happens in which situation?",
+      "correctAnswer": "A caregiver who is exhausted, stressed, or unsupported reaches a breaking point when a baby cries inconsolably for a long time - inconsolable crying is the most common trigger",
+      "distractors": [
+        "During planned activities, when a caregiver decides in advance to discipline a baby for crying",
+        "Mostly in hospitals, when trained medical staff handle infants roughly during check-ups",
+        "When babies are unusually quiet, which frustrates caregivers who expect more interaction"
+      ],
+      "explanation": "Shaken baby syndrome is usually an impulsive reaction, not a planned act: the strongest known trigger is prolonged, inconsolable crying, especially when the caregiver is sleep-deprived, stressed, alone without support, or dealing with other pressures such as money worries or substance use. Recognizing those risk factors and stressors in advance - in yourself or in another caregiver - is a core part of the prevention instruction Wisconsin requires in one of grades 10 to 12 (ss.121.02(1)(L)6 and 253.15(5)).",
+      "memoryHook": "T-Rexy says: inconsolable crying plus an exhausted caregiver is the danger zone - plan for it.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "wisconsin-law",
+        "shaken-baby-syndrome",
+        "risk-factors"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration: a tired young parent sitting on the edge of a couch at night with head in hands while a baby rests safely in a crib in the same room, a supportive grandparent arriving at the doorway with a bag, suggesting relief and support. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Exhaustion, stress, and nonstop crying together are the classic risk situation.",
+        "title": "KNOW THE RISK MOMENT"
+      }
+    },
+    {
+      "id": "HEA10_146",
+      "question": "Before a babysitting job caring for an infant, which plan best follows shaken baby prevention guidance?",
+      "correctAnswer": "Prepare a crying plan in advance: check basic needs first (feeding, diaper, burping, temperature), use gentle soothing (rocking, quiet talking, a walk), and if frustration rises, place the baby safely in the crib, take a short break, and phone the parents or another trusted adult",
+      "distractors": [
+        "Decide that if the baby cries for more than a few minutes, a firm shake will reset the crying and settle the baby",
+        "Plan to keep the baby awake the whole time with constant bouncing and tossing games so the baby is too tired to cry later",
+        "Avoid picking the baby up at all, since holding a crying baby is what leads to shaking injuries"
+      ],
+      "explanation": "Prevention works best as a plan made before frustration hits. Wisconsin's statutory content list (s.253.15(2)) names exactly this: appropriate ways to manage crying, fussing, and other causes that can lead a person to shake or throw an infant, and ways to reduce the risks. A written or rehearsed crying plan - needs check, soothing steps, a safe place to put the baby down, and a person to call - protects both the baby and the caregiver, and asking for relief is a strength, not a failure.",
+      "memoryHook": "T-Rexy says: make the crying plan before the crying starts - needs, soothe, safe place, phone call.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "wisconsin-law",
+        "shaken-baby-syndrome",
+        "caregiving"
+      ],
+      "difficulty": "medium",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Mature educational illustration: a teenage babysitter in a living room calmly rocking a baby in a chair, a notepad with a simple checklist shape (no readable writing) and a phone on the side table, a crib visible nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "A crying plan made in advance keeps both baby and caregiver safe.",
+        "title": "MAKE A CRYING PLAN"
+      }
+    },
+    {
+      "id": "HEA10_147",
+      "question": "Why do health and law treat shaking a baby as such a serious act, beyond the moment itself?",
+      "correctAnswer": "Because it is a form of child abuse that can leave a child with permanent brain injury or kill them - and a caregiver who shakes a baby faces serious criminal consequences, on top of harm that can never be undone",
+      "distractors": [
+        "Because babies who are shaken usually recover fully, but hospitals must document every incident for insurance reasons",
+        "Because the main risk is a fine for the caregiver, while the baby is very unlikely to be seriously hurt",
+        "Because shaking is only a concern for newborns in their first week, and older infants are strong enough that it cannot injure them"
+      ],
+      "explanation": "An infant's brain is fragile and the neck muscles are weak, so shaking tears blood vessels and brain tissue. Survivors can face lifelong blindness, cerebral palsy, seizures, and intellectual disability, and many shaken babies die. Shaking or throwing a child is child abuse under the law, with severe criminal penalties - but no legal outcome can reverse the injury. That combination of lifelong harm to the child and life-changing legal consequences for the caregiver is why Wisconsin law requires this instruction twice: once in grades 5 to 8 and again in grades 10 to 12.",
+      "memoryHook": "T-Rexy says: shaking is abuse with lifelong costs - for the baby and for the person who does it.",
+      "imageUrl": "topic:health",
+      "tags": [
+        "wisconsin-law",
+        "shaken-baby-syndrome",
+        "consequences"
+      ],
+      "difficulty": "hard",
+      "dynamic": false,
+      "source": "original",
+      "img": {
+        "dino": false,
+        "scene": "Serious mature educational illustration: a high school health teacher leading a solemn classroom discussion, students listening attentively, a blank presentation screen behind the teacher, respectful and somber mood. No readable text, no words, no letters, no numbers anywhere in the image.",
+        "tip": "Shaking a baby is child abuse - the harm and the legal consequences last a lifetime.",
+        "title": "HARM THAT CANNOT BE UNDONE"
       }
     }
   ]
