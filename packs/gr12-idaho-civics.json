@@ -24,7 +24,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Popular sovereignty means authority originates with the people; governments hold only the power the people grant, a break from the divine-right theory the Revolution rejected.",
-   "memoryHook": "T-Rexy says: Power starts with the people.",
+   "memoryHook": "Power starts with the people.",
    "tags": [
     "federal",
     "founding"
@@ -35,7 +35,7 @@
    "img": {
     "dino": false,
     "scene": "An old parchment document resting on a wooden desk beside a brass lamp, warm window light. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Power starts with the people.",
+    "tip": "Power starts with the people.",
     "title": "WE THE PEOPLE"
    }
   },
@@ -50,7 +50,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Popular sovereignty places the people as the source of all governmental power; officials are their agents, removable through elections and bound by constitutions the people ordain.",
-   "memoryHook": "T-Rexy says: The people are the boss.",
+   "memoryHook": "The people are the boss.",
    "tags": [
     "federal",
     "founding"
@@ -61,7 +61,7 @@
    "img": {
     "dino": false,
     "scene": "Citizens speaking with officials across a table at a small town hall meeting, friendly mood. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: The people are the boss.",
+    "tip": "The people are the boss.",
     "title": "POPULAR SOVEREIGNTY"
    }
   },
@@ -76,7 +76,7 @@
    ],
    "difficulty": "easy",
    "explanation": "The Articles gave Congress war, treaty, and postal powers, but taxation stayed with the states, whose requisitions often went unpaid - the flaw that drove calls for a stronger union.",
-   "memoryHook": "T-Rexy says: No tax power crippled the Articles.",
+   "memoryHook": "No tax power crippled the Articles.",
    "tags": [
     "federal",
     "founding"
@@ -87,7 +87,7 @@
    "img": {
     "dino": false,
     "scene": "A nearly empty treasury chest in a colonial-era meeting room, candles burning low. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: No tax power crippled the Articles.",
+    "tip": "No tax power crippled the Articles.",
     "title": "ARTICLES OF CONFEDERATION"
    }
   },
@@ -102,7 +102,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Shays' Rebellion showed the Confederation could neither raise forces reliably nor calm domestic unrest, strengthening the movement that produced the Philadelphia Convention of 1787.",
-   "memoryHook": "T-Rexy says: Shays showed the cracks.",
+   "memoryHook": "Shays showed the cracks.",
    "tags": [
     "federal",
     "founding"
@@ -113,7 +113,7 @@
    "img": {
     "dino": false,
     "scene": "Colonial-era farmers gathered outside a stone courthouse on a cold morning, somber mood. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Shays showed the cracks.",
+    "tip": "Shays showed the cracks.",
     "title": "SHAYS REBELLION"
    }
   },
@@ -128,7 +128,7 @@
    ],
    "difficulty": "medium",
    "explanation": "The delegates were called to amend the Articles; once assembled they concluded revision was not enough and drafted an entirely new Constitution instead.",
-   "memoryHook": "T-Rexy says: Called to revise, they rewrote.",
+   "memoryHook": "Called to revise, they rewrote.",
    "tags": [
     "federal",
     "founding"
@@ -139,7 +139,7 @@
    "img": {
     "dino": false,
     "scene": "Men in 1700s dress debating around a long green table in a brick assembly room. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Called to revise, they rewrote.",
+    "tip": "Called to revise, they rewrote.",
     "title": "PHILADELPHIA 1787"
    }
   },
@@ -154,7 +154,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Virginia wanted seats by population in both houses; New Jersey insisted on state equality. The Connecticut Compromise split the question - proportional House, equal Senate.",
-   "memoryHook": "T-Rexy says: Equal or by population - that was the fight.",
+   "memoryHook": "Equal or by population - that was the fight.",
    "tags": [
     "federal",
     "founding"
@@ -165,7 +165,7 @@
    "img": {
     "dino": false,
     "scene": "Two groups of delegates facing each other across a convention table, maps spread between them, no labels. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Equal or by population - that was the fight.",
+    "tip": "Equal or by population - that was the fight.",
     "title": "TWO PLANS"
    }
   },
@@ -180,7 +180,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Southern states wanted enslaved people counted fully for seats but not for taxes; Northern states the reverse. The 3/5 formula was the bargain struck - a moral failure that nonetheless shaped House power for decades.",
-   "memoryHook": "T-Rexy says: Three-fifths bought agreement, at a price.",
+   "memoryHook": "Three-fifths bought agreement, at a price.",
    "tags": [
     "federal",
     "founding"
@@ -191,7 +191,7 @@
    "img": {
     "dino": false,
     "scene": "Delegates studying a large tally sheet by candlelight at a convention table, faces grave, sheet blank. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Three-fifths bought agreement, at a price.",
+    "tip": "Three-fifths bought agreement, at a price.",
     "title": "THREE-FIFTHS COMPROMISE"
    }
   },
@@ -206,7 +206,7 @@
    ],
    "difficulty": "hard",
    "explanation": "The Federalist Papers (1787-88) remain the most influential contemporary explanation of the Constitution's design, written to win ratification in New York.",
-   "memoryHook": "T-Rexy says: Publius argued for ratification.",
+   "memoryHook": "Publius argued for ratification.",
    "tags": [
     "federal",
     "founding"
@@ -217,7 +217,7 @@
    "img": {
     "dino": false,
     "scene": "A stack of freshly printed newspapers beside an 18th century press, ink pots nearby. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Publius argued for ratification.",
+    "tip": "Publius argued for ratification.",
     "title": "THE FEDERALIST PAPERS"
    }
   },
@@ -232,7 +232,7 @@
    ],
    "difficulty": "hard",
    "explanation": "Anti-Federalists feared a distant national government; their pressure produced the promise of a bill of rights, added in 1791 as the first ten amendments.",
-   "memoryHook": "T-Rexy says: No rights list, no deal.",
+   "memoryHook": "No rights list, no deal.",
    "tags": [
     "federal",
     "founding"
@@ -243,7 +243,7 @@
    "img": {
     "dino": false,
     "scene": "A speaker addressing a crowd from statehouse steps in colonial dress, listeners debating. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: No rights list, no deal.",
+    "tip": "No rights list, no deal.",
     "title": "ANTI-FEDERALIST DEMAND"
    }
   },
@@ -258,7 +258,7 @@
    ],
    "difficulty": "hard",
    "explanation": "Separation of powers divides lawmaking, execution, and judging among different hands so that no single body holds the whole machinery of government; federalism, by contrast, divides power between levels.",
-   "memoryHook": "T-Rexy says: Three branches, three jobs.",
+   "memoryHook": "Three branches, three jobs.",
    "tags": [
     "federal",
     "branches"
@@ -269,7 +269,7 @@
    "img": {
     "dino": false,
     "scene": "Three stone columns of different styles supporting one shared roof beam, symbolic. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Three branches, three jobs.",
+    "tip": "Three branches, three jobs.",
     "title": "THREE BRANCHES"
    }
   },
@@ -284,7 +284,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Checks and balances arm each branch against the others: the veto checks Congress, and Congress can answer with a two-thirds override in both houses.",
-   "memoryHook": "T-Rexy says: The veto checks Congress.",
+   "memoryHook": "The veto checks Congress.",
    "tags": [
     "federal",
     "branches"
@@ -295,7 +295,7 @@
    "img": {
     "dino": false,
     "scene": "A large document on a desk with a fountain pen set down beside it unsigned, capitol dome through the window. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: The veto checks Congress.",
+    "tip": "The veto checks Congress.",
     "title": "CHECKS AND BALANCES"
    }
   },
@@ -310,7 +310,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Marbury grounded judicial review: a law conflicting with the Constitution is void, and it is the courts' province to say what the law is. The Court used the power sparingly for decades afterward.",
-   "memoryHook": "T-Rexy says: Marbury claimed judicial review.",
+   "memoryHook": "Marbury claimed judicial review.",
    "tags": [
     "federal",
     "judiciary"
@@ -321,7 +321,7 @@
    "img": {
     "dino": false,
     "scene": "A judge in early 1800s dress reading a commission paper at a high wooden bench. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Marbury claimed judicial review.",
+    "tip": "Marbury claimed judicial review.",
     "title": "MARBURY V MADISON"
    }
   },
@@ -336,7 +336,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Article V demands supermajorities at both ends: two-thirds of Congress (or a convention) to propose, three-fourths of the states - 38 of 50 - to ratify.",
-   "memoryHook": "T-Rexy says: Propose by two-thirds, ratify by three-fourths.",
+   "memoryHook": "Propose by two-thirds, ratify by three-fourths.",
    "tags": [
     "federal",
     "amendments"
@@ -347,7 +347,7 @@
    "img": {
     "dino": false,
     "scene": "Hands placing a sealed envelope into a large wooden ballot-style box in a statehouse hall. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Propose by two-thirds, ratify by three-fourths.",
+    "tip": "Propose by two-thirds, ratify by three-fourths.",
     "title": "SEALED ENVELOPE INTO A BOX"
    }
   },
@@ -362,7 +362,7 @@
    ],
    "difficulty": "medium",
    "explanation": "The First Amendment bars government from abridging press freedom; officials who dislike coverage must answer it with argument, not suppression - libel, proved in court, is a separate matter.",
-   "memoryHook": "T-Rexy says: The press prints, officials respond.",
+   "memoryHook": "The press prints, officials respond.",
    "tags": [
     "federal",
     "amendments"
@@ -373,7 +373,7 @@
    "img": {
     "dino": false,
     "scene": "A morning newspaper being read at a diner counter, coffee beside it, headline area blank. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: The press prints, officials respond.",
+    "tip": "The press prints, officials respond.",
     "title": "FREEDOM OF THE PRESS"
    }
   },
@@ -388,7 +388,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Establishment forbids government sponsorship of religion; Free Exercise protects private religious practice. The same amendment supplies both sides of the school-prayer cases.",
-   "memoryHook": "T-Rexy says: One clause stops sponsorship, one protects practice.",
+   "memoryHook": "One clause stops sponsorship, one protects practice.",
    "tags": [
     "federal",
     "amendments"
@@ -399,7 +399,7 @@
    "img": {
     "dino": false,
     "scene": "A balance scale with a schoolhouse on one side and a small chapel on the other, level in soft light. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: One clause stops sponsorship, one protects practice.",
+    "tip": "One clause stops sponsorship, one protects practice.",
     "title": "TWO RELIGION CLAUSES"
    }
   },
@@ -414,7 +414,7 @@
    ],
    "difficulty": "medium",
    "explanation": "The Second Amendment protects an individual right to possess firearms for traditionally lawful purposes, as the Supreme Court read it in District of Columbia v. Heller (2008).",
-   "memoryHook": "T-Rexy says: Second Amendment: keep and bear arms.",
+   "memoryHook": "Second Amendment: keep and bear arms.",
    "tags": [
     "federal",
     "amendments"
@@ -425,7 +425,7 @@
    "img": {
     "dino": false,
     "scene": "A hunting rifle resting safely in a wooden rack inside a ranch cabin, morning light. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Second Amendment: keep and bear arms.",
+    "tip": "Second Amendment: keep and bear arms.",
     "title": "SECOND AMENDMENT"
    }
   },
@@ -440,7 +440,7 @@
    ],
    "difficulty": "medium",
    "explanation": "The Fourth Amendment conditions searches on warrants issued by a neutral judge, supported by probable cause and particular description; exceptions exist, but the warrant is the rule.",
-   "memoryHook": "T-Rexy says: No warrant, no search - that is the rule.",
+   "memoryHook": "No warrant, no search - that is the rule.",
    "tags": [
     "federal",
     "amendments"
@@ -451,7 +451,7 @@
    "img": {
     "dino": false,
     "scene": "A judge's desk with a gavel and an unsigned document beside it, courthouse window behind. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: No warrant, no search - that is the rule.",
+    "tip": "No warrant, no search - that is the rule.",
     "title": "FOURTH AMENDMENT"
    }
   },
@@ -466,7 +466,7 @@
    ],
    "difficulty": "hard",
    "explanation": "The Takings Clause permits eminent domain for public use with just compensation - the owner must be made whole, usually at fair market value, even though the sale cannot be refused.",
-   "memoryHook": "T-Rexy says: Public use requires just compensation.",
+   "memoryHook": "Public use requires just compensation.",
    "tags": [
     "federal",
     "amendments"
@@ -477,7 +477,7 @@
    "img": {
     "dino": false,
     "scene": "Survey stakes and ribbon marking a strip across the edge of a green farm field beside a highway. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Public use requires just compensation.",
+    "tip": "Public use requires just compensation.",
     "title": "JUST COMPENSATION"
    }
   },
@@ -492,7 +492,7 @@
    ],
    "difficulty": "hard",
    "explanation": "The Confrontation Clause guarantees the accused the chance to test accusers face to face; the same amendment adds speedy trial, impartial jury, notice of charges, and counsel.",
-   "memoryHook": "T-Rexy says: Face your accusers.",
+   "memoryHook": "Face your accusers.",
    "tags": [
     "federal",
     "amendments"
@@ -503,7 +503,7 @@
    "img": {
     "dino": false,
     "scene": "An empty witness chair in a courtroom with a defendant's table facing it. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Face your accusers.",
+    "tip": "Face your accusers.",
     "title": "CONFRONTATION"
    }
   },
@@ -518,7 +518,7 @@
    ],
    "difficulty": "hard",
    "explanation": "The Eighth Amendment limits the financial and physical penalties government may impose: bail and fines must not be excessive, and punishments must not be cruel and unusual.",
-   "memoryHook": "T-Rexy says: Eighth Amendment: penalties have limits.",
+   "memoryHook": "Eighth Amendment: penalties have limits.",
    "tags": [
     "federal",
     "amendments"
@@ -529,7 +529,7 @@
    "img": {
     "dino": false,
     "scene": "A courtroom scale weighed down absurdly on one side by an oversized money bag, symbolic. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Eighth Amendment: penalties have limits.",
+    "tip": "Eighth Amendment: penalties have limits.",
     "title": "EIGHTH AMENDMENT"
    }
   },
@@ -544,7 +544,7 @@
    ],
    "difficulty": "easy",
    "explanation": "The Ninth Amendment answers the fear that a written list would shrink liberty: the people's rights are broader than the enumeration, and unlisted rights are retained, not surrendered.",
-   "memoryHook": "T-Rexy says: Unlisted rights are still rights.",
+   "memoryHook": "Unlisted rights are still rights.",
    "tags": [
     "federal",
     "amendments"
@@ -555,7 +555,7 @@
    "img": {
     "dino": false,
     "scene": "An open book with several blank pages following the written ones, on a library table. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Unlisted rights are still rights.",
+    "tip": "Unlisted rights are still rights.",
     "title": "NINTH AMENDMENT"
    }
   },
@@ -570,7 +570,7 @@
    ],
    "difficulty": "easy",
    "explanation": "The Tenth Amendment states the federalism default; licensing, schools, and most day-to-day governance are reserved state powers, which is exactly why state civics has its own content.",
-   "memoryHook": "T-Rexy says: Reserved powers run daily life.",
+   "memoryHook": "Reserved powers run daily life.",
    "tags": [
     "federal",
     "federalism"
@@ -581,7 +581,7 @@
    "img": {
     "dino": false,
     "scene": "A state capitol dome in the foreground with a distant national capitol small behind it, symbolic. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Reserved powers run daily life.",
+    "tip": "Reserved powers run daily life.",
     "title": "TENTH AMENDMENT"
    }
   },
@@ -596,7 +596,7 @@
    ],
    "difficulty": "easy",
    "explanation": "The Emancipation Proclamation freed enslaved people only in rebellious states as a war measure; the Thirteenth Amendment abolished slavery and involuntary servitude throughout the Union, except as criminal punishment.",
-   "memoryHook": "T-Rexy says: Thirteen ended slavery everywhere.",
+   "memoryHook": "Thirteen ended slavery everywhere.",
    "tags": [
     "federal",
     "amendments"
@@ -607,7 +607,7 @@
    "img": {
     "dino": false,
     "scene": "Broken iron shackles resting on a plain wooden surface in quiet light. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Thirteen ended slavery everywhere.",
+    "tip": "Thirteen ended slavery everywhere.",
     "title": "THIRTEENTH AMENDMENT"
    }
   },
@@ -622,7 +622,7 @@
    ],
    "difficulty": "medium",
    "explanation": "The Fourteenth Amendment (1868) constitutionalized birthright citizenship - all persons born or naturalized in the United States and subject to its jurisdiction are citizens - overruling Dred Scott's contrary holding.",
-   "memoryHook": "T-Rexy says: Born here means citizen here.",
+   "memoryHook": "Born here means citizen here.",
    "tags": [
     "federal",
     "amendments"
@@ -633,7 +633,7 @@
    "img": {
     "dino": false,
     "scene": "A newborn's hospital bassinet beside a window with mountain light, soft and quiet. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Born here means citizen here.",
+    "tip": "Born here means citizen here.",
     "title": "BIRTHRIGHT CITIZENSHIP"
    }
   },
@@ -648,7 +648,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Ratified in 1870, the Fifteenth Amendment bars denying or abridging the vote on account of race, color, or previous condition of servitude; later laws like the Voting Rights Act gave it enforcement teeth.",
-   "memoryHook": "T-Rexy says: Fifteen: the vote cannot turn on race.",
+   "memoryHook": "Fifteen: the vote cannot turn on race.",
    "tags": [
     "federal",
     "amendments"
@@ -659,7 +659,7 @@
    "img": {
     "dino": false,
     "scene": "A row of hands of many skin tones dropping ballots into one ballot box together. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Fifteen: the vote cannot turn on race.",
+    "tip": "Fifteen: the vote cannot turn on race.",
     "title": "FIFTEENTH AMENDMENT"
    }
   },
@@ -674,7 +674,7 @@
    ],
    "difficulty": "medium",
    "explanation": "The Sixteenth Amendment (1913) authorizes Congress to tax incomes from whatever source derived, without apportioning the tax among the states by population.",
-   "memoryHook": "T-Rexy says: Sixteen opened the income tax.",
+   "memoryHook": "Sixteen opened the income tax.",
    "tags": [
     "federal",
     "amendments"
@@ -685,7 +685,7 @@
    "img": {
     "dino": false,
     "scene": "A paycheck lying on a kitchen table beside a calculator and a coffee mug, no readable figures. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Sixteen opened the income tax.",
+    "tip": "Sixteen opened the income tax.",
     "title": "SIXTEENTH AMENDMENT"
    }
   },
@@ -700,7 +700,7 @@
    ],
    "difficulty": "medium",
    "explanation": "The Seventeenth Amendment (1913) transferred Senate elections from state legislatures to the people, leaving legislatures only the power to let governors fill vacancies temporarily.",
-   "memoryHook": "T-Rexy says: Seventeen gave Senate seats to voters.",
+   "memoryHook": "Seventeen gave Senate seats to voters.",
    "tags": [
     "federal",
     "amendments"
@@ -711,7 +711,7 @@
    "img": {
     "dino": false,
     "scene": "Voters marking ballots in a row of voting booths, backs to camera. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Seventeen gave Senate seats to voters.",
+    "tip": "Seventeen gave Senate seats to voters.",
     "title": "SEVENTEENTH AMENDMENT"
    }
   },
@@ -726,7 +726,7 @@
    ],
    "difficulty": "hard",
    "explanation": "Ratified in 1951 after Franklin Roosevelt's four elections, the Twenty-second Amendment caps election to the presidency at two, with a partial-term rule capping total service at ten years minus a day.",
-   "memoryHook": "T-Rexy says: Two elections, then the door closes.",
+   "memoryHook": "Two elections, then the door closes.",
    "tags": [
     "federal",
     "amendments"
@@ -737,7 +737,7 @@
    "img": {
     "dino": false,
     "scene": "An hourglass nearly run out standing on an executive desk beside a flag. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Two elections, then the door closes.",
+    "tip": "Two elections, then the door closes.",
     "title": "TWENTY-SECOND AMENDMENT"
    }
   },
@@ -752,7 +752,7 @@
    ],
    "difficulty": "hard",
    "explanation": "The Twenty-fifth Amendment (1967) lets the President nominate a new Vice President when the office empties; both houses confirm. It also governs presidential disability and succession.",
-   "memoryHook": "T-Rexy says: Twenty-five fills the VP's chair.",
+   "memoryHook": "Twenty-five fills the VP's chair.",
    "tags": [
     "federal",
     "amendments"
@@ -763,7 +763,7 @@
    "img": {
     "dino": false,
     "scene": "Two formal chairs in a row, the second one standing empty, draped office behind. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Twenty-five fills the VP's chair.",
+    "tip": "Twenty-five fills the VP's chair.",
     "title": "TWENTY-FIFTH AMENDMENT"
    }
   },
@@ -778,7 +778,7 @@
    ],
    "difficulty": "hard",
    "explanation": "The Twenty-fourth Amendment (1964) banned poll taxes in federal elections; the Supreme Court's Harper decision (1966) then struck state-election poll taxes under the Fourteenth Amendment.",
-   "memoryHook": "T-Rexy says: Twenty-four banned the federal poll tax.",
+   "memoryHook": "Twenty-four banned the federal poll tax.",
    "tags": [
     "federal",
     "amendments"
@@ -789,7 +789,7 @@
    "img": {
     "dino": false,
     "scene": "A coin slot on an old wooden ballot box, pried off and lying beside it, symbolic. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Twenty-four banned the federal poll tax.",
+    "tip": "Twenty-four banned the federal poll tax.",
     "title": "POLL TAX"
    }
   },
@@ -804,7 +804,7 @@
    ],
    "difficulty": "easy",
    "explanation": "House members stand for election every two years, keeping the chamber closest to shifting public opinion; senators serve six and presidents four, by contrast.",
-   "memoryHook": "T-Rexy says: House terms run two years.",
+   "memoryHook": "House terms run two years.",
    "tags": [
     "federal",
     "congress"
@@ -815,7 +815,7 @@
    "img": {
     "dino": false,
     "scene": "A campaign sign being planted in a front yard in autumn, wording on the sign blank. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: House terms run two years.",
+    "tip": "House terms run two years.",
     "title": "HOUSE TERMS"
    }
   },
@@ -830,7 +830,7 @@
    ],
    "difficulty": "easy",
    "explanation": "The Constitution divides senators into three classes with staggered six-year terms, giving the Senate continuity - it never turns over entirely at one election.",
-   "memoryHook": "T-Rexy says: Six-year terms, staggered in thirds.",
+   "memoryHook": "Six-year terms, staggered in thirds.",
    "tags": [
     "federal",
     "congress"
@@ -841,7 +841,7 @@
    "img": {
     "dino": false,
     "scene": "Three rows of desks in a senate chamber, one row lit brightly and the others dim, symbolic. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Six-year terms, staggered in thirds.",
+    "tip": "Six-year terms, staggered in thirds.",
     "title": "STAGGERED SENATE"
    }
   },
@@ -856,7 +856,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Age is only part of it - the House also requires seven years' citizenship and residence in the state - but 27 clears just one of the three age bars.",
-   "memoryHook": "T-Rexy says: Twenty-five, thirty, thirty-five.",
+   "memoryHook": "Twenty-five, thirty, thirty-five.",
    "tags": [
     "federal",
     "congress"
@@ -867,7 +867,7 @@
    "img": {
     "dino": false,
     "scene": "Three ascending steps leading to three doors of increasing size, symbolic. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Twenty-five, thirty, thirty-five.",
+    "tip": "Twenty-five, thirty, thirty-five.",
     "title": "AGE FLOORS"
    }
   },
@@ -882,7 +882,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Revenue bills start in the chamber elected directly and most frequently by the people; the Senate may still amend them, as it did even under this clause.",
-   "memoryHook": "T-Rexy says: Tax bills are born in the House.",
+   "memoryHook": "Tax bills are born in the House.",
    "tags": [
     "federal",
     "congress"
@@ -893,7 +893,7 @@
    "img": {
     "dino": false,
     "scene": "A document being carried from a larger chamber doorway toward a smaller one down a marble hall. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Tax bills are born in the House.",
+    "tip": "Tax bills are born in the House.",
     "title": "ORIGINATION CLAUSE"
    }
   },
@@ -908,7 +908,7 @@
    ],
    "difficulty": "medium",
    "explanation": "The House impeaches by majority vote, functioning like a grand jury; the Senate tries the case, and conviction - removal - takes two-thirds of senators present.",
-   "memoryHook": "T-Rexy says: House charges, Senate removes or acquits.",
+   "memoryHook": "House charges, Senate removes or acquits.",
    "tags": [
     "federal",
     "congress"
@@ -919,7 +919,7 @@
    "img": {
     "dino": false,
     "scene": "A solemn chamber arranged for a trial, with a presiding chair and rows of seated members. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: House charges, Senate removes or acquits.",
+    "tip": "House charges, Senate removes or acquits.",
     "title": "IMPEACHMENT TRIAL"
    }
   },
@@ -934,7 +934,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Article II requires two-thirds Senate consent for treaties - a supermajority that makes treaties deliberately harder than ordinary statutes, which need only majorities of both houses plus a signature or override.",
-   "memoryHook": "T-Rexy says: Treaties need two-thirds of the Senate.",
+   "memoryHook": "Treaties need two-thirds of the Senate.",
    "tags": [
     "federal",
     "congress"
@@ -945,7 +945,7 @@
    "img": {
     "dino": false,
     "scene": "A rolled treaty document tied with ribbon on a desk, a mountain border landscape through the window. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Treaties need two-thirds of the Senate.",
+    "tip": "Treaties need two-thirds of the Senate.",
     "title": "TREATY CONSENT"
    }
   },
@@ -960,7 +960,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Cloture's three-fifths threshold shapes modern lawmaking: major bills effectively need 60 Senate votes, not a simple majority, before a final vote can occur.",
-   "memoryHook": "T-Rexy says: Sixty ends most filibusters.",
+   "memoryHook": "Sixty ends most filibusters.",
    "tags": [
     "federal",
     "congress"
@@ -971,7 +971,7 @@
    "img": {
     "dino": false,
     "scene": "A senator speaking at a podium piled high with papers, late-evening light in the chamber. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Sixty ends most filibusters.",
+    "tip": "Sixty ends most filibusters.",
     "title": "CLOTURE"
    }
   },
@@ -986,7 +986,7 @@
    ],
    "difficulty": "hard",
    "explanation": "McCulloch read the Necessary and Proper Clause broadly: let the end be legitimate and within the Constitution, and the means Congress chooses are constitutional too.",
-   "memoryHook": "T-Rexy says: Necessary and proper means room to work.",
+   "memoryHook": "Necessary and proper means room to work.",
    "tags": [
     "federal",
     "congress"
@@ -997,7 +997,7 @@
    "img": {
     "dino": false,
     "scene": "An early American bank building with columns, a state tax notice posted blank on its door. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Necessary and proper means room to work.",
+    "tip": "Necessary and proper means room to work.",
     "title": "MCCULLOCH V MARYLAND"
    }
   },
@@ -1012,7 +1012,7 @@
    ],
    "difficulty": "hard",
    "explanation": "The Commerce Clause (Article I, Section 8) reaches goods moving across state lines; since Gibbons v. Ogden (1824) it has been read as a wide grant over interstate economic activity.",
-   "memoryHook": "T-Rexy says: Interstate commerce is Congress's beat.",
+   "memoryHook": "Interstate commerce is Congress's beat.",
    "tags": [
     "federal",
     "congress"
@@ -1023,7 +1023,7 @@
    "img": {
     "dino": false,
     "scene": "A freight train crossing a steel bridge over a wide river canyon at sunset. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Interstate commerce is Congress's beat.",
+    "tip": "Interstate commerce is Congress's beat.",
     "title": "COMMERCE CLAUSE"
    }
   },
@@ -1038,7 +1038,7 @@
    ],
    "difficulty": "hard",
    "explanation": "Article I gives Congress the declaration of war and the power to raise and support armies (with two-year funding limits); Article II makes the President the forces' commander once raised.",
-   "memoryHook": "T-Rexy says: Congress declares, the President commands.",
+   "memoryHook": "Congress declares, the President commands.",
    "tags": [
     "federal",
     "president"
@@ -1049,7 +1049,7 @@
    "img": {
     "dino": false,
     "scene": "A president reviewing troops on a parade ground, flags above, no readable insignia text. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Congress declares, the President commands.",
+    "tip": "Congress declares, the President commands.",
     "title": "DECLARE WAR"
    }
   },
@@ -1064,7 +1064,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Executive orders are instructions for executing existing law; they cannot create law from nothing, and courts strike orders that exceed the President's constitutional or statutory authority.",
-   "memoryHook": "T-Rexy says: Orders execute law, they do not invent it.",
+   "memoryHook": "Orders execute law, they do not invent it.",
    "tags": [
     "federal",
     "president"
@@ -1075,7 +1075,7 @@
    "img": {
     "dino": false,
     "scene": "A hand signing a document at an executive desk, agency seals blurred in the background. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Orders execute law, they do not invent it.",
+    "tip": "Orders execute law, they do not invent it.",
     "title": "EXECUTIVE ORDERS"
    }
   },
@@ -1090,7 +1090,7 @@
    ],
    "difficulty": "easy",
    "explanation": "A two-thirds vote of both houses overrides a veto and enacts the bill - the legislative answer built into checks and balances, used rarely because the threshold is high.",
-   "memoryHook": "T-Rexy says: Two-thirds of both houses beats a veto.",
+   "memoryHook": "Two-thirds of both houses beats a veto.",
    "tags": [
     "federal",
     "president"
@@ -1101,7 +1101,7 @@
    "img": {
     "dino": false,
     "scene": "Rows of raised hands filling a legislative chamber on both sides of a central aisle. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Two-thirds of both houses beats a veto.",
+    "tip": "Two-thirds of both houses beats a veto.",
     "title": "VETO OVERRIDE"
    }
   },
@@ -1116,7 +1116,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Article II's natural-born citizen requirement is the presidency's unique eligibility rule; naturalized citizens may serve in Congress, the Cabinet, and on the Supreme Court, but not as President or Vice President.",
-   "memoryHook": "T-Rexy says: President requires natural-born citizenship.",
+   "memoryHook": "President requires natural-born citizenship.",
    "tags": [
     "federal",
     "president"
@@ -1127,7 +1127,7 @@
    "img": {
     "dino": false,
     "scene": "A maternity ward window and a flag reflected together in the glass, symbolic. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: President requires natural-born citizenship.",
+    "tip": "President requires natural-born citizenship.",
     "title": "NATURAL-BORN RULE"
    }
   },
@@ -1142,7 +1142,7 @@
    ],
    "difficulty": "medium",
    "explanation": "The Constitution lets Congress set the line beyond the Vice President; the current statute runs Speaker, then president pro tempore, then Cabinet secretaries in the order their departments were created.",
-   "memoryHook": "T-Rexy says: After the VP comes the Speaker.",
+   "memoryHook": "After the VP comes the Speaker.",
    "tags": [
     "federal",
     "president"
@@ -1153,7 +1153,7 @@
    "img": {
     "dino": false,
     "scene": "A descending staircase of empty official chairs in a formal hall. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: After the VP comes the Speaker.",
+    "tip": "After the VP comes the Speaker.",
     "title": "SUCCESSION LINE"
    }
   },
@@ -1168,7 +1168,7 @@
    ],
    "difficulty": "medium",
    "explanation": "The Appointments Clause splits the job: the President nominates, the Senate advises and consents. Hearings in committee precede the full Senate's vote.",
-   "memoryHook": "T-Rexy says: Nominated by one, confirmed by the Senate.",
+   "memoryHook": "Nominated by one, confirmed by the Senate.",
    "tags": [
     "federal",
     "president"
@@ -1179,7 +1179,7 @@
    "img": {
     "dino": false,
     "scene": "A hearing room with microphones along a long table and a single empty witness chair. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Nominated by one, confirmed by the Senate.",
+    "tip": "Nominated by one, confirmed by the Senate.",
     "title": "CABINET CONFIRMATION"
    }
   },
@@ -1194,7 +1194,7 @@
    ],
    "difficulty": "medium",
    "explanation": "The pardon power reaches 'Offences against the United States,' excepting cases of impeachment - the one express limit Article II writes into the clemency power.",
-   "memoryHook": "T-Rexy says: Pardons stop at impeachment.",
+   "memoryHook": "Pardons stop at impeachment.",
    "tags": [
     "federal",
     "president"
@@ -1205,7 +1205,7 @@
    "img": {
     "dino": false,
     "scene": "A signed document beside a set of loosened chains on a desk, soft daylight. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Pardons stop at impeachment.",
+    "tip": "Pardons stop at impeachment.",
     "title": "PARDON POWER"
    }
   },
@@ -1220,7 +1220,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Article II requires the President to give Congress information of the State of the Union 'from time to time' and recommend necessary and expedient measures - now the famous annual address.",
-   "memoryHook": "T-Rexy says: State of the Union is a duty, not a perk.",
+   "memoryHook": "State of the Union is a duty, not a perk.",
    "tags": [
     "federal",
     "president"
@@ -1231,7 +1231,7 @@
    "img": {
     "dino": false,
     "scene": "A president at a podium before a joint session of Congress, wide chamber view. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: State of the Union is a duty, not a perk.",
+    "tip": "State of the Union is a duty, not a perk.",
     "title": "STATE OF THE UNION"
    }
   },
@@ -1246,7 +1246,7 @@
    ],
    "difficulty": "hard",
    "explanation": "Congress has set the Court's size since 1789, changing it several times in the 1800s; nine has held since the Judiciary Act of 1869, and changing it again would require ordinary legislation.",
-   "memoryHook": "T-Rexy says: Nine is a statute, not a command.",
+   "memoryHook": "Nine is a statute, not a command.",
    "tags": [
     "federal",
     "judiciary"
@@ -1257,7 +1257,7 @@
    "img": {
     "dino": false,
     "scene": "Nine high-backed empty chairs behind one long curved bench in soft courtroom light. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Nine is a statute, not a command.",
+    "tip": "Nine is a statute, not a command.",
     "title": "NINE JUSTICES"
    }
   },
@@ -1272,7 +1272,7 @@
    ],
    "difficulty": "hard",
    "explanation": "Life-tenure-during-good-behavior, with salary protection, insulates judges from the political branches - impeachment remains the only removal route, and no justice has ever been removed by it.",
-   "memoryHook": "T-Rexy says: Good-behavior tenure shields judges.",
+   "memoryHook": "Good-behavior tenure shields judges.",
    "tags": [
     "federal",
     "judiciary"
@@ -1283,7 +1283,7 @@
    "img": {
     "dino": false,
     "scene": "An elderly judge's robe hanging on a stand beside a quiet bench, morning light. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Good-behavior tenure shields judges.",
+    "tip": "Good-behavior tenure shields judges.",
     "title": "JUDICIAL TENURE"
    }
   },
@@ -1298,7 +1298,7 @@
    ],
    "difficulty": "hard",
    "explanation": "The 94 district courts are the federal system's trial courts, where witnesses testify and juries sit; appeals go up to the circuit courts of appeals, and only rarely reach the Supreme Court.",
-   "memoryHook": "T-Rexy says: Trials start in district court.",
+   "memoryHook": "Trials start in district court.",
    "tags": [
     "federal",
     "judiciary"
@@ -1309,7 +1309,7 @@
    "img": {
     "dino": false,
     "scene": "A modest federal courtroom with a jury box and witness stand, empty and quiet. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Trials start in district court.",
+    "tip": "Trials start in district court.",
     "title": "DISTRICT COURTS"
    }
   },
@@ -1324,7 +1324,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Brown held that in public education separate facilities are inherently unequal, overturning Plessy v. Ferguson's application to schools and ordering desegregation - the Warren Court's landmark unanimous ruling.",
-   "memoryHook": "T-Rexy says: Brown buried separate but equal in schools.",
+   "memoryHook": "Brown buried separate but equal in schools.",
    "tags": [
     "federal",
     "cases"
@@ -1335,7 +1335,7 @@
    "img": {
     "dino": false,
     "scene": "Children of different backgrounds climbing wide school steps together in morning light. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Brown buried separate but equal in schools.",
+    "tip": "Brown buried separate but equal in schools.",
     "title": "BROWN V BOARD"
    }
   },
@@ -1350,7 +1350,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Miranda (1966) conditions custodial questioning on warnings about silence and counsel, tying police practice directly to the Fifth and Sixth Amendments; unwarned statements are excluded from the prosecution's case.",
-   "memoryHook": "T-Rexy says: Warn first, question second.",
+   "memoryHook": "Warn first, question second.",
    "tags": [
     "federal",
     "cases"
@@ -1361,7 +1361,7 @@
    "img": {
     "dino": false,
     "scene": "A detective and a seated suspect across a bare table in an interview room, door closed. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Warn first, question second.",
+    "tip": "Warn first, question second.",
     "title": "MIRANDA WARNINGS"
    }
   },
@@ -1376,7 +1376,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Gideon made appointed counsel a constitutional right for indigent felony defendants in state courts - Clarence Gideon's handwritten petition rewrote American criminal procedure.",
-   "memoryHook": "T-Rexy says: Poor defendants get counsel.",
+   "memoryHook": "Poor defendants get counsel.",
    "tags": [
     "federal",
     "cases"
@@ -1387,7 +1387,7 @@
    "img": {
     "dino": false,
     "scene": "A public defender carrying a briefcase up courthouse steps toward a waiting client. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Poor defendants get counsel.",
+    "tip": "Poor defendants get counsel.",
     "title": "GIDEON V WAINWRIGHT"
    }
   },
@@ -1402,7 +1402,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Tinker's test: students do not shed constitutional rights at the schoolhouse gate, and silent expression may be limited only on evidence of substantial disruption - not on a desire to avoid controversy.",
-   "memoryHook": "T-Rexy says: Armbands stand unless disruption shows.",
+   "memoryHook": "Armbands stand unless disruption shows.",
    "tags": [
     "federal",
     "cases"
@@ -1413,7 +1413,7 @@
    "img": {
     "dino": false,
     "scene": "Students wearing plain black armbands walking a bright school hallway between classes. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Armbands stand unless disruption shows.",
+    "tip": "Armbands stand unless disruption shows.",
     "title": "TINKER V DES MOINES"
    }
   },
@@ -1428,7 +1428,7 @@
    ],
    "difficulty": "medium",
    "explanation": "The Court held that government may not ban expression merely because society finds the idea offensive; burning the flag as political protest is expressive conduct the First Amendment covers.",
-   "memoryHook": "T-Rexy says: Offensive is not the same as unprotected.",
+   "memoryHook": "Offensive is not the same as unprotected.",
    "tags": [
     "federal",
     "cases"
@@ -1439,7 +1439,7 @@
    "img": {
     "dino": false,
     "scene": "A flag flying high on a pole against a dramatic evening sky, seen respectfully from below. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Offensive is not the same as unprotected.",
+    "tip": "Offensive is not the same as unprotected.",
     "title": "TEXAS V JOHNSON"
    }
   },
@@ -1454,7 +1454,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Mapp bound the states to the exclusionary rule: evidence seized in violation of the Fourth Amendment is barred from the prosecution's case, deterring unlawful searches by removing their payoff.",
-   "memoryHook": "T-Rexy says: Bad search, lost evidence.",
+   "memoryHook": "Bad search, lost evidence.",
    "tags": [
     "federal",
     "cases"
@@ -1465,7 +1465,7 @@
    "img": {
     "dino": false,
     "scene": "A detective's gloved hand hovering over a closed drawer in a darkened room, flashlight beam. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Bad search, lost evidence.",
+    "tip": "Bad search, lost evidence.",
     "title": "MAPP V OHIO"
    }
   },
@@ -1480,7 +1480,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Concurrent powers - taxing, building roads, running courts - are exercised by both levels simultaneously; reserved powers belong to states alone, and enumerated powers are those granted to the federal government.",
-   "memoryHook": "T-Rexy says: Taxing is shared: concurrent.",
+   "memoryHook": "Taxing is shared: concurrent.",
    "tags": [
     "federal",
     "federalism"
@@ -1491,7 +1491,7 @@
    "img": {
     "dino": false,
     "scene": "Two road crews paving toward each other on the same highway, meeting in the middle. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Taxing is shared: concurrent.",
+    "tip": "Taxing is shared: concurrent.",
     "title": "CONCURRENT POWERS"
    }
   },
@@ -1506,7 +1506,7 @@
    ],
    "difficulty": "hard",
    "explanation": "The Constitution, federal statutes, and treaties outrank conflicting state law, and state judges are bound by that ranking - the clause that makes one legal system out of fifty-one.",
-   "memoryHook": "T-Rexy says: Federal law wins a true conflict.",
+   "memoryHook": "Federal law wins a true conflict.",
    "tags": [
     "federal",
     "federalism"
@@ -1517,7 +1517,7 @@
    "img": {
     "dino": false,
     "scene": "Two documents overlapping on a table, the larger resting on top in strong light. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Federal law wins a true conflict.",
+    "tip": "Federal law wins a true conflict.",
     "title": "SUPREMACY CLAUSE"
    }
   },
@@ -1532,7 +1532,7 @@
    ],
    "difficulty": "hard",
    "explanation": "Full faith and credit makes legal acts portable across state lines - marriages, contracts, and court judgments follow people as they move, subject to rules Congress may set.",
-   "memoryHook": "T-Rexy says: Records travel with you.",
+   "memoryHook": "Records travel with you.",
    "tags": [
     "federal",
     "federalism"
@@ -1543,7 +1543,7 @@
    "img": {
     "dino": false,
     "scene": "A judge placing a sealed document into a traveler's hands at a state border marker, map unlabeled. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Records travel with you.",
+    "tip": "Records travel with you.",
     "title": "FULL FAITH AND CREDIT"
    }
   },
@@ -1558,7 +1558,7 @@
    ],
    "difficulty": "hard",
    "explanation": "The Extradition Clause requires a state to deliver fugitives from justice to the state where the crime occurred; governors execute the duty today through uniform state procedures.",
-   "memoryHook": "T-Rexy says: Fugitives come back: extradition.",
+   "memoryHook": "Fugitives come back: extradition.",
    "tags": [
     "federal",
     "federalism"
@@ -1569,7 +1569,7 @@
    "img": {
     "dino": false,
     "scene": "A law officer escorting a handcuffed man toward a waiting vehicle at a state line at dawn. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Fugitives come back: extradition.",
+    "tip": "Fugitives come back: extradition.",
     "title": "EXTRADITION"
    }
   },
@@ -1584,7 +1584,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Electors mirror the delegation: House seats apportioned by population plus the two senators every state has. Idaho's 2 + 2 = 4, a formula that slightly favors small states.",
-   "memoryHook": "T-Rexy says: Electors equal the delegation.",
+   "memoryHook": "Electors equal the delegation.",
    "tags": [
     "federal",
     "elections"
@@ -1595,7 +1595,7 @@
    "img": {
     "dino": false,
     "scene": "Four wooden state-shaped blocks standing together on a table, canyon landscape behind, no labels. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Electors equal the delegation.",
+    "tip": "Electors equal the delegation.",
     "title": "ELECTORAL VOTES"
    }
   },
@@ -1610,7 +1610,7 @@
    ],
    "difficulty": "easy",
    "explanation": "270 is a bare majority of 538 electors; falling short throws the choice to the House under the Twelfth Amendment, where each state delegation casts one vote.",
-   "memoryHook": "T-Rexy says: Two hundred seventy wins.",
+   "memoryHook": "Two hundred seventy wins.",
    "tags": [
     "federal",
     "elections"
@@ -1621,7 +1621,7 @@
    "img": {
     "dino": false,
     "scene": "A finish-line ribbon stretched across a road with a distant white mansion on a hill. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Two hundred seventy wins.",
+    "tip": "Two hundred seventy wins.",
     "title": "270 TO WIN"
    }
   },
@@ -1636,7 +1636,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Primaries narrow the field inside each party; the November general election then decides among the nominees (and independents) who actually takes office.",
-   "memoryHook": "T-Rexy says: Primaries pick nominees.",
+   "memoryHook": "Primaries pick nominees.",
    "tags": [
     "federal",
     "elections"
@@ -1647,7 +1647,7 @@
    "img": {
     "dino": false,
     "scene": "Voters entering a school gymnasium polling place under a spring sky. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Primaries pick nominees.",
+    "tip": "Primaries pick nominees.",
     "title": "PRIMARY ELECTIONS"
    }
   },
@@ -1662,7 +1662,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Parties seek power by winning elections; interest groups seek influence over policy, supporting or opposing candidates without fielding their own - the line between the two organizations.",
-   "memoryHook": "T-Rexy says: Parties run candidates.",
+   "memoryHook": "Parties run candidates.",
    "tags": [
     "federal",
     "elections"
@@ -1673,7 +1673,7 @@
    "img": {
     "dino": false,
     "scene": "Two tents at a county fair, one flying a party banner shape and one a cause banner shape, both blank. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Parties run candidates.",
+    "tip": "Parties run candidates.",
     "title": "PARTIES VS GROUPS"
    }
   },
@@ -1688,7 +1688,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Duties - obeying the law, paying taxes, jury service, Selective Service registration - are enforceable; responsibilities like voting and volunteering are expected of citizens but cannot be compelled.",
-   "memoryHook": "T-Rexy says: Jury duty is compulsory.",
+   "memoryHook": "Jury duty is compulsory.",
    "tags": [
     "federal",
     "citizenship"
@@ -1699,7 +1699,7 @@
    "img": {
     "dino": false,
     "scene": "Citizens taking seats in a jury box while others watch from the gallery. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Jury duty is compulsory.",
+    "tip": "Jury duty is compulsory.",
     "title": "DUTY VS RESPONSIBILITY"
    }
   },
@@ -1714,7 +1714,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Naturalization ends with the oath - renouncing foreign allegiances and pledging to support the Constitution - after application, residence, English, and civics requirements are satisfied.",
-   "memoryHook": "T-Rexy says: The oath completes naturalization.",
+   "memoryHook": "The oath completes naturalization.",
    "tags": [
     "federal",
     "citizenship"
@@ -1725,7 +1725,7 @@
    "img": {
     "dino": false,
     "scene": "New citizens with raised right hands in a courthouse ceremony, flags at the front. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: The oath completes naturalization.",
+    "tip": "The oath completes naturalization.",
     "title": "NATURALIZATION"
    }
   },
@@ -1740,7 +1740,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Registration is not enlistment; it maintains the roster a draft would use. Failure to register carries legal penalties and can block federal benefits and jobs.",
-   "memoryHook": "T-Rexy says: Registration is a roster, not enlistment.",
+   "memoryHook": "Registration is a roster, not enlistment.",
    "tags": [
     "federal",
     "citizenship"
@@ -1751,7 +1751,7 @@
    "img": {
     "dino": false,
     "scene": "A young man writing at a post office counter, clerk waiting, form text blank. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Registration is a roster, not enlistment.",
+    "tip": "Registration is a roster, not enlistment.",
     "title": "SELECTIVE SERVICE"
    }
   },
@@ -1766,7 +1766,7 @@
    ],
    "difficulty": "hard",
    "explanation": "The First Amendment separately protects peaceable assembly and petitioning the government for redress of grievances - the pairing this rally embodies.",
-   "memoryHook": "T-Rexy says: Gather and petition: two freedoms at once.",
+   "memoryHook": "Gather and petition: two freedoms at once.",
    "tags": [
     "federal",
     "amendments"
@@ -1777,7 +1777,7 @@
    "img": {
     "dino": false,
     "scene": "A peaceful crowd on wide capitol steps holding a large rolled petition scroll, signs blank. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Gather and petition: two freedoms at once.",
+    "tip": "Gather and petition: two freedoms at once.",
     "title": "ASSEMBLY AND PETITION"
    }
   },
@@ -1792,7 +1792,7 @@
    ],
    "difficulty": "hard",
    "explanation": "Ratified in 1992 after a student-led campaign revived it, the Twenty-seventh Amendment makes congressional pay changes wait until after the next House election - voters get a say first.",
-   "memoryHook": "T-Rexy says: Pay raises wait for an election.",
+   "memoryHook": "Pay raises wait for an election.",
    "tags": [
     "federal",
     "amendments"
@@ -1803,7 +1803,7 @@
    "img": {
     "dino": false,
     "scene": "A plain envelope resting on a wooden ballot box outside a polling place, voters in soft focus in the background. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Pay raises wait for an election.",
+    "tip": "Pay raises wait for an election.",
     "title": "TWENTY-SEVENTH AMENDMENT"
    }
   },
@@ -1818,7 +1818,7 @@
    ],
    "difficulty": "hard",
    "explanation": "The clause is a rule of interstate comity: states may not discriminate against visiting citizens in essential matters like working and owning property without a substantial reason.",
-   "memoryHook": "T-Rexy says: Visitors get equal treatment on the essentials.",
+   "memoryHook": "Visitors get equal treatment on the essentials.",
    "tags": [
     "federal",
     "federalism"
@@ -1829,7 +1829,7 @@
    "img": {
     "dino": false,
     "scene": "A welcome sign shape at a state border crossing with cars passing freely, lettering blank. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Visitors get equal treatment on the essentials.",
+    "tip": "Visitors get equal treatment on the essentials.",
     "title": "PRIVILEGES AND IMMUNITIES"
    }
   },
@@ -1844,7 +1844,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Congress created Idaho Territory in 1863, and statehood came in 1890 - Idaho was admitted 43rd, three days before Wyoming became the 44th.",
-   "memoryHook": "T-Rexy says: Forty-third state, eighteen ninety.",
+   "memoryHook": "Forty-third state, eighteen ninety.",
    "tags": [
     "idaho",
     "statehood"
@@ -1855,7 +1855,7 @@
    "img": {
     "dino": false,
     "scene": "A western mountain valley town in 1890 with a flag-raising celebration in the square. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Forty-third state, eighteen ninety.",
+    "tip": "Forty-third state, eighteen ninety.",
     "title": "43RD STATE"
    }
   },
@@ -1870,7 +1870,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Delegates wrote the constitution in 1889, voters ratified it that November, and it took effect with statehood in 1890; it has been amended many times but never replaced.",
-   "memoryHook": "T-Rexy says: Written in eighty-nine, still in force.",
+   "memoryHook": "Written in eighty-nine, still in force.",
    "tags": [
     "idaho",
     "constitution"
@@ -1881,7 +1881,7 @@
    "img": {
     "dino": false,
     "scene": "Delegates writing at desks in an 1889 convention hall, tall windows and gas lamps. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Written in eighty-nine, still in force.",
+    "tip": "Written in eighty-nine, still in force.",
     "title": "CONSTITUTION OF 1889"
    }
   },
@@ -1896,7 +1896,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Idaho's Declaration of Rights begins with natural-rights language modeled on the founding era: life, liberty, property, happiness, and safety are named as inalienable - gifts of nature, not grants of government.",
-   "memoryHook": "T-Rexy says: Life, liberty, property, happiness, safety.",
+   "memoryHook": "Life, liberty, property, happiness, safety.",
    "tags": [
     "idaho",
     "constitution"
@@ -1907,7 +1907,7 @@
    "img": {
     "dino": false,
     "scene": "Sunrise over a mountain valley with a farmhouse below, peaceful and wide. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Life, liberty, property, happiness, safety.",
+    "tip": "Life, liberty, property, happiness, safety.",
     "title": "INALIENABLE RIGHTS"
    }
   },
@@ -1922,7 +1922,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Like the federal Preamble, Idaho's constitution grounds authority in the people, adding that government exists for their equal protection and benefit - the premise of every later article.",
-   "memoryHook": "T-Rexy says: Power is inherent in the people.",
+   "memoryHook": "Power is inherent in the people.",
    "tags": [
     "idaho",
     "constitution"
@@ -1933,7 +1933,7 @@
    "img": {
     "dino": false,
     "scene": "Citizens gathered in a circle in a frontier town square, discussing together. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Power is inherent in the people.",
+    "tip": "Power is inherent in the people.",
     "title": "POLITICAL POWER"
    }
   },
@@ -1948,7 +1948,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Idaho's separation clause is textually stricter than the federal structure - it names the three departments and forbids cross-exercise of powers outright, subject only to express constitutional exceptions.",
-   "memoryHook": "T-Rexy says: Three departments, kept apart.",
+   "memoryHook": "Three departments, kept apart.",
    "tags": [
     "idaho",
     "constitution"
@@ -1959,7 +1959,7 @@
    "img": {
     "dino": false,
     "scene": "Three separate stone buildings arranged in a triangle around a shared green, symbolic. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Three departments, kept apart.",
+    "tip": "Three departments, kept apart.",
     "title": "IDAHO SEPARATION OF POWERS"
    }
   },
@@ -1974,7 +1974,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Education is constitutionally compulsory for the legislature in Idaho - Article IX's 'general, uniform and thorough' language has anchored Idaho school-funding litigation for over a century.",
-   "memoryHook": "T-Rexy says: Uniform and thorough: a constitutional duty.",
+   "memoryHook": "Uniform and thorough: a constitutional duty.",
    "tags": [
     "idaho",
     "constitution"
@@ -1985,7 +1985,7 @@
    "img": {
     "dino": false,
     "scene": "A one-room frontier schoolhouse with children arriving on a frosty morning. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Uniform and thorough: a constitutional duty.",
+    "tip": "Uniform and thorough: a constitutional duty.",
     "title": "ARTICLE IX SCHOOLS"
    }
   },
@@ -2000,7 +2000,7 @@
    ],
    "difficulty": "medium",
    "explanation": "The statute's citation list (Art. I ss. 1-3, Art. II s. 1, Art. III s. 24, Art. IX s. 1, Art. XIV s. 1) is the legislature's own map of where founding principles live inside Idaho's constitution.",
-   "memoryHook": "T-Rexy says: The statute names the articles to study.",
+   "memoryHook": "The statute names the articles to study.",
    "tags": [
     "idaho",
     "statute"
@@ -2011,7 +2011,7 @@
    "img": {
     "dino": false,
     "scene": "An open law book and an open constitution side by side on a classroom desk, pages blank. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: The statute names the articles to study.",
+    "tip": "The statute names the articles to study.",
     "title": "33-1602 READING LIST"
    }
   },
@@ -2026,7 +2026,7 @@
    ],
    "difficulty": "hard",
    "explanation": "Idaho kept the familiar two-house design: a 35-member Senate and a 70-member House of Representatives, both elected from the same 35 legislative districts.",
-   "memoryHook": "T-Rexy says: Two houses in Boise.",
+   "memoryHook": "Two houses in Boise.",
    "tags": [
     "idaho",
     "legislature"
@@ -2037,7 +2037,7 @@
    "img": {
     "dino": false,
     "scene": "Two legislative chambers in one capitol building shown in cutaway, desks in both. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Two houses in Boise.",
+    "tip": "Two houses in Boise.",
     "title": "IDAHO LEGISLATURE"
    }
   },
@@ -2052,7 +2052,7 @@
    ],
    "difficulty": "hard",
    "explanation": "The 1-and-2 pattern produces a 35-seat Senate and a 70-seat House - 105 legislators in all - and every Idaho voter has exactly three state legislators.",
-   "memoryHook": "T-Rexy says: One senator, two representatives per district.",
+   "memoryHook": "One senator, two representatives per district.",
    "tags": [
     "idaho",
     "legislature"
@@ -2063,7 +2063,7 @@
    "img": {
     "dino": false,
     "scene": "A map-like grid of district shapes on a table with three small chairs placed on one district, no labels. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: One senator, two representatives per district.",
+    "tip": "One senator, two representatives per district.",
     "title": "THREE PER DISTRICT"
    }
   },
@@ -2078,7 +2078,7 @@
    ],
    "difficulty": "hard",
    "explanation": "The arithmetic follows from the district structure - 35 districts x (1 senator + 2 representatives) = 105 - making Idaho's legislature one of the smaller ones in the nation per capita of population served.",
-   "memoryHook": "T-Rexy says: Thirty-five plus seventy is one hundred five.",
+   "memoryHook": "Thirty-five plus seventy is one hundred five.",
    "tags": [
     "idaho",
     "legislature"
@@ -2089,7 +2089,7 @@
    "img": {
     "dino": false,
     "scene": "Rows of desks in two connected chambers viewed from a high gallery, seats uncounted and distant. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Thirty-five plus seventy is one hundred five.",
+    "tip": "Thirty-five plus seventy is one hundred five.",
     "title": "105 LEGISLATORS"
    }
   },
@@ -2104,7 +2104,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Idaho repealed its term limits in 2002 - the first state to repeal limits its voters had adopted - so governors (and legislators) may serve as many terms as voters keep granting them.",
-   "memoryHook": "T-Rexy says: No term limits in Idaho.",
+   "memoryHook": "No term limits in Idaho.",
    "tags": [
     "idaho",
     "executive"
@@ -2115,7 +2115,7 @@
    "img": {
     "dino": false,
     "scene": "A governor's desk in a state capitol office with a mountain view through tall windows. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: No term limits in Idaho.",
+    "tip": "No term limits in Idaho.",
     "title": "GOVERNOR'S TERM"
    }
   },
@@ -2130,7 +2130,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Following the federal vice-presidential model, Idaho's lieutenant governor presides over the Senate and can break tie votes, while the Senate's own president pro tempore runs the chamber in the lieutenant governor's absence.",
-   "memoryHook": "T-Rexy says: The lieutenant governor holds the Senate gavel.",
+   "memoryHook": "The lieutenant governor holds the Senate gavel.",
    "tags": [
     "idaho",
     "executive"
@@ -2141,7 +2141,7 @@
    "img": {
     "dino": false,
     "scene": "A presiding officer's chair and gavel above a senate chamber floor. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: The lieutenant governor holds the Senate gavel.",
+    "tip": "The lieutenant governor holds the Senate gavel.",
     "title": "PRESIDENT OF THE SENATE"
    }
   },
@@ -2156,7 +2156,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Idaho voters elect their executive team member by member; the governor cannot fire the independently elected attorney general or superintendent, a design that fragments executive power on purpose.",
-   "memoryHook": "T-Rexy says: Voters pick the whole executive team.",
+   "memoryHook": "Voters pick the whole executive team.",
    "tags": [
     "idaho",
     "executive"
@@ -2167,7 +2167,7 @@
    "img": {
     "dino": false,
     "scene": "A row of blank office doors receding along a capitol corridor, symbolic and uncounted. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Voters pick the whole executive team.",
+    "tip": "Voters pick the whole executive team.",
     "title": "PLURAL EXECUTIVE"
    }
   },
@@ -2182,7 +2182,7 @@
    ],
    "difficulty": "medium",
    "explanation": "The Idaho Supreme Court - a chief justice and four associate justices - sits atop the state judiciary; below it the Court of Appeals hears most routine appeals first.",
-   "memoryHook": "T-Rexy says: Five justices at the top.",
+   "memoryHook": "Five justices at the top.",
    "tags": [
     "idaho",
     "judiciary"
@@ -2193,7 +2193,7 @@
    "img": {
     "dino": false,
     "scene": "Five high-backed chairs behind a long bench in a paneled courtroom, flags at the sides. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Five justices at the top.",
+    "tip": "Five justices at the top.",
     "title": "IDAHO SUPREME COURT"
    }
   },
@@ -2208,7 +2208,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Created by statute in 1981 and sitting from 1982, the Court of Appeals decides the bulk of appeals; the supreme court reviews its decisions selectively and takes some cases directly.",
-   "memoryHook": "T-Rexy says: Appeals start one rung down.",
+   "memoryHook": "Appeals start one rung down.",
    "tags": [
     "idaho",
     "judiciary"
@@ -2219,7 +2219,7 @@
    "img": {
     "dino": false,
     "scene": "A smaller courtroom one floor below a grander one in the same building, cutaway view. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Appeals start one rung down.",
+    "tip": "Appeals start one rung down.",
     "title": "COURT OF APPEALS"
    }
   },
@@ -2234,7 +2234,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Idaho's 44 counties range from Ada (Boise) to tiny Camas; each is an arm of state government and the basic unit of local administration outside city limits.",
-   "memoryHook": "T-Rexy says: Forty-four counties.",
+   "memoryHook": "Forty-four counties.",
    "tags": [
     "idaho",
     "local"
@@ -2245,7 +2245,7 @@
    "img": {
     "dino": false,
     "scene": "A patchwork of county shapes fitted together like a quilt over a map table, no labels. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Forty-four counties.",
+    "tip": "Forty-four counties.",
     "title": "44 COUNTIES"
    }
   },
@@ -2260,7 +2260,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Three commissioners, elected from districts within the county, form the board - Idaho counties have no single county executive; authority is shared with the other elected row officers.",
-   "memoryHook": "T-Rexy says: Three commissioners run the county.",
+   "memoryHook": "Three commissioners run the county.",
    "tags": [
     "idaho",
     "local"
@@ -2271,7 +2271,7 @@
    "img": {
     "dino": false,
     "scene": "Three officials seated at a curved table in a modest county meeting room, papers before them. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Three commissioners run the county.",
+    "tip": "Three commissioners run the county.",
     "title": "COUNTY COMMISSIONERS"
    }
   },
@@ -2286,7 +2286,7 @@
    ],
    "difficulty": "hard",
    "explanation": "The sheriff is an elected county officer in Idaho, running the county jail and serving as its chief law enforcer outside city police jurisdictions - an office that answers to voters, not to the commissioners.",
-   "memoryHook": "T-Rexy says: The sheriff is elected, not appointed.",
+   "memoryHook": "The sheriff is elected, not appointed.",
    "tags": [
     "idaho",
     "local"
@@ -2297,7 +2297,7 @@
    "img": {
     "dino": false,
     "scene": "A sheriff's badge resting on a desk beside a ring of jail keys, quiet office light. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: The sheriff is elected, not appointed.",
+    "tip": "The sheriff is elected, not appointed.",
     "title": "COUNTY SHERIFF"
    }
   },
@@ -2312,7 +2312,7 @@
    ],
    "difficulty": "hard",
    "explanation": "Special districts are limited-purpose governments with their own elected boards and taxing power; Idaho has more of them than it has cities and counties combined.",
-   "memoryHook": "T-Rexy says: One job each: special districts.",
+   "memoryHook": "One job each: special districts.",
    "tags": [
     "idaho",
     "local"
@@ -2323,7 +2323,7 @@
    "img": {
     "dino": false,
     "scene": "A fire station, a schoolhouse, and an irrigation canal headgate shown together in one valley scene. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: One job each: special districts.",
+    "tip": "One job each: special districts.",
     "title": "SPECIAL DISTRICTS"
    }
   },
@@ -2338,7 +2338,7 @@
    ],
    "difficulty": "hard",
    "explanation": "GOV.45 is one of four Idaho-named standards (GOV.44-47): the state's own constitution, not the federal one, charters Idaho's branches, counties, cities, and districts.",
-   "memoryHook": "T-Rexy says: Idaho's own constitution charts Idaho government.",
+   "memoryHook": "Idaho's own constitution charts Idaho government.",
    "tags": [
     "idaho",
     "standards"
@@ -2349,7 +2349,7 @@
    "img": {
     "dino": false,
     "scene": "A state capitol building with its founding document displayed under glass in the rotunda, text blurred. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Idaho's own constitution charts Idaho government.",
+    "tip": "Idaho's own constitution charts Idaho government.",
     "title": "GOV 45"
    }
   },
@@ -2364,7 +2364,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Tribal sovereignty is inherent and retained, not granted by Idaho; the state cannot simply legislate over tribal governments, which is why treaties and federal law frame hunting, fishing, and leasing questions.",
-   "memoryHook": "T-Rexy says: Tribes govern themselves - sovereignty is retained.",
+   "memoryHook": "Tribes govern themselves - sovereignty is retained.",
    "tags": [
     "idaho",
     "tribal"
@@ -2375,7 +2375,7 @@
    "img": {
     "dino": false,
     "scene": "A tribal council chamber with a circular seating arrangement and flags, dignified and quiet. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Tribes govern themselves - sovereignty is retained.",
+    "tip": "Tribes govern themselves - sovereignty is retained.",
     "title": "TRIBAL SOVEREIGNTY"
    }
   },
@@ -2390,7 +2390,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Fort Hall, created by an 1868 treaty-era executive order along the Snake River plain, is home to the Shoshone and Bannock peoples jointly - the Shoshone-Bannock Tribes.",
-   "memoryHook": "T-Rexy says: Fort Hall: Shoshone-Bannock.",
+   "memoryHook": "Fort Hall: Shoshone-Bannock.",
    "tags": [
     "idaho",
     "tribal"
@@ -2401,7 +2401,7 @@
    "img": {
     "dino": false,
     "scene": "A high desert river plain with tepees and a modern tribal community building in the distance, respectful view. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Fort Hall: Shoshone-Bannock.",
+    "tip": "Fort Hall: Shoshone-Bannock.",
     "title": "FORT HALL"
    }
   },
@@ -2416,7 +2416,7 @@
    ],
    "difficulty": "easy",
    "explanation": "Reserved-rights doctrine: tribes gave up title to most of the land but kept hunting, fishing, and gathering rights on it - rights the Supreme Court has repeatedly treated as surviving statehood.",
-   "memoryHook": "T-Rexy says: Reserved means kept, not given away.",
+   "memoryHook": "Reserved means kept, not given away.",
    "tags": [
     "idaho",
     "tribal"
@@ -2427,7 +2427,7 @@
    "img": {
     "dino": false,
     "scene": "A fisherman casting into a clear mountain river at dawn, salmon country, peaceful scene. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Reserved means kept, not given away.",
+    "tip": "Reserved means kept, not given away.",
     "title": "RESERVED RIGHTS"
    }
   },
@@ -2442,7 +2442,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Idaho's constitution has allowed the initiative since voters added it in 1912: a petition signed by enough electors sends a proposed statute straight to the ballot, bypassing the legislature.",
-   "memoryHook": "T-Rexy says: Voters can legislate: the initiative.",
+   "memoryHook": "Voters can legislate: the initiative.",
    "tags": [
     "idaho",
     "direct-democracy"
@@ -2453,7 +2453,7 @@
    "img": {
     "dino": false,
     "scene": "Citizens signing a large petition on a table outside a county courthouse, pens in hand. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Voters can legislate: the initiative.",
+    "tip": "Voters can legislate: the initiative.",
     "title": "THE INITIATIVE"
    }
   },
@@ -2468,7 +2468,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Where the initiative starts a law with the people, the referendum is the people's veto: timely petitions suspend a new statute until voters sustain or kill it at the next election.",
-   "memoryHook": "T-Rexy says: The referendum is the people's veto.",
+   "memoryHook": "The referendum is the people's veto.",
    "tags": [
     "idaho",
     "direct-democracy"
@@ -2479,7 +2479,7 @@
    "img": {
     "dino": false,
     "scene": "A freshly signed law document being carried from a capitol toward a ballot box by citizens. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: The referendum is the people's veto.",
+    "tip": "The referendum is the people's veto.",
     "title": "THE REFERENDUM"
    }
   },
@@ -2494,7 +2494,7 @@
    ],
    "difficulty": "medium",
    "explanation": "HB 397 (2025) and SB 1336 (2026) rewrote the requirement: the new assessment is Idaho-developed, taken after grade 9, and its eleven statutory components run from founding documents to Idaho government itself.",
-   "memoryHook": "T-Rexy says: Idaho now writes its own civics test.",
+   "memoryHook": "Idaho now writes its own civics test.",
    "tags": [
     "idaho",
     "statute"
@@ -2505,7 +2505,7 @@
    "img": {
     "dino": false,
     "scene": "A teacher handing a fresh exam booklet to a student in a bright classroom, booklet blank. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Idaho now writes its own civics test.",
+    "tip": "Idaho now writes its own civics test.",
     "title": "STATE-DEVELOPED TEST"
    }
   },
@@ -2520,7 +2520,7 @@
    ],
    "difficulty": "medium",
    "explanation": "Component (k) is why this pack exists: Idaho's graduation test now examines Idaho's own constitution and governments expressly, alongside component (j) on federal, state, local, and tribal relationships and the Tenth Amendment.",
-   "memoryHook": "T-Rexy says: Component k tests Idaho itself.",
+   "memoryHook": "Component k tests Idaho itself.",
    "tags": [
     "idaho",
     "statute"
@@ -2531,7 +2531,7 @@
    "img": {
     "dino": false,
     "scene": "A state constitution displayed open beside a map of counties and cities shapes, no readable labels. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Component k tests Idaho itself.",
+    "tip": "Component k tests Idaho itself.",
     "title": "COMPONENT K"
    }
   },
@@ -2546,7 +2546,7 @@
    ],
    "difficulty": "hard",
    "explanation": "Idaho was the fourth state to grant women's suffrage, in 1896, putting Idaho women a generation ahead of the 1920 national amendment - though territorial and early-state politics had contested women's votes for years before.",
-   "memoryHook": "T-Rexy says: Idaho women voted from eighteen ninety-six.",
+   "memoryHook": "Idaho women voted from eighteen ninety-six.",
    "tags": [
     "idaho",
     "history"
@@ -2557,7 +2557,7 @@
    "img": {
     "dino": false,
     "scene": "Women in 1890s dress casting ballots at a wooden ballot box in a frontier town hall. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Idaho women voted from eighteen ninety-six.",
+    "tip": "Idaho women voted from eighteen ninety-six.",
     "title": "SUFFRAGE 1896"
    }
   },
@@ -2572,7 +2572,7 @@
    ],
    "difficulty": "hard",
    "explanation": "Adopted with the state seal in 1891, 'Esto Perpetua' expresses the founders' hope that the young state would endure - a motto Idaho shares with no other state.",
-   "memoryHook": "T-Rexy says: Esto Perpetua: let it be perpetual.",
+   "memoryHook": "Esto Perpetua: let it be perpetual.",
    "tags": [
     "idaho",
     "symbols"
@@ -2583,7 +2583,7 @@
    "img": {
     "dino": false,
     "scene": "A round state seal medallion rendered in bronze tones, figures symbolic, lettering illegible by design. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: Esto Perpetua: let it be perpetual.",
+    "tip": "Esto Perpetua: let it be perpetual.",
     "title": "ESTO PERPETUA"
    }
   },
@@ -2598,7 +2598,7 @@
    ],
    "difficulty": "hard",
    "explanation": "The constitutionally created State Board of Education supervises Idaho's public schools and its public universities alike - an education board written into the constitution itself, not merely created by statute.",
-   "memoryHook": "T-Rexy says: The constitution itself builds the Board of Education.",
+   "memoryHook": "The constitution itself builds the Board of Education.",
    "tags": [
     "idaho",
     "constitution"
@@ -2609,7 +2609,7 @@
    "img": {
     "dino": false,
     "scene": "A board table with name plates turned blank, Idaho schoolhouses visible through the window behind. No readable text, no words, no letters, no numbers anywhere in the image.",
-    "tip": "T-Rexy says: The constitution itself builds the Board of Education.",
+    "tip": "The constitution itself builds the Board of Education.",
     "title": "STATE BOARD OF EDUCATION"
    }
   }

@@ -24,7 +24,7 @@
       ],
       "difficulty": "easy",
       "explanation": "Wyoming's graduation examination covers the principles of the U.S. Constitution and the Wyoming Constitution. The U.S. Constitution, ratified in 1788, is the supreme law of the land - no state or federal law may override it.",
-      "memoryHook": "T-Rexy says: Two constitutions, one Wyoming diploma.",
+      "memoryHook": "Two constitutions, one Wyoming diploma.",
       "tags": [
         "constitution",
         "supremacy"
@@ -35,7 +35,7 @@
       "img": {
         "dino": false,
         "scene": "A large parchment document resting under glass in a museum case, lit warmly from above. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Two constitutions, one Wyoming diploma.",
+        "tip": "Two constitutions, one Wyoming diploma.",
         "title": "THE SUPREME LAW"
       }
     },
@@ -50,7 +50,7 @@
       ],
       "difficulty": "easy",
       "explanation": "Under the Articles of Confederation (1781-1789) the central government had no power to tax or enforce its decisions, which is why delegates met in Philadelphia in 1787 to design a stronger system.",
-      "memoryHook": "T-Rexy says: The Articles were too loose to hold.",
+      "memoryHook": "The Articles were too loose to hold.",
       "tags": [
         "constitution",
         "history"
@@ -61,7 +61,7 @@
       "img": {
         "dino": false,
         "scene": "Thirteen separate wooden chairs arranged in a loose wide circle in an empty colonial meeting hall. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: The Articles were too loose to hold.",
+        "tip": "The Articles were too loose to hold.",
         "title": "THE FIRST FRAMEWORK"
       }
     },
@@ -76,7 +76,7 @@
       ],
       "difficulty": "easy",
       "explanation": "The Constitutional Convention of 1787 produced the U.S. Constitution. Its compromises - including the Connecticut Compromise on representation - shaped the government that followed.",
-      "memoryHook": "T-Rexy says: Philadelphia, 1787: a new plan is drafted.",
+      "memoryHook": "Philadelphia, 1787: a new plan is drafted.",
       "tags": [
         "constitution",
         "history"
@@ -87,7 +87,7 @@
       "img": {
         "dino": false,
         "scene": "A long wooden table in a bright colonial assembly room with quills, ink pots and empty chairs along both sides. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Philadelphia, 1787: a new plan is drafted.",
+        "tip": "Philadelphia, 1787: a new plan is drafted.",
         "title": "PHILADELPHIA, 1787"
       }
     },
@@ -102,7 +102,7 @@
       ],
       "difficulty": "medium",
       "explanation": "The Preamble is the Constitution's introduction. It announces who ordains the government - the People - and states the purposes the government exists to serve.",
-      "memoryHook": "T-Rexy says: The Preamble states the purposes first.",
+      "memoryHook": "The Preamble states the purposes first.",
       "tags": [
         "constitution",
         "preamble"
@@ -113,7 +113,7 @@
       "img": {
         "dino": false,
         "scene": "An open book on a lectern in a quiet library, its first page blank, morning light across the desk. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: The Preamble states the purposes first.",
+        "tip": "The Preamble states the purposes first.",
         "title": "WE THE PEOPLE"
       }
     },
@@ -128,7 +128,7 @@
       ],
       "difficulty": "medium",
       "explanation": "The Constitution assigns lawmaking to Congress, execution to the President, and judging to the courts. Dividing power among separate branches - an idea drawn from Montesquieu - keeps any one branch from dominating.",
-      "memoryHook": "T-Rexy says: Three jobs, three separate hands.",
+      "memoryHook": "Three jobs, three separate hands.",
       "tags": [
         "constitution",
         "separation-of-powers"
@@ -139,7 +139,7 @@
       "img": {
         "dino": false,
         "scene": "Three equal stone pillars standing in a row against a plain sky, a balance scale in front of them. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Three jobs, three separate hands.",
+        "tip": "Three jobs, three separate hands.",
         "title": "POWER, DIVIDED ON PURPOSE"
       }
     },
@@ -154,7 +154,7 @@
       ],
       "difficulty": "medium",
       "explanation": "The veto override is a core check and balance: Congress may enact a law over the president's objection by a two-thirds vote of the House and the Senate.",
-      "memoryHook": "T-Rexy says: Two-thirds can override a veto.",
+      "memoryHook": "Two-thirds can override a veto.",
       "tags": [
         "checks-and-balances"
       ],
@@ -164,7 +164,7 @@
       "img": {
         "dino": false,
         "scene": "A heavy wooden veto stamp resting beside a tall stack of paper ballots in a legislative chamber. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Two-thirds can override a veto.",
+        "tip": "Two-thirds can override a veto.",
         "title": "THE VETO OVERRIDE"
       }
     },
@@ -179,7 +179,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Chief Justice John Marshall's opinion in Marbury v. Madison established judicial review - the courts' power to declare laws unconstitutional - the judiciary's central check on the other branches.",
-      "memoryHook": "T-Rexy says: Marbury gave courts the review power.",
+      "memoryHook": "Marbury gave courts the review power.",
       "tags": [
         "courts",
         "landmark-cases"
@@ -190,7 +190,7 @@
       "img": {
         "dino": false,
         "scene": "A marble courthouse facade with tall columns seen from below against a clear sky. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Marbury gave courts the review power.",
+        "tip": "Marbury gave courts the review power.",
         "title": "JUDICIAL REVIEW"
       }
     },
@@ -205,7 +205,7 @@
       ],
       "difficulty": "hard",
       "explanation": "The Connecticut Compromise gave every state equal representation in the Senate (two senators) while the House is apportioned by population. Small-population states like Wyoming benefit most from the arrangement.",
-      "memoryHook": "T-Rexy says: In the Senate, every state counts the same.",
+      "memoryHook": "In the Senate, every state counts the same.",
       "tags": [
         "congress",
         "senate"
@@ -216,7 +216,7 @@
       "img": {
         "dino": false,
         "scene": "A wide empty legislative chamber with two rows of desks curving toward a central dais. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: In the Senate, every state counts the same.",
+        "tip": "In the Senate, every state counts the same.",
         "title": "EQUAL IN THE SENATE"
       }
     },
@@ -231,7 +231,7 @@
       ],
       "difficulty": "hard",
       "explanation": "House seats are apportioned among the states by population after each census, with every state guaranteed at least one. Wyoming, the least populous state, has held one at-large House seat.",
-      "memoryHook": "T-Rexy says: House seats follow population.",
+      "memoryHook": "House seats follow population.",
       "tags": [
         "congress",
         "house"
@@ -242,7 +242,7 @@
       "img": {
         "dino": false,
         "scene": "A single wooden chair placed before a long curved row of empty seats in a large assembly hall. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: House seats follow population.",
+        "tip": "House seats follow population.",
         "title": "ONE SEAT, BY POPULATION"
       }
     },
@@ -257,7 +257,7 @@
       ],
       "difficulty": "hard",
       "explanation": "The Federalist Papers, written mainly by Hamilton, Madison, and Jay, argued for ratification. Federalist No. 10 and No. 51 remain classic statements on factions and checks and balances.",
-      "memoryHook": "T-Rexy says: The Federalist argued for ratification.",
+      "memoryHook": "The Federalist argued for ratification.",
       "tags": [
         "constitution",
         "history"
@@ -268,7 +268,7 @@
       "img": {
         "dino": false,
         "scene": "A stack of folded newspapers and pamphlets tied with twine on a wooden desk beside a candle. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: The Federalist argued for ratification.",
+        "tip": "The Federalist argued for ratification.",
         "title": "ARGUING FOR THE UNION"
       }
     },
@@ -283,7 +283,7 @@
       ],
       "difficulty": "easy",
       "explanation": "The Bill of Rights (1791) protects freedoms such as speech, religion, and due process, and reserves unlisted powers to the states or the people.",
-      "memoryHook": "T-Rexy says: The first ten protect the individual.",
+      "memoryHook": "The first ten protect the individual.",
       "tags": [
         "bill-of-rights"
       ],
@@ -293,7 +293,7 @@
       "img": {
         "dino": false,
         "scene": "A framed parchment sheet hanging on a wall in soft gallery light, its surface blank. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: The first ten protect the individual.",
+        "tip": "The first ten protect the individual.",
         "title": "THE FIRST TEN"
       }
     },
@@ -308,7 +308,7 @@
       ],
       "difficulty": "easy",
       "explanation": "The First Amendment bars government from abridging freedom of the press and of speech, along with religion, assembly, and petition.",
-      "memoryHook": "T-Rexy says: Speech and press come first.",
+      "memoryHook": "Speech and press come first.",
       "tags": [
         "bill-of-rights",
         "first-amendment"
@@ -319,7 +319,7 @@
       "img": {
         "dino": false,
         "scene": "A vintage printing press in a small workshop with blank sheets stacked beside it. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Speech and press come first.",
+        "tip": "Speech and press come first.",
         "title": "A FREE PRESS"
       }
     },
@@ -334,7 +334,7 @@
       ],
       "difficulty": "easy",
       "explanation": "The Fourth Amendment protects against unreasonable searches and seizures and generally requires a warrant supported by probable cause.",
-      "memoryHook": "T-Rexy says: No unreasonable searches - get a warrant.",
+      "memoryHook": "No unreasonable searches - get a warrant.",
       "tags": [
         "bill-of-rights",
         "fourth-amendment"
@@ -345,7 +345,7 @@
       "img": {
         "dino": false,
         "scene": "A closed wooden front door of a house at dusk, warm light in the windows, seen from the porch. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: No unreasonable searches - get a warrant.",
+        "tip": "No unreasonable searches - get a warrant.",
         "title": "SECURE IN YOUR HOME"
       }
     },
@@ -360,7 +360,7 @@
       ],
       "difficulty": "medium",
       "explanation": "The Sixth Amendment guarantees a speedy public trial, an impartial jury, and the assistance of counsel - applied to the states in Gideon v. Wainwright (1963).",
-      "memoryHook": "T-Rexy says: The Sixth guarantees your defense.",
+      "memoryHook": "The Sixth guarantees your defense.",
       "tags": [
         "bill-of-rights",
         "sixth-amendment"
@@ -371,7 +371,7 @@
       "img": {
         "dino": false,
         "scene": "An empty courtroom with a jury box, a judge's bench and two counsel tables in quiet light. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: The Sixth guarantees your defense.",
+        "tip": "The Sixth guarantees your defense.",
         "title": "THE RIGHT TO COUNSEL"
       }
     },
@@ -386,7 +386,7 @@
       ],
       "difficulty": "medium",
       "explanation": "The Tenth Amendment reserves powers not delegated to the United States, nor prohibited to the states, to the states respectively or to the people - the textual basis of federalism.",
-      "memoryHook": "T-Rexy says: What is not given is reserved.",
+      "memoryHook": "What is not given is reserved.",
       "tags": [
         "federalism",
         "tenth-amendment"
@@ -397,7 +397,7 @@
       "img": {
         "dino": false,
         "scene": "A wide western landscape divided by a fence line, mountains in the distance under a big sky. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: What is not given is reserved.",
+        "tip": "What is not given is reserved.",
         "title": "RESERVED TO THE STATES"
       }
     },
@@ -412,7 +412,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Article I's Commerce Clause is the source of much federal regulatory power over interstate economic activity. The same clause, with its tribal counterpart, frames the federal relationship with tribal governments.",
-      "memoryHook": "T-Rexy says: Commerce among the states - and tribes.",
+      "memoryHook": "Commerce among the states - and tribes.",
       "tags": [
         "congress",
         "commerce-clause"
@@ -423,7 +423,7 @@
       "img": {
         "dino": false,
         "scene": "Freight wagons and a modern highway crossing a broad river valley at sunset, side by side in one landscape. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Commerce among the states - and tribes.",
+        "tip": "Commerce among the states - and tribes.",
         "title": "COMMERCE ACROSS BORDERS"
       }
     },
@@ -438,7 +438,7 @@
       ],
       "difficulty": "medium",
       "explanation": "The Supremacy Clause makes the Constitution, federal laws, and treaties the supreme law of the land; state law yields when the two genuinely conflict.",
-      "memoryHook": "T-Rexy says: Federal law wins a true conflict.",
+      "memoryHook": "Federal law wins a true conflict.",
       "tags": [
         "constitution",
         "supremacy-clause"
@@ -449,7 +449,7 @@
       "img": {
         "dino": false,
         "scene": "Two overlapping translucent sheets of glass over a map table, the upper sheet catching the light. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Federal law wins a true conflict.",
+        "tip": "Federal law wins a true conflict.",
         "title": "SUPREME LAW OF THE LAND"
       }
     },
@@ -464,7 +464,7 @@
       ],
       "difficulty": "hard",
       "explanation": "The Necessary and Proper Clause (the 'elastic clause') lets Congress choose means to execute its enumerated powers - the basis of implied powers, confirmed in McCulloch v. Maryland (1819).",
-      "memoryHook": "T-Rexy says: Necessary and proper stretches the list.",
+      "memoryHook": "Necessary and proper stretches the list.",
       "tags": [
         "congress",
         "implied-powers"
@@ -475,7 +475,7 @@
       "img": {
         "dino": false,
         "scene": "A coiled rope stretched between two wooden posts, taut but flexible, in bright daylight. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Necessary and proper stretches the list.",
+        "tip": "Necessary and proper stretches the list.",
         "title": "THE ELASTIC CLAUSE"
       }
     },
@@ -490,7 +490,7 @@
       ],
       "difficulty": "hard",
       "explanation": "Article I, Section 7 sets the path: identical passage by both chambers, then presentment to the president, who may sign or veto. The president's constitutional role here is executive - the veto is the executive's check inside lawmaking.",
-      "memoryHook": "T-Rexy says: Sign or veto - that is the choice.",
+      "memoryHook": "Sign or veto - that is the choice.",
       "tags": [
         "lawmaking",
         "president"
@@ -501,7 +501,7 @@
       "img": {
         "dino": false,
         "scene": "A polished wooden desk with a single unsigned document and a fountain pen resting beside it. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Sign or veto - that is the choice.",
+        "tip": "Sign or veto - that is the choice.",
         "title": "ON THE PRESIDENT'S DESK"
       }
     },
@@ -516,7 +516,7 @@
       ],
       "difficulty": "hard",
       "explanation": "Each state's electoral votes equal its congressional delegation: Wyoming has 2 senators + 1 representative = 3 electoral votes, cast by electors chosen by the state's voters.",
-      "memoryHook": "T-Rexy says: Two plus one equals three electors.",
+      "memoryHook": "Two plus one equals three electors.",
       "tags": [
         "elections",
         "electoral-college"
@@ -527,7 +527,7 @@
       "img": {
         "dino": false,
         "scene": "A ballot box on a table in a small-town polling place with folding chairs and a flag in the corner. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Two plus one equals three electors.",
+        "tip": "Two plus one equals three electors.",
         "title": "THREE ELECTORAL VOTES"
       }
     },
@@ -542,7 +542,7 @@
       ],
       "difficulty": "easy",
       "explanation": "Article II provides that presidential powers and duties devolve on the vice president; the Twenty-fifth Amendment (1967) confirms the vice president becomes president and supplies procedures for disability and vacancies.",
-      "memoryHook": "T-Rexy says: Succession is written down in advance.",
+      "memoryHook": "Succession is written down in advance.",
       "tags": [
         "president",
         "succession"
@@ -553,7 +553,7 @@
       "img": {
         "dino": false,
         "scene": "An empty presidential seal podium in a formal room, a single chair beside it, flags behind. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Succession is written down in advance.",
+        "tip": "Succession is written down in advance.",
         "title": "AN ORDERLY SUCCESSION"
       }
     },
@@ -568,7 +568,7 @@
       ],
       "difficulty": "easy",
       "explanation": "Article II gives the president power to make treaties 'by and with the Advice and Consent of the Senate,' provided two-thirds of the senators present concur. Treaties - including treaties with tribal nations - then rank as supreme law.",
-      "memoryHook": "T-Rexy says: Treaties need two-thirds of the Senate.",
+      "memoryHook": "Treaties need two-thirds of the Senate.",
       "tags": [
         "treaties",
         "senate"
@@ -579,7 +579,7 @@
       "img": {
         "dino": false,
         "scene": "Two long rows of desks facing each other in a formal chamber, an open blank document on the central table. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Treaties need two-thirds of the Senate.",
+        "tip": "Treaties need two-thirds of the Senate.",
         "title": "ADVICE AND CONSENT"
       }
     },
@@ -594,7 +594,7 @@
       ],
       "difficulty": "easy",
       "explanation": "The House alone may impeach (bring charges); the Senate alone tries impeachments, with conviction requiring two-thirds. Impeachment is Congress's removal check on executive and judicial officials.",
-      "memoryHook": "T-Rexy says: The House accuses; the Senate tries.",
+      "memoryHook": "The House accuses; the Senate tries.",
       "tags": [
         "impeachment",
         "congress"
@@ -605,7 +605,7 @@
       "img": {
         "dino": false,
         "scene": "A gavel resting on a sounding block beside a thick closed ledger in a wood-paneled room. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: The House accuses; the Senate tries.",
+        "tip": "The House accuses; the Senate tries.",
         "title": "THE POWER TO ACCUSE"
       }
     },
@@ -620,7 +620,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Article I, Section 8 lists Congress's powers: taxing, borrowing, coining money, declaring war, and raising and supporting armies and a navy. The president commands the forces Congress raises.",
-      "memoryHook": "T-Rexy says: The war power sits with Congress.",
+      "memoryHook": "The war power sits with Congress.",
       "tags": [
         "congress",
         "enumerated-powers"
@@ -631,7 +631,7 @@
       "img": {
         "dino": false,
         "scene": "Rows of empty seats rising in tiers in a large legislative chamber, flags at the front. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: The war power sits with Congress.",
+        "tip": "The war power sits with Congress.",
         "title": "POWERS LISTED IN ARTICLE I"
       }
     },
@@ -646,7 +646,7 @@
       ],
       "difficulty": "medium",
       "explanation": "McCulloch v. Maryland (1819) held that 'the power to tax involves the power to destroy,' so states cannot tax federal instrumentalities; the case also upheld Congress's implied power to charter a national bank.",
-      "memoryHook": "T-Rexy says: States cannot tax the Union's tools.",
+      "memoryHook": "States cannot tax the Union's tools.",
       "tags": [
         "federalism",
         "landmark-cases"
@@ -657,7 +657,7 @@
       "img": {
         "dino": false,
         "scene": "A stone federal building with columns, a flag above, standing among smaller brick storefronts. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: States cannot tax the Union's tools.",
+        "tip": "States cannot tax the Union's tools.",
         "title": "THE POWER TO TAX"
       }
     },
@@ -672,7 +672,7 @@
       ],
       "difficulty": "medium",
       "explanation": "The Ninth Amendment states that listing certain rights in the Constitution shall not be construed to deny or disparage others retained by the people - the list was never meant to be exhaustive.",
-      "memoryHook": "T-Rexy says: Unlisted rights are retained, not lost.",
+      "memoryHook": "Unlisted rights are retained, not lost.",
       "tags": [
         "bill-of-rights",
         "ninth-amendment"
@@ -683,7 +683,7 @@
       "img": {
         "dino": false,
         "scene": "An open book with several blank pages following the filled ones, on a reading stand in warm light. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Unlisted rights are retained, not lost.",
+        "tip": "Unlisted rights are retained, not lost.",
         "title": "RIGHTS BEYOND THE LIST"
       }
     },
@@ -698,7 +698,7 @@
       ],
       "difficulty": "medium",
       "explanation": "The Reconstruction Amendments abolished slavery (13th), defined citizenship and guaranteed due process and equal protection against the states (14th), and barred racial discrimination in voting (15th).",
-      "memoryHook": "T-Rexy says: Thirteen, fourteen, fifteen rebuilt rights.",
+      "memoryHook": "Thirteen, fourteen, fifteen rebuilt rights.",
       "tags": [
         "amendments",
         "reconstruction"
@@ -709,7 +709,7 @@
       "img": {
         "dino": false,
         "scene": "Three stone steps leading up to a courthouse door, morning sun striking them in sequence. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Thirteen, fourteen, fifteen rebuilt rights.",
+        "tip": "Thirteen, fourteen, fifteen rebuilt rights.",
         "title": "REBUILDING AFTER WAR"
       }
     },
@@ -724,7 +724,7 @@
       ],
       "difficulty": "hard",
       "explanation": "The Nineteenth Amendment (1920) barred denying the vote on account of sex nationwide. Wyoming women had voted since 1869 under territorial law - half a century earlier.",
-      "memoryHook": "T-Rexy says: Nineteen twenty, nationwide at last.",
+      "memoryHook": "Nineteen twenty, nationwide at last.",
       "tags": [
         "amendments",
         "voting"
@@ -735,7 +735,7 @@
       "img": {
         "dino": false,
         "scene": "Women in long dresses and hats standing in line outside a small wooden polling place on a prairie street. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Nineteen twenty, nationwide at last.",
+        "tip": "Nineteen twenty, nationwide at last.",
         "title": "THE VOTE, NATIONWIDE"
       }
     },
@@ -750,7 +750,7 @@
       ],
       "difficulty": "hard",
       "explanation": "The Twenty-fourth Amendment (1964) banned poll taxes in federal elections; the Supreme Court extended the ban to state elections in 1966. Barriers priced in money cannot gate the ballot.",
-      "memoryHook": "T-Rexy says: No fee may gate the ballot.",
+      "memoryHook": "No fee may gate the ballot.",
       "tags": [
         "amendments",
         "voting"
@@ -761,7 +761,7 @@
       "img": {
         "dino": false,
         "scene": "An empty ballot box with its slot visible, a few coins deliberately placed far away from it on the table. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: No fee may gate the ballot.",
+        "tip": "No fee may gate the ballot.",
         "title": "NO PRICE ON VOTING"
       }
     },
@@ -776,7 +776,7 @@
       ],
       "difficulty": "hard",
       "explanation": "After Franklin D. Roosevelt's four elections, the Twenty-second Amendment (1951) limited presidents to two elected terms (plus up to two years of a predecessor's term). Wyoming's governor is likewise limited to two consecutive terms by state law.",
-      "memoryHook": "T-Rexy says: Two elected terms - that is the cap.",
+      "memoryHook": "Two elected terms - that is the cap.",
       "tags": [
         "amendments",
         "president"
@@ -787,7 +787,7 @@
       "img": {
         "dino": false,
         "scene": "A desk calendar with many pages turned, resting beside a closed door in an official office. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Two elected terms - that is the cap.",
+        "tip": "Two elected terms - that is the cap.",
         "title": "TERM LIMITS IN WRITING"
       }
     },
@@ -802,7 +802,7 @@
       ],
       "difficulty": "easy",
       "explanation": "The Seventeenth Amendment (1913) moved Senate elections from state legislatures to the people, one of the Progressive Era's direct-democracy reforms.",
-      "memoryHook": "T-Rexy says: Senators by the people's vote.",
+      "memoryHook": "Senators by the people's vote.",
       "tags": [
         "amendments",
         "senate"
@@ -813,7 +813,7 @@
       "img": {
         "dino": false,
         "scene": "Voters queuing at a row of curtained voting booths in a school gymnasium. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Senators by the people's vote.",
+        "tip": "Senators by the people's vote.",
         "title": "SENATORS BY DIRECT VOTE"
       }
     },
@@ -828,7 +828,7 @@
       ],
       "difficulty": "easy",
       "explanation": "Article V requires proposal by two-thirds of Congress (or a convention) and ratification by three-fourths of the state legislatures or state conventions - the route every amendment so far has completed.",
-      "memoryHook": "T-Rexy says: Three-fourths of states must agree.",
+      "memoryHook": "Three-fourths of states must agree.",
       "tags": [
         "amendments",
         "article-v"
@@ -839,7 +839,7 @@
       "img": {
         "dino": false,
         "scene": "A wide map table in a statehouse room with papers spread across many regions, seen from above, all lettering illegible. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Three-fourths of states must agree.",
+        "tip": "Three-fourths of states must agree.",
         "title": "CHANGING THE CHARTER"
       }
     },
@@ -854,7 +854,7 @@
       ],
       "difficulty": "easy",
       "explanation": "The Connecticut (Great) Compromise of 1787 joined the Virginia Plan's proportional House to the New Jersey Plan's equal Senate, making ratification possible for small states like those of the interior West.",
-      "memoryHook": "T-Rexy says: One chamber each way - the deal of 1787.",
+      "memoryHook": "One chamber each way - the deal of 1787.",
       "tags": [
         "constitution",
         "history"
@@ -865,7 +865,7 @@
       "img": {
         "dino": false,
         "scene": "Two different-sized wooden tables joined into one long table in a colonial hall, chairs along both. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: One chamber each way - the deal of 1787.",
+        "tip": "One chamber each way - the deal of 1787.",
         "title": "THE GREAT COMPROMISE"
       }
     },
@@ -880,7 +880,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Foreign affairs, war, immigration, and currency are national powers; states govern education, elections administration, and most day-to-day law. Tribal governments hold their own inherent sovereign authority, a third strand examined in the Wyoming layer.",
-      "memoryHook": "T-Rexy says: Foreign affairs sit at the national level.",
+      "memoryHook": "Foreign affairs sit at the national level.",
       "tags": [
         "federalism"
       ],
@@ -890,7 +890,7 @@
       "img": {
         "dino": false,
         "scene": "A globe on a stand in a government office, flags of many nations blurred softly in the background. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Foreign affairs sit at the national level.",
+        "tip": "Foreign affairs sit at the national level.",
         "title": "WHO SPEAKS FOR THE NATION"
       }
     },
@@ -905,7 +905,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Federalism divides sovereignty: each level is supreme in its own sphere, both govern the same people, and conflicts are resolved by the Supremacy Clause only when compliance with both is impossible.",
-      "memoryHook": "T-Rexy says: Two governments, one people, divided jobs.",
+      "memoryHook": "Two governments, one people, divided jobs.",
       "tags": [
         "federalism"
       ],
@@ -915,7 +915,7 @@
       "img": {
         "dino": false,
         "scene": "A braided rope of two strands running together across a wooden beam, neither strand on top. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Two governments, one people, divided jobs.",
+        "tip": "Two governments, one people, divided jobs.",
         "title": "SHARED AND DIVIDED"
       }
     },
@@ -930,7 +930,7 @@
       ],
       "difficulty": "medium",
       "explanation": "The Constitution staggers Senate terms at six years (one-third elected every two years) for continuity, while the whole House faces the voters every two years for responsiveness. Wyoming's two senators and single representative follow the same cycles.",
-      "memoryHook": "T-Rexy says: Six for the Senate, two for the House.",
+      "memoryHook": "Six for the Senate, two for the House.",
       "tags": [
         "congress",
         "terms"
@@ -941,7 +941,7 @@
       "img": {
         "dino": false,
         "scene": "Two clocks of different sizes on a wall in a legislative office, both showing the same time. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Six for the Senate, two for the House.",
+        "tip": "Six for the Senate, two for the House.",
         "title": "TWO CLOCKS OF CONGRESS"
       }
     },
@@ -956,7 +956,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Article II requires Senate confirmation for principal officers and federal judges. The president nominates; the Senate's advice-and-consent vote is the check that must follow.",
-      "memoryHook": "T-Rexy says: Nominated by one, confirmed by the other.",
+      "memoryHook": "Nominated by one, confirmed by the other.",
       "tags": [
         "appointments",
         "senate"
@@ -967,7 +967,7 @@
       "img": {
         "dino": false,
         "scene": "A single empty leather chair behind a long committee table with microphones in a hearing room. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Nominated by one, confirmed by the other.",
+        "tip": "Nominated by one, confirmed by the other.",
         "title": "CONFIRMATION HEARINGS"
       }
     },
@@ -982,7 +982,7 @@
       ],
       "difficulty": "hard",
       "explanation": "The Origination Clause (Article I, Section 7) requires bills for raising revenue to begin in the House - the chamber closest to the people - though the Senate may amend them.",
-      "memoryHook": "T-Rexy says: Money bills start in the people's house.",
+      "memoryHook": "Money bills start in the people's house.",
       "tags": [
         "congress",
         "lawmaking"
@@ -993,7 +993,7 @@
       "img": {
         "dino": false,
         "scene": "A stack of blank ledger books on a clerk's desk at the front of a legislative chamber. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Money bills start in the people's house.",
+        "tip": "Money bills start in the people's house.",
         "title": "WHERE MONEY BILLS BEGIN"
       }
     },
@@ -1008,7 +1008,7 @@
       ],
       "difficulty": "hard",
       "explanation": "Through the Fourteenth Amendment's Due Process Clause, most Bill of Rights protections have been applied ('incorporated') against state and local governments, and state procedures and substance are tested for fundamental fairness.",
-      "memoryHook": "T-Rexy says: Due process binds the states, too.",
+      "memoryHook": "Due process binds the states, too.",
       "tags": [
         "amendments",
         "fourteenth"
@@ -1019,7 +1019,7 @@
       "img": {
         "dino": false,
         "scene": "Stone steps of a state capitol with a column of light falling across them at dawn. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Due process binds the states, too.",
+        "tip": "Due process binds the states, too.",
         "title": "DUE PROCESS AGAINST STATES"
       }
     },
@@ -1034,7 +1034,7 @@
       ],
       "difficulty": "hard",
       "explanation": "The Equal Protection Clause of the Fourteenth Amendment (1868) is the Constitution's central guarantee against unequal state laws - the provision behind school-desegregation and many other landmark rulings.",
-      "memoryHook": "T-Rexy says: Equal protection is the Fourteenth's promise.",
+      "memoryHook": "Equal protection is the Fourteenth's promise.",
       "tags": [
         "amendments",
         "fourteenth"
@@ -1045,7 +1045,7 @@
       "img": {
         "dino": false,
         "scene": "A perfectly balanced scale on a marble ledge, both pans level, in even light. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Equal protection is the Fourteenth's promise.",
+        "tip": "Equal protection is the Fourteenth's promise.",
         "title": "EQUAL UNDER THE LAW"
       }
     },
@@ -1060,7 +1060,7 @@
       ],
       "difficulty": "easy",
       "explanation": "Barron v. Baltimore held the Bill of Rights limited only federal action. The Fourteenth Amendment (1868) later supplied the route - its Due Process Clause - by which courts applied most of those rights against the states.",
-      "memoryHook": "T-Rexy says: The Fourteenth carried rights to the states.",
+      "memoryHook": "The Fourteenth carried rights to the states.",
       "tags": [
         "bill-of-rights",
         "history"
@@ -1071,7 +1071,7 @@
       "img": {
         "dino": false,
         "scene": "An old stone bridge spanning a river, joining two different town skylines at golden hour. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: The Fourteenth carried rights to the states.",
+        "tip": "The Fourteenth carried rights to the states.",
         "title": "A BRIDGE BUILT IN 1868"
       }
     },
@@ -1086,7 +1086,7 @@
       ],
       "difficulty": "easy",
       "explanation": "Federalist No. 51 defends the separation of powers: because officeholders identify with their own branch, their ambition becomes a working check - the design logic behind the Constitution's structure.",
-      "memoryHook": "T-Rexy says: Ambition checks ambition by design.",
+      "memoryHook": "Ambition checks ambition by design.",
       "tags": [
         "federalist",
         "separation-of-powers"
@@ -1097,7 +1097,7 @@
       "img": {
         "dino": false,
         "scene": "Two chess kings facing each other across a board, neither able to move past the other. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Ambition checks ambition by design.",
+        "tip": "Ambition checks ambition by design.",
         "title": "AMBITION AGAINST AMBITION"
       }
     },
@@ -1112,7 +1112,7 @@
       ],
       "difficulty": "easy",
       "explanation": "By statute (the Presidential Succession Act), if both the presidency and vice presidency are vacant, the Speaker of the House acts as president, followed by the Senate president pro tempore and then cabinet secretaries.",
-      "memoryHook": "T-Rexy says: Speaker is second in line by statute.",
+      "memoryHook": "Speaker is second in line by statute.",
       "tags": [
         "succession",
         "congress"
@@ -1123,7 +1123,7 @@
       "img": {
         "dino": false,
         "scene": "A row of empty official chairs arranged by rank along a paneled wall, the second chair highlighted by a shaft of light. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Speaker is second in line by statute.",
+        "tip": "Speaker is second in line by statute.",
         "title": "THE ORDER OF SUCCESSION"
       }
     },
@@ -1138,7 +1138,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Article II vests 'the executive Power' in the president, while Congress creates departments and offices under its own powers. Removal fights - from Myers to Humphrey's Executor and beyond - test how far presidential control reaches.",
-      "memoryHook": "T-Rexy says: Who controls the administrators?",
+      "memoryHook": "Who controls the administrators?",
       "tags": [
         "separation-of-powers",
         "executive"
@@ -1149,7 +1149,7 @@
       "img": {
         "dino": false,
         "scene": "A tug-of-war rope held taut between two stone pillars, motionless in balance. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Who controls the administrators?",
+        "tip": "Who controls the administrators?",
         "title": "DRAWING THE BOUNDARY"
       }
     },
@@ -1164,7 +1164,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Article VI names three supreme authorities: the Constitution, the laws of the United States, and treaties made under its authority. Treaty supremacy is also the frame for the treaty rights examined in Wyoming's tribal layer.",
-      "memoryHook": "T-Rexy says: Treaties rank with the Constitution's law.",
+      "memoryHook": "Treaties rank with the Constitution's law.",
       "tags": [
         "treaties",
         "supremacy-clause"
@@ -1175,7 +1175,7 @@
       "img": {
         "dino": false,
         "scene": "An aged parchment treaty document with a ribbon and wax seal resting on a dark wooden table, its script illegible. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Treaties rank with the Constitution's law.",
+        "tip": "Treaties rank with the Constitution's law.",
         "title": "TREATIES ARE SUPREME LAW"
       }
     },
@@ -1190,7 +1190,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Tribal sovereignty is inherent - it comes from the tribes' status as self-governing peoples before the United States existed, recognized in treaties and the Constitution's Indian Commerce Clause, not granted by any state.",
-      "memoryHook": "T-Rexy says: Tribal authority predates the republic.",
+      "memoryHook": "Tribal authority predates the republic.",
       "tags": [
         "tribal-sovereignty",
         "federal"
@@ -1201,7 +1201,7 @@
       "img": {
         "dino": false,
         "scene": "A wide river valley at sunrise with tipis and a small town visible on opposite horizons. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Tribal authority predates the republic.",
+        "tip": "Tribal authority predates the republic.",
         "title": "A THIRD SOVEREIGN"
       }
     },
@@ -1216,7 +1216,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Article I, Section 8 gives Congress power to regulate commerce with foreign nations, among the states, and with the Indian Tribes - placing tribal relations at the federal, not state, level from the founding onward (SS8.1.5.a's Wyoming benchmark).",
-      "memoryHook": "T-Rexy says: Commerce 'with the Indian Tribes.'",
+      "memoryHook": "Commerce 'with the Indian Tribes.'",
       "tags": [
         "tribal-sovereignty",
         "commerce-clause"
@@ -1227,7 +1227,7 @@
       "img": {
         "dino": false,
         "scene": "A trading post scene with woven blankets, beadwork and goods laid out on a wooden counter, no people close to the lens. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Commerce 'with the Indian Tribes.'",
+        "tip": "Commerce 'with the Indian Tribes.'",
         "title": "COMMERCE WITH THE TRIBES"
       }
     },
@@ -1242,7 +1242,7 @@
       ],
       "difficulty": "hard",
       "explanation": "Marshall's Cherokee cases - Cherokee Nation v. Georgia (1831) and Worcester v. Georgia (1832) - form two-thirds of the Marshall Trilogy: tribes are domestic dependent nations whose territory state law cannot invade; their relation is to the federal government.",
-      "memoryHook": "T-Rexy says: Domestic dependent nations - Marshall, 1831.",
+      "memoryHook": "Domestic dependent nations - Marshall, 1831.",
       "tags": [
         "tribal-sovereignty",
         "landmark-cases"
@@ -1253,7 +1253,7 @@
       "img": {
         "dino": false,
         "scene": "A river bending between forested hills in morning mist, a canoe resting on the near bank. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Domestic dependent nations - Marshall, 1831.",
+        "tip": "Domestic dependent nations - Marshall, 1831.",
         "title": "THE MARSHALL TRILOGY"
       }
     },
@@ -1268,7 +1268,7 @@
       ],
       "difficulty": "hard",
       "explanation": "Worcester v. Georgia held Georgia's laws void in Cherokee territory: the Constitution, treaties, and federal statutes committed Indian relations exclusively to the federal government - the root of the rule that Wyoming law generally does not govern on the Wind River Indian Reservation.",
-      "memoryHook": "T-Rexy says: On tribal land, state law stops at the line.",
+      "memoryHook": "On tribal land, state law stops at the line.",
       "tags": [
         "tribal-sovereignty",
         "landmark-cases"
@@ -1279,7 +1279,7 @@
       "img": {
         "dino": false,
         "scene": "A boundary marker stone at the edge of a grassy plain, mountains far behind it. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: On tribal land, state law stops at the line.",
+        "tip": "On tribal land, state law stops at the line.",
         "title": "WHERE STATE LAW STOPS"
       }
     },
@@ -1294,7 +1294,7 @@
       ],
       "difficulty": "hard",
       "explanation": "The Plenary Power doctrine gives Congress sweeping authority over tribal affairs under the Indian Commerce Clause and treaty power - a doctrine tribes and scholars criticize, but one every Wyoming civics student meets in SS8.1.5.a and SS12.1.3.a.",
-      "memoryHook": "T-Rexy says: Plenary: broad, federal, and debated.",
+      "memoryHook": "Plenary: broad, federal, and debated.",
       "tags": [
         "tribal-sovereignty",
         "congress"
@@ -1305,7 +1305,7 @@
       "img": {
         "dino": false,
         "scene": "A broad river in full flood spreading across a valley floor under a dramatic sky. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Plenary: broad, federal, and debated.",
+        "tip": "Plenary: broad, federal, and debated.",
         "title": "THE PLENARY POWER"
       }
     },
@@ -1320,7 +1320,7 @@
       ],
       "difficulty": "easy",
       "explanation": "The Twenty-sixth Amendment (1971), ratified faster than any other, set 18 as the minimum voting age after draft-age young men were sent to Vietnam without a vote.",
-      "memoryHook": "T-Rexy says: Old enough to serve, old enough to vote.",
+      "memoryHook": "Old enough to serve, old enough to vote.",
       "tags": [
         "amendments",
         "voting"
@@ -1331,7 +1331,7 @@
       "img": {
         "dino": false,
         "scene": "A row of young first-time voters at a registration table in a high-school gym. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Old enough to serve, old enough to vote.",
+        "tip": "Old enough to serve, old enough to vote.",
         "title": "EIGHTEEN AND ELIGIBLE"
       }
     },
@@ -1346,7 +1346,7 @@
       ],
       "difficulty": "easy",
       "explanation": "The Twenty-third Amendment (1961) grants the District electors as if it were a state, capped at the least populous state's number - which is Wyoming's three, making Wyoming the measuring stick of the amendment.",
-      "memoryHook": "T-Rexy says: D.C. is measured against Wyoming's three.",
+      "memoryHook": "D.C. is measured against Wyoming's three.",
       "tags": [
         "amendments",
         "electoral-college"
@@ -1357,7 +1357,7 @@
       "img": {
         "dino": false,
         "scene": "A city skyline at dusk seen across a wide river, domed buildings in the distance. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: D.C. is measured against Wyoming's three.",
+        "tip": "D.C. is measured against Wyoming's three.",
         "title": "MEASURED AGAINST WYOMING"
       }
     },
@@ -1372,7 +1372,7 @@
       ],
       "difficulty": "easy",
       "explanation": "The Twentieth Amendment (1933) moved presidential and congressional term starts to January, shortening the lame-duck period. Wyoming's governor likewise takes office in January - on the first Monday of the month.",
-      "memoryHook": "T-Rexy says: January starts the terms now.",
+      "memoryHook": "January starts the terms now.",
       "tags": [
         "amendments",
         "president"
@@ -1383,7 +1383,7 @@
       "img": {
         "dino": false,
         "scene": "A fresh calendar page for January pinned above a desk in an official office, all print too small to read. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: January starts the terms now.",
+        "tip": "January starts the terms now.",
         "title": "TERMS BEGIN IN JANUARY"
       }
     },
@@ -1398,7 +1398,7 @@
       ],
       "difficulty": "medium",
       "explanation": "The Twenty-first Amendment (1933) repealed the Eighteenth (1919) - the only time an amendment has undone another - and returned alcohol regulation largely to the states.",
-      "memoryHook": "T-Rexy says: The only amendment that repeals another.",
+      "memoryHook": "The only amendment that repeals another.",
       "tags": [
         "amendments",
         "history"
@@ -1409,7 +1409,7 @@
       "img": {
         "dino": false,
         "scene": "Two facing pages of an old book, the second page visibly newer paper, in library light. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: The only amendment that repeals another.",
+        "tip": "The only amendment that repeals another.",
         "title": "REPEAL, BY AMENDMENT"
       }
     },
@@ -1424,7 +1424,7 @@
       ],
       "difficulty": "medium",
       "explanation": "The Sixteenth Amendment (1913) authorized Congress to tax incomes 'from whatever source derived' without apportioning among the states, settling doubts raised by an 1895 Court decision.",
-      "memoryHook": "T-Rexy says: Sixteen made the income tax secure.",
+      "memoryHook": "Sixteen made the income tax secure.",
       "tags": [
         "amendments",
         "taxation"
@@ -1435,7 +1435,7 @@
       "img": {
         "dino": false,
         "scene": "A tax form too blurred to read lying beside a calculator and a pen on a desk. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Sixteen made the income tax secure.",
+        "tip": "Sixteen made the income tax secure.",
         "title": "THE INCOME TAX AMENDMENT"
       }
     },
@@ -1450,7 +1450,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Proposed in 1789 as part of Madison's original package, the Twenty-seventh Amendment - no law varying congressional compensation takes effect until an election intervenes - was finally ratified in 1992.",
-      "memoryHook": "T-Rexy says: Proposed in 1789, ratified in 1992.",
+      "memoryHook": "Proposed in 1789, ratified in 1992.",
       "tags": [
         "amendments",
         "article-v"
@@ -1461,7 +1461,7 @@
       "img": {
         "dino": false,
         "scene": "An hourglass with nearly all its sand resting in the lower bulb, on a museum shelf. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Proposed in 1789, ratified in 1992.",
+        "tip": "Proposed in 1789, ratified in 1992.",
         "title": "TWO CENTURIES TO RATIFY"
       }
     },
@@ -1476,7 +1476,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Every Wyoming citizen is simultaneously a citizen of the United States and of Wyoming (Fourteenth Amendment), voting in both systems; tribal citizens add a third citizenship, in their tribal nation - the SS12.1.1.a comparison.",
-      "memoryHook": "T-Rexy says: Citizen of nation, state, and tribe.",
+      "memoryHook": "Citizen of nation, state, and tribe.",
       "tags": [
         "federalism",
         "citizenship"
@@ -1487,7 +1487,7 @@
       "img": {
         "dino": false,
         "scene": "A stack of several ballot pages fanned out on a table, all printing too blurred to read. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Citizen of nation, state, and tribe.",
+        "tip": "Citizen of nation, state, and tribe.",
         "title": "MANY BALLOTS, ONE CITIZEN"
       }
     },
@@ -1502,7 +1502,7 @@
       ],
       "difficulty": "hard",
       "explanation": "Jefferson drafted the Declaration (1776), adopted July 4, announcing that the thirteen colonies were independent states, free of the British Crown - the principles the Constitution's generation later built upon.",
-      "memoryHook": "T-Rexy says: Jefferson wrote it; independence was its news.",
+      "memoryHook": "Jefferson wrote it; independence was its news.",
       "tags": [
         "founding",
         "history"
@@ -1513,7 +1513,7 @@
       "img": {
         "dino": false,
         "scene": "A quill resting in an inkwell beside a rolled parchment tied with ribbon, candlelight. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Jefferson wrote it; independence was its news.",
+        "tip": "Jefferson wrote it; independence was its news.",
         "title": "THE DECLARATION"
       }
     },
@@ -1528,7 +1528,7 @@
       ],
       "difficulty": "hard",
       "explanation": "Order matters: Declaration of Independence 1776, Articles of Confederation ratified 1781, Constitution drafted 1787 and effective 1789, Bill of Rights 1791. Each step responded to the weakness of the one before.",
-      "memoryHook": "T-Rexy says: Declaration, Articles, Constitution, Rights.",
+      "memoryHook": "Declaration, Articles, Constitution, Rights.",
       "tags": [
         "founding",
         "history"
@@ -1539,7 +1539,7 @@
       "img": {
         "dino": false,
         "scene": "Four stepping stones crossing a stream in chronological procession, morning light. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Declaration, Articles, Constitution, Rights.",
+        "tip": "Declaration, Articles, Constitution, Rights.",
         "title": "THE FOUNDING SEQUENCE"
       }
     },
@@ -1554,7 +1554,7 @@
       ],
       "difficulty": "hard",
       "explanation": "Article III vests judicial power in the Supreme Court and lower federal courts Congress creates. Federal courts hear treaty and tribal-sovereignty cases - including Wyoming's own U.S. v. Shoshone Tribe of Indians.",
-      "memoryHook": "T-Rexy says: Article III courts hear treaty cases.",
+      "memoryHook": "Article III courts hear treaty cases.",
       "tags": [
         "courts",
         "treaties"
@@ -1565,7 +1565,7 @@
       "img": {
         "dino": false,
         "scene": "A judge's bench seen from the courtroom floor, flags standing to either side, empty and solemn. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Article III courts hear treaty cases.",
+        "tip": "Article III courts hear treaty cases.",
         "title": "ARTICLE III COURTS"
       }
     },
@@ -1580,7 +1580,7 @@
       ],
       "difficulty": "easy",
       "explanation": "Article II, Section 3 requires the president 'from time to time' to give Congress information on the state of the union and recommend measures - the textual root of the annual address.",
-      "memoryHook": "T-Rexy says: The report itself is constitutional.",
+      "memoryHook": "The report itself is constitutional.",
       "tags": [
         "president",
         "article-ii"
@@ -1591,7 +1591,7 @@
       "img": {
         "dino": false,
         "scene": "A speaker's podium in a packed legislative chamber seen from the rear gallery. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: The report itself is constitutional.",
+        "tip": "The report itself is constitutional.",
         "title": "THE ANNUAL REPORT"
       }
     },
@@ -1606,7 +1606,7 @@
       ],
       "difficulty": "easy",
       "explanation": "Article II makes the president commander in chief of the armed forces - a civilian holding military command, deliberate design - while Congress holds the purse and the war-declaring power.",
-      "memoryHook": "T-Rexy says: A civilian commands the military.",
+      "memoryHook": "A civilian commands the military.",
       "tags": [
         "president",
         "article-ii"
@@ -1617,7 +1617,7 @@
       "img": {
         "dino": false,
         "scene": "A folded national flag on a polished table in a quiet ceremonial room. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: A civilian commands the military.",
+        "tip": "A civilian commands the military.",
         "title": "CIVILIAN COMMAND"
       }
     },
@@ -1632,7 +1632,7 @@
       ],
       "difficulty": "easy",
       "explanation": "Checks and balances interlock the branches: each can restrain the others at defined points (veto, override, confirmation, review, impeachment), so power answers power inside the government itself.",
-      "memoryHook": "T-Rexy says: Every branch can stop another somewhere.",
+      "memoryHook": "Every branch can stop another somewhere.",
       "tags": [
         "checks-and-balances"
       ],
@@ -1642,7 +1642,7 @@
       "img": {
         "dino": false,
         "scene": "A triangular arrangement of three interlocking stone rings on a pedestal. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Every branch can stop another somewhere.",
+        "tip": "Every branch can stop another somewhere.",
         "title": "INTERLOCKED BRANCHES"
       }
     },
@@ -1657,7 +1657,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Clause 18 of Article I, Section 8 is the Constitution's great means-choosing provision. Its pairing with the Commerce Clause underwrites most federal regulatory law students meet in the federal half of the Wyoming examination.",
-      "memoryHook": "T-Rexy says: Section 8 ends with the means to do it.",
+      "memoryHook": "Section 8 ends with the means to do it.",
       "tags": [
         "congress",
         "implied-powers"
@@ -1668,7 +1668,7 @@
       "img": {
         "dino": false,
         "scene": "A carpenter's toolbox open beside a half-built wooden frame, every tool within reach. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Section 8 ends with the means to do it.",
+        "tip": "Section 8 ends with the means to do it.",
         "title": "THE MEANS TO EXECUTE"
       }
     },
@@ -1683,7 +1683,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Article IV's Extradition Clause requires a state, on demand of another state's executive, to deliver up a person charged with a crime who fled - a duty the Supreme Court has made enforceable.",
-      "memoryHook": "T-Rexy says: Fugitives are returned on demand.",
+      "memoryHook": "Fugitives are returned on demand.",
       "tags": [
         "article-iv",
         "federalism"
@@ -1694,7 +1694,7 @@
       "img": {
         "dino": false,
         "scene": "A highway crossing an invisible line in open country, a single signpost standing beside it, its face blank. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Fugitives are returned on demand.",
+        "tip": "Fugitives are returned on demand.",
         "title": "RETURNED ON DEMAND"
       }
     },
@@ -1709,7 +1709,7 @@
       ],
       "difficulty": "medium",
       "explanation": "The Full Faith and Credit Clause keeps one legal country out of fifty systems: judgments, licenses, and records travel with the citizen across state lines.",
-      "memoryHook": "T-Rexy says: Records travel with the citizen.",
+      "memoryHook": "Records travel with the citizen.",
       "tags": [
         "article-iv",
         "federalism"
@@ -1720,7 +1720,7 @@
       "img": {
         "dino": false,
         "scene": "A sealed envelope with a wax stamp being handed across a wooden counter, documents blurred. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Records travel with the citizen.",
+        "tip": "Records travel with the citizen.",
         "title": "CREDIT ACROSS STATE LINES"
       }
     },
@@ -1735,7 +1735,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Article IV governs relations among the states: full faith and credit, privileges and immunities of citizens, extradition, admission of new states, and the federal guarantee of a republican form of government.",
-      "memoryHook": "T-Rexy says: Article IV knits the states together.",
+      "memoryHook": "Article IV knits the states together.",
       "tags": [
         "article-iv",
         "federalism"
@@ -1746,7 +1746,7 @@
       "img": {
         "dino": false,
         "scene": "A woven tapestry of many colored panels joined into one cloth, hanging in a hall. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Article IV knits the states together.",
+        "tip": "Article IV knits the states together.",
         "title": "THE STATES' ARTICLE"
       }
     },
@@ -1761,7 +1761,7 @@
       ],
       "difficulty": "hard",
       "explanation": "Section 3 of the Twentieth Amendment provides that if the president-elect dies, the vice president-elect becomes president - part of the 1933 cleanup of the old March calendar.",
-      "memoryHook": "T-Rexy says: The Twentieth planned for the gap.",
+      "memoryHook": "The Twentieth planned for the gap.",
       "tags": [
         "amendments",
         "succession"
@@ -1772,7 +1772,7 @@
       "img": {
         "dino": false,
         "scene": "An empty inauguration platform in winter light, rows of folded chairs awaiting a ceremony. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: The Twentieth planned for the gap.",
+        "tip": "The Twentieth planned for the gap.",
         "title": "IF THE PRESIDENT-ELECT DIES"
       }
     },
@@ -1787,7 +1787,7 @@
       ],
       "difficulty": "hard",
       "explanation": "The Twelfth Amendment (1804) requires electors to cast distinct ballots for president and vice president - the fix for the crisis of 1800 and the reason modern tickets run as pairs.",
-      "memoryHook": "T-Rexy says: Separate ballots since 1804.",
+      "memoryHook": "Separate ballots since 1804.",
       "tags": [
         "amendments",
         "electoral-college"
@@ -1798,7 +1798,7 @@
       "img": {
         "dino": false,
         "scene": "Two separate ballot slips placed side by side on a wooden table in candlelight. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Separate ballots since 1804.",
+        "tip": "Separate ballots since 1804.",
         "title": "TWO BALLOTS, NOT ONE"
       }
     },
@@ -1813,7 +1813,7 @@
       ],
       "difficulty": "hard",
       "explanation": "Treaties are supreme law under Article VI; federal courts construe them as the tribes would have understood them, and reserved-rights doctrine reads silence in a tribe's favor - the doctrines behind the Winters water-rights line of cases that began, fittingly, in the northern Rockies.",
-      "memoryHook": "T-Rexy says: Treaties are read as the tribes understood them.",
+      "memoryHook": "Treaties are read as the tribes understood them.",
       "tags": [
         "treaties",
         "tribal-sovereignty"
@@ -1824,7 +1824,7 @@
       "img": {
         "dino": false,
         "scene": "A river running between treaty-era council grounds and modern farmland under the same sky. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Treaties are read as the tribes understood them.",
+        "tip": "Treaties are read as the tribes understood them.",
         "title": "READ AS UNDERSTOOD"
       }
     },
@@ -1839,7 +1839,7 @@
       ],
       "difficulty": "easy",
       "explanation": "Wyoming's constitution was written at the 1889 Cheyenne convention, adopted by the voters that November, and carried the territory into statehood on July 10, 1890. SS12.1.5 requires students to demonstrate the structures of both it and the U.S. Constitution.",
-      "memoryHook": "T-Rexy says: Written in Cheyenne in 1889, alive since 1890.",
+      "memoryHook": "Written in Cheyenne in 1889, alive since 1890.",
       "tags": [
         "wyoming",
         "constitution"
@@ -1850,7 +1850,7 @@
       "img": {
         "dino": false,
         "scene": "A stone capitol building with a golden dome against a wide prairie sky at midday. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Written in Cheyenne in 1889, alive since 1890.",
+        "tip": "Written in Cheyenne in 1889, alive since 1890.",
         "title": "WYOMING'S OWN CHARTER"
       }
     },
@@ -1865,7 +1865,7 @@
       ],
       "difficulty": "easy",
       "explanation": "Following the pattern of many state constitutions, Wyoming puts its Declaration of Rights first - Article 1 - ahead of the articles distributing and organizing the powers of government, a structural contrast with the U.S. Bill of Rights arriving as amendments.",
-      "memoryHook": "T-Rexy says: Wyoming puts rights first - Article 1.",
+      "memoryHook": "Wyoming puts rights first - Article 1.",
       "tags": [
         "wyoming",
         "constitution",
@@ -1877,7 +1877,7 @@
       "img": {
         "dino": false,
         "scene": "The first page of a large bound book lying open, its text an illegible blur, a ribbon marker at the spine. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Wyoming puts rights first - Article 1.",
+        "tip": "Wyoming puts rights first - Article 1.",
         "title": "RIGHTS COME FIRST IN CHEYENNE"
       }
     },
@@ -1892,7 +1892,7 @@
       ],
       "difficulty": "easy",
       "explanation": "W.S. 21-9-102, one of the oldest constitution-study mandates in the country, requires instruction in the essentials of the U.S. and Wyoming constitutions for at least three years in K-8 and one year each in the secondary and college grades - and bars a diploma without passing an examination on both.",
-      "memoryHook": "T-Rexy says: Three years young, one year secondary.",
+      "memoryHook": "Three years young, one year secondary.",
       "tags": [
         "wyoming",
         "statute"
@@ -1903,7 +1903,7 @@
       "img": {
         "dino": false,
         "scene": "A one-room prairie schoolhouse with a flag flying, benches visible through its open door. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Three years young, one year secondary.",
+        "tip": "Three years young, one year secondary.",
         "title": "THE STATUTE BEHIND THE TEST"
       }
     },
@@ -1918,7 +1918,7 @@
       ],
       "difficulty": "medium",
       "explanation": "The statute's exam is on 'the principles' of both constitutions - it is not the USCIS naturalization test. Bills to prescribe 100 USCIS questions at 60 percent were introduced in 2017-2023 but never enacted, which is exactly why the Wyoming half of the exam needs its own teaching.",
-      "memoryHook": "T-Rexy says: Principles of both - not a federal question bank.",
+      "memoryHook": "Principles of both - not a federal question bank.",
       "tags": [
         "wyoming",
         "statute"
@@ -1929,7 +1929,7 @@
       "img": {
         "dino": false,
         "scene": "A graduate's diploma folder resting closed on a desk beside an examination booklet, its cover blank. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Principles of both - not a federal question bank.",
+        "tip": "Principles of both - not a federal question bank.",
         "title": "NO DIPLOMA WITHOUT IT"
       }
     },
@@ -1944,7 +1944,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Wyoming's bicameral legislature has 31 senators (four-year terms) and 62 representatives (two-year terms) - one of the smallest legislatures in America, matching the least populous state's scale.",
-      "memoryHook": "T-Rexy says: Thirty-one and sixty-two in Cheyenne.",
+      "memoryHook": "Thirty-one and sixty-two in Cheyenne.",
       "tags": [
         "wyoming",
         "legislature"
@@ -1955,7 +1955,7 @@
       "img": {
         "dino": false,
         "scene": "A modest statehouse chamber with wooden desks in curved rows, far smaller than a national legislature's hall. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Thirty-one and sixty-two in Cheyenne.",
+        "tip": "Thirty-one and sixty-two in Cheyenne.",
         "title": "A SMALL STATE'S LEGISLATURE"
       }
     },
@@ -1970,7 +1970,7 @@
       ],
       "difficulty": "medium",
       "explanation": "General sessions (odd years, up to 40 legislative days) work on all subjects; budget sessions (even years, up to 20 days) center on the state's two-year budget, with other bills needing a two-thirds vote for introduction.",
-      "memoryHook": "T-Rexy says: Odd years general, even years budget.",
+      "memoryHook": "Odd years general, even years budget.",
       "tags": [
         "wyoming",
         "legislature"
@@ -1981,7 +1981,7 @@
       "img": {
         "dino": false,
         "scene": "A legislative calendar wheel turning between two marked seasons above a clerk's desk, all print illegible. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Odd years general, even years budget.",
+        "tip": "Odd years general, even years budget.",
         "title": "GENERAL, THEN BUDGET"
       }
     },
@@ -1996,7 +1996,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Wyoming's governor serves four-year terms and is barred from a third consecutive term - the limit that made the 2026 governor's race an open contest. The governor takes office on the first Monday in January.",
-      "memoryHook": "T-Rexy says: Four years, twice in a row at most.",
+      "memoryHook": "Four years, twice in a row at most.",
       "tags": [
         "wyoming",
         "governor"
@@ -2007,7 +2007,7 @@
       "img": {
         "dino": false,
         "scene": "A governor's office with a large desk, a cowboy hat on a stand beside it, flags in the corner. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Four years, twice in a row at most.",
+        "tip": "Four years, twice in a row at most.",
         "title": "THE GOVERNOR'S TERMS"
       }
     },
@@ -2022,7 +2022,7 @@
       ],
       "difficulty": "hard",
       "explanation": "Wyoming elects five executive officials statewide: governor, secretary of state, auditor, treasurer, and superintendent of public instruction. Unusually, Wyoming has no separately elected attorney general - that officer is appointed by the governor.",
-      "memoryHook": "T-Rexy says: Five elected executives run Wyoming.",
+      "memoryHook": "Five elected executives run Wyoming.",
       "tags": [
         "wyoming",
         "executive"
@@ -2033,7 +2033,7 @@
       "img": {
         "dino": false,
         "scene": "Five official chairs arranged in a row on a dais in a hearing room, nameplates turned away from view. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Five elected executives run Wyoming.",
+        "tip": "Five elected executives run Wyoming.",
         "title": "THE ELECTED FIVE"
       }
     },
@@ -2048,7 +2048,7 @@
       ],
       "difficulty": "hard",
       "explanation": "Wyoming is one of the few states with no lieutenant governor at all; if the governorship falls vacant, the secretary of state serves as acting governor - one reason that office is elected separately statewide.",
-      "memoryHook": "T-Rexy says: No lieutenant governor - the secretary steps up.",
+      "memoryHook": "No lieutenant governor - the secretary steps up.",
       "tags": [
         "wyoming",
         "executive",
@@ -2060,7 +2060,7 @@
       "img": {
         "dino": false,
         "scene": "An empty governor's chair with a second official chair drawn up beside it in a formal office. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: No lieutenant governor - the secretary steps up.",
+        "tip": "No lieutenant governor - the secretary steps up.",
         "title": "FIRST IN LINE"
       }
     },
@@ -2075,7 +2075,7 @@
       ],
       "difficulty": "hard",
       "explanation": "Wyoming Supreme Court justices are appointed by the governor from a shortlist prepared by the Judicial Nominating Commission, then kept or removed by retention vote, serving eight-year terms - a merit-selection design written into the state constitution's judicial article.",
-      "memoryHook": "T-Rexy says: Five justices, appointed, then retained.",
+      "memoryHook": "Five justices, appointed, then retained.",
       "tags": [
         "wyoming",
         "judiciary"
@@ -2086,7 +2086,7 @@
       "img": {
         "dino": false,
         "scene": "A small marble courtroom with five high-backed chairs behind a curved bench. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Five justices, appointed, then retained.",
+        "tip": "Five justices, appointed, then retained.",
         "title": "FIVE JUSTICES IN CHEYENNE"
       }
     },
@@ -2101,7 +2101,7 @@
       ],
       "difficulty": "easy",
       "explanation": "Wyoming's judicial system runs circuit courts (small claims, misdemeanors, preliminaries) below district courts (general jurisdiction over felonies and major civil cases), topped by the Supreme Court - the third branch as the state constitution organizes it.",
-      "memoryHook": "T-Rexy says: Circuit below, district above.",
+      "memoryHook": "Circuit below, district above.",
       "tags": [
         "wyoming",
         "judiciary"
@@ -2112,7 +2112,7 @@
       "img": {
         "dino": false,
         "scene": "Two courthouse buildings on the same street, one modest and one grand, under the same morning sky. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Circuit below, district above.",
+        "tip": "Circuit below, district above.",
         "title": "WYOMING'S TRIAL COURTS"
       }
     },
@@ -2127,7 +2127,7 @@
       ],
       "difficulty": "easy",
       "explanation": "Wyoming's constitution reserves initiative and referendum powers to the people: voters may enact statutes by initiative and reject legislative acts by referendum. Constitutional amendments, however, must still start in the legislature - initiative cannot amend the constitution itself.",
-      "memoryHook": "T-Rexy says: The people may legislate directly.",
+      "memoryHook": "The people may legislate directly.",
       "tags": [
         "wyoming",
         "direct-democracy"
@@ -2138,7 +2138,7 @@
       "img": {
         "dino": false,
         "scene": "Citizens at a folding table on a sidewalk signing a petition board, the writing on it illegible. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: The people may legislate directly.",
+        "tip": "The people may legislate directly.",
         "title": "THE PEOPLE LEGISLATE"
       }
     },
@@ -2153,7 +2153,7 @@
       ],
       "difficulty": "easy",
       "explanation": "Wyoming Territory enfranchised women in 1869, and the 1889 convention kept women's suffrage in the constitution despite warnings it could cost statehood - 'we will remain out of the Union a hundred years rather than come in without the women,' as the convention's defenders put it.",
-      "memoryHook": "T-Rexy says: First to let women vote - and it kept the right.",
+      "memoryHook": "First to let women vote - and it kept the right.",
       "tags": [
         "wyoming",
         "history",
@@ -2165,7 +2165,7 @@
       "img": {
         "dino": false,
         "scene": "Women in nineteenth-century dress casting ballots at a wooden ballot box in a frontier town hall. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: First to let women vote - and it kept the right.",
+        "tip": "First to let women vote - and it kept the right.",
         "title": "THE EQUALITY STATE"
       }
     },
@@ -2180,7 +2180,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Esther Hobart Morris's appointment as justice of the peace in 1870 made her the first woman judicial officer of modern times in the United States - an early fruit of the Equality State's 1869 suffrage act.",
-      "memoryHook": "T-Rexy says: First woman judge in the nation, 1870.",
+      "memoryHook": "First woman judge in the nation, 1870.",
       "tags": [
         "wyoming",
         "history"
@@ -2191,7 +2191,7 @@
       "img": {
         "dino": false,
         "scene": "A woman in 1870s dress seated at a small judicial desk in a frontier courtroom, gavel in reach. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: First woman judge in the nation, 1870.",
+        "tip": "First woman judge in the nation, 1870.",
         "title": "THE FIRST WOMAN JUDGE"
       }
     },
@@ -2206,7 +2206,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Nellie Tayloe Ross succeeded her late husband in January 1925, defeating the narrative that women's officeholding would stay symbolic; she later became the first woman director of the U.S. Mint. Wyoming's first-in-the-nation pattern runs suffrage 1869, judge 1870, governor 1925.",
-      "memoryHook": "T-Rexy says: First woman governor, January 1925.",
+      "memoryHook": "First woman governor, January 1925.",
       "tags": [
         "wyoming",
         "history"
@@ -2217,7 +2217,7 @@
       "img": {
         "dino": false,
         "scene": "A woman in 1920s dress taking an oath of office in a capitol room, officials standing around her. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: First woman governor, January 1925.",
+        "tip": "First woman governor, January 1925.",
         "title": "FIRST WOMAN GOVERNOR"
       }
     },
@@ -2232,7 +2232,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Yellowstone (1872) began the world's national-park idea; most of it lies in Wyoming, with parts in Montana and Idaho. Grand Teton, just south, followed in 1929 - Wyoming's federal-land heritage shapes its government questions to this day.",
-      "memoryHook": "T-Rexy says: The first national park, 1872, mostly Wyoming.",
+      "memoryHook": "The first national park, 1872, mostly Wyoming.",
       "tags": [
         "wyoming",
         "geography"
@@ -2243,7 +2243,7 @@
       "img": {
         "dino": false,
         "scene": "A geyser erupting against a backdrop of pine forest and distant snowy peaks at sunrise. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: The first national park, 1872, mostly Wyoming.",
+        "tip": "The first national park, 1872, mostly Wyoming.",
         "title": "THE FIRST NATIONAL PARK"
       }
     },
@@ -2258,7 +2258,7 @@
       ],
       "difficulty": "medium",
       "explanation": "The Wind River Indian Reservation - about 2.2 million acres in Fremont and Hot Springs counties - is the Eastern Shoshone's homeland under the treaties of 1863 and 1868, shared since 1878 with the Northern Arapaho. SS5.5.1.a names its boundaries as elementary Wyoming content.",
-      "memoryHook": "T-Rexy says: One reservation, two nations, in Wyoming.",
+      "memoryHook": "One reservation, two nations, in Wyoming.",
       "tags": [
         "wyoming",
         "tribal"
@@ -2269,7 +2269,7 @@
       "img": {
         "dino": false,
         "scene": "A broad river winding through a high desert valley with snow-capped mountains behind it. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: One reservation, two nations, in Wyoming.",
+        "tip": "One reservation, two nations, in Wyoming.",
         "title": "WIND RIVER COUNTRY"
       }
     },
@@ -2284,7 +2284,7 @@
       ],
       "difficulty": "hard",
       "explanation": "The 1868 Fort Bridger Treaty, negotiated with Chief Washakie, fixed the Shoshone Reservation - later the Wind River Indian Reservation - in the tribe's chosen homeland. Washakie remains the towering figure of the SS5.2.4 Wyoming strand on tensions and cooperation among groups.",
-      "memoryHook": "T-Rexy says: Washakie's treaty homeland, 1868.",
+      "memoryHook": "Washakie's treaty homeland, 1868.",
       "tags": [
         "wyoming",
         "tribal",
@@ -2296,7 +2296,7 @@
       "img": {
         "dino": false,
         "scene": "A council scene at a frontier fort: tribal leaders and officers seated in a circle on open ground, teepees behind. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Washakie's treaty homeland, 1868.",
+        "tip": "Washakie's treaty homeland, 1868.",
         "title": "THE FORT BRIDGER TREATY"
       }
     },
@@ -2311,7 +2311,7 @@
       ],
       "difficulty": "hard",
       "explanation": "The Northern Arapaho, separated from their Southern Arapaho kin, were placed on the Shoshone's reservation in 1878 pending a promised reservation of their own that never came. The U.S. Supreme Court later held the Shoshone were owed compensation for that placement (U.S. v. Shoshone Tribe).",
-      "memoryHook": "T-Rexy says: Guests of 1878 who became co-owners of Wind River.",
+      "memoryHook": "Guests of 1878 who became co-owners of Wind River.",
       "tags": [
         "wyoming",
         "tribal",
@@ -2323,7 +2323,7 @@
       "img": {
         "dino": false,
         "scene": "A line of travelers with wagons crossing a sagebrush plain toward distant mountains in hard light. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Guests of 1878 who became co-owners of Wind River.",
+        "tip": "Guests of 1878 who became co-owners of Wind River.",
         "title": "THE SECOND NATION OF WIND RIVER"
       }
     },
@@ -2338,7 +2338,7 @@
       ],
       "difficulty": "hard",
       "explanation": "SS5.1.5.a teaches that the Northern Arapaho and Eastern Shoshone are sovereign nations, each with a General Council - the assembled adult membership - as its governing body, acting through elected business councils day to day and speaking by resolution.",
-      "memoryHook": "T-Rexy says: Each nation speaks through its General Council.",
+      "memoryHook": "Each nation speaks through its General Council.",
       "tags": [
         "wyoming",
         "tribal",
@@ -2350,7 +2350,7 @@
       "img": {
         "dino": false,
         "scene": "A large circle of people gathered outdoors for a tribal assembly, seen respectfully from a distance. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Each nation speaks through its General Council.",
+        "tip": "Each nation speaks through its General Council.",
         "title": "THE GENERAL COUNCIL"
       }
     },
@@ -2365,7 +2365,7 @@
       ],
       "difficulty": "easy",
       "explanation": "Inherent sovereignty is the core concept: tribes were self-governing long before the republic, treaties recognized rather than created that status, and tribal citizenship is a political status distinct from - and additional to - U.S. citizenship, which Congress extended to all Native Americans in 1924.",
-      "memoryHook": "T-Rexy says: Sovereignty retained, never granted.",
+      "memoryHook": "Sovereignty retained, never granted.",
       "tags": [
         "wyoming",
         "tribal",
@@ -2377,7 +2377,7 @@
       "img": {
         "dino": false,
         "scene": "Two flags flying side by side on separate poles at the same height in a clear sky. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Sovereignty retained, never granted.",
+        "tip": "Sovereignty retained, never granted.",
         "title": "INHERENT, NOT GRANTED"
       }
     },
@@ -2392,7 +2392,7 @@
       ],
       "difficulty": "easy",
       "explanation": "U.S. v. Shoshone Tribe of Indians (1938), a named SS12.1.3.a source, held the 1868 treaty conveyed the reservation's full beneficial interest - land, timber, and minerals - and that placing the Northern Arapaho there was a taking requiring payment.",
-      "memoryHook": "T-Rexy says: The tribe owned what lay beneath Wind River.",
+      "memoryHook": "The tribe owned what lay beneath Wind River.",
       "tags": [
         "wyoming",
         "tribal",
@@ -2404,7 +2404,7 @@
       "img": {
         "dino": false,
         "scene": "A forested mountain slope above a river valley, timber and rock in rich detail, no people. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: The tribe owned what lay beneath Wind River.",
+        "tip": "The tribe owned what lay beneath Wind River.",
         "title": "WHAT LAY BENEATH WIND RIVER"
       }
     },
@@ -2419,7 +2419,7 @@
       ],
       "difficulty": "easy",
       "explanation": "The 1905 Shoshone Reservation Congressional Act (SS12.4.1.a) is the Wyoming instance of the allotment-era pattern: agreement, cession, surplus-land opening - the reservation's present boundaries are its product.",
-      "memoryHook": "T-Rexy says: 1905: cession redrew the map.",
+      "memoryHook": "1905: cession redrew the map.",
       "tags": [
         "wyoming",
         "tribal",
@@ -2431,7 +2431,7 @@
       "img": {
         "dino": false,
         "scene": "An old surveyor's chain and stakes on open prairie grassland, a distant town on the horizon. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: 1905: cession redrew the map.",
+        "tip": "1905: cession redrew the map.",
         "title": "THE 1905 CESSION"
       }
     },
@@ -2446,7 +2446,7 @@
       ],
       "difficulty": "medium",
       "explanation": "The Fort Laramie Treaty of 1868 closed Red Cloud's War on the Lakota's terms: Forts Reno, Phil Kearny, and C.F. Smith were abandoned and burned. SS12.4.1.a names Red Cloud's War among the treaty events that shaped Wyoming.",
-      "memoryHook": "T-Rexy says: The forts were abandoned - the war's rare ending.",
+      "memoryHook": "The forts were abandoned - the war's rare ending.",
       "tags": [
         "wyoming",
         "history",
@@ -2458,7 +2458,7 @@
       "img": {
         "dino": false,
         "scene": "An empty frontier fort's parade ground with a flagpole, gates open, mountains behind in evening light. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: The forts were abandoned - the war's rare ending.",
+        "tip": "The forts were abandoned - the war's rare ending.",
         "title": "RED CLOUD'S WAR"
       }
     },
@@ -2473,7 +2473,7 @@
       ],
       "difficulty": "medium",
       "explanation": "The 1871 rider ended new treaties but expressly preserved existing ones; the Marshall Trilogy, the Per Capita Act, and cases like U.S. v. Shoshone Tribe (SS12.1.3.a) all work out what those surviving obligations mean in practice.",
-      "memoryHook": "T-Rexy says: 1871 ended new treaties, not old promises.",
+      "memoryHook": "1871 ended new treaties, not old promises.",
       "tags": [
         "wyoming",
         "tribal",
@@ -2485,7 +2485,7 @@
       "img": {
         "dino": false,
         "scene": "An old parchment document preserved in a glass frame beside newer printed statute books, all text illegible. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: 1871 ended new treaties, not old promises.",
+        "tip": "1871 ended new treaties, not old promises.",
         "title": "OLD PROMISES STILL BIND"
       }
     },
@@ -2500,7 +2500,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Wyoming has 23 counties governed by elected commissioners - the workhorse local level in a state with no townships - alongside municipalities, school districts, and, on Wind River, two tribal governments: the SS12.1.2 frame of tribal, local, state, and federal.",
-      "memoryHook": "T-Rexy says: Twenty-three counties run local Wyoming.",
+      "memoryHook": "Twenty-three counties run local Wyoming.",
       "tags": [
         "wyoming",
         "local-government"
@@ -2511,7 +2511,7 @@
       "img": {
         "dino": false,
         "scene": "A county courthouse in a small western town, pickup trucks parked along the main street. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Twenty-three counties run local Wyoming.",
+        "tip": "Twenty-three counties run local Wyoming.",
         "title": "TWENTY-THREE COUNTIES"
       }
     },
@@ -2526,7 +2526,7 @@
       ],
       "difficulty": "medium",
       "explanation": "Like the federal Article V in miniature, Wyoming amends its constitution by legislative proposal (two-thirds of both houses) followed by popular ratification - which is why Wyoming's initiative reaches statutes only, never the constitution.",
-      "memoryHook": "T-Rexy says: Legislature proposes, voters decide.",
+      "memoryHook": "Legislature proposes, voters decide.",
       "tags": [
         "wyoming",
         "constitution",
@@ -2538,7 +2538,7 @@
       "img": {
         "dino": false,
         "scene": "Voters entering a small-town polling place beneath a flag, ballots in hand, faces turned away. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Legislature proposes, voters decide.",
+        "tip": "Legislature proposes, voters decide.",
         "title": "CHANGING WYOMING'S CHARTER"
       }
     },
@@ -2553,7 +2553,7 @@
       ],
       "difficulty": "hard",
       "explanation": "Article 8 of the Wyoming Constitution made water a constitutional subject: state ownership of public waters, administration by the State Engineer, and 'first in time, first in right' appropriation - the legal skeleton of ranching and irrigation life.",
-      "memoryHook": "T-Rexy says: In Wyoming, water is constitutional law.",
+      "memoryHook": "In Wyoming, water is constitutional law.",
       "tags": [
         "wyoming",
         "constitution",
@@ -2565,7 +2565,7 @@
       "img": {
         "dino": false,
         "scene": "An irrigation canal carrying water through dry ranch land toward green fields, headgate in view. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: In Wyoming, water is constitutional law.",
+        "tip": "In Wyoming, water is constitutional law.",
         "title": "WATER IN THE CONSTITUTION"
       }
     },
@@ -2580,7 +2580,7 @@
       ],
       "difficulty": "hard",
       "explanation": "SS12.1.5's verb is structural - 'demonstrate an understanding of the structures of both the United States and Wyoming Constitutions' - and SS12.1.3 adds how the U.S. Constitution and treaties shaped tribal, local, state, and federal government in Wyoming. This pack is authored to exactly that spine.",
-      "memoryHook": "T-Rexy says: Structures and shaping forces - the SS12 spine.",
+      "memoryHook": "Structures and shaping forces - the SS12 spine.",
       "tags": [
         "wyoming",
         "standards"
@@ -2591,7 +2591,7 @@
       "img": {
         "dino": false,
         "scene": "Two architectural frameworks standing side by side - one marble, one sandstone - under construction scaffolding of light. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Structures and shaping forces - the SS12 spine.",
+        "tip": "Structures and shaping forces - the SS12 spine.",
         "title": "THE SS12 SPINE"
       }
     },
@@ -2606,7 +2606,7 @@
       ],
       "difficulty": "hard",
       "explanation": "Two senators like every state, three electoral votes as the constitutional floor (and the Twenty-third Amendment's yardstick), the first women's suffrage and first woman governor - Wyoming's civics footprint has never been proportional to its headcount, which is the point of the federal design.",
-      "memoryHook": "T-Rexy says: Small state, outsized footprint - by design.",
+      "memoryHook": "Small state, outsized footprint - by design.",
       "tags": [
         "wyoming",
         "federalism"
@@ -2617,7 +2617,7 @@
       "img": {
         "dino": false,
         "scene": "A lone bison standing on a ridge silhouetted against a vast sunset sky. No readable text, no words, no letters, no numbers anywhere in the image.",
-        "tip": "T-Rexy says: Small state, outsized footprint - by design.",
+        "tip": "Small state, outsized footprint - by design.",
         "title": "SMALL STATE, LARGE FOOTPRINT"
       }
     }
